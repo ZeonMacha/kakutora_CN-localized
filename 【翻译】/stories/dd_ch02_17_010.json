@@ -1,0 +1,763 @@
+{
+    "dir": "chap17/daydra/dd_ch02_17_010.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "17252",
+        "cid": "ayami",
+        "title": "Extra002 プレミアムストーリー",
+        "sub_title": "アイス屋さん",
+        "title_zh": "Extra002 额外剧情",
+        "sub_title_zh": "冰淇淋店"
+    },
+    "entry": [
+        {
+            "location": "7/SCENARIO",
+            "narrator": "",
+            "text": "アイス屋さん",
+            "zh": "冰淇淋店",
+            "narrator_zh": ""
+        },
+        {
+            "location": "24/TALK",
+            "narrator": "ガブリエラ",
+            "text": "はぁ…まだかしら？\nもう二十分くらい\n並んでるのに…。",
+            "zh": "哈啊……还没好吗？\n明明都已经排了\n二十分钟左右了……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "26/TALK",
+            "narrator": "アーヤ",
+            "text": "文句言わないの。\nもうすぐだから\n我慢しなさい。",
+            "zh": "别抱怨了。\n马上就到了，\n忍一忍吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "30/TALK",
+            "narrator": "つばめ",
+            "text": "でも、凄いですね！",
+            "zh": "不过，好厉害呀！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "つばめ",
+            "text": "アイス屋さんに\nこんな行列ができてる\nなんて、ビックリです。",
+            "zh": "冰淇淋店竟然\n排起这么长的队，\n真是吓了一跳。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "雛",
+            "text": "ここのアイス、すっごく\n美味しいからねー。",
+            "zh": "因为这家的冰淇淋\n超——好吃的嘛。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "34/TALK",
+            "narrator": "雛",
+            "text": "普通のだけじゃなくて、\nオリジナルフレーバーの\nアイスとか――",
+            "zh": "不只有普通口味，\n还有原创风味的\n冰淇淋啦——",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "35/TALK",
+            "narrator": "雛",
+            "text": "色んなトッピングができる\nアイスまで、沢山あるん\nだよ。",
+            "zh": "甚至能加各种配料的\n冰淇淋，种类可多\n啦。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "38/TALK",
+            "narrator": "つばめ",
+            "text": "そんなにあったら、\nどれにするか迷っちゃい\nそうだよ。",
+            "zh": "有那么多的话，\n感觉都要挑花眼\n了呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "40/TALK",
+            "narrator": "雛",
+            "text": "あそこの看板にメニュー\n載ってるよー。",
+            "zh": "那边的招牌上写着\n菜单哦——",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "42/TALK",
+            "narrator": "アーヤ",
+            "text": "へぇ…\n本当に沢山あるわね。",
+            "zh": "哎……\n真的有好多啊。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "44/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…あたし、あれにするわ。\nキャラメルチョコチップ、\nってやつ。",
+            "zh": "……我选那个吧。\n叫焦糖巧克力碎\n的那个。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "45/TALK",
+            "narrator": "雛",
+            "text": "おっ、新作だねー。\n甘くて美味しそうかも。",
+            "zh": "哦，是新品呢——\n甜甜的看起来好好吃。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "48/TALK",
+            "narrator": "つばめ",
+            "text": "う～ん…どれかなぁ…？\nあんまり変わったものは\n避けたいんだけど…。",
+            "zh": "唔……选哪个好呢……？\n太奇特的口味\n还是想避开就是了……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "50/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…じゃあ、あの辺から\n選んだら？\n結構美味しそうだし。",
+            "zh": "……那，从那边\n挑一个不就好了？\n看着还挺好吃的。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "51/TALK",
+            "narrator": "つばめ",
+            "text": "ベリー系ですか…。",
+            "zh": "浆果系的吗……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "52/TALK",
+            "narrator": "つばめ",
+            "text": "あっ！　決めました！\nわたし、あれにします！",
+            "zh": "啊！　决定了！\n我要点那个！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "55/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あれじゃわかんないって。\nどれのこと？",
+            "zh": "说那个谁知道呀。\n到底是哪个？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "つばめ",
+            "text": "ダブルベリー\nシャーベットです！",
+            "zh": "双莓\n雪葩！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "雛",
+            "text": "あのすっごい紫色の？\n見るからにベリーって\n感じだね。",
+            "zh": "那个超紫的吗？\n光看就觉得满满\n都是浆果味呢。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "61/TALK",
+            "narrator": "つばめ",
+            "text": "甘酸っぱくて\n美味しそう！",
+            "zh": "酸酸甜甜的\n看起来好好吃！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "62/TALK",
+            "narrator": "雛",
+            "text": "あたしはハニーチーズ\nクリームにしよっかなー。",
+            "zh": "我要不就点蜂蜜\n芝士奶油好啦——",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "雛",
+            "text": "綾水様は何にしますか？",
+            "zh": "绫水大人要选什么呢？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "アーヤ",
+            "text": "う～ん…………。",
+            "zh": "唔…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "66/TALK",
+            "narrator": "アーヤ",
+            "text": "そうだなぁ……、\nやっぱりオレンジ系が――",
+            "zh": "让我想想……\n果然还是柑橘系的——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "67/TALK",
+            "narrator": "アーヤ",
+            "text": "ううん、待って待って。\nやっぱりクリーム系の方が\n美味しそうだし…。",
+            "zh": "不对，等等等等。\n果然还是奶油系的\n看起来更好吃……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "68/TALK",
+            "narrator": "アーヤ",
+            "text": "でも、ギャヴィのも\n気になるし…う～ん…。",
+            "zh": "不过，加维点的那个\n也很在意……唔……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "70/TALK",
+            "narrator": "つばめ",
+            "text": "アーヤさん、\n凄く悩んじゃってます…。",
+            "zh": "绫水，\n纠结得不行了……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "71/TALK",
+            "narrator": "雛",
+            "text": "綾水様、アイスが\nお好きなんですね？",
+            "zh": "绫水大人，很喜欢\n吃冰淇淋呢？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "73/TALK",
+            "narrator": "ガブリエラ",
+            "text": "珍しいアイスが多くて、\n目移りしてるだけでしょ。",
+            "zh": "只是因为少见的冰淇淋太多，\n看花眼了吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "つばめ",
+            "text": "そろそろ決めないと、\n順番来ちゃいますよ？",
+            "zh": "再不决定的话，\n马上就要轮到我们了哦？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "77/TALK",
+            "narrator": "アーヤ",
+            "text": "…ちょっと集中するわ。\nギリギリまで考えて\nみるから。",
+            "zh": "……我稍微集中一下。\n趁着还没到，再想到\n最后一刻。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "アーヤ",
+            "text": "どうしよー(＞＜)",
+            "zh": "怎么办呀(＞＜)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "94/TALK",
+            "narrator": "アーヤ",
+            "text": "どのアイスにするか決まらないの！",
+            "zh": "选不出来要点哪个冰淇淋了！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "96/SEL",
+            "narrator": "",
+            "text": "全部頼めば？",
+            "zh": "干脆全点了吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "97/ACT",
+            "narrator": "",
+            "text": "全部頼めば？",
+            "zh": "干脆全点了吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "99/TALK",
+            "narrator": "アーヤ",
+            "text": "無理！",
+            "zh": "不行！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "アーヤ",
+            "text": "五つ以上あるし(-ω-;)",
+            "zh": "有五个以上呢(-ω-;)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "101/TALK",
+            "narrator": "アーヤ",
+            "text": "どうすればいいか、一緒に考えて(TωT)",
+            "zh": "该怎么办才好，快帮我一起想想(TωT)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "103/SEL",
+            "narrator": "",
+            "text": "トリプルいっちゃう？",
+            "zh": "干脆挑战三球？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "104/SEL",
+            "narrator": "",
+            "text": "ダブルで注文",
+            "zh": "点双球",
+            "narrator_zh": ""
+        },
+        {
+            "location": "105/SEL",
+            "narrator": "",
+            "text": "次の楽しみを残そう",
+            "zh": "留作下次的期待吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "106/ACT",
+            "narrator": "",
+            "text": "トリプルいっちゃう？",
+            "zh": "干脆挑战三球？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "108/TALK",
+            "narrator": "アーヤ",
+            "text": "そんなに食べたら",
+            "zh": "吃那么多的话",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "109/TALK",
+            "narrator": "アーヤ",
+            "text": "食べ終わった時、体が冷えちゃうわ",
+            "zh": "吃完的时候，身体会冻着的",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "110/TALK",
+            "narrator": "アーヤ",
+            "text": "…まあ",
+            "zh": "……不过",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "111/TALK",
+            "narrator": "アーヤ",
+            "text": "我慢できなくはないけど…",
+            "zh": "倒也不是忍不了……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "122/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "131/TALK",
+            "narrator": "ガブリエラ",
+            "text": "アーヤ、あたし達の番よ。",
+            "zh": "绫水，轮到我们了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "134/TALK",
+            "narrator": "ウェイトレス",
+            "text": "いらっしゃいませ。\n何にいたしますか？",
+            "zh": "欢迎光临。\n请问要点什么？",
+            "narrator_zh": "女服务员"
+        },
+        {
+            "location": "135/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "136/TALK",
+            "narrator": "ウェイトレス",
+            "text": "……？",
+            "zh": "……？",
+            "narrator_zh": "女服务员"
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "アーヤ",
+            "text": "クリームチーズと\nアーモンドキャラメル、\nそれとハーブレモン――",
+            "zh": "奶油芝士和\n杏仁焦糖，\n还有香草柠檬——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "139/TALK",
+            "narrator": "アーヤ",
+            "text": "トリプルでお願いします。",
+            "zh": "麻烦给我来个三球。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "ガブリエラ",
+            "text": "屋台のアイス屋で\nトリプル！？",
+            "zh": "在路边摊冰淇淋店\n点三球！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "145/TALK",
+            "narrator": "アーヤ",
+            "text": "し、仕方ないじゃない。\n選べなかったんだから…。",
+            "zh": "这、这也是没办法的事吧。\n因为实在选不出来嘛……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "148/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…身体冷えても\n知らないわよ？",
+            "zh": "……吃得浑身发冷\n我可不管哦？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "161/TALK",
+            "narrator": "雛",
+            "text": "あ～、美味しかったー！",
+            "zh": "啊～，好好吃啊——！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "163/TALK",
+            "narrator": "つばめ",
+            "text": "うん！　こんなに美味しい\nアイス、初めて食べたよ。",
+            "zh": "嗯！　这么好吃的\n冰淇淋，还是头一次吃呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "164/TALK",
+            "narrator": "つばめ",
+            "text": "また来ようね。",
+            "zh": "下次再来吧。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "167/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…アーヤ、大丈夫？",
+            "zh": "……绫水，没事吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "169/TALK",
+            "narrator": "アーヤ",
+            "text": "え、ええ…。",
+            "zh": "嗯、嗯……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "170/TALK",
+            "narrator": "アーヤ",
+            "text": "どのアイスも、\n凄く美味しかったわ。",
+            "zh": "每一种冰淇淋，\n都特别好吃。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "172/TALK",
+            "narrator": "雛",
+            "text": "みたいですね。\n凄く美味しそうに\n食べてましたし。",
+            "zh": "看得出来呢。\n吃得特别香\n的样子。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "174/TALK",
+            "narrator": "ガブリエラ",
+            "text": "二個目を食べ終わった時、\n少し身体震えてたけど？",
+            "zh": "不过吃完第二个的时候，\n身体有点在发抖吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "180/TALK",
+            "narrator": "アーヤ",
+            "text": "あ、あはは…\nちょっと無理しちゃった\nかもしれないわね。",
+            "zh": "啊、啊哈哈……\n可能是稍微有点\n勉强自己了呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "181/TALK",
+            "narrator": "アーヤ",
+            "text": "ちょっと冷えちゃった\nみたい。",
+            "zh": "好像有点\n着凉了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "183/TALK",
+            "narrator": "雛",
+            "text": "屋台のアイス屋で\nトリプルは、少し\n無謀でしたねー。",
+            "zh": "在路边摊冰淇淋店\n点三球，还是有点\n太勉强了呢——",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "186/TALK",
+            "narrator": "つばめ",
+            "text": "見てるこっちまで\n寒くなっちゃいました。",
+            "zh": "连我在旁边看着\n都觉得冷起来了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "189/TALK",
+            "narrator": "ガブリエラ",
+            "text": "とりあえず、場所移そ。\n喫茶店でお茶でも飲めば、\nすぐに温まるわよ。",
+            "zh": "总之，先换个地方吧。\n去咖啡馆喝杯热茶什么的，\n马上就暖和过来了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "191/TALK",
+            "narrator": "アーヤ",
+            "text": "そ、そうね…。\n今は熱い紅茶で、\nゆっくり温まりたいわ。",
+            "zh": "说、说的也是……。\n现在好想喝杯热红茶，\n慢慢暖和过来。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "195/TALK",
+            "narrator": "ガブリエラ",
+            "text": "熱い紅茶の\nトリプルはやめてよ？",
+            "zh": "热红茶可别也\n点三杯哦？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "199/TALK",
+            "narrator": "アーヤ",
+            "text": "やらないわよ、もう…。",
+            "zh": "才不会了啦，真是的……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "200/ACT",
+            "narrator": "",
+            "text": "ダブルで注文",
+            "zh": "点双球",
+            "narrator_zh": ""
+        },
+        {
+            "location": "201/TALK",
+            "narrator": "アーヤ",
+            "text": "ダブルかぁ…",
+            "zh": "双球吗……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "202/TALK",
+            "narrator": "アーヤ",
+            "text": "二つなら、どうにか決められるかも",
+            "zh": "两个的话，说不定还能定下来",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "203/TALK",
+            "narrator": "アーヤ",
+            "text": "ありがと、ダブルにするわ",
+            "zh": "谢谢，我就点双球了",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "214/TALK",
+            "narrator": "アーヤ",
+            "text": "ヘーゼルナッツチョコと、\nピーチストロベリーの\nダブルにするわ。",
+            "zh": "我要榛子巧克力和\n蜜桃草莓的\n双球。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "216/TALK",
+            "narrator": "ガブリエラ",
+            "text": "トリプルじゃなくて\nいいの？",
+            "zh": "不点三球\n可以吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "219/TALK",
+            "narrator": "アーヤ",
+            "text": "さすがに、トリプルは\n食べ過ぎだと思うし――",
+            "zh": "三球的话，果然还是\n吃太多了——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "220/TALK",
+            "narrator": "アーヤ",
+            "text": "ダブルだったら二つは\n食べれるから、どうにか\n選べたわ。",
+            "zh": "双球的话能吃\n两个，总算是\n挑出来了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "223/TALK",
+            "narrator": "つばめ",
+            "text": "また来ましょうね、\nアーヤさん。",
+            "zh": "下次再来吧，\n绫水。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "225/TALK",
+            "narrator": "雛",
+            "text": "食べる前にする話じゃ\nないって。",
+            "zh": "这不是还没吃之前\n该说的话吧。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "228/TALK",
+            "narrator": "アーヤ",
+            "text": "…でも、今のうちに、\n次来た時に何を食べるか\n選んでおこうかしら？",
+            "zh": "……不过，要不趁现在，\n先挑好下次来的时候\n吃什么呢？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "229/ACT",
+            "narrator": "",
+            "text": "次の楽しみを残そう",
+            "zh": "留作下次的期待吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "230/TALK",
+            "narrator": "アーヤ",
+            "text": "次の楽しみ以前に",
+            "zh": "比起下次的期待",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "231/TALK",
+            "narrator": "アーヤ",
+            "text": "今日どうしようかを聞いてるのに…",
+            "zh": "我明明在问今天怎么办才好啊……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "232/TALK",
+            "narrator": "アーヤ",
+            "text": "そろそろ順番来ちゃうから、いいわ(TεT)",
+            "zh": "马上就要轮到我了，算了(TεT)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "244/TALK",
+            "narrator": "アーヤ",
+            "text": "はぁ…。",
+            "zh": "哈啊……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "247/TALK",
+            "narrator": "ガブリエラ",
+            "text": "まだ決まってないの？",
+            "zh": "还没决定好吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "248/TALK",
+            "narrator": "ガブリエラ",
+            "text": "もう、どれを食べたいのか\n一つずつ言ってみて。",
+            "zh": "真是的，把你想吃的\n一个一个说出来试试。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "250/TALK",
+            "narrator": "アーヤ",
+            "text": "えっと…キャラメル\nチョコレートと…。",
+            "zh": "那个……焦糖\n巧克力和……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "251/TALK",
+            "narrator": "ガブリエラ",
+            "text": "はい、今日食べるのは\nそれで決定！",
+            "zh": "好，今天吃什么\n就这么决定了！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "254/TALK",
+            "narrator": "アーヤ",
+            "text": "え、えぇっ！？\n勝手に決めないでよ！",
+            "zh": "哎、哎哎！？\n别擅自帮我决定啊！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "257/TALK",
+            "narrator": "ガブリエラ",
+            "text": "自分で決められないから、\n代わりに決めてあげたん\nじゃない。",
+            "zh": "因为你自己定不下来，\n我才替你决定的\n不是吗。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "258/TALK",
+            "narrator": "ガブリエラ",
+            "text": "それとも、食べたくない\nアイスなの？",
+            "zh": "还是说，这是你\n不想吃的冰淇淋？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "261/TALK",
+            "narrator": "アーヤ",
+            "text": "そうじゃないけど…。",
+            "zh": "倒也不是那样……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "263/TALK",
+            "narrator": "ガブリエラ",
+            "text": "じゃあ決まりね。",
+            "zh": "那就这么定了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "266/TALK",
+            "narrator": "つばめ",
+            "text": "ガ、ガブちゃん…\n凄いですね。",
+            "zh": "加、加布……\n好厉害呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "267/TALK",
+            "narrator": "雛",
+            "text": "うん…悩んだ時は\nそういう決め方を\nすれば良いんだね…。",
+            "zh": "嗯……拿不定主意的时候\n用这种决定方式\n就行了呢……。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "268/TALK",
+            "narrator": "雛",
+            "text": "なんか、勉強になったよ。",
+            "zh": "总觉得，学到了呢。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "270/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "271/TALK",
+            "narrator": "ガブリエラ",
+            "text": "何よ、まだ不満なの？",
+            "zh": "干嘛，还不满意吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "273/TALK",
+            "narrator": "アーヤ",
+            "text": "う、ううん。\n決まってよかった、って\n思ってるわ。",
+            "zh": "没、没有。\n我在想，幸好\n定下来了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "276/TALK",
+            "narrator": "アーヤ",
+            "text": "でも、決めたら他のが\n気になった、なんて…\nさすがに言えないわ。",
+            "zh": "不过，定下来之后反而更在意\n其他口味了这种话……\n实在是说不出口啊。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "278/TALK",
+            "narrator": "アーヤ",
+            "text": "私、優柔不断なのかしら？",
+            "zh": "我是不是太优柔寡断了？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "21/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>7月11日　4:08 PM</color>\nとある平日の放課後、某アイス屋にて。",
+            "zh": "<color=green>7月11日　4:08 PM</color>\n某个工作日的放学后，在某家冰淇淋店。",
+            "narrator_zh": "Dialog_EventData"
+        }
+    ]
+}

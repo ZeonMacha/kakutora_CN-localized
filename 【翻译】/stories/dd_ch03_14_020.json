@@ -1,0 +1,854 @@
+{
+    "dir": "chap14/daydra/dd_ch03_14_020.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "14356",
+        "cid": "gabriella",
+        "title": "Extra005 プレミアムストーリー",
+        "sub_title": "國政綾水と大遅刻！",
+        "title_zh": "Extra005 额外剧情",
+        "sub_title_zh": "与国政绫水大迟到！"
+    },
+    "entry": [
+        {
+            "location": "285/SCENARIO",
+            "narrator": "",
+            "text": "アーヤＭＶ回２",
+            "zh": "绫水MV回2",
+            "narrator_zh": ""
+        },
+        {
+            "location": "296/TALK",
+            "narrator": "つばめ",
+            "text": "えーっと、\n鍵、鍵、っと…。",
+            "zh": "嗯——那个，\n钥匙、钥匙，拿好……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "302/TALK",
+            "narrator": "ガブリエラ",
+            "text": "つばめ、\nもう学校行くの？",
+            "zh": "燕，\n已经要去学校了吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "304/TALK",
+            "narrator": "つばめ",
+            "text": "今日は日直だから。\nガブちゃん、どこか\n行ってたの？",
+            "zh": "因为今天是我值日呀。\n加布，你刚才去哪儿\n了呀？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "305/TALK",
+            "narrator": "ガブリエラ",
+            "text": "早起きしたから、\nジョギングにね。",
+            "zh": "起得早嘛，\n去慢跑了一趟。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "306/TALK",
+            "narrator": "つばめ",
+            "text": "わぁ、朝から走る\nなんて凄いなぁ…。",
+            "zh": "哇，大清早还去跑步\n好厉害呀……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "307/TALK",
+            "narrator": "ガブリエラ",
+            "text": "つばめも走ったら？\nただでさえどんくさい\nんだし。",
+            "zh": "燕你也跑跑怎么样？\n你本来就够笨手笨脚\n的了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "309/TALK",
+            "narrator": "つばめ",
+            "text": "あ、あはは…。\n早起きできた日は\nやるようにするよ。",
+            "zh": "啊、哈哈……。\n能早起的日子\n我会试着跑一跑的。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "310/TALK",
+            "narrator": "つばめ",
+            "text": "それじゃ、学校でね。",
+            "zh": "那，学校见啦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "323/TALK",
+            "narrator": "ガブリエラ",
+            "text": "さて、と…。\n登校までまだ時間が\nあるし…。",
+            "zh": "那么……。\n离去上学还有点\n时间……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "324/SEL",
+            "narrator": "",
+            "text": "おはよう",
+            "zh": "早安",
+            "narrator_zh": ""
+        },
+        {
+            "location": "325/ACT",
+            "narrator": "",
+            "text": "おはよう",
+            "zh": "早安",
+            "narrator_zh": ""
+        },
+        {
+            "location": "342/TALK",
+            "narrator": "ガブリエラ",
+            "text": "おはよう",
+            "zh": "早安",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "343/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あなたも起きてたのね？",
+            "zh": "你也已经起来了呀？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "345/SEL",
+            "narrator": "",
+            "text": "朝から元気だね",
+            "zh": "大清早的真有精神呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "346/ACT",
+            "narrator": "",
+            "text": "朝から元気だね",
+            "zh": "大清早的真有精神呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "348/TALK",
+            "narrator": "ガブリエラ",
+            "text": "まあね",
+            "zh": "那是当然",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "349/TALK",
+            "narrator": "ガブリエラ",
+            "text": "肉体の鍛錬は精神の鍛練にもなるのよ",
+            "zh": "肉体的锻炼同时也是精神的锻炼哦",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "350/TALK",
+            "narrator": "ガブリエラ",
+            "text": "戦士としても",
+            "zh": "不管是作为战士",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "351/TALK",
+            "narrator": "ガブリエラ",
+            "text": "レディとしても",
+            "zh": "还是作为淑女",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "352/TALK",
+            "narrator": "ガブリエラ",
+            "text": "必要な訓練なのよ",
+            "zh": "这都是必不可少的训练呢",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "353/TALK",
+            "narrator": "ガブリエラ",
+            "text": "それじゃ学校行く準備するから",
+            "zh": "那我去准备上学了",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "354/TALK",
+            "narrator": "ガブリエラ",
+            "text": "また後でね",
+            "zh": "回头再聊啦",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "366/TALK",
+            "narrator": "ガブリエラ",
+            "text": "さてと…、\nまずはシャワーを\n浴びないとね…。",
+            "zh": "好啦……，\n首先得去冲个澡\n才行……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "378/TALK",
+            "narrator": "アーヤ",
+            "text": "まだ八時か…。",
+            "zh": "才八点啊……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "379/TALK",
+            "narrator": "アーヤ",
+            "text": "今日は朝一の講義も\nないし――",
+            "zh": "今天早上一大早\n也没有课——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "380/TALK",
+            "narrator": "アーヤ",
+            "text": "モーニングでも\n食べに行こうかしら？",
+            "zh": "要不出去吃个\n早间套餐吧？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "382/TALK",
+            "narrator": "ガブリエラ",
+            "text": "えぇぇぇぇーっ！？",
+            "zh": "哎哎哎哎——！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "384/TALK",
+            "narrator": "アーヤ",
+            "text": "な、なに！？\n何事！？",
+            "zh": "什、什么！？\n怎么了！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "392/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ヤバい！\nヤバいヤバいヤバい！",
+            "zh": "糟了！\n糟了糟了糟了！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "393/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あたしのバカバカ！\nせっかく早起きした\nっていうのに――",
+            "zh": "我这个大笨蛋！\n明明好不容易早起了\n一回的——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "394/TALK",
+            "narrator": "ガブリエラ",
+            "text": "二度寝しちゃったら\n意味ないじゃない！",
+            "zh": "结果睡了个回笼觉，\n那不就白费工夫了吗！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "395/TALK",
+            "narrator": "アーヤ",
+            "text": "…ギャヴィ？",
+            "zh": "……加维？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "397/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あ、アーヤっ！？",
+            "zh": "啊、绫水！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "399/TALK",
+            "narrator": "アーヤ",
+            "text": "えっ？　まだいたの？\nだってあなた…。",
+            "zh": "哎？　你还没出门吗？\n不是，你……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "401/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…最悪。",
+            "zh": "……完蛋了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "402/TALK",
+            "narrator": "ガブリエラ",
+            "text": "遅刻確定な上に、\nお説教とか――",
+            "zh": "不仅铁定要迟到了，\n还要被说教什么的——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "403/TALK",
+            "narrator": "ガブリエラ",
+            "text": "学校ある日に\nジョギングなんか\nしなきゃよかった…。",
+            "zh": "早知道有课的日子里\n就不该去\n慢跑的……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "404/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "406/TALK",
+            "narrator": "アーヤ",
+            "text": "…仕方ないわね。\n送ってあげるわ。",
+            "zh": "……真拿你没办法。\n我送你过去吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "408/TALK",
+            "narrator": "ガブリエラ",
+            "text": "え？",
+            "zh": "哎？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "410/TALK",
+            "narrator": "アーヤ",
+            "text": "バイク出すから、\n玄関で待ってて。",
+            "zh": "我去把摩托车推出来，\n你在玄关等着。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "413/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "414/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あれ？",
+            "zh": "咦？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "428/TALK",
+            "narrator": "アーヤ",
+            "text": "ふぅ…どうにか\n間に合ったわね。",
+            "zh": "呼……总算是\n赶上了呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "430/TALK",
+            "narrator": "アーヤ",
+            "text": "ほら、ギャヴィ。\n降りて。",
+            "zh": "好啦，加维。\n下车吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "434/TALK",
+            "narrator": "ガブリエラ",
+            "text": "う、うぅ…。\n本当、運転荒いん\nだから…。",
+            "zh": "唔、唔唔……。\n真是的，你车开得\n也太野了……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "435/TALK",
+            "narrator": "アーヤ",
+            "text": "大袈裟ね。\n間に合ったんだから\nいいじゃない。",
+            "zh": "少夸张了。\n反正赶上了\n不就行了吗。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "437/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そ、それはそう\nだけど…。",
+            "zh": "话、话是这么说\n没错……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "438/TALK",
+            "narrator": "アーヤ",
+            "text": "ならいいじゃない。",
+            "zh": "那不就得了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "440/TALK",
+            "narrator": "アーヤ",
+            "text": "さて、と…、\n私はどうしよう\nかしら？",
+            "zh": "那么……，\n我接下来干什么\n好呢？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "442/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "454/TALK",
+            "narrator": "ガブリエラ",
+            "text": "マルザンナ",
+            "zh": "玛尔赞娜",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "456/TALK",
+            "narrator": "ガブリエラ",
+            "text": "今日のアーヤ変じゃない？",
+            "zh": "今天的绫水是不是有点反常？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "457/TALK",
+            "narrator": "ガブリエラ",
+            "text": "こういう時",
+            "zh": "像这种时候",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "458/TALK",
+            "narrator": "ガブリエラ",
+            "text": "いつもなら小言の一つはあるはずなのに",
+            "zh": "换作平时她肯定会唠叨我几句的",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "459/TALK",
+            "narrator": "ガブリエラ",
+            "text": "今日はそれがないんだもの",
+            "zh": "今天却一句都没有呢",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "460/TALK",
+            "narrator": "ガブリエラ",
+            "text": "しかも",
+            "zh": "而且",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "461/TALK",
+            "narrator": "ガブリエラ",
+            "text": "わざわざバイクで送ってまでくれるなんて",
+            "zh": "还特意骑摩托车送我过来",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "462/TALK",
+            "narrator": "ガブリエラ",
+            "text": "わけがわからないんだけど？",
+            "zh": "完全搞不懂她是怎么回事啊？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "463/TALK",
+            "narrator": "ガブリエラ",
+            "text": "っていうか",
+            "zh": "应该说",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "464/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ちょっと怖いわ",
+            "zh": "感觉有点吓人啊",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "466/SEL",
+            "narrator": "",
+            "text": "後で怒るつもりかも",
+            "zh": "说不定是打算待会儿再发火",
+            "narrator_zh": ""
+        },
+        {
+            "location": "467/SEL",
+            "narrator": "",
+            "text": "それより、お礼言わないと",
+            "zh": "比起那个，得先道谢吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "468/ACT",
+            "narrator": "",
+            "text": "後で怒るつもりかも",
+            "zh": "说不定是打算待会儿再发火",
+            "narrator_zh": ""
+        },
+        {
+            "location": "469/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ありえるわね",
+            "zh": "确实有可能呢",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "470/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だからあんなにバイクを飛ばしたのかも",
+            "zh": "说不定正因为这样才把车骑得那么快",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "471/TALK",
+            "narrator": "ガブリエラ",
+            "text": "それなら納得だわ",
+            "zh": "这么一想就说得通了",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "472/TALK",
+            "narrator": "ガブリエラ",
+            "text": "早く逃げた方がいいわね",
+            "zh": "还是赶紧溜吧",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "484/TALK",
+            "narrator": "アーヤ",
+            "text": "じゃあギャヴィ。\n私はこのまま――",
+            "zh": "那加维。\n我就直接回——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "485/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ありがとアーヤ！\nそれじゃあたし、\n急ぐから！",
+            "zh": "谢谢你绫水！\n那我赶时间，\n先走一步啦！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "492/TALK",
+            "narrator": "アーヤ",
+            "text": "あ、ちょっと！",
+            "zh": "啊，等一下！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "494/TALK",
+            "narrator": "アーヤ",
+            "text": "…まったく。\nそんなに慌てなくても\n間に合うのに…。",
+            "zh": "……真是的。\n用不着这么慌张\n也来得及的啊……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "495/ACT",
+            "narrator": "",
+            "text": "それより、お礼言わないと",
+            "zh": "比起那个，得先道谢吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "497/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうよね",
+            "zh": "说得也是呢",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "498/TALK",
+            "narrator": "ガブリエラ",
+            "text": "何であれ",
+            "zh": "不管怎么说",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "499/TALK",
+            "narrator": "ガブリエラ",
+            "text": "遅刻しなかったのはアーヤのおかげだし",
+            "zh": "没迟到都是多亏了绫水",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "500/TALK",
+            "narrator": "ガブリエラ",
+            "text": "お礼はちゃんとしないと",
+            "zh": "必须好好道谢才行",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "502/TALK",
+            "narrator": "ガブリエラ",
+            "text": "礼儀のなってないレディは",
+            "zh": "不懂礼貌的淑女",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "503/TALK",
+            "narrator": "ガブリエラ",
+            "text": "レディ失格よね",
+            "zh": "可算不上合格的淑女呢",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "516/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…あの、アーヤ。",
+            "zh": "……那个，绫水。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "517/TALK",
+            "narrator": "ガブリエラ",
+            "text": "本当、助かったわ。\n送ってくれて\nありがと。",
+            "zh": "真的，帮大忙了。\n谢谢你骑车\n送我过来。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "520/TALK",
+            "narrator": "アーヤ",
+            "text": "どういたしまして。\nでも――",
+            "zh": "不用客气。\n不过——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "521/TALK",
+            "narrator": "アーヤ",
+            "text": "登校前のジョギングは\nこれからは控えた方が\nいいかもね。",
+            "zh": "上学前的慢跑，\n以后还是少去\n比较好哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "523/TALK",
+            "narrator": "ガブリエラ",
+            "text": "えっ！\n知ってたの！？",
+            "zh": "哎！？\n你早就知道了吗！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "524/TALK",
+            "narrator": "アーヤ",
+            "text": "ええ。私も起きてて、\n部屋でストレッチ\nやってたから。",
+            "zh": "嗯。当时我也醒着，\n正在房间里做\n拉伸运动呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "525/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そっか…。",
+            "zh": "这样啊……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "527/TALK",
+            "narrator": "ガブリエラ",
+            "text": "なぁんだ…。\nだから怒らなかった\nのね…。",
+            "zh": "什么嘛……。\n所以才没有\n发火啊……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "528/TALK",
+            "narrator": "アーヤ",
+            "text": "何よそれ？\nそんなしょっちゅう\n怒らないでしょ？",
+            "zh": "什么叫所以才？\n我哪有那么动不动\n就发火啊？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "530/TALK",
+            "narrator": "ガブリエラ",
+            "text": "いや、怒るでしょ？",
+            "zh": "不，你会发火的吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "531/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だから、ずっと不安\nだったんじゃない…。",
+            "zh": "正因为这样，我才一直\n提心吊胆的啊……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "532/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "534/TALK",
+            "narrator": "アーヤ",
+            "text": "そ、そう…私って、\n結構怒りやすい性格\nだったのね…。",
+            "zh": "这、这样啊……原来我是\n这么容易发火的\n性格吗……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "535/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…あ、あれ？\nもしかして、ショック\n受けちゃってる？",
+            "zh": "……啊、咦？\n难道说，她受到\n打击了吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "537/TALK",
+            "narrator": "アーヤ",
+            "text": "そりゃ、ちょっと\n注意くらいはすると\n思うけど――",
+            "zh": "虽说，稍微说教\n几句的情况\n倒是有过——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "538/TALK",
+            "narrator": "アーヤ",
+            "text": "そんな怒ってはいない\nつもりだったのに…。",
+            "zh": "但我一直觉得自己\n并没有怎么生气呀……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "539/TALK",
+            "narrator": "ガブリエラ",
+            "text": "え、えっと…。",
+            "zh": "哎、那个……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "540/TALK",
+            "narrator": "アーヤ",
+            "text": "もしかして、\n気付かない間に――",
+            "zh": "难道说，\n在不知不觉间——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "541/TALK",
+            "narrator": "アーヤ",
+            "text": "結構キツい性格に\nなっちゃってたの\nかしら？",
+            "zh": "我已经变成一个\n这么凶巴巴的\n人了吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "542/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だ、大丈夫よ！\nそこまでじゃない\nから、本当！",
+            "zh": "没、没那回事！\n真没到那种程度，\n真的啦！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "543/TALK",
+            "narrator": "ガブリエラ",
+            "text": "それにアーヤは、\n相手に非がある\n時に――",
+            "zh": "而且绫水你也只是在\n对方确实有错的\n时候——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "544/TALK",
+            "narrator": "ガブリエラ",
+            "text": "軽く注意するだけ、\nだし…。",
+            "zh": "稍微提醒一下而已，\n罢了……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "545/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…そうよ。\nアーヤは頭ごなしに\n怒ったりしないわ。",
+            "zh": "……没错。\n绫水才不会劈头盖脸地\n乱发脾气呢。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "546/TALK",
+            "narrator": "ガブリエラ",
+            "text": "でも、どうしていつも\n言い争いみたいに――",
+            "zh": "可是，为什么每次都\n闹得像吵架一样——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "547/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…言い争い？",
+            "zh": "……像吵架一样？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "549/TALK",
+            "narrator": "アーヤ",
+            "text": "本当にそう？\nちょっと、本気で\n心配なんだけど…。",
+            "zh": "真的吗？\n我稍微、有点\n认真地在担心了……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "550/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だ、大丈夫だから！\n本当、心配しなくて\nいいから…。",
+            "zh": "没、真的没事啦！\n真的，完全不用\n担心的……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "551/TALK",
+            "narrator": "ガブリエラ",
+            "text": "アーヤがいつも\n怒ってるように\n思えるのって――",
+            "zh": "之所以总是显得\n好像绫水在发火\n一样——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "553/TALK",
+            "narrator": "ガブリエラ",
+            "text": "毎回、あたしが\n言い返しちゃうのが\n原因だわ…。",
+            "zh": "全都是因为每次\n我都要顶嘴才\n害的啦……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "554/TALK",
+            "narrator": "ガブリエラ",
+            "text": "本当、気にする必要\nないから。",
+            "zh": "真的，用不着\n放在心上。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "555/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あたしも、ちょっと\n大げさに言っちゃった\nだけだし…。",
+            "zh": "也都是我刚才\n说得稍微夸张了\n一点而已……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "556/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうよ。\nアーヤは面倒見も\nいいし――",
+            "zh": "对啊。\n绫水既很会照顾人\n又体贴——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "557/TALK",
+            "narrator": "ガブリエラ",
+            "text": "困ってる時には\n助けてくれる、\n頼りになる人よ。",
+            "zh": "在别人遇到困难时\n总是会伸出援手，\n是个很可靠的人哦。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "558/TALK",
+            "narrator": "ガブリエラ",
+            "text": "今日もあたしのために\nバイクで送ってくれ\nたし…。",
+            "zh": "今天也是为了我\n特地骑摩托车送我\n过来的……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "560/TALK",
+            "narrator": "アーヤ",
+            "text": "そ、そう…。\nちょっと安心したわ。",
+            "zh": "是、是吗……。\n那我稍微放心了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "562/TALK",
+            "narrator": "ガブリエラ",
+            "text": "と、とにかく、\nそういうことだから！\n元気出しなさいよね。",
+            "zh": "总、总之，\n就是这么回事！\n你打起精神来呀。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "563/TALK",
+            "narrator": "ガブリエラ",
+            "text": "じゃあ、教室行くわ。\n本当ありがと。",
+            "zh": "那我先去教室了。\n今天真的谢谢你。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "565/TALK",
+            "narrator": "アーヤ",
+            "text": "うん。\nいってらっしゃい。",
+            "zh": "嗯。\n路上小心。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "566/TALK",
+            "narrator": "ガブリエラ",
+            "text": "今度注意された時は、\n言い返さないように\nするからね…。",
+            "zh": "下次再被你提醒的时候，\n我会尽量不顶嘴\n的了……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "294/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>7月14日　6:34 AM</color>\nとある平日の朝、寮「とらいあんぐる」つばめの部屋前。",
+            "zh": "<color=green>7月14日　6:34 AM</color>\n某个平日的清晨，宿舍“三角”燕的房间门前。",
+            "narrator_zh": "Dialog_EventData"
+        }
+    ]
+}
