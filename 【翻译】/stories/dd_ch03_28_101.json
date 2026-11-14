@@ -1,0 +1,1610 @@
+{
+    "dir": "chap28/daydra/dd_ch03_28_101.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "28302",
+        "cid": "gabriella",
+        "title": "002 メインストーリー",
+        "sub_title": "蝶々のささやき＜前編＞",
+        "title_zh": "002 主线剧情",
+        "sub_title_zh": "蝴蝶的低语＜前篇＞"
+    },
+    "entry": [
+        {
+            "location": "7/SCENARIO",
+            "narrator": "",
+            "text": "蝶々のささやき",
+            "zh": "蝴蝶的低语",
+            "narrator_zh": ""
+        },
+        {
+            "location": "28/TALK",
+            "narrator": "ガブリエラ",
+            "text": "本当に神社なのね。\nアーヤのうちは。",
+            "zh": "真的是神社呀。\n绫水家里。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "30/TALK",
+            "narrator": "アーヤ",
+            "text": "山の奥すぎて\nびっくりしたでしょ？",
+            "zh": "在这么深的山里，\n吓了一跳吧？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そういうところも\n素敵じゃない。",
+            "zh": "这种地方不也\n挺不错的嘛。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "アーヤ",
+            "text": "全然よ。\n三日で飽きるわ\nこんなところ。",
+            "zh": "才怪呢。\n待三天就会腻了，\n这种地方。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "45/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ねえ$marzanna$",
+            "zh": "呐$marzanna$",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "46/TALK",
+            "narrator": "ガブリエラ",
+            "text": "アーヤの話し相手になってって",
+            "zh": "你让我当绫水的说话对象",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "47/TALK",
+            "narrator": "ガブリエラ",
+            "text": "こういうところ？",
+            "zh": "就是指这种事吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "48/TALK",
+            "narrator": "ガブリエラ",
+            "text": "アーヤはおうちが",
+            "zh": "绫水她是不是",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "49/TALK",
+            "narrator": "ガブリエラ",
+            "text": "嫌いなのかしら？",
+            "zh": "讨厌自己家呀？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "51/SEL",
+            "narrator": "",
+            "text": "うーん……",
+            "zh": "唔嗯……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "52/SEL",
+            "narrator": "",
+            "text": "ちょっと違うけど",
+            "zh": "稍微有点不一样哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "53/SEL",
+            "narrator": "",
+            "text": "もっと色々聞いてみたらどうかな",
+            "zh": "试着多打听点其他事情怎么样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "54/ACT",
+            "narrator": "",
+            "text": "うーん……",
+            "zh": "唔嗯……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "55/TALK",
+            "narrator": "ガブリエラ",
+            "text": "それとも照れてるだけなのかしら？",
+            "zh": "还是说她只是害羞了呢？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だったらいいんだけど",
+            "zh": "那样的话倒还好",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "57/ACT",
+            "narrator": "",
+            "text": "ちょっと違うけど",
+            "zh": "稍微有点不一样哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "58/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうなの？",
+            "zh": "是这样吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "59/ACT",
+            "narrator": "",
+            "text": "もっと色々聞いてみたらどうかな",
+            "zh": "试着多打听点其他事情怎么样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうすれば",
+            "zh": "那样做的话",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "61/TALK",
+            "narrator": "ガブリエラ",
+            "text": "いいのかしら？",
+            "zh": "会比较好吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "75/TALK",
+            "narrator": "ガブリエラ",
+            "text": "でも結構忙しかったり\nするんじゃないの？\nお祓いとかで。",
+            "zh": "不过平时是不是\n还挺忙的呀？\n比如驱邪之类的。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "アーヤ",
+            "text": "それはあるけど…。",
+            "zh": "那倒确实……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "79/TALK",
+            "narrator": "ガブリエラ",
+            "text": "え？　お祓いとか\n本当にするの？",
+            "zh": "诶？　驱邪什么的\n真的会做吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "80/TALK",
+            "narrator": "アーヤ",
+            "text": "するわよ。",
+            "zh": "会做哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "ガブリエラ",
+            "text": "霊とか悪霊とかを？\n映画やゲームみたいな。",
+            "zh": "对付幽灵和恶灵吗？\n就像电影和游戏里那样。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "アーヤ",
+            "text": "そこまで\n派手じゃないけど。",
+            "zh": "倒也没那么\n夸张啦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…いるの？　本当に？",
+            "zh": "……真的有吗？　那种东西？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "86/TALK",
+            "narrator": "アーヤ",
+            "text": "本当にいるから\nするのよ。",
+            "zh": "正因为真的有，\n才要驱邪的呀。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "87/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうなのね……。",
+            "zh": "原来是这样啊……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "88/TALK",
+            "narrator": "ガブリエラ",
+            "text": "でもそれだったら\nアーヤ恐がりなのに\n大変じゃない？",
+            "zh": "但要是那样的话，\n绫水你明明那么怕鬼，\n岂不是很辛苦？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "89/TALK",
+            "narrator": "アーヤ",
+            "text": "…本当に見たりしたら\n恐がりにもなるわよ。",
+            "zh": "……真要亲眼见识过，\n任谁都会怕的吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "90/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そ、そうね……。",
+            "zh": "这、说得也是……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "91/TALK",
+            "narrator": "アーヤ",
+            "text": "そうよ。本当に洒落に\nならないことは\nいっぱいあるんだから。",
+            "zh": "是啊。真的有\n好多完全笑不出来的\n事情呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あ！　だから\nみやびの家であんなに\n厳しかったの？",
+            "zh": "啊！　所以之前\n在雅家里才会\n那么严格吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "93/TALK",
+            "narrator": "アーヤ",
+            "text": "そう。",
+            "zh": "对。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "94/TALK",
+            "narrator": "アーヤ",
+            "text": "昔から父には大体\n立ち会わされたから。",
+            "zh": "从以前开始，父亲几乎每次\n都要让我在旁边看着。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "95/TALK",
+            "narrator": "アーヤ",
+            "text": "本当に色んなものを\n見たし、体験したわ。\n私はね。",
+            "zh": "我可是见过\n各种各样的东西，\n也亲身体验过呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "96/TALK",
+            "narrator": "ガブリエラ",
+            "text": "私は？",
+            "zh": "怎么只说「我」？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "97/TALK",
+            "narrator": "アーヤ",
+            "text": "姉はいつも逃げてたから。\n私が立ち会うしかなくて。",
+            "zh": "姐姐总是逃跑嘛。\n结果就只有我不得不在场了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "98/TALK",
+            "narrator": "アーヤ",
+            "text": "父は私を跡継ぎにする\nつもりだったみたいで。\nそういうのもあって。",
+            "zh": "父亲似乎是打算\n让我当继承人的。\n也有这方面的原因。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "99/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…そうだったんだ…。",
+            "zh": "……原来如此啊……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "ガブリエラ",
+            "text": "でもそれって\nエクソシストみたいな\nものでしょ？",
+            "zh": "不过那样的话，\n不就跟驱魔师\n差不多嘛？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "ガブリエラ",
+            "text": "すごく素敵！",
+            "zh": "好帅气！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "アーヤ",
+            "text": "…実際体験したら\nそうも言ってられないわ。",
+            "zh": "……等真正体验过，\n就说不出这种话了哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "アーヤ",
+            "text": "…それに他の事情も\nあったし…。",
+            "zh": "……而且也还有\n其他隐情……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "153/TALK",
+            "narrator": "ガブリエラ",
+            "text": "　",
+            "zh": "　",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "187/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "さて。",
+            "zh": "好了。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "188/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "どういうことなのか\n説明して\nもらいましょうか。",
+            "zh": "能请你\n好好解释一下\n这到底是怎么回事吗。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "189/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "説明する必要なんてない。",
+            "zh": "没必要解释。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "190/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "あんたはもう、とうの昔に\n契約者から司書を否定\nされているはず。",
+            "zh": "你早就已经被\n契约者否定司书身份了\n不是吗。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "191/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "正式な解約をされていない\nからといって、司書として\n振る舞うのはやめなさい。",
+            "zh": "别仗着还没\n正式解约，就继续\n摆出一副司书的架子。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "192/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "ていうか、\nあんた誰？",
+            "zh": "话说回来，\n你谁啊？",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "193/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "あなたの代わりに\n司書として就任した人格。",
+            "zh": "代替你\n就任司书的人格。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "194/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "ふーん、そう。\nわかったわ。\n適当に頑張って頂戴。",
+            "zh": "唔嗯，这样啊。\n我知道了。\n那你就随便加油吧。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "195/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "それじゃ、\nあたし急ぐから。",
+            "zh": "那么，\n我赶时间，先走了。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "196/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "ここは通さない。",
+            "zh": "这里不能让你过去。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "197/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "……なんでよ。",
+            "zh": "……为什么啊。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "198/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "あんただって\nわかってるはず。\nここから先は聖域だって。",
+            "zh": "你应该也\n很清楚才对。\n从这里往前是圣域。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "199/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "じゃあ、教えてくれる？",
+            "zh": "那你能告诉我吗？",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "200/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "今、マークスマンの様子が\nおかしいんだけど、一体\n何が起こってるの？",
+            "zh": "现在神射手的样子\n很不对劲，到底\n发生什么事了？",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "201/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "マークスマンは、今\n進化に向けての準備を\n行っているの。",
+            "zh": "神射手现在，\n正在进行迈向进化的\n准备工作。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "202/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "これは\nとても喜ばしいことよ？",
+            "zh": "这可是\n非常值得欣喜的事哦？",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "203/SEL",
+            "narrator": "",
+            "text": "進化！？\nURになるの？",
+            "zh": "进化！？\n要变成UR了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "204/SEL",
+            "narrator": "",
+            "text": "嫌な予感しかしない",
+            "zh": "总觉得有不好的预感",
+            "narrator_zh": ""
+        },
+        {
+            "location": "205/ACT",
+            "narrator": "",
+            "text": "進化！？\nURになるの？",
+            "zh": "进化！？\n要变成UR了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "209/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "誰？",
+            "zh": "谁啊？",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "211/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "URってなんなの！？\n何か知ってるなら\n早く教えてよ！",
+            "zh": "UR是什么东西啊！？\n要是知道点什么\n就快点告诉我！",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "212/SEL",
+            "narrator": "",
+            "text": "すみません、メタな冗談です",
+            "zh": "抱歉，只是个Meta玩笑",
+            "narrator_zh": ""
+        },
+        {
+            "location": "213/ACT",
+            "narrator": "",
+            "text": "すみません、メタな冗談です",
+            "zh": "抱歉，只是个Meta玩笑",
+            "narrator_zh": ""
+        },
+        {
+            "location": "215/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "は？　意味が\n分からないんだけど。",
+            "zh": "哈？　完全\n听不懂你在说什么。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "217/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "滑稽ね。\nお似合いのコンビだわ。",
+            "zh": "真滑稽呢。\n真是天生一对的搭档。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "219/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "うるさいわね！\n$handle$のこと\n悪く言わないで。",
+            "zh": "少啰嗦！\n不准说$handle$的\n坏话。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "220/ACT",
+            "narrator": "",
+            "text": "嫌な予感しかしない",
+            "zh": "总觉得有不好的预感",
+            "narrator_zh": ""
+        },
+        {
+            "location": "224/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "誰？",
+            "zh": "谁啊？",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "226/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "嫌な予感しかしない？\n本当に無能なのね、貴方。",
+            "zh": "总觉得有不好的预感？\n你还真是无能呢，你这家伙。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "229/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "はぁ！？\n何最初から\nディスってるのよ！",
+            "zh": "哈啊！？\n干嘛一上来\n就diss人家啊！",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "230/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "$handle$は、\n今までずっと、あたしを\n助けてくれたんだから！",
+            "zh": "$handle$可是\n一直以来都在\n帮我的忙好吗！",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "232/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "その異常な肩の持ち方。\n確かに成果は出てるって\nことかしらね。",
+            "zh": "这非同寻常的偏袒。\n看来确实是\n出成果了呢。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "233/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "……何よ、\nその「成果」ってのは。",
+            "zh": "……什么呀，\n你说的那个「成果」是什么意思。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "234/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "さあ？\n何なのかしら。",
+            "zh": "谁知道呢？\n会是什么意思呢。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "235/SEL",
+            "narrator": "",
+            "text": "信頼関係を築いたことを「成果」とか言わないでくれ",
+            "zh": "别把建立信赖关系说成是什么「成果」啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "236/SEL",
+            "narrator": "",
+            "text": "$me$と司書ちゃんのラブラブの成果？　だとしたら確かに成果出てる！",
+            "zh": "是$me$和司书酱甜甜蜜蜜的成果？　那确实很有成果！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "237/ACT",
+            "narrator": "",
+            "text": "信頼関係を築いたことを「成果」とか言わないでくれ",
+            "zh": "别把建立信赖关系说成是什么「成果」啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "239/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "信頼関係ね。ふーん。",
+            "zh": "信赖关系啊。唔嗯。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "241/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "まあ、あたしの人格の中で\n最高にチョロい、この子\nだものね。仕方ないか。",
+            "zh": "毕竟在我的所有人格里，\n最容易上钩的就是这孩子\n了嘛。也没办法。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "242/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "何ですって……？",
+            "zh": "你说什么……？",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "243/ACT",
+            "narrator": "",
+            "text": "$me$と司書ちゃんのラブラブの成果？　だとしたら確かに成果出てる！",
+            "zh": "是$me$和司书酱甜甜蜜蜜的成果？　那确实很有成果！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "245/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "ちょ、ちょっと！\n恥ずかしいから人前で\nそういう事言わないで！",
+            "zh": "等、等一下！\n好丢脸啊，别在别人面前\n说这种话啦！",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "246/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "ふふ、\nオメデタイ人たちね。",
+            "zh": "呵呵，\n真是些天真到傻气的人呢。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "249/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "類は友を呼ぶとは\nまさにこの事。",
+            "zh": "所谓物以类聚\n指的就是这么一回事吧。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "251/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "問題は、それが\n現実のあたしにも影響\nダダ漏れてるところよね。",
+            "zh": "问题在于，那些影响\n正毫无保留地漏到\n现实中的我身上呢。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "252/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "まあでも、それが\n契約主の御希望なんだし\nそこは大目に見るわ。",
+            "zh": "不过算了，既然那是\n契约主的期望，\n这点程度我就睁一只眼闭一只眼吧。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "253/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "あたしとしては、\n全く以て\n納得いかないけど。",
+            "zh": "虽说就我个人而言，\n实在完全\n无法认同就是了。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "254/SEL",
+            "narrator": "",
+            "text": "ていうか、君は誰？　挨拶もナシ？",
+            "zh": "话说回来，你到底是谁啊？　连个招呼都不打吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "255/ACT",
+            "narrator": "",
+            "text": "ていうか、君は誰？　挨拶もナシ？",
+            "zh": "话说回来，你到底是谁啊？　连个招呼都不打吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "258/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "挨拶ってのは、\n人間同士でするものよ？",
+            "zh": "打招呼这种事，\n是人与人之间才做的吧？",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "259/TALK",
+            "narrator": "ガブリエラの新司書　",
+            "text": "でもまあいいわ、\n今回は特別に\n挨拶してあげる。",
+            "zh": "不过算了，\n这次就破例\n跟你打个招呼吧。",
+            "narrator_zh": "加布里埃拉的新司书"
+        },
+        {
+            "location": "260/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "初めまして。\nあたしはリヴォルカ。",
+            "zh": "初次见面。\n我叫莉沃尔卡。",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "261/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "ちょっ！\nなに名前言ってるのよ！\n馬鹿じゃないの！？",
+            "zh": "喂！\n干嘛把名字说出来啊！\n你是笨蛋吗！？",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "263/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "名前知られたら\nコイツに支配されるって\n言うのでしょう？",
+            "zh": "你是想说名字被知道了\n就会被这家伙支配\n对吧？",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "264/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "大丈夫よ。\nあたしはこんな奴に\n支配されたりしないわ。",
+            "zh": "放心吧。\n我才不会被这种家伙\n支配呢。",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "265/SEL",
+            "narrator": "",
+            "text": "言わせておけば随分だね",
+            "zh": "随你嘴上怎么说都行，口气还真不小啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "266/SEL",
+            "narrator": "",
+            "text": "高飛車萌え！！　リヴォルカちゃんも$me$とイチャイチャしよう！",
+            "zh": "高傲大小姐萌！！　莉沃尔卡酱也来和$me$腻歪一下吧！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "267/ACT",
+            "narrator": "",
+            "text": "言わせておけば随分だね",
+            "zh": "随你嘴上怎么说都行，口气还真不小啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "269/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "そりゃそうよ。\nあたしはあんたのような\n凡人とは違う。",
+            "zh": "那是当然。\n我可和你这种\n凡人不一样。",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "270/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "エリート中の\nエリートだもの。",
+            "zh": "我可是精英中的\n精英。",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "272/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "まあ、そこにいる\nチョロい子のせいで、\n格も下がり気味だけど。",
+            "zh": "虽然因为旁边那个\n好骗的家伙，害得我的\n格调也有点下降了就是。",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "273/ACT",
+            "narrator": "",
+            "text": "高飛車萌え！！　リヴォルカちゃんも$me$とイチャイチャしよう！",
+            "zh": "高傲大小姐萌！！　莉沃尔卡酱也来和$me$腻歪一下吧！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "275/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "あたしが？\nあんたと？\nなんで？",
+            "zh": "我？\n跟你？\n凭什么？",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "276/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "人と豚はイチャイチャ\nできないのよ？\n知ってた？",
+            "zh": "人和猪是没法\n腻歪的哦？\n你不知道吗？",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "277/SEL",
+            "narrator": "",
+            "text": "ちょっとキレそうなんですけど",
+            "zh": "稍微有点要火大了啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "278/SEL",
+            "narrator": "",
+            "text": "ブヒィィィィ！！",
+            "zh": "噗咿咿咿咿！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "279/ACT",
+            "narrator": "",
+            "text": "ちょっとキレそうなんですけど",
+            "zh": "稍微有点要火大了啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "281/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "あたしも同感。",
+            "zh": "我也有同感。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "282/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "こんな人格が同じ\nあたしだなんて。\n吐き気がするわ。",
+            "zh": "这种人格居然也是\n我的一部分。\n真让人作呕。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "283/ACT",
+            "narrator": "",
+            "text": "ブヒィィィィ！！",
+            "zh": "噗咿咿咿咿！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "285/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "ちょ、ちょっと！\n何やってるのよ！！",
+            "zh": "等、等一下！\n你在干什么啊！！",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "286/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "あら、本当に\n豚になっちゃったわね。",
+            "zh": "哎呀，还真的\n变成猪了呢。",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "287/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "いいわよ。\nあたしが飼ってあげるわ。",
+            "zh": "好呀。\n那就由我来养着你吧。",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "289/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "いい加減にして！！",
+            "zh": "给我适可而止一点！！",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "293/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "とりあえず１つだけ\nわかったことがある。",
+            "zh": "总之只有一件事\n我是搞明白了。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "296/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "あんたには\n話が通じないってこと。",
+            "zh": "那就是跟你\n根本没法沟通。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "297/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "そしてあんたに\nマークスマンは\n任せられない。",
+            "zh": "而且我也不能\n把神射手\n交给你。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "298/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "力づくで\n通ってやるわ。",
+            "zh": "就算用硬的\n我也要闯过去。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "299/SEL",
+            "narrator": "",
+            "text": "加勢するぜ！",
+            "zh": "我来助阵！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "300/SEL",
+            "narrator": "",
+            "text": "ちょっと待って、穏便に！",
+            "zh": "等一下，和平解决！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "301/ACT",
+            "narrator": "",
+            "text": "加勢するぜ！",
+            "zh": "我来助阵！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "302/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "ありがと！",
+            "zh": "谢谢！",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "303/ACT",
+            "narrator": "",
+            "text": "ちょっと待って、穏便に！",
+            "zh": "等一下，和平解决！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "304/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "どうして止めるの！？",
+            "zh": "为什么要拦着我！？",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "308/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "本当に馬鹿な子。",
+            "zh": "真是愚蠢的孩子。",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "309/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "やっぱり下等生物は、\n痛い目見ないと\nわからないみたいね。",
+            "zh": "果然低等生物\n不吃点苦头\n是不会明白的呢。",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "310/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "いいわ。\nそれじゃお望み通り――",
+            "zh": "好吧。\n那就如你所愿——",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "316/SEL",
+            "narrator": "",
+            "text": "やばい！！！",
+            "zh": "不妙！！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "317/ACT",
+            "narrator": "",
+            "text": "やばい！！！",
+            "zh": "不妙！！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "319/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "身体に\nわからせてあげる！",
+            "zh": "用身体\n让你好好长记性！",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "339/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "い、いたたた……",
+            "zh": "好、好痛痛痛……",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "340/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "凄い力…。",
+            "zh": "好强的力量……。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "341/SEL",
+            "narrator": "",
+            "text": "大丈夫！？",
+            "zh": "没事吧！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "342/SEL",
+            "narrator": "",
+            "text": "追い出された！？",
+            "zh": "被赶出来了吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "343/ACT",
+            "narrator": "",
+            "text": "大丈夫！？",
+            "zh": "没事吧！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "344/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "ええ、大丈夫。",
+            "zh": "嗯，没事。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "345/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "ゲートまで\n吹っ飛ばされたみたいね。",
+            "zh": "好像被一口气\n轰飞回大门这边了呢。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "346/ACT",
+            "narrator": "",
+            "text": "追い出された！？",
+            "zh": "被赶出来了吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "347/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "ええ、そうみたいね。",
+            "zh": "嗯，好像是这样呢。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "349/SEL",
+            "narrator": "",
+            "text": "これからどうするの？",
+            "zh": "接下来打算怎么办？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "350/ACT",
+            "narrator": "",
+            "text": "これからどうするの？",
+            "zh": "接下来打算怎么办？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "352/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "また行くわよ。\n何度でも。",
+            "zh": "我还会去的。\n无论多少次。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "353/SEL",
+            "narrator": "",
+            "text": "協力するよ",
+            "zh": "我会帮你的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "354/SEL",
+            "narrator": "",
+            "text": "無策で行くのは良くないよ",
+            "zh": "毫无对策地硬闯可不行哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "355/ACT",
+            "narrator": "",
+            "text": "協力するよ",
+            "zh": "我会帮你的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "356/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "ありがと。",
+            "zh": "谢谢。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "357/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "やっぱり\n$handle$がいて\n良かったわ。",
+            "zh": "果然有\n$handle$在\n真是太好了。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "358/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "すき。",
+            "zh": "喜欢你。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "359/ACT",
+            "narrator": "",
+            "text": "無策で行くのは良くないよ",
+            "zh": "毫无对策地硬闯可不行哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "360/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "確かにそうよね。",
+            "zh": "确实是这样呢。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "361/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "何かいい方法がないか\n考えてみるわね。",
+            "zh": "我再想想看有没有\n什么好办法吧。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "363/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "いずれにせよ、\nリヴォルカは\n信用ならないわ。",
+            "zh": "不管怎样，\n莉沃尔卡都\n信不过。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "364/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "マークスマンの\n進化の準備って何よ…。\n凄く嫌な予感がする。",
+            "zh": "神射手的\n进化准备算怎么回事……。\n我有种非常不好的预感。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "365/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "366/SEL",
+            "narrator": "",
+            "text": "ガブリエラ？",
+            "zh": "加布里埃拉？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "367/ACT",
+            "narrator": "",
+            "text": "ガブリエラ？",
+            "zh": "加布里埃拉？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "369/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "あ、あぁ、\nごめんなさいね。",
+            "zh": "啊、啊啊，\n抱歉呢。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "370/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "そういえば、今回も\n葛藤の解決に\n来たんでしょう？",
+            "zh": "说起来，你这次\n也是来解决\n纠葛的吧？",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "371/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "毎度毎度、全然関係無い\nことに巻き込んじゃって\nごめんなさい。",
+            "zh": "每次每次都把你卷进\n完全无关的事情里，\n真不好意思。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "372/SEL",
+            "narrator": "",
+            "text": "司書ちゃんが好きだから全然平気",
+            "zh": "因为我喜欢司书酱，所以完全没关系",
+            "narrator_zh": ""
+        },
+        {
+            "location": "373/SEL",
+            "narrator": "",
+            "text": "最近かなりヘヴィだよね",
+            "zh": "最近确实挺沉重的呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "374/ACT",
+            "narrator": "",
+            "text": "司書ちゃんが好きだから全然平気",
+            "zh": "因为我喜欢司书酱，所以完全没关系",
+            "narrator_zh": ""
+        },
+        {
+            "location": "375/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "うわぁ……",
+            "zh": "哇啊……",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "376/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "嬉しい。",
+            "zh": "好开心。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "377/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "あたしも、\n大好きよ？",
+            "zh": "我也\n最喜欢你了哦？",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "378/SEL",
+            "narrator": "",
+            "text": "そういえば、司書ちゃんは名前教えてくれないの？",
+            "zh": "话说回来，司书酱还不打算告诉我你的名字吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "379/ACT",
+            "narrator": "",
+            "text": "そういえば、司書ちゃんは名前教えてくれないの？",
+            "zh": "话说回来，司书酱还不打算告诉我你的名字吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "381/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "ええっ？\nあ、あたし！？",
+            "zh": "诶诶！？\n我、我吗！？",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "382/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "あ、あたしの名前は……\nその……",
+            "zh": "我、我的名字……\n那个……",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "383/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "ま、また今度ね！",
+            "zh": "下、下次再说啦！",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "385/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "あ、でも！！\n別に$handle$が\n嫌いだからじゃないのよ？",
+            "zh": "啊，不过！！\n可不是因为讨厌$handle$\n才不说的哦？",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "386/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "た、ただ！\nちょっと色々\nこ、心の準備がっ！",
+            "zh": "只、只是！\n稍微有点各种各样的\n心、心理准备啦！",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "387/SEL",
+            "narrator": "",
+            "text": "無理しないで！",
+            "zh": "别勉强自己哦！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "388/ACT",
+            "narrator": "",
+            "text": "無理しないで！",
+            "zh": "别勉强自己哦！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "391/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "ご、ごめんなさい…。",
+            "zh": "抱、抱歉……。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "392/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "でも、ホントに、\n心の準備が出来たら\nちゃんと教えるわ。",
+            "zh": "不过，真的，\n等做好心理准备了，\n我会好好告诉你的。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "393/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "だから、\nもうちょっと待ってね。",
+            "zh": "所以，\n再稍微等我一下下哦。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "394/ACT",
+            "narrator": "",
+            "text": "最近かなりヘヴィだよね",
+            "zh": "最近确实挺沉重的呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "395/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "そうよね。\nあたしも最近はちょっと\n疲れちゃってる。",
+            "zh": "是啊。\n我最近也稍微\n有点累了呢。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "396/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "前は平和だったわよね。",
+            "zh": "以前多和平啊。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "397/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "$handle$が\n平和すぎて怪しむくらい\n平和だった。",
+            "zh": "和平到$handle$都\n开始怀疑是不是\n和平过头了。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "398/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "399/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "まあ、もちろんそれは、\nフタをしていただだけの\n偽りの平和だったけど。",
+            "zh": "嘛，当然那也只是\n强行盖上盖子的\n虚假和平罢了。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "400/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "ごめんなさいね。\nこんなヘヴィな想いを\nさせちゃって。",
+            "zh": "抱歉呢。\n让你跟着操心\n这么沉重的事。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "402/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "さあ、\nそれじゃ、悩みを\n解決しましょ。",
+            "zh": "好了，\n那么，去解决\n烦恼吧。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "409/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "オープンプロセス、\n0x691番地から\n0xC41番地へ。",
+            "zh": "开放进程，\n从0x691号地址前往\n0xC41号地址。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "415/SEL",
+            "narrator": "",
+            "text": "そういえばその情報、エリカさんからだよね？",
+            "zh": "说起来那份情报，是领火小姐发来的吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "416/ACT",
+            "narrator": "",
+            "text": "そういえばその情報、エリカさんからだよね？",
+            "zh": "说起来那份情报，是领火小姐发来的吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "418/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "そうなの？",
+            "zh": "是吗？",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "419/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "そもそも、この情報が\nどこから誰によって\n送られてるかなんて――",
+            "zh": "说到底，这份情报\n是从哪里由谁\n发送过来的——",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "420/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "端末操作していても\nわからないし、調べた事も\nないわね。",
+            "zh": "就算操作终端\n也看不出来，我也\n没去调查过呢。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "421/SEL",
+            "narrator": "",
+            "text": "契約主である千羽鶴以外の情報に従って大丈夫なの？",
+            "zh": "照着契约主千羽鹤以外的情报行动没关系吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "422/ACT",
+            "narrator": "",
+            "text": "契約主である千羽鶴以外の情報に従って大丈夫なの？",
+            "zh": "照着契约主千羽鹤以外的情报行动没关系吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "424/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "大丈夫も何も、\nむしろ千羽鶴じゃない方が\nいいわよ。",
+            "zh": "什么没关系啊，\n倒不如说不是千羽鹤\n才更好呢。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "425/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "1xに閉じこめたり\nしておいて、今更\n指示出しも無いでしょ。",
+            "zh": "把我关在1x里，\n现在才来下指示\n也太说不过去了吧。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "426/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "まあ、今まだ司書業が\nやれていることは、\n本当にラッキーだけど。",
+            "zh": "嘛，不过现在还能\n继续做司书的工作，\n真的是很走运了。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "427/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "だって、こうして\n$handle$と毎回\n逢えるんだもの。",
+            "zh": "毕竟，这样就能\n每次都和$handle$\n见面了呀。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "428/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "けど、いつか千羽鶴に\n完全に司書権を剥奪\nされたらお別れね。",
+            "zh": "不过，总有一天被千羽鹤\n彻底剥夺了司书权的话，\n就得分别了呢。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "429/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "それまでに――",
+            "zh": "在那之前——",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "437/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "――くらいはしたいかも。",
+            "zh": "至少想——之类的吧。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "438/SEL",
+            "narrator": "",
+            "text": "今よく聞こえなかったんだけど",
+            "zh": "刚才没太听清",
+            "narrator_zh": ""
+        },
+        {
+            "location": "439/ACT",
+            "narrator": "",
+            "text": "今よく聞こえなかったんだけど",
+            "zh": "刚才没太听清",
+            "narrator_zh": ""
+        },
+        {
+            "location": "442/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "え！？\nい、いいのよ、\n別に聞こえなくても！",
+            "zh": "诶！？\n没、没关系啦，\n没听清也没关系！",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "445/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "ほ、ほら！\nシーク完了したわよ！",
+            "zh": "你、你看！\n搜索完成啦！",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "450/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "で、今回は……？",
+            "zh": "那么，这次是……？",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "451/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "あーあー、\nあたし興奮し過ぎ。",
+            "zh": "啊啊—，\n我兴奋过头了。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "452/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "ちゃんとおちついて、\nアーヤの話を\n聞いてあげなくちゃ。",
+            "zh": "必须好好冷静下来，\n认真倾听\n绫水的心声才行。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "453/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "いつもなら\n無邪気なママでもいいかも\nしれないけど――",
+            "zh": "平时的话\n保持天真无邪的样子\n或许也无所谓——",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "454/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "今日はあたしが\nアーヤを慰めてあげる\n日なんだから。",
+            "zh": "但今天可是我\n去安慰绫水的\n日子呀。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "455/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "ちょっとあたしに\n喝を入れてきて\nくれないかしら？",
+            "zh": "能稍微给我\n鼓鼓劲打打气\n吗？",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "456/SEL",
+            "narrator": "",
+            "text": "オーケー",
+            "zh": "OK",
+            "narrator_zh": ""
+        },
+        {
+            "location": "457/ACT",
+            "narrator": "",
+            "text": "オーケー",
+            "zh": "OK",
+            "narrator_zh": ""
+        },
+        {
+            "location": "459/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "いつもありがと。",
+            "zh": "谢啦。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "460/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "それじゃ行くわよ。",
+            "zh": "那我们走吧。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "461/TALK",
+            "narrator": "ガブリエラの元司書",
+            "text": "あたしと\n$handle$に\n素敵なココロの旅を。",
+            "zh": "祝我和\n$handle$能有一场\n美好的心灵之旅。",
+            "narrator_zh": "加布里埃拉的原司书"
+        },
+        {
+            "location": "27/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>9月4日　 1:56 PM</color>\nストライキ２日目、長野県松代アーヤの実家にて",
+            "zh": "<color=green>9月4日　 1:56 PM</color>\n罢工第2天，于长野县松代绫水老家",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "118/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch01",
+            "text": "<color=black><size=50><b>逢瀬つばめのココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n逢瀬つばめの心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>在逢濑燕的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n在她的心灵之中，\n正产生着巨大的纠葛。\n\n请潜入心灵领域，\n化解逢濑燕内心的纠葛。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch01"
+        },
+        {
+            "location": "120/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch02",
+            "text": "<color=black><size=50><b>國政綾水のココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n國政綾水の心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>在国政绫水的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n在她的心灵之中，\n正产生着巨大的纠葛。\n\n请潜入心灵领域，\n化解国政绫水内心的纠葛。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch02"
+        },
+        {
+            "location": "122/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch03",
+            "text": "<color=black><size=50><b>ガブリエラのココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\nガブリエラの心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>在加布里埃拉的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n在她的心灵之中，\n正产生着巨大的纠葛。\n\n请潜入心灵领域，\n化解加布里埃拉内心的纠葛。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch03"
+        },
+        {
+            "location": "124/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch04",
+            "text": "<color=black><size=50><b>恋ヶ崎みやびのココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n恋ヶ崎みやびの心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>在恋之崎雅的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n在她的心灵之中，\n正产生着巨大的纠葛。\n\n请潜入心灵领域，\n化解恋之崎雅内心的纠葛。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch04"
+        },
+        {
+            "location": "126/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch05",
+            "text": "<color=black><size=50><b>卯月神楽のココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n卯月神楽の心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>在卯月神乐的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n在她的心灵之中，\n正产生着巨大的纠葛。\n\n请潜入心灵领域，\n化解卯月神乐内心的纠葛。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch05"
+        }
+    ]
+}
