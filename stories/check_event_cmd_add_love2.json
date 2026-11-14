@@ -1,0 +1,23 @@
+{
+    "dir": "chap01/daydra/check_event_cmd_add_love2.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "100",
+        "cid": "all",
+        "title": "デバッグ用",
+        "sub_title": "好感度"
+    },
+    "entry":
+    [
+        { "location": "7/SCENARIO", "narrator": "", "text": "イベント命令チェック：ADD_LOVE2"},
+        { "location": "13/TALK"   , "narrator": "つばめ", "text": "ADD_LOVE2\nのテストを行います"},
+        { "location": "14/TALK"   , "narrator": "つばめ", "text": "つばめの親密度を7500\n上げてみます。"},
+        { "location": "16/TALK"   , "narrator": "つばめ", "text": "さらにonceで\n40上げてみます。\n※2回目以降上昇なし"},
+        { "location": "18/TALK"   , "narrator": "つばめ", "text": "今度はつばめではなく、\nアーヤ、ガブ、みやび\nの親密度上げてみます"},
+        { "location": "19/TALK"   , "narrator": "つばめ", "text": "アーヤを上げます"},
+        { "location": "21/TALK"   , "narrator": "つばめ", "text": "ガブを上げます"},
+        { "location": "23/TALK"   , "narrator": "つばめ", "text": "みやびを上げます"},
+        { "location": "25/TALK"   , "narrator": "つばめ", "text": "最後に全員の親密度を\n7500ずつ「連続」で\n上昇させてみます"},
+        { "location": "30/TALK"   , "narrator": "つばめ", "text": "テストを終了します"}
+    ]
+}

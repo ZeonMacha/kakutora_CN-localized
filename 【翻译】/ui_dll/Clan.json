@@ -1,0 +1,441 @@
+{
+ "dir": "Clan",
+ "type": "ui_dll",
+ "info": {},
+ "entry": [
+  {
+   "location": "150/DLL",
+   "narrator": "",
+   "text": "UniqueId:{0} のクランが見つかりません",
+   "zh": "未找到UniqueId:{0} 的库兰",
+   "narrator_zh": ""
+  },
+  {
+   "location": "151/DLL",
+   "narrator": "",
+   "text": "Api.Net.Clan.Listに失敗",
+   "zh": "Api.Net.Clan.List失败",
+   "narrator_zh": ""
+  },
+  {
+   "location": "152/DLL",
+   "narrator": "",
+   "text": "ゲームサーバーに問題があります。\n<size=20>(Code:008)</size>",
+   "zh": "游戏服务器出现问题。\n<size=20>(Code:008)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "153/DLL",
+   "narrator": "",
+   "text": "チュートリアル用のクラン{0}がみつかりません",
+   "zh": "未找到教程用库兰{0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "154/DLL",
+   "narrator": "",
+   "text": "Kakutora.Api.Net.Clan.Form.Postに失敗しました:",
+   "zh": "Kakutora.Api.Net.Clan.Form.Post失败:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "267/DLL",
+   "narrator": "",
+   "text": "Api.SetSupportClanに失敗",
+   "zh": "Api.SetSupportClan失败",
+   "narrator_zh": ""
+  },
+  {
+   "location": "268/DLL",
+   "narrator": "",
+   "text": "助っ人選択に失敗しました。\n<size=20>(Code:008)</size>",
+   "zh": "助战选择失败。\n<size=20>(Code:008)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "535/DLL",
+   "narrator": "",
+   "text": "ほどよいバランス",
+   "zh": "平衡适中",
+   "narrator_zh": ""
+  },
+  {
+   "location": "536/DLL",
+   "narrator": "",
+   "text": "ダメ―ジ重視",
+   "zh": "伤害优先",
+   "narrator_zh": ""
+  },
+  {
+   "location": "537/DLL",
+   "narrator": "",
+   "text": "フルボッコ狙い",
+   "zh": "力求碾压",
+   "narrator_zh": ""
+  },
+  {
+   "location": "538/DLL",
+   "narrator": "",
+   "text": "チェインしっかり",
+   "zh": "连携扎实",
+   "narrator_zh": ""
+  },
+  {
+   "location": "539/DLL",
+   "narrator": "",
+   "text": "相性バッチリ",
+   "zh": "相性绝配",
+   "narrator_zh": ""
+  },
+  {
+   "location": "540/DLL",
+   "narrator": "",
+   "text": "入れ替えるクランがいないのは異常",
+   "zh": "没有可替换的库兰，属于异常",
+   "narrator_zh": ""
+  },
+  {
+   "location": "541/DLL",
+   "narrator": "",
+   "text": "最適な組み合わせが見つかりませんでした。",
+   "zh": "未找到最优组合。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "542/DLL",
+   "narrator": "",
+   "text": "この編成でよろしいですか？",
+   "zh": "使用此编成，确定吗？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "543/DLL",
+   "narrator": "",
+   "text": "イベントポイント {0}％アップ",
+   "zh": "活动点数 {0}％提升",
+   "narrator_zh": ""
+  },
+  {
+   "location": "544/DLL",
+   "narrator": "",
+   "text": "{0}で編成しました。",
+   "zh": "已用{0}完成编成。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "545/DLL",
+   "narrator": "",
+   "text": "現在サーバントクラン所持枠は最大です。\nこれ以上サーバントクラン所持枠を拡張できません。",
+   "zh": "当前从属库兰持有上限已达最大。\n无法再扩展从属库兰持有上限。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "546/DLL",
+   "narrator": "",
+   "text": "ジュエルを<color=red>{0}個</color>消費して\nサーバントクラン所持枠を <color=green>5枠</color>\n購入します。よろしいですか？",
+   "zh": "将消耗<color=red>{0}个</color>宝石\n购买从属库兰持有上限 <color=green>5格</color>\n确定吗？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "547/DLL",
+   "narrator": "",
+   "text": "サーバントクラン所持枠を\n{0}枠購入しました！",
+   "zh": "已购买\n{0}格从属库兰持有上限！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "548/DLL",
+   "narrator": "",
+   "text": "♦出現データ\n",
+   "zh": "♦出现数据\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "549/DLL",
+   "narrator": "",
+   "text": "♦出現確率\n",
+   "zh": "♦出现概率\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "550/DLL",
+   "narrator": "",
+   "text": "チケット",
+   "zh": "票券",
+   "narrator_zh": ""
+  },
+  {
+   "location": "551/DLL",
+   "narrator": "",
+   "text": "アイテム",
+   "zh": "道具",
+   "narrator_zh": ""
+  },
+  {
+   "location": "552/DLL",
+   "narrator": "",
+   "text": "ジュエルが不足しているためガチャを利用することができません。ジュエルを購入しますか？",
+   "zh": "宝石不足，无法使用扭蛋。要购买宝石吗？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "553/DLL",
+   "narrator": "",
+   "text": "サーバントクランの所持数が最大数を超過しているため、ガチャを利用することができません。\nクラン所持枠の拡張や強化合成、売却でお手持ちのクラン数を減らしてください。",
+   "zh": "从属库兰持有数已超过上限，无法使用扭蛋。\n请扩展库兰持有上限，或通过强化合成、出售来减少持有的库兰。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "554/DLL",
+   "narrator": "",
+   "text": "チケットを<color=red>{0}</color>枚消費して\nクランガチャを<color=red>{1}</color>回引きます。\nよろしいですか？",
+   "zh": "将消耗<color=red>{0}</color>张扭蛋券\n抽取<color=red>{1}</color>次库兰扭蛋。\n确定吗？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "555/DLL",
+   "narrator": "",
+   "text": "{0}\n\nガチャチケット{1}枚→{2}枚",
+   "zh": "{0}\n\n扭蛋券{1}张→{2}张",
+   "narrator_zh": ""
+  },
+  {
+   "location": "556/DLL",
+   "narrator": "",
+   "text": "ジュエルを<color=red>{0}</color>個消費して\nクランガチャを<color=red>{1}</color>回引きます。\nよろしいですか？",
+   "zh": "将消耗<color=red>{0}</color>个宝石\n抽取<color=red>{1}</color>次库兰扭蛋。\n确定吗？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "557/DLL",
+   "narrator": "",
+   "text": "playerDataUpdataに失敗",
+   "zh": "playerDataUpdata失败",
+   "narrator_zh": ""
+  },
+  {
+   "location": "558/DLL",
+   "narrator": "",
+   "text": "------ ガチャリスト --------",
+   "zh": "------ 扭蛋列表 --------",
+   "narrator_zh": ""
+  },
+  {
+   "location": "559/DLL",
+   "narrator": "",
+   "text": "ガチャID:{0}, グループタイプ:{1}, 説明:{2}, 引く金額:{3}\n",
+   "zh": "扭蛋ID:{0}, 分组类型:{1}, 说明:{2}, 抽取金额:{3}\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "560/DLL",
+   "narrator": "",
+   "text": "------ ガチャリスト end --------",
+   "zh": "------ 扭蛋列表 end --------",
+   "narrator_zh": ""
+  },
+  {
+   "location": "561/DLL",
+   "narrator": "",
+   "text": "つばめ",
+   "zh": "燕",
+   "narrator_zh": ""
+  },
+  {
+   "location": "562/DLL",
+   "narrator": "",
+   "text": "アーヤ",
+   "zh": "绫水",
+   "narrator_zh": ""
+  },
+  {
+   "location": "563/DLL",
+   "narrator": "",
+   "text": "ガブリエラ",
+   "zh": "加布里埃拉",
+   "narrator_zh": ""
+  },
+  {
+   "location": "564/DLL",
+   "narrator": "",
+   "text": "みやび",
+   "zh": "雅",
+   "narrator_zh": ""
+  },
+  {
+   "location": "565/DLL",
+   "narrator": "",
+   "text": "神楽",
+   "zh": "神乐",
+   "narrator_zh": ""
+  },
+  {
+   "location": "566/DLL",
+   "narrator": "",
+   "text": "<color=red>以下のデッキのコストが\n上限を超えています。</color>\n編成を変更してください。\n\n<color=green>",
+   "zh": "<color=red>以下卡组的消耗\n已超过上限。</color>\n请变更编成。\n\n<color=green>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "567/DLL",
+   "narrator": "",
+   "text": "</color>\n<size=22>※コストオーバーしているデッキは\n　バトルに利用できません。</size>",
+   "zh": "</color>\n<size=22>※消耗超出的卡组\n　无法用于战斗。</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "568/DLL",
+   "narrator": "",
+   "text": "指定された表示タイプが存在しません：{0}\nクランのパラメータを非表示にします。",
+   "zh": "指定的显示类型不存在：{0}\n将隐藏库兰的参数。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "569/DLL",
+   "narrator": "",
+   "text": "進化可能なクランはありません",
+   "zh": "没有可进化的库兰",
+   "narrator_zh": ""
+  },
+  {
+   "location": "570/DLL",
+   "narrator": "",
+   "text": "強化合成の素材となるサーバントクランに以下のものが含まれています。\n",
+   "zh": "作为强化合成素材的从属库兰中包含以下内容。\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "571/DLL",
+   "narrator": "",
+   "text": "強化合成を実行した場合、これらのクランは消滅してしまいますがよろしいですか？\n\n",
+   "zh": "若执行强化合成，这些库兰将会消失。确定吗？\n\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "572/DLL",
+   "narrator": "",
+   "text": "強化合成に必要なコインが不足しています。\n",
+   "zh": "强化合成所需的金币不足。\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "573/DLL",
+   "narrator": "",
+   "text": "不要なクランを売却するなどしてコインを増やすか、",
+   "zh": "请出售不需要的库兰等方式增加金币，或",
+   "narrator_zh": ""
+  },
+  {
+   "location": "574/DLL",
+   "narrator": "",
+   "text": "強化合成の素材にするクランを減らしてから再度実行してください。",
+   "zh": "减少作为强化合成素材的库兰后再执行。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "575/DLL",
+   "narrator": "",
+   "text": "<color=red>レアリティR以上のサーバントクランが含まれています！</color>\n",
+   "zh": "<color=red>包含稀有度R以上的从属库兰！</color>\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "576/DLL",
+   "narrator": "",
+   "text": "<color=red>Lv2以上のサーバントクランが含まれています！</color>\n",
+   "zh": "<color=red>包含Lv2以上的从属库兰！</color>\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "577/DLL",
+   "narrator": "",
+   "text": "進化合成に必要なコインが不足しています。\n",
+   "zh": "进化合成所需的金币不足。\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "578/DLL",
+   "narrator": "",
+   "text": "不要なクランを売却するなどしてコインを増やしてから",
+   "zh": "请出售不需要的库兰等方式增加金币后",
+   "narrator_zh": ""
+  },
+  {
+   "location": "579/DLL",
+   "narrator": "",
+   "text": "再度ご利用ください。",
+   "zh": "再使用。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "580/DLL",
+   "narrator": "",
+   "text": "選択してください",
+   "zh": "请选择",
+   "narrator_zh": ""
+  },
+  {
+   "location": "581/DLL",
+   "narrator": "",
+   "text": "Composeで例外発生:",
+   "zh": "Compose发生异常:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "582/DLL",
+   "narrator": "",
+   "text": "Composeに失敗:",
+   "zh": "Compose失败:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "583/DLL",
+   "narrator": "",
+   "text": "Evolveで例外発生:",
+   "zh": "Evolve发生异常:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "584/DLL",
+   "narrator": "",
+   "text": "CEvolveに失敗:",
+   "zh": "CEvolve失败:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "585/DLL",
+   "narrator": "",
+   "text": "はずす",
+   "zh": "卸下",
+   "narrator_zh": ""
+  },
+  {
+   "location": "586/DLL",
+   "narrator": "",
+   "text": "ユーザー設定の「フレンドサポートクラン」を設定していない為、「お気に入り」に登録されているトライナリーのクランを外すことはできません。\n\n自由に外したい場合は、ユーザー設定から「フレンドサポートクラン」を登録してください。",
+   "zh": "尚未在用户设置中设置“好友支援库兰”，因此无法卸下已登录在“收藏”中的三重奏库兰。\n\n如需自由卸下，请在用户设置中登录“好友支援库兰”。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "587/DLL",
+   "narrator": "",
+   "text": "選択されたサーバントクランを\n売却します。よろしいですか？\n",
+   "zh": "将出售所选的从属库兰。\n确定吗？\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "588/DLL",
+   "narrator": "",
+   "text": "コストが超過しています。編成を変更してください。",
+   "zh": "消耗已超出。请变更编成。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "709/DLL",
+   "narrator": "",
+   "text": "ヒロイン専用クランがフレンドサポートクランに設定されているためクランのパラメータが大きく減少します",
+   "zh": "女主角专用库兰被设为好友支援库兰，因此库兰的参数会大幅下降",
+   "narrator_zh": ""
+  }
+ ]
+}

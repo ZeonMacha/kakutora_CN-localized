@@ -1,0 +1,38 @@
+{
+    "dir": "Story",
+    "type": "ui_dll",
+    "info": {
+    },
+    "entry":
+    [
+        { "location": "257/DLL", "narrator": "", "text": "----- ストーリー開放なし クラン名 -----"},
+        { "location": "258/DLL", "narrator": "", "text": "--------- {0} 開放 クラン名 {1} -----------"},
+        { "location": "259/DLL", "narrator": "", "text": "イベントクエスト：{0}のOpenフラグを立てました"},
+        { "location": "260/DLL", "narrator": "", "text": "イベントクエスト：{0}を開放しました。"},
+        { "location": "261/DLL", "narrator": "", "text": "メインクエスト：{0}のOpenフラグを立てました"},
+        { "location": "262/DLL", "narrator": "", "text": "メインクエスト：{0}を開放しました。"},
+        { "location": "263/DLL", "narrator": "", "text": "{0}の\n新しいエピソードが解禁されました！"},
+        { "location": "264/DLL", "narrator": "", "text": "OpenStoryに失敗"},
+        { "location": "269/DLL", "narrator": "", "text": "<color=red>逢瀬つばめ</color>"},
+        { "location": "270/DLL", "narrator": "", "text": "<color=blue>國政綾水</color>"},
+        { "location": "271/DLL", "narrator": "", "text": "<color=green>ガブリエラ</color>"},
+        { "location": "272/DLL", "narrator": "", "text": "<color=purple>恋ヶ崎みやび</color>"},
+        { "location": "273/DLL", "narrator": "", "text": "<color=orange>卯月神楽</color>"},
+        { "location": "274/DLL", "narrator": "", "text": "アニメストーリー"},
+        { "location": "275/DLL", "narrator": "", "text": "バトル"},
+        { "location": "276/DLL", "narrator": "", "text": "ココロスフィア"},
+        { "location": "277/DLL", "narrator": "", "text": "ストーリー"},
+        { "location": "278/DLL", "narrator": "", "text": "ヒメゴトチャット"},
+        { "location": "279/DLL", "narrator": "", "text": "無効なバトルタグです。"},
+        { "location": "280/DLL", "narrator": "", "text": "アニメーションタグが未定義です:"},
+        { "location": "281/DLL", "narrator": "", "text": "FaceIconに入力がありません。Title：{0}"},
+        { "location": "282/DLL", "narrator": "", "text": "<size=24>新しいエピソード\n<color=green>【{0}】</color>が\n解放されました！\n\n次のエピソードに移動しますか？</size>"},
+        { "location": "283/DLL", "narrator": "", "text": "の"},
+        { "location": "284/DLL", "narrator": "", "text": "<size=24>新しい{0}{1}{2}\n<color=green>【{3}】</color>が\n解放されました！\n\nこのまま実行しますか？</size>"},
+        { "location": "285/DLL", "narrator": "", "text": "---------- イベントストーリー --------------"},
+        { "location": "286/DLL", "narrator": "", "text": "RewardIconが見つかりませんでした。:Textures/Icon/Reward/{0}"},
+        { "location": "287/DLL", "narrator": "", "text": "<size=24>{0}{1}{2}\n<color=green>【{3}】</color>を\n実行します。よろしいですか？</size>"},
+        { "location": "733/DLL", "narrator": "", "text": "タグ名をパースできません。"},
+        { "location": "734/DLL", "narrator": "", "text": "ACTが足りません。\nジュエルを5個消費してACTを全回復できます。回復しますか?"}
+    ]
+}

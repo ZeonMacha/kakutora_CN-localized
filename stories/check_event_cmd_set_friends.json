@@ -1,0 +1,18 @@
+{
+    "dir": "chap01/daydra/check_event_cmd_set_friends.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "103",
+        "cid": "all",
+        "title": "デバッグ用",
+        "sub_title": "関係遷移"
+    },
+    "entry":
+    [
+        { "location": "93/SCENARIO", "narrator": "", "text": "イベント命令チェック：GET_BROMIDE"},
+        { "location": "99/TALK"    , "narrator": "つばめ", "text": "SET_LOVERS\nのテストを行います"},
+        { "location": "100/TALK"   , "narrator": "つばめ", "text": "SET_LOVERS\n全員を友達状態にします"},
+        { "location": "108/TALK"   , "narrator": "つばめ", "text": "イベント終了後、\n正常に関係が変わってるか\n確認してください"},
+        { "location": "109/TALK"   , "narrator": "つばめ", "text": "テストを終了します"}
+    ]
+}

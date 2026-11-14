@@ -1,0 +1,34 @@
+{
+    "dir": "chap00/daydra/spev_ch02_019.js",
+    "type": "EventQuest",
+    "info": {
+        "story_id": "91013",
+        "cid": "ayami",
+        "title": "【期間限定】誕生日イベント",
+        "sub_title": "アーヤの誕生日"
+    },
+    "entry":
+    [
+        { "location": "8/SCENARIO", "narrator": "", "text": "アーヤの誕生日（復元）"},
+        { "location": "20/TALK"   , "narrator": "アーヤ", "text": "あら？\nなにかしら…。"},
+        { "location": "21/SEL"    , "narrator": "", "text": "お誕生日おめでとう！"},
+        { "location": "22/ACT"    , "narrator": "", "text": "お誕生日おめでとう！"},
+        { "location": "25/TALK"   , "narrator": "アーヤ", "text": "あっ、そっか！\n９月１４日って\n私の誕生日だったわね。"},
+        { "location": "26/TALK"   , "narrator": "アーヤ", "text": "ありがとう、\n$handle$。"},
+        { "location": "27/SEL"    , "narrator": "", "text": "プレゼントあるよ"},
+        { "location": "28/ACT"    , "narrator": "", "text": "プレゼントあるよ"},
+        { "location": "32/TALK"   , "narrator": "アーヤ", "text": "何が入ってるの\nかしら？"},
+        { "location": "33/SEL"    , "narrator": "", "text": "開けてみて！"},
+        { "location": "34/ACT"    , "narrator": "", "text": "開けてみて！"},
+        { "location": "44/DIALOG" , "narrator": "", "text": "アーヤのコスチューム\n<size=40><color=red><b>SKY－WIND</b></color></size>\nをゲットしました！"},
+        { "location": "48/TALK"   , "narrator": "アーヤ", "text": "大切にするわ。\n本当にありがとう。"},
+        { "location": "54/DIALOG" , "narrator": "", "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n接続されました。\n\n画面をタップして相手に\n感覚を伝えましょう。"},
+        { "location": "74/DIALOG" , "narrator": "", "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n切断されました。"},
+        { "location": "75/SEL"    , "narrator": "", "text": "そう言ってもらえると嬉しい"},
+        { "location": "76/SEL"    , "narrator": "", "text": "じゃあ、もっと触っちゃおう！"},
+        { "location": "77/ACT"    , "narrator": "", "text": "そう言ってもらえると嬉しい"},
+        { "location": "78/ACT"    , "narrator": "", "text": "じゃあ、もっと触っちゃおう！"},
+        { "location": "80/TALK"   , "narrator": "アーヤ", "text": "これからも末永く、\n私の隣にいてくださいね？"},
+        { "location": "83/DIALOG" , "narrator": "", "text": "コスチューム\n<color=green>【SKY－WIND】</color>は、\n夜時間にパジャマとして\n着せることができます。"}
+    ]
+}

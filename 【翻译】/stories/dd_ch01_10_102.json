@@ -1,0 +1,1085 @@
+{
+ "dir": "chap10/daydra/dd_ch01_10_102.js",
+ "type": "MainStory",
+ "info": {
+  "story_id": "10105",
+  "cid": "tsubame",
+  "title": "005 メインストーリー",
+  "sub_title": "新入隊員歓迎会＜後編＞",
+  "title_zh": "005 主线剧情",
+  "sub_title_zh": "新队员欢迎会＜后篇＞"
+ },
+ "entry": [
+  {
+   "location": "537/SCENARIO",
+   "narrator": "",
+   "text": "新入隊員歓迎会",
+   "zh": "新队员欢迎会",
+   "narrator_zh": ""
+  },
+  {
+   "location": "571/TALK",
+   "narrator": "つばめ",
+   "text": "…やっぱり、\n様子見に行こう。",
+   "zh": "……果然，\n还是去看看情况吧。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "572/TALK",
+   "narrator": "つばめ",
+   "text": "嫌われたくないから\nって、何もしない\nなんて――",
+   "zh": "不想被讨厌，\n就什么都不做，\n那种事——",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "573/TALK",
+   "narrator": "つばめ",
+   "text": "そんなの、本当の\n友達とは言えない\nもん。",
+   "zh": "那样的话，\n算不上真正的\n朋友呀。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "574/TALK",
+   "narrator": "つばめ",
+   "text": "あ、でもその前に…。",
+   "zh": "啊，不过在那之前……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "586/TALK",
+   "narrator": "つばめ",
+   "text": "$handle$さん",
+   "zh": "$handle$",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "587/TALK",
+   "narrator": "つばめ",
+   "text": "ちょっと聞きたいんだけど",
+   "zh": "有点想问你",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "588/TALK",
+   "narrator": "つばめ",
+   "text": "わたしの気持ちが変わったのって",
+   "zh": "我心情变了这件事",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "589/TALK",
+   "narrator": "つばめ",
+   "text": "$handle$さんのおかげ？",
+   "zh": "是$handle$的功劳吗？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "591/SEL",
+   "narrator": "",
+   "text": "手助けしただけ",
+   "zh": "只是帮了一点忙",
+   "narrator_zh": ""
+  },
+  {
+   "location": "592/ACT",
+   "narrator": "",
+   "text": "手助けしただけ",
+   "zh": "只是帮了一点忙",
+   "narrator_zh": ""
+  },
+  {
+   "location": "594/TALK",
+   "narrator": "つばめ",
+   "text": "やっぱり",
+   "zh": "果然",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "595/TALK",
+   "narrator": "つばめ",
+   "text": "ありがとう",
+   "zh": "谢谢",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "598/SEL",
+   "narrator": "",
+   "text": "いいから、早く探しに行ってあげて",
+   "zh": "好了，快去找她",
+   "narrator_zh": ""
+  },
+  {
+   "location": "599/ACT",
+   "narrator": "",
+   "text": "いいから、早く探しに行ってあげて",
+   "zh": "好了，快去找她",
+   "narrator_zh": ""
+  },
+  {
+   "location": "601/TALK",
+   "narrator": "つばめ",
+   "text": "うん",
+   "zh": "嗯",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "602/TALK",
+   "narrator": "つばめ",
+   "text": "そうするね",
+   "zh": "就这么做啦",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "613/TALK",
+   "narrator": "つばめ",
+   "text": "…急ごう。",
+   "zh": "……快点走。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "617/TALK",
+   "narrator": "真幌",
+   "text": "ふぅ…ん？",
+   "zh": "呼……嗯？",
+   "narrator_zh": "真幌"
+  },
+  {
+   "location": "618/TALK",
+   "narrator": "真幌",
+   "text": "なんだ、卯月はまだ\n戻ってないのか？",
+   "zh": "怎么，神乐还\n没回来吗？",
+   "narrator_zh": "真幌"
+  },
+  {
+   "location": "620/TALK",
+   "narrator": "アーヤ",
+   "text": "はい…あれ？\n館長も手洗いに\n行ったんですよね？",
+   "zh": "是……咦？\n馆长也去\n洗手间了吧？",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "621/TALK",
+   "narrator": "真幌",
+   "text": "ああ…変だな？\n私が手洗いに行った\nときにはもう――",
+   "zh": "啊……奇怪啊？\n我去洗手间的时候\n就已经——",
+   "narrator_zh": "真幌"
+  },
+  {
+   "location": "622/TALK",
+   "narrator": "真幌",
+   "text": "卯月が入っている\n様子はなかったん\nだが…。",
+   "zh": "并没有神乐\n在里面的\n样子……",
+   "narrator_zh": "真幌"
+  },
+  {
+   "location": "624/TALK",
+   "narrator": "つばめ",
+   "text": "…えっ？",
+   "zh": "……欸？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "645/TALK",
+   "narrator": "つばめ",
+   "text": "はぁ、はぁ…。",
+   "zh": "哈啊，哈啊……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "646/TALK",
+   "narrator": "つばめ",
+   "text": "ここじゃないみたい。\n卯月さん、どこに\n行っちゃったんだろ？",
+   "zh": "好像不是这里。\n神乐，跑到\n哪里去了呀？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "663/TALK",
+   "narrator": "ガブリエラ",
+   "text": "ちょっと神楽！\nふざけてないで\n出てきなさい！",
+   "zh": "神乐！\n别闹了，\n给我出来！",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "666/TALK",
+   "narrator": "真幌",
+   "text": "どうだ、ギャヴィ。\nそっちにはいたか？",
+   "zh": "怎么样，加维。\n那边有吗？",
+   "narrator_zh": "真幌"
+  },
+  {
+   "location": "668/TALK",
+   "narrator": "ガブリエラ",
+   "text": "…いないみたい。\nやっぱり、外に\n行ったんじゃない？",
+   "zh": "……好像不在。\n果然，是去\n外面了吧？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "670/TALK",
+   "narrator": "真幌",
+   "text": "まったく…。\n一言もなしに\n勝手なことを…。",
+   "zh": "真是的……\n一句话不说\n就自作主张……",
+   "narrator_zh": "真幌"
+  },
+  {
+   "location": "687/TALK",
+   "narrator": "みやび",
+   "text": "おーい、卯月ー。\nいないならいないと\nゆうてやー！",
+   "zh": "喂——，神乐——。\n不在的话\n就说一声啵！",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "688/TALK",
+   "narrator": "みやび",
+   "text": "…………。",
+   "zh": "…………。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "691/TALK",
+   "narrator": "みやび",
+   "text": "あかん。\nツッコミ不在のボケは\n虚しさ炸裂や…。",
+   "zh": "要不得。\n吐槽的人不在，\n装傻空落落咯……",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "707/TALK",
+   "narrator": "アーヤ",
+   "text": "もう、卯月ってば、\n本当にどこ行っちゃっ\nたのかしら？",
+   "zh": "真是的，神乐这孩子，\n到底跑到\n哪里去了？",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "708/TALK",
+   "narrator": "アーヤ",
+   "text": "…事件に巻き込まれ\nたりとかしてなければ\nいいんだけど。",
+   "zh": "……只要别卷进\n什么事件\n就好。",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "731/TALK",
+   "narrator": "つばめ",
+   "text": "卯月さん、本当に\nどこに…。",
+   "zh": "神乐，到底\n在哪里……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "732/TALK",
+   "narrator": "つばめ",
+   "text": "あっ！",
+   "zh": "啊！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "734/TALK",
+   "narrator": "神楽",
+   "text": "……　…。",
+   "zh": "……　…。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "735/TALK",
+   "narrator": "神楽",
+   "text": "…。",
+   "zh": "……。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "736/TALK",
+   "narrator": "つばめ",
+   "text": "卯月さん！",
+   "zh": "神乐！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "737/TALK",
+   "narrator": "神楽",
+   "text": "…え？\nつばめ…さん？",
+   "zh": "……欸？\n燕……？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "738/TALK",
+   "narrator": "つばめ",
+   "text": "よかったぁ…。\nやっと見つけたよ。",
+   "zh": "太好啦……\n总算找到你了。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "741/TALK",
+   "narrator": "つばめ",
+   "text": "急にいなくなった\nから、心配したん\nだよ？",
+   "zh": "突然不见了，\n我担心了\n哦？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "743/TALK",
+   "narrator": "神楽",
+   "text": "…………。",
+   "zh": "…………。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "744/TALK",
+   "narrator": "つばめ",
+   "text": "…大丈夫？\nもしかして、\nお腹が痛いの？",
+   "zh": "……没事吧？\n难道，\n肚子痛吗？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "746/TALK",
+   "narrator": "神楽",
+   "text": "…いえ、平気です。\n心配かけちゃって\nごめんなさい。",
+   "zh": "……没有，我没事。\n让你担心了，\n对不起。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "747/TALK",
+   "narrator": "つばめ",
+   "text": "じゃあ、\nもしかして気分が\n悪くなっちゃって――",
+   "zh": "那么，\n难道是身体\n不舒服了——",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "749/TALK",
+   "narrator": "神楽",
+   "text": "…平気ですから。\n本当、何でもないん\nです…。",
+   "zh": "……我没事。\n真的，什么事\n都没有……",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "751/TALK",
+   "narrator": "つばめ",
+   "text": "でも――",
+   "zh": "可是——",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "752/TALK",
+   "narrator": "神楽",
+   "text": "平気です！",
+   "zh": "我没事！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "753/TALK",
+   "narrator": "神楽",
+   "text": "何でもないって\n言ってるじゃない\nですか！？",
+   "zh": "我不是说\n什么事都没有\n吗！？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "754/TALK",
+   "narrator": "つばめ",
+   "text": "えっ…卯月、さん？",
+   "zh": "欸……神乐？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "758/TALK",
+   "narrator": "神楽",
+   "text": "…………。",
+   "zh": "…………。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "760/TALK",
+   "narrator": "つばめ",
+   "text": "…………。",
+   "zh": "…………。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "762/TALK",
+   "narrator": "神楽",
+   "text": "…ごめんなさい。\nやっぱり、ちょっと\n体調悪いみたいです。",
+   "zh": "……对不起。\n果然还是\n有点不舒服。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "768/TALK",
+   "narrator": "つばめ",
+   "text": "あっ、待ってよ\n卯月さん！",
+   "zh": "啊，等一下\n神乐！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "769/TALK",
+   "narrator": "つばめ",
+   "text": "…もし、何か困ってる\nこととかがあるん\nだったら――",
+   "zh": "……要是有什么\n为难的事\n的话——",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "771/TALK",
+   "narrator": "つばめ",
+   "text": "何でも話してね。\nわたし、相談に\n乗るから！",
+   "zh": "什么都跟我说哦。\n我来\n陪你商量！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "773/TALK",
+   "narrator": "神楽",
+   "text": "…………。",
+   "zh": "…………。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "777/TALK",
+   "narrator": "神楽",
+   "text": "じゃあ、お願いです。\n私の質問に、答えて\nもらえますか？",
+   "zh": "那么，拜托了。\n我的问题，\n可以请你回答吗？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "779/TALK",
+   "narrator": "つばめ",
+   "text": "う、うん…。\n質問って？",
+   "zh": "嗯、嗯……\n什么问题？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "780/TALK",
+   "narrator": "神楽",
+   "text": "…つばめさんは今、\n母親を人質に\n取られています。",
+   "zh": "……燕现在，\n母亲被抓去\n当人质了。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "781/TALK",
+   "narrator": "神楽",
+   "text": "強盗は母親に拳銃を\n突きつけながら――",
+   "zh": "强盗用手枪\n抵着母亲——",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "782/TALK",
+   "narrator": "神楽",
+   "text": "「お前の持っている\n包丁で父親を殺せ。さ\nもなくば母親を撃つ」",
+   "zh": "“用你手里的\n菜刀杀了父亲。\n不然就开枪打母亲”",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "784/TALK",
+   "narrator": "神楽",
+   "text": "そう言っています。\nつばめさんは、\nどうしますか？",
+   "zh": "他是这么说的。\n燕，\n你要怎么办？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "786/TALK",
+   "narrator": "つばめ",
+   "text": "えぇっ！？\nそ、そんなの、\n決められないよ…。",
+   "zh": "诶诶！？\n那、那种事，\n我决定不了呀……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "787/TALK",
+   "narrator": "神楽",
+   "text": "ダメです。\n答えてください。",
+   "zh": "不行。\n请回答。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "788/TALK",
+   "narrator": "神楽",
+   "text": "誰かとWAVEで\n相談しても\nいいですから…。",
+   "zh": "和谁用WAVE\n商量\n也可以……",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "790/TALK",
+   "narrator": "つばめ",
+   "text": "…………。",
+   "zh": "…………。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "804/TALK",
+   "narrator": "つばめ",
+   "text": "卯月さんの質問",
+   "zh": "神乐的问题",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "805/TALK",
+   "narrator": "つばめ",
+   "text": "聞ぃてた？",
+   "zh": "听到了吗？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "806/TALK",
+   "narrator": "つばめ",
+   "text": "ぉ母さんを人質に取られてて",
+   "zh": "妈、妈妈被抓去当人质",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "807/TALK",
+   "narrator": "つばめ",
+   "text": "「ぉ前の持ってぃる包丁で父親を殺せ。さもなくば母親を撃つ」",
+   "zh": "“你手里的菜刀，杀了父亲。不然就开枪打母亲”",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "808/TALK",
+   "narrator": "つばめ",
+   "text": "って言われたら",
+   "zh": "要是被这么说",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "809/TALK",
+   "narrator": "つばめ",
+   "text": "どぅするのが正しぃんだろ？",
+   "zh": "到底怎样做才对呀？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "811/SEL",
+   "narrator": "",
+   "text": "正解のない問題だね",
+   "zh": "是没有正确答案的问题吧",
+   "narrator_zh": ""
+  },
+  {
+   "location": "812/ACT",
+   "narrator": "",
+   "text": "正解のない問題だね",
+   "zh": "是没有正确答案的问题吧",
+   "narrator_zh": ""
+  },
+  {
+   "location": "814/TALK",
+   "narrator": "つばめ",
+   "text": "だから困ってるの",
+   "zh": "所以才为难呀",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "815/TALK",
+   "narrator": "つばめ",
+   "text": "本当にどっちかが死ぬわけじゃなぃけど",
+   "zh": "虽然不是真的会死掉一个",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "816/TALK",
+   "narrator": "つばめ",
+   "text": "私には選べなぃ",
+   "zh": "我选不了",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "817/TALK",
+   "narrator": "つばめ",
+   "text": "$handle$さんだったら",
+   "zh": "如果是$handle$",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "818/TALK",
+   "narrator": "つばめ",
+   "text": "どぅする？",
+   "zh": "会怎么做？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "820/SEL",
+   "narrator": "",
+   "text": "父親を殺す",
+   "zh": "杀了父亲",
+   "narrator_zh": ""
+  },
+  {
+   "location": "821/SEL",
+   "narrator": "",
+   "text": "母親を見殺しにする",
+   "zh": "见死不救，让母亲死",
+   "narrator_zh": ""
+  },
+  {
+   "location": "822/SEL",
+   "narrator": "",
+   "text": "いつまでに選べと言われてないから１年待って！",
+   "zh": "又没说要在什么时候选完，再等一年！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "823/ACT",
+   "narrator": "",
+   "text": "父親を殺す",
+   "zh": "杀了父亲",
+   "narrator_zh": ""
+  },
+  {
+   "location": "836/TALK",
+   "narrator": "つばめ",
+   "text": "…何も言わないで、\n閉じちゃった。",
+   "zh": "……什么都没说，\n就关掉了。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "837/TALK",
+   "narrator": "つばめ",
+   "text": "でも、お礼を言うのも\n変な感じだし…。",
+   "zh": "可是，道谢\n也觉得怪怪的……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "838/TALK",
+   "narrator": "神楽",
+   "text": "選びましたか？",
+   "zh": "选好了吗？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "841/TALK",
+   "narrator": "つばめ",
+   "text": "…わたしは…\nお父さんを、\n刺すと思う…。",
+   "zh": "……我……\n我想，会刺\n爸爸……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "845/TALK",
+   "narrator": "神楽",
+   "text": "…そうですか。\nなるほど…。",
+   "zh": "……是吗。\n原来如此……",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "847/TALK",
+   "narrator": "神楽",
+   "text": "つばめさんは、\n性的に満足して\nいないんですね。",
+   "zh": "燕，\n在性方面\n没有得到满足。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "849/TALK",
+   "narrator": "つばめ",
+   "text": "えっ！？",
+   "zh": "欸！？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "850/TALK",
+   "narrator": "神楽",
+   "text": "でも、潜在的には\n凄く求めています。\n人が恋しいんです。",
+   "zh": "不过，潜在地\n非常渴求。\n你很思念人。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "851/TALK",
+   "narrator": "神楽",
+   "text": "それと、夜はすごく\n積極的なはずです\nから――",
+   "zh": "而且，晚上应该\n会非常主动\n——",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "853/TALK",
+   "narrator": "神楽",
+   "text": "恋人を作れば、\n満たされると\n思いますよ。",
+   "zh": "交一个恋人的话，\n就会得到\n满足。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "856/TALK",
+   "narrator": "つばめ",
+   "text": "え？　え！？\nあ、あの、それって\nどういう…。",
+   "zh": "欸？欸！？\n啊、那个，这是\n什么意思……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "857/ACT",
+   "narrator": "",
+   "text": "母親を見殺しにする",
+   "zh": "见死不救，让母亲死",
+   "narrator_zh": ""
+  },
+  {
+   "location": "868/TALK",
+   "narrator": "つばめ",
+   "text": "…何も言わないで、\n閉じちゃった。",
+   "zh": "……什么都没说，\n就关掉了。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "869/TALK",
+   "narrator": "つばめ",
+   "text": "でも、お礼を言うのも\n変な感じだし…。",
+   "zh": "可是，道谢\n也觉得怪怪的……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "870/TALK",
+   "narrator": "神楽",
+   "text": "選びましたか？",
+   "zh": "选好了吗？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "873/TALK",
+   "narrator": "つばめ",
+   "text": "…わたしは…多分、\nお父さんを刺すなんて\nできないと思う…。",
+   "zh": "……我……大概，\n刺爸爸这种事\n做不到……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "877/TALK",
+   "narrator": "神楽",
+   "text": "…そうですか。\nなるほど…。",
+   "zh": "……是吗。\n原来如此……",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "879/TALK",
+   "narrator": "神楽",
+   "text": "つばめさんは、\n受け身タイプ\nなんですね。",
+   "zh": "燕，\n是被动型\n哦。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "880/TALK",
+   "narrator": "つばめ",
+   "text": "え？",
+   "zh": "欸？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "881/TALK",
+   "narrator": "神楽",
+   "text": "夜はちゃんとエスコー\nトしてくれる異性を\n選ぶのがいいです。",
+   "zh": "晚上，还是选\n会好好护送你的异性\n比较好。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "882/TALK",
+   "narrator": "神楽",
+   "text": "でもその奥手さは――",
+   "zh": "不过这份害羞——",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "884/TALK",
+   "narrator": "神楽",
+   "text": "何かをきっかけに\n爆発してひっくり返る\nかもしれませんよ。",
+   "zh": "说不定会因为\n某个契机爆发，\n然后反过来。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "886/TALK",
+   "narrator": "つばめ",
+   "text": "え？　え！？\nあ、あの、それって\nどういう…。",
+   "zh": "欸？欸！？\n啊、那个，这是\n什么意思……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "887/ACT",
+   "narrator": "",
+   "text": "いつまでに選べと言われてないから１年待って！",
+   "zh": "又没说要在什么时候选完，再等一年！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "888/TALK",
+   "narrator": "つばめ",
+   "text": "その答えって",
+   "zh": "那个答案",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "889/TALK",
+   "narrator": "つばめ",
+   "text": "ありなのかな？",
+   "zh": "能算数吗？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "901/TALK",
+   "narrator": "つばめ",
+   "text": "うーん…。",
+   "zh": "嗯……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "902/TALK",
+   "narrator": "神楽",
+   "text": "選びましたか？",
+   "zh": "选好了吗？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "903/TALK",
+   "narrator": "つばめ",
+   "text": "…期限はないん\nだよね？",
+   "zh": "……没有期限\n吧？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "904/TALK",
+   "narrator": "神楽",
+   "text": "…？\nどういうことですか？",
+   "zh": "……？\n什么意思？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "905/TALK",
+   "narrator": "つばめ",
+   "text": "あのね、いつまでに\n選べ、とは言われて\nないから――",
+   "zh": "那个呀，又没说\n要在什么时候\n选完——",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "906/TALK",
+   "narrator": "つばめ",
+   "text": "答えるの、１年くらい\n待ってもらえないか\nなぁ、って…。",
+   "zh": "回答的话，\n能不能再等我\n一年左右……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "907/TALK",
+   "narrator": "神楽",
+   "text": "…………。",
+   "zh": "…………。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "910/TALK",
+   "narrator": "神楽",
+   "text": "…そうですか。\nなるほど…。",
+   "zh": "……是吗。\n原来如此……",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "911/TALK",
+   "narrator": "神楽",
+   "text": "つばめさん、\nこの世界に絶望して\nいますね？",
+   "zh": "燕，\n你对这个世界\n绝望了吧？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "913/TALK",
+   "narrator": "つばめ",
+   "text": "えっ、絶望！？",
+   "zh": "欸，绝望！？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "914/TALK",
+   "narrator": "神楽",
+   "text": "はい。全ての人が\nいなくなればいい、\nと思っています。",
+   "zh": "是的。你觉得\n所有人消失\n就好了。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "915/TALK",
+   "narrator": "神楽",
+   "text": "だから、つばめさんは\n恋人を作ってはいけま\nせん。",
+   "zh": "所以，燕\n不可以\n交恋人。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "917/TALK",
+   "narrator": "神楽",
+   "text": "不幸にしてしまい\nますよ。",
+   "zh": "你会把对方\n变得不幸。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "918/TALK",
+   "narrator": "つばめ",
+   "text": "え？　え！？\nあ、あの、それって\nどういう…。",
+   "zh": "欸？欸！？\n啊、那个，这是\n什么意思……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "924/TALK",
+   "narrator": "神楽",
+   "text": "…なーんて、\nビックリしました？",
+   "zh": "……骗你的，\n吓到了吗？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "944/TALK",
+   "narrator": "神楽",
+   "text": "ちょっとした\n心理テストですよ。",
+   "zh": "只是个\n小小的心理测试。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "946/TALK",
+   "narrator": "つばめ",
+   "text": "な、なーんだぁ。\nビックリしちゃった\nよ。",
+   "zh": "什、什么呀。\n吓我\n一跳。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "947/TALK",
+   "narrator": "神楽",
+   "text": "ふふ、さっきスマホで\n見てたサイトに、\n書いてあったんです。",
+   "zh": "呵呵，刚才在手机上\n看的网站里，\n写着这个。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "948/TALK",
+   "narrator": "つばめ",
+   "text": "ふーん…卯月さんは\n何を選んだの？",
+   "zh": "嗯……神乐\n选了什么？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "949/TALK",
+   "narrator": "神楽",
+   "text": "…気になりますか？",
+   "zh": "……在意吗？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "951/TALK",
+   "narrator": "つばめ",
+   "text": "うん！\n教えてほしいな。",
+   "zh": "嗯！\n告诉我呀。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "954/TALK",
+   "narrator": "神楽",
+   "text": "う～ん…やっぱり、\nヒミツです。",
+   "zh": "嗯……果然，\n是秘密。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "955/TALK",
+   "narrator": "つばめ",
+   "text": "えー、ズルイよー。",
+   "zh": "诶——，太赖了啦。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "957/TALK",
+   "narrator": "神楽",
+   "text": "ふふっ…。",
+   "zh": "呵呵……",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "959/TALK",
+   "narrator": "アーヤ",
+   "text": "あっ、いたわ！\nほら、あそこ！",
+   "zh": "啊，在那儿！\n你看，那边！",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "961/TALK",
+   "narrator": "ガブリエラ",
+   "text": "ちょっと、神楽！",
+   "zh": "我说神乐！",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "965/TALK",
+   "narrator": "ガブリエラ",
+   "text": "やっと見つけた！\nこんなところに\nいたのね？",
+   "zh": "总算找到了！\n原来在\n这种地方？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "968/TALK",
+   "narrator": "アーヤ",
+   "text": "急にいなくなる\nなんて…。\n何かあったの？",
+   "zh": "突然消失\n什么的……\n出什么事了吗？",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "971/TALK",
+   "narrator": "神楽",
+   "text": "あ、いえ…、\nそういうわけじゃ\nなくて…。",
+   "zh": "啊，没有……\n不是\n那样……",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "974/TALK",
+   "narrator": "真幌",
+   "text": "ならば一言くらい\n言ってからにしろ。",
+   "zh": "那就先说一声\n再走。",
+   "narrator_zh": "真幌"
+  },
+  {
+   "location": "975/TALK",
+   "narrator": "真幌",
+   "text": "何も言わずに消える\n奴があるか？",
+   "zh": "哪有人一句话不说\n就消失的？",
+   "narrator_zh": "真幌"
+  },
+  {
+   "location": "979/TALK",
+   "narrator": "みやび",
+   "text": "ほんと、\n探し疲れで足が\n棒になったがよ。",
+   "zh": "真是的，\n找得脚\n都硬成棍子了啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "980/TALK",
+   "narrator": "みやび",
+   "text": "みやびさん専用\n１８０分足揉み券で\n許しちゃるぞね。",
+   "zh": "用一张雅专用的\n一百八十分钟揉脚券，\n就给你原谅啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "982/TALK",
+   "narrator": "神楽",
+   "text": "本当、ごめんなさい。\nご心配をおかけして。",
+   "zh": "真的，对不起。\n让大家担心了。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "983/TALK",
+   "narrator": "真幌",
+   "text": "まあ、何事もなかった\nようで一安心だ。",
+   "zh": "嗯，看来没事，\n这就放心了。",
+   "narrator_zh": "真幌"
+  },
+  {
+   "location": "985/TALK",
+   "narrator": "真幌",
+   "text": "さあ、劇場へ戻るぞ。\n卯月も食事はまだ\nだろう？",
+   "zh": "好了，回剧场。\n神乐饭也\n还没吃吧？",
+   "narrator_zh": "真幌"
+  },
+  {
+   "location": "988/TALK",
+   "narrator": "神楽",
+   "text": "はい。\nもうお腹ペコペコ\nです。",
+   "zh": "是。\n肚子已经\n饿扁了。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "991/TALK",
+   "narrator": "ガブリエラ",
+   "text": "何言ってんのよ。\n劇場飛び出したのは\nあんたじゃない…。",
+   "zh": "你在说什么。\n从剧场跑出去的\n不是你吗……",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "993/TALK",
+   "narrator": "つばめ",
+   "text": "…よかった。\n卯月さん、元気に\nなったみたい。",
+   "zh": "……太好了。\n神乐，好像\n有精神了。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "995/TALK",
+   "narrator": "つばめ",
+   "text": "でも…こんなところで\n何してたのかな…？",
+   "zh": "可是……在这种地方\n是在做什么呀……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1006/DIALOG",
+   "narrator": "Dialog_chapter_ch01",
+   "text": "【08 HANABI】",
+   "zh": "【08 HANABI】",
+   "narrator_zh": "Dialog_chapter_ch01"
+  }
+ ]
+}

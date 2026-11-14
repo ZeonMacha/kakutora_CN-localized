@@ -1,0 +1,630 @@
+{
+    "dir": "chap15/daydra/dd_ch01_15_010.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "15152",
+        "cid": "tsubame",
+        "title": "Extra002 プレミアムストーリー",
+        "sub_title": "神楽のノート",
+        "title_zh": "Extra002 额外剧情",
+        "sub_title_zh": "神乐的笔记本"
+    },
+    "entry": [
+        {
+            "location": "7/SCENARIO",
+            "narrator": "",
+            "text": "神楽のノート",
+            "zh": "神乐的笔记本",
+            "narrator_zh": ""
+        },
+        {
+            "location": "25/TALK",
+            "narrator": "つばめ",
+            "text": "ごめんね、卯月さん。\nもう少しで写し終わる\nから…。",
+            "zh": "对不起呀，卯月。\n马上就要抄完了\n……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "27/TALK",
+            "narrator": "神楽",
+            "text": "そんなに急がなくても、\n一日くらい貸しても\n平気ですよ？",
+            "zh": "不用那么急，\n借你一天左右\n也没关系哦？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "28/TALK",
+            "narrator": "つばめ",
+            "text": "ううん、大丈夫だよ。",
+            "zh": "不用，没关系呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "つばめ",
+            "text": "っていうか、わたしって\n文字写すのが遅いのかな？",
+            "zh": "话说，我是不是\n抄字太慢了呀？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "つばめ",
+            "text": "黒板の内容、授業中に\n写しきれないなんて…。",
+            "zh": "黑板上的内容，课上\n居然抄不完……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "神楽",
+            "text": "いつもじゃないなら、\nたまたまですよ。",
+            "zh": "不是每次都这样的话，\n就是碰巧哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "34/TALK",
+            "narrator": "神楽",
+            "text": "特に今日は、先生も\nひっきりなしに書いて\nましたからね。",
+            "zh": "尤其今天，老师也\n不停地写\n个没完。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "37/TALK",
+            "narrator": "つばめ",
+            "text": "でも、卯月さんは\nちゃんと写せてるよね？",
+            "zh": "可是，卯月\n都好好抄下来了吧？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "39/TALK",
+            "narrator": "つばめ",
+            "text": "字も綺麗だし…落書きも\nちょっと描いてあるし。",
+            "zh": "字也漂亮……涂鸦\n也画了一点。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "40/TALK",
+            "narrator": "つばめ",
+            "text": "あっ、この犬の絵可愛い！\n吹き出しまで付いてるし。",
+            "zh": "啊，这只小狗好可爱！\n还带了气泡。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "43/TALK",
+            "narrator": "神楽",
+            "text": "それは重要なポイントに\n描いてる印ですね。",
+            "zh": "那是标在重点上的\n记号哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "44/TALK",
+            "narrator": "神楽",
+            "text": "吹き出しにして囲めば、\nその子達が喋ってるような\n感じになるから――",
+            "zh": "画成气泡圈起来，\n就像那些孩子\n在说话一样，所以——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "45/TALK",
+            "narrator": "神楽",
+            "text": "何となく頭の中に\n残るんですよ。",
+            "zh": "就会模模糊糊\n留在脑子里。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "47/TALK",
+            "narrator": "つばめ",
+            "text": "ふーん…可愛いだけじゃ\nなくて、工夫してあるん\nだね…。",
+            "zh": "嗯……不只是可爱，\n还下了功夫\n呀……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "49/TALK",
+            "narrator": "つばめ",
+            "text": "…わたしも、真似して\n作ってみようかなぁ？",
+            "zh": "……我也学着\n做做看呀？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "50/SEL",
+            "narrator": "",
+            "text": "つばめも描いてみよう",
+            "zh": "燕也画看看吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "51/SEL",
+            "narrator": "",
+            "text": "提出の時恥ずかしいよ？",
+            "zh": "交上去的时候不害羞吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "52/SEL",
+            "narrator": "",
+            "text": "描く余裕、あるの？",
+            "zh": "有空画吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "55/TALK",
+            "narrator": "つばめ",
+            "text": "こんなノートがあったら、\n勉強も凄く楽しくなる\n気がするし。",
+            "zh": "有这样的笔记本，\n感觉学习也会\n变得很好玩呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "神楽",
+            "text": "そうですね。\n素っ気ないノートよりは、\n読んでて楽しいですし。",
+            "zh": "是呀。\n比起干巴巴的笔记本，\n读起来也有意思。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "57/TALK",
+            "narrator": "神楽",
+            "text": "まあ、自分で作るから\nちょっと大変では\nありますけど…。",
+            "zh": "不过，要自己做，\n还是有点费事\n……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "神楽",
+            "text": "もし作るなら、\n絵は出来る限り簡略化\nした方がいいですよ。",
+            "zh": "要是做的话，\n画尽量简化\n比较好哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "61/TALK",
+            "narrator": "神楽",
+            "text": "時間の限られた授業中に、\n時間を掛けて凄い絵を\n描いたりは出来ませんし。",
+            "zh": "时间有限的课上，\n没法花时间\n画很厉害的画。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "つばめ",
+            "text": "そうだよね…。\n卯月さんの絵も、\nそんな感じだし。",
+            "zh": "是呀……。\n卯月的画，\n也是那种感觉。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "神楽",
+            "text": "時間を見つけて、サラッと\n描く程度ですからね。",
+            "zh": "抽空随手\n画一下而已。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "66/TALK",
+            "narrator": "神楽",
+            "text": "あとは、色を付けたり、\n小さいスタンプを使うのも\nオススメです。",
+            "zh": "另外，上上色，\n或者用小印章，\n我也推荐。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "67/TALK",
+            "narrator": "つばめ",
+            "text": "わぁ、何だか楽しそう！",
+            "zh": "哇，好像很好玩！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "69/TALK",
+            "narrator": "神楽",
+            "text": "鞄の中に入ってるので、\n一式出しておきますね。",
+            "zh": "放在包里，\n我把一整套拿出来哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "71/TALK",
+            "narrator": "つばめ",
+            "text": "ありがとう、卯月さん。\nそれじゃあ早速何か絵を\n描いてみよっと。",
+            "zh": "谢谢，卯月。\n那我这就画点\n什么看看呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "73/TALK",
+            "narrator": "神楽",
+            "text": "…楽しそうな気分を\n壊すようで申し訳ないん\nですけど――",
+            "zh": "……好像破坏了\n开心的心情，\n真对不起——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "74/TALK",
+            "narrator": "神楽",
+            "text": "ノートを写す作業のこと、\n忘れないでくださいね？",
+            "zh": "抄笔记这件事，\n可别忘了哦？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "76/ACT",
+            "narrator": "",
+            "text": "つばめも描いてみよう",
+            "zh": "燕也画看看吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "97/TALK",
+            "narrator": "つばめ",
+            "text": "うん、わたしもそう思ってた",
+            "zh": "嗯，我也是这么想的",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "98/TALK",
+            "narrator": "つばめ",
+            "text": "こっちの方が、絶対勉強も楽しくなるよ",
+            "zh": "这样的话，学习绝对也会更好玩呀",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "110/TALK",
+            "narrator": "つばめ",
+            "text": "よーし、決めた！\nわたしも真似して、\n色々絵を描きこむよ。",
+            "zh": "好，决定了！\n我也学着，\n多画些画进去呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "111/TALK",
+            "narrator": "神楽",
+            "text": "あ、でしたら、\n絵は出来る限り簡略化\nした方がいいですよ。",
+            "zh": "啊，那样的话，\n画尽量简化\n比较好哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "112/TALK",
+            "narrator": "神楽",
+            "text": "時間の限られた授業中に、\n時間を掛けて凄い絵を\n描いたりは出来ませんし。",
+            "zh": "时间有限的课上，\n没法花时间\n画很厉害的画。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "113/TALK",
+            "narrator": "つばめ",
+            "text": "そうだよね…。\n卯月さんの絵も、\nそんな感じだし。",
+            "zh": "是呀……。\n卯月的画，\n也是那种感觉。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "115/TALK",
+            "narrator": "神楽",
+            "text": "時間を見つけて、サラッと\n描く程度ですからね。",
+            "zh": "抽空随手\n画一下而已。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "116/TALK",
+            "narrator": "神楽",
+            "text": "あとは、色を付けたり、\n小さいスタンプを使うのも\nオススメです。",
+            "zh": "另外，上上色，\n或者用小印章，\n我也推荐。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "117/TALK",
+            "narrator": "つばめ",
+            "text": "わぁ、何だか楽しそう！",
+            "zh": "哇，好像很好玩！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "119/TALK",
+            "narrator": "神楽",
+            "text": "鞄の中に入ってるので、\n一式出しておきますね。",
+            "zh": "放在包里，\n我把一整套拿出来哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "120/TALK",
+            "narrator": "つばめ",
+            "text": "ありがとう、卯月さん。\nそれじゃあ早速何か絵を\n描いてみよっと。",
+            "zh": "谢谢，卯月。\n那我这就画点\n什么看看呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "122/TALK",
+            "narrator": "神楽",
+            "text": "…楽しそうな気分を\n壊すようで申し訳ないん\nですけど――",
+            "zh": "……好像破坏了\n开心的心情，\n真对不起——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "123/TALK",
+            "narrator": "神楽",
+            "text": "ノートを写す作業のこと、\n忘れないでくださいね？",
+            "zh": "抄笔记这件事，\n可别忘了哦？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "124/ACT",
+            "narrator": "",
+            "text": "提出の時恥ずかしいよ？",
+            "zh": "交上去的时候不害羞吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "つばめ",
+            "text": "そうだよ、提出のこと忘れてたよ",
+            "zh": "对呀，交上去的事我忘了",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "147/TALK",
+            "narrator": "つばめ",
+            "text": "卯月さん、大丈夫かな？",
+            "zh": "卯月，不要紧吧？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "159/TALK",
+            "narrator": "つばめ",
+            "text": "ねえ、卯月さん。\nやっぱり絵は消した方が\nいいんじゃないかな？",
+            "zh": "喂，卯月。\n画还是擦掉\n比较好吧？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "161/TALK",
+            "narrator": "神楽",
+            "text": "えっ、どうしてですか？",
+            "zh": "诶，为什么？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "162/TALK",
+            "narrator": "つばめ",
+            "text": "授業で提出する時に、\n先生に見られちゃうん\nだよ？",
+            "zh": "上课交上去的时候，\n会被老师看到的\n呀？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "163/TALK",
+            "narrator": "つばめ",
+            "text": "きっと、真面目に授業を\n受けなさい、って\n怒られちゃうよ。",
+            "zh": "肯定会挨骂，\n说什么上课\n给我认真点呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "164/TALK",
+            "narrator": "神楽",
+            "text": "そんなことないですよ。",
+            "zh": "没有那种事哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "165/TALK",
+            "narrator": "神楽",
+            "text": "前の学校でも同じような\nノートの取り方をして\nいましたけど――",
+            "zh": "以前的学校我也\n用差不多的方法\n记笔记——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "166/TALK",
+            "narrator": "神楽",
+            "text": "褒められこそすれ、\n怒られはしません\nでしたし。",
+            "zh": "倒是被夸过，\n挨骂是\n没有的。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "168/TALK",
+            "narrator": "つばめ",
+            "text": "えっ！？　褒められたの？",
+            "zh": "诶！？　被夸了？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "170/TALK",
+            "narrator": "神楽",
+            "text": "はい。重要な個所にだけ、\n的確に絵が描かれてて\n目立ちやすい、って――",
+            "zh": "是的。只在重要的地方，\n画得正合适，\n还很显眼——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "171/TALK",
+            "narrator": "神楽",
+            "text": "絵のところに花丸を\n描いてもらったり\nしてたんです。",
+            "zh": "还在画旁边\n给我画了朵花\n当表扬。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "172/TALK",
+            "narrator": "つばめ",
+            "text": "そうだったんだぁ…。",
+            "zh": "原来是这样呀……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "174/TALK",
+            "narrator": "つばめ",
+            "text": "じゃあ、重要な箇所を\nしっかり見分けないと\nいけないんだね？",
+            "zh": "那，就得好好分清\n哪里是重点\n才行呀？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "175/TALK",
+            "narrator": "神楽",
+            "text": "もちろんですよ。\nじゃなきゃ、落書き帳に\nなっちゃいますよ？",
+            "zh": "当然哦。\n不然就会变成\n涂鸦本了哦？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "177/TALK",
+            "narrator": "つばめ",
+            "text": "だよね…。",
+            "zh": "是呀……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "178/TALK",
+            "narrator": "つばめ",
+            "text": "卯月さんみたいな\nノートは、作ってみたい\nから――",
+            "zh": "像卯月那样的\n笔记本，我想做做看，\n所以——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "179/TALK",
+            "narrator": "つばめ",
+            "text": "いっぱい勉強して、\n大切な個所を見分けられる\nようになるのを目指すよ。",
+            "zh": "我会多学，\n目标是能分清\n重要的地方呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "180/TALK",
+            "narrator": "神楽",
+            "text": "つばめさんがやる気を\n出せたみたいで、私も\n嬉しいです。",
+            "zh": "燕能提起劲来，\n我也很\n高兴。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "181/TALK",
+            "narrator": "神楽",
+            "text": "けど…勉強の目的、\nちょっと変わってきて\nいませんか？",
+            "zh": "不过……学习的目的，\n是不是有点\n变了？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "182/ACT",
+            "narrator": "",
+            "text": "描く余裕、あるの？",
+            "zh": "有空画吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "204/TALK",
+            "narrator": "つばめ",
+            "text": "授業中に描くのは、多分無理かも…",
+            "zh": "上课的时候画，大概不行……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "205/TALK",
+            "narrator": "つばめ",
+            "text": "でも、帰ってからなら描けるよね？",
+            "zh": "不过，回去之后就能画了吧？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "216/TALK",
+            "narrator": "つばめ",
+            "text": "うん、決めた！",
+            "zh": "嗯，决定了！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "217/TALK",
+            "narrator": "つばめ",
+            "text": "授業中は無理だから、\n帰ってから、復習する\n時に描くよ。",
+            "zh": "上课的时候不行，\n所以回去复习的\n时候再画呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "218/TALK",
+            "narrator": "つばめ",
+            "text": "それなら時間の制限も\nないから、ゆっくり\n描けるしね。",
+            "zh": "那样也没有时间限制，\n可以慢慢\n画呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "221/TALK",
+            "narrator": "神楽",
+            "text": "つばめさんの場合は、\nそっちの方が良さそう\nですね。",
+            "zh": "燕的话，\n那样似乎比较好\n呀。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "222/TALK",
+            "narrator": "神楽",
+            "text": "それに、帰ってから\nノートを開く理由も\nできるので――",
+            "zh": "而且，回去之后\n也有理由打开笔记本了，\n所以——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "223/TALK",
+            "narrator": "神楽",
+            "text": "毎日読み返すのが\n習慣になるかも\nしれませんし。",
+            "zh": "说不定每天翻看\n会变成\n习惯。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "224/TALK",
+            "narrator": "つばめ",
+            "text": "いいことづくめだよね。\nよーし、寮に帰ったら、\n早速やってみよっと。",
+            "zh": "全是好事呀。\n好，回宿舍之后，\n这就试试看呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "225/TALK",
+            "narrator": "神楽",
+            "text": "あ、待ってください。\nつばめさんのノート、\n貸してもらえますか？",
+            "zh": "啊，请等一下。\n燕的笔记本，\n可以借我吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "226/TALK",
+            "narrator": "つばめ",
+            "text": "うん、いいけど…。",
+            "zh": "嗯，可以呀……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "228/TALK",
+            "narrator": "神楽",
+            "text": "ありがとうございます。\nじゃあ、上の余白に…。",
+            "zh": "谢谢。\n那么，在上面的空白处……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "230/TALK",
+            "narrator": "つばめ",
+            "text": "…あ、かわいい！\n犬の絵だ！",
+            "zh": "……啊，好可爱！\n是小狗的画！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "231/TALK",
+            "narrator": "神楽",
+            "text": "ここに吹き出しを\n付けて…。",
+            "zh": "在这里加上\n气泡……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "233/TALK",
+            "narrator": "つばめ",
+            "text": "えっと…『僕を描くのに\n夢中にならないでね』？",
+            "zh": "那个……『画我的时候\n别太入迷哦』？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "235/TALK",
+            "narrator": "神楽",
+            "text": "つばめさん、なんだか\n絵を描く方に集中しちゃい\nそうな気がしたので――",
+            "zh": "燕，总觉得\n你会一门心思去画画，\n所以——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "236/TALK",
+            "narrator": "神楽",
+            "text": "絶対に見てくれそうな\n注意書きにしてみました。",
+            "zh": "写成了你绝对会看的\n提醒。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "238/TALK",
+            "narrator": "つばめ",
+            "text": "あはは…言われなかったら\n多分そうなってたよ。",
+            "zh": "啊哈哈……要是没说，\n大概就会那样呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "239/TALK",
+            "narrator": "つばめ",
+            "text": "でも、これならもう\n安心だね。\nありがと、卯月さん。",
+            "zh": "不过，这样我就\n放心了呀。\n谢谢，卯月。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "15/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>7月18日　15:53 PM</color>\nとある初夏の平日、神楽坂トライナリーでのバイト中のこと。",
+            "zh": "<color=green>7月18日　15:53 PM</color>\n某个初夏的工作日，在神乐坂三重奏打工的时候。",
+            "narrator_zh": "Dialog_EventData"
+        }
+    ]
+}

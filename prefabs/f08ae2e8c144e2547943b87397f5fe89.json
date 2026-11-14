@@ -1,0 +1,25 @@
+{
+    "dir": "f08ae2e8c144e2547943b87397f5fe89",
+    "type": "prefabs",
+    "info": {
+    },
+    "entry":
+    [
+        { "location": "5/UI" , "narrator": "BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/ImageC/Text", "text": "Energy Quantization..."},
+        { "location": "6/UI" , "narrator": "BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text", "text": "MOMENTUM,"},
+        { "location": "7/UI" , "narrator": "BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text (1)", "text": "WAVELENGTH,"},
+        { "location": "8/UI" , "narrator": "BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text (2)", "text": "FREQUENCY,"},
+        { "location": "9/UI" , "narrator": "BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/QM/QM/Text", "text": "QM : Quantum\nmechanics"},
+        { "location": "10/UI", "narrator": "BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/QM/QM/Text (1)", "text": "QM"},
+        { "location": "11/UI", "narrator": "BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text", "text": "TISE"},
+        { "location": "12/UI", "narrator": "BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (1)", "text": "Time-independent Schrödinger equation\n∵ Schrödinger's wave function(t,x) = Time(t)･Space(x),\n-√1･h/2π･dTime(t)/dt･Space(x)\n=Time(t)･Quantized_Hamiltonian{x,√1･h/2π(∂/∂x,∂/∂y,∂/∂z)}･Space(x)\n→∇(nabla)≡(∂/∂x,∂/∂y,∂/∂z) , div{Time(t)･Space(x)}→\n-√1･h/2π･dTime(t)/dt/Time(t)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)/Space(x)\nLet constant be E(Energy).\nE･Time(t)=-√1･h/2π･dTime(t)/dt ,\n∴ E･Space(x)=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)  "},
+        { "location": "13/UI", "narrator": "BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (2)", "text": "by the Austrian physicist\nErwin Rudolf Josef\nAlexander Schrödinger,1887-1961\n\nSchrödinger equation :\nBasic equations in quantum mechanics in physics.\n\nTime-dependent\nSchrödinger equation\n\nHamiltonian(x,Px,Py.Pz)\n→Quantized_Hamiltonian(x,∇)=Potential(x)-(h/2π)²/2m･∇²\n∴ -√1･h/2π･∂/∂x･wave function(t,x)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･wave function(t,x)"},
+        { "location": "14/UI", "narrator": "BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (3)", "text": "The time-independent Schrödinger equation predicts that wave functions can form standing waves, called stationary states. These states are important in their own right, and if the stationary states are classified and understood, then it becomes easier to solve the time-dependent Schrödinger equation for any state. The time-independent Schrödinger equation is the equation describing stationary states."},
+        { "location": "15/UI", "narrator": "BattleLoadingCanvas/BattleLoading/EnemyNameText", "text": "パティスリエ"},
+        { "location": "16/UI", "narrator": "BattleLoadingCanvas/BattleLoading/EnemyNameText/Text", "text": "ENEMY_CURAN_DATAFILE/."},
+        { "location": "17/UI", "narrator": "BattleLoadingCanvas/BattleLoading/InfoText", "text": "パティシエ日本一を決める大会のため、日夜特訓をする子。だが、センス無き為、予選敗退。何故自分はダメなのか、こんなに人一倍頑張っているのに、悔しさと憤りで発症。お菓子の国を作り、自分が女王様になってみんなに万歳される世界を創造するが、三食毎日ケーキやお菓子なのでみんな基本死亡コース。"},
+        { "location": "18/UI", "narrator": "BattleLoadingCanvas/BattleLoading/Loading/Text", "text": "LOADING..."},
+        { "location": "19/UI", "narrator": "BattleLoadingCanvas/BattleLoading/TapStart/Text", "text": "READY ! !"},
+        { "location": "20/UI", "narrator": "BattleLoadingCanvas/BattleLoading/TapStart/Text (1)", "text": "タップでバトルスタート"}
+    ]
+}

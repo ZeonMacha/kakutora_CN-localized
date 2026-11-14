@@ -1,0 +1,182 @@
+{
+    "dir": "chap00/daydra/spev_ch01_019.js",
+    "type": "EventQuest",
+    "info": {
+        "story_id": "91011",
+        "cid": "tsubame",
+        "title": "【期間限定】誕生日イベント",
+        "sub_title": "つばめの誕生日",
+        "title_zh": "【限时】生日活动",
+        "sub_title_zh": "燕的生日"
+    },
+    "entry": [
+        {
+            "location": "8/SCENARIO",
+            "narrator": "",
+            "text": "つばめの誕生日（復元）",
+            "zh": "燕的生日（复原）",
+            "narrator_zh": ""
+        },
+        {
+            "location": "20/TALK",
+            "narrator": "つばめ",
+            "text": "え！？\nなになに？",
+            "zh": "诶！？\n什么什么？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "21/SEL",
+            "narrator": "",
+            "text": "お誕生日おめでとう！",
+            "zh": "生日快乐！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "22/ACT",
+            "narrator": "",
+            "text": "お誕生日おめでとう！",
+            "zh": "生日快乐！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "24/TALK",
+            "narrator": "つばめ",
+            "text": "ああっ、そっか！\n6月7日はわたしの……。",
+            "zh": "啊啊，对了！\n6月7日是我的……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "25/TALK",
+            "narrator": "つばめ",
+            "text": "ありがとう、$handle$\nさん。",
+            "zh": "谢谢你，\n$handle$。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "26/SEL",
+            "narrator": "",
+            "text": "プレゼントあるよ",
+            "zh": "有礼物哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "27/ACT",
+            "narrator": "",
+            "text": "プレゼントあるよ",
+            "zh": "有礼物哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "29/TALK",
+            "narrator": "つばめ",
+            "text": "えっ、ほんと？",
+            "zh": "诶，真的？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "つばめ",
+            "text": "わあっ！あけていいかな？",
+            "zh": "哇！可以打开吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "33/SEL",
+            "narrator": "",
+            "text": "もちろん！",
+            "zh": "当然！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "34/ACT",
+            "narrator": "",
+            "text": "もちろん！",
+            "zh": "当然！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "36/TALK",
+            "narrator": "つばめ",
+            "text": "えへへ、なんだろう～。",
+            "zh": "诶嘿嘿，会是什么呢～。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "45/DIALOG",
+            "narrator": "",
+            "text": "つばめのコスチューム\n<size=40><color=red><b>メノウティー</b></color></size>\nをゲットしました！",
+            "zh": "燕的服装\n<size=40><color=red><b>MENOW DAY</b></color></size>\n拿到了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "48/TALK",
+            "narrator": "つばめ",
+            "text": "わあっ！メノウちゃんの\nTシャツだぁっ！",
+            "zh": "哇！MENOW的\nT恤！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "49/TALK",
+            "narrator": "つばめ",
+            "text": "これ、ライブ限定だった\nから、今はもう手に入ら\nないんだよね。",
+            "zh": "这是现场限定的，\n现在已经\n买不到了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "50/TALK",
+            "narrator": "つばめ",
+            "text": "だから、すごい欲しかっ\nたんだけど諦めてたんだ。",
+            "zh": "所以我非常想要，\n却放弃了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "51/TALK",
+            "narrator": "つばめ",
+            "text": "すごく嬉しい！\n本当にありがとう！",
+            "zh": "非常高兴！\n真的谢谢你！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "57/DIALOG",
+            "narrator": "",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n接続されました。\n\n画面をタップして相手に\n感覚を伝えましょう。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已连接。\n\n请点击画面，向对方\n传达感觉吧。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "77/DIALOG",
+            "narrator": "",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n切断されました。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已断开。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "78/TALK",
+            "narrator": "つばめ",
+            "text": "えへへ。頭なでなでされ\nちゃった。",
+            "zh": "诶嘿嘿。头被\n摸了摸。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "79/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんに誕生日\nお祝いしてもらえてホン\nトに嬉しいです。",
+            "zh": "能让$handle$庆祝\n生日，我真的\n很高兴。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "80/TALK",
+            "narrator": "つばめ",
+            "text": "これからも、ずっと一緒\nにいてね？",
+            "zh": "以后也要一直\n在一起哦？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "83/DIALOG",
+            "narrator": "",
+            "text": "コスチューム\n<color=green>【メノウティー】</color>は、\n夜時間にパジャマとして\n着せることができます。",
+            "zh": "服装\n<color=green>【MENOW DAY】</color>\n可以在夜晚时段当作睡衣\n穿上。",
+            "narrator_zh": ""
+        }
+    ]
+}

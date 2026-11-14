@@ -1,0 +1,623 @@
+{
+    "dir": "chap12/daydra/dd_ch01_12_102.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "12105",
+        "cid": "tsubame",
+        "title": "005 メインストーリー",
+        "sub_title": "新メンバー？＜後編＞",
+        "title_zh": "005 主线剧情",
+        "sub_title_zh": "新成员？＜后篇＞"
+    },
+    "entry": [
+        {
+            "location": "622/SCENARIO",
+            "narrator": "",
+            "text": "新メンバー？",
+            "zh": "新成员？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "644/TALK",
+            "narrator": "つばめ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "648/TALK",
+            "narrator": "つばめ",
+            "text": "…ありがと、みんな。\nとっても心強いよ。",
+            "zh": "……谢谢大家。\n有你们在，心里踏实多了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "650/TALK",
+            "narrator": "雛",
+            "text": "そう思ってくれる？",
+            "zh": "你是这么想的？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "652/TALK",
+            "narrator": "つばめ",
+            "text": "うん！",
+            "zh": "嗯！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "653/TALK",
+            "narrator": "雛",
+            "text": "そっか…よかったぁ！",
+            "zh": "这样啊……太好啦！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "654/TALK",
+            "narrator": "雛",
+            "text": "もしかしたら、\nつばめちゃんを\n困らせたりとか――",
+            "zh": "万一，\n给燕\n添了麻烦——",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "655/TALK",
+            "narrator": "雛",
+            "text": "迷惑に思われたりとか\nしたらどうしよう、\nって不安だったんだ。",
+            "zh": "或者被当成\n打扰了怎么办，\n我一直不安。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "656/TALK",
+            "narrator": "ヒカル",
+            "text": "逢瀬さんに内緒で、\nここまで話を進めて\nしまいましたからね。",
+            "zh": "没告诉逢濑，\n就把事情\n推进到这一步了。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "657/TALK",
+            "narrator": "雛",
+            "text": "うん…お節介って\n思われたらどうしよう\nって――",
+            "zh": "嗯……要是被当成\n多管闲事\n怎么办——",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "658/TALK",
+            "narrator": "雛",
+            "text": "実は、ちょっとだけ\n怖かったんだ。",
+            "zh": "其实，有一点\n害怕。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "659/TALK",
+            "narrator": "つばめ",
+            "text": "ひなこちゃん…。\nわたし、そんな風に\n思ってないよ。",
+            "zh": "小雏……\n我没有\n那么想哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "662/TALK",
+            "narrator": "つばめ",
+            "text": "学校だけじゃなくて、\nバイトでも一緒に\nいられるなんて――",
+            "zh": "不只是学校，\n打工也能在一起\n——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "663/TALK",
+            "narrator": "つばめ",
+            "text": "とっても嬉しいよ！",
+            "zh": "好高兴呀！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "664/TALK",
+            "narrator": "雛",
+            "text": "えへへ…よかったぁ。",
+            "zh": "诶嘿嘿……太好啦。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "665/TALK",
+            "narrator": "繭",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "666/TALK",
+            "narrator": "キリト",
+            "text": "へへっ…さてと――",
+            "zh": "嘿嘿……那么——",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "667/TALK",
+            "narrator": "キリト",
+            "text": "教官に言われた\n倉庫の整理、さっさと\n済ませちまうか。",
+            "zh": "教官交代的\n仓库整理，赶紧\n做完算了。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "669/TALK",
+            "narrator": "神楽",
+            "text": "場所はわかりますか？",
+            "zh": "知道地方吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "671/TALK",
+            "narrator": "ヒカル",
+            "text": "いえ…案内して\nもらえると\n助かります。",
+            "zh": "不……要是能\n带一下路，\n就帮大忙了。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "674/TALK",
+            "narrator": "神楽",
+            "text": "わかりました。\nでは、ついてきて\nください。",
+            "zh": "知道了。\n那么，跟我\n来。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "676/TALK",
+            "narrator": "キリト",
+            "text": "じゃあ、また後でな！",
+            "zh": "那就，回头见！",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "685/TALK",
+            "narrator": "雛",
+            "text": "そうだ！　あたしも\n教官に言われてること\nあるんだった！",
+            "zh": "对了！我也有\n教官交代的事\n来着！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "687/TALK",
+            "narrator": "雛",
+            "text": "まゆちん、手伝って。",
+            "zh": "小茧，帮我。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "689/TALK",
+            "narrator": "繭",
+            "text": "拒否。\n私の仕事じゃない。",
+            "zh": "拒绝。\n不是我的工作。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "690/TALK",
+            "narrator": "雛",
+            "text": "部長命令ですー！\nほら、来て来て。",
+            "zh": "这是部长命令——！\n来，过来过来。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "693/TALK",
+            "narrator": "繭",
+            "text": "…貸しにしとくわ。",
+            "zh": "……记你一笔。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "707/TALK",
+            "narrator": "つばめ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "719/TALK",
+            "narrator": "つばめ",
+            "text": "わたし",
+            "zh": "我",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "720/TALK",
+            "narrator": "つばめ",
+            "text": "ひなこちゃん達に",
+            "zh": "对小雏她们",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "721/TALK",
+            "narrator": "つばめ",
+            "text": "謝った方がぃぃかな？(´・ω・｀)",
+            "zh": "是不是该道歉呀？(´・ω・｀)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "724/SEL",
+            "narrator": "",
+            "text": "どういうこと？",
+            "zh": "怎么回事？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "725/ACT",
+            "narrator": "",
+            "text": "どういうこと？",
+            "zh": "怎么回事？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "727/TALK",
+            "narrator": "つばめ",
+            "text": "わたしね",
+            "zh": "我呀",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "728/TALK",
+            "narrator": "つばめ",
+            "text": "みんなが",
+            "zh": "大家",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "729/TALK",
+            "narrator": "つばめ",
+            "text": "ぉ手伝ぃしてくれるの聞ぃて",
+            "zh": "听说要来帮忙",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "730/TALK",
+            "narrator": "つばめ",
+            "text": "やめてほしぃな、って",
+            "zh": "就想说，希望别这样",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "731/TALK",
+            "narrator": "つばめ",
+            "text": "思っちゃったの(o´Д`)=з",
+            "zh": "结果这么想了(o´Д`)=з",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "734/SEL",
+            "narrator": "",
+            "text": "それはどうして？",
+            "zh": "那是为什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "735/ACT",
+            "narrator": "",
+            "text": "それはどうして？",
+            "zh": "那是为什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "737/TALK",
+            "narrator": "つばめ",
+            "text": "だって",
+            "zh": "因为",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "738/TALK",
+            "narrator": "つばめ",
+            "text": "ひなこちゃん達は普通の人だから",
+            "zh": "因为小雏她们是普通人",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "739/TALK",
+            "narrator": "つばめ",
+            "text": "フェノメノンとは戦ぇなぃでしょ？ヾ(｡>﹏<｡)ﾉﾞ",
+            "zh": "没法和PhenoMENON战斗吧？ヾ(｡>﹏<｡)ﾉﾞ",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "740/TALK",
+            "narrator": "つばめ",
+            "text": "それなのに手伝ぅなんて",
+            "zh": "可还是说要帮忙",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "741/TALK",
+            "narrator": "つばめ",
+            "text": "危険だと思ったの(´ｪ｀；)三(；´ｪ｀)",
+            "zh": "我觉得很危险(´ｪ｀；)三(；´ｪ｀)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "744/TALK",
+            "narrator": "つばめ",
+            "text": "わたし",
+            "zh": "我",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "745/TALK",
+            "narrator": "つばめ",
+            "text": "自分が戦ぇるからって",
+            "zh": "就因为自己能战斗",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "746/TALK",
+            "narrator": "つばめ",
+            "text": "ぃぃ気分になってたの\nかなぁ？(o´Д`)=з",
+            "zh": "是不是有点\n得意了？(o´Д`)=з",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "747/TALK",
+            "narrator": "つばめ",
+            "text": "ひなこちゃん達は",
+            "zh": "小雏她们",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "748/TALK",
+            "narrator": "つばめ",
+            "text": "純粋にわたし達のことを思って",
+            "zh": "是真心为我们着想",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "749/TALK",
+            "narrator": "つばめ",
+            "text": "手伝ぅって言ってくれたのに",
+            "zh": "才说要帮忙的",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "750/TALK",
+            "narrator": "つばめ",
+            "text": "失礼なこと考ぇちゃって(´つω・｀)ｼｭﾝ",
+            "zh": "我却想了失礼的事(´つω・｀)蔫",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "754/TALK",
+            "narrator": "つばめ",
+            "text": "だから",
+            "zh": "所以",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "755/TALK",
+            "narrator": "つばめ",
+            "text": "本当はぁりがとぅとか嬉しぃじゃなくて",
+            "zh": "其实不该说谢谢、好高兴",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "756/TALK",
+            "narrator": "つばめ",
+            "text": "ごめんなさぃって",
+            "zh": "该说对不起",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "757/TALK",
+            "narrator": "つばめ",
+            "text": "言わなきゃぃけなぃのかも(´･ω･｀) ",
+            "zh": "也许必须这么说(´･ω･｀)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "759/SEL",
+            "narrator": "",
+            "text": "みんなそんなの望んでない",
+            "zh": "大家不会想要那种",
+            "narrator_zh": ""
+        },
+        {
+            "location": "760/SEL",
+            "narrator": "",
+            "text": "危険なのは事実",
+            "zh": "危险是事实",
+            "narrator_zh": ""
+        },
+        {
+            "location": "761/ACT",
+            "narrator": "",
+            "text": "みんなそんなの望んでない",
+            "zh": "大家不会想要那种",
+            "narrator_zh": ""
+        },
+        {
+            "location": "762/TALK",
+            "narrator": "つばめ",
+            "text": "そぅなのかなぁ？",
+            "zh": "是这样吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "763/TALK",
+            "narrator": "つばめ",
+            "text": "でも",
+            "zh": "可是",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "764/TALK",
+            "narrator": "つばめ",
+            "text": "失礼なこと思っちゃったのは本当なんだよ？(o´Д`)=з",
+            "zh": "可我确实想了失礼的事呀？(o´Д`)=з",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "766/SEL",
+            "narrator": "",
+            "text": "素直にみんなの気持ち受け取ろうよ",
+            "zh": "老实收下大家的心意吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "767/ACT",
+            "narrator": "",
+            "text": "素直にみんなの気持ち受け取ろうよ",
+            "zh": "老实收下大家的心意吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "770/TALK",
+            "narrator": "つばめ",
+            "text": "ぁりがと(*´ω｀*)",
+            "zh": "谢谢(*´ω｀*)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "771/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんの言ぅ通りかも",
+            "zh": "也许像$handle$说的那样",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "772/TALK",
+            "narrator": "つばめ",
+            "text": "ひなこちゃん達の気持ちを素直に受け止めること",
+            "zh": "老老实实接住小雏她们的心意",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "773/TALK",
+            "narrator": "つばめ",
+            "text": "それが一番大事だよね(´∀｀*)ｳﾌﾌ",
+            "zh": "那才是最要紧的吧(´∀｀*)嘿嘿",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "785/TALK",
+            "narrator": "つばめ",
+            "text": "…なんか、心の中が\nスッキリした気分。",
+            "zh": "……总觉得，心里\n畅快了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "786/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんに\n相談してよかった…。",
+            "zh": "找$handle$\n商量，太好了……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "787/ACT",
+            "narrator": "",
+            "text": "危険なのは事実",
+            "zh": "危险是事实",
+            "narrator_zh": ""
+        },
+        {
+            "location": "788/TALK",
+            "narrator": "つばめ",
+            "text": "そぅかもしれなぃけど",
+            "zh": "也许是这样",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "789/TALK",
+            "narrator": "つばめ",
+            "text": "みんなのこと信頼してなかったみたぃな",
+            "zh": "好像没有信任大家",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "790/TALK",
+            "narrator": "つばめ",
+            "text": "そんな気がしちゃって(o´Д`)=з",
+            "zh": "会有这种感觉(o´Д`)=з",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "791/TALK",
+            "narrator": "つばめ",
+            "text": "何だか悲しぃ気持ちになるの(´つω・｀)ｼｭﾝ",
+            "zh": "心里有点难过(´つω・｀)蔫",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "793/SEL",
+            "narrator": "",
+            "text": "でも、今は違うんでしょ？",
+            "zh": "不过，现在不一样了吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "794/ACT",
+            "narrator": "",
+            "text": "でも、今は違うんでしょ？",
+            "zh": "不过，现在不一样了吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "796/TALK",
+            "narrator": "つばめ",
+            "text": "ぅん",
+            "zh": "嗯",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "797/TALK",
+            "narrator": "つばめ",
+            "text": "今はもぅそんな風に思ってなぃよ(*´︶`*)",
+            "zh": "现在已经不那么想了(*´︶`*)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "799/SEL",
+            "narrator": "",
+            "text": "その気持ちを忘れないことが大切",
+            "zh": "别忘了这份心情，这很重要",
+            "narrator_zh": ""
+        },
+        {
+            "location": "800/ACT",
+            "narrator": "",
+            "text": "その気持ちを忘れないことが大切",
+            "zh": "别忘了这份心情，这很重要",
+            "narrator_zh": ""
+        },
+        {
+            "location": "803/TALK",
+            "narrator": "つばめ",
+            "text": "ぁりがと(*´ω｀*)",
+            "zh": "谢谢(*´ω｀*)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "805/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんの言ぅ通りかも",
+            "zh": "也许像$handle$说的那样",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "806/TALK",
+            "narrator": "つばめ",
+            "text": "それが一番大事だよね(´∀｀*)ｳﾌﾌ",
+            "zh": "那才是最要紧的吧(´∀｀*)嘿嘿",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "817/TALK",
+            "narrator": "つばめ",
+            "text": "…なんか、心の中が\nスッキリした気分。",
+            "zh": "……总觉得，心里\n畅快了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "818/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんに\n相談してよかった…。",
+            "zh": "找$handle$\n商量，太好了……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "830/DIALOG",
+            "narrator": "Dialog_chapter_ch01",
+            "text": "【10 江戸川橋物語】",
+            "zh": "【10 江户川桥物语】",
+            "narrator_zh": "Dialog_chapter_ch01"
+        }
+    ]
+}

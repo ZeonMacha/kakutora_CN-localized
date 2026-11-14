@@ -1,0 +1,210 @@
+{
+    "dir": "Story",
+    "type": "ui_dll",
+    "info": {},
+    "entry": [
+        {
+            "location": "257/DLL",
+            "narrator": "",
+            "text": "----- ストーリー開放なし クラン名 -----",
+            "zh": "----- 无故事解锁 库兰名 -----",
+            "narrator_zh": ""
+        },
+        {
+            "location": "258/DLL",
+            "narrator": "",
+            "text": "--------- {0} 開放 クラン名 {1} -----------",
+            "zh": "--------- {0} 解锁 库兰名 {1} -----------",
+            "narrator_zh": ""
+        },
+        {
+            "location": "259/DLL",
+            "narrator": "",
+            "text": "イベントクエスト：{0}のOpenフラグを立てました",
+            "zh": "活动关卡：已设置{0}的Open标志",
+            "narrator_zh": ""
+        },
+        {
+            "location": "260/DLL",
+            "narrator": "",
+            "text": "イベントクエスト：{0}を開放しました。",
+            "zh": "活动关卡：已解锁{0}。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "261/DLL",
+            "narrator": "",
+            "text": "メインクエスト：{0}のOpenフラグを立てました",
+            "zh": "主线关卡：已设置{0}的Open标志",
+            "narrator_zh": ""
+        },
+        {
+            "location": "262/DLL",
+            "narrator": "",
+            "text": "メインクエスト：{0}を開放しました。",
+            "zh": "主线关卡：已解锁{0}。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "263/DLL",
+            "narrator": "",
+            "text": "{0}の\n新しいエピソードが解禁されました！",
+            "zh": "{0}的\n新章节已解锁！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "264/DLL",
+            "narrator": "",
+            "text": "OpenStoryに失敗",
+            "zh": "OpenStory失败",
+            "narrator_zh": ""
+        },
+        {
+            "location": "269/DLL",
+            "narrator": "",
+            "text": "<color=red>逢瀬つばめ</color>",
+            "zh": "<color=red>逢濑燕</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "270/DLL",
+            "narrator": "",
+            "text": "<color=blue>國政綾水</color>",
+            "zh": "<color=blue>国政绫水</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "271/DLL",
+            "narrator": "",
+            "text": "<color=green>ガブリエラ</color>",
+            "zh": "<color=green>加布里埃拉</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "272/DLL",
+            "narrator": "",
+            "text": "<color=purple>恋ヶ崎みやび</color>",
+            "zh": "<color=purple>恋之崎雅</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "273/DLL",
+            "narrator": "",
+            "text": "<color=orange>卯月神楽</color>",
+            "zh": "<color=orange>卯月神乐</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "274/DLL",
+            "narrator": "",
+            "text": "アニメストーリー",
+            "zh": "动画故事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "275/DLL",
+            "narrator": "",
+            "text": "バトル",
+            "zh": "战斗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "276/DLL",
+            "narrator": "",
+            "text": "ココロスフィア",
+            "zh": "心灵领域",
+            "narrator_zh": ""
+        },
+        {
+            "location": "277/DLL",
+            "narrator": "",
+            "text": "ストーリー",
+            "zh": "故事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "278/DLL",
+            "narrator": "",
+            "text": "ヒメゴトチャット",
+            "zh": "秘语聊天",
+            "narrator_zh": ""
+        },
+        {
+            "location": "279/DLL",
+            "narrator": "",
+            "text": "無効なバトルタグです。",
+            "zh": "战斗标签无效。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "280/DLL",
+            "narrator": "",
+            "text": "アニメーションタグが未定義です:",
+            "zh": "动画标签未定义:",
+            "narrator_zh": ""
+        },
+        {
+            "location": "281/DLL",
+            "narrator": "",
+            "text": "FaceIconに入力がありません。Title：{0}",
+            "zh": "FaceIcon没有输入。Title：{0}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "282/DLL",
+            "narrator": "",
+            "text": "<size=24>新しいエピソード\n<color=green>【{0}】</color>が\n解放されました！\n\n次のエピソードに移動しますか？</size>",
+            "zh": "<size=24>新章节\n<color=green>【{0}】</color>\n已解锁！\n\n要前往下一章节吗？</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "283/DLL",
+            "narrator": "",
+            "text": "の",
+            "zh": "的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "284/DLL",
+            "narrator": "",
+            "text": "<size=24>新しい{0}{1}{2}\n<color=green>【{3}】</color>が\n解放されました！\n\nこのまま実行しますか？</size>",
+            "zh": "<size=24>新的{0}{1}{2}\n<color=green>【{3}】</color>\n已解锁！\n\n要直接执行吗？</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "285/DLL",
+            "narrator": "",
+            "text": "---------- イベントストーリー --------------",
+            "zh": "---------- 活动故事 --------------",
+            "narrator_zh": ""
+        },
+        {
+            "location": "286/DLL",
+            "narrator": "",
+            "text": "RewardIconが見つかりませんでした。:Textures/Icon/Reward/{0}",
+            "zh": "未找到RewardIcon。:Textures/Icon/Reward/{0}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "287/DLL",
+            "narrator": "",
+            "text": "<size=24>{0}{1}{2}\n<color=green>【{3}】</color>を\n実行します。よろしいですか？</size>",
+            "zh": "<size=24>{0}{1}{2}\n<color=green>【{3}】</color>\n要执行。确定吗？</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "733/DLL",
+            "narrator": "",
+            "text": "タグ名をパースできません。",
+            "zh": "无法解析标签名。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "734/DLL",
+            "narrator": "",
+            "text": "ACTが足りません。\nジュエルを5個消費してACTを全回復できます。回復しますか?",
+            "zh": "ACT不足。\n消耗5个宝石即可完全恢复ACT。要恢复吗?",
+            "narrator_zh": ""
+        }
+    ]
+}

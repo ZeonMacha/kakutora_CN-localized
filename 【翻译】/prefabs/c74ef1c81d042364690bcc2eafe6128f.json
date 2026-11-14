@@ -1,0 +1,409 @@
+{
+ "dir": "c74ef1c81d042364690bcc2eafe6128f",
+ "type": "prefabs",
+ "info": {},
+ "entry": [
+  {
+   "location": "43/UI",
+   "narrator": "FriendWindow/Panel/FriendApplied/NoList/Text",
+   "text": "承認待ちのフレンドは\nいません。",
+   "zh": "没有等待批准的\n好友。",
+   "narrator_zh": "FriendWindow/Panel/FriendApplied/NoList/Text"
+  },
+  {
+   "location": "44/UI",
+   "narrator": "FriendWindow/Panel/FriendApplied/Panel_Middle/ApplyingButton/Text",
+   "text": "申請中"
+  },
+  {
+   "location": "45/UI",
+   "narrator": "FriendWindow/Panel/FriendApplied/Panel_Middle/ConsentWaitButton/Text",
+   "text": "承認待ち",
+   "zh": "等待批准",
+   "narrator_zh": "FriendWindow/Panel/FriendApplied/Panel_Middle/ConsentWaitButton/Text"
+  },
+  {
+   "location": "46/UI",
+   "narrator": "FriendWindow/Panel/FriendApplied/Panel_Middle/FriendNum/Text",
+   "text": "現在のフレンド数",
+   "zh": "当前好友数",
+   "narrator_zh": "FriendWindow/Panel/FriendApplied/Panel_Middle/FriendNum/Text"
+  },
+  {
+   "location": "47/UI",
+   "narrator": "FriendWindow/Panel/FriendApplied/Panel_Middle/SearchButton/Text",
+   "text": "フレンド検索",
+   "zh": "好友搜索",
+   "narrator_zh": "FriendWindow/Panel/FriendApplied/Panel_Middle/SearchButton/Text"
+  },
+  {
+   "location": "48/UI",
+   "narrator": "FriendWindow/Panel/FriendApplied/ScrollView/Viewport/Content/FriendPanel/FriendData/Level",
+   "text": "LV:999"
+  },
+  {
+   "location": "49/UI",
+   "narrator": "FriendWindow/Panel/FriendApplied/ScrollView/Viewport/Content/FriendPanel/FriendData/Login",
+   "text": "最終ログイン：１ヶ月以上前",
+   "zh": "最后登录：１个月以前",
+   "narrator_zh": "FriendWindow/Panel/FriendApplied/ScrollView/Viewport/Content/FriendPanel/FriendData/Login"
+  },
+  {
+   "location": "50/UI",
+   "narrator": "FriendWindow/Panel/FriendApplied/ScrollView/Viewport/Content/FriendPanel/FriendData/NameText",
+   "text": "フレンドユーザー名",
+   "zh": "好友用户名",
+   "narrator_zh": "FriendWindow/Panel/FriendApplied/ScrollView/Viewport/Content/FriendPanel/FriendData/NameText"
+  },
+  {
+   "location": "51/UI",
+   "narrator": "FriendWindow/Panel/FriendApplied/TopBar/Panel/BackButton/Text",
+   "text": "閉じる",
+   "zh": "关闭",
+   "narrator_zh": "FriendWindow/Panel/FriendApplied/TopBar/Panel/BackButton/Text"
+  },
+  {
+   "location": "52/UI",
+   "narrator": "FriendWindow/Panel/FriendApplied/TopBar/Panel/ModeName/Text",
+   "text": "F R I E N D   R E Q U E S T"
+  },
+  {
+   "location": "53/UI",
+   "narrator": "FriendWindow/Panel/FriendApplied/TopBar/Panel/SystemTitle",
+   "text": "フレンド",
+   "zh": "好友",
+   "narrator_zh": "FriendWindow/Panel/FriendApplied/TopBar/Panel/SystemTitle"
+  },
+  {
+   "location": "54/UI",
+   "narrator": "FriendWindow/Panel/FriendApplying/NoList/Text",
+   "text": "申請中のフレンドは\nいません。",
+   "zh": "没有申请中的\n好友。",
+   "narrator_zh": "FriendWindow/Panel/FriendApplying/NoList/Text"
+  },
+  {
+   "location": "55/UI",
+   "narrator": "FriendWindow/Panel/FriendApplying/Panel_Middle/ApplyingButton/Text",
+   "text": "申請中"
+  },
+  {
+   "location": "56/UI",
+   "narrator": "FriendWindow/Panel/FriendApplying/Panel_Middle/ConsentWaitButton/Text",
+   "text": "承認待ち",
+   "zh": "等待批准",
+   "narrator_zh": "FriendWindow/Panel/FriendApplying/Panel_Middle/ConsentWaitButton/Text"
+  },
+  {
+   "location": "57/UI",
+   "narrator": "FriendWindow/Panel/FriendApplying/Panel_Middle/FriendNum/Text",
+   "text": "現在のフレンド数",
+   "zh": "当前好友数",
+   "narrator_zh": "FriendWindow/Panel/FriendApplying/Panel_Middle/FriendNum/Text"
+  },
+  {
+   "location": "58/UI",
+   "narrator": "FriendWindow/Panel/FriendApplying/Panel_Middle/SearchButton/Text",
+   "text": "フレンド検索",
+   "zh": "好友搜索",
+   "narrator_zh": "FriendWindow/Panel/FriendApplying/Panel_Middle/SearchButton/Text"
+  },
+  {
+   "location": "59/UI",
+   "narrator": "FriendWindow/Panel/FriendApplying/ScrollView/Viewport/Content/FriendPanel/FriendData/Level",
+   "text": "LV:999"
+  },
+  {
+   "location": "60/UI",
+   "narrator": "FriendWindow/Panel/FriendApplying/ScrollView/Viewport/Content/FriendPanel/FriendData/Login",
+   "text": "最終ログイン：１ヶ月以上前",
+   "zh": "最后登录：１个月以前",
+   "narrator_zh": "FriendWindow/Panel/FriendApplying/ScrollView/Viewport/Content/FriendPanel/FriendData/Login"
+  },
+  {
+   "location": "61/UI",
+   "narrator": "FriendWindow/Panel/FriendApplying/ScrollView/Viewport/Content/FriendPanel/FriendData/NameText",
+   "text": "フレンドユーザー名",
+   "zh": "好友用户名",
+   "narrator_zh": "FriendWindow/Panel/FriendApplying/ScrollView/Viewport/Content/FriendPanel/FriendData/NameText"
+  },
+  {
+   "location": "62/UI",
+   "narrator": "FriendWindow/Panel/FriendApplying/TopBar/Panel/BackButton/Text",
+   "text": "閉じる",
+   "zh": "关闭",
+   "narrator_zh": "FriendWindow/Panel/FriendApplying/TopBar/Panel/BackButton/Text"
+  },
+  {
+   "location": "63/UI",
+   "narrator": "FriendWindow/Panel/FriendApplying/TopBar/Panel/ModeName/Text",
+   "text": "F R I E N D   R E Q U E S T"
+  },
+  {
+   "location": "64/UI",
+   "narrator": "FriendWindow/Panel/FriendApplying/TopBar/Panel/SystemTitle",
+   "text": "フレンド",
+   "zh": "好友",
+   "narrator_zh": "FriendWindow/Panel/FriendApplying/TopBar/Panel/SystemTitle"
+  },
+  {
+   "location": "65/UI",
+   "narrator": "FriendWindow/Panel/FriendData/PANEL_Friend/Comment/Text",
+   "text": "あいうえお　かきくけこ\nさしすせそ　たちつてと",
+   "zh": "测试字符　测试字符\n测试字符　测试字符",
+   "narrator_zh": "FriendWindow/Panel/FriendData/PANEL_Friend/Comment/Text"
+  },
+  {
+   "location": "66/UI",
+   "narrator": "FriendWindow/Panel/FriendData/PANEL_Friend/LastLogin/Text",
+   "text": "1時間前"
+  },
+  {
+   "location": "67/UI",
+   "narrator": "FriendWindow/Panel/FriendData/PANEL_Friend/MaxScore/Text",
+   "text": "9999999999Dmg"
+  },
+  {
+   "location": "68/UI",
+   "narrator": "FriendWindow/Panel/FriendData/PANEL_Friend/Panel_BORDER_1/Text",
+   "text": "ユーザー名",
+   "zh": "用户名",
+   "narrator_zh": "FriendWindow/Panel/FriendData/PANEL_Friend/Panel_BORDER_1/Text"
+  },
+  {
+   "location": "69/UI",
+   "narrator": "FriendWindow/Panel/FriendData/PANEL_Friend/Panel_BORDER_2/Text",
+   "text": "レベル",
+   "zh": "等级",
+   "narrator_zh": "FriendWindow/Panel/FriendData/PANEL_Friend/Panel_BORDER_2/Text"
+  },
+  {
+   "location": "70/UI",
+   "narrator": "FriendWindow/Panel/FriendData/PANEL_Friend/Panel_BORDER_3/Text",
+   "text": "ユーザーID",
+   "zh": "用户ID",
+   "narrator_zh": "FriendWindow/Panel/FriendData/PANEL_Friend/Panel_BORDER_3/Text"
+  },
+  {
+   "location": "71/UI",
+   "narrator": "FriendWindow/Panel/FriendData/PANEL_Friend/Panel_BORDER_4/Text",
+   "text": "最終ログイン時間",
+   "zh": "最后登录时间",
+   "narrator_zh": "FriendWindow/Panel/FriendData/PANEL_Friend/Panel_BORDER_4/Text"
+  },
+  {
+   "location": "72/UI",
+   "narrator": "FriendWindow/Panel/FriendData/PANEL_Friend/Panel_BORDER_5/Text",
+   "text": "フレンドサポートクラン",
+   "zh": "好友支援库兰",
+   "narrator_zh": "FriendWindow/Panel/FriendData/PANEL_Friend/Panel_BORDER_5/Text"
+  },
+  {
+   "location": "73/UI",
+   "narrator": "FriendWindow/Panel/FriendData/PANEL_Friend/Panel_BORDER_6/Text",
+   "text": "最大スコア",
+   "zh": "最高分",
+   "narrator_zh": "FriendWindow/Panel/FriendData/PANEL_Friend/Panel_BORDER_6/Text"
+  },
+  {
+   "location": "74/UI",
+   "narrator": "FriendWindow/Panel/FriendData/PANEL_Friend/Panel_BORDER_7/Text",
+   "text": "一言コメント",
+   "zh": "一句话留言",
+   "narrator_zh": "FriendWindow/Panel/FriendData/PANEL_Friend/Panel_BORDER_7/Text"
+  },
+  {
+   "location": "75/UI",
+   "narrator": "FriendWindow/Panel/FriendData/PANEL_Friend/UserName/Text",
+   "text": "ユーザー名８文字",
+   "zh": "用户名８个字",
+   "narrator_zh": "FriendWindow/Panel/FriendData/PANEL_Friend/UserName/Text"
+  },
+  {
+   "location": "76/UI",
+   "narrator": "FriendWindow/Panel/FriendData/TopBar/Panel/BackButton/Text",
+   "text": "閉じる",
+   "zh": "关闭",
+   "narrator_zh": "FriendWindow/Panel/FriendData/TopBar/Panel/BackButton/Text"
+  },
+  {
+   "location": "77/UI",
+   "narrator": "FriendWindow/Panel/FriendData/TopBar/Panel/ModeName/Text",
+   "text": "フレンド詳細",
+   "zh": "好友详情",
+   "narrator_zh": "FriendWindow/Panel/FriendData/TopBar/Panel/ModeName/Text"
+  },
+  {
+   "location": "78/UI",
+   "narrator": "FriendWindow/Panel/FriendData/TopBar/Panel/SystemTitle",
+   "text": "フレンド",
+   "zh": "好友",
+   "narrator_zh": "FriendWindow/Panel/FriendData/TopBar/Panel/SystemTitle"
+  },
+  {
+   "location": "79/UI",
+   "narrator": "FriendWindow/Panel/FriendList/NoList/Text",
+   "text": "登録されている\nフレンドはいません。",
+   "zh": "没有已登记的\n好友。",
+   "narrator_zh": "FriendWindow/Panel/FriendList/NoList/Text"
+  },
+  {
+   "location": "80/UI",
+   "narrator": "FriendWindow/Panel/FriendList/Panel_Middle/FriendNum/Text",
+   "text": "現在のフレンド数",
+   "zh": "当前好友数",
+   "narrator_zh": "FriendWindow/Panel/FriendList/Panel_Middle/FriendNum/Text"
+  },
+  {
+   "location": "81/UI",
+   "narrator": "FriendWindow/Panel/FriendList/ScrollView/Viewport/Content/FriendPanel/FriendData/Level",
+   "text": "LV:999"
+  },
+  {
+   "location": "82/UI",
+   "narrator": "FriendWindow/Panel/FriendList/ScrollView/Viewport/Content/FriendPanel/FriendData/Login",
+   "text": "最終ログイン：１ヶ月以上前",
+   "zh": "最后登录：１个月以前",
+   "narrator_zh": "FriendWindow/Panel/FriendList/ScrollView/Viewport/Content/FriendPanel/FriendData/Login"
+  },
+  {
+   "location": "83/UI",
+   "narrator": "FriendWindow/Panel/FriendList/ScrollView/Viewport/Content/FriendPanel/FriendData/NameText",
+   "text": "フレンドユーザー名",
+   "zh": "好友用户名",
+   "narrator_zh": "FriendWindow/Panel/FriendList/ScrollView/Viewport/Content/FriendPanel/FriendData/NameText"
+  },
+  {
+   "location": "84/UI",
+   "narrator": "FriendWindow/Panel/FriendList/TopBar/Panel/BackButton/Text",
+   "text": "閉じる",
+   "zh": "关闭",
+   "narrator_zh": "FriendWindow/Panel/FriendList/TopBar/Panel/BackButton/Text"
+  },
+  {
+   "location": "85/UI",
+   "narrator": "FriendWindow/Panel/FriendList/TopBar/Panel/ModeName/Text",
+   "text": "F R I E N D   L I S T"
+  },
+  {
+   "location": "86/UI",
+   "narrator": "FriendWindow/Panel/FriendList/TopBar/Panel/SystemTitle",
+   "text": "フレンド",
+   "zh": "好友",
+   "narrator_zh": "FriendWindow/Panel/FriendList/TopBar/Panel/SystemTitle"
+  },
+  {
+   "location": "87/UI",
+   "narrator": "FriendWindow/Panel/FriendSearch/NowSch/Window/Text",
+   "text": "フレンド検索中 . . .",
+   "zh": "正在搜索好友 . . .",
+   "narrator_zh": "FriendWindow/Panel/FriendSearch/NowSch/Window/Text"
+  },
+  {
+   "location": "88/UI",
+   "narrator": "FriendWindow/Panel/FriendSearch/Panel_Middle/ApplyingButton/Text",
+   "text": "申請中"
+  },
+  {
+   "location": "89/UI",
+   "narrator": "FriendWindow/Panel/FriendSearch/Panel_Middle/ConsentWaitButton/Text",
+   "text": "承認待ち",
+   "zh": "等待批准",
+   "narrator_zh": "FriendWindow/Panel/FriendSearch/Panel_Middle/ConsentWaitButton/Text"
+  },
+  {
+   "location": "90/UI",
+   "narrator": "FriendWindow/Panel/FriendSearch/Panel_Middle/FriendNum/Text",
+   "text": "現在のフレンド数",
+   "zh": "当前好友数",
+   "narrator_zh": "FriendWindow/Panel/FriendSearch/Panel_Middle/FriendNum/Text"
+  },
+  {
+   "location": "91/UI",
+   "narrator": "FriendWindow/Panel/FriendSearch/Panel_Middle/SearchButton/Text",
+   "text": "フレンド検索",
+   "zh": "好友搜索",
+   "narrator_zh": "FriendWindow/Panel/FriendSearch/Panel_Middle/SearchButton/Text"
+  },
+  {
+   "location": "92/UI",
+   "narrator": "FriendWindow/Panel/FriendSearch/SearchPanel/Panel_bottom/Button/Text",
+   "text": "検索する",
+   "zh": "搜索",
+   "narrator_zh": "FriendWindow/Panel/FriendSearch/SearchPanel/Panel_bottom/Button/Text"
+  },
+  {
+   "location": "93/UI",
+   "narrator": "FriendWindow/Panel/FriendSearch/SearchPanel/Panel_bottom/InputField/Placeholder",
+   "text": "ユーザーIDを入力",
+   "zh": "输入用户ID",
+   "narrator_zh": "FriendWindow/Panel/FriendSearch/SearchPanel/Panel_bottom/InputField/Placeholder"
+  },
+  {
+   "location": "94/UI",
+   "narrator": "FriendWindow/Panel/FriendSearch/SearchPanel/Panel_bottom/Text_spell",
+   "text": "F R I E N D  S E A R C H"
+  },
+  {
+   "location": "95/UI",
+   "narrator": "FriendWindow/Panel/FriendSearch/SearchPanel/Panel_bottom/Text_word",
+   "text": "フレンド検索",
+   "zh": "好友搜索",
+   "narrator_zh": "FriendWindow/Panel/FriendSearch/SearchPanel/Panel_bottom/Text_word"
+  },
+  {
+   "location": "96/UI",
+   "narrator": "FriendWindow/Panel/FriendSearch/SearchPanel/Panel_upper/Button/Text",
+   "text": "コピー",
+   "zh": "复制",
+   "narrator_zh": "FriendWindow/Panel/FriendSearch/SearchPanel/Panel_upper/Button/Text"
+  },
+  {
+   "location": "97/UI",
+   "narrator": "FriendWindow/Panel/FriendSearch/SearchPanel/Panel_upper/Text",
+   "text": "※タップしてコピー可能",
+   "zh": "※点击可复制",
+   "narrator_zh": "FriendWindow/Panel/FriendSearch/SearchPanel/Panel_upper/Text"
+  },
+  {
+   "location": "98/UI",
+   "narrator": "FriendWindow/Panel/FriendSearch/SearchPanel/Panel_upper/Text_spell",
+   "text": "Y O U R  U S E R  I D"
+  },
+  {
+   "location": "99/UI",
+   "narrator": "FriendWindow/Panel/FriendSearch/SearchPanel/Panel_upper/Text_word",
+   "text": "あなたのユーザーID",
+   "zh": "你的用户ID",
+   "narrator_zh": "FriendWindow/Panel/FriendSearch/SearchPanel/Panel_upper/Text_word"
+  },
+  {
+   "location": "100/UI",
+   "narrator": "FriendWindow/Panel/FriendSearch/SearchPanel/Text",
+   "text": "F R I E N D  S E A R C H  T O O L"
+  },
+  {
+   "location": "101/UI",
+   "narrator": "FriendWindow/Panel/FriendSearch/TopBar/Panel/BackButton/Text",
+   "text": "閉じる",
+   "zh": "关闭",
+   "narrator_zh": "FriendWindow/Panel/FriendSearch/TopBar/Panel/BackButton/Text"
+  },
+  {
+   "location": "102/UI",
+   "narrator": "FriendWindow/Panel/FriendSearch/TopBar/Panel/ModeName/Text",
+   "text": "F R I E N D   R E Q U E S T"
+  },
+  {
+   "location": "103/UI",
+   "narrator": "FriendWindow/Panel/FriendSearch/TopBar/Panel/SystemTitle",
+   "text": "フレンド",
+   "zh": "好友",
+   "narrator_zh": "FriendWindow/Panel/FriendSearch/TopBar/Panel/SystemTitle"
+  },
+  {
+   "location": "104/UI",
+   "narrator": "FriendWindow/Panel/Processing/Text",
+   "text": "処理中"
+  }
+ ]
+}

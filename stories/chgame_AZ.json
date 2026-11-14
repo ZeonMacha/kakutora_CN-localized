@@ -1,0 +1,26 @@
+{
+    "dir": "chap17/daydra/chgame_AZ.js",
+    "type": "Other",
+    "info": {
+        "story_id": "",
+        "cid": "_",
+        "title": "",
+        "sub_title": "AZご褒美（普通に宝箱）"
+    },
+    "entry":
+    [
+        { "location": "456/SCENARIO", "narrator": "", "text": "AZご褒美（普通に宝箱）"},
+        { "location": "468/SEL"     , "narrator": "", "text": "あける"},
+        { "location": "469/SEL"     , "narrator": "", "text": "あけない"},
+        { "location": "470/ACT"     , "narrator": "", "text": "あける"},
+        { "location": "483/ACT"     , "narrator": "", "text": "あけない"},
+        { "location": "460/DIALOG"  , "narrator": "INFO", "text": "宝箱を見つけた！"},
+        { "location": "462/DIALOG"  , "narrator": "NOTICE", "text": "既にカラッポだった…。"},
+        { "location": "467/DIALOG"  , "narrator": "INFO", "text": "宝箱を見つけた！"},
+        { "location": "472/DIALOG"  , "narrator": "INFO", "text": "なんと\nココロキャンデイを\n見つけた！"},
+        { "location": "474/DIALOG"  , "narrator": "Dialog_GETcandy_SY", "text": "<color=white>+3</color>"},
+        { "location": "476/DIALOG"  , "narrator": "Dialog_GETcandy_SR", "text": "<color=white>+3</color>"},
+        { "location": "478/DIALOG"  , "narrator": "Dialog_GETcandy_SG", "text": "<color=white>+3</color>"},
+        { "location": "480/DIALOG"  , "narrator": "Dialog_GETcandy_SB", "text": "<color=white>+3</color>"}
+    ]
+}

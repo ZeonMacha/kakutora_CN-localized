@@ -1,0 +1,203 @@
+{
+    "dir": "Friend",
+    "type": "ui_dll",
+    "info": {},
+    "entry": [
+        {
+            "location": "213/DLL",
+            "narrator": "",
+            "text": "{0}分前",
+            "zh": "{0}分钟前",
+            "narrator_zh": ""
+        },
+        {
+            "location": "214/DLL",
+            "narrator": "",
+            "text": "{0}時間前",
+            "zh": "{0}小时前",
+            "narrator_zh": ""
+        },
+        {
+            "location": "215/DLL",
+            "narrator": "",
+            "text": "{0}日前",
+            "zh": "{0}天前",
+            "narrator_zh": ""
+        },
+        {
+            "location": "216/DLL",
+            "narrator": "",
+            "text": "一か月以上前",
+            "zh": "一个月以上前",
+            "narrator_zh": ""
+        },
+        {
+            "location": "511/DLL",
+            "narrator": "",
+            "text": "フレンドの候補が見つかりませんでした。",
+            "zh": "未找到好友候选。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "517/DLL",
+            "narrator": "",
+            "text": "ゲームサーバーに接続できません。\n<size=20>(FriendGet failed.)</size>",
+            "zh": "无法连接游戏服务器。\n<size=20>(FriendGet failed.)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "615/DLL",
+            "narrator": "",
+            "text": "自分以外のユーザーIDを\n入力してください。",
+            "zh": "请输入\n自己以外的用户ID。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "616/DLL",
+            "narrator": "",
+            "text": "{0}さんの\nフレンド数がいっぱいのため、\n申請することができません。",
+            "zh": "{0}的\n好友数已满，\n无法申请。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "617/DLL",
+            "narrator": "",
+            "text": "あなたのフレンド数がいっぱいのため、{0}することができません。\n\n<color=blue>尚、フレンド数には、現在あなたが申請中のフレンドも含まれます。ご注意ください。</color>",
+            "zh": "你的好友数已满，无法{0}。\n\n<color=blue>此外，好友数包含你当前申请中的好友。请注意。</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "618/DLL",
+            "narrator": "",
+            "text": "{0}さんを\nフレンド解除しますか？",
+            "zh": "要解除与{0}的\n好友关系吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "619/DLL",
+            "narrator": "",
+            "text": "承認",
+            "zh": "同意",
+            "narrator_zh": ""
+        },
+        {
+            "location": "620/DLL",
+            "narrator": "",
+            "text": "拒否",
+            "zh": "拒绝",
+            "narrator_zh": ""
+        },
+        {
+            "location": "621/DLL",
+            "narrator": "",
+            "text": "{0}さんからの\nフレンド申請を{1}しますか？",
+            "zh": "来自{0}的\n好友申请，要{1}吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "622/DLL",
+            "narrator": "",
+            "text": "申請",
+            "zh": "申请",
+            "narrator_zh": ""
+        },
+        {
+            "location": "623/DLL",
+            "narrator": "",
+            "text": "{0}さんへの\nフレンド申請を取消しますか？",
+            "zh": "要取消向{0}\n发送的好友申请吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "624/DLL",
+            "narrator": "",
+            "text": "最終ログイン：{0}",
+            "zh": "最后登录：{0}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "625/DLL",
+            "narrator": "",
+            "text": "条件に一致するユーザーが\n見つかりませんでした。",
+            "zh": "未找到\n符合条件的用户。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "626/DLL",
+            "narrator": "",
+            "text": "フレンドを解除できませんでした。\nもう一度お試しください。",
+            "zh": "未能解除好友。\n请再试一次。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "627/DLL",
+            "narrator": "",
+            "text": "{0}さんを\nフレンド解除しました。",
+            "zh": "已解除与{0}的\n好友关系。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "628/DLL",
+            "narrator": "",
+            "text": "拒否できませんでした。\nもう一度お試しください。",
+            "zh": "未能拒绝。\n请再试一次。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "629/DLL",
+            "narrator": "",
+            "text": "{0}さんからの\nフレンド申請を拒否しました。",
+            "zh": "已拒绝来自{0}的\n好友申请。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "630/DLL",
+            "narrator": "",
+            "text": "承認できませんでした。\nもう一度お試しください。",
+            "zh": "未能同意。\n请再试一次。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "631/DLL",
+            "narrator": "",
+            "text": "{0}さんと\nフレンドになりました。",
+            "zh": "已与{0}\n成为好友。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "632/DLL",
+            "narrator": "",
+            "text": "{0}さんの\nフレンド数がいっぱいのため\n申請することができません。",
+            "zh": "{0}的\n好友数已满，\n无法申请。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "633/DLL",
+            "narrator": "",
+            "text": "フレンド申請を\n取り消せませんでした。\nもう一度お試しください。",
+            "zh": "未能取消\n好友申请。\n请再试一次。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "634/DLL",
+            "narrator": "",
+            "text": "{0}さんへの\nフレンド申請を取消しました。",
+            "zh": "已取消向{0}\n发送的好友申请。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "635/DLL",
+            "narrator": "",
+            "text": "フレンドが取得できません。\nもう一度お試しください。",
+            "zh": "无法获取好友。\n请再试一次。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "636/DLL",
+            "narrator": "",
+            "text": "<color=red>{0}さんは存在しません。</color>\n相手側が更新されている\n可能性があります。",
+            "zh": "<color=red>{0}不存在。</color>\n对方信息可能\n已经更新。",
+            "narrator_zh": ""
+        }
+    ]
+}

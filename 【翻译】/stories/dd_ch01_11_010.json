@@ -1,0 +1,630 @@
+{
+ "dir": "chap11/daydra/dd_ch01_11_010.js",
+ "type": "MainStory",
+ "info": {
+  "story_id": "11152",
+  "cid": "tsubame",
+  "title": "Extra002 プレミアムストーリー",
+  "sub_title": "美味しい寄り道",
+  "title_zh": "Extra002 额外剧情",
+  "sub_title_zh": "好吃的绕路"
+ },
+ "entry": [
+  {
+   "location": "7/SCENARIO",
+   "narrator": "",
+   "text": "美味しい寄り道",
+   "zh": "好吃的绕路",
+   "narrator_zh": ""
+  },
+  {
+   "location": "19/TALK",
+   "narrator": "みやび",
+   "text": "…つばめちゃん、\nこの後暇か？",
+   "zh": "……燕，\n接下来有空没？",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "23/TALK",
+   "narrator": "つばめ",
+   "text": "わたしもみやびさんも、\n帰ったらバイトじゃない\nですか。",
+   "zh": "我和雅，\n回去都要打工\n吧。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "24/TALK",
+   "narrator": "みやび",
+   "text": "よし、問題なしやな。\nあそこのお店に行くぞね。",
+   "zh": "好，没得问题咯。\n去那边那家店啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "26/TALK",
+   "narrator": "つばめ",
+   "text": "問題なしじゃないですよ！\nっていうか、どうしたん\nですか突然？",
+   "zh": "才不是没问题！\n话说，怎么\n突然这样？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "32/TALK",
+   "narrator": "みやび",
+   "text": "うちな、あの店で出る\nあんみつが、まっこと\n大好きやき。",
+   "zh": "我呀，那家店的\n蜜豆，的确\n喜欢得很啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "34/TALK",
+   "narrator": "みやび",
+   "text": "…そういうことやき、\nほれ、決まりやな。",
+   "zh": "……就是这么回事啵，\n来，这就定了咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "37/TALK",
+   "narrator": "つばめ",
+   "text": "決まってない、\n決まってないですって！",
+   "zh": "没定，\n说了没定！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "40/TALK",
+   "narrator": "つばめ",
+   "text": "バイトに遅れたら\nアーヤさんやガブちゃんに\n怒られちゃいますよ？",
+   "zh": "打工要是迟到，\n会被绫水和加布\n骂的哦？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "41/TALK",
+   "narrator": "みやび",
+   "text": "あいつらが怒ってるんは\nいつものことやき、\n気にせんでもえいよ。",
+   "zh": "她们生气是\n常有的事啵，\n不用在意，要得。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "44/TALK",
+   "narrator": "みやび",
+   "text": "そんなことより、あの店の\nあんみつはまっこと絶品\nなんやがなぁ…。",
+   "zh": "比起那个，那家店的\n蜜豆的确是绝品\n哦……",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "46/TALK",
+   "narrator": "みやび",
+   "text": "つばめちゃんも一口でも\n食べたら、夢中になる\nこと間違いなしやが。",
+   "zh": "燕你只要吃一口，\n肯定会着迷\n啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "50/TALK",
+   "narrator": "つばめ",
+   "text": "…そ、そんなにですか？",
+   "zh": "……有、有那么好吃吗？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "51/TALK",
+   "narrator": "みやび",
+   "text": "そんだけ絶品なんよ。",
+   "zh": "就是绝到这个地步咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "52/SEL",
+   "narrator": "",
+   "text": "食べていこうよ",
+   "zh": "去吃了再走吧",
+   "narrator_zh": ""
+  },
+  {
+   "location": "53/SEL",
+   "narrator": "",
+   "text": "我慢しないとダメだよ",
+   "zh": "不忍住可不行哦",
+   "narrator_zh": ""
+  },
+  {
+   "location": "54/SEL",
+   "narrator": "",
+   "text": "あんみつよりラーメンだ",
+   "zh": "比起蜜豆，拉面更好",
+   "narrator_zh": ""
+  },
+  {
+   "location": "56/TALK",
+   "narrator": "みやび",
+   "text": "つばめちゃんは\nあんみつ嫌いなが？",
+   "zh": "燕是\n讨厌蜜豆喃？",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "58/TALK",
+   "narrator": "つばめ",
+   "text": "いえ、大好きです。",
+   "zh": "不，我很喜欢。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "60/TALK",
+   "narrator": "みやび",
+   "text": "なら決まりやね。\nさ、遅くならんよう、\nすっと行くがよ。",
+   "zh": "那就定了咯。\n来，别弄晚了，\n麻溜去啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "63/TALK",
+   "narrator": "つばめ",
+   "text": "…急いで食べれば、\nきっと大丈夫だよね？",
+   "zh": "……吃快一点的话，\n一定没问题吧？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "84/TALK",
+   "narrator": "つばめ",
+   "text": "…って思ったんですけど、\n遅刻しちゃいました。\nごめんなさい！",
+   "zh": "……我是这么想的，\n结果迟到了。\n对不起！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "86/TALK",
+   "narrator": "ガブリエラ",
+   "text": "しちゃいました、\nじゃないでしょ！",
+   "zh": "什么“迟到了”，\n不行！",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "88/TALK",
+   "narrator": "ガブリエラ",
+   "text": "二人がいなかったから、\nあたしの仕事が倍に\nなったんだからね？",
+   "zh": "你们两个不在，\n我的活变成\n两倍了吧？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "89/TALK",
+   "narrator": "つばめ",
+   "text": "うう、\nごめんなさい…。",
+   "zh": "呜呜，\n对不起……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "92/TALK",
+   "narrator": "ガブリエラ",
+   "text": "みやびもよ。\n寄り道するならバイトの\n無い日にしなさい。",
+   "zh": "雅也是。\n要绕路，就挑\n没打工的日子。",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "95/TALK",
+   "narrator": "みやび",
+   "text": "まあまあ、ガブちゃん。",
+   "zh": "好了好了，加布。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "96/TALK",
+   "narrator": "みやび",
+   "text": "お詫びにガブちゃんの分を\nお持ち帰りにして\nもらったき――",
+   "zh": "赔罪的份，\n给你打包了加布的\n啵——",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "97/TALK",
+   "narrator": "みやび",
+   "text": "休憩時間にでも\n食べてほしいがよ。",
+   "zh": "休息的时候\n吃了啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "98/TALK",
+   "narrator": "ガブリエラ",
+   "text": "えっ？\nあ、うん…。",
+   "zh": "欸？\n啊，嗯……",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "101/TALK",
+   "narrator": "ガブリエラ",
+   "text": "…ま、まあ、くれるって\n言うなら、ありがたく\nもらっておくけど――",
+   "zh": "……也、也罢，你说给，\n那我就收下，\n谢了——",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "102/TALK",
+   "narrator": "ガブリエラ",
+   "text": "今度からは\n気をつけなさいよ。",
+   "zh": "下次\n给我注意点。",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "109/TALK",
+   "narrator": "みやび",
+   "text": "ガブちゃんも女の子やき、\n甘い物には弱いんよ。",
+   "zh": "加布也是女孩子啵，\n对甜的没得抵抗咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "112/TALK",
+   "narrator": "つばめ",
+   "text": "みたいですね。\nあまり怒られなくて\nほっとしました…。",
+   "zh": "好像是这样。\n没被骂太狠，\n我就放心了……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "115/TALK",
+   "narrator": "つばめ",
+   "text": "…でも、これからは\n遅刻しないように\n気をつけよう。",
+   "zh": "……不过，以后\n要注意\n别再迟到了。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "116/ACT",
+   "narrator": "",
+   "text": "食べていこうよ",
+   "zh": "去吃了再走吧",
+   "narrator_zh": ""
+  },
+  {
+   "location": "121/TALK",
+   "narrator": "つばめ",
+   "text": "ちょ、ちょっと待って\nください。",
+   "zh": "等、请等\n一下。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "138/TALK",
+   "narrator": "つばめ",
+   "text": "えぇっ！？",
+   "zh": "诶诶！？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "140/TALK",
+   "narrator": "つばめ",
+   "text": "い、いいのかなぁ？",
+   "zh": "可、可以吗？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "154/TALK",
+   "narrator": "つばめ",
+   "text": "あ、あの…\n本当にいいんですか？",
+   "zh": "啊、那个……\n真的可以吗？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "155/TALK",
+   "narrator": "つばめ",
+   "text": "寄り道なんかしたら、\n絶対にバイト、遅れちゃい\nますよ？",
+   "zh": "要是绕路，\n打工绝对会\n迟到的哦？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "157/TALK",
+   "narrator": "みやび",
+   "text": "えいからえいから。\n先輩のうちがえいと\n言ってるんやき。",
+   "zh": "要得要得。\n我这个前辈说\n要得啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "158/TALK",
+   "narrator": "みやび",
+   "text": "な～んも心配はいらんき、\nほれ、さっと行くぞね！",
+   "zh": "么子都不用担心啵，\n来，麻溜走咯！",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "162/TALK",
+   "narrator": "つばめ",
+   "text": "…絶対怒られると\n思うんだけどなぁ。",
+   "zh": "……我觉得绝对\n会被骂呀。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "179/TALK",
+   "narrator": "ガブリエラ",
+   "text": "…って、怒られるのが\nわかってるなら、\n真っ直ぐ帰ってきなさい！",
+   "zh": "……既然知道\n会被骂，\n就给我直接回来！",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "180/TALK",
+   "narrator": "ガブリエラ",
+   "text": "二人がいなかったから、\nあたしの仕事が倍に\nなったんだからね？",
+   "zh": "你们两个不在，\n我的活变成\n两倍了吧？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "182/TALK",
+   "narrator": "つばめ",
+   "text": "うう、\nごめんなさい…。",
+   "zh": "呜呜，\n对不起……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "185/TALK",
+   "narrator": "ガブリエラ",
+   "text": "みやびもよ。\n寄り道するならバイトの\n無い日にしてよね。",
+   "zh": "雅也是。\n要绕路，就给我挑\n没打工的日子。",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "188/TALK",
+   "narrator": "みやび",
+   "text": "まあまあ、ガブちゃん。",
+   "zh": "好了好了，加布。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "189/TALK",
+   "narrator": "みやび",
+   "text": "お詫びにガブちゃんの\n分をお持ち帰りにして\nもらったき――",
+   "zh": "赔罪的，加布的\n那份给你打包了\n啵——",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "190/TALK",
+   "narrator": "みやび",
+   "text": "休憩時間にでも\n食べてほしいがよ。",
+   "zh": "休息的时候\n吃了啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "191/TALK",
+   "narrator": "ガブリエラ",
+   "text": "えっ？\nあ、うん…。",
+   "zh": "欸？\n啊，嗯……",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "194/TALK",
+   "narrator": "ガブリエラ",
+   "text": "…ま、まあ、くれるって\n言うなら、ありがたく\nもらっておくけど――",
+   "zh": "……也、也罢，你说给，\n那我就收下，\n谢了——",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "195/TALK",
+   "narrator": "ガブリエラ",
+   "text": "今度からは\n気をつけなさいよ。",
+   "zh": "下次\n给我注意点。",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "203/TALK",
+   "narrator": "みやび",
+   "text": "ガブちゃんも女の子やき、\n甘い物には弱いんよ。",
+   "zh": "加布也是女孩子啵，\n对甜的没得抵抗咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "206/TALK",
+   "narrator": "つばめ",
+   "text": "みたいですね。\nあまり怒られなくて\nほっとしました…。",
+   "zh": "好像是这样。\n没被骂太狠，\n我就放心了……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "210/TALK",
+   "narrator": "つばめ",
+   "text": "…でも、これからは\n遅刻しないように\n気をつけよう。",
+   "zh": "……不过，以后\n要注意\n别再迟到了。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "211/ACT",
+   "narrator": "",
+   "text": "我慢しないとダメだよ",
+   "zh": "不忍住可不行哦",
+   "narrator_zh": ""
+  },
+  {
+   "location": "216/TALK",
+   "narrator": "つばめ",
+   "text": "あ、ちょっと待って\nください。",
+   "zh": "啊，请等\n一下。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "233/TALK",
+   "narrator": "つばめ",
+   "text": "やっぱり、そうだよね",
+   "zh": "果然是这样呀",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "234/TALK",
+   "narrator": "つばめ",
+   "text": "ありがと、答えは決まったよ",
+   "zh": "谢谢，答案定下来啦",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "246/TALK",
+   "narrator": "つばめ",
+   "text": "ごめんなさい！\nやっぱりわたし、\n帰ります！",
+   "zh": "对不起！\n我果然还是\n回去！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "247/TALK",
+   "narrator": "みやび",
+   "text": "はぁ…つばめちゃんは\nまっことえい子やね。",
+   "zh": "哈啊……燕\n的确是个好孩子咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "248/TALK",
+   "narrator": "みやび",
+   "text": "じゃあ、うちはのんびり\nあんみつを楽しんでから\n帰るき。",
+   "zh": "那我就慢慢\n享用蜜豆再\n回去啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "249/TALK",
+   "narrator": "みやび",
+   "text": "つばめちゃん、あとでな。",
+   "zh": "燕，回头见咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "253/TALK",
+   "narrator": "つばめ",
+   "text": "今度バイトが休みの日に、\n絶対に食べにこよう。",
+   "zh": "下次打工休息的日子，\n一定来吃。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "254/ACT",
+   "narrator": "",
+   "text": "あんみつよりラーメンだ",
+   "zh": "比起蜜豆，拉面更好",
+   "narrator_zh": ""
+  },
+  {
+   "location": "261/TALK",
+   "narrator": "つばめ",
+   "text": "あ、ちょっと待って\nください。\nメールが来たみたいで…。",
+   "zh": "啊，请等\n一下。\n好像来邮件了……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "278/TALK",
+   "narrator": "つばめ",
+   "text": "ラーメンかぁ…",
+   "zh": "拉面呀……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "279/TALK",
+   "narrator": "つばめ",
+   "text": "そう言われたらお腹減ってきちゃったなぁ…",
+   "zh": "被你这么一说，肚子饿起来了呀……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "294/TALK",
+   "narrator": "つばめ",
+   "text": "あの、あんみつよりも\nラーメンを食べたい\n気分なんですけど…。",
+   "zh": "那个，比起蜜豆，\n我更想吃\n拉面……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "296/TALK",
+   "narrator": "みやび",
+   "text": "ラーメン？\nそれも捨てがたい…",
+   "zh": "拉面？\n那也让人放不下……",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "298/TALK",
+   "narrator": "みやび",
+   "text": "よし、今日はラーメンに\nするぞね！",
+   "zh": "好，今天就吃\n拉面啵！",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "299/TALK",
+   "narrator": "みやび",
+   "text": "すぐそこにえい店が\nあるき、早速行くがよ。",
+   "zh": "旁边就有家好店啵，\n这就去咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "301/TALK",
+   "narrator": "つばめ",
+   "text": "わぁ、楽しみです！",
+   "zh": "哇，好期待！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "304/TALK",
+   "narrator": "つばめ",
+   "text": "…あれ？　何か大切なこと\n忘れてるような…。",
+   "zh": "……咦？好像忘了\n什么要紧的事……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "322/TALK",
+   "narrator": "ガブリエラ",
+   "text": "…で、すっかりバイトの\nことが頭から抜けていた、\nってわけね。",
+   "zh": "……所以，打工的事\n彻底从脑子里掉了，\n是这个意思吧。",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "323/TALK",
+   "narrator": "つばめ",
+   "text": "ごめんなさいぃ…。",
+   "zh": "对不起呀……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "326/TALK",
+   "narrator": "ガブリエラ",
+   "text": "はぁ…呆れて怒る気にも\nなれないわ。",
+   "zh": "哈啊……愣得\n连气都气不起来。",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "328/TALK",
+   "narrator": "ガブリエラ",
+   "text": "つばめがいない間、\nあたしがあんたの分の\n仕事したんだから――",
+   "zh": "燕不在的时候，\n你的那份活\n是我做的——",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "329/TALK",
+   "narrator": "ガブリエラ",
+   "text": "今からその分、きっちり\n働きなさいよ？",
+   "zh": "从现在起，那一份\n给我好好干？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "331/TALK",
+   "narrator": "つばめ",
+   "text": "う、うん。\nもちろん！",
+   "zh": "嗯、嗯。\n当然！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "334/TALK",
+   "narrator": "ガブリエラ",
+   "text": "みやびも、ちょっとは\n反省してよね？",
+   "zh": "雅也是，多少\n反省一下？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "336/TALK",
+   "narrator": "みやび",
+   "text": "…そうやね。\nラーメン食べて\nお腹もパンパンやき――",
+   "zh": "……是咯。\n拉面吃得\n肚子也鼓鼓的啵——",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "337/TALK",
+   "narrator": "みやび",
+   "text": "すっと仕事始めて、\nすっと終わらせるがよ。",
+   "zh": "麻溜开工，\n麻溜收工啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "338/TALK",
+   "narrator": "ガブリエラ",
+   "text": "さっさと終わらせよう\nとか、遅れてきた人の\n言葉じゃないわよ？",
+   "zh": "什么麻溜收工，\n这可不是迟到的人\n该说的话吧？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "17/DIALOG",
+   "narrator": "Dialog_EventData",
+   "text": "<color=green>6月20日　3:55 PM</color>\n平日の放課後、学園からの帰り道。",
+   "zh": "<color=green>6月20日　3:55 PM</color>\n平日的放学后，从学校回去的路上。",
+   "narrator_zh": "Dialog_EventData"
+  },
+  {
+   "location": "349/DIALOG",
+   "narrator": "Dialog_GEThimegoto_ch01",
+   "text": "【遅刻は厳禁】",
+   "zh": "【严禁迟到】",
+   "narrator_zh": "Dialog_GEThimegoto_ch01"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+    "dir": "chap01/daydra/check_event_cmd_set_friends.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "103",
+        "cid": "all",
+        "title": "デバッグ用",
+        "sub_title": "関係遷移",
+        "title_zh": "调试用",
+        "sub_title_zh": "关系切换"
+    },
+    "entry": [
+        {
+            "location": "93/SCENARIO",
+            "narrator": "",
+            "text": "イベント命令チェック：GET_BROMIDE",
+            "zh": "事件指令检查：GET_BROMIDE",
+            "narrator_zh": ""
+        },
+        {
+            "location": "99/TALK",
+            "narrator": "つばめ",
+            "text": "SET_LOVERS\nのテストを行います",
+            "zh": "进行SET_LOVERS\n的测试",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "つばめ",
+            "text": "SET_LOVERS\n全員を友達状態にします",
+            "zh": "用SET_LOVERS\n把所有人改成朋友",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "108/TALK",
+            "narrator": "つばめ",
+            "text": "イベント終了後、\n正常に関係が変わってるか\n確認してください",
+            "zh": "事件结束后，\n请确认关系\n有没有正常变掉",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "109/TALK",
+            "narrator": "つばめ",
+            "text": "テストを終了します",
+            "zh": "测试结束。",
+            "narrator_zh": "燕"
+        }
+    ]
+}

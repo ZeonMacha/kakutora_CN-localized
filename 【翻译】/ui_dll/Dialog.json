@@ -1,0 +1,700 @@
+{
+ "dir": "Dialog",
+ "type": "ui_dll",
+ "info": {},
+ "entry": [
+  {
+   "location": "1/DLL",
+   "narrator": "",
+   "text": "Apiコールが多重に呼ばれています。",
+   "zh": "Api调用被重复触发。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "3/DLL",
+   "narrator": "",
+   "text": "ゲームサーバーに接続できません。\n<size=20>(Code:001)</size>",
+   "zh": "无法连接游戏服务器。\n<size=20>(Code:001)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "120/DLL",
+   "narrator": "",
+   "text": "マスターサーバーに接続できません。\n<size=20>(Bulk TimeOut.)</size>",
+   "zh": "无法连接主服务器。\n<size=20>(Bulk TimeOut.)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "122/DLL",
+   "narrator": "",
+   "text": "ゲームサーバーに接続できません。\n<size=20>(Code:002)</size>",
+   "zh": "无法连接游戏服务器。\n<size=20>(Code:002)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "125/DLL",
+   "narrator": "",
+   "text": "マスターサーバーに接続できません。\n<size=20>(Master TimeOut.)</size>",
+   "zh": "无法连接主服务器。\n<size=20>(Master TimeOut.)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "127/DLL",
+   "narrator": "",
+   "text": "<color=red>キー「{0}」がすでに存在しています</color>\n{1}",
+   "zh": "<color=red>键“{0}”已存在</color>\n{1}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "128/DLL",
+   "narrator": "",
+   "text": "<color=red>キー「{0}」が見つかりません</color>\n{1}",
+   "zh": "<color=red>未找到键“{0}”</color>\n{1}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "129/DLL",
+   "narrator": "",
+   "text": "CheckedAt:Camera:<color=red>キー「{0}」が見つかりません</color>\n{1}",
+   "zh": "CheckedAt:Camera:<color=red>未找到键“{0}”</color>\n{1}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "135/DLL",
+   "narrator": "",
+   "text": "データサーバーに問題があります。\n<size=20>(Code:007)</size>",
+   "zh": "数据服务器出现问题。\n<size=20>(Code:007)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "136/DLL",
+   "narrator": "",
+   "text": "データサーバーに接続できません。\n<size=20>(Dataserver disconnected.)</size>",
+   "zh": "无法连接数据服务器。\n<size=20>(Dataserver disconnected.)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "166/DLL",
+   "narrator": "",
+   "text": " のCRCが変更されています",
+   "zh": " 的CRC已变更",
+   "narrator_zh": ""
+  },
+  {
+   "location": "169/DLL",
+   "narrator": "",
+   "text": "ロードに失敗したためリトライします:",
+   "zh": "加载失败，将重试:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "174/DLL",
+   "narrator": "",
+   "text": "{0}:{1}のコスチュームが見つかりません。他のコスチュームで代替します",
+   "zh": "未找到{0}:{1}的服装。将用其他服装代替",
+   "narrator_zh": ""
+  },
+  {
+   "location": "176/DLL",
+   "narrator": "",
+   "text": "は不足しています",
+   "zh": "不足",
+   "narrator_zh": ""
+  },
+  {
+   "location": "188/DLL",
+   "narrator": "",
+   "text": "「喜」の感情伝達石。\n喜びや愉快な気持ちを少しだけ相手に伝えてくれ、共感させてくれる。",
+   "zh": "“喜”的情感传递石。\n能把喜悦和愉快的心情稍稍传递给对方，让对方产生共鸣。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "189/DLL",
+   "narrator": "",
+   "text": "「怒」の感情伝達石。\n爆発的な怒りを少しだけ力に変え、世界を越えて伝えてくれる。",
+   "zh": "“怒”的情感传递石。\n能把爆发的愤怒稍稍化为力量，越过世界传递出去。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "190/DLL",
+   "narrator": "",
+   "text": "「楽」の感情伝達石。\n幸せだという想いを少しだけ増幅して届けてくれる。",
+   "zh": "“乐”的情感传递石。\n能把觉得幸福的心意稍稍放大后送达。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "191/DLL",
+   "narrator": "",
+   "text": "「哀」の感情伝達石。\n悲しみを訴えかけるときにその力を少しだけ増幅してくれる。",
+   "zh": "“哀”的情感传递石。\n在倾诉悲伤时，能把那份力量稍稍放大。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "192/DLL",
+   "narrator": "",
+   "text": "「歓喜」の感情伝達石。\n喜びや愉快な気持ちを共有して、みんなで楽しむ力を伝えてくれる。",
+   "zh": "“欢喜”的情感传递石。\n能分享喜悦和愉快，把大家一起享受的力量传递出去。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "193/DLL",
+   "narrator": "",
+   "text": "「憤怒」の感情伝達石。\n爆発的な怒りをもの凄い力に変え、世界を越えて伝えてくれる。",
+   "zh": "“愤怒”的情感传递石。\n能把爆发的愤怒化为惊人的力量，越过世界传递出去。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "194/DLL",
+   "narrator": "",
+   "text": "「快楽」の感情伝達石。\n幸せだという想いを何倍にも増幅して届けてくれる。",
+   "zh": "“快乐”的情感传递石。\n能把觉得幸福的心意放大数倍后送达。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "195/DLL",
+   "narrator": "",
+   "text": "「悲哀」の感情伝達石。\n悲しみを訴えかけるときにその力を何倍にも増幅してくれる。",
+   "zh": "“悲哀”的情感传递石。\n在倾诉悲伤时，能把那份力量放大数倍。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "230/DLL",
+   "narrator": "",
+   "text": "ゲームサーバーに接続できません。\n<size=20>(Code:004)</size>",
+   "zh": "无法连接游戏服务器。\n<size=20>(Code:004)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "234/DLL",
+   "narrator": "",
+   "text": "ゲームサーバーに接続できません。\n<size=20>(Code:005)</size>",
+   "zh": "无法连接游戏服务器。\n<size=20>(Code:005)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "248/DLL",
+   "narrator": "",
+   "text": "ゲームサーバーに接続できません。\n<size=20>(Code:101)</size>",
+   "zh": "无法连接游戏服务器。\n<size=20>(Code:101)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "265/DLL",
+   "narrator": "",
+   "text": "{0}:{1:D2}更新",
+   "zh": "{0}:{1:D2}更新",
+   "narrator_zh": ""
+  },
+  {
+   "location": "266/DLL",
+   "narrator": "",
+   "text": "{0}, {1}point, {2}位",
+   "zh": "{0}, {1}point, 第{2}名",
+   "narrator_zh": ""
+  },
+  {
+   "location": "292/DLL",
+   "narrator": "",
+   "text": "WWW接続処理に失敗しました。\n<size=20>(Code:003)</size>",
+   "zh": "WWW连接处理失败。\n<size=20>(Code:003)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "293/DLL",
+   "narrator": "",
+   "text": "アプリを起動できません。\n<size=20>(Code:106)</size>",
+   "zh": "无法启动应用。\n<size=20>(Code:106)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "295/DLL",
+   "narrator": "",
+   "text": "に変更します",
+   "zh": "将变更为",
+   "narrator_zh": ""
+  },
+  {
+   "location": "296/DLL",
+   "narrator": "",
+   "text": "アプリを起動できません。\n<size=20>(Code:999)\n",
+   "zh": "无法启动应用。\n<size=20>(Code:999)\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "298/DLL",
+   "narrator": "",
+   "text": "サインアップできませんでした。\n<size=20>(Code:102)</size>",
+   "zh": "注册失败。\n<size=20>(Code:102)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "299/DLL",
+   "narrator": "",
+   "text": "アプリを終了します。",
+   "zh": "将退出应用。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "300/DLL",
+   "narrator": "",
+   "text": "マスターサーバーに接続できません。\n<size=20>(Code:009)</size>",
+   "zh": "无法连接主服务器。\n<size=20>(Code:009)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "301/DLL",
+   "narrator": "",
+   "text": "アプリデータに不整合があります。\n修復を試みます。\n<size=20>(",
+   "zh": "应用数据存在不一致。\n将尝试修复。\n<size=20>(",
+   "narrator_zh": ""
+  },
+  {
+   "location": "302/DLL",
+   "narrator": "",
+   "text": "初期化できませんでした。\n<size=20>(Code:103)</size>",
+   "zh": "初始化失败。\n<size=20>(Code:103)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "304/DLL",
+   "narrator": "",
+   "text": "現在サーバーメンテナンス中です。\n<size=20>(Code:001)</size>",
+   "zh": "服务器正在维护。\n<size=20>(Code:001)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "305/DLL",
+   "narrator": "",
+   "text": "ゲームサーバーに接続できませんでした。\n<size=20>(Code:003)</size>",
+   "zh": "未能连接游戏服务器。\n<size=20>(Code:003)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "306/DLL",
+   "narrator": "",
+   "text": "バージョンアップされています。\n最新版にアップデートしてください。",
+   "zh": "已有新版本。\n请更新到最新版。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "307/DLL",
+   "narrator": "",
+   "text": "ご利用のアカウントは停止されております。\nお心当たりのない方は『問い合わせ』よりお問い合わせください。",
+   "zh": "你的账号已被停用。\n如不知情，请通过『咨询』进行咨询。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "308/DLL",
+   "narrator": "",
+   "text": "ストレージの空き容量がありません。\n空き容量を増やしてからアプリを再起動してください。(残り",
+   "zh": "存储空间不足。\n请增加可用空间后重启应用。(剩余",
+   "narrator_zh": ""
+  },
+  {
+   "location": "310/DLL",
+   "narrator": "",
+   "text": "ストレージの空き容量が\n少なくなっています。\n空き容量を増やしてください。",
+   "zh": "存储空间的可用容量\n所剩不多。\n请增加可用空间。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "316/DLL",
+   "narrator": "",
+   "text": "撤退してよろしいですか？",
+   "zh": "确定要撤退吗？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "318/DLL",
+   "narrator": "",
+   "text": "データエラー\n<size=20>(Battle/3D)</size>",
+   "zh": "数据错误\n<size=20>(Battle/3D)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "319/DLL",
+   "narrator": "",
+   "text": "データエラー\n<size=20>(BattleCanvas/3D)</size>",
+   "zh": "数据错误\n<size=20>(BattleCanvas/3D)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "320/DLL",
+   "narrator": "",
+   "text": "ジュエルを\n購入する",
+   "zh": "购买\n宝石",
+   "narrator_zh": ""
+  },
+  {
+   "location": "337/DLL",
+   "narrator": "",
+   "text": "ゲームサーバーに接続できません。\n<size=20>(Starting failed.)</size>",
+   "zh": "无法连接游戏服务器。\n<size=20>(Starting failed.)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "339/DLL",
+   "narrator": "",
+   "text": "ゲームサーバーに接続できません。\n<size=20>(Code:Finishing failed.)</size>",
+   "zh": "无法连接游戏服务器。\n<size=20>(Code:Finishing failed.)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "340/DLL",
+   "narrator": "",
+   "text": "ゲームサーバーに接続できません。\n<size=20>(Continue failed.)</size>",
+   "zh": "无法连接游戏服务器。\n<size=20>(Continue failed.)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "483/DLL",
+   "narrator": "",
+   "text": "{0}さんに\nフレンド申請を送りました。",
+   "zh": "已向{0}\n发送好友申请。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "484/DLL",
+   "narrator": "",
+   "text": "あなたのフレンド数がいっぱいのため、申請することができません。\n\n<color=blue>尚、フレンド数には、現在あなたが申請中のフレンドも含まれます。ご注意ください。</color>",
+   "zh": "你的好友数已满，无法申请。\n\n<color=blue>此外，好友数包含你当前申请中的好友。请注意。</color>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "485/DLL",
+   "narrator": "",
+   "text": "<color=red>{0}さんは\n既にフレンド申請されています。</color>\nあなた、もしくは相手が\n申請している可能性があります。",
+   "zh": "<color=red>{0}\n已有好友申请。</color>\n有可能是你，或是对方\n正在申请。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "486/DLL",
+   "narrator": "",
+   "text": "Kakutora.Api.Net.Friend.Applyに失敗",
+   "zh": "Kakutora.Api.Net.Friend.Apply失败",
+   "narrator_zh": ""
+  },
+  {
+   "location": "487/DLL",
+   "narrator": "",
+   "text": "{0}さん、\nもしくはあなたのフレンド数が\nいっぱいのため、申請することが\nできません。\n\n<color=blue>尚、フレンド数には、現在あなたが申請中のフレンドも含まれます。ご注意ください。</color>",
+   "zh": "{0}，\n或者你的好友数\n已满，因此无法\n申请。\n\n<color=blue>此外，好友数包含你当前申请中的好友。请注意。</color>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "488/DLL",
+   "narrator": "",
+   "text": "さんにフレンド申請を送りました",
+   "zh": "的好友申请已发送",
+   "narrator_zh": ""
+  },
+  {
+   "location": "489/DLL",
+   "narrator": "",
+   "text": "<size=34>Player の LVがアップ！ ACT全快！</size>\n",
+   "zh": "<size=34>Player 的 LV提升！ACT全满！</size>\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "490/DLL",
+   "narrator": "",
+   "text": "           　 <size=25>ACT最大値　{0} → {1}</size>\n",
+   "zh": "           　 <size=25>ACT最大值　{0} → {1}</size>\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "491/DLL",
+   "narrator": "",
+   "text": "　             <size=25>フレンド数最大値　{0} → {1}</size>\n",
+   "zh": "　             <size=25>好友数上限　{0} → {1}</size>\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "492/DLL",
+   "narrator": "",
+   "text": "のLVがアップ！\n　<size=30>各種ステータスUP!</size>\n",
+   "zh": "的LV提升！\n　<size=30>各项状态UP!</size>\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "493/DLL",
+   "narrator": "",
+   "text": "　 <size=30>デッキコストUP!　{1} → {2}</size>\n",
+   "zh": "　 <size=30>卡组消耗UP!　{1} → {2}</size>\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "508/DLL",
+   "narrator": "",
+   "text": "ジュエルが不足しています。\nジュエルを購入しますか？",
+   "zh": "宝石不足。\n要购买宝石吗？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "512/DLL",
+   "narrator": "",
+   "text": "ゲームサーバーに接続できません。\n<size=20>(ACTadd failed.)</size>",
+   "zh": "无法连接游戏服务器。\n<size=20>(ACTadd failed.)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "514/DLL",
+   "narrator": "",
+   "text": "<color=red>デッキコスト超過の為\nバトルを開始できません。</color>\n\nクラン編成画面で\nパーティーを切り替えてください。",
+   "zh": "<color=red>卡组消耗超出，\n无法开始战斗。</color>\n\n请在库兰编成画面\n切换队伍。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "515/DLL",
+   "narrator": "",
+   "text": "<color=red>デッキ内に同一クランが２体以上\n存在する為バトルを開始できません</color>\n\nクラン編成画面で\nパーティーを再編成してください。",
+   "zh": "<color=red>卡组内存在2体以上\n相同库兰，无法开始战斗</color>\n\n请在库兰编成画面\n重新编成队伍。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "516/DLL",
+   "narrator": "",
+   "text": "クランが揃っていないため\nバトルを開始できません。\n\nクラン編成画面で\nパーティーを編成してください。",
+   "zh": "库兰没有到齐，\n无法开始战斗。\n\n请在库兰编成画面\n编成队伍。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "526/DLL",
+   "narrator": "",
+   "text": "アニメデータの取得に失敗しました。\n<size=20>(GetChapter Failed.)</size>",
+   "zh": "动画数据获取失败。\n<size=20>(GetChapter Failed.)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "527/DLL",
+   "narrator": "",
+   "text": "アニメデータの取得に失敗しました。\n<size=20>(GetAnimeData Failed.)</size>",
+   "zh": "动画数据获取失败。\n<size=20>(GetAnimeData Failed.)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "528/DLL",
+   "narrator": "",
+   "text": "チャプターデータ取得失敗\n",
+   "zh": "章节数据获取失败\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "530/DLL",
+   "narrator": "",
+   "text": "【{0}】さんが\nログアウトしました。",
+   "zh": "【{0}】\n已登出。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "531/DLL",
+   "narrator": "",
+   "text": "パレットからアイテムを\n選択して下さい。",
+   "zh": "请从调色板\n选择道具。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "532/DLL",
+   "narrator": "",
+   "text": "パレットからコスチュームを\n選択して下さい。",
+   "zh": "请从调色板\n选择服装。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "611/DLL",
+   "narrator": "",
+   "text": "Kind {0}は指定できません",
+   "zh": "无法指定Kind {0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "614/DLL",
+   "narrator": "",
+   "text": "新着シナリオはイベントリストから\nプレイすることはできません。\n直接デイドラ/ヒメゴトボタンを\nタップしてプレイしてください。",
+   "zh": "新剧本无法从活动列表\n进行游玩。\n请直接点击每日剧场/秘语按钮\n进行游玩。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "687/DLL",
+   "narrator": "",
+   "text": "全てのアイテムを\n受け取りました。",
+   "zh": "已领取\n全部道具。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "691/DLL",
+   "narrator": "",
+   "text": "タイトル画面に戻りますか？",
+   "zh": "要返回标题画面吗？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "744/DLL",
+   "narrator": "",
+   "text": "ユーザー認証に失敗しました。\n<size=20>(SignIn failed.)</size>",
+   "zh": "用户认证失败。\n<size=20>(SignIn failed.)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "745/DLL",
+   "narrator": "",
+   "text": "ユーザー認証に失敗しました。\n<size=20>(",
+   "zh": "用户认证失败。\n<size=20>(",
+   "narrator_zh": ""
+  },
+  {
+   "location": "746/DLL",
+   "narrator": "",
+   "text": "チュートリアル中は\n戻るボタンは使えません。",
+   "zh": "教程进行中\n无法使用返回按钮。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "747/DLL",
+   "narrator": "",
+   "text": "ゲームサーバーに接続できません。\n<size=20>(Code:006)</size>",
+   "zh": "无法连接游戏服务器。\n<size=20>(Code:006)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "752/DLL",
+   "narrator": "",
+   "text": "{0}件のフレンド承認待ちがあります。",
+   "zh": "有{0}件待同意的好友申请。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "753/DLL",
+   "narrator": "",
+   "text": "ランキングイベントが終了いたしました。\n順位報酬をプレゼントボックスに送っておりますのでご確認ください。",
+   "zh": "排行活动已结束。\n排名奖励已送至礼物盒，请确认。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "767/DLL",
+   "narrator": "",
+   "text": "<color=red>キャッシュデータをクリアします。</color>\n\nお客様のゲーム進行データは保持されます。この処理を実行すると、次回起動時に大量のデータロードが発生します。\n\nフルダウンロードをしている場合、完了までに１分程度の時間がかかります。\n\n実行しますか？",
+   "zh": "<color=red>将清除缓存数据。</color>\n\n你的游戏进度数据会被保留。执行此处理后，下次启动时会发生大量数据加载。\n\n若已进行完整下载，完成大约需要1分钟。\n\n要执行吗？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "768/DLL",
+   "narrator": "",
+   "text": "<color=green>全データをダウンロードします。</color>\n\nボイス、BGM、及び幾つかの画像データを除く全てのデータを一括ダウンロードします。\n\nダウンロードには１時間以上かかる場合があります。また、1.7GB近くのファイルをダウンロードしますので、Wi-Fi環境でのご利用をお勧めします。インストール後のデータ容量はおよそ2.3GB以上となります。\n\nダウンロードを開始しますか？",
+   "zh": "<color=green>将下载全部数据。</color>\n\n将一次性下载除语音、BGM以及部分图像数据以外的全部数据。\n\n下载可能需要1小时以上。此外将下载近1.7GB的文件，建议在Wi-Fi环境下使用。安装后的数据容量大约在2.3GB以上。\n\n要开始下载吗？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "772/DLL",
+   "narrator": "",
+   "text": "前回バトル途中で中断されたため、バトルデータが残っています。\nバトルから再開しますか？\n<size=24><color=red>※再開しない場合LOSE扱いとなります。</color></size>",
+   "zh": "上次战斗中途中断，战斗数据仍保留着。\n要从战斗重新开始吗？\n<size=24><color=red>※若不重新开始，将视为LOSE。</color></size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "773/DLL",
+   "narrator": "",
+   "text": "サインインできませんでした。\n<size=20>(Code:105)</size>",
+   "zh": "登录失败。\n<size=20>(Code:105)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "775/DLL",
+   "narrator": "",
+   "text": "<size=24>機種変更でエラーが発生しました。\n</size><size=20>(",
+   "zh": "<size=24>更换设备时发生错误。\n</size><size=20>(",
+   "narrator_zh": ""
+  },
+  {
+   "location": "778/DLL",
+   "narrator": "",
+   "text": "<color=red>【リストア】</color>を実行します。\nよろしいですか？",
+   "zh": "将执行<color=red>【还原】</color>。\n确定吗？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "779/DLL",
+   "narrator": "",
+   "text": "プレイデータが存在しないため、\nバックアップされたデータを\n<color=red>【リストア】</color>します。\nよろしいですか？",
+   "zh": "游玩数据不存在，\n将把已备份的数据\n<color=red>【还原】</color>。\n确定吗？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "780/DLL",
+   "narrator": "",
+   "text": "<size=24>リストアに失敗しました。\n(",
+   "zh": "<size=24>还原失败。\n(",
+   "narrator_zh": ""
+  },
+  {
+   "location": "782/DLL",
+   "narrator": "",
+   "text": "<size=24>リストアに失敗しました。\n</size>",
+   "zh": "<size=24>还原失败。\n</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "783/DLL",
+   "narrator": "",
+   "text": "バックアップ処理は\n正常に終了しませんでした。",
+   "zh": "备份处理\n未能正常结束。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "784/DLL",
+   "narrator": "",
+   "text": "<size=24>データの取得に失敗しました。\n(",
+   "zh": "<size=24>数据获取失败。\n(",
+   "narrator_zh": ""
+  },
+  {
+   "location": "785/DLL",
+   "narrator": "",
+   "text": "サインインできませんでした。\n<size=20>(Code:104)</size>",
+   "zh": "登录失败。\n<size=20>(Code:104)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "786/DLL",
+   "narrator": "",
+   "text": "キャッシュデータを\nクリアできませんでした。\n\nアプリを再起動してから\n再度お試し下さい。",
+   "zh": "未能清除\n缓存数据。\n\n请重启应用后\n再次尝试。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "787/DLL",
+   "narrator": "",
+   "text": "キャッシュデータを\nクリアしました。",
+   "zh": "已清除\n缓存数据。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "789/DLL",
+   "narrator": "",
+   "text": "動画サーバーに接続できません。\n<size=20>(Code:201)</size>",
+   "zh": "无法连接视频服务器。\n<size=20>(Code:201)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "790/DLL",
+   "narrator": "",
+   "text": "動画データの取得に失敗しました。\n<size=20>({0})</size>",
+   "zh": "视频数据获取失败。\n<size=20>({0})</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "791/DLL",
+   "narrator": "",
+   "text": "データサーバに接続できません。\n<size=20>(Datafile 10 failed.)</size>",
+   "zh": "无法连接数据服务器。\n<size=20>(Datafile 10 failed.)</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "794/DLL",
+   "narrator": "",
+   "text": "アニメスクリプト{0}が見つかりません。sampleを再生します。",
+   "zh": "未找到动画脚本{0}。将播放sample。",
+   "narrator_zh": ""
+  }
+ ]
+}

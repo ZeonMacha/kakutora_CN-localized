@@ -1,0 +1,987 @@
+{
+    "dir": "chap10/daydra/dd_ch02_10_102.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "10205",
+        "cid": "ayami",
+        "title": "005 メインストーリー",
+        "sub_title": "切れない物が怖い＜後編＞",
+        "title_zh": "005 主线剧情",
+        "sub_title_zh": "害怕无法斩断之物＜后篇＞"
+    },
+    "entry": [
+        {
+            "location": "433/SCENARIO",
+            "narrator": "",
+            "text": "切れない物が怖い",
+            "zh": "害怕无法斩断之物",
+            "narrator_zh": ""
+        },
+        {
+            "location": "453/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "454/TALK",
+            "narrator": "アーヤ",
+            "text": "マズいわ。\nもうこんな時間…。",
+            "zh": "糟糕。\n都已经这个时间了……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "455/TALK",
+            "narrator": "アーヤ",
+            "text": "そろそろ帰らないと、\nさすがに迷惑よね？",
+            "zh": "再不回去的话，\n果然还是太打扰人家了吧？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "457/TALK",
+            "narrator": "アーヤ",
+            "text": "でも…今は部屋に\n戻りたくないし…。",
+            "zh": "可是……现在实在\n不想回自己房间……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "459/TALK",
+            "narrator": "つばめ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "460/TALK",
+            "narrator": "アーヤ",
+            "text": "やっぱり、時計の方\n気にしてる！",
+            "zh": "她果然很在意\n墙上的时钟！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "461/TALK",
+            "narrator": "アーヤ",
+            "text": "どうしよう…。",
+            "zh": "怎么办才好……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "462/SEL",
+            "narrator": "",
+            "text": "つばめにも護身術を教えよう",
+            "zh": "也教教燕防身术吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "463/SEL",
+            "narrator": "",
+            "text": "つばめに好きだから同棲しようと伝えよう",
+            "zh": "跟燕说因为喜欢她，所以干脆同居吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "464/ACT",
+            "narrator": "",
+            "text": "つばめにも護身術を教えよう",
+            "zh": "也教教燕防身术吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "480/TALK",
+            "narrator": "アーヤ",
+            "text": "それいいかも(^^",
+            "zh": "这主意不错(^^",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "481/TALK",
+            "narrator": "アーヤ",
+            "text": "それならもうしばらく",
+            "zh": "那样的话就能再多待一会儿",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "482/TALK",
+            "narrator": "アーヤ",
+            "text": "部屋に帰らなくてすむし＼(^O^)／",
+            "zh": "暂时不用回自己房间了＼(^O^)／",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "483/TALK",
+            "narrator": "アーヤ",
+            "text": "早速言ってみるわ",
+            "zh": "我这就跟她说",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "495/TALK",
+            "narrator": "アーヤ",
+            "text": "逢瀬さん。\nよければだけど――",
+            "zh": "逢濑。\n如果你不介意的话——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "496/TALK",
+            "narrator": "アーヤ",
+            "text": "今から、簡単な\n護身術を教えま\nしょうか？",
+            "zh": "要不要现在，\n我教你一点简单的\n防身术？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "500/TALK",
+            "narrator": "つばめ",
+            "text": "えっ！？\n今からですか？",
+            "zh": "咦！？\n现在吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "501/TALK",
+            "narrator": "アーヤ",
+            "text": "…やっぱり、\nダメよね。",
+            "zh": "……果然，\n太勉强了吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "502/TALK",
+            "narrator": "つばめ",
+            "text": "あ、えと…ダメって\nわけじゃないです\nけど――",
+            "zh": "啊、那个……倒也不是\n不行啦\n不过——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "503/TALK",
+            "narrator": "つばめ",
+            "text": "でも、これ以上部屋に\n引き留めるのは\n迷惑なんじゃ…。",
+            "zh": "只是，再继续把你\n留在我房间里，\n会不会太麻烦你了……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "504/TALK",
+            "narrator": "アーヤ",
+            "text": "全然迷惑じゃない\nから！",
+            "zh": "一点都不麻烦\n好吗！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "505/TALK",
+            "narrator": "つばめ",
+            "text": "そ、そうですか？",
+            "zh": "是、是吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "506/TALK",
+            "narrator": "つばめ",
+            "text": "それじゃあ、\nお願いしようかな？",
+            "zh": "那，那就\n拜托你教我吧？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "508/TALK",
+            "narrator": "アーヤ",
+            "text": "やった！！\nこれで部屋に戻らずに\n済むわ！",
+            "zh": "太好了！！\n这下不用回自己\n房间了！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "510/TALK",
+            "narrator": "アーヤ",
+            "text": "じゃあ、うどんを\n食べたら早速始め\nましょ。",
+            "zh": "那，等吃完乌冬面\n咱们就马上\n开始吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "530/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "537/TALK",
+            "narrator": "ガブリエラ",
+            "text": "はぁ…。\n何やってんのかしら、\nうるさいわね…。",
+            "zh": "哈啊……\n到底在干什么呀，\n吵死人了……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "543/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ああもう！！",
+            "zh": "啊真是受够了！！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "566/TALK",
+            "narrator": "アーヤ",
+            "text": "じゃあ、もう一度\n行くわよ。",
+            "zh": "好，我们再来\n一次哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "567/TALK",
+            "narrator": "つばめ",
+            "text": "はい！",
+            "zh": "好的！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "568/TALK",
+            "narrator": "アーヤ",
+            "text": "相手に肩を掴まれたり\nした時は、こうして！",
+            "zh": "被对方抓住肩膀的\n时候，就像这样！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "609/TALK",
+            "narrator": "ガブリエラ",
+            "text": "うるさーい！！\n何やってんのよ、\nこんな夜中、に…。",
+            "zh": "吵死了——！！\n大晚上的到底在\n折腾什么呢……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "611/TALK",
+            "narrator": "つばめ",
+            "text": "えっ？",
+            "zh": "咦？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "612/TALK",
+            "narrator": "アーヤ",
+            "text": "あら、ギャヴィ。",
+            "zh": "哎呀，加维。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "616/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あ、あんた達、\n何やってんのよ！？",
+            "zh": "你、你们两个，\n到底在干什么啊！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "617/TALK",
+            "narrator": "つばめ",
+            "text": "凄いんですよ。\nアーヤさん、色んな\nこと知ってるんです！",
+            "zh": "可厉害了！\n绫水懂得\n好多东西呢！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "619/TALK",
+            "narrator": "ガブリエラ",
+            "text": "知ってる！？\n何を！？",
+            "zh": "懂得！？\n懂得什么！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "620/TALK",
+            "narrator": "アーヤ",
+            "text": "ごめんなさい。\nうるさかったかしら？",
+            "zh": "对不起。\n是不是吵到你了？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "621/TALK",
+            "narrator": "アーヤ",
+            "text": "でも、せっかくだから\nギャヴィもどう？",
+            "zh": "不过，既然都来了，\n加维要不要也一起来？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "622/TALK",
+            "narrator": "ガブリエラ",
+            "text": "や、やるわけない\nでしょ！！\n二人とも、不潔よー！",
+            "zh": "怎、怎么可能\n一起啊！！\n你们两个，真不检点——！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "644/TALK",
+            "narrator": "みやび",
+            "text": "んー、\n確かこの辺に\n落ちたような…。",
+            "zh": "嗯——\n记得好像就掉在\n这一片了……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "646/TALK",
+            "narrator": "みやび",
+            "text": "おっ、あったあった。\nどこも壊れちょらん\nようやな。",
+            "zh": "哦，找到了找到了。\n看起来哪里都没\n摔坏咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "647/TALK",
+            "narrator": "みやび",
+            "text": "ドローンに、\nカカシ括り付けて\n飛ばそういうんは――",
+            "zh": "在无人机上\n绑个稻草人\n想让它飞起来这事——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "648/TALK",
+            "narrator": "みやび",
+            "text": "ちくっと無理あった\nようやな…。",
+            "zh": "看来还是稍微\n勉强了一点咯……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "649/TALK",
+            "narrator": "みやび",
+            "text": "成功すれば、次は\nうちがぶら下がる\n予定やったけんど――",
+            "zh": "本来要是成功了，\n下次就轮到我\n吊上去了，不过——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "651/TALK",
+            "narrator": "みやび",
+            "text": "空を自由に飛べるように\nなるんは、まだまだ\n未来の話か…。",
+            "zh": "想要在天上自由自在地\n飞起来，看来还是\n好久以后的事咯……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "658/TALK",
+            "narrator": "ガブリエラ",
+            "text": "二人とも、不潔よー！",
+            "zh": "你们两个，真不检点——！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "661/TALK",
+            "narrator": "みやび",
+            "text": "はぁ…、\n近所迷惑やねぇ…。",
+            "zh": "唉……\n真是扰民咯……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "662/ACT",
+            "narrator": "",
+            "text": "つばめに好きだから同棲しようと伝えよう",
+            "zh": "跟燕说因为喜欢她，所以干脆同居吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "680/TALK",
+            "narrator": "アーヤ",
+            "text": "あのね(--#)",
+            "zh": "我说你啊(--#)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "681/TALK",
+            "narrator": "アーヤ",
+            "text": "ちょっとふざけ過ぎよ",
+            "zh": "玩笑也开得太过了吧",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "682/TALK",
+            "narrator": "アーヤ",
+            "text": "今はそんな冗談で笑えないわ(｀ヘ´)",
+            "zh": "现在我可笑不出来(｀ヘ´)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "684/SEL",
+            "narrator": "",
+            "text": "つばめが動揺すれば、その間はいられる",
+            "zh": "只要把燕弄慌了，趁那会儿就能继续待着了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "685/ACT",
+            "narrator": "",
+            "text": "つばめが動揺すれば、その間はいられる",
+            "zh": "只要把燕弄慌了，趁那会儿就能继续待着了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "687/TALK",
+            "narrator": "アーヤ",
+            "text": "そうかもしれないけど",
+            "zh": "话是这么说没错",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "688/TALK",
+            "narrator": "アーヤ",
+            "text": "もっと方法あるでしょ？(´o｀；",
+            "zh": "应该还有别的办法吧？(´o｀；",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "689/TALK",
+            "narrator": "アーヤ",
+            "text": "同棲しようとか",
+            "zh": "说什么一起同居什么的",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "690/TALK",
+            "narrator": "アーヤ",
+            "text": "ぶっ飛び過ぎよ(-ω-；)",
+            "zh": "也太跳脱了吧(-ω-；)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "692/SEL",
+            "narrator": "",
+            "text": "そんなこと言ってると、部屋に帰されるよ？",
+            "zh": "再磨蹭下去，可就要被赶回自己房间了哦？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "693/ACT",
+            "narrator": "",
+            "text": "そんなこと言ってると、部屋に帰されるよ？",
+            "zh": "再磨蹭下去，可就要被赶回自己房间了哦？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "695/TALK",
+            "narrator": "アーヤ",
+            "text": "そうかもしれないけど",
+            "zh": "话是这么说没错",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "696/TALK",
+            "narrator": "アーヤ",
+            "text": "違う方法でお願いしたいわm(_ _)m",
+            "zh": "但还是麻烦换个别的办法吧m(_ _)m",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "698/SEL",
+            "narrator": "",
+            "text": "グッドラック！",
+            "zh": "祝你好运！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "699/ACT",
+            "narrator": "",
+            "text": "グッドラック！",
+            "zh": "祝你好运！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "703/TALK",
+            "narrator": "アーヤ",
+            "text": "なっ！？",
+            "zh": "什！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "706/TALK",
+            "narrator": "アーヤ",
+            "text": "チャット閉じた！？\nなんて薄情な…！！",
+            "zh": "把聊天关了！？\n怎么这么无情……！！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "709/TALK",
+            "narrator": "つばめ",
+            "text": "…あっ、すみません。",
+            "zh": "……啊，不好意思。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "711/TALK",
+            "narrator": "つばめ",
+            "text": "わたし、そろそろ\n寝る時間で…。",
+            "zh": "我差不多该\n睡觉了……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "714/TALK",
+            "narrator": "アーヤ",
+            "text": "えっ！？",
+            "zh": "咦！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "715/TALK",
+            "narrator": "アーヤ",
+            "text": "あ、そ、そうよね！\nああ、それじゃあ\n私も――",
+            "zh": "啊、是、是啊！\n啊，既然这样\n那我也——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "716/TALK",
+            "narrator": "アーヤ",
+            "text": "逢瀬さんと\n一緒に寝るわ。",
+            "zh": "跟逢濑\n一起睡吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "718/TALK",
+            "narrator": "つばめ",
+            "text": "はい。\nそれじゃあまた――",
+            "zh": "嗯。\n那晚安了——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "721/TALK",
+            "narrator": "つばめ",
+            "text": "…って、えぇっ！？",
+            "zh": "……哎、咦咦咦！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "722/TALK",
+            "narrator": "アーヤ",
+            "text": "ど、どうしよう！\n勢いで変なこと\n言っちゃった！",
+            "zh": "怎、怎么办！\n一时冲动说出了\n不得了的话！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "723/TALK",
+            "narrator": "つばめ",
+            "text": "あ、あの、気持ちは\n嬉しいですけど――",
+            "zh": "那、那个，谢谢你的\n好意啦——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "724/TALK",
+            "narrator": "つばめ",
+            "text": "もう、わたし一人でも\n大丈夫ですから。",
+            "zh": "不过，我现在一个人\n也已经不要紧了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "725/TALK",
+            "narrator": "アーヤ",
+            "text": "そ、そう？\nまあ、確かにもう…。",
+            "zh": "是、是吗？\n嘛，确实已经……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "727/TALK",
+            "narrator": "アーヤ",
+            "text": "ううん、ダメ！\nその考え甘い！！",
+            "zh": "不对，不行！\n你这想法太天真了！！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "728/TALK",
+            "narrator": "アーヤ",
+            "text": "女の子の一人暮らしは\n常に危険と隣合わせ\nなのよ？",
+            "zh": "女孩子一个人住，\n可是随时都伴随着\n危险的哦？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "729/TALK",
+            "narrator": "アーヤ",
+            "text": "だから、私もここで\n一緒に寝るわ。",
+            "zh": "所以，我也要留在这儿\n跟你一起睡。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "730/TALK",
+            "narrator": "つばめ",
+            "text": "そ、そんなに東京って\n危険なんですか！？",
+            "zh": "东、东京原来有\n这么危险吗！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "732/TALK",
+            "narrator": "つばめ",
+            "text": "なら、ガブリエラ\nせんぱいも一人だと\n危険なんじゃ…？",
+            "zh": "那，加布里埃拉\n前辈一个人住\n岂不是很危险……？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "733/TALK",
+            "narrator": "アーヤ",
+            "text": "あああ…、何だか\nややこしいことに\nなってきちゃってる。",
+            "zh": "啊啊啊……总觉得\n事情好像变得\n越来越复杂了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "734/SEL",
+            "narrator": "",
+            "text": "今からでも遅くない、言うんだ！",
+            "zh": "现在说还不算晚，快告白吧！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "735/ACT",
+            "narrator": "",
+            "text": "今からでも遅くない、言うんだ！",
+            "zh": "现在说还不算晚，快告白吧！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "754/TALK",
+            "narrator": "アーヤ",
+            "text": "ああもう",
+            "zh": "啊啊真是的",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "755/TALK",
+            "narrator": "アーヤ",
+            "text": "ちょっと黙ってて！",
+            "zh": "你先给我闭嘴啦！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "766/TALK",
+            "narrator": "つばめ",
+            "text": "あの、わたし今から\nせんぱいを呼んで――",
+            "zh": "那个，我现在就去\n把前辈叫来——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "767/TALK",
+            "narrator": "アーヤ",
+            "text": "だ、ダメ！！\nそうじゃないの！",
+            "zh": "不、不行！！\n不是那样的！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "768/TALK",
+            "narrator": "アーヤ",
+            "text": "私は、逢瀬さんを\n放っておけないから\n言ってるの。",
+            "zh": "我只是觉得\n把逢濑你一个人丢下\n不放心才这么说的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "769/TALK",
+            "narrator": "つばめ",
+            "text": "え？",
+            "zh": "咦？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "770/TALK",
+            "narrator": "アーヤ",
+            "text": "だって、ほら…、\n逢瀬さんって――",
+            "zh": "因为你看嘛……\n逢濑你不是——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "771/TALK",
+            "narrator": "アーヤ",
+            "text": "一人にしておけない、\nこう…危なっかしさ？\nそういうのあるから。",
+            "zh": "有种让人放心不下的、\n怎么说呢……毛手毛脚的感觉？\n就是那种感觉啦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "773/TALK",
+            "narrator": "つばめ",
+            "text": "えーっ！？\nそ、そんなこと\nないですよー！",
+            "zh": "咦——！？\n才、才没有\n那回事呢——！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "774/TALK",
+            "narrator": "つばめ",
+            "text": "こっちでの生活にも\n慣れてきてますし――",
+            "zh": "我也已经渐渐适应\n这边的生活了——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "775/TALK",
+            "narrator": "つばめ",
+            "text": "それに、そんなに\n子供じゃないです！",
+            "zh": "而且，我也没那么\n小孩子气呀！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "777/TALK",
+            "narrator": "アーヤ",
+            "text": "子供扱いしてる\nわけじゃなくて――",
+            "zh": "我又不是在把你\n当小孩子——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "778/TALK",
+            "narrator": "アーヤ",
+            "text": "危なっかしくて\n一人に出来ない、\nって言ってるの！",
+            "zh": "我是说你\n毛毛躁躁的，让人没法\n放你一个人！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "780/TALK",
+            "narrator": "つばめ",
+            "text": "それ、同じですよ！",
+            "zh": "这不就是一回事嘛！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "799/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ほっ…寝る前の\nハーブティーって、\n凄く落ち着くわ…。",
+            "zh": "呼……睡前喝杯\n花草茶，\n真是让人放松呢……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "800/TALK",
+            "narrator": "ガブリエラ",
+            "text": "今日もいい気分で\nベッドに入れ――",
+            "zh": "今天也能带着好心情\n钻进被窝——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "803/TALK",
+            "narrator": "透明つばめ",
+            "text": "えーっ！？",
+            "zh": "咦——！？",
+            "narrator_zh": "透明燕"
+        },
+        {
+            "location": "804/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ぶっ！！",
+            "zh": "噗！！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "805/TALK",
+            "narrator": "透明つばめ",
+            "text": "そ、そんなこと\nないですよー！",
+            "zh": "才、才没有\n那回事呢——！",
+            "narrator_zh": "透明燕"
+        },
+        {
+            "location": "806/TALK",
+            "narrator": "ガブリエラ",
+            "text": "げほっ、げほっ…。\nあ、あのバカ新人…！",
+            "zh": "咳咳、咳咳……\n那、那个蠢新人……！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "807/TALK",
+            "narrator": "透明つばめ",
+            "text": "それ、同じですよ！",
+            "zh": "这不就是一回事嘛！",
+            "narrator_zh": "透明燕"
+        },
+        {
+            "location": "809/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あたしの、大切な\n夜のひと時を…！！",
+            "zh": "我宝贵的\n夜间时光啊……！！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "842/TALK",
+            "narrator": "つばめ",
+            "text": "もう、本当にわたし\n一人でも平気ですから！",
+            "zh": "真是的，我真的\n一个人也没问题啦！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "845/TALK",
+            "narrator": "アーヤ",
+            "text": "いや、ダメって\n言ってるわけじゃ\nないのよ？",
+            "zh": "不是，我也不是说\n绝对不行的\n意思哦？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "846/TALK",
+            "narrator": "アーヤ",
+            "text": "ただ、私が個人的に\n放っておけないって\n思ってるだけで…。",
+            "zh": "只是，我个人觉得\n实在没法放着你\n不管而已……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "847/TALK",
+            "narrator": "つばめ",
+            "text": "わーん！\nやっぱり子供扱い\nされてるー！",
+            "zh": "哇啊——！\n果然还是把我当\n小孩子看嘛——！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "848/TALK",
+            "narrator": "アーヤ",
+            "text": "だから、子供扱いを\nしてるわけじゃ――",
+            "zh": "都说了，我不是在\n把你当小孩子——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "849/TALK",
+            "narrator": "アーヤ",
+            "text": "ああ、もう！\nわかった、言うわ！！",
+            "zh": "啊，真是的！\n好吧，我说就是了！！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "850/TALK",
+            "narrator": "アーヤ",
+            "text": "私は――",
+            "zh": "我——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "855/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ちょっと、新人！！\nこんな時間に\n何騒いで――",
+            "zh": "我说，新人！！\n都这个时间了\n你在吵什么——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "856/TALK",
+            "narrator": "アーヤ",
+            "text": "私は逢瀬さんのことが\n大好きなの！！",
+            "zh": "我最喜欢\n逢濑了！！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "857/TALK",
+            "narrator": "ガブリエラ",
+            "text": "っ！？",
+            "zh": "唔！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "859/TALK",
+            "narrator": "つばめ",
+            "text": "えっ？",
+            "zh": "咦？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "860/TALK",
+            "narrator": "アーヤ",
+            "text": "だから、一人にする\nのが不安で――",
+            "zh": "所以，把你一个人留在这\n我才不放心——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "862/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…な、なによ…。\n何よ、それ…。",
+            "zh": "……什、什么啊……\n算什么呀，那个……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "863/TALK",
+            "narrator": "アーヤ",
+            "text": "あ、ギャヴィ？\nいつの間に来て――",
+            "zh": "啊，加维？\n你什么时候来的——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "864/TALK",
+            "narrator": "ガブリエラ",
+            "text": "う…。",
+            "zh": "呜……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "866/TALK",
+            "narrator": "ガブリエラ",
+            "text": "うわーん！！\nアーヤのバカー！！",
+            "zh": "呜哇——！！\n绫水大笨蛋——！！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "867/TALK",
+            "narrator": "アーヤ",
+            "text": "ちょ、何！？\n何で泣くのよ！？",
+            "zh": "等、怎么了！？\n为什么突然哭起来了！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "870/TALK",
+            "narrator": "つばめ",
+            "text": "うわーん！！\nやっぱり子供扱いじゃ\nないですかー！！",
+            "zh": "呜哇——！！\n果然还是把我当\n小孩子嘛——！！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "871/TALK",
+            "narrator": "アーヤ",
+            "text": "いや、だからそうじゃ\nなくって！！",
+            "zh": "不是，都说了不是\n那个意思啊！！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "874/TALK",
+            "narrator": "アーヤ",
+            "text": "…私も、泣きたく\nなってきたわ…。",
+            "zh": "……我也，\n快要哭了……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "897/TALK",
+            "narrator": "みやび",
+            "text": "んー、\n確かこの辺に\n落ちたような…。",
+            "zh": "嗯——\n记得好像就掉在\n这一片了……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "899/TALK",
+            "narrator": "みやび",
+            "text": "おっ、あったあった。\nどこも壊れちょらん\nようやな。",
+            "zh": "哦，找到了找到了。\n看起来哪里都没\n摔坏咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "900/TALK",
+            "narrator": "みやび",
+            "text": "ドローンに、\nカカシ括り付けて\n飛ばそういうんは――",
+            "zh": "在无人机上\n绑个稻草人\n想让它飞起来这事——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "901/TALK",
+            "narrator": "みやび",
+            "text": "ちくっと無理あった\nようやな…。",
+            "zh": "看来还是稍微\n勉强了一点咯……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "902/TALK",
+            "narrator": "みやび",
+            "text": "成功すれば、次は\nうちがぶら下がる\n予定やったけんど――",
+            "zh": "本来要是成功了，\n下次就轮到我\n吊上去了，不过——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "904/TALK",
+            "narrator": "みやび",
+            "text": "空を自由に飛べるように\nなるんは、まだまだ\n未来の話か…。",
+            "zh": "想要在天上自由自在地\n飞起来，看来还是\n好久以后的事咯……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "908/TALK",
+            "narrator": "透明ガブリエラ",
+            "text": "うわーん！！\nアーヤのバカー！！",
+            "zh": "呜哇——！！\n绫水大笨蛋——！！",
+            "narrator_zh": "透明加布里埃拉"
+        },
+        {
+            "location": "910/TALK",
+            "narrator": "透明つばめ",
+            "text": "うわーん！！\nやっぱり子供扱いじゃ\nないですかー！！",
+            "zh": "呜哇——！！\n果然还是把我当\n小孩子嘛——！！",
+            "narrator_zh": "透明燕"
+        },
+        {
+            "location": "911/TALK",
+            "narrator": "透明アーヤ",
+            "text": "いや、だからそうじゃ\nなくって！！",
+            "zh": "不是，都说了不是\n那个意思啊！！",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "914/TALK",
+            "narrator": "みやび",
+            "text": "はぁ…、\n近所迷惑やねぇ…。",
+            "zh": "唉……\n真是扰民咯……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "926/DIALOG",
+            "narrator": "Dialog_chapter_ch02",
+            "text": "【08 HANABI】",
+            "zh": "【08 HANABI】",
+            "narrator_zh": "Dialog_chapter_ch02"
+        }
+    ]
+}

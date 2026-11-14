@@ -1,0 +1,31 @@
+{
+    "dir": "chap17/daydra/anime_03_17.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "17301",
+        "cid": "gabriella",
+        "title": "001 アニメーション",
+        "sub_title": "電脳料理人"
+    },
+    "entry":
+    [
+        { "location": "7/SCENARIO", "narrator": "", "text": "アニメ第17話"},
+        { "location": "46/SEL"    , "narrator": "", "text": "はい"},
+        { "location": "47/SEL"    , "narrator": "", "text": "いいえ"},
+        { "location": "48/ACT"    , "narrator": "", "text": "はい"},
+        { "location": "50/ACT"    , "narrator": "", "text": "いいえ"},
+        { "location": "76/SEL"    , "narrator": "", "text": "映像を見る\n<color=green>【高画質/74MB 4:36】</color>"},
+        { "location": "77/SEL"    , "narrator": "", "text": "映像を見る\n<color=green>【標準画質/24MB 4:36】</color>"},
+        { "location": "78/SEL"    , "narrator": "", "text": "あらすじレポートにする\n<color=green>【テキストまとめ】</color>"},
+        { "location": "79/ACT"    , "narrator": "", "text": "映像を見る\n<color=green>【高画質/74MB 4:36】</color>"},
+        { "location": "85/ACT"    , "narrator": "", "text": "映像を見る\n<color=green>【標準画質/24MB 4:36】</color>"},
+        { "location": "91/ACT"    , "narrator": "", "text": "あらすじレポートにする\n<color=green>【テキストまとめ】</color>"},
+        { "location": "45/DIALOG" , "narrator": "INFO", "text": "『ちーちゃんとラブラブRPGゲーム！』を再度プレイしますか？"},
+        { "location": "100/DIALOG", "narrator": "Tutorial/Dialog_Anime1", "text": "$dialog_word$"},
+        { "location": "102/DIALOG", "narrator": "Tutorial/Dialog_Anime2", "text": "$dialog_word$"},
+        { "location": "104/DIALOG", "narrator": "Tutorial/Dialog_Anime3", "text": "$dialog_word$"},
+        { "location": "106/DIALOG", "narrator": "Tutorial/Dialog_Anime4", "text": "$dialog_word$"},
+        { "location": "108/DIALOG", "narrator": "Tutorial/Dialog_Anime5", "text": "$dialog_word$"},
+        { "location": "124/DIALOG", "narrator": "NOTICE", "text": "<color=green>【TRI-OS Plug-in:Navigator】</color>\nナビゲーターが\n存在しないため、\nプログラムを終了します。(p01)"}
+    ]
+}

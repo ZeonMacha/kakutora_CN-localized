@@ -1,0 +1,26 @@
+{
+    "dir": "chap01/daydra/check_event_cmd_get_candy.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "101",
+        "cid": "all",
+        "title": "デバッグ用",
+        "sub_title": "キャンディ取得"
+    },
+    "entry":
+    [
+        { "location": "35/SCENARIO", "narrator": "", "text": "イベント命令チェック：GET_CANDY"},
+        { "location": "41/TALK"    , "narrator": "つばめ", "text": "GET_CANDY\nのテストを行います"},
+        { "location": "42/TALK"    , "narrator": "つばめ", "text": "予め元の数を記録しておく\nなりして比較できるように\nしておいてください"},
+        { "location": "43/TALK"    , "narrator": "つばめ", "text": "赤（小）を2つ増やします"},
+        { "location": "47/TALK"    , "narrator": "つばめ", "text": "緑（小）を4つ増やします"},
+        { "location": "49/TALK"    , "narrator": "つばめ", "text": "青（小）を6つ増やします"},
+        { "location": "51/TALK"    , "narrator": "つばめ", "text": "黄（小）を8つ増やします"},
+        { "location": "53/TALK"    , "narrator": "つばめ", "text": "赤（大）を8つ増やします"},
+        { "location": "55/TALK"    , "narrator": "つばめ", "text": "緑（大）を6つ増やします"},
+        { "location": "57/TALK"    , "narrator": "つばめ", "text": "青（大）を4つ増やします"},
+        { "location": "59/TALK"    , "narrator": "つばめ", "text": "黄（大）を2つ増やします"},
+        { "location": "62/TALK"    , "narrator": "つばめ", "text": "イベント終了後、\n正常に獲得できてるか\n確認してください"},
+        { "location": "63/TALK"    , "narrator": "つばめ", "text": "テストを終了します"}
+    ]
+}

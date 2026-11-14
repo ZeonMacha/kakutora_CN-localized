@@ -1,0 +1,588 @@
+{
+    "dir": "chap06/daydra/dd_ch04_06_102.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "6405",
+        "cid": "miyabi",
+        "title": "005 メインストーリー",
+        "sub_title": "出陣【Case：みやび】＜後編＞",
+        "title_zh": "005 主线剧情",
+        "sub_title_zh": "出击【Case：雅】＜后篇＞"
+    },
+    "entry": [
+        {
+            "location": "431/SCENARIO",
+            "narrator": "",
+            "text": "出陣【みやびから見たcase】",
+            "zh": "出击【雅所见的Case】",
+            "narrator_zh": ""
+        },
+        {
+            "location": "449/TALK",
+            "narrator": "みやび",
+            "text": "はぁ…。",
+            "zh": "唉……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "450/TALK",
+            "narrator": "みやび",
+            "text": "まあ、所詮はＢｏｔ\nなんやし――",
+            "zh": "嘛，毕竟只是Bot\n——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "451/TALK",
+            "narrator": "みやび",
+            "text": "そこまでビビる\n必要ないか。",
+            "zh": "没必要\n怕成那样。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "452/TALK",
+            "narrator": "みやび",
+            "text": "今は、色々試して\nみる方が先やな。",
+            "zh": "现在，先多试\n几次比较好。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "465/TALK",
+            "narrator": "みやび",
+            "text": "のう相棒",
+            "zh": "我说搭档",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "466/TALK",
+            "narrator": "みやび",
+            "text": "結論として",
+            "zh": "结论是",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "467/TALK",
+            "narrator": "みやび",
+            "text": "逢瀬つばめは庁からの刺客か何かであろう",
+            "zh": "逢濑燕大概是厅里派来的刺客之类",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "468/TALK",
+            "narrator": "みやび",
+            "text": "イエス、もしくはYで答えよ",
+            "zh": "用Yes或者Y来回答",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "470/SEL",
+            "narrator": "",
+            "text": "イエス",
+            "zh": "Yes",
+            "narrator_zh": ""
+        },
+        {
+            "location": "471/SEL",
+            "narrator": "",
+            "text": "Ｙ",
+            "zh": "Ｙ",
+            "narrator_zh": ""
+        },
+        {
+            "location": "472/SEL",
+            "narrator": "",
+            "text": "強い思い込みは身を滅ぼす",
+            "zh": "太固执会毁了自己",
+            "narrator_zh": ""
+        },
+        {
+            "location": "473/ACT",
+            "narrator": "",
+            "text": "イエス",
+            "zh": "Yes",
+            "narrator_zh": ""
+        },
+        {
+            "location": "474/TALK",
+            "narrator": "みやび",
+            "text": "随分素直やね",
+            "zh": "还挺老实咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "475/TALK",
+            "narrator": "みやび",
+            "text": "いや",
+            "zh": "不",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "476/TALK",
+            "narrator": "みやび",
+            "text": "素直過ぎてそれはそれで怪しい",
+            "zh": "老实过头，那样反而可疑",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "477/TALK",
+            "narrator": "みやび",
+            "text": "そもそも刺客なら隠すのが普通や",
+            "zh": "刺客的话，藏着才正常",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "478/TALK",
+            "narrator": "みやび",
+            "text": "けんど、隠さないで言うっちゅことは",
+            "zh": "不过，不藏着直说，也就是",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "480/TALK",
+            "narrator": "みやび",
+            "text": "刺客やない？",
+            "zh": "不是刺客？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "482/TALK",
+            "narrator": "みやび",
+            "text": "いや",
+            "zh": "不",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "483/TALK",
+            "narrator": "みやび",
+            "text": "ドーム戦でのあの異常な戦い方は現実やき",
+            "zh": "穹顶战里那种异常打法是事实啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "484/TALK",
+            "narrator": "みやび",
+            "text": "逢瀬つばめが普通やないのは間違いない",
+            "zh": "逢濑燕不普通，这点不会错",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "486/SEL",
+            "narrator": "",
+            "text": "そうなると、どうなる？",
+            "zh": "那样的话，会怎样？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "487/ACT",
+            "narrator": "",
+            "text": "そうなると、どうなる？",
+            "zh": "那样的话，会怎样？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "489/TALK",
+            "narrator": "みやび",
+            "text": "逢瀬つばめは、やはり刺客？",
+            "zh": "逢濑燕，果然是刺客？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "490/TALK",
+            "narrator": "みやび",
+            "text": "相棒が素直に答えたのは",
+            "zh": "搭档老实回答，是为了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "491/TALK",
+            "narrator": "みやび",
+            "text": "うちを混乱させるため",
+            "zh": "把我搞乱",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "492/TALK",
+            "narrator": "みやび",
+            "text": "もしくは",
+            "zh": "或者",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "493/TALK",
+            "narrator": "みやび",
+            "text": "からかってるだけや",
+            "zh": "只是在捉弄",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "494/TALK",
+            "narrator": "みやび",
+            "text": "どちらにせよ、相棒はイジワルやね",
+            "zh": "不管怎样，搭档真坏咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "508/TALK",
+            "narrator": "みやび",
+            "text": "いや、ダメやろ",
+            "zh": "不，不行吧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "509/TALK",
+            "narrator": "みやび",
+            "text": "逢瀬つばめがまっこと刺客やったら",
+            "zh": "逢濑燕要是的确是刺客",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "510/TALK",
+            "narrator": "みやび",
+            "text": "それ重大な事実やき",
+            "zh": "那可是重大事实啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "512/TALK",
+            "narrator": "みやび",
+            "text": "なんて簡単な一文字で答えるのはダメやろ？",
+            "zh": "用这么简单的一个字回答不行吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "513/TALK",
+            "narrator": "みやび",
+            "text": "興醒めもいいとこや",
+            "zh": "扫兴到家了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "515/SEL",
+            "narrator": "",
+            "text": "なんて答えればよかったの？",
+            "zh": "那该怎么回答？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "516/ACT",
+            "narrator": "",
+            "text": "なんて答えればよかったの？",
+            "zh": "那该怎么回答？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "518/TALK",
+            "narrator": "みやび",
+            "text": "それ以上踏み込むな、とか",
+            "zh": "别再往下问之类",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "519/TALK",
+            "narrator": "みやび",
+            "text": "回答拒否、とかやね",
+            "zh": "拒绝回答之类咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "520/TALK",
+            "narrator": "みやび",
+            "text": "まあ、刺客かどうかはさておき",
+            "zh": "嘛，是不是刺客先放一边",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "521/TALK",
+            "narrator": "みやび",
+            "text": "相棒がダメダメＡＩゆうことはよぉわかった",
+            "zh": "搭档是个不行的ＡＩ，这我算明白了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "522/TALK",
+            "narrator": "みやび",
+            "text": "もうちっくと精進しぃ",
+            "zh": "再精进一哈",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "535/ACT",
+            "narrator": "",
+            "text": "強い思い込みは身を滅ぼす",
+            "zh": "太固执会毁了自己",
+            "narrator_zh": ""
+        },
+        {
+            "location": "536/TALK",
+            "narrator": "みやび",
+            "text": "ほほう",
+            "zh": "哦哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "537/TALK",
+            "narrator": "みやび",
+            "text": "予想していたより、えい反応やね",
+            "zh": "比预想的反应要得好咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "538/TALK",
+            "narrator": "みやび",
+            "text": "うちが妄信的な観念を手放せない",
+            "zh": "我放不下盲信的观念",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "539/TALK",
+            "narrator": "みやび",
+            "text": "哀れで視野の狭い乙女とでも言いたいか",
+            "zh": "是想说我是可怜、眼界窄的少女吗",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "541/SEL",
+            "narrator": "",
+            "text": "乙女？",
+            "zh": "少女？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "542/SEL",
+            "narrator": "",
+            "text": "どうしてそんな情報管理庁を疑うの？",
+            "zh": "为什么要那样怀疑情报管理厅？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "543/ACT",
+            "narrator": "",
+            "text": "乙女？",
+            "zh": "少女？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "544/TALK",
+            "narrator": "みやび",
+            "text": "なんや？",
+            "zh": "怎么了？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "545/TALK",
+            "narrator": "みやび",
+            "text": "文句あるが？",
+            "zh": "有意见吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "546/TALK",
+            "narrator": "みやび",
+            "text": "どこからどう見てもうちは乙女や",
+            "zh": "怎么看我都是少女",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "547/TALK",
+            "narrator": "みやび",
+            "text": "見よ、このピチピチの若いボディ",
+            "zh": "看啊，这紧实的年轻身体",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "548/TALK",
+            "narrator": "みやび",
+            "text": "あんまし嬉しくないけんど、需要ある無駄乳",
+            "zh": "不太高兴，不过，有人需要的多余胸部",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "549/TALK",
+            "narrator": "みやび",
+            "text": "乙女であることを否定する要素があるか？",
+            "zh": "有否定我是少女的要素吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "551/SEL",
+            "narrator": "",
+            "text": "ありませんでした",
+            "zh": "没有",
+            "narrator_zh": ""
+        },
+        {
+            "location": "552/ACT",
+            "narrator": "",
+            "text": "ありませんでした",
+            "zh": "没有",
+            "narrator_zh": ""
+        },
+        {
+            "location": "554/TALK",
+            "narrator": "みやび",
+            "text": "うむ、わかれば良い",
+            "zh": "嗯，明白就好",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "555/TALK",
+            "narrator": "みやび",
+            "text": "乙女のみやびさんは嬉しいぞね",
+            "zh": "少女雅很高兴啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "556/SEL",
+            "narrator": "",
+            "text": "どうしてそんな情報管理庁を疑うの？　",
+            "zh": "为什么要那样怀疑情报管理厅？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "557/ACT",
+            "narrator": "",
+            "text": "どうしてそんな情報管理庁を疑うの？　",
+            "zh": "为什么要那样怀疑情报管理厅？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "572/TALK",
+            "narrator": "みやび",
+            "text": "…あの様子じゃ、\n正直に話すつもりは\nないようやな。",
+            "zh": "……看那样子，\n是不打算\n老实说了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "573/TALK",
+            "narrator": "みやび",
+            "text": "つばめちゃんもやけんど、\n相棒も要監視対象に\n認定やね。",
+            "zh": "燕也是，不过，\n搭档也被认定\n为需要监视的对象咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "575/ACT",
+            "narrator": "",
+            "text": "どうしてそんな情報管理庁を疑うの？",
+            "zh": "为什么要那样怀疑情报管理厅？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "577/TALK",
+            "narrator": "みやび",
+            "text": "疑うも何も、敵を信じる方がおかしい",
+            "zh": "谈不上怀疑，相信敌人才奇怪",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "578/TALK",
+            "narrator": "みやび",
+            "text": "そうやろ？",
+            "zh": "对吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "580/SEL",
+            "narrator": "",
+            "text": "管理庁ってトライナリーの組織でしょ？",
+            "zh": "管理厅是三重奏的组织吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "581/ACT",
+            "narrator": "",
+            "text": "管理庁ってトライナリーの組織でしょ？",
+            "zh": "管理厅是三重奏的组织吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "583/TALK",
+            "narrator": "みやび",
+            "text": "そうやけんど",
+            "zh": "是这样，不过",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "584/TALK",
+            "narrator": "みやび",
+            "text": "あくまでもフェノメノンと戦うために契約しちゅうだけや",
+            "zh": "不过是为了和PhenoMENON战斗才订了契约",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "585/TALK",
+            "narrator": "みやび",
+            "text": "心まで捧げる契約はしちょらんき",
+            "zh": "可没签把心也交出去的契约啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "588/TALK",
+            "narrator": "みやび",
+            "text": "なんて話ししよったら全部筒抜けやね",
+            "zh": "这么说下去全都会漏出去咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "589/TALK",
+            "narrator": "みやび",
+            "text": "分かっていてしちゅうがやけど",
+            "zh": "明知如此还在说就是了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "590/TALK",
+            "narrator": "みやび",
+            "text": "牙を剥くなら早めの方がえいと思うよ",
+            "zh": "要露出獠牙，我觉得早一点比较好",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "604/TALK",
+            "narrator": "みやび",
+            "text": "ふぅ…。",
+            "zh": "呼……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "607/TALK",
+            "narrator": "みやび",
+            "text": "…ん？",
+            "zh": "……嗯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "634/TALK",
+            "narrator": "つばめ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "649/TALK",
+            "narrator": "みやび",
+            "text": "ああ…手、繋いでもらえん\nかったようやね。",
+            "zh": "啊……手，好像\n没能牵上咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "650/TALK",
+            "narrator": "みやび",
+            "text": "ガブちゃんも、\n何かしら思うところが\nあるようやし。",
+            "zh": "加布也，\n好像有她自己的\n想法。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "651/TALK",
+            "narrator": "みやび",
+            "text": "こらしばらく、\nいろいろ大変やね。",
+            "zh": "接下来这一阵，\n会很不容易咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "664/DIALOG",
+            "narrator": "Dialog_chapter_ch04",
+            "text": "【04 レッドサイト】",
+            "zh": "【04 赤红视线】",
+            "narrator_zh": "Dialog_chapter_ch04"
+        }
+    ]
+}

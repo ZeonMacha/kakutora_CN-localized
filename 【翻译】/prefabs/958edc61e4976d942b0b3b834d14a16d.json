@@ -1,0 +1,983 @@
+{
+ "dir": "958edc61e4976d942b0b3b834d14a16d",
+ "type": "prefabs",
+ "info": {},
+ "entry": [
+  {
+   "location": "121/UI",
+   "narrator": "ShopWindow/Background/Loading/Loading/Text",
+   "text": "N O W   L O A D I N G . . ."
+  },
+  {
+   "location": "122/UI",
+   "narrator": "ShopWindow/Background/Loading/Tips/Text",
+   "text": "S H O P   L I S T"
+  },
+  {
+   "location": "123/UI",
+   "narrator": "ShopWindow/Panel/Candy/BackButton/Text",
+   "text": "閉じる",
+   "zh": "关闭",
+   "narrator_zh": "ShopWindow/Panel/Candy/BackButton/Text"
+  },
+  {
+   "location": "124/UI",
+   "narrator": "ShopWindow/Panel/Candy/OKButton/SubText",
+   "text": "G  E  T    K  O  K  O  R  O     C  A  N  D  Y"
+  },
+  {
+   "location": "125/UI",
+   "narrator": "ShopWindow/Panel/Candy/OKButton/Text",
+   "text": "ココロキャンディを購入する",
+   "zh": "购买心之糖果",
+   "narrator_zh": "ShopWindow/Panel/Candy/OKButton/Text"
+  },
+  {
+   "location": "126/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton/ButtonImage/HaveNumText",
+   "text": "所持数　　  個"
+  },
+  {
+   "location": "127/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton/ButtonImage/ItemNameText",
+   "text": "喜のココロキャンディ５個",
+   "zh": "喜之心之糖果５个",
+   "narrator_zh": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton/ButtonImage/ItemNameText"
+  },
+  {
+   "location": "128/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton/ButtonImage/NeedJewelText",
+   "text": "×"
+  },
+  {
+   "location": "129/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton/ButtonImage/SetCounter_/MinusButton/Text",
+   "text": "－"
+  },
+  {
+   "location": "130/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton/ButtonImage/SetCounter_/PlusBUtton/Text",
+   "text": "＋"
+  },
+  {
+   "location": "131/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton_/HasJewelText",
+   "text": "所持数　　  個"
+  },
+  {
+   "location": "132/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton_/ItemNameText",
+   "text": "喜のココロキャンディ５個",
+   "zh": "喜之心之糖果５个",
+   "narrator_zh": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton_/ItemNameText"
+  },
+  {
+   "location": "133/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton_/NeedJewelText",
+   "text": "×"
+  },
+  {
+   "location": "134/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton_/SetCounter_/MinusButton/Text",
+   "text": "－"
+  },
+  {
+   "location": "135/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton_/SetCounter_/PlusBUtton/Text",
+   "text": "＋"
+  },
+  {
+   "location": "136/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton__/HasJewelText",
+   "text": "所持数　　  個"
+  },
+  {
+   "location": "137/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton__/ItemNameText",
+   "text": "喜のココロキャンディ５個",
+   "zh": "喜之心之糖果５个",
+   "narrator_zh": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton__/ItemNameText"
+  },
+  {
+   "location": "138/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton__/NeedJewelText",
+   "text": "×"
+  },
+  {
+   "location": "139/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton__/SetCounter_/MinusButton/Text",
+   "text": "－"
+  },
+  {
+   "location": "140/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/BuyButton__/SetCounter_/PlusBUtton/Text",
+   "text": "＋"
+  },
+  {
+   "location": "141/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/MinusButton/Text",
+   "text": "－"
+  },
+  {
+   "location": "142/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/PlusButton/Text",
+   "text": "＋"
+  },
+  {
+   "location": "143/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/SetCountText/Set",
+   "text": "個"
+  },
+  {
+   "location": "144/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/Candy/SetCountText_/Set",
+   "text": "SET"
+  },
+  {
+   "location": "145/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_01/MinosBase/Text",
+   "text": "－"
+  },
+  {
+   "location": "146/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_01/PlusBase/Text",
+   "text": "＋"
+  },
+  {
+   "location": "147/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_01/Text_SetCount/Set",
+   "text": "SET"
+  },
+  {
+   "location": "148/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_01/TitleBase/Icon_Top/Text",
+   "text": "×５"
+  },
+  {
+   "location": "149/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_01/TitleBase/Text1",
+   "text": "喜のココロキャンディ５個",
+   "zh": "喜之心之糖果５个",
+   "narrator_zh": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_01/TitleBase/Text1"
+  },
+  {
+   "location": "150/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_01/TitleBase/Text2",
+   "text": "所持数　　  個"
+  },
+  {
+   "location": "151/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_01/TitleBase/Text3",
+   "text": "×"
+  },
+  {
+   "location": "152/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_02/MinosBase/Text",
+   "text": "－"
+  },
+  {
+   "location": "153/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_02/PlusBase/Text",
+   "text": "＋"
+  },
+  {
+   "location": "154/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_02/Text_SetCount/Set",
+   "text": "SET"
+  },
+  {
+   "location": "155/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_02/TitleBase/Icon_Top/Text",
+   "text": "×５"
+  },
+  {
+   "location": "156/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_02/TitleBase/Text1",
+   "text": "怒のココロキャンディ５個",
+   "zh": "怒之心之糖果５个",
+   "narrator_zh": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_02/TitleBase/Text1"
+  },
+  {
+   "location": "157/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_02/TitleBase/Text2",
+   "text": "所持数　　  個"
+  },
+  {
+   "location": "158/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_02/TitleBase/Text3",
+   "text": "×"
+  },
+  {
+   "location": "159/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_03/MinosBase/Text",
+   "text": "－"
+  },
+  {
+   "location": "160/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_03/PlusBase/Text",
+   "text": "＋"
+  },
+  {
+   "location": "161/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_03/Text_SetCount/Set",
+   "text": "SET"
+  },
+  {
+   "location": "162/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_03/TitleBase/Icon_Top/Text",
+   "text": "×５"
+  },
+  {
+   "location": "163/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_03/TitleBase/Text1",
+   "text": "哀のココロキャンディ５個",
+   "zh": "哀之心之糖果５个",
+   "narrator_zh": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_03/TitleBase/Text1"
+  },
+  {
+   "location": "164/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_03/TitleBase/Text2",
+   "text": "所持数　　  個"
+  },
+  {
+   "location": "165/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_03/TitleBase/Text3",
+   "text": "×"
+  },
+  {
+   "location": "166/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_04/MinosBase/Text",
+   "text": "－"
+  },
+  {
+   "location": "167/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_04/PlusBase/Text",
+   "text": "＋"
+  },
+  {
+   "location": "168/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_04/Text_SetCount/Set",
+   "text": "SET"
+  },
+  {
+   "location": "169/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_04/TitleBase/Icon_Top/Text",
+   "text": "×５"
+  },
+  {
+   "location": "170/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_04/TitleBase/Text1",
+   "text": "楽のココロキャンディ５個",
+   "zh": "乐之心之糖果５个",
+   "narrator_zh": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_04/TitleBase/Text1"
+  },
+  {
+   "location": "171/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_04/TitleBase/Text2",
+   "text": "所持数　　  個"
+  },
+  {
+   "location": "172/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_04/TitleBase/Text3",
+   "text": "×"
+  },
+  {
+   "location": "173/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_05/MinosBase/Text",
+   "text": "－"
+  },
+  {
+   "location": "174/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_05/PlusBase/Text",
+   "text": "＋"
+  },
+  {
+   "location": "175/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_05/Text_SetCount/Set",
+   "text": "SET"
+  },
+  {
+   "location": "176/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_05/TitleBase/Text1",
+   "text": "歓喜のココロキャンディ",
+   "zh": "欢喜的心之糖果",
+   "narrator_zh": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_05/TitleBase/Text1"
+  },
+  {
+   "location": "177/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_05/TitleBase/Text2",
+   "text": "所持数　　  個"
+  },
+  {
+   "location": "178/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_05/TitleBase/Text3",
+   "text": "×"
+  },
+  {
+   "location": "179/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_06/MinosBase/Text",
+   "text": "－"
+  },
+  {
+   "location": "180/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_06/PlusBase/Text",
+   "text": "＋"
+  },
+  {
+   "location": "181/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_06/Text_SetCount/Set",
+   "text": "SET"
+  },
+  {
+   "location": "182/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_06/TitleBase/Text1",
+   "text": "憤怒のココロキャンディ",
+   "zh": "愤怒的心之糖果",
+   "narrator_zh": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_06/TitleBase/Text1"
+  },
+  {
+   "location": "183/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_06/TitleBase/Text2",
+   "text": "所持数　　  個"
+  },
+  {
+   "location": "184/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_06/TitleBase/Text3",
+   "text": "×"
+  },
+  {
+   "location": "185/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_07/MinosBase/Text",
+   "text": "－"
+  },
+  {
+   "location": "186/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_07/PlusBase/Text",
+   "text": "＋"
+  },
+  {
+   "location": "187/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_07/Text_SetCount/Set",
+   "text": "SET"
+  },
+  {
+   "location": "188/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_07/TitleBase/Text1",
+   "text": "悲哀のココロキャンディ",
+   "zh": "悲哀的心之糖果",
+   "narrator_zh": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_07/TitleBase/Text1"
+  },
+  {
+   "location": "189/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_07/TitleBase/Text2",
+   "text": "所持数　　  個"
+  },
+  {
+   "location": "190/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_07/TitleBase/Text3",
+   "text": "×"
+  },
+  {
+   "location": "191/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_08/MinosBase/Text",
+   "text": "－"
+  },
+  {
+   "location": "192/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_08/PlusBase/Text",
+   "text": "＋"
+  },
+  {
+   "location": "193/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_08/Text_SetCount/Set",
+   "text": "SET"
+  },
+  {
+   "location": "194/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_08/TitleBase/Text1",
+   "text": "快楽のココロキャンディ",
+   "zh": "快乐的心之糖果",
+   "narrator_zh": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_08/TitleBase/Text1"
+  },
+  {
+   "location": "195/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_08/TitleBase/Text2",
+   "text": "所持数　　  個"
+  },
+  {
+   "location": "196/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Scroll View/Viewport/ItemSet_08/TitleBase/Text3",
+   "text": "×"
+  },
+  {
+   "location": "197/UI",
+   "narrator": "ShopWindow/Panel/Candy/ShopList/Text",
+   "text": "A V A I L A B L E   I T E M   L I S T"
+  },
+  {
+   "location": "198/UI",
+   "narrator": "ShopWindow/Panel/Candy/Tutorial/TutorialCandy11A/Panel/Message",
+   "text": "ココロキャンディの購入は、\n必要な種類の数量を指定して\n下の「購入する」ボタンを押します。",
+   "zh": "购买心之糖果时，\n指定所需种类的数量，\n再按下面的“购买”按钮。",
+   "narrator_zh": "ShopWindow/Panel/Candy/Tutorial/TutorialCandy11A/Panel/Message"
+  },
+  {
+   "location": "199/UI",
+   "narrator": "ShopWindow/Panel/Candy/Tutorial/TutorialCandy11A/Panel/PicArea/LeftButton/TextCancel",
+   "text": "キャンセル",
+   "zh": "取消",
+   "narrator_zh": "ShopWindow/Panel/Candy/Tutorial/TutorialCandy11A/Panel/PicArea/LeftButton/TextCancel"
+  },
+  {
+   "location": "200/UI",
+   "narrator": "ShopWindow/Panel/Candy/Tutorial/TutorialCandy11A/Panel/PicArea/RightButton/TextOK",
+   "text": "OK"
+  },
+  {
+   "location": "201/UI",
+   "narrator": "ShopWindow/Panel/Candy/Tutorial/TutorialCandy11A/Panel/Title/Message",
+   "text": "②「購入する」ボタンを押します。",
+   "zh": "②按“购买”按钮。",
+   "narrator_zh": "ShopWindow/Panel/Candy/Tutorial/TutorialCandy11A/Panel/Title/Message"
+  },
+  {
+   "location": "202/UI",
+   "narrator": "ShopWindow/Panel/Candy/Tutorial/TutorialCandy11A/Panel/Title/Message (1)",
+   "text": "①まずは数量を指定します。",
+   "zh": "①先指定数量。",
+   "narrator_zh": "ShopWindow/Panel/Candy/Tutorial/TutorialCandy11A/Panel/Title/Message (1)"
+  },
+  {
+   "location": "203/UI",
+   "narrator": "ShopWindow/Panel/Candy/Tutorial/TutorialCandy11A/Panel/Title/Message (2)",
+   "text": "③購入しない場合は「閉じる」",
+   "zh": "③不购买请点“关闭”",
+   "narrator_zh": "ShopWindow/Panel/Candy/Tutorial/TutorialCandy11A/Panel/Title/Message (2)"
+  },
+  {
+   "location": "204/UI",
+   "narrator": "ShopWindow/Panel/Candy/Tutorial/TutorialCandy11A/Panel/Title/yajirusi/Text",
+   "text": "▲"
+  },
+  {
+   "location": "205/UI",
+   "narrator": "ShopWindow/Panel/Candy/Tutorial/TutorialCandy11A/Panel/Title/yajirusi2 (1)/Text",
+   "text": "▲"
+  },
+  {
+   "location": "206/UI",
+   "narrator": "ShopWindow/Panel/Candy/Tutorial/TutorialCandy11A/Panel/Title/yajirusi2/Text",
+   "text": "▲"
+  },
+  {
+   "location": "207/UI",
+   "narrator": "ShopWindow/Panel/Candy/Tutorial/TutorialCandy11A/Panel/Title/yajirusi3 (1)/Text",
+   "text": "▲"
+  },
+  {
+   "location": "208/UI",
+   "narrator": "ShopWindow/Panel/Candy/Tutorial/TutorialCandy11A/Panel/Title/yajirusi3/Text",
+   "text": "▲"
+  },
+  {
+   "location": "209/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/BackButton/Text",
+   "text": "閉じる",
+   "zh": "关闭",
+   "narrator_zh": "ShopWindow/Panel/ClanJewel/BackButton/Text"
+  },
+  {
+   "location": "210/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/HvJewel/Text_Count",
+   "text": "所持クランジュエル数　個",
+   "zh": "持有库兰珠宝数　个",
+   "narrator_zh": "ShopWindow/Panel/ClanJewel/HvJewel/Text_Count"
+  },
+  {
+   "location": "211/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/OKButton/SubText",
+   "text": "E X C H A N G I N G   C U R A N   J E W E L S ."
+  },
+  {
+   "location": "212/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/OKButton/Text",
+   "text": "交換する",
+   "zh": "兑换",
+   "narrator_zh": "ShopWindow/Panel/ClanJewel/OKButton/Text"
+  },
+  {
+   "location": "213/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/Item/BuyButton/ButtonImage/HaveText",
+   "text": "所持数　　    個"
+  },
+  {
+   "location": "214/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/Item/BuyButton/ButtonImage/x",
+   "text": "×"
+  },
+  {
+   "location": "215/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/Item/MinusButton/Text",
+   "text": "－"
+  },
+  {
+   "location": "216/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/Item/PlusButton/Text",
+   "text": "＋"
+  },
+  {
+   "location": "217/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/Item/SetCountText/Set",
+   "text": "個"
+  },
+  {
+   "location": "218/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/ItemSet_01/MinosBase/Text",
+   "text": "－"
+  },
+  {
+   "location": "219/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/ItemSet_01/PlusBase/Text",
+   "text": "＋"
+  },
+  {
+   "location": "220/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/ItemSet_01/Text_SetCount/Set",
+   "text": "SET"
+  },
+  {
+   "location": "221/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/ItemSet_01/TitleBase/Text1",
+   "text": "レアクランガチャチケット",
+   "zh": "稀有库兰抽卡券",
+   "narrator_zh": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/ItemSet_01/TitleBase/Text1"
+  },
+  {
+   "location": "222/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/ItemSet_01/TitleBase/Text2",
+   "text": "所持数　　  個"
+  },
+  {
+   "location": "223/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/ItemSet_01/TitleBase/Text3",
+   "text": "×"
+  },
+  {
+   "location": "224/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/ItemSet_02/MinosBase/Text",
+   "text": "－"
+  },
+  {
+   "location": "225/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/ItemSet_02/PlusBase/Text",
+   "text": "＋"
+  },
+  {
+   "location": "226/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/ItemSet_02/Text_SetCount/Set",
+   "text": "SET"
+  },
+  {
+   "location": "227/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/ItemSet_02/TitleBase/Text1",
+   "text": "強化合成用クラン",
+   "zh": "强化合成用库兰",
+   "narrator_zh": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/ItemSet_02/TitleBase/Text1"
+  },
+  {
+   "location": "228/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/ItemSet_02/TitleBase/Text2",
+   "text": "所持数　　  個"
+  },
+  {
+   "location": "229/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Scroll View/Viewport/ItemSet_02/TitleBase/Text3",
+   "text": "×"
+  },
+  {
+   "location": "230/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/ShopList/Text",
+   "text": "A V A I L A B L E   I T E M   L I S T"
+  },
+  {
+   "location": "231/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/Tutorial/TutorialCuranJewel11A/Panel/Message",
+   "text": "ここでは<color=yellow>【クランジュエル】</color>を\n<color=yellow>【強化アイテム】</color>や<color=yellow>【クラン】</color>に\n交換することができます。",
+   "zh": "在这里可以把<color=yellow>【库兰珠宝】</color>\n兑换成\n<color=yellow>【强化道具】</color>或<color=yellow>【库兰】</color>。",
+   "narrator_zh": "ShopWindow/Panel/ClanJewel/Tutorial/TutorialCuranJewel11A/Panel/Message"
+  },
+  {
+   "location": "232/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/Tutorial/TutorialCuranJewel11A/Panel/PicArea/LeftButton/TextCancel",
+   "text": "キャンセル",
+   "zh": "取消",
+   "narrator_zh": "ShopWindow/Panel/ClanJewel/Tutorial/TutorialCuranJewel11A/Panel/PicArea/LeftButton/TextCancel"
+  },
+  {
+   "location": "233/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/Tutorial/TutorialCuranJewel11A/Panel/PicArea/RightButton/TextOK",
+   "text": "OK"
+  },
+  {
+   "location": "234/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/Tutorial/TutorialCuranJewel11A/Panel/Title/Message",
+   "text": "②「交換する」ボタンを押します。",
+   "zh": "②按“兑换”按钮。",
+   "narrator_zh": "ShopWindow/Panel/ClanJewel/Tutorial/TutorialCuranJewel11A/Panel/Title/Message"
+  },
+  {
+   "location": "235/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/Tutorial/TutorialCuranJewel11A/Panel/Title/Message (1)",
+   "text": "①まずは数量を指定します。",
+   "zh": "①先指定数量。",
+   "narrator_zh": "ShopWindow/Panel/ClanJewel/Tutorial/TutorialCuranJewel11A/Panel/Title/Message (1)"
+  },
+  {
+   "location": "236/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/Tutorial/TutorialCuranJewel11A/Panel/Title/Message (2)",
+   "text": "③交換しない場合は「閉じる」",
+   "zh": "③不兑换请点“关闭”",
+   "narrator_zh": "ShopWindow/Panel/ClanJewel/Tutorial/TutorialCuranJewel11A/Panel/Title/Message (2)"
+  },
+  {
+   "location": "237/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/Tutorial/TutorialCuranJewel11A/Panel/Title/yajirusi/Text",
+   "text": "▲"
+  },
+  {
+   "location": "238/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/Tutorial/TutorialCuranJewel11A/Panel/Title/yajirusi2 (1)/Text",
+   "text": "▲"
+  },
+  {
+   "location": "239/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/Tutorial/TutorialCuranJewel11A/Panel/Title/yajirusi2/Text",
+   "text": "▲"
+  },
+  {
+   "location": "240/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/Tutorial/TutorialCuranJewel11A/Panel/Title/yajirusi3 (1)/Text",
+   "text": "▲"
+  },
+  {
+   "location": "241/UI",
+   "narrator": "ShopWindow/Panel/ClanJewel/Tutorial/TutorialCuranJewel11A/Panel/Title/yajirusi3/Text",
+   "text": "▲"
+  },
+  {
+   "location": "242/UI",
+   "narrator": "ShopWindow/Panel/Costume/BackButton/Text",
+   "text": "戻る",
+   "zh": "返回",
+   "narrator_zh": "ShopWindow/Panel/Costume/BackButton/Text"
+  },
+  {
+   "location": "243/UI",
+   "narrator": "ShopWindow/Panel/Costume/ChapterButton/Chapter0/Text",
+   "text": "C H A P T E R"
+  },
+  {
+   "location": "244/UI",
+   "narrator": "ShopWindow/Panel/Costume/ChapterButton/Chapter1/Text",
+   "text": "C H A P T E R"
+  },
+  {
+   "location": "245/UI",
+   "narrator": "ShopWindow/Panel/Costume/ChapterButton/Chapter2/Text",
+   "text": "C H A P T E R"
+  },
+  {
+   "location": "246/UI",
+   "narrator": "ShopWindow/Panel/Costume/ChapterButton/Chapter3/Text",
+   "text": "C H A P T E R"
+  },
+  {
+   "location": "247/UI",
+   "narrator": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/GokigenPointItem/SoldOut/base/Text1",
+   "text": "交 換 済 み",
+   "zh": "已 兑 换",
+   "narrator_zh": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/GokigenPointItem/SoldOut/base/Text1"
+  },
+  {
+   "location": "248/UI",
+   "narrator": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/GokigenPointItem/SoldOut/base/Text2",
+   "text": "S  O  L  D     O  U  T"
+  },
+  {
+   "location": "249/UI",
+   "narrator": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_01/SoldOut/base/Text1",
+   "text": "交 換 済 み",
+   "zh": "已 兑 换",
+   "narrator_zh": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_01/SoldOut/base/Text1"
+  },
+  {
+   "location": "250/UI",
+   "narrator": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_01/SoldOut/base/Text2",
+   "text": "S  O  L  D     O  U  T"
+  },
+  {
+   "location": "251/UI",
+   "narrator": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_01/TitleBase/Text_Caption",
+   "text": "ヒメゴトに新しいアングルが追加されます。",
+   "zh": "秘语将追加新的视角。",
+   "narrator_zh": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_01/TitleBase/Text_Caption"
+  },
+  {
+   "location": "252/UI",
+   "narrator": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_01/TitleBase/Text_Title",
+   "text": "ヒメゴトカメラ【Type2】",
+   "zh": "秘语相机【Type2】",
+   "narrator_zh": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_01/TitleBase/Text_Title"
+  },
+  {
+   "location": "253/UI",
+   "narrator": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_02/SoldOut/base/Text1",
+   "text": "交 換 済 み",
+   "zh": "已 兑 换",
+   "narrator_zh": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_02/SoldOut/base/Text1"
+  },
+  {
+   "location": "254/UI",
+   "narrator": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_02/SoldOut/base/Text2",
+   "text": "S  O  L  D     O  U  T"
+  },
+  {
+   "location": "255/UI",
+   "narrator": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_02/TitleBase/Text_Caption",
+   "text": "水着を着てくれやすくなります。",
+   "zh": "她会更容易答应穿泳装。",
+   "narrator_zh": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_02/TitleBase/Text_Caption"
+  },
+  {
+   "location": "256/UI",
+   "narrator": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_02/TitleBase/Text_Title",
+   "text": "コスチューム許可【水着系】",
+   "zh": "服装许可【泳装类】",
+   "narrator_zh": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_02/TitleBase/Text_Title"
+  },
+  {
+   "location": "257/UI",
+   "narrator": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_03/SoldOut/base/Text1",
+   "text": "交 換 済 み",
+   "zh": "已 兑 换",
+   "narrator_zh": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_03/SoldOut/base/Text1"
+  },
+  {
+   "location": "258/UI",
+   "narrator": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_03/SoldOut/base/Text2",
+   "text": "S  O  L  D     O  U  T"
+  },
+  {
+   "location": "259/UI",
+   "narrator": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_03/TitleBase/Text_Caption",
+   "text": "Chap02のアニメをつばめ達と見られます。",
+   "zh": "可以和燕她们一起看第2章的动画。",
+   "narrator_zh": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_03/TitleBase/Text_Caption"
+  },
+  {
+   "location": "260/UI",
+   "narrator": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_03/TitleBase/Text_Title",
+   "text": "一緒にアニメを見る【02】",
+   "zh": "一起看动画【02】",
+   "narrator_zh": "ShopWindow/Panel/Costume/ShopList/Scroll View/Viewport/ItemSet_03/TitleBase/Text_Title"
+  },
+  {
+   "location": "261/UI",
+   "narrator": "ShopWindow/Panel/Costume/ShopList/Text",
+   "text": "Chapter1～10で追加された交換アイテム",
+   "zh": "Chapter1～10追加的兑换道具",
+   "narrator_zh": "ShopWindow/Panel/Costume/ShopList/Text"
+  },
+  {
+   "location": "262/UI",
+   "narrator": "ShopWindow/Panel/Costume/Tutorial/TutorialGacha4A/Panel/Message",
+   "text": "<color=red>【ゴキゲンポイント交換所】</color>では、\nヒメゴトのカメラを増やしたり、\n新しい会話を増やしたりできる。",
+   "zh": "<color=red>【心情点数兑换所】</color>里，\n可以增加秘语相机，\n也可以增加新的对话。",
+   "narrator_zh": "ShopWindow/Panel/Costume/Tutorial/TutorialGacha4A/Panel/Message"
+  },
+  {
+   "location": "263/UI",
+   "narrator": "ShopWindow/Panel/Costume/Tutorial/TutorialGacha4A/Panel/PicArea/LeftButton/TextCancel",
+   "text": "キャンセル",
+   "zh": "取消",
+   "narrator_zh": "ShopWindow/Panel/Costume/Tutorial/TutorialGacha4A/Panel/PicArea/LeftButton/TextCancel"
+  },
+  {
+   "location": "264/UI",
+   "narrator": "ShopWindow/Panel/Costume/Tutorial/TutorialGacha4A/Panel/PicArea/RightButton/TextOK",
+   "text": "OK"
+  },
+  {
+   "location": "265/UI",
+   "narrator": "ShopWindow/Panel/Costume/Tutorial/TutorialGacha4B/Panel/Message",
+   "text": "トライナリーたちと仲良くなる\nた\nめの機能が満載だから、\n頑張って\nポイント集めてみて。",
+   "zh": "和她们拉近关系\n的\n功能满满都是，\n加油\n收集点数吧。",
+   "narrator_zh": "ShopWindow/Panel/Costume/Tutorial/TutorialGacha4B/Panel/Message"
+  },
+  {
+   "location": "266/UI",
+   "narrator": "ShopWindow/Panel/Costume/Tutorial/TutorialGacha4B/Panel/PicArea/LeftButton/TextCancel",
+   "text": "キャンセル",
+   "zh": "取消",
+   "narrator_zh": "ShopWindow/Panel/Costume/Tutorial/TutorialGacha4B/Panel/PicArea/LeftButton/TextCancel"
+  },
+  {
+   "location": "267/UI",
+   "narrator": "ShopWindow/Panel/Costume/Tutorial/TutorialGacha4B/Panel/PicArea/RightButton/TextOK",
+   "text": "OK"
+  },
+  {
+   "location": "268/UI",
+   "narrator": "ShopWindow/Panel/GachaList/Buy/BuyJewel/MainText",
+   "text": "ジュエルを購入する",
+   "zh": "购买珠宝",
+   "narrator_zh": "ShopWindow/Panel/GachaList/Buy/BuyJewel/MainText"
+  },
+  {
+   "location": "269/UI",
+   "narrator": "ShopWindow/Panel/GachaList/Buy/BuyJewel/SubText",
+   "text": "G  E  T    J  E  W  E  L"
+  },
+  {
+   "location": "270/UI",
+   "narrator": "ShopWindow/Panel/GachaList/Buy/Shikinkessai/Text",
+   "text": "資金決済法第13条に基づく表示",
+   "zh": "依据资金结算法第13条的标示",
+   "narrator_zh": "ShopWindow/Panel/GachaList/Buy/Shikinkessai/Text"
+  },
+  {
+   "location": "271/UI",
+   "narrator": "ShopWindow/Panel/GachaList/Buy/Shyoutorihiki/Text",
+   "text": "特定商取引法に基づく表示",
+   "zh": "基于《特定商业交易法》的标注",
+   "narrator_zh": "ShopWindow/Panel/GachaList/Buy/Shyoutorihiki/Text"
+  },
+  {
+   "location": "272/UI",
+   "narrator": "ShopWindow/Panel/GachaList/Shop/Panel/BackButton/Text",
+   "text": "戻る",
+   "zh": "返回",
+   "narrator_zh": "ShopWindow/Panel/GachaList/Shop/Panel/BackButton/Text"
+  },
+  {
+   "location": "273/UI",
+   "narrator": "ShopWindow/Panel/GachaList/Shop/Panel/TitleMain",
+   "text": "ショップ",
+   "zh": "商店",
+   "narrator_zh": "ShopWindow/Panel/GachaList/Shop/Panel/TitleMain"
+  },
+  {
+   "location": "274/UI",
+   "narrator": "ShopWindow/Panel/GachaList/Shop/Panel/TitleSub/Text",
+   "text": "S H O P"
+  },
+  {
+   "location": "275/UI",
+   "narrator": "ShopWindow/Panel/PlugIn_Buy/BuyJewel/MainText",
+   "text": "ジュエルを購入する",
+   "zh": "购买珠宝",
+   "narrator_zh": "ShopWindow/Panel/PlugIn_Buy/BuyJewel/MainText"
+  },
+  {
+   "location": "276/UI",
+   "narrator": "ShopWindow/Panel/PlugIn_Buy/BuyJewel/SubText",
+   "text": "G  E  T    J  E  W  E  L"
+  },
+  {
+   "location": "277/UI",
+   "narrator": "ShopWindow/Panel/PlugIn_Buy/Shikinkessai/Text",
+   "text": "資金決済法第13条に基づく表示",
+   "zh": "依据资金结算法第13条的标示",
+   "narrator_zh": "ShopWindow/Panel/PlugIn_Buy/Shikinkessai/Text"
+  },
+  {
+   "location": "278/UI",
+   "narrator": "ShopWindow/Panel/PlugIn_Buy/Shyoutorihiki/Text",
+   "text": "特定商取引法に基づく表示",
+   "zh": "基于《特定商业交易法》的标注",
+   "narrator_zh": "ShopWindow/Panel/PlugIn_Buy/Shyoutorihiki/Text"
+  },
+  {
+   "location": "279/UI",
+   "narrator": "ShopWindow/Panel/Processing/Text",
+   "text": "処理中"
+  },
+  {
+   "location": "280/UI",
+   "narrator": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/Candy/Text1",
+   "text": "ココロキャンディ購入",
+   "zh": "购买心之糖果",
+   "narrator_zh": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/Candy/Text1"
+  },
+  {
+   "location": "281/UI",
+   "narrator": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/Candy/Text2",
+   "text": "G E T   K O K O R O   C A N D Y "
+  },
+  {
+   "location": "282/UI",
+   "narrator": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/Clan/Text1",
+   "text": "サーバントクラン所持枠の拡張",
+   "zh": "扩展从属库兰持有栏位",
+   "narrator_zh": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/Clan/Text1"
+  },
+  {
+   "location": "283/UI",
+   "narrator": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/Clan/Text2",
+   "text": "I N C R E A S E S   S E R V A N T   C U R A N   C A P A C I T Y"
+  },
+  {
+   "location": "284/UI",
+   "narrator": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/ClanJewel/Text1",
+   "text": "クランジュエル交換所",
+   "zh": "库兰珠宝兑换所",
+   "narrator_zh": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/ClanJewel/Text1"
+  },
+  {
+   "location": "285/UI",
+   "narrator": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/ClanJewel/Text2",
+   "text": "C U R A N   J E W E L   S H O P"
+  },
+  {
+   "location": "286/UI",
+   "narrator": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/Costume/Text1",
+   "text": "コスチューム交換所",
+   "zh": "服装兑换所",
+   "narrator_zh": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/Costume/Text1"
+  },
+  {
+   "location": "287/UI",
+   "narrator": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/Costume/Text2",
+   "text": "C O S T U M E   S H O P"
+  },
+  {
+   "location": "288/UI",
+   "narrator": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/GokigenPoint/Text1",
+   "text": "ゴキゲンポイント交換所",
+   "zh": "心情点数兑换所",
+   "narrator_zh": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/GokigenPoint/Text1"
+  },
+  {
+   "location": "289/UI",
+   "narrator": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/GokigenPoint/Text2",
+   "text": "G O K I G E N   P O I N T   S H O P"
+  },
+  {
+   "location": "290/UI",
+   "narrator": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/LimitedPoint/Text1",
+   "text": "ジュエルショップ",
+   "zh": "珠宝商店",
+   "narrator_zh": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/LimitedPoint/Text1"
+  },
+  {
+   "location": "291/UI",
+   "narrator": "ShopWindow/Panel/ShopMenu/ShopList/Scroll View/Viewport/LimitedPoint/Text2",
+   "text": "J E W E L    S H O P"
+  },
+  {
+   "location": "292/UI",
+   "narrator": "ShopWindow/Panel/ShopMenu/ShopList/Text",
+   "text": "A V A I L A B L E   S H O P   L I S T"
+  }
+ ]
+}

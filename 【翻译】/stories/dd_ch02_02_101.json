@@ -1,0 +1,1316 @@
+{
+    "dir": "chap02/daydra/dd_ch02_02_101.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "2202",
+        "cid": "ayami",
+        "title": "002 メインストーリー",
+        "sub_title": "國政綾水という存在＜前編＞",
+        "title_zh": "002 主线剧情",
+        "sub_title_zh": "名为国政绫水的存在＜前篇＞"
+    },
+    "entry": [
+        {
+            "location": "7/SCENARIO",
+            "narrator": "",
+            "text": "アーヤ導入",
+            "zh": "绫水导入",
+            "narrator_zh": ""
+        },
+        {
+            "location": "25/TALK",
+            "narrator": "小夜",
+            "text": "アーヤ、発達心理学の\nレポートって進んでる？",
+            "zh": "绫水，发展心理学的\n报告有进展吗？",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "28/TALK",
+            "narrator": "アーヤ",
+            "text": "うーん…５０％って\nところかしら？\n小夜はどうなの？",
+            "zh": "嗯……百分之五十\n左右吧？\n小夜呢？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "29/TALK",
+            "narrator": "小夜",
+            "text": "全然…児童福祉論のは\nもう終わったんだけどね。",
+            "zh": "完全没有……儿童福利论\n倒是已经做完了。",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "30/TALK",
+            "narrator": "アーヤ",
+            "text": "間に合うの！？\n提出は両方とも来週よ？",
+            "zh": "来得及吗！？\n两份都是下周交哦？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "小夜",
+            "text": "ギリギリどうにか、って\n感じかしら？",
+            "zh": "勉强能赶上，\n差不多是这种感觉？",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "アーヤ",
+            "text": "それならいいんだけど…。\n留年とかしないでよ？",
+            "zh": "那样倒还好……。\n可别留级哦？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "小夜",
+            "text": "わかってるって。\nみんなで一緒に卒業する、\nって約束だもんね。",
+            "zh": "我知道的。\n大家一起毕业，\n说好了的。",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "34/TALK",
+            "narrator": "小夜",
+            "text": "…あ、話は変わるけど、\nサークルの次の劇で\n使ううさぎの人形――",
+            "zh": "……啊，换个话题，\n社团下一出剧要用的\n兔子玩偶——",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "35/TALK",
+            "narrator": "小夜",
+            "text": "もう完成したの？",
+            "zh": "已经做好了吗？",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "36/TALK",
+            "narrator": "アーヤ",
+            "text": "ごめん！\n急いではいるんだけど、\nギリギリになるかも。",
+            "zh": "抱歉！\n我是在赶，\n可能要卡到最后。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "38/TALK",
+            "narrator": "小夜",
+            "text": "そっかぁ…。やっぱり、\n<color=red>任務</color>の方が忙しいの？",
+            "zh": "这样啊……。果然，\n<color=red>任务</color>那边更忙吗？",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "40/TALK",
+            "narrator": "アーヤ",
+            "text": "うん…昼夜問わずだから、\n中々時間が取れなくて…。",
+            "zh": "嗯……白天晚上都有，\n怎么都抽不出时间……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "41/TALK",
+            "narrator": "小夜",
+            "text": "大変そうだね…。",
+            "zh": "看起来很辛苦……。",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "43/TALK",
+            "narrator": "アーヤ",
+            "text": "でも、絶対に本番前には\n完璧に仕上げるから！",
+            "zh": "不过，正式演出前\n我一定会做到完美！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "44/TALK",
+            "narrator": "小夜",
+            "text": "あはは、わかってるって。\nアーヤ、そういうとこ\nしっかりしてるもんね。",
+            "zh": "啊哈哈，我知道的。\n绫水，这种地方\n一向靠得住。",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "45/TALK",
+            "narrator": "小夜",
+            "text": "…でもさ、前々から\n気になってたんだけど。",
+            "zh": "……不过，我之前\n就一直在意一件事。",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "46/TALK",
+            "narrator": "小夜",
+            "text": "どうしてアーヤは、\n幼児児童教育学科を\n選んだの？",
+            "zh": "为什么绫水\n会选幼儿儿童\n教育学科？",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "48/TALK",
+            "narrator": "アーヤ",
+            "text": "え？",
+            "zh": "诶？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "49/TALK",
+            "narrator": "小夜",
+            "text": "だって、アーヤは\nうちの大学に特待生と\nして入学したじゃない？",
+            "zh": "因为，绫水\n是作为特招生\n进我们大学的吧？",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "50/TALK",
+            "narrator": "小夜",
+            "text": "花形の国際政経学部とか\n社会管理学部でも、\n自由に選べたでしょ？",
+            "zh": "当红的国际政经学部，\n或者社会管理学部，\n也能随便选吧？",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "51/TALK",
+            "narrator": "小夜",
+            "text": "なのに、どうして\n弱小の教育学部なんか\n選んだのかな、って…。",
+            "zh": "可为什么\n选了弱小的教育学部\n呢……。",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "53/TALK",
+            "narrator": "アーヤ",
+            "text": "えっと、それは…。",
+            "zh": "那个，是因为……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "アーヤ",
+            "text": "本当は、幼稚園教諭に\nなりたくて、教育学部を\n選んだんだけど――",
+            "zh": "其实是想当\n幼儿园老师，才选了\n教育学部——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "57/TALK",
+            "narrator": "アーヤ",
+            "text": "似合わないって思われ\nそうだし、言うのは少し\n恥ずかしいかも…。",
+            "zh": "怕被人觉得不像，\n说出来有点\n不好意思……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "61/TALK",
+            "narrator": "アーヤ",
+            "text": "まあ、色々あったのよ。",
+            "zh": "嘛，发生过不少事。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "62/TALK",
+            "narrator": "アーヤ",
+            "text": "それより、来週行く\n幼稚園って、初めての\nところよね？",
+            "zh": "比起那个，下周要去的\n幼儿园，是第一次去的\n地方吧？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "63/TALK",
+            "narrator": "小夜",
+            "text": "そうそう。\n西荻窪の幼稚園よ。",
+            "zh": "对对。\n是西荻洼的幼儿园。",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "小夜",
+            "text": "まさか、サークルに\n直接依頼が来るとは\n思わなかったよね？",
+            "zh": "没想到，会有人\n直接给社团\n发来委托吧？",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "アーヤ",
+            "text": "ええ…あさがおの\n人形劇をうちでも\n演じてほしい、って――",
+            "zh": "嗯……想请我们也\n演牵牛花的\n人偶剧——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "66/TALK",
+            "narrator": "アーヤ",
+            "text": "あのメール見た時は、\n本当嬉しくて――",
+            "zh": "看到那封邮件的时候，\n真的很高兴——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "74/TALK",
+            "narrator": "アーヤ",
+            "text": "っ！？",
+            "zh": "唔！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "75/TALK",
+            "narrator": "アーヤ",
+            "text": "アラート！？",
+            "zh": "警报！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "小夜",
+            "text": "…出動？",
+            "zh": "……出动？",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "85/TALK",
+            "narrator": "アーヤ",
+            "text": "ええ…。",
+            "zh": "嗯……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "86/TALK",
+            "narrator": "アーヤ",
+            "text": "場所は…後楽園？\nなら、このまま水道橋まで\n行って――",
+            "zh": "地点是……后乐园？\n那，就这样到水道桥\n去——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "91/TALK",
+            "narrator": "乗客",
+            "text": "きゃあっ！？",
+            "zh": "呀啊！？",
+            "narrator_zh": "乘客"
+        },
+        {
+            "location": "93/TALK",
+            "narrator": "小夜",
+            "text": "ちょ！？\n何なのよ、もう！",
+            "zh": "等！？\n搞什么呀，真是的！",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "99/TALK",
+            "narrator": "車内アナウンス",
+            "text": "大変お急ぎのところ、\n申し訳ありません。",
+            "zh": "各位正赶时间，\n非常抱歉。",
+            "narrator_zh": "车内广播"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "車内アナウンス",
+            "text": "只今、情報管理庁より\n発令されました警報に\nより――",
+            "zh": "现在，因情报管理厅\n发布的警报\n——",
+            "narrator_zh": "车内广播"
+        },
+        {
+            "location": "101/TALK",
+            "narrator": "車内アナウンス",
+            "text": "この電車、緊急停止を\nしております。",
+            "zh": "本电车\n正在紧急停车。",
+            "narrator_zh": "车内广播"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "アーヤ",
+            "text": "…最悪。",
+            "zh": "……最糟了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "105/TALK",
+            "narrator": "乗客",
+            "text": "管理庁？\nそれって、フェノメノンが\n出たってことか？",
+            "zh": "管理厅？\n那就是说，PhenoMENON\n出现了？",
+            "narrator_zh": "乘客"
+        },
+        {
+            "location": "106/TALK",
+            "narrator": "乗客",
+            "text": "ウソっ…どこかしら？\nまだネットには\n出てないけど…。",
+            "zh": "不会吧……在哪？\n网上还\n没消息……。",
+            "narrator_zh": "乘客"
+        },
+        {
+            "location": "107/TALK",
+            "narrator": "乗客",
+            "text": "なあ、ここも\n包まれちまうのか！？",
+            "zh": "喂，这里也会\n被罩住吗！？",
+            "narrator_zh": "乘客"
+        },
+        {
+            "location": "124/TALK",
+            "narrator": "アーヤ",
+            "text": "…まだ、一般には情報が\n出てないみたい。",
+            "zh": "……好像还没向一般人\n放出消息。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "126/TALK",
+            "narrator": "アーヤ",
+            "text": "ごめん、小夜。\nちょっと館長に\n連絡するわ。",
+            "zh": "抱歉，小夜。\n我跟馆长\n联系一下。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "127/TALK",
+            "narrator": "小夜",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "129/TALK",
+            "narrator": "小夜",
+            "text": "ね、ねえ、アーヤ。\nどこで出たの？",
+            "zh": "那、那个，绫水。\n在哪出现的？",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "130/TALK",
+            "narrator": "小夜",
+            "text": "ここも巻き込まれる？\n私、死んじゃったり\nするの？",
+            "zh": "这里也会被卷进去吗？\n我会\n死掉吗？",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "アーヤ",
+            "text": "えっと…ごめん。\nどこで発生してるかは\nちょっと言えないわ。",
+            "zh": "那个……抱歉。\n发生在哪里，\n我不能说。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "134/TALK",
+            "narrator": "小夜",
+            "text": "誰にも言わないから。\nお願い、こっそり！",
+            "zh": "我谁也不告诉。\n拜托，悄悄说！",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "135/TALK",
+            "narrator": "アーヤ",
+            "text": "そう言われても、\n世間に出てない以上、\n機密扱いだから…。",
+            "zh": "你这么说，\n既然还没公开，\n就是机密……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "137/TALK",
+            "narrator": "小夜",
+            "text": "そっか…。",
+            "zh": "这样啊……。",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "140/TALK",
+            "narrator": "アーヤ",
+            "text": "でも……\nここは絶対大丈夫。\nそれだけは保証するわ。",
+            "zh": "不过……\n这里绝对没事。\n这一点我保证。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "小夜",
+            "text": "…うん。",
+            "zh": "……嗯。",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "150/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "152/TALK",
+            "narrator": "アーヤ",
+            "text": "…え！？",
+            "zh": "……诶！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "153/TALK",
+            "narrator": "小夜",
+            "text": "何、どうしたの？",
+            "zh": "怎么了？",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "154/TALK",
+            "narrator": "アーヤ",
+            "text": "館長から…近くの整備\n踏切に車を送ったから――",
+            "zh": "馆长说……已经把车派到附近的检修\n道口——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "155/TALK",
+            "narrator": "アーヤ",
+            "text": "不自然に思われないように\n電車を抜け出して、\nそこまで来い、って…。",
+            "zh": "别让人觉得不自然，\n从电车里出来，\n到那里去……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "156/TALK",
+            "narrator": "小夜",
+            "text": "何そのミッションイン\nポッシブル！？\nここまで来てくれないの？",
+            "zh": "什么不可能的\n任务！？\n都不来这里接吗？",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "157/TALK",
+            "narrator": "アーヤ",
+            "text": "管理庁の車がここまで\n来たら、それこそ大騒ぎに\nなるわ。",
+            "zh": "管理厅的车要是开到这里，\n那才真的会\n闹大。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "159/TALK",
+            "narrator": "アーヤ",
+            "text": "でも、どうしよう…。\n不自然に思われないように\nって言われても…。",
+            "zh": "可是，怎么办……。\n就算叫我别让人觉得\n不自然……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "160/TALK",
+            "narrator": "小夜",
+            "text": "…お腹が痛い！\nもう我慢できない！！",
+            "zh": "……肚子疼！\n已经忍不住了！！",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "161/TALK",
+            "narrator": "小夜",
+            "text": "って、騒ぎながら\n非常ドアコック開けるのは\nどうかしら？",
+            "zh": "一边这么喊，\n一边打开紧急门把手，\n怎么样？",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "163/TALK",
+            "narrator": "アーヤ",
+            "text": "きゃ、却下！\nいくらなんでも\n恥ずかし過ぎる。",
+            "zh": "呀，否决！\n这也太\n丢人了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "164/TALK",
+            "narrator": "アーヤ",
+            "text": "運転手か車掌に言って、\n下ろしてもらうわ。",
+            "zh": "我去跟司机或列车员说，\n让他们放我下去。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "165/TALK",
+            "narrator": "小夜",
+            "text": "この満員電車の中！？\nここ丁度真ん中ぐらいよ？\n超時間かかるってば。",
+            "zh": "在这满员电车里！？\n这里差不多正中间哦？\n会花很久的。",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "167/TALK",
+            "narrator": "アーヤ",
+            "text": "…そうね……。",
+            "zh": "……也是……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "173/TALK",
+            "narrator": "アーヤ",
+            "text": "あっ、また館長から…。",
+            "zh": "啊，馆长又来消息了……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "174/TALK",
+            "narrator": "アーヤ",
+            "text": "…っ！？\nそんな！",
+            "zh": "……唔！？\n怎么会！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "175/TALK",
+            "narrator": "小夜",
+            "text": "ど、どうしたの！？",
+            "zh": "怎、怎么了！？",
+            "narrator_zh": "小夜"
+        },
+        {
+            "location": "176/TALK",
+            "narrator": "アーヤ",
+            "text": "一応、鉄道会社の方にも\n手を回したから、そのうち\n迎えは来るけど――",
+            "zh": "说是也跟铁路公司\n打过招呼了，过一阵\n会有人来接——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "177/TALK",
+            "narrator": "アーヤ",
+            "text": "無理そうなら、\n他のメンバーだけで\n処理に当たるって…。",
+            "zh": "要是来不及，\n就由其他成员\n去处理……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "179/TALK",
+            "narrator": "アーヤ",
+            "text": "何とかしなくちゃ。",
+            "zh": "得想办法。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "180/TALK",
+            "narrator": "アーヤ",
+            "text": "私はリーダー\nなんだから――",
+            "zh": "我是队长\n——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "181/TALK",
+            "narrator": "アーヤ",
+            "text": "こんなことで行けない\nなんて、絶対に許されない。",
+            "zh": "这种事都去不成，\n绝对说不过去。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "182/TALK",
+            "narrator": "アーヤ",
+            "text": "こんな時こそ、どうするか\n落ち着いて考えないと…。",
+            "zh": "这种时候，才更要冷静下来想\n该怎么办……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "184/TALK",
+            "narrator": "アーヤ",
+            "text": "でも、こうしてる間にも\n時間が…っ……",
+            "zh": "可是，就这么耗着，\n时间也……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "185/TALK",
+            "narrator": "アーヤ",
+            "text": "どうしよう……",
+            "zh": "怎么办……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "230/TALK",
+            "narrator": "アーヤ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "239/TALK",
+            "narrator": "千羽鶴",
+            "text": "[ココロスフィア]の説明は\n前に私がしてると思うけど\nもう一度聞く？",
+            "zh": "[心灵领域]的说明\n我之前应该讲过，\n要再听一遍吗？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "240/SEL",
+            "narrator": "",
+            "text": "はい",
+            "zh": "要",
+            "narrator_zh": ""
+        },
+        {
+            "location": "241/SEL",
+            "narrator": "",
+            "text": "いいえ",
+            "zh": "不要",
+            "narrator_zh": ""
+        },
+        {
+            "location": "242/ACT",
+            "narrator": "",
+            "text": "はい",
+            "zh": "要",
+            "narrator_zh": ""
+        },
+        {
+            "location": "243/TALK",
+            "narrator": "千羽鶴",
+            "text": "わかった。",
+            "zh": "好。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "245/ACT",
+            "narrator": "",
+            "text": "いいえ",
+            "zh": "不要",
+            "narrator_zh": ""
+        },
+        {
+            "location": "253/TALK",
+            "narrator": "千羽鶴",
+            "text": "ようこそ。",
+            "zh": "欢迎。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "254/SEL",
+            "narrator": "",
+            "text": "ここは…精神世界？",
+            "zh": "这里是……精神世界？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "255/ACT",
+            "narrator": "",
+            "text": "ここは…精神世界？",
+            "zh": "这里是……精神世界？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "257/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう。\nバトル説明で入ったのと\n同じ、精神世界。",
+            "zh": "是的。\n和战斗说明里进去的\n是同一个精神世界。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "258/TALK",
+            "narrator": "千羽鶴",
+            "text": "ここは、後ろにいる\n彼女、國政綾水の\n精神世界の入口――",
+            "zh": "这里是，身后的\n她，国政绫水的\n精神世界入口——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "259/TALK",
+            "narrator": "千羽鶴",
+            "text": "通称<color=red>【[ココロゲート]】</color>\nと呼ばれている場所。",
+            "zh": "通称为<color=red>【[心之扉]】</color>\n的地方。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "260/TALK",
+            "narrator": "千羽鶴",
+            "text": "ここでは彼女は\nあなたと普通に\n対話できる。",
+            "zh": "在这里，她可以\n和你正常地\n对话。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "261/TALK",
+            "narrator": "千羽鶴",
+            "text": "彼女の心に直接\n語りかけることで、\n心を動かすの。",
+            "zh": "直接向她的心\n诉说，\n就能打动她。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "262/TALK",
+            "narrator": "千羽鶴",
+            "text": "早速、\n彼女に話しかけてみて。",
+            "zh": "马上，\n试着和她说话。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "270/TALK",
+            "narrator": "アーヤ",
+            "text": "あら。",
+            "zh": "哎呀。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "271/TALK",
+            "narrator": "アーヤ",
+            "text": "こんなところに\nお客様なんて\n珍しいわね。",
+            "zh": "这种地方\n还有客人，\n真少见。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "272/SEL",
+            "narrator": "",
+            "text": "はじめまして。$handle$です",
+            "zh": "初次见面，我是$handle$",
+            "narrator_zh": ""
+        },
+        {
+            "location": "273/ACT",
+            "narrator": "",
+            "text": "はじめまして。$handle$です",
+            "zh": "初次见面，我是$handle$",
+            "narrator_zh": ""
+        },
+        {
+            "location": "276/TALK",
+            "narrator": "アーヤ",
+            "text": "ようこそ、國政綾水の\n[ココロゲート]へ。",
+            "zh": "欢迎来到国政绫水的\n[心之扉]。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "277/TALK",
+            "narrator": "アーヤ",
+            "text": "私は[ココロの司書]を\nやっている人格。\nこれからよろしくね。",
+            "zh": "我是担任[心之司书]\n的人格。\n以后请多关照。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "279/SEL",
+            "narrator": "",
+            "text": "よろしく",
+            "zh": "请多关照",
+            "narrator_zh": ""
+        },
+        {
+            "location": "280/SEL",
+            "narrator": "",
+            "text": "司書のことはよく知ってる",
+            "zh": "司书的事我很清楚",
+            "narrator_zh": ""
+        },
+        {
+            "location": "281/ACT",
+            "narrator": "",
+            "text": "よろしく",
+            "zh": "请多关照",
+            "narrator_zh": ""
+        },
+        {
+            "location": "283/ACT",
+            "narrator": "",
+            "text": "司書のことはよく知ってる",
+            "zh": "司书的事我很清楚",
+            "narrator_zh": ""
+        },
+        {
+            "location": "287/SEL",
+            "narrator": "",
+            "text": "よろしく",
+            "zh": "请多关照",
+            "narrator_zh": ""
+        },
+        {
+            "location": "288/ACT",
+            "narrator": "",
+            "text": "よろしく",
+            "zh": "请多关照",
+            "narrator_zh": ""
+        },
+        {
+            "location": "293/TALK",
+            "narrator": "アーヤ",
+            "text": "あら、\n知ってたのね。",
+            "zh": "哎呀，\n你已经知道了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "294/TALK",
+            "narrator": "アーヤ",
+            "text": "それなら話は早いわ。",
+            "zh": "那话就短了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "298/TALK",
+            "narrator": "アーヤ",
+            "text": "この[ココロゲート]って\n場所は、綾水の心の中の\n入口に当たるところね。",
+            "zh": "这个叫[心之扉]的\n地方，相当于绫水心中的\n入口。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "299/TALK",
+            "narrator": "アーヤ",
+            "text": "綾水の喜怒哀楽、\n悩み、記憶等は全て\nここに繋がってるの。",
+            "zh": "绫水的喜怒哀乐、\n烦恼、记忆，全都\n连在这里。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "300/TALK",
+            "narrator": "アーヤ",
+            "text": "それらは全て、１つずつ\n番号付きの部屋に収め\nられて、管理されてる。",
+            "zh": "那些全部，一个个\n收在编了号的房间里，\n管理着。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "301/TALK",
+            "narrator": "アーヤ",
+            "text": "通常、わたしが平常心で\nいる時は、それらの扉は\n正常に機能してる。",
+            "zh": "通常，我心平气和的\n时候，那些门\n都正常运作。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "302/TALK",
+            "narrator": "アーヤ",
+            "text": "けど、今みたいに悩ん\nじゃうと、扉がちゃんと\n機能しなくなるのよね。",
+            "zh": "可是，像现在这样\n烦恼起来，门就\n没法正常运作了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "303/TALK",
+            "narrator": "アーヤ",
+            "text": "そして場合によっては、\n間違った扉が\n開いてしまうの。",
+            "zh": "而且有时候，\n会打开\n错误的门。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "304/SEL",
+            "narrator": "",
+            "text": "それは、選択をミスってしまうってこと？",
+            "zh": "就是说，会选错吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "305/ACT",
+            "narrator": "",
+            "text": "それは、選択をミスってしまうってこと？",
+            "zh": "就是说，会选错吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "307/TALK",
+            "narrator": "アーヤ",
+            "text": "そう！\nそうなると大変でしょ？\n人生踏み外しちゃう。",
+            "zh": "对！\n那样可就麻烦了吧？\n人生会走偏的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "308/TALK",
+            "narrator": "アーヤ",
+            "text": "司書である私は、どの\n扉を開ければ正しい選択\nかは分かるんだけど…。",
+            "zh": "作为司书的我，\n知道打开哪扇门\n才是正确的选择……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "309/TALK",
+            "narrator": "アーヤ",
+            "text": "物理的に扉を開ける事は\n許されていなくて。",
+            "zh": "可是，亲手开门\n是不被允许的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "310/TALK",
+            "narrator": "アーヤ",
+            "text": "だから、\n$handle$さんに\n手伝って欲しいのよね。",
+            "zh": "所以，\n想请$handle$\n帮个忙。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "311/SEL",
+            "narrator": "",
+            "text": "どうやって？",
+            "zh": "怎么帮？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "312/ACT",
+            "narrator": "",
+            "text": "どうやって？",
+            "zh": "怎么帮？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "314/TALK",
+            "narrator": "アーヤ",
+            "text": "正しい扉の選択を阻止する\n<color=red>【[クラン]】</color>という存在を\n倒して欲しいの。",
+            "zh": "想请你打倒会妨碍\n正确选门的\n<color=red>【[库兰]】</color>。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "315/TALK",
+            "narrator": "アーヤ",
+            "text": "<color=red>【[クラン]】</color>ってのは、私の\n不安や恐れが、あまりに\n大きくなってしまった物。",
+            "zh": "<color=red>【[库兰]】</color>，是我的\n不安和恐惧变得\n太大之后的东西。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "316/TALK",
+            "narrator": "アーヤ",
+            "text": "その<color=red>【[クラン]】</color>が\n正しい扉を開くのを\n妨害してしまうのよ。",
+            "zh": "那个<color=red>【[库兰]】</color>\n会妨碍\n打开正确的门。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "317/TALK",
+            "narrator": "アーヤ",
+            "text": "扉の前では、何とか\nしたいと思ってる私が\n<color=red>【[クラン]】</color>と戦ってる。",
+            "zh": "门前，想要\n做点什么的我，\n正在和<color=red>【[库兰]】</color>战斗。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "318/TALK",
+            "narrator": "アーヤ",
+            "text": "その彼女に、是非\n貴方の力を貸してあげて\n欲しいの。",
+            "zh": "希望你把力量\n借给\n那样的她。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "319/TALK",
+            "narrator": "アーヤ",
+            "text": "お願い、出来るかしら。",
+            "zh": "拜托了，可以吗。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "321/SEL",
+            "narrator": "",
+            "text": "オッケー",
+            "zh": "好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "322/SEL",
+            "narrator": "",
+            "text": "やだ",
+            "zh": "不要",
+            "narrator_zh": ""
+        },
+        {
+            "location": "323/ACT",
+            "narrator": "",
+            "text": "オッケー",
+            "zh": "好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "325/TALK",
+            "narrator": "アーヤ",
+            "text": "ありがとう！\n助かるわ。",
+            "zh": "谢谢！\n帮大忙了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "326/ACT",
+            "narrator": "",
+            "text": "やだ",
+            "zh": "不要",
+            "narrator_zh": ""
+        },
+        {
+            "location": "327/TALK",
+            "narrator": "アーヤ",
+            "text": "えーっ！\nそんな、酷い。",
+            "zh": "诶——！\n太过分了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "328/TALK",
+            "narrator": "アーヤ",
+            "text": "お願い！\n協力して！\nこの通り！",
+            "zh": "拜托！\n帮帮我！\n求求你！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "332/SEL",
+            "narrator": "",
+            "text": "それで、どうすればいいの？",
+            "zh": "那，我该怎么做？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "333/ACT",
+            "narrator": "",
+            "text": "それで、どうすればいいの？",
+            "zh": "那，我该怎么做？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "335/TALK",
+            "narrator": "アーヤ",
+            "text": "え？　ああ、\nちょっと待ってね。",
+            "zh": "诶？　啊，\n稍等一下。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "336/TALK",
+            "narrator": "アーヤ",
+            "text": "まずは現状をちゃんと\n把握しなくちゃ。",
+            "zh": "得先把现状\n弄清楚。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "338/TALK",
+            "narrator": "アーヤ",
+            "text": "ええと……",
+            "zh": "嗯……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "342/SEL",
+            "narrator": "",
+            "text": "ココロの中でもスマホで検索なんだ……",
+            "zh": "在心里也用手机搜索啊……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "343/ACT",
+            "narrator": "",
+            "text": "ココロの中でもスマホで検索なんだ……",
+            "zh": "在心里也用手机搜索啊……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "346/TALK",
+            "narrator": "アーヤ",
+            "text": "ふふ、そうね。\n楽なのよ――",
+            "zh": "呵呵，是呀。\n这样轻松——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "348/TALK",
+            "narrator": "アーヤ",
+            "text": "あ、これね。",
+            "zh": "啊，是这个。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "352/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$さんへ依頼を\n希望したい問題案件が\nありました。",
+            "zh": "有一件希望委托给\n$handle$的\n问题案件。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "354/TALK",
+            "narrator": "アーヤ",
+            "text": "早速今から、\nその<color=red>【問題の扉】</color>を\nコールするわね。",
+            "zh": "那就现在，\n呼叫那扇\n<color=red>【问题之门】</color>。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "362/TALK",
+            "narrator": "アーヤ",
+            "text": "オープンプロセス、\n0x215番地から\n0x8FE番地へ。",
+            "zh": "开放进程，\n从0x215地址\n到0x8FE地址。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "377/TALK",
+            "narrator": "アーヤ",
+            "text": "シーク完了しました。",
+            "zh": "搜索完成。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "378/TALK",
+            "narrator": "アーヤ",
+            "text": "この扉に、今回の悩みの\n根源になっている\n<color=red>【[クラン]】</color>がいるわ。",
+            "zh": "这扇门里，有着成为\n这次烦恼根源的\n<color=red>【[库兰]】</color>。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "380/TALK",
+            "narrator": "アーヤ",
+            "text": "今回の私の悩みは、\n恥ずかしい思いをして\nまで出動すべきか否か。",
+            "zh": "这次我的烦恼是，\n是否该做到丢脸的地步\n也要出动。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "381/TALK",
+            "narrator": "アーヤ",
+            "text": "本人は悩んでるようだ\nけど、実は内心は既に\n決まってるの。",
+            "zh": "本人像是在烦恼，\n其实内心已经\n决定了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "382/TALK",
+            "narrator": "アーヤ",
+            "text": "それはココロファイル\nNo.02-591-44に、\nしっかり記録されてる。",
+            "zh": "这件事在心之档案\nNo.02-591-44里，\n清清楚楚记着。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "386/TALK",
+            "narrator": "アーヤ",
+            "text": "ココロファイル\nNo.02-591-44に\nよれば――",
+            "zh": "根据心之档案\nNo.02-591-44\n——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "387/TALK",
+            "narrator": "アーヤ",
+            "text": "『恥は一時のもの\n後悔は一生のもの』",
+            "zh": "『羞耻一时，\n后悔一生』",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "388/TALK",
+            "narrator": "アーヤ",
+            "text": "ですって。",
+            "zh": "是这么写的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "389/TALK",
+            "narrator": "アーヤ",
+            "text": "まあ確かに、行かな\nかった結果、最悪の\n事態になったら――",
+            "zh": "确实，要是没去，\n结果变成最糟的\n情况——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "390/TALK",
+            "narrator": "アーヤ",
+            "text": "一生悔やんでも\n悔やみきれないものね。",
+            "zh": "后悔一辈子\n也后悔不完。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "391/SEL",
+            "narrator": "",
+            "text": "その通り",
+            "zh": "说得对",
+            "narrator_zh": ""
+        },
+        {
+            "location": "392/SEL",
+            "narrator": "",
+            "text": "大丈夫なんじゃない？",
+            "zh": "不是没事吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "393/ACT",
+            "narrator": "",
+            "text": "その通り",
+            "zh": "说得对",
+            "narrator_zh": ""
+        },
+        {
+            "location": "395/TALK",
+            "narrator": "アーヤ",
+            "text": "よかった。\n貴方も同じ考えで。",
+            "zh": "太好了。\n你也是这么想的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "396/TALK",
+            "narrator": "アーヤ",
+            "text": "それじゃ早速、\n協力してくださいな。",
+            "zh": "那就马上，\n请帮我。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "397/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$さんと\n國政綾水にとって、\n素敵なココロの旅を！",
+            "zh": "献给$handle$和\n国政绫水的，\n美妙的心灵之旅！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "404/ACT",
+            "narrator": "",
+            "text": "大丈夫なんじゃない？",
+            "zh": "不是没事吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "405/TALK",
+            "narrator": "アーヤ",
+            "text": "まあ確かに、他の\nメンバーを信頼は\nしてるけど。",
+            "zh": "嘛，确实，其他\n成员我是\n信任的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "406/TALK",
+            "narrator": "アーヤ",
+            "text": "今回の問題って、\n他のメンバーの能力は\nあまり関係無いのよ。",
+            "zh": "这次的问题，\n和其他成员的能力\n没什么关系。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "407/TALK",
+            "narrator": "アーヤ",
+            "text": "わかるかしら。",
+            "zh": "明白吗。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "408/TALK",
+            "narrator": "アーヤ",
+            "text": "自分が後で後悔するか\nしないか。\nそこがポイントなの。",
+            "zh": "自己以后会后悔，\n还是不会。\n关键在这里。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "409/TALK",
+            "narrator": "アーヤ",
+            "text": "例え滞りなく任務完了\nしたとしても、行かな\nかったら絶対後悔する。",
+            "zh": "就算任务顺利\n完成了，没去的话\n也绝对会后悔。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "410/TALK",
+            "narrator": "アーヤ",
+            "text": "そういうことなの。",
+            "zh": "就是这么回事。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "411/TALK",
+            "narrator": "アーヤ",
+            "text": "でも、それでも協力\nできないというなら、\nそれで構わないわ。",
+            "zh": "不过，要是这样也\n没法帮忙，\n那也没关系。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "412/TALK",
+            "narrator": "アーヤ",
+            "text": "私に強制する権限なんて\n一切ないんだから。",
+            "zh": "我根本没有\n强迫谁的权限。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "413/SEL",
+            "narrator": "",
+            "text": "協力する",
+            "zh": "帮忙",
+            "narrator_zh": ""
+        },
+        {
+            "location": "414/SEL",
+            "narrator": "",
+            "text": "協力しない",
+            "zh": "不帮忙",
+            "narrator_zh": ""
+        },
+        {
+            "location": "415/ACT",
+            "narrator": "",
+            "text": "協力する",
+            "zh": "帮忙",
+            "narrator_zh": ""
+        },
+        {
+            "location": "417/ACT",
+            "narrator": "",
+            "text": "協力しない",
+            "zh": "不帮忙",
+            "narrator_zh": ""
+        },
+        {
+            "location": "418/TALK",
+            "narrator": "アーヤ",
+            "text": "そう。\n残念だけど、\n仕方ないわよね。",
+            "zh": "这样啊。\n可惜，\n也没办法。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "419/TALK",
+            "narrator": "アーヤ",
+            "text": "一応、扉には\nアクセスできるように\nしておくわね。",
+            "zh": "门的话，\n我会让你\n可以进去。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "421/TALK",
+            "narrator": "アーヤ",
+            "text": "気が向いたらいつでも\n手伝いに来てくださいね。",
+            "zh": "想帮忙的时候，\n随时来就好。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "23/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>5月3日　5:08 PM</color>\nドームライブ戦直前、\n中央線6号車車内にて。",
+            "zh": "<color=green>5月3日　5:08 PM</color>\n穹顶战开始前，\n中央线6号车厢内。",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "115/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>5月3日　5:14 PM</color>\nBUNKYOドーム上空。",
+            "zh": "<color=green>5月3日　5:14 PM</color>\nBUNKYO穹顶上空。",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "197/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch02",
+            "text": "<color=black><size=50><b>國政綾水のココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n國政綾水の心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>国政绫水的心中\n战斗开始了。</b></size></color>\n\n\n\n\n\n她的心中，\n产生了很大的挣扎。\n\n请潜入心灵领域，\n化解国政绫水心中的挣扎。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch02"
+        }
+    ]
+}

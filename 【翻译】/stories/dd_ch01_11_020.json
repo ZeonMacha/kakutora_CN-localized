@@ -1,0 +1,525 @@
+{
+    "dir": "chap11/daydra/dd_ch01_11_020.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "11156",
+        "cid": "tsubame",
+        "title": "Extra006 プレミアムストーリー",
+        "sub_title": "手作りおにぎり",
+        "title_zh": "Extra006 额外剧情",
+        "sub_title_zh": "手作饭团"
+    },
+    "entry": [
+        {
+            "location": "360/SCENARIO",
+            "narrator": "",
+            "text": "手作りおにぎり",
+            "zh": "手作饭团",
+            "narrator_zh": ""
+        },
+        {
+            "location": "375/TALK",
+            "narrator": "雛",
+            "text": "あっ、つばめちゃんの\nお弁当、おにぎりなんだ？",
+            "zh": "啊，燕的\n便当是饭团呀？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "378/TALK",
+            "narrator": "つばめ",
+            "text": "うん、余ってたご飯で\n作ってきたんだ。",
+            "zh": "嗯，用剩下的饭\n做来的。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "379/TALK",
+            "narrator": "キリト",
+            "text": "けど、ちょっとデカくね？\n逢瀬っておにぎり作るの\n苦手なのか？",
+            "zh": "不过，是不是有点大？\n逢濑你捏饭团\n不擅长吗？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "381/TALK",
+            "narrator": "つばめ",
+            "text": "卵焼きを入れてるから、\nどうしても大きく\nなっちゃうの。",
+            "zh": "因为塞了玉子烧，\n怎么都会\n变大呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "382/TALK",
+            "narrator": "キリト",
+            "text": "…は？\nおにぎりの中に\n入ってるのか？",
+            "zh": "……哈？\n是包在饭团\n里面的吗？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "386/TALK",
+            "narrator": "つばめ",
+            "text": "うん。\nこれ、わたしが子供の頃に\n思いついたおにぎりで――",
+            "zh": "嗯。\n这个，是我小时候\n想出来的饭团——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "387/TALK",
+            "narrator": "つばめ",
+            "text": "幼稚園のお弁当にも、\nよく持っていったんだ。",
+            "zh": "幼儿园的便当，\n也经常带着。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "389/TALK",
+            "narrator": "雛",
+            "text": "う～ん…ご飯と卵だから\n不味くはないと\n思うけど…。",
+            "zh": "嗯……米饭和鸡蛋，\n应该不会\n难吃……",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "390/TALK",
+            "narrator": "キリト",
+            "text": "絶対別々に食った方が\n美味いと思うぞ？",
+            "zh": "绝对分开吃\n更好吃吧？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "391/TALK",
+            "narrator": "つばめ",
+            "text": "そ、そんなことないよ。",
+            "zh": "才、才不是哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "392/TALK",
+            "narrator": "つばめ",
+            "text": "別々に食べてもいいけど、\n一緒に食べると、すっごく\n美味しいんだよ？",
+            "zh": "分开吃也行，\n一起吃的话，\n超级好吃的哦？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "393/TALK",
+            "narrator": "繭",
+            "text": "少し大げさだと思う。",
+            "zh": "我觉得有点夸张。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "395/TALK",
+            "narrator": "つばめ",
+            "text": "そんなことないよ。\n本当に美味しいんだから。",
+            "zh": "才不是。\n真的很好吃呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "396/TALK",
+            "narrator": "キリト",
+            "text": "そう言われてもなぁ…。",
+            "zh": "你这么说也……",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "397/TALK",
+            "narrator": "キリト",
+            "text": "卵焼きじゃなくて、\n唐揚げとかなら\nまだわかるけどさ。",
+            "zh": "不是玉子烧，\n要是炸鸡什么的\n我还能理解。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "399/TALK",
+            "narrator": "繭",
+            "text": "コンビニで見たことある。\nあれなら美味しそう。",
+            "zh": "便利店里见过。\n那种的话看起来很好吃。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "402/TALK",
+            "narrator": "雛",
+            "text": "温めてから食べると\nすっごく美味しいんだよ。",
+            "zh": "热一下再吃，\n会非常好吃的哦。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "404/TALK",
+            "narrator": "キリト",
+            "text": "へぇ、今度買って\nみようかな？",
+            "zh": "嘿，下次买来\n试试？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "406/TALK",
+            "narrator": "つばめ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "427/TALK",
+            "narrator": "つばめ",
+            "text": "ショックだよー",
+            "zh": "好受打击呀——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "430/SEL",
+            "narrator": "",
+            "text": "唐揚げに負けたね",
+            "zh": "输给炸鸡了啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "431/ACT",
+            "narrator": "",
+            "text": "唐揚げに負けたね",
+            "zh": "输给炸鸡了啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "433/TALK",
+            "narrator": "つばめ",
+            "text": "うん",
+            "zh": "嗯",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "434/TALK",
+            "narrator": "つばめ",
+            "text": "卵焼きのおにぎり、凄く美味しいんだよ？",
+            "zh": "玉子烧饭团，非常好吃的哦？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "435/TALK",
+            "narrator": "つばめ",
+            "text": "小さいころからずっと好きなのに…",
+            "zh": "从小就一直喜欢的……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "436/TALK",
+            "narrator": "つばめ",
+            "text": "そんなに変じゃないよね？",
+            "zh": "没那么奇怪吧？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "438/SEL",
+            "narrator": "",
+            "text": "珍しいけど変じゃない",
+            "zh": "少见，但不奇怪",
+            "narrator_zh": ""
+        },
+        {
+            "location": "439/SEL",
+            "narrator": "",
+            "text": "ちょっとゲテモノかも",
+            "zh": "可能有点像黑暗料理",
+            "narrator_zh": ""
+        },
+        {
+            "location": "440/SEL",
+            "narrator": "",
+            "text": "食べてみたい",
+            "zh": "想吃吃看",
+            "narrator_zh": ""
+        },
+        {
+            "location": "441/ACT",
+            "narrator": "",
+            "text": "珍しいけど変じゃない",
+            "zh": "少见，但不奇怪",
+            "narrator_zh": ""
+        },
+        {
+            "location": "442/TALK",
+            "narrator": "つばめ",
+            "text": "やっぱりそうだよね？",
+            "zh": "果然是这样吧？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "443/TALK",
+            "narrator": "つばめ",
+            "text": "珍しいけど、変じゃないよね？",
+            "zh": "少见，但不奇怪吧？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "454/ACT",
+            "narrator": "",
+            "text": "ちょっとゲテモノかも",
+            "zh": "可能有点像黑暗料理",
+            "narrator_zh": ""
+        },
+        {
+            "location": "455/TALK",
+            "narrator": "つばめ",
+            "text": "そんなことないもん！",
+            "zh": "才没有！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "456/TALK",
+            "narrator": "つばめ",
+            "text": "ただの卵焼きを、ご飯で普通に包んでるだけなんだし",
+            "zh": "只是把普通的玉子烧，用饭正常包起来而已",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "457/TALK",
+            "narrator": "つばめ",
+            "text": "…でも、みんなもそんな風に見てるのかな？",
+            "zh": "……不过，大家也是这么看的吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "458/TALK",
+            "narrator": "つばめ",
+            "text": "もしそうなら、ちょっと悲しいよ…",
+            "zh": "要是这样，有点难过呀……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "469/ACT",
+            "narrator": "",
+            "text": "食べてみたい",
+            "zh": "想吃吃看",
+            "narrator_zh": ""
+        },
+        {
+            "location": "471/TALK",
+            "narrator": "つばめ",
+            "text": "本当！？",
+            "zh": "真的！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "472/TALK",
+            "narrator": "つばめ",
+            "text": "そう言ってもらえると嬉しいよ",
+            "zh": "你这么说我好开心哦",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "474/TALK",
+            "narrator": "つばめ",
+            "text": "わたしも、$handle$さんに作ってあげたいな",
+            "zh": "我也想做给$handle$吃呀",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "486/TALK",
+            "narrator": "つばめ",
+            "text": "…多めに作ってきたの、\n失敗だったみたい。",
+            "zh": "……多做了一些，\n好像失败了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "489/TALK",
+            "narrator": "雛",
+            "text": "ねえ、つばめちゃん。",
+            "zh": "呐，燕。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "490/TALK",
+            "narrator": "雛",
+            "text": "そのおにぎりだけど、\n一つ食べていい？",
+            "zh": "那个饭团，\n我可以吃一个吗？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "492/TALK",
+            "narrator": "つばめ",
+            "text": "えっ？",
+            "zh": "欸？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "494/TALK",
+            "narrator": "キリト",
+            "text": "ひなこ、もしかして\n気になってたのか？",
+            "zh": "雏，难道\n你在意这个？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "496/TALK",
+            "narrator": "雛",
+            "text": "まあねー。\n味は大体想像つくけど――",
+            "zh": "也是啦。\n味道大概想象得到——",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "497/TALK",
+            "narrator": "雛",
+            "text": "つばめちゃんがそこまで\n美味しいっていうなら、\n食べてみようかな、って。",
+            "zh": "燕都说到这个份上了，\n那就\n尝尝看吧。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "498/TALK",
+            "narrator": "つばめ",
+            "text": "ありがとう！\nそれじゃ、どれでも\n好きなの選んで。",
+            "zh": "谢谢！\n那就，哪个都行，\n挑你喜欢的。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "500/TALK",
+            "narrator": "雛",
+            "text": "じゃあ、中くらいの\n大きさのを…。\nいただきまーす！",
+            "zh": "那就，中等\n大小的……\n我开动啦！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "502/TALK",
+            "narrator": "雛",
+            "text": "はむっ！　んむんむ…。",
+            "zh": "哈呣！　嗯呣嗯呣……",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "503/TALK",
+            "narrator": "つばめ",
+            "text": "ど、どうかな？",
+            "zh": "怎、怎么样？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "505/TALK",
+            "narrator": "雛",
+            "text": "あっ…これ、思ってたより\n美味しいかも。",
+            "zh": "啊……这个，可能比我想的\n更好吃。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "507/TALK",
+            "narrator": "つばめ",
+            "text": "やったぁ！",
+            "zh": "太好啦！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "509/TALK",
+            "narrator": "キリト",
+            "text": "マジかよ？\nただの卵焼きが入った\nおにぎりだろ？",
+            "zh": "真的假的？\n不就是塞了玉子烧的\n饭团吗？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "512/TALK",
+            "narrator": "雛",
+            "text": "そうなんだけど…\n卵焼きの中が半焼きに\nなっててね――",
+            "zh": "是这样……\n玉子烧里面\n是半熟的——",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "513/TALK",
+            "narrator": "雛",
+            "text": "齧ると中身が広がって、\n卵かけごはんみたいな\n味になるの。",
+            "zh": "咬下去馅会散开，\n味道变得\n像鸡蛋拌饭。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "514/TALK",
+            "narrator": "繭",
+            "text": "…想像つかないんだけど？",
+            "zh": "……我想象不出来？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "515/TALK",
+            "narrator": "つばめ",
+            "text": "まだまだあるから、\n二人も食べてみて。",
+            "zh": "还有很多，\n你们两个也尝尝。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "520/TALK",
+            "narrator": "キリト",
+            "text": "お、おう…\nじゃあ、いただくぜ。",
+            "zh": "哦、哦……\n那我开动了。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "522/TALK",
+            "narrator": "繭",
+            "text": "…いただきます。\nあむっ。",
+            "zh": "……我开动了。\n啊呣。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "523/TALK",
+            "narrator": "つばめ",
+            "text": "……どうかな？",
+            "zh": "……怎么样？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "525/TALK",
+            "narrator": "キリト",
+            "text": "やべぇ…\nマジで結構イケる。",
+            "zh": "糟了……\n真的挺能吃。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "526/TALK",
+            "narrator": "繭",
+            "text": "想像してたより甘くて、\n美味しい…落ち着く味。",
+            "zh": "比想象中更甜，\n好吃……让人安心的味道。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "527/TALK",
+            "narrator": "つばめ",
+            "text": "ね、美味しいでしょ！？",
+            "zh": "你看，好吃吧！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "528/TALK",
+            "narrator": "つばめ",
+            "text": "一度食べてもらえれば\nわかってもらえると\n思ってたよ。",
+            "zh": "我就想，\n只要吃一次\n你们就会明白。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "529/TALK",
+            "narrator": "雛",
+            "text": "つばめちゃん、\nおかわりしていい？",
+            "zh": "燕，\n我可以再来一个吗？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "531/TALK",
+            "narrator": "つばめ",
+            "text": "うん、もちろん！\nいっぱいあるから\nみんなもおかわりしてね。",
+            "zh": "嗯，当然！\n还有很多，\n大家也再来呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "533/TALK",
+            "narrator": "キリト",
+            "text": "…なんか、納得いかねぇ\nのは俺だけか？",
+            "zh": "……总觉得不能接受的，\n只有我一个吗？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "536/TALK",
+            "narrator": "繭",
+            "text": "私もだけど、\n美味しいのは\n事実なんだから――",
+            "zh": "我也是。\n不过好吃是\n事实——",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "537/TALK",
+            "narrator": "繭",
+            "text": "受け止める以外に\nないわ。",
+            "zh": "除了接受，\n没别的办法。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "373/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>6月28日　12:07 PM</color>\n昼休み、学食にて。",
+            "zh": "<color=green>6月28日　12:07 PM</color>\n午休，在食堂。",
+            "narrator_zh": "Dialog_EventData"
+        }
+    ]
+}

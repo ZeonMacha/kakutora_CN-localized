@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Archives & local temp folders
+*.7z
+_tmp_src/
+_tr_data/
+_work/
+_tmp_*
+
+# Pipeline intermediate context packs & translation packs (regenerable)
+pipeline/work/

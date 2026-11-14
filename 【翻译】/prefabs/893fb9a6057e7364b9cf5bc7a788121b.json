@@ -1,0 +1,328 @@
+{
+ "dir": "893fb9a6057e7364b9cf5bc7a788121b",
+ "type": "prefabs",
+ "info": {},
+ "entry": [
+  {
+   "location": "186/UI",
+   "narrator": "GachaResultWindow/Panel/AllSkipButton/button/Text",
+   "text": "ALL\nSKIP"
+  },
+  {
+   "location": "187/UI",
+   "narrator": "GachaResultWindow/Panel/AllSkipButton/button/sankaku",
+   "text": "▼"
+  },
+  {
+   "location": "188/UI",
+   "narrator": "GachaResultWindow/Panel/AllSkipButton/button/sankaku (1)",
+   "text": "▼"
+  },
+  {
+   "location": "189/UI",
+   "narrator": "GachaResultWindow/Panel/BG_Triangle/Kazari/ImageC/Text",
+   "text": "Energy Quantization..."
+  },
+  {
+   "location": "190/UI",
+   "narrator": "GachaResultWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text",
+   "text": "MOMENTUM,"
+  },
+  {
+   "location": "191/UI",
+   "narrator": "GachaResultWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text (1)",
+   "text": "WAVELENGTH,"
+  },
+  {
+   "location": "192/UI",
+   "narrator": "GachaResultWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text (2)",
+   "text": "FREQUENCY,"
+  },
+  {
+   "location": "193/UI",
+   "narrator": "GachaResultWindow/Panel/BG_Triangle/Kazari/QM/QM/Text",
+   "text": "QM : Quantum\nmechanics"
+  },
+  {
+   "location": "194/UI",
+   "narrator": "GachaResultWindow/Panel/BG_Triangle/Kazari/QM/QM/Text (1)",
+   "text": "QM"
+  },
+  {
+   "location": "195/UI",
+   "narrator": "GachaResultWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text",
+   "text": "TISE"
+  },
+  {
+   "location": "196/UI",
+   "narrator": "GachaResultWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (1)",
+   "text": "Time-independent Schrödinger equation\n∵ Schrödinger's wave function(t,x) = Time(t)･Space(x),\n-√1･h/2π･dTime(t)/dt･Space(x)\n=Time(t)･Quantized_Hamiltonian{x,√1･h/2π(∂/∂x,∂/∂y,∂/∂z)}･Space(x)\n→∇(nabla)≡(∂/∂x,∂/∂y,∂/∂z) , div{Time(t)･Space(x)}→\n-√1･h/2π･dTime(t)/dt/Time(t)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)/Space(x)\nLet constant be E(Energy).\nE･Time(t)=-√1･h/2π･dTime(t)/dt ,\n∴ E･Space(x)=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)  "
+  },
+  {
+   "location": "197/UI",
+   "narrator": "GachaResultWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (2)",
+   "text": "by the Austrian physicist\nErwin Rudolf Josef\nAlexander Schrödinger,1887-1961\n\nSchrödinger equation :\nBasic equations in quantum mechanics in physics.\n\nTime-dependent\nSchrödinger equation\n\nHamiltonian(x,Px,Py.Pz)\n→Quantized_Hamiltonian(x,∇)=Potential(x)-(h/2π)²/2m･∇²\n∴ -√1･h/2π･∂/∂x･wave function(t,x)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･wave function(t,x)"
+  },
+  {
+   "location": "198/UI",
+   "narrator": "GachaResultWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (3)",
+   "text": "The time-independent Schrödinger equation predicts that wave functions can form standing waves, called stationary states. These states are important in their own right, and if the stationary states are classified and understood, then it becomes easier to solve the time-dependent Schrödinger equation for any state. The time-independent Schrödinger equation is the equation describing stationary states."
+  },
+  {
+   "location": "199/UI",
+   "narrator": "GachaResultWindow/Panel/BackButton/Text",
+   "text": "閉じる",
+   "zh": "关闭",
+   "narrator_zh": "GachaResultWindow/Panel/BackButton/Text"
+  },
+  {
+   "location": "200/UI",
+   "narrator": "GachaResultWindow/Panel/BonusGetButton/BonusGetImage/BonusGetEn/mojibase/Text",
+   "text": "OMAKE COSTUME"
+  },
+  {
+   "location": "201/UI",
+   "narrator": "GachaResultWindow/Panel/BonusGetButton/BonusGetImage/BonusGetEn/mojibase/TextMain",
+   "text": "COSTUME GET !!"
+  },
+  {
+   "location": "202/UI",
+   "narrator": "GachaResultWindow/Panel/BonusGetButton/BonusGetImage/BonusGetEn/mojibase/TextSub",
+   "text": "おまけコスチューム発表",
+   "zh": "赠送服装公布",
+   "narrator_zh": "GachaResultWindow/Panel/BonusGetButton/BonusGetImage/BonusGetEn/mojibase/TextSub"
+  },
+  {
+   "location": "203/UI",
+   "narrator": "GachaResultWindow/Panel/BonusGetButton/GetImage/Prize_Costumeget/Base/Button_OK/Text",
+   "text": "OK"
+  },
+  {
+   "location": "204/UI",
+   "narrator": "GachaResultWindow/Panel/BonusGetButton/GetImage/Prize_Costumeget/Base/ExchangeCosTicket/TextBase/Text",
+   "text": "取得済み衣装のため\n【コス引換券】を獲得しました！",
+   "zh": "因为已拥有该服装，\n获得了【服装兑换券】！",
+   "narrator_zh": "GachaResultWindow/Panel/BonusGetButton/GetImage/Prize_Costumeget/Base/ExchangeCosTicket/TextBase/Text"
+  },
+  {
+   "location": "205/UI",
+   "narrator": "GachaResultWindow/Panel/BonusGetButton/GetImage/Prize_Costumeget/Base/InformationText",
+   "text": "逢瀬つばめ",
+   "zh": "逢濑燕",
+   "narrator_zh": "GachaResultWindow/Panel/BonusGetButton/GetImage/Prize_Costumeget/Base/InformationText"
+  },
+  {
+   "location": "206/UI",
+   "narrator": "GachaResultWindow/Panel/BonusGetButton/GetImage/Prize_Costumeget/Base/ItemName",
+   "text": "フレンドリエ",
+   "zh": "友舍",
+   "narrator_zh": "GachaResultWindow/Panel/BonusGetButton/GetImage/Prize_Costumeget/Base/ItemName"
+  },
+  {
+   "location": "207/UI",
+   "narrator": "GachaResultWindow/Panel/BonusGetButton/GetImage/Prize_Costumeget/Base/deco",
+   "text": "▲　I C O N   V I E W　▲"
+  },
+  {
+   "location": "208/UI",
+   "narrator": "GachaResultWindow/Panel/BonusGetButton/GetImage/Prize_GachaTicketget/Base/Button_OK/Text",
+   "text": "OK"
+  },
+  {
+   "location": "209/UI",
+   "narrator": "GachaResultWindow/Panel/BonusGetButton/GetImage/Prize_GachaTicketget/Base/InformationText",
+   "text": "逢瀬つばめ",
+   "zh": "逢濑燕",
+   "narrator_zh": "GachaResultWindow/Panel/BonusGetButton/GetImage/Prize_GachaTicketget/Base/InformationText"
+  },
+  {
+   "location": "210/UI",
+   "narrator": "GachaResultWindow/Panel/BonusGetButton/GetImage/Prize_GachaTicketget/Base/ItemName",
+   "text": "フレンドリエ",
+   "zh": "友舍",
+   "narrator_zh": "GachaResultWindow/Panel/BonusGetButton/GetImage/Prize_GachaTicketget/Base/ItemName"
+  },
+  {
+   "location": "211/UI",
+   "narrator": "GachaResultWindow/Panel/BonusGetButton/GetImage/Prize_GachaTicketget/Base/deco",
+   "text": "▲　I C O N   V I E W　▲"
+  },
+  {
+   "location": "212/UI",
+   "narrator": "GachaResultWindow/Panel/BonusGetButton/GetImage/Prize_Itemget/Base/Button_OK/Text",
+   "text": "OK"
+  },
+  {
+   "location": "213/UI",
+   "narrator": "GachaResultWindow/Panel/BonusGetButton/GetImage/Prize_Itemget/Base/deco",
+   "text": "▲　I C O N   V I E W　▲"
+  },
+  {
+   "location": "214/UI",
+   "narrator": "GachaResultWindow/Panel/ClanBalloon/Button/Balloon/Text",
+   "text": "あいうえおかきくけこ\nさしすせそたちつてと\nなにぬねのはひふへほ\n【なまえ8文字まで】",
+   "zh": "测试字符测试字符\n测试字符测试字符\n测试字符测试字符\n【名字最多8个字】",
+   "narrator_zh": "GachaResultWindow/Panel/ClanBalloon/Button/Balloon/Text"
+  },
+  {
+   "location": "215/UI",
+   "narrator": "GachaResultWindow/Panel/ClanBalloon/Button/CuranTweetCanvas/CuranTweet/Panel/Text",
+   "text": "あ、あんたのことなんて\n全然好きなんかじゃ\nないんだからね！",
+   "zh": "啊、我\n根本一点都不喜欢你\n这种人啦！",
+   "narrator_zh": "GachaResultWindow/Panel/ClanBalloon/Button/CuranTweetCanvas/CuranTweet/Panel/Text"
+  },
+  {
+   "location": "216/UI",
+   "narrator": "GachaResultWindow/Panel/ClanBalloon/Button/CuranTweetCanvas/CuranTweet/Panel/Text/Name",
+   "text": "【モヘンジョダロ】",
+   "zh": "【摩亨佐达罗】",
+   "narrator_zh": "GachaResultWindow/Panel/ClanBalloon/Button/CuranTweetCanvas/CuranTweet/Panel/Text/Name"
+  },
+  {
+   "location": "217/UI",
+   "narrator": "GachaResultWindow/Panel/Item10Image/ClanIconImage01/NewText",
+   "text": "NEW!"
+  },
+  {
+   "location": "218/UI",
+   "narrator": "GachaResultWindow/Panel/Item10Image/ClanIconImage02/NewText",
+   "text": "NEW!"
+  },
+  {
+   "location": "219/UI",
+   "narrator": "GachaResultWindow/Panel/Item10Image/ClanIconImage03/NewText",
+   "text": "NEW!"
+  },
+  {
+   "location": "220/UI",
+   "narrator": "GachaResultWindow/Panel/Item10Image/ClanIconImage04/NewText",
+   "text": "NEW!"
+  },
+  {
+   "location": "221/UI",
+   "narrator": "GachaResultWindow/Panel/Item10Image/ClanIconImage05/NewText",
+   "text": "NEW!"
+  },
+  {
+   "location": "222/UI",
+   "narrator": "GachaResultWindow/Panel/Item10Image/ClanIconImage06/NewText",
+   "text": "NEW!"
+  },
+  {
+   "location": "223/UI",
+   "narrator": "GachaResultWindow/Panel/Item10Image/ClanIconImage07/NewText",
+   "text": "NEW!"
+  },
+  {
+   "location": "224/UI",
+   "narrator": "GachaResultWindow/Panel/Item10Image/ClanIconImage08/NewText",
+   "text": "NEW!"
+  },
+  {
+   "location": "225/UI",
+   "narrator": "GachaResultWindow/Panel/Item10Image/ClanIconImage09/NewText",
+   "text": "NEW!"
+  },
+  {
+   "location": "226/UI",
+   "narrator": "GachaResultWindow/Panel/Item10Image/ClanIconImage10/NewText",
+   "text": "NEW!"
+  },
+  {
+   "location": "227/UI",
+   "narrator": "GachaResultWindow/Panel/Item10Image/GachaButton/Point/PointWaku/x",
+   "text": "×"
+  },
+  {
+   "location": "228/UI",
+   "narrator": "GachaResultWindow/Panel/Item10Image/TapViewText",
+   "text": "▲ TAP  TO  VIEW ▲"
+  },
+  {
+   "location": "229/UI",
+   "narrator": "GachaResultWindow/Panel/ItemImage/GachaButton/Point/PointWaku/x",
+   "text": "×"
+  },
+  {
+   "location": "230/UI",
+   "narrator": "GachaResultWindow/Panel/ItemImage/Image/NameText",
+   "text": "Clan Name"
+  },
+  {
+   "location": "231/UI",
+   "narrator": "GachaResultWindow/Panel/ItemImage/TapViewText",
+   "text": "▲ TAP  TO  VIEW ▲"
+  },
+  {
+   "location": "232/UI",
+   "narrator": "GachaResultWindow/Panel/NewClanGetButton/HN/InfoText",
+   "text": "S E R V A N T  C U R A N  N A M E"
+  },
+  {
+   "location": "233/UI",
+   "narrator": "GachaResultWindow/Panel/NewClanGetButton/N/InfoText",
+   "text": "S E R V A N T  C U R A N  N A M E"
+  },
+  {
+   "location": "234/UI",
+   "narrator": "GachaResultWindow/Panel/NewClanGetButton/R/InfoText",
+   "text": "S E R V A N T  C U R A N  N A M E"
+  },
+  {
+   "location": "235/UI",
+   "narrator": "GachaResultWindow/Panel/NewClanGetButton/SR/InfoText",
+   "text": "S E R V A N T  C U R A N  N A M E"
+  },
+  {
+   "location": "236/UI",
+   "narrator": "GachaResultWindow/Panel/NewClanGetButton/SSR/InfoText",
+   "text": "S E R V A N T  C U R A N  N A M E"
+  },
+  {
+   "location": "237/UI",
+   "narrator": "GachaResultWindow/Panel/NewClanGetButton/UR/InfoText",
+   "text": "S E R V A N T  C U R A N  N A M E"
+  },
+  {
+   "location": "238/UI",
+   "narrator": "GachaResultWindow/Panel/Processing/Text",
+   "text": "処理中"
+  },
+  {
+   "location": "239/UI",
+   "narrator": "GachaResultWindow/Panel/TopBarImage/Text1",
+   "text": "ガチャ結果",
+   "zh": "抽卡结果",
+   "narrator_zh": "GachaResultWindow/Panel/TopBarImage/Text1"
+  },
+  {
+   "location": "240/UI",
+   "narrator": "GachaResultWindow/Panel/TopBarImage/Text2",
+   "text": "R E S U L T"
+  },
+  {
+   "location": "241/UI",
+   "narrator": "GachaResultWindow/Panel/TouchButton/Text",
+   "text": "Touch!"
+  },
+  {
+   "location": "242/UI",
+   "narrator": "GachaResultWindow/Panel/Tutorial/_C01_TutorialGachaBonus1A/Panel/Message",
+   "text": "「10回引く」では、クランの他に\nトライナリーの衣装が１つ手に入\nるの。\n衣装を手に入れたら「着替え」で\n着てもらえないか頼んでみたら？",
+   "zh": "“抽10次”除了库兰，\n还会得到一件三重奏的\n服装。\n拿到服装后，试着用“换装”\n问问她愿不愿意穿？",
+   "narrator_zh": "GachaResultWindow/Panel/Tutorial/_C01_TutorialGachaBonus1A/Panel/Message"
+  },
+  {
+   "location": "243/UI",
+   "narrator": "GachaResultWindow/Panel/Tutorial/_C01_TutorialGachaBonus1A/Panel/PicArea/LeftButton/TextCancel",
+   "text": "キャンセル",
+   "zh": "取消",
+   "narrator_zh": "GachaResultWindow/Panel/Tutorial/_C01_TutorialGachaBonus1A/Panel/PicArea/LeftButton/TextCancel"
+  },
+  {
+   "location": "244/UI",
+   "narrator": "GachaResultWindow/Panel/Tutorial/_C01_TutorialGachaBonus1A/Panel/PicArea/RightButton/TextOK",
+   "text": "OK"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+    "dir": "chap01/daydra/check_event_cmd_get_bromide.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "102",
+        "cid": "all",
+        "title": "デバッグ用",
+        "sub_title": "ブロマイド取得"
+    },
+    "entry":
+    [
+        { "location": "69/SCENARIO", "narrator": "", "text": "イベント命令チェック：GET_BROMIDE"},
+        { "location": "75/TALK"    , "narrator": "つばめ", "text": "GET_BROMIDE\nのテストを行います"},
+        { "location": "76/TALK"    , "narrator": "つばめ", "text": "GET_BROMIDEで\nつばめのスチル02-01\nを入手します"},
+        { "location": "80/TALK"    , "narrator": "つばめ", "text": "GET_BROMIDEで\nアーヤのスチル03-01\nを入手します"},
+        { "location": "82/TALK"    , "narrator": "つばめ", "text": "GET_BROMIDEで\nガブのスチル04-01\nを入手します"},
+        { "location": "84/TALK"    , "narrator": "つばめ", "text": "GET_BROMIDEで\nみやびのスチル01-01\nを入手します"},
+        { "location": "87/TALK"    , "narrator": "つばめ", "text": "イベント終了後、\n正常に獲得できてるか\n確認してください"},
+        { "location": "88/TALK"    , "narrator": "つばめ", "text": "テストを終了します"}
+    ]
+}

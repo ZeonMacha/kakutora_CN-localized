@@ -1,0 +1,488 @@
+{
+  "scenario_files": 2960,
+  "scenario_parse_fail": 0,
+  "scenario_lines": 231652,
+  "scenario_by_cmd": {
+    "SCENARIO": 6453,
+    "TALK": 171318,
+    "THINK": 659,
+    "STAY": 89104,
+    "SEL": 31123,
+    "ACT": 30750,
+    "END": 23340,
+    "WAIT": 72571,
+    "SET_BG": 4907,
+    "SET_BUC": 3077,
+    "STAGE_OPEN": 1909,
+    "PLAY": 20184,
+    "DIALOG": 4971,
+    "FO": 3654,
+    "CALL": 14244,
+    "EQUIP": 4000,
+    "BG": 993,
+    "FI": 2966,
+    "SET_PARAM": 12608,
+    "IF": 10547,
+    "ENDIF": 10550,
+    "JUMP": 4615,
+    "TAG": 3255,
+    "QUAKE": 1288,
+    "ELSEIF": 13390,
+    "ELSE": 6964,
+    "STOP": 1721,
+    "SYSTEM": 232,
+    "MEMOUT": 2539,
+    "MEMLOAD": 340,
+    "CHAT_OPEN": 2417,
+    "SET_CONTRAST": 391,
+    "MOVE_CHARA": 1215,
+    "CHAT_CLOSE": 4523,
+    "CHAT_INIT": 1809,
+    "TEXTMODE": 855,
+    "TOUCH": 235,
+    "RAND": 18301,
+    "TOUCHSEL": 1020,
+    "SET_FOCUS": 3034,
+    "SET_STILL": 468,
+    "STILL": 157,
+    "APPLY": 1193,
+    "ADD_PARAM": 377,
+    "MOVE_CAMERA": 2726,
+    "SET_VOL": 1048,
+    "WATCHANIME": 356,
+    "ADD_LOVE2": 2866,
+    "OUT": 254,
+    "SELCOS": 10,
+    "SELCOSSEL": 380,
+    "SELITEM": 5,
+    "SELITEMSEL": 69,
+    "EXEC": 3,
+    "BATTLE": 1
+  },
+  "scenario_extracted_by_cmd": {
+    "SCENARIO": 2066,
+    "TALK": 168195,
+    "SEL": 30747,
+    "ACT": 30644
+  },
+  "masterdata_rows": 39804,
+  "masterdata_jp_fields": [
+    {
+      "table": "Kakutora/Masterdata/Scenario/Scenario.json",
+      "field": "scenario_name",
+      "count": 5079
+    },
+    {
+      "table": "Kakutora/Masterdata/Scenario/SelectionCommand.json",
+      "field": "param1",
+      "count": 4116
+    },
+    {
+      "table": "Kakutora/Masterdata/Battle/BattleEventReward.json",
+      "field": "name",
+      "count": 2095
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/MainStory.json",
+      "field": "title",
+      "count": 1857
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/MainStory.json",
+      "field": "sub_title",
+      "count": 1814
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/MainStory.json",
+      "field": "condition",
+      "count": 1796
+    },
+    {
+      "table": "Kakutora/Masterdata/Lovers/Love2Reward.json",
+      "field": "mail_title",
+      "count": 1562
+    },
+    {
+      "table": "Kakutora/Masterdata/Lovers/Love2Reward.json",
+      "field": "mail_description",
+      "count": 1562
+    },
+    {
+      "table": "Kakutora/Masterdata/Lovers/Love2Reward.json",
+      "field": "text",
+      "count": 1560
+    },
+    {
+      "table": "Kakutora/Masterdata/Battle/BattleReward.json",
+      "field": "reward_name",
+      "count": 1517
+    },
+    {
+      "table": "Kakutora/Masterdata/Battle/Enemy.json",
+      "field": "name",
+      "count": 1412
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/MainStory.json",
+      "field": "mail_description",
+      "count": 1313
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/MainStory.json",
+      "field": "mail_title",
+      "count": 1295
+    },
+    {
+      "table": "Kakutora/Masterdata/Battle/Battle.json",
+      "field": "name",
+      "count": 1012
+    },
+    {
+      "table": "Kakutora/Masterdata/Clan/Clan.json",
+      "field": "name",
+      "count": 957
+    },
+    {
+      "table": "Kakutora/Masterdata/Clan/Clan.json",
+      "field": "short_name",
+      "count": 949
+    },
+    {
+      "table": "Kakutora/Masterdata/Clan/StanceType.json",
+      "field": "name",
+      "count": 852
+    },
+    {
+      "table": "Kakutora/Masterdata/Clan/Skill.json",
+      "field": "description",
+      "count": 815
+    },
+    {
+      "table": "Kakutora/Masterdata/Clan/Skill.json",
+      "field": "name",
+      "count": 798
+    },
+    {
+      "table": "Kakutora/Masterdata/Clan/ClanBoost.json",
+      "field": "boostName",
+      "count": 658
+    },
+    {
+      "table": "Kakutora/Masterdata/Item/Item.json",
+      "field": "description",
+      "count": 622
+    },
+    {
+      "table": "Kakutora/Masterdata/Item/Item.json",
+      "field": "commentary",
+      "count": 622
+    },
+    {
+      "table": "Kakutora/Masterdata/Item/Item.json",
+      "field": "name",
+      "count": 617
+    },
+    {
+      "table": "Kakutora/Masterdata/Clan/ClanBoost.json",
+      "field": "kindDescription",
+      "count": 548
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/EventQuest.json",
+      "field": "sub_title",
+      "count": 523
+    },
+    {
+      "table": "Kakutora/Masterdata/Costume/Costume.json",
+      "field": "name",
+      "count": 516
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/EventQuest.json",
+      "field": "title",
+      "count": 486
+    },
+    {
+      "table": "Kakutora/Masterdata/Lovers/Love2Reward.json",
+      "field": "title",
+      "count": 467
+    },
+    {
+      "table": "Kakutora/Masterdata/Loginbonus/Reward.json",
+      "field": "mail_title",
+      "count": 433
+    },
+    {
+      "table": "Kakutora/Masterdata/Loginbonus/Reward.json",
+      "field": "mail_description",
+      "count": 433
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/Episode.json",
+      "field": "title",
+      "count": 413
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/Episode.json",
+      "field": "mail_description",
+      "count": 413
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/Episode.json",
+      "field": "mail_title",
+      "count": 413
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/Episode.json",
+      "field": "condition",
+      "count": 413
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/Episode.json",
+      "field": "sub_title",
+      "count": 411
+    },
+    {
+      "table": "Kakutora/Masterdata/Costume/Tpo.json",
+      "field": "message",
+      "count": 385
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/EventQuest.json",
+      "field": "condition",
+      "count": 340
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/EventQuest.json",
+      "field": "mail_description",
+      "count": 269
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/EventQuest.json",
+      "field": "mail_title",
+      "count": 269
+    },
+    {
+      "table": "Kakutora/Masterdata/Ranking/SpecialBattleRankingReward.json",
+      "field": "name",
+      "count": 222
+    },
+    {
+      "table": "Kakutora/Masterdata/Clan/ClanBoostChapter.json",
+      "field": "name",
+      "count": 151
+    },
+    {
+      "table": "Kakutora/Masterdata/Character/Character.json",
+      "field": "name",
+      "count": 149
+    },
+    {
+      "table": "Kakutora/Masterdata/Character/Character.json",
+      "field": "fullname",
+      "count": 148
+    },
+    {
+      "table": "Kakutora/Masterdata/Gacha/RandomGachaDropTable.json",
+      "field": "name",
+      "count": 144
+    },
+    {
+      "table": "Kakutora/Masterdata/Scenario/LoadingDetail.json",
+      "field": "character",
+      "count": 133
+    },
+    {
+      "table": "Kakutora/Masterdata/Scenario/LoadingDetail.json",
+      "field": "tips",
+      "count": 120
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/StoryRoot.json",
+      "field": "story_name",
+      "count": 120
+    },
+    {
+      "table": "Kakutora/Masterdata/Gacha/Gacha.json",
+      "field": "name",
+      "count": 101
+    },
+    {
+      "table": "Kakutora/Masterdata/Gacha/Gacha.json",
+      "field": "title",
+      "count": 101
+    },
+    {
+      "table": "Kakutora/Masterdata/Gacha/Gacha.json",
+      "field": "description",
+      "count": 101
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/Special.json",
+      "field": "title",
+      "count": 87
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/Special.json",
+      "field": "sub_title",
+      "count": 87
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/Special.json",
+      "field": "mail_description",
+      "count": 87
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/Special.json",
+      "field": "mail_title",
+      "count": 87
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/Special.json",
+      "field": "condition",
+      "count": 86
+    },
+    {
+      "table": "Kakutora/Masterdata/Scenario/BackgroundName.json",
+      "field": "display_name",
+      "count": 82
+    },
+    {
+      "table": "Kakutora/Masterdata/Clan/ClanBoost.json",
+      "field": "description",
+      "count": 42
+    },
+    {
+      "table": "Kakutora/Masterdata/Scenario/Chapter.json",
+      "field": "name",
+      "count": 41
+    },
+    {
+      "table": "Kakutora/Masterdata/Mission/MissionCondition.json",
+      "field": "name",
+      "count": 39
+    },
+    {
+      "table": "Kakutora/Masterdata/Clan/EvolutionItem.json",
+      "field": "name",
+      "count": 30
+    },
+    {
+      "table": "Kakutora/Masterdata/Mission/Mission.json",
+      "field": "description",
+      "count": 24
+    },
+    {
+      "table": "Kakutora/Masterdata/Battle/SpecialBattle.json",
+      "field": "name",
+      "count": 23
+    },
+    {
+      "table": "Kakutora/Masterdata/Item/Item.json",
+      "field": "param2",
+      "count": 20
+    },
+    {
+      "table": "Kakutora/Masterdata/Loginbonus/Loginbonus.json",
+      "field": "name",
+      "count": 20
+    },
+    {
+      "table": "Kakutora/Masterdata/Battle/BattleAreaTypeData.json",
+      "field": "name",
+      "count": 12
+    },
+    {
+      "table": "Kakutora/Masterdata/Clan/Skill.json",
+      "field": "tag",
+      "count": 12
+    },
+    {
+      "table": "Kakutora/Masterdata/Candy/Candy.json",
+      "field": "name",
+      "count": 8
+    },
+    {
+      "table": "Masterdata/Enemy/Enemy.json",
+      "field": "name",
+      "count": 5
+    },
+    {
+      "table": "Masterdata/Enemy/Enemy.json",
+      "field": "short_name",
+      "count": 5
+    },
+    {
+      "table": "Kakutora/Masterdata/Character/Character.json",
+      "field": "skill",
+      "count": 5
+    },
+    {
+      "table": "Kakutora/Masterdata/Character/Character.json",
+      "field": "other",
+      "count": 5
+    },
+    {
+      "table": "Kakutora/Masterdata/Character/Character.json",
+      "field": "birthday",
+      "count": 5
+    },
+    {
+      "table": "Kakutora/Masterdata/Character/Character.json",
+      "field": "hobby",
+      "count": 5
+    },
+    {
+      "table": "Kakutora/Masterdata/Mission/MissionCategory.json",
+      "field": "name",
+      "count": 4
+    },
+    {
+      "table": "Masterdata/Test/Test.json",
+      "field": "name",
+      "count": 3
+    },
+    {
+      "table": "Kakutora/Masterdata/Item/GachaTicket.json",
+      "field": "name",
+      "count": 3
+    },
+    {
+      "table": "Kakutora/Masterdata/Loginbonus_type/LoginBonusType.json",
+      "field": "name",
+      "count": 3
+    },
+    {
+      "table": "Kakutora/Masterdata/Scenario/SelectionCommand.json",
+      "field": "param3",
+      "count": 3
+    },
+    {
+      "table": "Kakutora/Masterdata/Clan/ComposeSuccessTable.json",
+      "field": "name",
+      "count": 2
+    },
+    {
+      "table": "Kakutora/Masterdata/Gacha/BoxGachaBox.json",
+      "field": "name",
+      "count": 1
+    },
+    {
+      "table": "Kakutora/Masterdata/Scenario/LoadingDetail.json",
+      "field": "picture",
+      "count": 1
+    },
+    {
+      "table": "Kakutora/Masterdata/Scenario/SelectionCommand.json",
+      "field": "tag1",
+      "count": 1
+    },
+    {
+      "table": "Kakutora/Masterdata/Story/StoryRoot.json",
+      "field": "color",
+      "count": 1
+    }
+  ],
+  "unique_scenario_source": 126198,
+  "unique_master_source": 17820
+}

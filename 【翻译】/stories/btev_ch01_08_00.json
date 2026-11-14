@@ -1,0 +1,938 @@
+{
+ "dir": "chap08/battle/btev_ch01_08_00.js",
+ "type": "",
+ "info": {
+  "story_id": "21013",
+  "cid": "",
+  "title": "013 ココロスフィアストーリー【Lv05】",
+  "sub_title": "どきがむねむねする＜提起＞",
+  "title_zh": "013 心灵领域故事【Lv05】",
+  "sub_title_zh": "心口怦怦跳＜提起＞"
+ },
+ "entry": [
+  {
+   "location": "7/SCENARIO",
+   "narrator": "",
+   "text": "どきがむねむねする理由",
+   "zh": "心口怦怦跳的理由",
+   "narrator_zh": ""
+  },
+  {
+   "location": "13/DIALOG",
+   "narrator": "",
+   "text": "<size=40>KOKORO-Lv. 05</size>\nTSUBAME - OHSE\n\n<size=40>どきがむねむねする</size>\n<size=35>～それは何かヘンですね～</size>",
+   "zh": "<size=40>KOKORO-Lv. 05</size>\n逢濑燕\n\n<size=40>心口怦怦跳</size>\n<size=35>～总觉得有点怪呢～</size>",
+   "narrator_zh": ""
+  },
+  {
+   "location": "29/TALK",
+   "narrator": "神楽",
+   "text": "はあっ！\nもう、つばめさんったら\n本当に可愛いですね！",
+   "zh": "哈啊！\n真是的，燕也\n太可爱了！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "31/TALK",
+   "narrator": "つばめ",
+   "text": "えーっ、\nそんなことないよぅ。",
+   "zh": "诶——，\n才没有呀。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "32/TALK",
+   "narrator": "つばめ",
+   "text": "卯月さんの方が\n全然かわいいし。",
+   "zh": "卯月才\n可爱得多。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "35/TALK",
+   "narrator": "神楽",
+   "text": "そんな謙遜しちゃう\nところも、とっても\nキュートですっ！",
+   "zh": "会这么谦虚的地方，\n也非常\n可爱！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "37/TALK",
+   "narrator": "神楽",
+   "text": "でもそんなに\n可愛いことばかり\n言ってると――",
+   "zh": "可是你要是一直\n说这么可爱的话\n——",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "40/TALK",
+   "narrator": "神楽",
+   "text": "また色んなトコ\n揉んじゃいますよっ？",
+   "zh": "我又要揉\n你各种地方了哦？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "41/SEL",
+   "narrator": "（選択肢）",
+   "text": "じーっ",
+   "zh": "盯——",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "42/SEL",
+   "narrator": "（選択肢）",
+   "text": "ガタッ！",
+   "zh": "哐当！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "43/ACT",
+   "narrator": "",
+   "text": "じーっ",
+   "zh": "盯——",
+   "narrator_zh": ""
+  },
+  {
+   "location": "44/TALK",
+   "narrator": "つばめ",
+   "text": "ええええっ！！\nこ、今度は\nどこなのかなぁ～…っ",
+   "zh": "诶诶诶诶！！\n这、这次\n是哪里呀～……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "46/TALK",
+   "narrator": "神楽",
+   "text": "…？",
+   "zh": "……？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "49/TALK",
+   "narrator": "神楽",
+   "text": "つばめさん、\nあの人は誰ですか？",
+   "zh": "燕，\n那个人是谁？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "51/TALK",
+   "narrator": "つばめ",
+   "text": "えっ？",
+   "zh": "诶？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "52/ACT",
+   "narrator": "",
+   "text": "ガタッ！",
+   "zh": "哐当！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "56/TALK",
+   "narrator": "神楽",
+   "text": "キャッ！",
+   "zh": "呀！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "58/TALK",
+   "narrator": "つばめ",
+   "text": "えっ！？",
+   "zh": "诶！？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "61/TALK",
+   "narrator": "神楽",
+   "text": "つ、つばめさん！\nこの人誰ですかっ？",
+   "zh": "燕、燕！\n这个人是谁？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "62/TALK",
+   "narrator": "つばめ",
+   "text": "あっ、え、ええと…",
+   "zh": "啊，呃，那个……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "63/SEL",
+   "narrator": "（選択肢）",
+   "text": "照れずに紹介してよ",
+   "zh": "别害羞，介绍一下呀",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "64/SEL",
+   "narrator": "（選択肢）",
+   "text": "$handle$です(ｷﾘｯ",
+   "zh": "我是$handle$(ｷﾘｯ",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "65/ACT",
+   "narrator": "",
+   "text": "照れずに紹介してよ",
+   "zh": "别害羞，介绍一下呀",
+   "narrator_zh": ""
+  },
+  {
+   "location": "67/TALK",
+   "narrator": "つばめ",
+   "text": "べ、別に照れてる\nわけじゃないよ！",
+   "zh": "我、我才没有\n在害羞！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "69/TALK",
+   "narrator": "つばめ",
+   "text": "この人は\n$handle$さんだよ。",
+   "zh": "这个人是\n$handle$。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "71/TALK",
+   "narrator": "神楽",
+   "text": "なんだ、つばめさんの\n知り合いなんですね。",
+   "zh": "原来是燕的\n熟人呀。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "72/ACT",
+   "narrator": "",
+   "text": "$handle$です(ｷﾘｯ",
+   "zh": "我是$handle$(ｷﾘｯ",
+   "narrator_zh": ""
+  },
+  {
+   "location": "73/TALK",
+   "narrator": "神楽",
+   "text": "………。",
+   "zh": "………。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "75/TALK",
+   "narrator": "神楽",
+   "text": "つばめさんの\n知り合いですか？",
+   "zh": "是燕的\n熟人吗？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "77/TALK",
+   "narrator": "つばめ",
+   "text": "えっ？\nあ、うん。そうだよ？",
+   "zh": "诶？\n啊，嗯。是呀？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "78/TALK",
+   "narrator": "神楽",
+   "text": "ふーん……\nつばめさんって案外…",
+   "zh": "哼——……\n燕意外地……",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "80/TALK",
+   "narrator": "つばめ",
+   "text": "え？",
+   "zh": "诶？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "81/TALK",
+   "narrator": "神楽",
+   "text": "いえ、\nなんでもありません。",
+   "zh": "不，\n没什么。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "83/TALK",
+   "narrator": "神楽",
+   "text": "それより、どうして急に\n$handle$さんを\n呼んだんですか？",
+   "zh": "比起这个，为什么突然\n把$handle$\n叫来了？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "84/TALK",
+   "narrator": "つばめ",
+   "text": "いや、\n私が呼んだわけじゃ…",
+   "zh": "不，\n不是我叫来的……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "85/TALK",
+   "narrator": "神楽",
+   "text": "ああっ！\nわかりましたっ！\nつばめさん……",
+   "zh": "啊啊！\n我明白了！\n燕……",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "89/TALK",
+   "narrator": "神楽",
+   "text": "人に見られながら\n色々されちゃうのが\nいいんですねっ！",
+   "zh": "原来你喜欢\n被人看着\n做各种事呀！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "92/TALK",
+   "narrator": "つばめ",
+   "text": "ち、ちがうよ～～！",
+   "zh": "不、不是的～～！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "93/TALK",
+   "narrator": "神楽",
+   "text": "照れなくても\nいいんですよっ！",
+   "zh": "不用害羞\n也没关系呀！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "94/SEL",
+   "narrator": "（選択肢）",
+   "text": "あ、あのー……",
+   "zh": "啊，那个……",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "95/SEL",
+   "narrator": "（選択肢）",
+   "text": "$me$も混ぜて！",
+   "zh": "把$me$也算上！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "96/SEL",
+   "narrator": "（選択肢）",
+   "text": "$me$という者がありながらなんてことを！",
+   "zh": "有$me$在，你还做这种事！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "97/ACT",
+   "narrator": "",
+   "text": "あ、あのー……",
+   "zh": "啊，那个……",
+   "narrator_zh": ""
+  },
+  {
+   "location": "99/TALK",
+   "narrator": "神楽",
+   "text": "あっ！\nごめんなさい！",
+   "zh": "啊！\n对不起！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "101/TALK",
+   "narrator": "神楽",
+   "text": "つばめさん、\n$handle$さんも\n混ざりたいみたいです！",
+   "zh": "燕，\n$handle$\n好像也想加入！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "103/TALK",
+   "narrator": "神楽",
+   "text": "せっかくですから、\n３人で\n楽しみましょうっ！",
+   "zh": "难得这样，\n我们三个\n一起享受吧！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "106/TALK",
+   "narrator": "つばめ",
+   "text": "えっ？",
+   "zh": "诶？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "107/SEL",
+   "narrator": "（選択肢）",
+   "text": "あ、いや…",
+   "zh": "啊，不是……",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "108/ACT",
+   "narrator": "",
+   "text": "あ、いや…",
+   "zh": "啊，不是……",
+   "narrator_zh": ""
+  },
+  {
+   "location": "113/TALK",
+   "narrator": "つばめ",
+   "text": "う、うん。\n全然いいけど……",
+   "zh": "嗯、嗯。\n完全可以……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "114/ACT",
+   "narrator": "",
+   "text": "$me$も混ぜて！",
+   "zh": "把$me$也算上！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "116/TALK",
+   "narrator": "神楽",
+   "text": "もちろんですっ！",
+   "zh": "当然可以！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "118/TALK",
+   "narrator": "神楽",
+   "text": "ね、つばめさん？\n３人で楽しみましょう！",
+   "zh": "对吧，燕？\n我们三个一起享受吧！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "120/TALK",
+   "narrator": "つばめ",
+   "text": "え？\nあ、うん……いいよ？",
+   "zh": "诶？\n啊，嗯……可以呀？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "121/SEL",
+   "narrator": "（選択肢）",
+   "text": "えっ！？ほんと？",
+   "zh": "诶！？真的？",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "122/ACT",
+   "narrator": "",
+   "text": "えっ！？ほんと？",
+   "zh": "诶！？真的？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "124/ACT",
+   "narrator": "",
+   "text": "$me$という者がありながらなんてことを！",
+   "zh": "有$me$在，你还做这种事！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "126/TALK",
+   "narrator": "神楽",
+   "text": "きゃー！\nそういう関係だったん\nですねっ！",
+   "zh": "呀——！\n原来是这种\n关系呀！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "128/TALK",
+   "narrator": "神楽",
+   "text": "なら、３人で\n楽しみましょうっ！",
+   "zh": "那就三个一起\n享受吧！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "130/TALK",
+   "narrator": "つばめ",
+   "text": "え……えええっ！？",
+   "zh": "诶……诶诶诶！？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "131/TALK",
+   "narrator": "つばめ",
+   "text": "ま、まあ、いいけど…",
+   "zh": "也、也好，可以是可以……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "132/SEL",
+   "narrator": "（選択肢）",
+   "text": "えっ！？本気？",
+   "zh": "诶！？认真的？",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "133/ACT",
+   "narrator": "",
+   "text": "えっ！？本気？",
+   "zh": "诶！？认真的？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "137/TALK",
+   "narrator": "神楽",
+   "text": "流石つばめさんですっ！",
+   "zh": "不愧是燕！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "138/TALK",
+   "narrator": "潜在つばめ",
+   "text": "ちょっと待って！！",
+   "zh": "等一下！！",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "142/TALK",
+   "narrator": "神楽",
+   "text": "あらっ！",
+   "zh": "哎呀！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "144/TALK",
+   "narrator": "つばめ",
+   "text": "わ、わたし！？",
+   "zh": "我、我！？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "145/TALK",
+   "narrator": "潜在つばめ",
+   "text": "ちょっと、そこの\nわたしと卯月さん！\n二人ともどうかしてる！",
+   "zh": "喂，那边的\n我和卯月！\n你们两个都不正常！",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "146/SEL",
+   "narrator": "（選択肢）",
+   "text": "ですよねー",
+   "zh": "就是说呀——",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "147/SEL",
+   "narrator": "（選択肢）",
+   "text": "そんなことないよ！",
+   "zh": "才没有！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "148/ACT",
+   "narrator": "",
+   "text": "ですよねー",
+   "zh": "就是说呀——",
+   "narrator_zh": ""
+  },
+  {
+   "location": "149/ACT",
+   "narrator": "",
+   "text": "そんなことないよ！",
+   "zh": "才没有！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "152/TALK",
+   "narrator": "潜在つばめ",
+   "text": "$handle$さんは\n黙ってて！",
+   "zh": "$handle$\n你安静！",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "154/TALK",
+   "narrator": "神楽",
+   "text": "あっ…と、私ちょっと\nお花を摘みに\n行ってきますね！",
+   "zh": "啊……那个，我稍微\n去摘朵花\n就回来！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "159/TALK",
+   "narrator": "潜在つばめ",
+   "text": "さて。そこのわたし！\n一体何を考えてるの？",
+   "zh": "好了。那边的我！\n你到底在想什么？",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "161/TALK",
+   "narrator": "つばめ",
+   "text": "ええっ？\nな、何かおかしなこと\n言ったかなぁ？",
+   "zh": "诶诶？\n我、我说了什么\n奇怪的话吗？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "162/TALK",
+   "narrator": "潜在つばめ",
+   "text": "３人で楽しみましょう\nなんて、卯月さんが\n言うわけないじゃん！",
+   "zh": "“我们三个一起享受”\n这种话，卯月\n才不会说！",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "163/TALK",
+   "narrator": "潜在つばめ",
+   "text": "あなたの勝手な妄想で\nわたしのイメージを\n汚すのはやめて！",
+   "zh": "别用你随便的妄想\n弄脏我的\n形象！",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "164/TALK",
+   "narrator": "つばめ",
+   "text": "汚してないよ！",
+   "zh": "我没有弄脏！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "166/TALK",
+   "narrator": "潜在つばめ",
+   "text": "そんなことない。\n$handle$さんも\nそう思うよね？",
+   "zh": "才不是。\n$handle$\n也这么想吧？",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "167/SEL",
+   "narrator": "（選択肢）",
+   "text": "イエス！つばめがイチャイチャすべきは$me$！",
+   "zh": "Yes！燕该腻歪的对象是$me$！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "168/SEL",
+   "narrator": "（選択肢）",
+   "text": "いえ、３人の方が楽しいですよ？",
+   "zh": "不，三个人更开心呀？",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "169/ACT",
+   "narrator": "",
+   "text": "イエス！つばめがイチャイチャすべきは$me$！",
+   "zh": "Yes！燕该腻歪的对象是$me$！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "170/TALK",
+   "narrator": "潜在つばめ",
+   "text": "それも違うよ。",
+   "zh": "那也不对。",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "171/ACT",
+   "narrator": "",
+   "text": "３人の方が楽しいですよ？",
+   "zh": "不，三个人更开心呀？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "172/TALK",
+   "narrator": "潜在つばめ",
+   "text": "いいえ！",
+   "zh": "不对！",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "176/TALK",
+   "narrator": "潜在つばめ",
+   "text": "わたしがイチャコラ\nすべきなのは、\n卯月さんだけだよ！",
+   "zh": "我该腻歪的，\n只有\n卯月一个人！",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "177/SEL",
+   "narrator": "（選択肢）",
+   "text": "そっちですか！！",
+   "zh": "是那边吗！！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "178/ACT",
+   "narrator": "",
+   "text": "そっちですか！！",
+   "zh": "是那边吗！！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "181/TALK",
+   "narrator": "潜在つばめ",
+   "text": "卯月さんはすごく\n一途な子だよ。",
+   "zh": "卯月是个\n非常专一的孩子。",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "182/TALK",
+   "narrator": "潜在つばめ",
+   "text": "だから、わたし以外の\n人とイチャコラしたいと\n思ったりなんてしない！",
+   "zh": "所以，她不会想\n和我以外的人\n腻歪！",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "183/TALK",
+   "narrator": "つばめ",
+   "text": "そんなことないよ！\nだって卯月さんは\n東京の子なんだよ？",
+   "zh": "才没有！\n因为卯月\n是东京的孩子呀？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "184/TALK",
+   "narrator": "つばめ",
+   "text": "もっとずっと\n開放的なはずだよ！",
+   "zh": "应该要\n开放得多！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "188/TALK",
+   "narrator": "潜在つばめ",
+   "text": "$handle$さんは\nどっちの味方なの？",
+   "zh": "$handle$\n站哪一边？",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "189/SEL",
+   "narrator": "（選択肢）",
+   "text": "３人で楽しむのに賛成",
+   "zh": "赞成三个人一起享受",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "190/SEL",
+   "narrator": "（選択肢）",
+   "text": "２人のイチャコラを見ていたい",
+   "zh": "想看你们两个腻歪",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "191/SEL",
+   "narrator": "（選択肢）",
+   "text": "どうやら$me$は要らない子のようなので去る",
+   "zh": "看来$me$是多余的，所以我走了",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "192/ACT",
+   "narrator": "",
+   "text": "３人で楽しむのに賛成",
+   "zh": "赞成三个人一起享受",
+   "narrator_zh": ""
+  },
+  {
+   "location": "195/TALK",
+   "narrator": "つばめ",
+   "text": "やっぱり\nそう思うよね！",
+   "zh": "果然\n你也这么想！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "197/TALK",
+   "narrator": "潜在つばめ",
+   "text": "$handle$さんに\n理解してもらえない\nなんて残念だよ。",
+   "zh": "得不到$handle$的\n理解，\n真遗憾。",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "199/TALK",
+   "narrator": "潜在つばめ",
+   "text": "なら、そこのダメな\nわたしと一緒に\n追い出すまで！",
+   "zh": "那就和那边没用的\n我一起，\n直到把你赶出去！",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "201/TALK",
+   "narrator": "つばめ",
+   "text": "させないよ！",
+   "zh": "我不会让你这么做！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "204/TALK",
+   "narrator": "つばめ",
+   "text": "$handle$さん！\n一緒にこのわたしを\n追い出そう！",
+   "zh": "$handle$！\n一起把这个我\n赶出去！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "207/TALK",
+   "narrator": "つばめ",
+   "text": "そしたらその後は\n３人でイチャイチャ\nタイムだよ！",
+   "zh": "然后之后\n就是三个人的\n腻歪时间！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "226/DIALOG",
+   "narrator": "",
+   "text": "<color=black><size=50><b>神楽としかイチャイチャしない\nつばめを倒せ！</b></size></color>\n\n\n\n彼女の中での神楽像は\nとても一途で純粋のようだ。\n\nしかしそれだと、神楽も交えての\n3人のお楽しみタイムが\n無くなってしまう！\n\nそれどころか、貴方とつばめとの\n関係まで冷えこんでしまうかも！？\nそうなる前に、さっさと倒してしまおう！",
+   "zh": "<color=black><size=50><b>打倒只和神乐腻歪的\n燕！</b></size></color>\n\n\n\n在她心里的神乐形象\n似乎非常专一、纯粹。\n\n可是那样的话，把神乐也算上的\n三个人的开心时间\n就没有了！\n\n甚至你和燕的\n关系也许都会冷下来！？\n在变成那样之前，赶快打倒她！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "228/ACT",
+   "narrator": "",
+   "text": "２人のイチャコラを見ていたい",
+   "zh": "想看你们两个腻歪",
+   "narrator_zh": ""
+  },
+  {
+   "location": "231/TALK",
+   "narrator": "潜在つばめ",
+   "text": "共感してくれて\n嬉しいよ。",
+   "zh": "你能同感，\n我很高兴。",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "233/TALK",
+   "narrator": "つばめ",
+   "text": "酷いっ！　もういいよ！\n$handle$さんは\nここから出ていって！",
+   "zh": "太过分了！　够了！\n$handle$\n从这里出去！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "235/TALK",
+   "narrator": "潜在つばめ",
+   "text": "出ていくのは\nあなたの方だよ！",
+   "zh": "该出去的\n是你！",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "237/TALK",
+   "narrator": "潜在つばめ",
+   "text": "$handle$さん！\nお願い。この子を追い\n出す力を貸して！",
+   "zh": "$handle$！\n拜托。把赶这个孩子\n出去的力量借给我！",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "239/TALK",
+   "narrator": "つばめ",
+   "text": "させないよ！",
+   "zh": "我不会让你这么做！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "258/DIALOG",
+   "narrator": "",
+   "text": "<color=black><size=50><b>3人でイチャイチャしようとする\nつばめを倒せ！</b></size></color>\n\n\n彼女の中での神楽像は\nとても開放的なようだ。\nしかしそれは、\nつばめの想い描く虚像に過ぎない。\n\n何より、貴方が期待する\nつばめと神楽のシチュエーションが\n水の泡となってしまう！\n\n3人で楽しみたいというつばめを倒し、\nふたりきりの花園を存分に堪能せよ！",
+   "zh": "<color=black><size=50><b>打倒想三个人一起腻歪的\n燕！</b></size></color>\n\n\n在她心里的神乐形象\n似乎非常开放。\n可是那不过是\n燕想象出来的虚像。\n\n最重要的是，你期待的\n燕和神乐的情境\n会化为泡影！\n\n打倒想三个人一起享受的燕，\n尽情享受只属于两个人的花园吧！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "260/ACT",
+   "narrator": "",
+   "text": "どうやら$me$は要らない子のようなので去る",
+   "zh": "看来$me$是多余的，所以我走了",
+   "narrator_zh": ""
+  },
+  {
+   "location": "262/TALK",
+   "narrator": "潜在つばめ",
+   "text": "え？",
+   "zh": "诶？",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "265/TALK",
+   "narrator": "つばめ",
+   "text": "そ、そんなつもりは\nないんだけど…",
+   "zh": "我、我不是\n那个意思……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "267/TALK",
+   "narrator": "潜在つばめ",
+   "text": "でも仕方ないよ。\n$handle$さんが\nいたくないなら。",
+   "zh": "可是没办法。\n如果$handle$\n不想待在这里。",
+   "narrator_zh": "潜在燕"
+  },
+  {
+   "location": "269/TALK",
+   "narrator": "つばめ",
+   "text": "わたしたちだけで\n決着をつけるしか\nないよね。",
+   "zh": "只能我们自己\n来分出\n胜负了呀。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "282/TALK",
+   "narrator": "千羽鶴",
+   "text": "お早いお帰りね。",
+   "zh": "回来得真快。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "283/SEL",
+   "narrator": "（選択肢）",
+   "text": "$me$はのけ者にされた",
+   "zh": "$me$被排除在外了",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "284/ACT",
+   "narrator": "",
+   "text": "$me$はのけ者にされた",
+   "zh": "$me$被排除在外了",
+   "narrator_zh": ""
+  },
+  {
+   "location": "286/TALK",
+   "narrator": "千羽鶴",
+   "text": "あらそう。\nよしよし。",
+   "zh": "是吗。\n好了好了。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "287/TALK",
+   "narrator": "千羽鶴",
+   "text": "$handle$は\nプライドが高いのね。",
+   "zh": "$handle$\n自尊心挺高的。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "288/SEL",
+   "narrator": "（選択肢）",
+   "text": "つばめは$me$より神楽がいいみたいだし",
+   "zh": "燕好像比起$me$更喜欢神乐",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "289/ACT",
+   "narrator": "",
+   "text": "つばめは$me$より神楽がいいみたいだし",
+   "zh": "燕好像比起$me$更喜欢神乐",
+   "narrator_zh": ""
+  },
+  {
+   "location": "291/TALK",
+   "narrator": "千羽鶴",
+   "text": "ふむふむ、なるほど。\n確かにそうとも\nとれるかもしれない。",
+   "zh": "嗯嗯，原来如此。\n确实也许\n可以这么理解。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "292/TALK",
+   "narrator": "千羽鶴",
+   "text": "そんな$handle$に\n私から１つだけ\nアドバイス。",
+   "zh": "对这样的$handle$，\n我只给\n一句建议。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "293/TALK",
+   "narrator": "千羽鶴",
+   "text": "精神世界で起こっている\n事象はその殆どが\n極端な比喩で現れる。",
+   "zh": "精神世界里发生的事，\n绝大多数会以\n极端的比喻出现。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "294/TALK",
+   "narrator": "千羽鶴",
+   "text": "それはココロの何かを\n表現してはいるけど、\nそれ自体の事ではない。",
+   "zh": "它确实在表现\n心里的什么，\n但不是那件事本身。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "295/TALK",
+   "narrator": "千羽鶴",
+   "text": "その奥にある真意を\n見つけ出してこそ、\n本当の彼女に出逢える。",
+   "zh": "找到那背后的真意，\n才能遇见\n真正的她。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "296/TALK",
+   "narrator": "千羽鶴",
+   "text": "まずは達観して、\n彼女の全てを受け入れて\nみるのもいいかも。",
+   "zh": "先试着达观一点，\n接受她的全部，\n也许也不错。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "298/TALK",
+   "narrator": "千羽鶴",
+   "text": "そのあたりを気にして\nもう一度挑戦してみて。",
+   "zh": "把这一点放在心上，\n再挑战一次看看。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "300/TALK",
+   "narrator": "千羽鶴",
+   "text": "それじゃ、\nいってらっしゃい。",
+   "zh": "那么，\n去吧。",
+   "narrator_zh": "千羽鹤"
+  }
+ ]
+}

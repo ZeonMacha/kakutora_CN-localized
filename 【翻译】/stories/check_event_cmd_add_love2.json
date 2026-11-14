@@ -1,0 +1,84 @@
+{
+ "dir": "chap01/daydra/check_event_cmd_add_love2.js",
+ "type": "MainStory",
+ "info": {
+  "story_id": "100",
+  "cid": "all",
+  "title": "デバッグ用",
+  "sub_title": "好感度",
+  "title_zh": "调试用",
+  "sub_title_zh": "好感度"
+ },
+ "entry": [
+  {
+   "location": "7/SCENARIO",
+   "narrator": "",
+   "text": "イベント命令チェック：ADD_LOVE2",
+   "zh": "事件指令检查：ADD_LOVE2",
+   "narrator_zh": ""
+  },
+  {
+   "location": "13/TALK",
+   "narrator": "つばめ",
+   "text": "ADD_LOVE2\nのテストを行います",
+   "zh": "进行ADD_LOVE2\n的测试",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "14/TALK",
+   "narrator": "つばめ",
+   "text": "つばめの親密度を7500\n上げてみます。",
+   "zh": "试着把燕的亲密度\n加上7500。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "16/TALK",
+   "narrator": "つばめ",
+   "text": "さらにonceで\n40上げてみます。\n※2回目以降上昇なし",
+   "zh": "再用once\n加40。\n※第二次起不再增加",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "18/TALK",
+   "narrator": "つばめ",
+   "text": "今度はつばめではなく、\nアーヤ、ガブ、みやび\nの親密度上げてみます",
+   "zh": "这次不升燕，\n升绫水、加布和雅\n的亲密度",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "19/TALK",
+   "narrator": "つばめ",
+   "text": "アーヤを上げます",
+   "zh": "提升绫水",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "21/TALK",
+   "narrator": "つばめ",
+   "text": "ガブを上げます",
+   "zh": "提升加布",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "23/TALK",
+   "narrator": "つばめ",
+   "text": "みやびを上げます",
+   "zh": "提升雅",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "25/TALK",
+   "narrator": "つばめ",
+   "text": "最後に全員の親密度を\n7500ずつ「連続」で\n上昇させてみます",
+   "zh": "最后把每个人的亲密度\n用“连续”\n各加7500",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "30/TALK",
+   "narrator": "つばめ",
+   "text": "テストを終了します",
+   "zh": "测试结束。",
+   "narrator_zh": "燕"
+  }
+ ]
+}

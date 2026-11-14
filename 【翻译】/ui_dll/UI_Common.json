@@ -1,0 +1,1659 @@
+{
+ "dir": "UI_Common",
+ "type": "ui_dll",
+ "info": {},
+ "entry": [
+  {
+   "location": "2/DLL",
+   "narrator": "",
+   "text": "あり得ないレスポンスコード：",
+   "zh": "不可能的响应代码：",
+   "narrator_zh": ""
+  },
+  {
+   "location": "4/DLL",
+   "narrator": "",
+   "text": "のssr_atkフレーバーテキストが異常です",
+   "zh": "的ssr_atk风味文本异常",
+   "narrator_zh": ""
+  },
+  {
+   "location": "5/DLL",
+   "narrator": "",
+   "text": "playDamageAnimation({0},{1},{2}) がIsRequestedAnimationEndでタイムアウトしました",
+   "zh": "playDamageAnimation({0},{1},{2}) 在IsRequestedAnimationEnd超时",
+   "narrator_zh": ""
+  },
+  {
+   "location": "117/DLL",
+   "narrator": "",
+   "text": "BGM {0} は存在しません。",
+   "zh": "BGM {0} 不存在。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "118/DLL",
+   "narrator": "",
+   "text": "#ファイル「",
+   "zh": "#文件“",
+   "narrator_zh": ""
+  },
+  {
+   "location": "119/DLL",
+   "narrator": "",
+   "text": "」が無いので読み直し",
+   "zh": "”不存在，因此重新读取",
+   "narrator_zh": ""
+  },
+  {
+   "location": "121/DLL",
+   "narrator": "",
+   "text": "ガスト",
+   "zh": "GUST",
+   "narrator_zh": ""
+  },
+  {
+   "location": "123/DLL",
+   "narrator": "",
+   "text": "GameServer.busyWait: タイムアウトしました",
+   "zh": "GameServer.busyWait: 已超时",
+   "narrator_zh": ""
+  },
+  {
+   "location": "124/DLL",
+   "narrator": "",
+   "text": "バックアップが完了しました",
+   "zh": "备份已完成",
+   "narrator_zh": ""
+  },
+  {
+   "location": "126/DLL",
+   "narrator": "",
+   "text": "SE {0} は存在しません。",
+   "zh": "SE {0} 不存在。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "130/DLL",
+   "narrator": "",
+   "text": "要素数が0",
+   "zh": "元素数量为0",
+   "narrator_zh": ""
+  },
+  {
+   "location": "131/DLL",
+   "narrator": "",
+   "text": "重みの合計が0",
+   "zh": "权重合计为0",
+   "narrator_zh": ""
+  },
+  {
+   "location": "132/DLL",
+   "narrator": "",
+   "text": "ここに来たらバグ",
+   "zh": "执行到这里就是bug",
+   "narrator_zh": ""
+  },
+  {
+   "location": "133/DLL",
+   "narrator": "",
+   "text": "VOICE {0} は存在しません。",
+   "zh": "VOICE {0} 不存在。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "134/DLL",
+   "narrator": "",
+   "text": "キャッシュされていないファイルをLoadFileFromCacheで読みだそうとしました。",
+   "zh": "试图用LoadFileFromCache读取未被缓存的文件。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "137/DLL",
+   "narrator": "",
+   "text": "CRC情報が見つかりません:",
+   "zh": "未找到CRC信息:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "138/DLL",
+   "narrator": "",
+   "text": "既にオブジェクトがロードされている : ",
+   "zh": "对象已被加载 : ",
+   "narrator_zh": ""
+  },
+  {
+   "location": "139/DLL",
+   "narrator": "",
+   "text": "読み込み完了済み",
+   "zh": "已读取完成",
+   "narrator_zh": ""
+  },
+  {
+   "location": "140/DLL",
+   "narrator": "",
+   "text": "のダウンロードがタイムアウトしました。:",
+   "zh": "的下载已超时。:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "141/DLL",
+   "narrator": "",
+   "text": "ロード終了",
+   "zh": "加载结束",
+   "narrator_zh": ""
+  },
+  {
+   "location": "142/DLL",
+   "narrator": "",
+   "text": "アイコン消去",
+   "zh": "清除图标",
+   "narrator_zh": ""
+  },
+  {
+   "location": "143/DLL",
+   "narrator": "",
+   "text": "エラーチェック",
+   "zh": "错误检查",
+   "narrator_zh": ""
+  },
+  {
+   "location": "144/DLL",
+   "narrator": "",
+   "text": "のダウンロードに失敗しました。",
+   "zh": "的下载失败。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "145/DLL",
+   "narrator": "",
+   "text": "のダウンロードがエラーです。",
+   "zh": "的下载出错。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "146/DLL",
+   "narrator": "",
+   "text": "はアセットバンドルとして登録されていません。",
+   "zh": "未登记为AssetBundle。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "147/DLL",
+   "narrator": "",
+   "text": "がアセットバンドルとして登録されていません。:",
+   "zh": "未登记为AssetBundle。:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "148/DLL",
+   "narrator": "",
+   "text": "の読み込み完了",
+   "zh": "的读取完成",
+   "narrator_zh": ""
+  },
+  {
+   "location": "149/DLL",
+   "narrator": "",
+   "text": "AssetBundleManager.AsyncLoadFileFromServerでasstBundleがnullです:",
+   "zh": "AssetBundleManager.AsyncLoadFileFromServer中asstBundle为null:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "155/DLL",
+   "narrator": "",
+   "text": "喜のココロキャンディ",
+   "zh": "喜的心之糖果",
+   "narrator_zh": ""
+  },
+  {
+   "location": "156/DLL",
+   "narrator": "",
+   "text": "怒のココロキャンディ",
+   "zh": "怒的心之糖果",
+   "narrator_zh": ""
+  },
+  {
+   "location": "157/DLL",
+   "narrator": "",
+   "text": "楽のココロキャンディ",
+   "zh": "乐的心之糖果",
+   "narrator_zh": ""
+  },
+  {
+   "location": "158/DLL",
+   "narrator": "",
+   "text": "哀のココロキャンディ",
+   "zh": "哀的心之糖果",
+   "narrator_zh": ""
+  },
+  {
+   "location": "159/DLL",
+   "narrator": "",
+   "text": "歓喜のココロキャンディ",
+   "zh": "欢喜的心之糖果",
+   "narrator_zh": ""
+  },
+  {
+   "location": "160/DLL",
+   "narrator": "",
+   "text": "憤怒のココロキャンディ",
+   "zh": "愤怒的心之糖果",
+   "narrator_zh": ""
+  },
+  {
+   "location": "161/DLL",
+   "narrator": "",
+   "text": "快楽のココロキャンディ",
+   "zh": "快乐的心之糖果",
+   "narrator_zh": ""
+  },
+  {
+   "location": "162/DLL",
+   "narrator": "",
+   "text": "悲哀のココロキャンディ",
+   "zh": "悲哀的心之糖果",
+   "narrator_zh": ""
+  },
+  {
+   "location": "163/DLL",
+   "narrator": "",
+   "text": "クラン:{0} のFlavorテキストがありません",
+   "zh": "库兰:{0} 没有Flavor文本",
+   "narrator_zh": ""
+  },
+  {
+   "location": "164/DLL",
+   "narrator": "",
+   "text": "私",
+   "zh": "我",
+   "narrator_zh": ""
+  },
+  {
+   "location": "165/DLL",
+   "narrator": "",
+   "text": "はキャラクター名にありません",
+   "zh": "不在角色名中",
+   "narrator_zh": ""
+  },
+  {
+   "location": "167/DLL",
+   "narrator": "",
+   "text": "CRC全一致です",
+   "zh": "CRC全部一致",
+   "narrator_zh": ""
+  },
+  {
+   "location": "168/DLL",
+   "narrator": "",
+   "text": "AssetBundleCrc.jsonがありません",
+   "zh": "AssetBundleCrc.json不存在",
+   "narrator_zh": ""
+  },
+  {
+   "location": "170/DLL",
+   "narrator": "",
+   "text": " のロードに失敗しました",
+   "zh": " 的加载失败",
+   "narrator_zh": ""
+  },
+  {
+   "location": "171/DLL",
+   "narrator": "",
+   "text": "Character.GetByCid: {0}はCharacter名ではありません",
+   "zh": "Character.GetByCid: {0}不是Character名",
+   "narrator_zh": ""
+  },
+  {
+   "location": "173/DLL",
+   "narrator": "",
+   "text": "SetCurrentChapterに失敗しました",
+   "zh": "SetCurrentChapter失败",
+   "narrator_zh": ""
+  },
+  {
+   "location": "175/DLL",
+   "narrator": "",
+   "text": "{0}:{1}のコスチュームが見つかりません。",
+   "zh": "未找到{0}:{1}的服装。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "177/DLL",
+   "narrator": "",
+   "text": "は所持していません",
+   "zh": "未持有",
+   "narrator_zh": ""
+  },
+  {
+   "location": "178/DLL",
+   "narrator": "",
+   "text": "デフォルト日時のため、今日を保存してリセットはしない",
+   "zh": "因为是默认日期时间，保存今天，不进行重置",
+   "narrator_zh": ""
+  },
+  {
+   "location": "179/DLL",
+   "narrator": "",
+   "text": "----- 報酬リセット {0}:{1}-----",
+   "zh": "----- 奖励重置 {0}:{1}-----",
+   "narrator_zh": ""
+  },
+  {
+   "location": "180/DLL",
+   "narrator": "",
+   "text": "リセット報酬ID：{0}",
+   "zh": "重置奖励ID：{0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "181/DLL",
+   "narrator": "",
+   "text": "----- 報酬リセット 失敗-----",
+   "zh": "----- 奖励重置 失败-----",
+   "narrator_zh": ""
+  },
+  {
+   "location": "182/DLL",
+   "narrator": "",
+   "text": "----- 報酬リセット End-----",
+   "zh": "----- 奖励重置 End-----",
+   "narrator_zh": ""
+  },
+  {
+   "location": "183/DLL",
+   "narrator": "",
+   "text": "すでにリセット済み",
+   "zh": "已经重置",
+   "narrator_zh": ""
+  },
+  {
+   "location": "184/DLL",
+   "narrator": "",
+   "text": "まだ未クリアなのでリセットなし",
+   "zh": "尚未通关，因此不重置",
+   "narrator_zh": ""
+  },
+  {
+   "location": "185/DLL",
+   "narrator": "",
+   "text": "_---------------------------------setValueProc-増える:{0}, {1}",
+   "zh": "_---------------------------------setValueProc-增加:{0}, {1}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "186/DLL",
+   "narrator": "",
+   "text": "_---------------------------------setValueProc-減る:{0}, {1}",
+   "zh": "_---------------------------------setValueProc-减少:{0}, {1}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "187/DLL",
+   "narrator": "",
+   "text": "バトル報酬のシナリオIDが未定義です",
+   "zh": "战斗奖励的剧本ID未定义",
+   "narrator_zh": ""
+  },
+  {
+   "location": "196/DLL",
+   "narrator": "",
+   "text": "【アイテム】",
+   "zh": "【道具】",
+   "narrator_zh": ""
+  },
+  {
+   "location": "197/DLL",
+   "narrator": "",
+   "text": "【トークイベント】",
+   "zh": "【对话事件】",
+   "narrator_zh": ""
+  },
+  {
+   "location": "198/DLL",
+   "narrator": "",
+   "text": "【タッチ回数】",
+   "zh": "【触摸次数】",
+   "narrator_zh": ""
+  },
+  {
+   "location": "199/DLL",
+   "narrator": "",
+   "text": "【ヒメゴトカメラ】",
+   "zh": "【秘语相机】",
+   "narrator_zh": ""
+  },
+  {
+   "location": "200/DLL",
+   "narrator": "",
+   "text": "【コスチューム】",
+   "zh": "【服装】",
+   "narrator_zh": ""
+  },
+  {
+   "location": "201/DLL",
+   "narrator": "",
+   "text": "【進化素材】",
+   "zh": "【进化素材】",
+   "narrator_zh": ""
+  },
+  {
+   "location": "202/DLL",
+   "narrator": "",
+   "text": "【プレイヤーコメント集】",
+   "zh": "【玩家评论集】",
+   "narrator_zh": ""
+  },
+  {
+   "location": "203/DLL",
+   "narrator": "",
+   "text": "【ボイスメール/秘密文書】",
+   "zh": "【语音信箱/秘密文书】",
+   "narrator_zh": ""
+  },
+  {
+   "location": "204/DLL",
+   "narrator": "",
+   "text": "【引換券】",
+   "zh": "【兑换券】",
+   "narrator_zh": ""
+  },
+  {
+   "location": "205/DLL",
+   "narrator": "",
+   "text": "ジュエル",
+   "zh": "宝石",
+   "narrator_zh": ""
+  },
+  {
+   "location": "206/DLL",
+   "narrator": "",
+   "text": "ヒメゴト",
+   "zh": "秘语",
+   "narrator_zh": ""
+  },
+  {
+   "location": "207/DLL",
+   "narrator": "",
+   "text": "デイドラ",
+   "zh": "每日剧场",
+   "narrator_zh": ""
+  },
+  {
+   "location": "208/DLL",
+   "narrator": "",
+   "text": "コイン",
+   "zh": "金币",
+   "narrator_zh": ""
+  },
+  {
+   "location": "209/DLL",
+   "narrator": "",
+   "text": "イベントポイント",
+   "zh": "活动点数",
+   "narrator_zh": ""
+  },
+  {
+   "location": "210/DLL",
+   "narrator": "",
+   "text": "クランポイント",
+   "zh": "库兰点数",
+   "narrator_zh": ""
+  },
+  {
+   "location": "211/DLL",
+   "narrator": "",
+   "text": "プレイヤー経験値",
+   "zh": "玩家经验值",
+   "narrator_zh": ""
+  },
+  {
+   "location": "212/DLL",
+   "narrator": "",
+   "text": "報酬用画像がありません",
+   "zh": "没有奖励用图片",
+   "narrator_zh": ""
+  },
+  {
+   "location": "217/DLL",
+   "narrator": "",
+   "text": "の取得に失敗。",
+   "zh": "的获取失败。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "218/DLL",
+   "narrator": "",
+   "text": "のパーティクルシステムが取得できませんでした。",
+   "zh": "的粒子系统无法获取。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "219/DLL",
+   "narrator": "",
+   "text": "スキルエフェクト再生エラー:",
+   "zh": "技能特效播放错误:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "220/DLL",
+   "narrator": "",
+   "text": "スキルエフェクトが再生されませんでした。",
+   "zh": "技能特效未能播放。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "221/DLL",
+   "narrator": "",
+   "text": ":transformがnullです",
+   "zh": ":transform为null",
+   "narrator_zh": ""
+  },
+  {
+   "location": "222/DLL",
+   "narrator": "",
+   "text": ":Textコンポーネントがありません",
+   "zh": ":没有Text组件",
+   "narrator_zh": ""
+  },
+  {
+   "location": "223/DLL",
+   "narrator": "",
+   "text": "InfoWindow/CuranFlow/CuranPanel/Curan1 が見つかりません",
+   "zh": "未找到 InfoWindow/CuranFlow/CuranPanel/Curan1",
+   "narrator_zh": ""
+  },
+  {
+   "location": "224/DLL",
+   "narrator": "",
+   "text": "限界突破！",
+   "zh": "极限突破！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "225/DLL",
+   "narrator": "",
+   "text": "キャラクター：{0}",
+   "zh": "角色：{0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "226/DLL",
+   "narrator": "",
+   "text": "-ミッション：{0}",
+   "zh": "-任务：{0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "227/DLL",
+   "narrator": "",
+   "text": "クランブースト解消状態　100%:{0}, Total:{1}",
+   "zh": "库兰加成解除状态　100%:{0}, Total:{1}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "228/DLL",
+   "narrator": "",
+   "text": "Boostデータがありません。cid:{0}, chap:{1}, sp:{2}",
+   "zh": "没有Boost数据。cid:{0}, chap:{1}, sp:{2}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "229/DLL",
+   "narrator": "",
+   "text": "------------------  全体の数：{0}, 新着:{1}",
+   "zh": "------------------  总数：{0}, 新到达:{1}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "231/DLL",
+   "narrator": "",
+   "text": "### 所持したことがある:",
+   "zh": "### 曾经持有:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "232/DLL",
+   "narrator": "",
+   "text": "### クランパネル（中身はファンファーレ済クラン）:",
+   "zh": "### 库兰面板（内容是已播放登场演出的库兰）:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "233/DLL",
+   "narrator": "",
+   "text": "### NEWクラン:",
+   "zh": "### NEW库兰:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "235/DLL",
+   "narrator": "",
+   "text": "日目",
+   "zh": "天",
+   "narrator_zh": ""
+  },
+  {
+   "location": "236/DLL",
+   "narrator": "",
+   "text": "yyyy年MM月dd日 HH時mm分",
+   "zh": "yyyy年MM月dd日 HH时mm分",
+   "narrator_zh": ""
+  },
+  {
+   "location": "237/DLL",
+   "narrator": "",
+   "text": "親密度アップボーナス",
+   "zh": "亲密度提升奖励",
+   "narrator_zh": ""
+  },
+  {
+   "location": "238/DLL",
+   "narrator": "",
+   "text": "親密度がアップした時にゲットした報酬です。",
+   "zh": "亲密度提升时获得的奖励。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "239/DLL",
+   "narrator": "",
+   "text": "所持枠を超えているため受け取れませんでした",
+   "zh": "因超过持有上限，未能领取",
+   "narrator_zh": ""
+  },
+  {
+   "location": "240/DLL",
+   "narrator": "",
+   "text": "個",
+   "zh": "个",
+   "narrator_zh": ""
+  },
+  {
+   "location": "241/DLL",
+   "narrator": "",
+   "text": "体",
+   "zh": "体",
+   "narrator_zh": ""
+  },
+  {
+   "location": "242/DLL",
+   "narrator": "",
+   "text": "着",
+   "zh": "件",
+   "narrator_zh": ""
+  },
+  {
+   "location": "243/DLL",
+   "narrator": "",
+   "text": "枚",
+   "zh": "张",
+   "narrator_zh": ""
+  },
+  {
+   "location": "244/DLL",
+   "narrator": "",
+   "text": "持っていません",
+   "zh": "未持有",
+   "narrator_zh": ""
+  },
+  {
+   "location": "245/DLL",
+   "narrator": "",
+   "text": "コスチューム引換券",
+   "zh": "服装兑换券",
+   "narrator_zh": ""
+  },
+  {
+   "location": "246/DLL",
+   "narrator": "",
+   "text": "通信エラー:バナーの取得に失敗",
+   "zh": "通信错误:横幅获取失败",
+   "narrator_zh": ""
+  },
+  {
+   "location": "247/DLL",
+   "narrator": "",
+   "text": "拡張少女系トライナリー新着運営情報",
+   "zh": "扩张少女系三重奏新运营信息",
+   "narrator_zh": ""
+  },
+  {
+   "location": "251/DLL",
+   "narrator": "",
+   "text": "クラン{0}のアイコンがありません",
+   "zh": "没有库兰{0}的图标",
+   "narrator_zh": ""
+  },
+  {
+   "location": "252/DLL",
+   "narrator": "",
+   "text": "スキルアイコンファイルがありません：{0}",
+   "zh": "没有技能图标文件：{0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "253/DLL",
+   "narrator": "",
+   "text": "スキルアイコン:{0}がありません",
+   "zh": "技能图标:{0}不存在",
+   "narrator_zh": ""
+  },
+  {
+   "location": "254/DLL",
+   "narrator": "",
+   "text": "ガチャチケット",
+   "zh": "扭蛋券",
+   "narrator_zh": ""
+  },
+  {
+   "location": "255/DLL",
+   "narrator": "",
+   "text": "ミッション{0}",
+   "zh": "任务{0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "256/DLL",
+   "narrator": "",
+   "text": "ミッション報酬受け取り失敗:{0}",
+   "zh": "任务奖励领取失败:{0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "288/DLL",
+   "narrator": "",
+   "text": "SceneBehaviourがありません",
+   "zh": "SceneBehaviour不存在",
+   "narrator_zh": ""
+  },
+  {
+   "location": "289/DLL",
+   "narrator": "",
+   "text": "GetLayeredTransform : {0}が見つかりません",
+   "zh": "GetLayeredTransform : 未找到{0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "290/DLL",
+   "narrator": "",
+   "text": "サウンドタグ[",
+   "zh": "音效标签[",
+   "narrator_zh": ""
+  },
+  {
+   "location": "291/DLL",
+   "narrator": "",
+   "text": "]は未定義です",
+   "zh": "]未定义",
+   "narrator_zh": ""
+  },
+  {
+   "location": "294/DLL",
+   "narrator": "",
+   "text": "APIサーバーを ",
+   "zh": "将API服务器设为 ",
+   "narrator_zh": ""
+  },
+  {
+   "location": "297/DLL",
+   "narrator": "",
+   "text": "この名前は使用できません。",
+   "zh": "无法使用此名称。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "303/DLL",
+   "narrator": "",
+   "text": "接続エラー（接続サーバー:{0}, Code:{1}",
+   "zh": "连接错误（连接服务器:{0}, Code:{1}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "309/DLL",
+   "narrator": "",
+   "text": "終了",
+   "zh": "结束",
+   "narrator_zh": ""
+  },
+  {
+   "location": "311/DLL",
+   "narrator": "",
+   "text": "確認",
+   "zh": "确认",
+   "narrator_zh": ""
+  },
+  {
+   "location": "312/DLL",
+   "narrator": "",
+   "text": "スキルを選択してください",
+   "zh": "请选择技能",
+   "narrator_zh": ""
+  },
+  {
+   "location": "313/DLL",
+   "narrator": "",
+   "text": "敵登場セリフ{0}が未定義",
+   "zh": "敌人登场台词{0}未定义",
+   "narrator_zh": ""
+  },
+  {
+   "location": "314/DLL",
+   "narrator": "",
+   "text": "敵断末魔セリフ{0}が未定義",
+   "zh": "敌人临终台词{0}未定义",
+   "narrator_zh": ""
+  },
+  {
+   "location": "315/DLL",
+   "narrator": "",
+   "text": "Heal {0}%ダウン",
+   "zh": "治疗 {0}%下降",
+   "narrator_zh": ""
+  },
+  {
+   "location": "317/DLL",
+   "narrator": "",
+   "text": " のSEが登録されていません",
+   "zh": " 的SE未登记",
+   "narrator_zh": ""
+  },
+  {
+   "location": "321/DLL",
+   "narrator": "",
+   "text": "無効なスキル:",
+   "zh": "无效的技能:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "322/DLL",
+   "narrator": "",
+   "text": "該当するバトルがありません。chara:{0} battleId:{1}",
+   "zh": "没有对应的战斗。chara:{0} battleId:{1}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "323/DLL",
+   "narrator": "",
+   "text": "パッシブスキルによるイベントボーナス＝",
+   "zh": "被动技能带来的活动奖励＝",
+   "narrator_zh": ""
+  },
+  {
+   "location": "324/DLL",
+   "narrator": "",
+   "text": "パッシブスキルによるドロップボーナス＝",
+   "zh": "被动技能带来的掉落奖励＝",
+   "narrator_zh": ""
+  },
+  {
+   "location": "325/DLL",
+   "narrator": "",
+   "text": "ボスを{0}ターン以内に倒す",
+   "zh": "在{0}回合内击败BOSS",
+   "narrator_zh": ""
+  },
+  {
+   "location": "326/DLL",
+   "narrator": "",
+   "text": "任意のチェインを{0}回発動させる",
+   "zh": "发动任意连携{0}次",
+   "narrator_zh": ""
+  },
+  {
+   "location": "327/DLL",
+   "narrator": "",
+   "text": "1発のダメージ値が{0}以上になる",
+   "zh": "单次伤害值达到{0}以上",
+   "narrator_zh": ""
+  },
+  {
+   "location": "328/DLL",
+   "narrator": "",
+   "text": "キズナフィニッシュのダメージが {0}以上になる",
+   "zh": "羁绊终结的伤害达到 {0}以上",
+   "narrator_zh": ""
+  },
+  {
+   "location": "329/DLL",
+   "narrator": "",
+   "text": "アタック/ヒール/エナジーいずれかの4チェインを{0}回成立させる",
+   "zh": "使攻击/治疗/能量任一4连携成立{0}次",
+   "narrator_zh": ""
+  },
+  {
+   "location": "330/DLL",
+   "narrator": "",
+   "text": "未使用{0}",
+   "zh": "未使用{0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "331/DLL",
+   "narrator": "",
+   "text": "スピード撃破ボーナス",
+   "zh": "速攻击破奖励",
+   "narrator_zh": ""
+  },
+  {
+   "location": "332/DLL",
+   "narrator": "",
+   "text": "チェインボーナス",
+   "zh": "连携奖励",
+   "narrator_zh": ""
+  },
+  {
+   "location": "333/DLL",
+   "narrator": "",
+   "text": "ハードパンチャー",
+   "zh": "重拳手",
+   "narrator_zh": ""
+  },
+  {
+   "location": "334/DLL",
+   "narrator": "",
+   "text": "キズナダメージボーナス",
+   "zh": "羁绊伤害奖励",
+   "narrator_zh": ""
+  },
+  {
+   "location": "335/DLL",
+   "narrator": "",
+   "text": "チェインマスタリーボーナス",
+   "zh": "连携精通奖励",
+   "narrator_zh": ""
+  },
+  {
+   "location": "336/DLL",
+   "narrator": "",
+   "text": "未使用",
+   "zh": "未使用",
+   "narrator_zh": ""
+  },
+  {
+   "location": "338/DLL",
+   "narrator": "",
+   "text": "BattleFinishedは実行中です",
+   "zh": "BattleFinished正在执行",
+   "narrator_zh": ""
+  },
+  {
+   "location": "341/DLL",
+   "narrator": "",
+   "text": "敵紹介文:{0}が未定義です",
+   "zh": "敌人介绍:{0}未定义",
+   "narrator_zh": ""
+  },
+  {
+   "location": "477/DLL",
+   "narrator": "",
+   "text": "Battle/BattleProduction/Serif/FleverText の読み込みに失敗しました",
+   "zh": "Battle/BattleProduction/Serif/FleverText 读取失败",
+   "narrator_zh": ""
+  },
+  {
+   "location": "478/DLL",
+   "narrator": "",
+   "text": "TypefaceAnimatorがLoop設定のため終了タイミングが取れません。",
+   "zh": "TypefaceAnimator设为Loop，无法取得结束时机。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "479/DLL",
+   "narrator": "",
+   "text": "_mini が見つかりません",
+   "zh": "未找到 _mini",
+   "narrator_zh": ""
+  },
+  {
+   "location": "480/DLL",
+   "narrator": "",
+   "text": "シナリオが付与されていないのに、バトル報酬にシナリオが設定されていた",
+   "zh": "并未赋予剧本，战斗奖励中却设置了剧本",
+   "narrator_zh": ""
+  },
+  {
+   "location": "481/DLL",
+   "narrator": "",
+   "text": "は報酬用画像がありません",
+   "zh": "没有奖励用图片",
+   "narrator_zh": ""
+  },
+  {
+   "location": "482/DLL",
+   "narrator": "",
+   "text": "newexp:{0}が異常ですexp:{1}",
+   "zh": "newexp:{0}异常exp:{1}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "494/DLL",
+   "narrator": "",
+   "text": "表層",
+   "zh": "表层",
+   "narrator_zh": ""
+  },
+  {
+   "location": "495/DLL",
+   "narrator": "",
+   "text": "深層",
+   "zh": "深层",
+   "narrator_zh": ""
+  },
+  {
+   "location": "496/DLL",
+   "narrator": "",
+   "text": "初級",
+   "zh": "初级",
+   "narrator_zh": ""
+  },
+  {
+   "location": "497/DLL",
+   "narrator": "",
+   "text": "中級",
+   "zh": "中级",
+   "narrator_zh": ""
+  },
+  {
+   "location": "498/DLL",
+   "narrator": "",
+   "text": "上級",
+   "zh": "高级",
+   "narrator_zh": ""
+  },
+  {
+   "location": "499/DLL",
+   "narrator": "",
+   "text": "月曜限定",
+   "zh": "周一限定",
+   "narrator_zh": ""
+  },
+  {
+   "location": "500/DLL",
+   "narrator": "",
+   "text": "火曜限定",
+   "zh": "周二限定",
+   "narrator_zh": ""
+  },
+  {
+   "location": "501/DLL",
+   "narrator": "",
+   "text": "水曜限定",
+   "zh": "周三限定",
+   "narrator_zh": ""
+  },
+  {
+   "location": "502/DLL",
+   "narrator": "",
+   "text": "木曜限定",
+   "zh": "周四限定",
+   "narrator_zh": ""
+  },
+  {
+   "location": "503/DLL",
+   "narrator": "",
+   "text": "金曜限定",
+   "zh": "周五限定",
+   "narrator_zh": ""
+  },
+  {
+   "location": "504/DLL",
+   "narrator": "",
+   "text": "土曜限定",
+   "zh": "周六限定",
+   "narrator_zh": ""
+  },
+  {
+   "location": "505/DLL",
+   "narrator": "",
+   "text": "日曜限定",
+   "zh": "周日限定",
+   "narrator_zh": ""
+  },
+  {
+   "location": "506/DLL",
+   "narrator": "",
+   "text": "{0}バトル ACT: {1}",
+   "zh": "{0}战斗 ACT: {1}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "507/DLL",
+   "narrator": "",
+   "text": "期間限定イベントバトル ACT: {0}",
+   "zh": "限时活动战斗 ACT: {0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "509/DLL",
+   "narrator": "",
+   "text": "バトル概要",
+   "zh": "战斗概要",
+   "narrator_zh": ""
+  },
+  {
+   "location": "510/DLL",
+   "narrator": "",
+   "text": "ClanMenuWindow.OnCloseWindowが2回呼ばれた",
+   "zh": "ClanMenuWindow.OnCloseWindow被调用了2次",
+   "narrator_zh": ""
+  },
+  {
+   "location": "513/DLL",
+   "narrator": "",
+   "text": "ACTが回復しました。",
+   "zh": "ACT已恢复。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "518/DLL",
+   "narrator": "",
+   "text": "全てのビギナーミッションをクリアで獲得！",
+   "zh": "清除全部新手任务即可获得！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "519/DLL",
+   "narrator": "",
+   "text": "全てのデイリーミッションをクリアで獲得！",
+   "zh": "清除全部每日任务即可获得！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "520/DLL",
+   "narrator": "",
+   "text": "全てのウィークリーミッションをクリアで獲得！",
+   "zh": "清除全部每周任务即可获得！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "521/DLL",
+   "narrator": "",
+   "text": "全てのノーマルミッションをクリアで獲得！",
+   "zh": "清除全部普通任务即可获得！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "522/DLL",
+   "narrator": "",
+   "text": "期限を超えたため報酬を受け取ることができませんでした",
+   "zh": "已超过期限，无法领取奖励",
+   "narrator_zh": ""
+  },
+  {
+   "location": "523/DLL",
+   "narrator": "",
+   "text": "バカンス",
+   "zh": "度假",
+   "narrator_zh": ""
+  },
+  {
+   "location": "524/DLL",
+   "narrator": "",
+   "text": "１ヶ月以上前",
+   "zh": "一个月以上前",
+   "narrator_zh": ""
+  },
+  {
+   "location": "525/DLL",
+   "narrator": "",
+   "text": "1時間以内",
+   "zh": "1小时以内",
+   "narrator_zh": ""
+  },
+  {
+   "location": "529/DLL",
+   "narrator": "",
+   "text": "通信エラー",
+   "zh": "通信错误",
+   "narrator_zh": ""
+  },
+  {
+   "location": "533/DLL",
+   "narrator": "",
+   "text": "再生中...",
+   "zh": "播放中...",
+   "narrator_zh": ""
+  },
+  {
+   "location": "534/DLL",
+   "narrator": "",
+   "text": "再生終了",
+   "zh": "播放结束",
+   "narrator_zh": ""
+  },
+  {
+   "location": "596/DLL",
+   "narrator": "",
+   "text": "入手が古い",
+   "zh": "入手较早",
+   "narrator_zh": ""
+  },
+  {
+   "location": "597/DLL",
+   "narrator": "",
+   "text": "入手が新しい",
+   "zh": "入手较新",
+   "narrator_zh": ""
+  },
+  {
+   "location": "598/DLL",
+   "narrator": "",
+   "text": "攻撃力が高い",
+   "zh": "攻击力高",
+   "narrator_zh": ""
+  },
+  {
+   "location": "599/DLL",
+   "narrator": "",
+   "text": "守備力が高い",
+   "zh": "防御力高",
+   "narrator_zh": ""
+  },
+  {
+   "location": "600/DLL",
+   "narrator": "",
+   "text": "敏捷性が高い",
+   "zh": "敏捷高",
+   "narrator_zh": ""
+  },
+  {
+   "location": "601/DLL",
+   "narrator": "",
+   "text": "回復量が多い",
+   "zh": "恢复量多",
+   "narrator_zh": ""
+  },
+  {
+   "location": "602/DLL",
+   "narrator": "",
+   "text": "HPが高い",
+   "zh": "HP高",
+   "narrator_zh": ""
+  },
+  {
+   "location": "603/DLL",
+   "narrator": "",
+   "text": "エナジーが高い",
+   "zh": "能量高",
+   "narrator_zh": ""
+  },
+  {
+   "location": "604/DLL",
+   "narrator": "",
+   "text": "LVが高い",
+   "zh": "LV高",
+   "narrator_zh": ""
+  },
+  {
+   "location": "605/DLL",
+   "narrator": "",
+   "text": "LVが低い",
+   "zh": "LV低",
+   "narrator_zh": ""
+  },
+  {
+   "location": "606/DLL",
+   "narrator": "",
+   "text": "レアリティが高い",
+   "zh": "稀有度高",
+   "narrator_zh": ""
+  },
+  {
+   "location": "607/DLL",
+   "narrator": "",
+   "text": "レアリティが低い",
+   "zh": "稀有度低",
+   "narrator_zh": ""
+  },
+  {
+   "location": "608/DLL",
+   "narrator": "",
+   "text": "ID昇順",
+   "zh": "ID升序",
+   "narrator_zh": ""
+  },
+  {
+   "location": "609/DLL",
+   "narrator": "",
+   "text": "ID降順",
+   "zh": "ID降序",
+   "narrator_zh": ""
+  },
+  {
+   "location": "610/DLL",
+   "narrator": "",
+   "text": "限界突破回数",
+   "zh": "极限突破次数",
+   "narrator_zh": ""
+  },
+  {
+   "location": "612/DLL",
+   "narrator": "",
+   "text": "シークレットイベント",
+   "zh": "隐藏活动",
+   "narrator_zh": ""
+  },
+  {
+   "location": "613/DLL",
+   "narrator": "",
+   "text": "シナリオ:{0}が見つかりません",
+   "zh": "未找到剧本:{0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "683/DLL",
+   "narrator": "",
+   "text": "Tooltipボタンが押された!",
+   "zh": "Tooltip按钮被按下!",
+   "narrator_zh": ""
+  },
+  {
+   "location": "684/DLL",
+   "narrator": "",
+   "text": "プレゼントボックス",
+   "zh": "礼物盒",
+   "narrator_zh": ""
+  },
+  {
+   "location": "685/DLL",
+   "narrator": "",
+   "text": "Kakutora.Api.Net.Mail.Receiveにしっぱい",
+   "zh": "Kakutora.Api.Net.Mail.Receive失败",
+   "narrator_zh": ""
+  },
+  {
+   "location": "686/DLL",
+   "narrator": "",
+   "text": "所持枠を超えているため受け取れないプレゼントがありました",
+   "zh": "有礼物因超过持有上限而无法领取",
+   "narrator_zh": ""
+  },
+  {
+   "location": "688/DLL",
+   "narrator": "",
+   "text": "シナリオコンバーターテスト",
+   "zh": "剧本转换器测试",
+   "narrator_zh": ""
+  },
+  {
+   "location": "689/DLL",
+   "narrator": "",
+   "text": "デバッグメニュー",
+   "zh": "调试菜单",
+   "narrator_zh": ""
+  },
+  {
+   "location": "690/DLL",
+   "narrator": "",
+   "text": "セーブデータクリア",
+   "zh": "清除存档",
+   "narrator_zh": ""
+  },
+  {
+   "location": "692/DLL",
+   "narrator": "",
+   "text": "拡張少女系トライナリー利用規約表示",
+   "zh": "扩张少女系三重奏使用条款显示",
+   "narrator_zh": ""
+  },
+  {
+   "location": "693/DLL",
+   "narrator": "",
+   "text": "拡張少女系トライナリースタッフクレジット",
+   "zh": "扩张少女系三重奏工作人员名单",
+   "narrator_zh": ""
+  },
+  {
+   "location": "694/DLL",
+   "narrator": "",
+   "text": "ヘルプ・サポート",
+   "zh": "帮助·支持",
+   "narrator_zh": ""
+  },
+  {
+   "location": "695/DLL",
+   "narrator": "",
+   "text": "{0}分{1}秒",
+   "zh": "{0}分{1}秒",
+   "narrator_zh": ""
+  },
+  {
+   "location": "711/DLL",
+   "narrator": "",
+   "text": "DrawPossessionCandy: {0}がみつかりません",
+   "zh": "DrawPossessionCandy: 未找到{0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "735/DLL",
+   "narrator": "",
+   "text": "基礎ATK：{0}",
+   "zh": "基础攻击力：{0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "736/DLL",
+   "narrator": "",
+   "text": "基礎DEF：{0}",
+   "zh": "基础防御力：{0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "737/DLL",
+   "narrator": "",
+   "text": "基礎回復力：{0}",
+   "zh": "基础恢复力：{0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "738/DLL",
+   "narrator": "",
+   "text": "基礎チャージ量：{0}",
+   "zh": "基础充能量：{0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "739/DLL",
+   "narrator": "",
+   "text": "基礎BP：{0}",
+   "zh": "基础BP：{0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "740/DLL",
+   "narrator": "",
+   "text": "{0}年{1}月{2}日",
+   "zh": "{0}年{1}月{2}日",
+   "narrator_zh": ""
+  },
+  {
+   "location": "741/DLL",
+   "narrator": "",
+   "text": "年",
+   "zh": "年",
+   "narrator_zh": ""
+  },
+  {
+   "location": "742/DLL",
+   "narrator": "",
+   "text": "月",
+   "zh": "月",
+   "narrator_zh": ""
+  },
+  {
+   "location": "743/DLL",
+   "narrator": "",
+   "text": "日",
+   "zh": "日",
+   "narrator_zh": ""
+  },
+  {
+   "location": "750/DLL",
+   "narrator": "",
+   "text": "CircleMenuCanvas/AnchorImage/CircleMenu4/Shortcut/{0}ShortcutImage が見つかりません",
+   "zh": "未找到 CircleMenuCanvas/AnchorImage/CircleMenu4/Shortcut/{0}ShortcutImage",
+   "narrator_zh": ""
+  },
+  {
+   "location": "751/DLL",
+   "narrator": "",
+   "text": "----- 現在のミッション達成数：{0}",
+   "zh": "----- 当前任务达成数：{0}",
+   "narrator_zh": ""
+  },
+  {
+   "location": "757/DLL",
+   "narrator": "",
+   "text": "this.playerDataがnullです",
+   "zh": "this.playerData为null",
+   "narrator_zh": ""
+  },
+  {
+   "location": "758/DLL",
+   "narrator": "",
+   "text": "GetTrinaryArrival({0}) に失敗しました",
+   "zh": "GetTrinaryArrival({0}) 失败",
+   "narrator_zh": ""
+  },
+  {
+   "location": "759/DLL",
+   "narrator": "",
+   "text": " シーンのシーン名が未定義です",
+   "zh": " 场景的场景名未定义",
+   "narrator_zh": ""
+  },
+  {
+   "location": "760/DLL",
+   "narrator": "",
+   "text": "ローディング詳細が未定義です:",
+   "zh": "加载详情未定义:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "761/DLL",
+   "narrator": "",
+   "text": "ScreenFadeManager::FadeUpdateが二重に呼ばれました",
+   "zh": "ScreenFadeManager::FadeUpdate被重复调用",
+   "narrator_zh": ""
+  },
+  {
+   "location": "762/DLL",
+   "narrator": "",
+   "text": "フェードイン開始",
+   "zh": "淡入开始",
+   "narrator_zh": ""
+  },
+  {
+   "location": "763/DLL",
+   "narrator": "",
+   "text": "フェードアウト開始",
+   "zh": "淡出开始",
+   "narrator_zh": ""
+  },
+  {
+   "location": "764/DLL",
+   "narrator": "",
+   "text": "ScreenFaderManagerの状態異常:",
+   "zh": "ScreenFaderManager状态异常:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "765/DLL",
+   "narrator": "",
+   "text": "フェードイン・アウト終了",
+   "zh": "淡入·淡出结束",
+   "narrator_zh": ""
+  },
+  {
+   "location": "766/DLL",
+   "narrator": "",
+   "text": "API Versionは数値6桁で設定してください",
+   "zh": "请将API Version设为6位数字",
+   "narrator_zh": ""
+  },
+  {
+   "location": "769/DLL",
+   "narrator": "",
+   "text": "拡張少女系トライナリー新着運営＆メンテナンス情報",
+   "zh": "扩张少女系三重奏新运营＆维护信息",
+   "narrator_zh": ""
+  },
+  {
+   "location": "770/DLL",
+   "narrator": "",
+   "text": "コーエーテクモゲームス　アプリ紹介",
+   "zh": "光荣特库摩游戏　应用介绍",
+   "narrator_zh": ""
+  },
+  {
+   "location": "771/DLL",
+   "narrator": "",
+   "text": "お客様お問い合わせフォーム",
+   "zh": "玩家咨询表单",
+   "narrator_zh": ""
+  },
+  {
+   "location": "774/DLL",
+   "narrator": "",
+   "text": "拡張少女系トライナリー　ゲームデータバックアップ",
+   "zh": "扩张少女系三重奏　游戏数据备份",
+   "narrator_zh": ""
+  },
+  {
+   "location": "776/DLL",
+   "narrator": "",
+   "text": "既存データがありリストアを選択していなければプレイヤーデータをバックアップ",
+   "zh": "若存在既有数据且未选择还原，则备份玩家数据",
+   "narrator_zh": ""
+  },
+  {
+   "location": "777/DLL",
+   "narrator": "",
+   "text": "PlayeyIDがあるのでリストアか新規:",
+   "zh": "存在PlayeyID，因此还原或新建:",
+   "narrator_zh": ""
+  },
+  {
+   "location": "781/DLL",
+   "narrator": "",
+   "text": "リストアに成功しました。",
+   "zh": "还原成功。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "788/DLL",
+   "narrator": "",
+   "text": "はシナリオタグに登録されていないので実行されません",
+   "zh": "未登记在剧本标签中，因此不会执行",
+   "narrator_zh": ""
+  },
+  {
+   "location": "792/DLL",
+   "narrator": "",
+   "text": "がタッチされた",
+   "zh": "被触摸了",
+   "narrator_zh": ""
+  },
+  {
+   "location": "793/DLL",
+   "narrator": "",
+   "text": "がフリックされた",
+   "zh": "被滑动了",
+   "narrator_zh": ""
+  },
+  {
+   "location": "795/DLL",
+   "narrator": "",
+   "text": "{0}行目の'{1}'が意味不明です",
+   "zh": "第{0}行的'{1}'含义不明",
+   "narrator_zh": ""
+  },
+  {
+   "location": "796/DLL",
+   "narrator": "",
+   "text": "哀",
+   "zh": "哀",
+   "narrator_zh": ""
+  }
+ ]
+}

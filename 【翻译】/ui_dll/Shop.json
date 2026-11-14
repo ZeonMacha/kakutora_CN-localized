@@ -1,0 +1,483 @@
+{
+    "dir": "Shop",
+    "type": "ui_dll",
+    "info": {},
+    "entry": [
+        {
+            "location": "249/DLL",
+            "narrator": "",
+            "text": "ジュエル{0}個",
+            "zh": "宝石{0}个",
+            "narrator_zh": ""
+        },
+        {
+            "location": "250/DLL",
+            "narrator": "",
+            "text": "({0}個+おまけ{1}個)",
+            "zh": "({0}个+附赠{1}个)",
+            "narrator_zh": ""
+        },
+        {
+            "location": "589/DLL",
+            "narrator": "",
+            "text": "<color=green>『{0}』</color>\nをコスチューム引換券と交換します。\nよろしいですか？",
+            "zh": "将用服装兑换券兑换\n<color=green>『{0}』</color>。\n确定吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "590/DLL",
+            "narrator": "",
+            "text": "コスチューム引換券が足りません",
+            "zh": "服装兑换券不足",
+            "narrator_zh": ""
+        },
+        {
+            "location": "591/DLL",
+            "narrator": "",
+            "text": "所持コスチューム引換券：{0} 枚",
+            "zh": "持有服装兑换券：{0} 张",
+            "narrator_zh": ""
+        },
+        {
+            "location": "592/DLL",
+            "narrator": "",
+            "text": "コスチューム交換API呼びだし",
+            "zh": "服装兑换API调用",
+            "narrator_zh": ""
+        },
+        {
+            "location": "593/DLL",
+            "narrator": "",
+            "text": "交換できませんでした。",
+            "zh": "兑换失败。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "594/DLL",
+            "narrator": "",
+            "text": "コスチューム\n<size=40><color=red><b>{0}</b></color></size>\nをゲットしました！",
+            "zh": "获得了服装\n<size=40><color=red><b>{0}</b></color></size>\n！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "595/DLL",
+            "narrator": "",
+            "text": "コスチューム購入完了 ID:{0} {1}",
+            "zh": "服装购买完成 ID:{0} {1}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "645/DLL",
+            "narrator": "",
+            "text": "GachaSceneBehaviourがありません",
+            "zh": "GachaSceneBehaviour不存在",
+            "narrator_zh": ""
+        },
+        {
+            "location": "646/DLL",
+            "narrator": "",
+            "text": "所持ゴキゲンポイント：{0} Pts.",
+            "zh": "持有心情点数：{0} Pts.",
+            "narrator_zh": ""
+        },
+        {
+            "location": "647/DLL",
+            "narrator": "",
+            "text": "ゴキゲンポイントショップは解禁されていません",
+            "zh": "心情点数商店尚未解锁",
+            "narrator_zh": ""
+        },
+        {
+            "location": "648/DLL",
+            "narrator": "",
+            "text": "<color=green>『{0}』</color>\nをゴキゲンポイントと交換します。\nよろしいですか？",
+            "zh": "将用心情点数兑换\n<color=green>『{0}』</color>。\n确定吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "649/DLL",
+            "narrator": "",
+            "text": "ゴキゲンポイントが足りません",
+            "zh": "心情点数不足",
+            "narrator_zh": ""
+        },
+        {
+            "location": "650/DLL",
+            "narrator": "",
+            "text": "で追加された交換アイテム",
+            "zh": "中追加的兑换道具",
+            "narrator_zh": ""
+        },
+        {
+            "location": "651/DLL",
+            "narrator": "",
+            "text": "購入できませんでした。",
+            "zh": "购买失败。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "652/DLL",
+            "narrator": "",
+            "text": "新しい機能\n<color=green><size=30>『{0}』</size></color>\nをゲットしました！",
+            "zh": "获得了新功能\n<color=green><size=30>『{0}』</size></color>\n！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "653/DLL",
+            "narrator": "",
+            "text": "ジュエルを{0}個購入しますか？",
+            "zh": "要购买{0}个宝石吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "654/DLL",
+            "narrator": "",
+            "text": "年齢確認できませんでした。",
+            "zh": "年龄确认失败。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "655/DLL",
+            "narrator": "",
+            "text": "超過------------------",
+            "zh": "超出------------------",
+            "narrator_zh": ""
+        },
+        {
+            "location": "656/DLL",
+            "narrator": "",
+            "text": "課金処理へ------------------",
+            "zh": "进入付费处理------------------",
+            "narrator_zh": ""
+        },
+        {
+            "location": "657/DLL",
+            "narrator": "",
+            "text": "購入に失敗しました",
+            "zh": "购买失败",
+            "narrator_zh": ""
+        },
+        {
+            "location": "658/DLL",
+            "narrator": "",
+            "text": "エラー------------------",
+            "zh": "错误------------------",
+            "narrator_zh": ""
+        },
+        {
+            "location": "659/DLL",
+            "narrator": "",
+            "text": "決済システムのエラーです。\n<size=20>(Code:104)</size>",
+            "zh": "支付系统错误。\n<size=20>(Code:104)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "660/DLL",
+            "narrator": "",
+            "text": "NOエラー------------------",
+            "zh": "NO错误------------------",
+            "narrator_zh": ""
+        },
+        {
+            "location": "661/DLL",
+            "narrator": "",
+            "text": "ジュエル購入に失敗しました。",
+            "zh": "宝石购买失败。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "662/DLL",
+            "narrator": "",
+            "text": "最終段階------------------",
+            "zh": "最终阶段------------------",
+            "narrator_zh": ""
+        },
+        {
+            "location": "663/DLL",
+            "narrator": "",
+            "text": "最終段階初期化終了------------------",
+            "zh": "最终阶段初始化结束------------------",
+            "narrator_zh": ""
+        },
+        {
+            "location": "664/DLL",
+            "narrator": "",
+            "text": "このアカウントでは\n課金できません。",
+            "zh": "此账号\n无法付费。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "665/DLL",
+            "narrator": "",
+            "text": "---------- 課金IDがない:ID{0}, ProductId:{1}",
+            "zh": "---------- 没有付费ID:ID{0}, ProductId:{1}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "666/DLL",
+            "narrator": "",
+            "text": "Api.Net.Payment.Payment.Request 再試行",
+            "zh": "Api.Net.Payment.Payment.Request 重试",
+            "narrator_zh": ""
+        },
+        {
+            "location": "667/DLL",
+            "narrator": "",
+            "text": "無料Jewel:{0} 有料Jewel:{1}",
+            "zh": "免费Jewel:{0} 付费Jewel:{1}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "668/DLL",
+            "narrator": "",
+            "text": "ジュエル購入しました。",
+            "zh": "已购买宝石。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "669/DLL",
+            "narrator": "",
+            "text": "特定商取引法に基づく表示",
+            "zh": "基于《特定商业交易法》的标注",
+            "narrator_zh": ""
+        },
+        {
+            "location": "670/DLL",
+            "narrator": "",
+            "text": "資金決済法に基づく表示",
+            "zh": "基于《资金结算法》的标注",
+            "narrator_zh": ""
+        },
+        {
+            "location": "671/DLL",
+            "narrator": "",
+            "text": "ジュエル(有償分)の所持可能数を超過するため個数処理をキャンセルします。",
+            "zh": "将超过宝石（付费部分）的可持有数量，因此取消数量处理。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "672/DLL",
+            "narrator": "",
+            "text": "お手持ちのジュエルをご利用後改めてご購入下さい。",
+            "zh": "请使用所持宝石后再购买。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "673/DLL",
+            "narrator": "",
+            "text": "誕生日の登録ができませんでした。",
+            "zh": "生日登记失败。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "674/DLL",
+            "narrator": "",
+            "text": "特別STORY",
+            "zh": "特别故事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "675/DLL",
+            "narrator": "",
+            "text": "神楽STORY",
+            "zh": "神乐故事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "676/DLL",
+            "narrator": "",
+            "text": "所持ジュエル：{0} 個",
+            "zh": "持有宝石：{0} 个",
+            "narrator_zh": ""
+        },
+        {
+            "location": "677/DLL",
+            "narrator": "",
+            "text": "ジュエルを<color=red>{0}</color>個消費して\n<color=green>『{1}』</color>を取得します。よろしいですか？",
+            "zh": "将消耗<color=red>{0}</color>个宝石\n取得<color=green>『{1}』</color>。确定吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "678/DLL",
+            "narrator": "",
+            "text": "ジュエルが足りません。\nジュエルを購入しますか？",
+            "zh": "宝石不足。\n要购买宝石吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "679/DLL",
+            "narrator": "",
+            "text": "カテゴリ【",
+            "zh": "类别【",
+            "narrator_zh": ""
+        },
+        {
+            "location": "680/DLL",
+            "narrator": "",
+            "text": "】のアイテム一覧",
+            "zh": "】的道具列表",
+            "narrator_zh": ""
+        },
+        {
+            "location": "681/DLL",
+            "narrator": "",
+            "text": "新しいアイテム\n<color=green><size=30>『{0}』</size></color>\nをゲットしました！",
+            "zh": "获得了新道具\n<color=green><size=30>『{0}』</size></color>\n！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "682/DLL",
+            "narrator": "",
+            "text": "前回ショップアイテム付与で異常終了が発生したため、データの復元をしました。",
+            "zh": "上次发放商店道具时异常结束，因此已恢复数据。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "712/DLL",
+            "narrator": "",
+            "text": "所持クランジュエル：{0} 個",
+            "zh": "持有库兰珠宝：{0} 个",
+            "narrator_zh": ""
+        },
+        {
+            "location": "713/DLL",
+            "narrator": "",
+            "text": "所持数{0}個",
+            "zh": "持有数{0}个",
+            "narrator_zh": ""
+        },
+        {
+            "location": "714/DLL",
+            "narrator": "",
+            "text": "<size=24><color=green>【{0}】 {1} 個</color></size>\n",
+            "zh": "<size=24><color=green>【{0}】 {1} 个</color></size>\n",
+            "narrator_zh": ""
+        },
+        {
+            "location": "715/DLL",
+            "narrator": "",
+            "text": "ジュエルを{0}個消費して\n{1}を購入します。\n",
+            "zh": "将消耗{0}个宝石\n购买{1}。\n",
+            "narrator_zh": ""
+        },
+        {
+            "location": "716/DLL",
+            "narrator": "",
+            "text": "{0}よろしいですか？",
+            "zh": "{0}确定吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "717/DLL",
+            "narrator": "",
+            "text": "ジュエルが不足しています。",
+            "zh": "宝石不足。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "718/DLL",
+            "narrator": "",
+            "text": "リセットまで{0}日",
+            "zh": "距离重置还有{0}天",
+            "narrator_zh": ""
+        },
+        {
+            "location": "719/DLL",
+            "narrator": "",
+            "text": "---------- 交換数リセット:{0} --------------",
+            "zh": "---------- 兑换次数重置:{0} --------------",
+            "narrator_zh": ""
+        },
+        {
+            "location": "720/DLL",
+            "narrator": "",
+            "text": "残り{0}回",
+            "zh": "剩余{0}次",
+            "narrator_zh": ""
+        },
+        {
+            "location": "721/DLL",
+            "narrator": "",
+            "text": "クランジュエルが不足しているため交換することができません。\n",
+            "zh": "库兰珠宝不足，无法兑换。\n",
+            "narrator_zh": ""
+        },
+        {
+            "location": "722/DLL",
+            "narrator": "",
+            "text": "クランジュエルはＳＲ以上のサーバントクランを売却することで手に入れることが可能です。",
+            "zh": "库兰珠宝可通过出售SR以上的从属库兰获得。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "723/DLL",
+            "narrator": "",
+            "text": "サーバントクランの所持数が最大数を超過しているため、クランジュエル交換所を利用することができません。",
+            "zh": "从属库兰持有数已超过上限，无法使用库兰珠宝兑换所。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "724/DLL",
+            "narrator": "",
+            "text": "クランジュエルを{0}個消費して\n{1}と交換します。よろしいですか？",
+            "zh": "将消耗{0}个库兰珠宝\n兑换{1}。确定吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "725/DLL",
+            "narrator": "",
+            "text": "購入完了！\n{0}",
+            "zh": "购买完成！\n{0}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "726/DLL",
+            "narrator": "",
+            "text": "　なし",
+            "zh": "　无",
+            "narrator_zh": ""
+        },
+        {
+            "location": "727/DLL",
+            "narrator": "",
+            "text": "<color=red>以下のキャンディを\n購入できませんでした。\n{0}再度購入をお試しください。</color>\n\n<color=blue>【購入できたキャンディ】\n{1}</color>",
+            "zh": "<color=red>以下糖果\n未能购买。\n{0}请再次尝试购买。</color>\n\n<color=blue>【已购买的糖果】\n{1}</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "728/DLL",
+            "narrator": "",
+            "text": "所持数 {0}個",
+            "zh": "持有数 {0}个",
+            "narrator_zh": ""
+        },
+        {
+            "location": "729/DLL",
+            "narrator": "",
+            "text": "-------- 現在交換数:{0},　交換数:{1}",
+            "zh": "-------- 当前兑换数:{0},　兑换数:{1}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "730/DLL",
+            "narrator": "",
+            "text": "交換完了！\n{0}",
+            "zh": "兑换完成！\n{0}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "731/DLL",
+            "narrator": "",
+            "text": "<color=red>以下のアイテムを\n交換できませんでした。\n{0}再度交換をお試しください。</color>\n\n<color=blue>【交換できたアイテム】\n{1}</color>",
+            "zh": "<color=red>以下道具\n未能兑换。\n{0}请再次尝试兑换。</color>\n\n<color=blue>【已兑换的道具】\n{1}</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "732/DLL",
+            "narrator": "",
+            "text": "-------- ID:{0}, 現在交換数:{1}",
+            "zh": "-------- ID:{0}, 当前兑换数:{1}",
+            "narrator_zh": ""
+        }
+    ]
+}

@@ -1,0 +1,581 @@
+{
+    "dir": "chap09/daydra/dd_ch02_09_010.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "9252",
+        "cid": "ayami",
+        "title": "Extra002 プレミアムストーリー",
+        "sub_title": "読書はしますか？",
+        "title_zh": "Extra002 额外剧情",
+        "sub_title_zh": "你平时读书吗？"
+    },
+    "entry": [
+        {
+            "location": "7/SCENARIO",
+            "narrator": "",
+            "text": "読書はしますか？",
+            "zh": "你平时读书吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "25/TALK",
+            "narrator": "アーヤ",
+            "text": "へぇ、卯月は一ヶ月に\n十冊も本を読むんだ？",
+            "zh": "哦，卯月一个月\n能读十本书啊？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "28/TALK",
+            "narrator": "神楽",
+            "text": "小説とはいっても\nライトノベルですよ。",
+            "zh": "虽然说是小说，\n其实也就是轻小说啦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "29/TALK",
+            "narrator": "神楽",
+            "text": "だから集中して読めば、\n二時間か三時間くらいで\n読めちゃうんです。",
+            "zh": "所以只要专心看的话，\n大概两三个小时\n就能读完一本。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "30/TALK",
+            "narrator": "神楽",
+            "text": "…まあ、恐ろしく長いのは\n別ですけど。",
+            "zh": "……不过，厚得吓人的那种\n另当别论就是了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "アーヤ",
+            "text": "それにしたって凄いわ。",
+            "zh": "即便如此也很厉害了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "アーヤ",
+            "text": "私も高校くらいまでは\n結構読んでたけど――",
+            "zh": "我直到高中左右\n也读过不少——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "アーヤ",
+            "text": "最近は全然よ。",
+            "zh": "最近完全没怎么读了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "34/TALK",
+            "narrator": "神楽",
+            "text": "そうなんですか。",
+            "zh": "这样啊。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "35/TALK",
+            "narrator": "神楽",
+            "text": "ちなみに、今はどれくらい\n読むんですか？",
+            "zh": "顺便问一下，你现在\n大概读多少呢？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "37/TALK",
+            "narrator": "アーヤ",
+            "text": "え？　そうね…。",
+            "zh": "哎？　让我想想……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "39/TALK",
+            "narrator": "アーヤ",
+            "text": "こういう場合って、\n漫画は抜きにしても――",
+            "zh": "像这种情况，\n就算把漫画排除在外——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "40/TALK",
+            "narrator": "アーヤ",
+            "text": "どこまで読んだ数に\n入れていいのかしら？",
+            "zh": "究竟哪些能算进\n读过的数量里呢？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "43/TALK",
+            "narrator": "アーヤ",
+            "text": "…ちょっと待って。\n今、調べるから。",
+            "zh": "……稍等一下。\n我现在查查看。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "58/TALK",
+            "narrator": "アーヤ",
+            "text": "質問！",
+            "zh": "提问！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "アーヤ",
+            "text": "今月何冊本を読みましたか？",
+            "zh": "当别人问你“这个月读了几本书”",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "アーヤ",
+            "text": "って聞かれた時に",
+            "zh": "的时候",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "61/TALK",
+            "narrator": "アーヤ",
+            "text": "小説以外に絵本も数えていいと思う(？＿？)",
+            "zh": "你觉得除了小说以外，绘本也能算进去吗(？＿？)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "63/SEL",
+            "narrator": "",
+            "text": "もちろん",
+            "zh": "当然可以",
+            "narrator_zh": ""
+        },
+        {
+            "location": "64/SEL",
+            "narrator": "",
+            "text": "いや、ダメだと思う",
+            "zh": "不，我觉得不行",
+            "narrator_zh": ""
+        },
+        {
+            "location": "65/SEL",
+            "narrator": "",
+            "text": "雑誌も加えてＯＫ",
+            "zh": "杂志也算进去OK",
+            "narrator_zh": ""
+        },
+        {
+            "location": "66/ACT",
+            "narrator": "",
+            "text": "もちろん",
+            "zh": "当然可以",
+            "narrator_zh": ""
+        },
+        {
+            "location": "67/TALK",
+            "narrator": "アーヤ",
+            "text": "なるほど",
+            "zh": "原来如此",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "68/TALK",
+            "narrator": "アーヤ",
+            "text": "わかったわ",
+            "zh": "我知道了",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "80/TALK",
+            "narrator": "アーヤ",
+            "text": "お待たせ。\n今月読んだのは――",
+            "zh": "久等了。\n这个月读的书——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "アーヤ",
+            "text": "三十冊、ってとこかしら。",
+            "zh": "大概三十本左右吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "神楽",
+            "text": "…アーヤさんって、\nそんなに速読なんですか？",
+            "zh": "……绫水，\n你读得这么快吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "85/TALK",
+            "narrator": "アーヤ",
+            "text": "え？　もしかして、\n数えていいのは小説だけ\nだった？",
+            "zh": "哎？　难道说，\n能算进去的\n只有小说吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "86/TALK",
+            "narrator": "アーヤ",
+            "text": "それなら三冊か四冊、\nってところかしら。",
+            "zh": "那样的话，大概三四本\n左右吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "87/TALK",
+            "narrator": "神楽",
+            "text": "もぉ、驚かさないで\nくださいよ。",
+            "zh": "真是的，别吓我\n好不好。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "90/TALK",
+            "narrator": "アーヤ",
+            "text": "ごめんごめん。\nどこまで入れていいのか、\n悩んじゃって…。",
+            "zh": "抱歉抱歉。\n我一直在纠结\n到底该把哪些算进去……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "91/TALK",
+            "narrator": "神楽",
+            "text": "でも、アーヤさんなら\nそれくらい読んでたと\nしても――",
+            "zh": "不过，如果是绫水的话，\n就算真的\n读了那么多——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "93/TALK",
+            "narrator": "神楽",
+            "text": "あんまり不思議じゃない\n感じもしますけどね。",
+            "zh": "好像也并不觉得\n有什么奇怪的呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "96/TALK",
+            "narrator": "アーヤ",
+            "text": "そんな風に見える？",
+            "zh": "我看上去像那样吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "98/TALK",
+            "narrator": "アーヤ",
+            "text": "けど、読みたい小説は\n沢山あるから――",
+            "zh": "不过，想读的小说\n还有很多——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "99/TALK",
+            "narrator": "アーヤ",
+            "text": "それくらい読めるように\nなれたらいいなぁ、とは\n思うわ。",
+            "zh": "要真能读到那个数量\n倒也不错啊，我是这么\n想的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "神楽",
+            "text": "本が好きな人なら、\nみんなそう思いますよ。",
+            "zh": "喜欢书的人，\n大家都是这么想的哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "アーヤ",
+            "text": "そうね…。",
+            "zh": "是啊……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "アーヤ",
+            "text": "来月は今月よりも\n多く読むのを目標に\nしようかしら？",
+            "zh": "下个月要不要把\n读得比这个月更多\n当作目标呢？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "105/ACT",
+            "narrator": "",
+            "text": "いや、ダメだと思う",
+            "zh": "不，我觉得不行",
+            "narrator_zh": ""
+        },
+        {
+            "location": "106/TALK",
+            "narrator": "アーヤ",
+            "text": "やっぱりダメか(￣×￣)",
+            "zh": "果然不行啊(￣×￣)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "107/TALK",
+            "narrator": "アーヤ",
+            "text": "ごめん、確認しただけだから",
+            "zh": "抱歉，我就确认一下",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "120/TALK",
+            "narrator": "アーヤ",
+            "text": "えっと…今月は四冊くらい\nしか読めてないわ。",
+            "zh": "那个……这个月大概\n只读了四本左右。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "121/TALK",
+            "narrator": "神楽",
+            "text": "なんだ、結構読んでるじゃ\nないですか。",
+            "zh": "什么嘛，这不是读了\n挺多的吗。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "122/TALK",
+            "narrator": "アーヤ",
+            "text": "そんなことないわ。\n一週間に一冊読めてるか\nどうかくらいじゃない。",
+            "zh": "没那回事。\n也就差不多一周能读一本\n的程度吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "123/TALK",
+            "narrator": "神楽",
+            "text": "でも、大学にバイト、\nトライナリーと忙しい\n生活の中で――",
+            "zh": "可是，在大学、打工，\n还有三重奏这么忙碌的\n生活里——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "124/TALK",
+            "narrator": "神楽",
+            "text": "四冊も読んでるんだから\n凄いと思いますよ。",
+            "zh": "能读上四本，\n我觉得已经很厉害了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "126/TALK",
+            "narrator": "アーヤ",
+            "text": "そっか…。\nそう言ってもらえると\n嬉しいわ。",
+            "zh": "是吗……。\n你能这么说\n我挺开心的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "127/TALK",
+            "narrator": "アーヤ",
+            "text": "…考えてみれば、\n時間がなくて読めない本、\n結構あるかも。",
+            "zh": "……仔细想想，\n因为没时间而没能读的书，\n说不定还真不少。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "128/TALK",
+            "narrator": "アーヤ",
+            "text": "そのうち、ゆっくりと\n本だけを読む日を\n作りたいな。",
+            "zh": "改天真想抽出一整天，\n悠闲地光看书\n度过呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "129/ACT",
+            "narrator": "",
+            "text": "雑誌も加えてＯＫ",
+            "zh": "杂志也算进去OK",
+            "narrator_zh": ""
+        },
+        {
+            "location": "132/TALK",
+            "narrator": "アーヤ",
+            "text": "えっ！？",
+            "zh": "哎！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "アーヤ",
+            "text": "雑誌まで入れていいの？",
+            "zh": "连杂志也可以算进去吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "134/TALK",
+            "narrator": "アーヤ",
+            "text": "それならそうするけど…",
+            "zh": "既然这样那我就这么算了……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "145/TALK",
+            "narrator": "アーヤ",
+            "text": "…本当にいいのかしら？",
+            "zh": "……真的没问题吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "神楽",
+            "text": "アーヤさん、何冊読んだか\nわかりましたか？",
+            "zh": "绫水，你算出来\n读了几本了吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "148/TALK",
+            "narrator": "アーヤ",
+            "text": "え、ええ…えっとね…。",
+            "zh": "嗯、嗯……那个……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "152/TALK",
+            "narrator": "アーヤ",
+            "text": "五十冊くらい…かな。",
+            "zh": "大概五十本……左右吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "154/TALK",
+            "narrator": "神楽",
+            "text": "ご、五十冊って…。",
+            "zh": "五、五十本……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "155/TALK",
+            "narrator": "神楽",
+            "text": "それ、雑誌とか漫画とかも\n入れてませんか？",
+            "zh": "那个，你是不是把\n杂志和漫画也算进去了？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "157/TALK",
+            "narrator": "アーヤ",
+            "text": "あっ、小説だけだった？",
+            "zh": "啊，只能算小说吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "159/TALK",
+            "narrator": "神楽",
+            "text": "やっぱり…\nさすがに変だと\n思いましたよ。",
+            "zh": "果然……\n我就觉得\n未免太奇怪了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "160/TALK",
+            "narrator": "神楽",
+            "text": "…でも、小説以外を\n足したとしても――",
+            "zh": "……不过，就算把\n小说以外的也加上——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "161/TALK",
+            "narrator": "神楽",
+            "text": "五十冊はかなり多い\nような…。",
+            "zh": "五十本也相当多了\n感觉……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "163/TALK",
+            "narrator": "アーヤ",
+            "text": "う～ん…そういえば、\n今月はいつもよりも\n少しだけ――",
+            "zh": "唔～……这么说来，\n这个月比平时\n稍微多读了那么一点——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "164/TALK",
+            "narrator": "アーヤ",
+            "text": "読んだ数が多いかも\nしれないわ。",
+            "zh": "数量也许确实\n多了一点吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "165/TALK",
+            "narrator": "神楽",
+            "text": "読むの早いんですね。",
+            "zh": "你读得真快呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "166/TALK",
+            "narrator": "神楽",
+            "text": "そうだ！　アーヤさん\nって、ラノベを読んだ\nことありますか？",
+            "zh": "对了！　绫水，\n你之前有读过\n轻小说吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "167/TALK",
+            "narrator": "アーヤ",
+            "text": "多分ないと思うわ。",
+            "zh": "大概没读过。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "168/TALK",
+            "narrator": "神楽",
+            "text": "それなら、この機会に\n一度読んでみませんか？",
+            "zh": "那趁这个机会，\n要不要试着读一次看看？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "169/TALK",
+            "narrator": "神楽",
+            "text": "アーヤさんなら、私より\n早く読み終えることが\nできそうですし。",
+            "zh": "如果是绫水的话，\n感觉能比我更早\n读完呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "170/TALK",
+            "narrator": "神楽",
+            "text": "どれくらいの速さで\n読めるのか、見てみたいん\nです。",
+            "zh": "我也想看看\n你能以多快的速度\n读完。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "171/TALK",
+            "narrator": "アーヤ",
+            "text": "そうね…一度くらいは\n読んでみてもいいかも\nしれないわね。",
+            "zh": "是啊……姑且\n读一次试试看\n倒也不错。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "172/TALK",
+            "narrator": "アーヤ",
+            "text": "お薦めの本があったら、\n今度貸してもらえる？",
+            "zh": "如果有推荐的书，\n下次能借给我吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "174/TALK",
+            "narrator": "神楽",
+            "text": "わかりました。",
+            "zh": "我知道了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "175/TALK",
+            "narrator": "神楽",
+            "text": "アーヤさんの趣味に\n合いそうなジャンルを、\n厳選してきますね！",
+            "zh": "我会精心挑选\n符合绫水喜好的题材\n带过来的！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "177/TALK",
+            "narrator": "アーヤ",
+            "text": "ええ、よろしく。",
+            "zh": "嗯，拜托了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "179/TALK",
+            "narrator": "神楽",
+            "text": "…ちなみに、異世界召還\nとか、俺ＴＵＥＥＥとか\nってわかります？",
+            "zh": "……顺便问一句，异世界召唤\n或者龙傲天之类的，\n你知道吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "182/TALK",
+            "narrator": "アーヤ",
+            "text": "…よくわからないから、\nそれ以外でお願いするわ。",
+            "zh": "……不太清楚，\n请选除此之外的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "15/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>5月22日　4:11 PM</color>\nとある平日、神楽坂トライナリーでのバイト中のこと。",
+            "zh": "<color=green>5月22日　4:11 PM</color>\n某个平日，在神乐坂三重奏打工时的事。",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "193/DIALOG",
+            "narrator": "Dialog_GEThimegoto_ch02",
+            "text": "【軽さはりんご3個分】",
+            "zh": "【重量相当于3个苹果】",
+            "narrator_zh": "Dialog_GEThimegoto_ch02"
+        }
+    ]
+}

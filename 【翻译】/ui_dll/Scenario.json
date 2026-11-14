@@ -1,0 +1,812 @@
+{
+    "dir": "Scenario",
+    "type": "ui_dll",
+    "info": {},
+    "entry": [
+        {
+            "location": "6/DLL",
+            "narrator": "",
+            "text": "SetFocus カメラ:",
+            "zh": "SetFocus 相机:",
+            "narrator_zh": ""
+        },
+        {
+            "location": "7/DLL",
+            "narrator": "",
+            "text": " が未定儀です",
+            "zh": " 未定义",
+            "narrator_zh": ""
+        },
+        {
+            "location": "8/DLL",
+            "narrator": "",
+            "text": "不正なシナリオデータです。\n<size=20>(Code:",
+            "zh": "剧本数据无效。\n<size=20>(Code:",
+            "narrator_zh": ""
+        },
+        {
+            "location": "9/DLL",
+            "narrator": "",
+            "text": "物語をスキップして先へ進みます。",
+            "zh": "跳过故事，继续前进。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "10/DLL",
+            "narrator": "",
+            "text": "デモを中断して\n始めからやり直します。",
+            "zh": "中断演示，\n从头重新开始。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "11/DLL",
+            "narrator": "",
+            "text": "このエピソードでは\n途中終了はできません。",
+            "zh": "本章节\n无法中途结束。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "12/DLL",
+            "narrator": "",
+            "text": "この物語を中断して、\nリスト画面に戻ります。\n<color=red>開始してからゲットした全ての報酬はキャンセルされますが、よろしいですか？</color>",
+            "zh": "将中断这个故事，\n返回列表画面。\n<color=red>开始后获得的全部奖励会被取消，确定吗？</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "13/DLL",
+            "narrator": "",
+            "text": "stage_0(Clone)/cam_bc が見つかりません。",
+            "zh": "未找到 stage_0(Clone)/cam_bc。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "14/DLL",
+            "narrator": "",
+            "text": "currentCameraが未定義のためカメラのセットアップができません",
+            "zh": "currentCamera未定义，无法设置相机",
+            "narrator_zh": ""
+        },
+        {
+            "location": "15/DLL",
+            "narrator": "",
+            "text": "camDicがセットされていなため、カメラのセットアップができません",
+            "zh": "camDic未设置，无法设置相机",
+            "narrator_zh": ""
+        },
+        {
+            "location": "16/DLL",
+            "narrator": "",
+            "text": "不正なシナリオデータです。\n<size=20>(Divide file failed)</size>",
+            "zh": "剧本数据无效。\n<size=20>(Divide file failed)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "17/DLL",
+            "narrator": "",
+            "text": "キャンディーが足りない",
+            "zh": "糖果不足",
+            "narrator_zh": ""
+        },
+        {
+            "location": "18/DLL",
+            "narrator": "",
+            "text": "カメラのデータが無いため、ActSetCameraが実行できません",
+            "zh": "没有相机数据，无法执行ActSetCamera",
+            "narrator_zh": ""
+        },
+        {
+            "location": "19/DLL",
+            "narrator": "",
+            "text": "無効なテキストモードです。",
+            "zh": "文本模式无效。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "20/DLL",
+            "narrator": "",
+            "text": "TEXTMODEコマンドのVOICEは未対応です",
+            "zh": "TEXTMODE命令的VOICE不受支持",
+            "narrator_zh": ""
+        },
+        {
+            "location": "21/DLL",
+            "narrator": "",
+            "text": "プレイヤー",
+            "zh": "玩家",
+            "narrator_zh": ""
+        },
+        {
+            "location": "22/DLL",
+            "narrator": "",
+            "text": "カメラ:{0}をプレゼント",
+            "zh": "赠送相机:{0}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "23/DLL",
+            "narrator": "",
+            "text": "カメラ解禁アイテムを持っていない",
+            "zh": "没有相机解锁道具",
+            "narrator_zh": ""
+        },
+        {
+            "location": "24/DLL",
+            "narrator": "",
+            "text": "カメラ:{0}:{1}を持っている",
+            "zh": "持有相机:{0}:{1}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "25/DLL",
+            "narrator": "",
+            "text": "Defaultコスチュームが重複しています。",
+            "zh": "Default服装重复。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "26/DLL",
+            "narrator": "",
+            "text": " が無効です",
+            "zh": " 无效",
+            "narrator_zh": ""
+        },
+        {
+            "location": "27/DLL",
+            "narrator": "",
+            "text": "' が無効です",
+            "zh": "' 无效",
+            "narrator_zh": ""
+        },
+        {
+            "location": "28/DLL",
+            "narrator": "",
+            "text": "キャラクター{0}が表示されていない状態で、表示位置が指定されていません。C1に設定します。",
+            "zh": "角色{0}未显示，且未指定显示位置。将设置到C1。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "29/DLL",
+            "narrator": "",
+            "text": "キャラクターが表示されていない状態で、フォーカスを指定できません",
+            "zh": "角色未显示，无法指定焦点",
+            "narrator_zh": ""
+        },
+        {
+            "location": "30/DLL",
+            "narrator": "",
+            "text": "ポジション:",
+            "zh": "位置:",
+            "narrator_zh": ""
+        },
+        {
+            "location": "31/DLL",
+            "narrator": "",
+            "text": "は未定義なので何もしません",
+            "zh": "未定义，因此不做任何处理",
+            "narrator_zh": ""
+        },
+        {
+            "location": "32/DLL",
+            "narrator": "",
+            "text": "異世界線接続アプリケーション",
+            "zh": "异世界线连接应用",
+            "narrator_zh": ""
+        },
+        {
+            "location": "33/DLL",
+            "narrator": "",
+            "text": "未定義の変数{0}に対してADD_PARAM命令が実行されました",
+            "zh": "对未定义的变量{0}执行了ADD_PARAM命令",
+            "narrator_zh": ""
+        },
+        {
+            "location": "34/DLL",
+            "narrator": "",
+            "text": "カテゴリか場所の値が不正です: ",
+            "zh": "类别或地点的值无效: ",
+            "narrator_zh": ""
+        },
+        {
+            "location": "35/DLL",
+            "narrator": "",
+            "text": "デモプレイを終了して\n最初に巻き戻す",
+            "zh": "结束演示播放，\n倒回开头",
+            "narrator_zh": ""
+        },
+        {
+            "location": "36/DLL",
+            "narrator": "",
+            "text": "ForceApply : シナリオタグエラー >> ",
+            "zh": "ForceApply : 剧本标签错误 >> ",
+            "narrator_zh": ""
+        },
+        {
+            "location": "37/DLL",
+            "narrator": "",
+            "text": "ForceApply : サーバータグエラー >> ",
+            "zh": "ForceApply : 服务器标签错误 >> ",
+            "narrator_zh": ""
+        },
+        {
+            "location": "38/DLL",
+            "narrator": "",
+            "text": "サーバータグの送信に失敗。",
+            "zh": "服务器标签发送失败。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "39/DLL",
+            "narrator": "",
+            "text": " は UI/Event/以下に見つかりませんでした",
+            "zh": " 在 UI/Event/ 下未找到",
+            "narrator_zh": ""
+        },
+        {
+            "location": "40/DLL",
+            "narrator": "",
+            "text": "APPLY命令に失敗しました。",
+            "zh": "APPLY命令失败。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "41/DLL",
+            "narrator": "",
+            "text": "ApplyScenarioに成功しました",
+            "zh": "ApplyScenario成功",
+            "narrator_zh": ""
+        },
+        {
+            "location": "42/DLL",
+            "narrator": "",
+            "text": "不正なシナリオ処理が行われました。\n<size=20>(Code:201)</size>",
+            "zh": "执行了无效的剧本处理。\n<size=20>(Code:201)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "43/DLL",
+            "narrator": "",
+            "text": "不正なシナリオ処理が行われました。\n<size=20>(Code:202)</size>",
+            "zh": "执行了无效的剧本处理。\n<size=20>(Code:202)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "44/DLL",
+            "narrator": "",
+            "text": "Fake Serverに 繋がりません",
+            "zh": "无法连接 Fake Server",
+            "narrator_zh": ""
+        },
+        {
+            "location": "45/DLL",
+            "narrator": "",
+            "text": "不正なシナリオデータです。\n<size=20>(",
+            "zh": "剧本数据无效。\n<size=20>(",
+            "narrator_zh": ""
+        },
+        {
+            "location": "46/DLL",
+            "narrator": "",
+            "text": "stage_0(Clone)/cam_bc が見つかりません",
+            "zh": "未找到 stage_0(Clone)/cam_bc",
+            "narrator_zh": ""
+        },
+        {
+            "location": "47/DLL",
+            "narrator": "",
+            "text": "走る",
+            "zh": "奔跑",
+            "narrator_zh": ""
+        },
+        {
+            "location": "48/DLL",
+            "narrator": "",
+            "text": "通常",
+            "zh": "通常",
+            "narrator_zh": ""
+        },
+        {
+            "location": "49/DLL",
+            "narrator": "",
+            "text": "castDic.CheckedAt(cid) に失敗",
+            "zh": "castDic.CheckedAt(cid) 失败",
+            "narrator_zh": ""
+        },
+        {
+            "location": "50/DLL",
+            "narrator": "",
+            "text": "<color=red>[{0}:{1}]に対応する姿勢がありません。'通常'で代用します</color>",
+            "zh": "<color=red>没有与[{0}:{1}]对应的姿势。将用'通常'代替</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "51/DLL",
+            "narrator": "",
+            "text": "<color=red>[{0}:{1}]に対応する表情がありません</color>",
+            "zh": "<color=red>没有与[{0}:{1}]对应的表情</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "52/DLL",
+            "narrator": "",
+            "text": "{0} ポーズ:'{1}':{2} に対応するフェイスが未定義です",
+            "zh": "{0} 姿势:'{1}':{2} 对应的面部未定义",
+            "narrator_zh": ""
+        },
+        {
+            "location": "53/DLL",
+            "narrator": "",
+            "text": "castDic.CheckedAt(cid).go に失敗",
+            "zh": "castDic.CheckedAt(cid).go 失败",
+            "narrator_zh": ""
+        },
+        {
+            "location": "54/DLL",
+            "narrator": "",
+            "text": "存在しないWindowがActCloseで呼ばれた",
+            "zh": "ActClose调用了不存在的Window",
+            "narrator_zh": ""
+        },
+        {
+            "location": "55/DLL",
+            "narrator": "",
+            "text": "{0}のポジションが'{1}'未定義です",
+            "zh": "{0}的位置'{1}'未定义",
+            "narrator_zh": ""
+        },
+        {
+            "location": "56/DLL",
+            "narrator": "",
+            "text": "指定されたコスチュームに対応するモデルがありません : cid:{0} costume:{1}",
+            "zh": "没有与指定服装对应的模型 : cid:{0} costume:{1}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "57/DLL",
+            "narrator": "",
+            "text": ": null objectをanimDicにCheckedAddしようとしました。",
+            "zh": ": 试图将null object CheckedAdd到animDic。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "58/DLL",
+            "narrator": "",
+            "text": "modelSet.AttachPropsにnullオブジェクトがあります。",
+            "zh": "modelSet.AttachProps中存在null对象。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "59/DLL",
+            "narrator": "",
+            "text": "/ActAnimatorController のロードに失敗しました",
+            "zh": "/ActAnimatorController 加载失败",
+            "narrator_zh": ""
+        },
+        {
+            "location": "60/DLL",
+            "narrator": "",
+            "text": "に",
+            "zh": "中",
+            "narrator_zh": ""
+        },
+        {
+            "location": "61/DLL",
+            "narrator": "",
+            "text": "がありません",
+            "zh": "不存在",
+            "narrator_zh": ""
+        },
+        {
+            "location": "62/DLL",
+            "narrator": "",
+            "text": "モデルの読み込みに失敗しました。",
+            "zh": "模型读取失败。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "63/DLL",
+            "narrator": "",
+            "text": "データサーバーに接続できません。\n<size=20>(Model data failed.)</size>",
+            "zh": "无法连接数据服务器。\n<size=20>(Model data failed.)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "64/DLL",
+            "narrator": "",
+            "text": "データサーバーに接続できません。\n<size=20>(Datafile 01 failed.)</size>",
+            "zh": "无法连接数据服务器。\n<size=20>(Datafile 01 failed.)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "65/DLL",
+            "narrator": "",
+            "text": "データサーバーに接続できません。\n<size=20>(Datafile 02 failed.)</size>",
+            "zh": "无法连接数据服务器。\n<size=20>(Datafile 02 failed.)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "66/DLL",
+            "narrator": "",
+            "text": "データサーバーに接続できません。\n<size=20>(Datafile 03 failed.)</size>",
+            "zh": "无法连接数据服务器。\n<size=20>(Datafile 03 failed.)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "67/DLL",
+            "narrator": "",
+            "text": "データサーバーに接続できません。\n<size=20>(Datafile 04 failed.)</size>",
+            "zh": "无法连接数据服务器。\n<size=20>(Datafile 04 failed.)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "68/DLL",
+            "narrator": "",
+            "text": "データサーバーに接続できません。\n<size=20>(Datafile 05 failed.)</size>",
+            "zh": "无法连接数据服务器。\n<size=20>(Datafile 05 failed.)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "69/DLL",
+            "narrator": "",
+            "text": "データサーバーに接続できません。\n<size=20>(Datafile 06 failed.)</size>",
+            "zh": "无法连接数据服务器。\n<size=20>(Datafile 06 failed.)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "70/DLL",
+            "narrator": "",
+            "text": "データサーバーに接続できません。\n<size=20>(Datafile 07 failed.)</size>",
+            "zh": "无法连接数据服务器。\n<size=20>(Datafile 07 failed.)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "71/DLL",
+            "narrator": "",
+            "text": "データサーバーに接続できません。\n<size=20>(Datafile 08 failed.)</size>",
+            "zh": "无法连接数据服务器。\n<size=20>(Datafile 08 failed.)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "72/DLL",
+            "narrator": "",
+            "text": "データサーバーに接続できません。\n<size=20>(Datafile 09 failed.)</size>",
+            "zh": "无法连接数据服务器。\n<size=20>(Datafile 09 failed.)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "73/DLL",
+            "narrator": "",
+            "text": "データサーバーに接続できません。\n<size=20>(Datafile 10 failed.)</size>",
+            "zh": "无法连接数据服务器。\n<size=20>(Datafile 10 failed.)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "74/DLL",
+            "narrator": "",
+            "text": "MoveCharaCommand: castDicに{0}がありません",
+            "zh": "MoveCharaCommand: castDic中没有{0}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "75/DLL",
+            "narrator": "",
+            "text": "歩く",
+            "zh": "行走",
+            "narrator_zh": ""
+        },
+        {
+            "location": "76/DLL",
+            "narrator": "",
+            "text": "効果音の同時再生できる最大数を超えているため、{0}を再生できません。",
+            "zh": "已超过音效同时播放的上限，无法播放{0}。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "77/DLL",
+            "narrator": "",
+            "text": "BUC [{0}]に、位置 [{1}]が含まれていません",
+            "zh": "BUC [{0}]中不包含位置 [{1}]",
+            "narrator_zh": ""
+        },
+        {
+            "location": "78/DLL",
+            "narrator": "",
+            "text": "[{0}]に対応するBUCがありません",
+            "zh": "没有与[{0}]对应的BUC",
+            "narrator_zh": ""
+        },
+        {
+            "location": "79/DLL",
+            "narrator": "",
+            "text": "{0}が所持しているコスチューム: Id:{1}, Name:{2}",
+            "zh": "{0}持有的服装: Id:{1}, Name:{2}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "80/DLL",
+            "narrator": "",
+            "text": "SELITEMコマンドで、対応していないフィルターが渡されました : ",
+            "zh": "SELITEM命令收到了不支持的过滤器 : ",
+            "narrator_zh": ""
+        },
+        {
+            "location": "81/DLL",
+            "narrator": "",
+            "text": "不正なシナリオデータです。\n<size=20>(Filter Not Found.)</size>",
+            "zh": "剧本数据无效。\n<size=20>(Filter Not Found.)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "82/DLL",
+            "narrator": "",
+            "text": "ShowCharacter : CID:{0}に対応するモデルがありません",
+            "zh": "ShowCharacter : 没有与CID:{0}对应的模型",
+            "narrator_zh": ""
+        },
+        {
+            "location": "83/DLL",
+            "narrator": "",
+            "text": "SerifCanvas がシーンにありません",
+            "zh": "场景中没有 SerifCanvas",
+            "narrator_zh": ""
+        },
+        {
+            "location": "84/DLL",
+            "narrator": "",
+            "text": "待っていないのに解除された.:",
+            "zh": "并未等待却被解除.:",
+            "narrator_zh": ""
+        },
+        {
+            "location": "85/DLL",
+            "narrator": "",
+            "text": "{0}:{1}が実行できません",
+            "zh": "{0}:{1}无法执行",
+            "narrator_zh": ""
+        },
+        {
+            "location": "86/DLL",
+            "narrator": "",
+            "text": "キャラクターが表示されていない状態で、表示位置が指定されていません : ",
+            "zh": "角色未显示，且未指定显示位置 : ",
+            "narrator_zh": ""
+        },
+        {
+            "location": "87/DLL",
+            "narrator": "",
+            "text": "キャラクターが表示されていない状態で、フォーカスを指定できません : ",
+            "zh": "角色未显示，无法指定焦点 : ",
+            "narrator_zh": ""
+        },
+        {
+            "location": "88/DLL",
+            "narrator": "",
+            "text": "SYSTEM命令 {0} {1} は未サポートです",
+            "zh": "SYSTEM命令 {0} {1} 不受支持",
+            "narrator_zh": ""
+        },
+        {
+            "location": "89/DLL",
+            "narrator": "",
+            "text": "非表示のキャラクターに対して、MEMOUTコマンドは使用できません",
+            "zh": "无法对未显示的角色使用MEMOUT命令",
+            "narrator_zh": ""
+        },
+        {
+            "location": "90/DLL",
+            "narrator": "",
+            "text": "非表示のキャラクターに対して、OUTコマンドは使用できません",
+            "zh": "无法对未显示的角色使用OUT命令",
+            "narrator_zh": ""
+        },
+        {
+            "location": "91/DLL",
+            "narrator": "",
+            "text": "MEMLOADコマンドに表示位置は指定できません",
+            "zh": "MEMLOAD命令不能指定显示位置",
+            "narrator_zh": ""
+        },
+        {
+            "location": "92/DLL",
+            "narrator": "",
+            "text": "古いバージョンのSET_FOCUSが使われています",
+            "zh": "正在使用旧版本的SET_FOCUS",
+            "narrator_zh": ""
+        },
+        {
+            "location": "93/DLL",
+            "narrator": "",
+            "text": "RAND の合計値が 100 になっていません: {0}, {1}",
+            "zh": "RAND 的合计值不是 100: {0}, {1}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "94/DLL",
+            "narrator": "",
+            "text": "TOUCHはTOUCHSEL内部では使用できません",
+            "zh": "TOUCH不能在TOUCHSEL内部使用",
+            "narrator_zh": ""
+        },
+        {
+            "location": "95/DLL",
+            "narrator": "",
+            "text": "BATTLE:{0} を実行します",
+            "zh": "将执行 BATTLE:{0}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "96/DLL",
+            "narrator": "",
+            "text": "WATCHANIME:{0} を実行します",
+            "zh": "将执行 WATCHANIME:{0}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "97/DLL",
+            "narrator": "",
+            "text": "んー",
+            "zh": "嗯—",
+            "narrator_zh": ""
+        },
+        {
+            "location": "98/DLL",
+            "narrator": "",
+            "text": "夜Ａスマホ思考",
+            "zh": "夜晚A手机思考",
+            "narrator_zh": ""
+        },
+        {
+            "location": "99/DLL",
+            "narrator": "",
+            "text": "夜Ｂスマホ思考",
+            "zh": "夜晚B手机思考",
+            "narrator_zh": ""
+        },
+        {
+            "location": "100/DLL",
+            "narrator": "",
+            "text": "夜Ｃスマホ思考",
+            "zh": "夜晚C手机思考",
+            "narrator_zh": ""
+        },
+        {
+            "location": "101/DLL",
+            "narrator": "",
+            "text": "夜Ｄスマホ思考",
+            "zh": "夜晚D手机思考",
+            "narrator_zh": ""
+        },
+        {
+            "location": "102/DLL",
+            "narrator": "",
+            "text": "夜Ｅスマホ思考",
+            "zh": "夜晚E手机思考",
+            "narrator_zh": ""
+        },
+        {
+            "location": "103/DLL",
+            "narrator": "",
+            "text": "タッチされていないのにSET_NADE2が呼ばれました",
+            "zh": "并未触摸却调用了SET_NADE2",
+            "narrator_zh": ""
+        },
+        {
+            "location": "104/DLL",
+            "narrator": "",
+            "text": "親密度レベルと経験値が一致しません。Lv:{0} Exp:{1} LevelExp:{2} ",
+            "zh": "亲密度等级与经验值不一致。Lv:{0} Exp:{1} LevelExp:{2} ",
+            "narrator_zh": ""
+        },
+        {
+            "location": "105/DLL",
+            "narrator": "",
+            "text": "変数名が空です。 : ",
+            "zh": "变量名为空。 : ",
+            "narrator_zh": ""
+        },
+        {
+            "location": "106/DLL",
+            "narrator": "",
+            "text": "SET_PARAMの第1引数には、FLASTかSERVERのどちらかを指定してください : ",
+            "zh": "SET_PARAM的第1参数请指定FLAST或SERVER : ",
+            "narrator_zh": ""
+        },
+        {
+            "location": "107/DLL",
+            "narrator": "",
+            "text": "変数名は$記号で囲んでください : ",
+            "zh": "请用$符号括起变量名 : ",
+            "narrator_zh": ""
+        },
+        {
+            "location": "108/DLL",
+            "narrator": "",
+            "text": "は無効なキーワードです",
+            "zh": "是无效的关键字",
+            "narrator_zh": ""
+        },
+        {
+            "location": "109/DLL",
+            "narrator": "",
+            "text": "不正なシナリオ処理が行われました。\n<size=20>(Code:",
+            "zh": "执行了无效的剧本处理。\n<size=20>(Code:",
+            "narrator_zh": ""
+        },
+        {
+            "location": "110/DLL",
+            "narrator": "",
+            "text": "ADD_PARAMの第1引数には、FLASTかSERVERのどちらかを指定してください : ",
+            "zh": "ADD_PARAM的第1参数请指定FLAST或SERVER : ",
+            "narrator_zh": ""
+        },
+        {
+            "location": "111/DLL",
+            "narrator": "",
+            "text": "キャンディーを消費する選択肢にサーバータグが設定されていません。row={0}: {1}",
+            "zh": "消耗糖果的选项未设置服务器标签。row={0}: {1}",
+            "narrator_zh": ""
+        },
+        {
+            "location": "112/DLL",
+            "narrator": "",
+            "text": "をサーバーに送信しました",
+            "zh": "已发送至服务器",
+            "narrator_zh": ""
+        },
+        {
+            "location": "113/DLL",
+            "narrator": "",
+            "text": "サーバータグがありません。",
+            "zh": "没有服务器标签。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "114/DLL",
+            "narrator": "",
+            "text": "ADD_LOVE2に成功したものの、親密度は得られませんでした。",
+            "zh": "ADD_LOVE2成功，但未获得亲密度。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "115/DLL",
+            "narrator": "",
+            "text": "ApplyScenarioに失敗",
+            "zh": "ApplyScenario失败",
+            "narrator_zh": ""
+        },
+        {
+            "location": "116/DLL",
+            "narrator": "",
+            "text": "シナリオサーバーに接続できません。\n<size=20>(sCode:0001)</size>",
+            "zh": "无法连接剧本服务器。\n<size=20>(sCode:0001)</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "172/DLL",
+            "narrator": "",
+            "text": "シナリオデータが存在しません。\n<size=20>({0})</size>",
+            "zh": "剧本数据不存在。\n<size=20>({0})</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "754/DLL",
+            "narrator": "",
+            "text": "デートミッションが存在しません。\n<size=20>({0})</size>",
+            "zh": "约会任务不存在。\n<size=20>({0})</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "755/DLL",
+            "narrator": "",
+            "text": "着替えミッションが存在しません。\n<size=20>({0})</size>",
+            "zh": "换装任务不存在。\n<size=20>({0})</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "756/DLL",
+            "narrator": "",
+            "text": "発症ミッションが存在しません。\n<size=20>({0})</size>",
+            "zh": "发作任务不存在。\n<size=20>({0})</size>",
+            "narrator_zh": ""
+        }
+    ]
+}

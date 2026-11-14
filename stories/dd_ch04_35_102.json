@@ -1,0 +1,47 @@
+{
+    "dir": "chap35/daydra/dd_ch04_35_102.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "35405",
+        "cid": "miyabi",
+        "title": "005 メインストーリー",
+        "sub_title": "高度に発達した感情はコードに似て＜後編＞"
+    },
+    "entry":
+    [
+        { "location": "583/SCENARIO", "narrator": "", "text": "シスターズ・コンフリクト"},
+        { "location": "603/TALK"    , "narrator": "みやび", "text": "うちはめでたく\n発症したんか？"},
+        { "location": "604/TALK"    , "narrator": "みやび", "text": "逢瀬つばめの\nフェノメノンにいた時の\n記憶が……。"},
+        { "location": "605/TALK"    , "narrator": "みやび", "text": "いや違う、これは。"},
+        { "location": "606/TALK"    , "narrator": "みやび", "text": "相棒！"},
+        { "location": "607/SEL"     , "narrator": "", "text": "$handle$だよ"},
+        { "location": "608/SEL"     , "narrator": "", "text": "どうなってるの？"},
+        { "location": "609/SEL"     , "narrator": "", "text": "こっちの方が\n今大変だから"},
+        { "location": "610/ACT"     , "narrator": "", "text": "$handle$だよ"},
+        { "location": "611/TALK"    , "narrator": "みやび", "text": "名前はどうでもえい。"},
+        { "location": "612/ACT"     , "narrator": "", "text": "どうなってるの？"},
+        { "location": "613/TALK"    , "narrator": "みやび", "text": "こっちが\n聞きたいちや。"},
+        { "location": "614/ACT"     , "narrator": "", "text": "こっちの方が\n今大変だから"},
+        { "location": "615/TALK"    , "narrator": "みやび", "text": "サポートＡＩが\n何を言っちゅう。"},
+        { "location": "617/TALK"    , "narrator": "みやび", "text": "今すぐにでもつばめを\n蒸着させんと\n世界の危機ぞね。"},
+        { "location": "618/TALK"    , "narrator": "みやび", "text": "早う――"},
+        { "location": "633/TALK"    , "narrator": "みやび", "text": "こんなことをせいとは\n言うとらん！"},
+        { "location": "634/TALK"    , "narrator": "みやび", "text": "早う競合を解除せい！"},
+        { "location": "635/SEL"     , "narrator": "", "text": "$me$は何もしていない"},
+        { "location": "636/SEL"     , "narrator": "", "text": "そもそも何が何だか"},
+        { "location": "637/SEL"     , "narrator": "", "text": "$me$にもわからない"},
+        { "location": "638/ACT"     , "narrator": "", "text": "$me$は何もしていない"},
+        { "location": "639/TALK"    , "narrator": "みやび", "text": "そんなわけはないろう！"},
+        { "location": "640/ACT"     , "narrator": "", "text": "そもそも何が何だか"},
+        { "location": "641/TALK"    , "narrator": "みやび", "text": "データの共有は\nされておらんのかね？"},
+        { "location": "642/ACT"     , "narrator": "", "text": "$me$にもわからない"},
+        { "location": "643/TALK"    , "narrator": "みやび", "text": "例外処理の\n検索パターンが\n貧弱なんやないかね？"},
+        { "location": "645/TALK"    , "narrator": "みやび", "text": "これではサポートＡＩの\n意味がないろう！"},
+        { "location": "659/TALK"    , "narrator": "みやび", "text": "ん……。"},
+        { "location": "660/TALK"    , "narrator": "みやび", "text": "……ここは……。"},
+        { "location": "598/DIALOG"  , "narrator": "NOTICE", "text": "<color=green>【TRI-OS Plug-in:Interrupt】</color>\nSystem Interrupted.\n\n必須選択肢が選ばれていません。\n\n<color=green>『STORY27：シン・カグラ』</color>\nにて、選択を行ってから\n再度アクセスしてください。\n"},
+        { "location": "621/DIALOG"  , "narrator": "NOTICE", "text": "<color=red>【TRI-OS Error:0xFE】</color>\n\nココロアドレスが\nコンフリクトしています。\n\n至急、競合の解除をしてください。\n(295)"},
+        { "location": "647/DIALOG"  , "narrator": "NOTICE", "text": "<color=red>【TRI-OS Error:0xFF】</color>\n\nココロアドレスが\nコンフリクトしています。\n\n<color=blue>コンフリクトアドレス：\n0x948～0xFFC</color>\n\n競合箇所を表示します。\n(074)"},
+        { "location": "671/DIALOG"  , "narrator": "Dialog_chapter_ch04", "text": "【29 羽とアリス】"}
+    ]
+}

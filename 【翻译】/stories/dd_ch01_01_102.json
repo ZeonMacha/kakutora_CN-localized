@@ -1,0 +1,826 @@
+{
+ "dir": "chap01/daydra/dd_ch01_01_102.js",
+ "type": "MainStory",
+ "info": {
+  "story_id": "1104",
+  "cid": "tsubame",
+  "title": "004 メインストーリー",
+  "sub_title": "逢瀬つばめという存在＜後編＞",
+  "title_zh": "004 主线剧情",
+  "sub_title_zh": "名为逢濑燕的存在＜后篇＞"
+ },
+ "entry": [
+  {
+   "location": "418/SCENARIO",
+   "narrator": "",
+   "text": "初めてのデイドラ",
+   "zh": "第一次每日剧场",
+   "narrator_zh": ""
+  },
+  {
+   "location": "439/TALK",
+   "narrator": "千羽鶴",
+   "text": "現実世界へ\nおかえりなさい。",
+   "zh": "欢迎回到\n现实世界。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "440/TALK",
+   "narrator": "千羽鶴",
+   "text": "貴方が彼女のココロの中で\n奮闘してくれたお陰で、\n彼女の心は安定した。",
+   "zh": "多亏你在她的心中\n奋战，\n她的心稳定下来了。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "441/TALK",
+   "narrator": "千羽鶴",
+   "text": "あとは貴方から直接、\n彼女にアドバイスをして、\n背中を一押しするだけ。",
+   "zh": "接下来只要你直接\n给她出主意，\n在背后推她一把。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "442/TALK",
+   "narrator": "千羽鶴",
+   "text": "さて、\nその方法だけど。",
+   "zh": "那么，\n说到方法。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "448/TALK",
+   "narrator": "千羽鶴",
+   "text": "WAVEというチャット\nツールのシステムを\n作ってみた。",
+   "zh": "我做了个\n叫WAVE的聊天\n工具系统。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "449/TALK",
+   "narrator": "千羽鶴",
+   "text": "あなたの世界にも、\n似たものがあるかも\nしれないけど。",
+   "zh": "你的世界里，\n也许也有\n类似的东西。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "450/TALK",
+   "narrator": "千羽鶴",
+   "text": "そして、彼女のWAVEに\nあなたを登録して\nおいた。",
+   "zh": "然后，我已经把你\n登记进\n她的WAVE了。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "451/SEL",
+   "narrator": "",
+   "text": "なるほど",
+   "zh": "原来如此",
+   "narrator_zh": ""
+  },
+  {
+   "location": "452/ACT",
+   "narrator": "",
+   "text": "なるほど",
+   "zh": "原来如此",
+   "narrator_zh": ""
+  },
+  {
+   "location": "454/TALK",
+   "narrator": "千羽鶴",
+   "text": "でも「bot」として\nだけど。",
+   "zh": "不过，是作为“bot”\n而已。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "455/SEL",
+   "narrator": "",
+   "text": "なんでBot！？",
+   "zh": "为什么是Bot！？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "456/ACT",
+   "narrator": "",
+   "text": "なんでBot！？",
+   "zh": "为什么是Bot！？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "458/TALK",
+   "narrator": "千羽鶴",
+   "text": "いきなり知らない人が\nフレンド登録されて\nいたらまずいでしょう。",
+   "zh": "要是突然被\n不认识的人\n加为好友，不好吧。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "459/SEL",
+   "narrator": "",
+   "text": "そんなところにリアリティを持たせなくても",
+   "zh": "那种地方不必追求真实感",
+   "narrator_zh": ""
+  },
+  {
+   "location": "460/ACT",
+   "narrator": "",
+   "text": "そんなところにリアリティを持たせなくても",
+   "zh": "那种地方不必追求真实感",
+   "narrator_zh": ""
+  },
+  {
+   "location": "462/TALK",
+   "narrator": "千羽鶴",
+   "text": "「あなた」は「あなた」\nなんだから。",
+   "zh": "“你”就是“你”，\n所以。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "463/TALK",
+   "narrator": "千羽鶴",
+   "text": "幼馴染み設定とか、\nそんな都合のいい\nものはないから。",
+   "zh": "没有青梅竹马设定\n这种\n这么方便的东西。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "464/TALK",
+   "narrator": "千羽鶴",
+   "text": "そこはリアリティを\n持って欲しい。",
+   "zh": "这里希望你\n带着真实感。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "465/TALK",
+   "narrator": "千羽鶴",
+   "text": "そういうわけだから、\n彼女からの抵抗は\nあまり無いはず。",
+   "zh": "所以，\n她那边的抗拒\n应该不多。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "466/SEL",
+   "narrator": "",
+   "text": "でもBotじゃねえ…",
+   "zh": "可是Bot也太……",
+   "narrator_zh": ""
+  },
+  {
+   "location": "467/ACT",
+   "narrator": "",
+   "text": "でもBotじゃねえ…",
+   "zh": "可是Bot也太……",
+   "narrator_zh": ""
+  },
+  {
+   "location": "469/TALK",
+   "narrator": "千羽鶴",
+   "text": "私はあくまで\n自然な出逢いと機会を\n与えただけ。",
+   "zh": "我不过是给了\n自然的相遇\n和机会。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "470/TALK",
+   "narrator": "千羽鶴",
+   "text": "どう運用するかは\nあなたが決めていい。",
+   "zh": "怎么用，\n你自己决定就好。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "471/TALK",
+   "narrator": "千羽鶴",
+   "text": "すぐに「bot」では\nないと伝えてもいいし、\nそのままでもいい。",
+   "zh": "可以马上告诉她\n自己不是“bot”，\n也可以就这样。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "472/TALK",
+   "narrator": "千羽鶴",
+   "text": "そこはあなたの\nセンスに任せる。",
+   "zh": "那里就交给\n你的分寸。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "476/TALK",
+   "narrator": "千羽鶴",
+   "text": "さあ、彼女の新しい物語が\n始まろうとしている。",
+   "zh": "来，她的新故事\n就要开始了。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "477/TALK",
+   "narrator": "千羽鶴",
+   "text": "チャットツールWAVEを\n使って、彼女を支えて\nいってほしい。",
+   "zh": "希望你用聊天工具WAVE\n去支持她，\n陪她走下去。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "490/TALK",
+   "narrator": "つばめ",
+   "text": "はぁ……\nほんと、どうしよう。",
+   "zh": "哈啊……\n真是的，怎么办呀。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "491/SEL",
+   "narrator": "",
+   "text": "こんばんは",
+   "zh": "晚上好",
+   "narrator_zh": ""
+  },
+  {
+   "location": "492/ACT",
+   "narrator": "",
+   "text": "こんばんは",
+   "zh": "晚上好",
+   "narrator_zh": ""
+  },
+  {
+   "location": "497/TALK",
+   "narrator": "つばめ",
+   "text": "え？\nメール…？",
+   "zh": "诶？\n邮件……？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "500/TALK",
+   "narrator": "つばめ",
+   "text": "……[WAVE]だ！\nおかしいな、誰だろう。",
+   "zh": "……是[WAVE]！\n奇怪，会是谁呀。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "501/TALK",
+   "narrator": "つばめ",
+   "text": "わたし、[WAVE]には\nお父さんとお母さんしか\n登録してないのに……",
+   "zh": "我的[WAVE]里\n只登记了爸爸和妈妈，\n可是……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "506/TALK",
+   "narrator": "プレイヤー",
+   "text": "こんばんは",
+   "zh": "晚上好",
+   "narrator_zh": "玩家"
+  },
+  {
+   "location": "508/TALK",
+   "narrator": "つばめ",
+   "text": "こんばんは|д･´)",
+   "zh": "晚上好|д･´)",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "509/TALK",
+   "narrator": "つばめ",
+   "text": "あなたは誰ですか？",
+   "zh": "你是谁？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "511/SEL",
+   "narrator": "",
+   "text": "よくわからない",
+   "zh": "不太清楚",
+   "narrator_zh": ""
+  },
+  {
+   "location": "512/SEL",
+   "narrator": "",
+   "text": "あなたの足長おじさんです",
+   "zh": "我是你的长腿叔叔",
+   "narrator_zh": ""
+  },
+  {
+   "location": "513/SEL",
+   "narrator": "",
+   "text": "えと、Bot…？",
+   "zh": "呃，Bot……？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "514/ACT",
+   "narrator": "",
+   "text": "よくわからない",
+   "zh": "不太清楚",
+   "narrator_zh": ""
+  },
+  {
+   "location": "515/TALK",
+   "narrator": "つばめ",
+   "text": "(´ｪ｀；)三(；´ｪ｀)？？",
+   "zh": "(´ｪ｀；)三(；´ｪ｀)？？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "516/TALK",
+   "narrator": "つばめ",
+   "text": "あヾ(o´∀｀o)ﾉ",
+   "zh": "啊ヾ(o´∀｀o)ﾉ",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "517/TALK",
+   "narrator": "つばめ",
+   "text": "Botってやつだょね",
+   "zh": "就是叫Bot的那种呀",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "518/ACT",
+   "narrator": "",
+   "text": "あなたの足長おじさんです",
+   "zh": "我是你的长腿叔叔",
+   "narrator_zh": ""
+  },
+  {
+   "location": "519/TALK",
+   "narrator": "つばめ",
+   "text": "足長おじさんって？",
+   "zh": "长腿叔叔是什么？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "520/TALK",
+   "narrator": "つばめ",
+   "text": "あ（*'∀'人）",
+   "zh": "啊（*'∀'人）",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "521/TALK",
+   "narrator": "つばめ",
+   "text": "Botってやつだょね",
+   "zh": "就是叫Bot的那种呀",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "522/ACT",
+   "narrator": "",
+   "text": "えと、Bot…？",
+   "zh": "呃，Bot……？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "523/TALK",
+   "narrator": "つばめ",
+   "text": "Bot・・・さんでぃぃのかな(･ｪ･^ )( ^･ｪ･)",
+   "zh": "是Bot……吗(･ｪ･^ )( ^･ｪ･)",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "524/TALK",
+   "narrator": "つばめ",
+   "text": "あ",
+   "zh": "啊",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "525/TALK",
+   "narrator": "つばめ",
+   "text": "意味がゎかったょ(*´︶`*)",
+   "zh": "明白了哦(*´︶`*)",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "527/TALK",
+   "narrator": "つばめ",
+   "text": "さいきんWAVE用のBotアプリが流行ってるって記事があったょ",
+   "zh": "最近有篇文章说，给WAVE用的Bot应用很流行哦",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "528/TALK",
+   "narrator": "つばめ",
+   "text": "はじめまして、Botさん(*´︶`*)",
+   "zh": "初次见面，Bot(*´︶`*)",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "530/SEL",
+   "narrator": "",
+   "text": "はじめまして、つばめ",
+   "zh": "初次见面，燕",
+   "narrator_zh": ""
+  },
+  {
+   "location": "531/ACT",
+   "narrator": "",
+   "text": "はじめまして、つばめ",
+   "zh": "初次见面，燕",
+   "narrator_zh": ""
+  },
+  {
+   "location": "533/TALK",
+   "narrator": "つばめ",
+   "text": "すごい！ほんとに誰かとWAVEしてるみたぃ",
+   "zh": "好厉害！真的像在跟谁WAVE呀",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "534/TALK",
+   "narrator": "つばめ",
+   "text": "もうちょっとぉ話したぃな(●´ω｀●)ゞ",
+   "zh": "还想再聊一会儿呀(●´ω｀●)ゞ",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "536/SEL",
+   "narrator": "",
+   "text": "喜んで",
+   "zh": "很乐意",
+   "narrator_zh": ""
+  },
+  {
+   "location": "537/ACT",
+   "narrator": "",
+   "text": "喜んで",
+   "zh": "很乐意",
+   "narrator_zh": ""
+  },
+  {
+   "location": "539/TALK",
+   "narrator": "つばめ",
+   "text": "ぇっと",
+   "zh": "那个",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "540/TALK",
+   "narrator": "つばめ",
+   "text": "ぁしたメノウちゃんのライブがぁるんだょo(*･ﾛ･*)o",
+   "zh": "明天有MENOW的演出哦o(*･ﾛ･*)o",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "541/TALK",
+   "narrator": "つばめ",
+   "text": "メノウちゃんはFreyMENOWっていう歌手の子でぁたし２年前から大ファンなんだ(*´︶`*)",
+   "zh": "MENOW是个叫FreyMENOW的歌手，我从两年前就是大粉丝啦(*´︶`*)",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "543/TALK",
+   "narrator": "つばめ",
+   "text": "けど、この前までずっと入院してたから、ライブ行きたくても行けなかったの",
+   "zh": "可是，直到前阵子一直住院，想去演出也去不成",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "547/TALK",
+   "narrator": "つばめ",
+   "text": "でも",
+   "zh": "不过",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "548/TALK",
+   "narrator": "つばめ",
+   "text": "ちょっと悩んでるの(´・ω・｀)",
+   "zh": "有点发愁(´・ω・｀)",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "549/TALK",
+   "narrator": "つばめ",
+   "text": "お母さんの調子が悪ぃから",
+   "zh": "因为妈妈身体不太好",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "551/SEL",
+   "narrator": "",
+   "text": "それなら行くべき",
+   "zh": "那就该去",
+   "narrator_zh": ""
+  },
+  {
+   "location": "552/ACT",
+   "narrator": "",
+   "text": "それなら行くべき",
+   "zh": "那就该去",
+   "narrator_zh": ""
+  },
+  {
+   "location": "554/TALK",
+   "narrator": "つばめ",
+   "text": "え",
+   "zh": "诶",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "555/TALK",
+   "narrator": "つばめ",
+   "text": "なんで？",
+   "zh": "为什么？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "557/SEL",
+   "narrator": "",
+   "text": "お母さんはライブ行くこと知ってるよね？",
+   "zh": "妈妈知道你要去看演出的吧？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "558/ACT",
+   "narrator": "",
+   "text": "お母さんはライブ行くこと知ってるよね？",
+   "zh": "妈妈知道你要去看演出的吧？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "560/TALK",
+   "narrator": "つばめ",
+   "text": "もちろんだょo(*･ﾛ･*)o",
+   "zh": "当然啦o(*･ﾛ･*)o",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "561/TALK",
+   "narrator": "つばめ",
+   "text": "チケット取れたって言ったらすごく喜んでくれたょヽ(*´∀｀*)ﾉ",
+   "zh": "我说抢到票了，她高兴坏了哦ヽ(*´∀｀*)ﾉ",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "563/SEL",
+   "narrator": "",
+   "text": "なら、行かなかったら悲しむと思う",
+   "zh": "那要是不去，我想她会难过",
+   "narrator_zh": ""
+  },
+  {
+   "location": "564/ACT",
+   "narrator": "",
+   "text": "なら、行かなかったら悲しむと思う",
+   "zh": "那要是不去，我想她会难过",
+   "narrator_zh": ""
+  },
+  {
+   "location": "566/TALK",
+   "narrator": "つばめ",
+   "text": "そぅなの？",
+   "zh": "是这样吗？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "568/SEL",
+   "narrator": "",
+   "text": "自分のせいでつばめがライブに行けなくなったって思わないかな？",
+   "zh": "会不会觉得，是因为自己，燕才去不成演出？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "569/ACT",
+   "narrator": "",
+   "text": "自分のせいでつばめがライブに行けなくなったって思わないかな？",
+   "zh": "会不会觉得，是因为自己，燕才去不成演出？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "571/TALK",
+   "narrator": "つばめ",
+   "text": "あ",
+   "zh": "啊",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "572/TALK",
+   "narrator": "つばめ",
+   "text": "そっか",
+   "zh": "这样啊",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "573/TALK",
+   "narrator": "つばめ",
+   "text": "そぅかも・・・",
+   "zh": "也许吧……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "577/TALK",
+   "narrator": "つばめ",
+   "text": "ぁたし行くね",
+   "zh": "我去哦",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "578/TALK",
+   "narrator": "つばめ",
+   "text": "メノウちゃんのライブ",
+   "zh": "MENOW的演出",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "580/SEL",
+   "narrator": "",
+   "text": "しっかり楽しもうね",
+   "zh": "要好好享受哦",
+   "narrator_zh": ""
+  },
+  {
+   "location": "581/ACT",
+   "narrator": "",
+   "text": "しっかり楽しもうね",
+   "zh": "要好好享受哦",
+   "narrator_zh": ""
+  },
+  {
+   "location": "583/TALK",
+   "narrator": "つばめ",
+   "text": "ぅん(*´︶`*)",
+   "zh": "嗯(*´︶`*)",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "584/TALK",
+   "narrator": "つばめ",
+   "text": "ぉみやげも買っちゃぅヽ(･ω･ )ゝ",
+   "zh": "伴手礼也买了哦ヽ(･ω･ )ゝ",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "585/TALK",
+   "narrator": "つばめ",
+   "text": "何がぃぃかな？",
+   "zh": "买什么好呀？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "587/SEL",
+   "narrator": "",
+   "text": "東京ばにゃにゃ",
+   "zh": "东京芭喵喵",
+   "narrator_zh": ""
+  },
+  {
+   "location": "588/SEL",
+   "narrator": "",
+   "text": "ピヨコ",
+   "zh": "小鸡",
+   "narrator_zh": ""
+  },
+  {
+   "location": "589/SEL",
+   "narrator": "",
+   "text": "カレシ",
+   "zh": "男友",
+   "narrator_zh": ""
+  },
+  {
+   "location": "590/ACT",
+   "narrator": "",
+   "text": "東京ばにゃにゃ",
+   "zh": "东京芭喵喵",
+   "narrator_zh": ""
+  },
+  {
+   "location": "591/TALK",
+   "narrator": "つばめ",
+   "text": "そんなぉみやげあるんだ！",
+   "zh": "还有这种伴手礼呀！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "592/ACT",
+   "narrator": "",
+   "text": "ピヨコ",
+   "zh": "小鸡",
+   "narrator_zh": ""
+  },
+  {
+   "location": "593/TALK",
+   "narrator": "つばめ",
+   "text": "なにそれぉみやげ？",
+   "zh": "那是什么伴手礼？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "594/ACT",
+   "narrator": "",
+   "text": "カレシ",
+   "zh": "男友",
+   "narrator_zh": ""
+  },
+  {
+   "location": "595/TALK",
+   "narrator": "つばめ",
+   "text": "カレシ？そんなぉかしあるの？",
+   "zh": "男友？有这种零食吗？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "596/SEL",
+   "narrator": "",
+   "text": "恋人のことだよ",
+   "zh": "是说恋人啦",
+   "narrator_zh": ""
+  },
+  {
+   "location": "597/TALK",
+   "narrator": "つばめ",
+   "text": "辛ぃのかな",
+   "zh": "是辣的吗",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "598/TALK",
+   "narrator": "つばめ",
+   "text": "それカラシ",
+   "zh": "那是芥末",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "599/TALK",
+   "narrator": "つばめ",
+   "text": "なんてね_(┐「ε:)_",
+   "zh": "开玩笑的_(┐“ε:)_",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "600/ACT",
+   "narrator": "",
+   "text": "恋人のことだよ",
+   "zh": "是说恋人啦",
+   "narrator_zh": ""
+  },
+  {
+   "location": "602/TALK",
+   "narrator": "つばめ",
+   "text": "やっぱりそうなの(ﾟ△ﾟ;ﾉ)ﾉ",
+   "zh": "果然是那样(ﾟ△ﾟ;ﾉ)ﾉ",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "603/TALK",
+   "narrator": "つばめ",
+   "text": "カレシなんて連れて帰ったらお父さんが大変だょ(´ｪ｀；)三(；´ｪ｀)",
+   "zh": "要是把男友带回家，爸爸可就不得了啦(´ｪ｀；)三(；´ｪ｀)",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "605/TALK",
+   "narrator": "つばめ",
+   "text": "またぉ話してくれる？",
+   "zh": "还会再跟我说话吗？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "607/SEL",
+   "narrator": "",
+   "text": "もちろん",
+   "zh": "当然",
+   "narrator_zh": ""
+  },
+  {
+   "location": "608/ACT",
+   "narrator": "",
+   "text": "もちろん",
+   "zh": "当然",
+   "narrator_zh": ""
+  },
+  {
+   "location": "610/TALK",
+   "narrator": "つばめ",
+   "text": "ょかった",
+   "zh": "太好了",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "611/TALK",
+   "narrator": "つばめ",
+   "text": "じゃぁまたね(*´︶`*)",
+   "zh": "那就下次见(*´︶`*)",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "624/TALK",
+   "narrator": "つばめ",
+   "text": "最近のスマホって\nすごいなぁ。",
+   "zh": "最近的手机\n真厉害呀。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "625/TALK",
+   "narrator": "つばめ",
+   "text": "あんな人間みたいな\n[Bot]が使えるなんて。",
+   "zh": "居然能用那么\n像人的[Bot]。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "626/TALK",
+   "narrator": "つばめ",
+   "text": "でも、お陰で迷いも\n晴れたし。",
+   "zh": "不过，多亏这样，\n迷茫也散了。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "628/TALK",
+   "narrator": "つばめ",
+   "text": "よーし！\n明日から３日間！\n思いっきり楽しむよっ！",
+   "zh": "好！\n从明天起三天！\n尽情享受啦！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "488/DIALOG",
+   "narrator": "Dialog_EventData",
+   "text": "<color=green>5月2日　9:33 PM</color>\n静岡・逢瀬邸\nリビングにて。",
+   "zh": "<color=green>5月2日　9:33 PM</color>\n静冈·逢濑家\n客厅里。",
+   "narrator_zh": "Dialog_EventData"
+  }
+ ]
+}

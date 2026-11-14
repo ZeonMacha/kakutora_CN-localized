@@ -1,0 +1,70 @@
+{
+ "dir": "unei/develop_ch01.js",
+ "type": "Unei",
+ "info": {
+  "story_id": "30100",
+  "cid": "scenario",
+  "title": "発症",
+  "sub_title": "発症つばめ",
+  "title_zh": "发病",
+  "sub_title_zh": "发病燕"
+ },
+ "entry": [
+  {
+   "location": "292/SCENARIO",
+   "narrator": "",
+   "text": "発症つばめ",
+   "zh": "发病燕",
+   "narrator_zh": ""
+  },
+  {
+   "location": "297/DIALOG",
+   "narrator": "Event/Dialog_Develop3",
+   "text": "\n::Status\nTSUBAME OHSE (F)\n<color=blue><size=36>NOT DEVELOPED.</size></color>\n<size=30>\n<color=red>発症処理を開始する場合は、権限コードをご用意の上「発症開始」ボタンを押して下さい。</color>\n</size>",
+   "zh": "\n::Status\n逢濑燕(F)\n<color=blue><size=36>NOT DEVELOPED.</size></color>\n<size=30>\n<color=red>若要开始发病处理，请备好权限码，再按“开始发病”。</color>\n</size>",
+   "narrator_zh": "Event/Dialog_Develop3"
+  },
+  {
+   "location": "300/DIALOG",
+   "narrator": "Event/Dialog_Develop2",
+   "text": "<color=red><size=28>TSUBAME OHSE (F)\n非発症状態\n(NOT DEVELOPED)\nからの発症処理を開始します。</size></color>\n\n$handle$様においては、以下の認証コードにより【処理権限SX】を検出致しました。以後、この処理は【処理権限SX】による明示的な解除があるまでは、より低レベルな運用者による変更はできなくなります。\n\n<color=green>e88bbae381aee3839fe383abe38395e382a3e383bce383a6\n</color>\n\n<color=red>発症処理を実行する場合は\n「実行する」ボタンを押して下さい。\n</color>",
+   "zh": "<color=red><size=28>逢濑燕(F)\n非发病状态\n(NOT DEVELOPED)\n开始发病处理。</size></color>\n\n已根据以下认证码，确认$handle$具有【处理权限SX】。此后，除非由【处理权限SX】明确解除，更低级别的操作者将无法更改此项处理。\n\n<color=green>e88bbae381aee3839fe383abe38395e382a3e383bce383a6\n</color>\n\n<color=red>若要执行发病处理，\n请按“执行”。\n</color>",
+   "narrator_zh": "Event/Dialog_Develop2"
+  },
+  {
+   "location": "304/DIALOG",
+   "narrator": "Event/Dialog_Develop4",
+   "text": "TSUBAME OHSE (F)\n<color=red><size=32>発症準備状態\n(DEVELOP STANDBY)</size></color>\n発症は正常に実行されました。\n",
+   "zh": "逢濑燕(F)\n<color=red><size=32>发病准备状态\n(DEVELOP STANDBY)</size></color>\n发病已正常执行。\n",
+   "narrator_zh": "Event/Dialog_Develop4"
+  },
+  {
+   "location": "309/DIALOG",
+   "narrator": "Event/Dialog_Develop",
+   "text": "\n::Status\nTSUBAME OHSE (F)\n<color=red><size=36>DEVELOP STANDBY.</size></color>\n<size=30>発症は現在セットアップLV1</size>\nシステム待機中です。\n<size=20>\n<color=red>発症手続をキャンセルする場合は、権限コードをご用意の上「中断する」ボタンを押して下さい。</color>\n</size>",
+   "zh": "\n::Status\n逢濑燕(F)\n<color=red><size=36>DEVELOP STANDBY.</size></color>\n<size=30>发病目前为设置LV1</size>\n系统待机中。\n<size=20>\n<color=red>若要取消发病手续，请备好权限码，再按“中断”。</color>\n</size>",
+   "narrator_zh": "Event/Dialog_Develop"
+  },
+  {
+   "location": "313/DIALOG",
+   "narrator": "Event/Dialog_Develop2",
+   "text": "<color=red><size=28>TSUBAME OHSE (F)\n発症準備状態\n(DEVELOP STANDBY)\nをキャンセルします。</size></color>\n\n$handle$様においては、以下の認証コードにより【処理権限SX】を検出致しました。以後、この処理は【処理権限SX】による明示的な解除があるまでは、より低レベルな運用者による変更はできなくなります。\n\n<color=green>e88bbae381aee3839fe383abe38395e382a3e383bce383a6\n</color>\n\n<color=red>キャンセルを実行する場合は\n「実行する」ボタンを押して下さい。\n</color>",
+   "zh": "<color=red><size=28>逢濑燕(F)\n发病准备状态\n(DEVELOP STANDBY)\n将被取消。</size></color>\n\n已根据以下认证码，确认$handle$具有【处理权限SX】。此后，除非由【处理权限SX】明确解除，更低级别的操作者将无法更改此项处理。\n\n<color=green>e88bbae381aee3839fe383abe38395e382a3e383bce383a6\n</color>\n\n<color=red>若要执行取消，\n请按“执行”。\n</color>",
+   "narrator_zh": "Event/Dialog_Develop2"
+  },
+  {
+   "location": "317/DIALOG",
+   "narrator": "Event/Dialog_Develop4",
+   "text": "TSUBAME OHSE (F)\n<color=blue><size=32>未発症状態\n(NOT DEVELOPED)</size></color>\n発症は正常に中止されました。\n",
+   "zh": "逢濑燕(F)\n<color=blue><size=32>未发病状态\n(NOT DEVELOPED)</size></color>\n发病已正常中止。\n",
+   "narrator_zh": "Event/Dialog_Develop4"
+  },
+  {
+   "location": "321/DIALOG",
+   "narrator": "Event/Dialog_Develop4",
+   "text": "<color=red><size=32>TSUBAME OHSE (F)\n発症準備状態\n(DEVELOP STANDBY)\nをキャンセルできません。</size></color>\n\n$handle$様においては、認証コードが検出できない為、【処理権限AX】による現処理を停止できません。認証コードの発行につきましては、当局にお問い合わせください。\n",
+   "zh": "<color=red><size=32>逢濑燕(F)\n发病准备状态\n(DEVELOP STANDBY)\n无法取消。</size></color>\n\n由于未能检测到$handle$的认证码，无法以【处理权限AX】停止当前处理。认证码的签发，请向当局咨询。\n",
+   "narrator_zh": "Event/Dialog_Develop4"
+  }
+ ]
+}

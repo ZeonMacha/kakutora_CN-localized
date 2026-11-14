@@ -1,0 +1,37 @@
+{
+    "dir": "Friend",
+    "type": "ui_dll",
+    "info": {
+    },
+    "entry":
+    [
+        { "location": "213/DLL", "narrator": "", "text": "{0}分前"},
+        { "location": "214/DLL", "narrator": "", "text": "{0}時間前"},
+        { "location": "215/DLL", "narrator": "", "text": "{0}日前"},
+        { "location": "216/DLL", "narrator": "", "text": "一か月以上前"},
+        { "location": "511/DLL", "narrator": "", "text": "フレンドの候補が見つかりませんでした。"},
+        { "location": "517/DLL", "narrator": "", "text": "ゲームサーバーに接続できません。\n<size=20>(FriendGet failed.)</size>"},
+        { "location": "615/DLL", "narrator": "", "text": "自分以外のユーザーIDを\n入力してください。"},
+        { "location": "616/DLL", "narrator": "", "text": "{0}さんの\nフレンド数がいっぱいのため、\n申請することができません。"},
+        { "location": "617/DLL", "narrator": "", "text": "あなたのフレンド数がいっぱいのため、{0}することができません。\n\n<color=blue>尚、フレンド数には、現在あなたが申請中のフレンドも含まれます。ご注意ください。</color>"},
+        { "location": "618/DLL", "narrator": "", "text": "{0}さんを\nフレンド解除しますか？"},
+        { "location": "619/DLL", "narrator": "", "text": "承認"},
+        { "location": "620/DLL", "narrator": "", "text": "拒否"},
+        { "location": "621/DLL", "narrator": "", "text": "{0}さんからの\nフレンド申請を{1}しますか？"},
+        { "location": "622/DLL", "narrator": "", "text": "申請"},
+        { "location": "623/DLL", "narrator": "", "text": "{0}さんへの\nフレンド申請を取消しますか？"},
+        { "location": "624/DLL", "narrator": "", "text": "最終ログイン：{0}"},
+        { "location": "625/DLL", "narrator": "", "text": "条件に一致するユーザーが\n見つかりませんでした。"},
+        { "location": "626/DLL", "narrator": "", "text": "フレンドを解除できませんでした。\nもう一度お試しください。"},
+        { "location": "627/DLL", "narrator": "", "text": "{0}さんを\nフレンド解除しました。"},
+        { "location": "628/DLL", "narrator": "", "text": "拒否できませんでした。\nもう一度お試しください。"},
+        { "location": "629/DLL", "narrator": "", "text": "{0}さんからの\nフレンド申請を拒否しました。"},
+        { "location": "630/DLL", "narrator": "", "text": "承認できませんでした。\nもう一度お試しください。"},
+        { "location": "631/DLL", "narrator": "", "text": "{0}さんと\nフレンドになりました。"},
+        { "location": "632/DLL", "narrator": "", "text": "{0}さんの\nフレンド数がいっぱいのため\n申請することができません。"},
+        { "location": "633/DLL", "narrator": "", "text": "フレンド申請を\n取り消せませんでした。\nもう一度お試しください。"},
+        { "location": "634/DLL", "narrator": "", "text": "{0}さんへの\nフレンド申請を取消しました。"},
+        { "location": "635/DLL", "narrator": "", "text": "フレンドが取得できません。\nもう一度お試しください。"},
+        { "location": "636/DLL", "narrator": "", "text": "<color=red>{0}さんは存在しません。</color>\n相手側が更新されている\n可能性があります。"}
+    ]
+}

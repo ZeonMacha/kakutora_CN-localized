@@ -1,0 +1,45 @@
+{
+    "dir": "Kakutora/Masterdata/Character/Character.json",
+    "type": "profile",
+    "info": {
+        "note": "档案原表没有「对玩家的称呼」字段。player_address 是从对白归纳的。"
+    },
+    "entry":
+    [
+        { "location": "1/name"          , "narrator": "tsubame", "text": "つばめ"},
+        { "location": "1/fullname"      , "narrator": "tsubame", "text": "逢瀬つばめ"},
+        { "location": "1/birthday"      , "narrator": "tsubame", "text": "2000年6月7日"},
+        { "location": "1/hobby"         , "narrator": "tsubame", "text": "今までずっと病院にいたから\n楽しい事をあまり知らない。"},
+        { "location": "1/skill"         , "narrator": "tsubame", "text": "適応力？？"},
+        { "location": "1/other"         , "narrator": "tsubame", "text": "いちご、フレイメノウ、\n可愛い服、鯛焼き\n\n病院、薬、痛いこと"},
+        { "location": "1/player_address", "narrator": "tsubame", "text": "对玩家说「あなた」，是亲近的「你」，不是固定爱称。"},
+        { "location": "2/name"          , "narrator": "ayami", "text": "アーヤ"},
+        { "location": "2/fullname"      , "narrator": "ayami", "text": "國政綾水"},
+        { "location": "2/birthday"      , "narrator": "ayami", "text": "1994年9月14日"},
+        { "location": "2/hobby"         , "narrator": "ayami", "text": "ツーリング（バイク）\n一人旅、人形作り、洋裁"},
+        { "location": "2/skill"         , "narrator": "ayami", "text": "剣道、武士道（真剣も扱う）\n鍋料理を作る"},
+        { "location": "2/other"         , "narrator": "ayami", "text": "武士の心得、精神統一\n哲学、子供、都会\n\nだらしない人"},
+        { "location": "2/player_address", "narrator": "ayami", "text": "对玩家说「あなた」，是亲近的「你」，不是固定爱称。"},
+        { "location": "3/name"          , "narrator": "gabriella", "text": "ガブリエラ"},
+        { "location": "3/fullname"      , "narrator": "gabriella", "text": "ガブリエラ・ロタルィンスカ"},
+        { "location": "3/birthday"      , "narrator": "gabriella", "text": "2001年10月13日"},
+        { "location": "3/hobby"         , "narrator": "gabriella", "text": "日本らしいものを集めること\n日本のサブカルチャー"},
+        { "location": "3/skill"         , "narrator": "gabriella", "text": "射撃、スナイパー、ポーランド\n料理、香辛料を見分ける"},
+        { "location": "3/other"         , "narrator": "gabriella", "text": "たこ焼き、日本文化、銃\nプラツキジェムニャチャーネ\n\n後ろに立たれること"},
+        { "location": "3/player_address", "narrator": "gabriella", "text": "对玩家说「あなた」时是亲近的「你」。另有固定特殊称呼「マルサンナ」，不替换成玩家输入的名字。"},
+        { "location": "4/name"          , "narrator": "miyabi", "text": "みやび"},
+        { "location": "4/fullname"      , "narrator": "miyabi", "text": "恋ヶ崎みやび"},
+        { "location": "4/birthday"      , "narrator": "miyabi", "text": "1998年7月27日"},
+        { "location": "4/hobby"         , "narrator": "miyabi", "text": "ネトゲ、情報収集\nサーバー構築、侵入"},
+        { "location": "4/skill"         , "narrator": "miyabi", "text": "プログラミング、人の気持ちを\n察する、懐石料理を作る"},
+        { "location": "4/other"         , "narrator": "miyabi", "text": "洋菓子、ＰＣ魔改造、温泉\n一人で久里浜線に乗る\n\n片付け"},
+        { "location": "4/player_address", "narrator": "miyabi", "text": "对玩家说「あなた」，是亲近的「你」，不是固定爱称。"},
+        { "location": "5/name"          , "narrator": "kagura", "text": "神楽"},
+        { "location": "5/fullname"      , "narrator": "kagura", "text": "卯月神楽"},
+        { "location": "5/birthday"      , "narrator": "kagura", "text": "2000年12月9日"},
+        { "location": "5/hobby"         , "narrator": "kagura", "text": "ラノベ、アニメを見る\n（特に中二成分多めのもの）"},
+        { "location": "5/skill"         , "narrator": "kagura", "text": "歌って踊れる\n役になりきれる"},
+        { "location": "5/other"         , "narrator": "kagura", "text": "和菓子、カフェ、魔法少女\n森ガール系のデザイン\n\n掃除、運命"},
+        { "location": "5/player_address", "narrator": "kagura", "text": "对玩家说「あなた」，恋爱场合更亲近，但仍是「你」，不是固定爱称。"}
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dir": "unei/develop_ch05.js",
+    "type": "Unei",
+    "info": {
+        "story_id": "30140",
+        "cid": "scenario",
+        "title": "発症",
+        "sub_title": "発症神楽"
+    },
+    "entry":
+    [
+        { "location": "436/SCENARIO", "narrator": "", "text": "発症神楽"},
+        { "location": "441/DIALOG"  , "narrator": "Event/Dialog_Develop3", "text": "\n::Status\nKAGURA ICHINOMIYA (F)\n<color=blue><size=36>NOT DEVELOPED.</size></color>\n<size=30>\n<color=red>発症処理を開始する場合は、権限コードをご用意の上「発症開始」ボタンを押して下さい。</color>\n</size>"},
+        { "location": "444/DIALOG"  , "narrator": "Event/Dialog_Develop2", "text": "<color=red><size=28>KAGURA ICHINOMIYA (F)\n非発症状態\n(NOT DEVELOPED)\nからの発症処理を開始します。</size></color>\n\n$handle$様においては、以下の認証コードにより【処理権限SX】を検出致しました。以後、この処理は【処理権限SX】による明示的な解除があるまでは、より低レベルな運用者による変更はできなくなります。\n\n<color=green>e88bbae381aee3839fe383abe38395e382a3e383bce383a6\n</color>\n\n<color=red>発症処理を実行する場合は\n「実行する」ボタンを押して下さい。\n</color>"},
+        { "location": "448/DIALOG"  , "narrator": "Event/Dialog_Develop4", "text": "KAGURA ICHINOMIYA (F)\n<color=red><size=32>発症準備状態\n(DEVELOP STANDBY)</size></color>\n発症は正常に実行されました。\n"},
+        { "location": "453/DIALOG"  , "narrator": "Event/Dialog_Develop", "text": "\n::Status\nKAGURA ICHINOMIYA (F)\n<color=red><size=36>DEVELOP STANDBY.</size></color>\n<size=30>発症は現在セットアップLV1</size>\nシステム待機中です。\n<size=20>\n<color=red>発症手続をキャンセルする場合は、権限コードをご用意の上「中断する」ボタンを押して下さい。</color>\n</size>"},
+        { "location": "457/DIALOG"  , "narrator": "Event/Dialog_Develop2", "text": "<color=red><size=28>KAGURA ICHINOMIYA (F)\n発症準備状態\n(DEVELOP STANDBY)\nをキャンセルします。</size></color>\n\n$handle$様においては、以下の認証コードにより【処理権限SX】を検出致しました。以後、この処理は【処理権限SX】による明示的な解除があるまでは、より低レベルな運用者による変更はできなくなります。\n\n<color=green>e88bbae381aee3839fe383abe38395e382a3e383bce383a6\n</color>\n\n<color=red>キャンセルを実行する場合は\n「実行する」ボタンを押して下さい。\n</color>"},
+        { "location": "461/DIALOG"  , "narrator": "Event/Dialog_Develop4", "text": "KAGURA ICHINOMIYA (F)\n<color=blue><size=32>未発症状態\n(NOT DEVELOPED)</size></color>\n発症は正常に中止されました。\n"},
+        { "location": "465/DIALOG"  , "narrator": "Event/Dialog_Develop4", "text": "<color=red><size=32>KAGURA ICHINOMIYA (F)\n発症準備状態\n(DEVELOP STANDBY)\nをキャンセルできません。</size></color>\n\n$handle$様においては、認証コードが検出できない為、【処理権限AX】による現処理を停止できません。認証コードの発行につきましては、当局にお問い合わせください。\n"}
+    ]
+}

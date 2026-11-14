@@ -1,0 +1,3787 @@
+{
+ "dir": "chap00/daydra/tgs01.js",
+ "type": "",
+ "info": {
+  "story_id": "12101",
+  "cid": "",
+  "title": "イベント向け体験版",
+  "sub_title": "イベント向け体験版",
+  "title_zh": "活动体验版",
+  "sub_title_zh": "活动体验版"
+ },
+ "entry": [
+  {
+   "location": "5/SCENARIO",
+   "narrator": "",
+   "text": "運営劇場",
+   "zh": "运营剧场",
+   "narrator_zh": ""
+  },
+  {
+   "location": "97/DIALOG",
+   "narrator": "",
+   "text": "<color=red><size=32>拡張少女系トライナリーの\n世界へようこそ！</size></color>\n\nこのDEMOシナリオでは、攻略対象の彼女たちとのコミュニケーションと、壮大なシナリオの一端を垣間見ることができます。\n\n是非最後までプレイしていって\nくださいね。",
+   "zh": "<color=red><size=32>欢迎来到扩张少女系三重奏的\n世界！</size></color>\n\n在这个DEMO剧本里，可以和攻略对象的她们交流，也能瞥见宏大剧本的一角。\n\n请一定玩到\n最后。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "98/TALK",
+   "narrator": "千羽鶴",
+   "text": "はじめまして。\n私は千羽鶴。\n「ちはる」と読む。",
+   "zh": "初次见面。\n我是千羽鹤。\n读作“chiharu”。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "102/TALK",
+   "narrator": "千羽鶴",
+   "text": "今回は、私たちの世界に\n興味を持ってくれた貴方を\n導く役割を与えられた。",
+   "zh": "这次，我被赋予的角色，\n是引导对我们的世界\n产生兴趣的你。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "103/TALK",
+   "narrator": "千羽鶴",
+   "text": "短い時間だけど、\nどうぞよろしく。",
+   "zh": "时间不长，\n请多关照。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "104/SEL",
+   "narrator": "（選択肢）",
+   "text": "よろしく！",
+   "zh": "请多关照！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "105/SEL",
+   "narrator": "（選択肢）",
+   "text": "千羽鶴ちゃん結婚して！",
+   "zh": "千羽鹤，跟我结婚！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "106/ACT",
+   "narrator": "",
+   "text": "よろしく！",
+   "zh": "请多关照！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "108/ACT",
+   "narrator": "",
+   "text": "千羽鶴ちゃん結婚して！",
+   "zh": "千羽鹤，跟我结婚！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "109/TALK",
+   "narrator": "千羽鶴",
+   "text": "残念だけど、\n私は非攻略対象。",
+   "zh": "很遗憾，\n我是非攻略对象。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "111/SEL",
+   "narrator": "（選択肢）",
+   "text": "それは残念…",
+   "zh": "那真遗憾……",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "112/SEL",
+   "narrator": "（選択肢）",
+   "text": "そんなのいやです！！",
+   "zh": "我不要这样！！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "113/ACT",
+   "narrator": "",
+   "text": "それは残念…",
+   "zh": "那真遗憾……",
+   "narrator_zh": ""
+  },
+  {
+   "location": "114/TALK",
+   "narrator": "千羽鶴",
+   "text": "残念だけど、仕方ない。",
+   "zh": "很遗憾，可也没办法。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "115/TALK",
+   "narrator": "千羽鶴",
+   "text": "というわけで、\n本題に戻るけど。",
+   "zh": "所以，\n回到正题。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "116/ACT",
+   "narrator": "",
+   "text": "そんなのいやです！！",
+   "zh": "我不要这样！！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "117/TALK",
+   "narrator": "千羽鶴",
+   "text": "……。",
+   "zh": "……。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "118/TALK",
+   "narrator": "千羽鶴",
+   "text": "そんな聞き分けが悪い子は\nちーちゃん好きじゃ\nありません。",
+   "zh": "这么不听话的孩子，\n小千是不会\n喜欢的。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "119/TALK",
+   "narrator": "千羽鶴",
+   "text": "けど、もし結婚したら、\nこの体験版だけじゃなく\nアプリをDLしてくれる？",
+   "zh": "不过，要是结婚了，\n不只是这个体验版，\n应用也下载好吗？",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "120/SEL",
+   "narrator": "（選択肢）",
+   "text": "はい！",
+   "zh": "好！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "121/SEL",
+   "narrator": "（選択肢）",
+   "text": "それは約束できない",
+   "zh": "这个没法保证",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "122/ACT",
+   "narrator": "",
+   "text": "はい！",
+   "zh": "好！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "125/TALK",
+   "narrator": "千羽鶴",
+   "text": "わかった。\nそれじゃ――",
+   "zh": "好。\n那就——",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "128/TALK",
+   "narrator": "千羽鶴",
+   "text": "結婚おめでとう私たち。",
+   "zh": "新婚快乐，我们。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "130/TALK",
+   "narrator": "千羽鶴",
+   "text": "というわけで、\n早速結婚したから\n約束は守って。",
+   "zh": "所以，\n这就算结婚了，\n把约定守好。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "133/TALK",
+   "narrator": "千羽鶴",
+   "text": "はい！\n今すぐここに\nスマホをかざす！",
+   "zh": "好！\n现在马上\n把手机对准这里！",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "136/TALK",
+   "narrator": "千羽鶴",
+   "text": "ちゃんとDLした？",
+   "zh": "有好好下载吗？",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "137/SEL",
+   "narrator": "（選択肢）",
+   "text": "もちろん",
+   "zh": "当然",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "138/SEL",
+   "narrator": "（選択肢）",
+   "text": "後でいいですか？",
+   "zh": "等一下可以吗？",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "139/ACT",
+   "narrator": "",
+   "text": "もちろん",
+   "zh": "当然",
+   "narrator_zh": ""
+  },
+  {
+   "location": "140/TALK",
+   "narrator": "千羽鶴",
+   "text": "ありがと。",
+   "zh": "谢谢。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "141/ACT",
+   "narrator": "",
+   "text": "後でいいですか？",
+   "zh": "等一下可以吗？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "142/TALK",
+   "narrator": "千羽鶴",
+   "text": "まあ、いいけど。",
+   "zh": "嗯，也行。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "144/TALK",
+   "narrator": "千羽鶴",
+   "text": "ちなみに、私と結婚した\n人の人数は、ちゃんと\n数えてるから。",
+   "zh": "顺便说一句，\n跟我结过婚的人数，\n我可是好好数着的。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "145/TALK",
+   "narrator": "千羽鶴",
+   "text": "もしその数より、今日の\nサインアップ数が\n少なかった場合。",
+   "zh": "要是今天的\n注册人数\n比这个数少。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "146/TALK",
+   "narrator": "千羽鶴",
+   "text": "ゲームショウ終了後、\n私は傷心のちーになる！",
+   "zh": "游戏展结束后，\n我就会变成伤心的小千！",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "147/TALK",
+   "narrator": "千羽鶴",
+   "text": "だから、\n貴方の誠実さは責任重大。",
+   "zh": "所以，\n你的诚实，责任重大。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "148/TALK",
+   "narrator": "千羽鶴",
+   "text": "というわけで、\nホントにDLよろしく。",
+   "zh": "所以，\n请务必真的去下载。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "150/TALK",
+   "narrator": "千羽鶴",
+   "text": "まあでも。\n嘘でも結婚したわけだし。",
+   "zh": "不过嘛。\n好歹也算结了婚，哪怕是假的。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "151/TALK",
+   "narrator": "千羽鶴",
+   "text": "この体験プレイを最後まで\nやってくれたら、\n少しだけハネムーンする。",
+   "zh": "把这次体验玩到最后的话，\n就稍微\n度个蜜月。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "153/TALK",
+   "narrator": "千羽鶴",
+   "text": "だから、今日はゆっくりと\nこのアプリの魅力を\n堪能していって欲しい。",
+   "zh": "所以，希望你今天\n慢慢体会\n这个应用的魅力。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "154/ACT",
+   "narrator": "",
+   "text": "それは約束できない",
+   "zh": "这个没法保证",
+   "narrator_zh": ""
+  },
+  {
+   "location": "155/TALK",
+   "narrator": "千羽鶴",
+   "text": "なんて正直な人。",
+   "zh": "真是个诚实的人。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "156/TALK",
+   "narrator": "千羽鶴",
+   "text": "それならそれで構わない。",
+   "zh": "那样也没关系。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "157/TALK",
+   "narrator": "千羽鶴",
+   "text": "どちらにせよ、\nこのアプリに興味を持って\nくれたわけだから――",
+   "zh": "不管怎么说，\n你对这个应用\n有兴趣——",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "158/TALK",
+   "narrator": "千羽鶴",
+   "text": "今のこの時間だけでも、\n楽しんで行って欲しい。",
+   "zh": "至少眼下这段时间，\n希望你能玩得开心。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "162/TALK",
+   "narrator": "千羽鶴",
+   "text": "それじゃ早速、\nこのアプリの\n紹介をしようと思う。",
+   "zh": "那就马上，\n介绍一下\n这个应用。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "166/DIALOG",
+   "narrator": "",
+   "text": "拡張少女系トライナリーは\nスマートフォンRPGです。",
+   "zh": "扩张少女系三重奏是\n智能手机RPG。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "168/TALK",
+   "narrator": "千羽鶴",
+   "text": "このアプリ，拡張少女系\nトライナリーは、いわゆる\nゲームに分類されるけど、",
+   "zh": "这个应用，扩张少女系\n三重奏，虽然被归成\n所谓的游戏，",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "171/DIALOG",
+   "narrator": "",
+   "text": "拡張少女系トライナリーは\n基本的に物語を楽しむゲームです。",
+   "zh": "扩张少女系三重奏\n基本上是享受故事的游戏。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "173/TALK",
+   "narrator": "千羽鶴",
+   "text": "基本、物語９ゲーム１に\n分類される、ラノベゲーと\n考えてくれた方がいい。",
+   "zh": "基本上，请把它当成\n故事九、游戏一的\n轻小说游戏。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "174/TALK",
+   "narrator": "千羽鶴",
+   "text": "なので今回は、バトルや\n育成については紹介なし！",
+   "zh": "所以这次，\n战斗和养成就不介绍了！",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "177/DIALOG",
+   "narrator": "",
+   "text": "そして、可愛い女の子と\n沢山イチャイチャできます。",
+   "zh": "而且，可以和可爱的女孩\n尽情腻歪。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "179/TALK",
+   "narrator": "千羽鶴",
+   "text": "ストーリーや少女たちの\n魅力だけを、嫌というほど\n紹介していく。",
+   "zh": "只会把故事和\n少女们的魅力，介绍到\n你受不了为止。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "180/TALK",
+   "narrator": "千羽鶴",
+   "text": "パネルにある可愛い\n少女たちとの体験に\n興味あれば是非進めて。",
+   "zh": "如果对画面上\n这些可爱少女的体验\n有兴趣，请务必继续。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "183/DIALOG",
+   "narrator": "",
+   "text": "イチャイチャしつつも、\n物語は壮大です。",
+   "zh": "一边腻歪，\n故事也很宏大。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "185/TALK",
+   "narrator": "千羽鶴",
+   "text": "全体のノリとしては、\n過酷な運命を背負う少女\nたちを貴方が癒す物語。",
+   "zh": "整体来说，是你去治愈\n那些背负残酷命运的\n少女的故事。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "186/TALK",
+   "narrator": "千羽鶴",
+   "text": "今回は、その要素を\nラブとストーリーに分けて\n用意してみた。",
+   "zh": "这次，把这些要素\n分成恋爱和故事\n两部分准备好了。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "187/TALK",
+   "narrator": "千羽鶴",
+   "text": "どっちでも\n好きな方を選んで。",
+   "zh": "选你喜欢的\n那边就行。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "192/SEL",
+   "narrator": "（選択肢）",
+   "text": "彼女たちとイチャイチャしたい",
+   "zh": "想和她们腻歪",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "193/SEL",
+   "narrator": "（選択肢）",
+   "text": "その壮大なるストーリーとやらを垣間見たい",
+   "zh": "想瞥一眼那所谓的宏大故事",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "195/ACT",
+   "narrator": "",
+   "text": "彼女たちとイチャイチャしたい",
+   "zh": "想和她们腻歪",
+   "narrator_zh": ""
+  },
+  {
+   "location": "196/TALK",
+   "narrator": "千羽鶴",
+   "text": "わかった。",
+   "zh": "好。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "197/TALK",
+   "narrator": "千羽鶴",
+   "text": "ところで貴方は、\n既にアプリをDLして\nプレイしてる人？",
+   "zh": "对了，你是\n已经下载了应用、\n正在玩的人吗？",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "198/SEL",
+   "narrator": "（選択肢）",
+   "text": "いえ、してません。",
+   "zh": "不，还没有。",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "199/SEL",
+   "narrator": "（選択肢）",
+   "text": "プレイしてる人です",
+   "zh": "我正在玩",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "200/ACT",
+   "narrator": "",
+   "text": "いえ、してません。",
+   "zh": "不，还没有。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "201/TALK",
+   "narrator": "千羽鶴",
+   "text": "興味持ってくれて\nありがと。",
+   "zh": "谢谢你\n有兴趣。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "202/TALK",
+   "narrator": "千羽鶴",
+   "text": "今日は十分に\n彼女たちとのラブラブを\n楽しんでいって欲しい。",
+   "zh": "希望你今天能尽情\n享受和她们的\n甜蜜。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "203/TALK",
+   "narrator": "千羽鶴",
+   "text": "ちなみに、この端末で\n過去にプレイした人全員に\n聞いてみたところ――",
+   "zh": "顺便，我问过所有\n在这台机器上\n玩过的人——",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "204/TALK",
+   "narrator": "千羽鶴",
+   "text": "$tgs_q1_all$人中$tgs_q1_yes$人が\n彼女とのイチャラブに\n夢中だと答えてる。",
+   "zh": "$tgs_q1_all$人里有$tgs_q1_yes$人\n回答说，正沉迷于\n和她腻歪。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "205/TALK",
+   "narrator": "千羽鶴",
+   "text": "あなたにとっても\n彼女たちが魅力的だと\nいいけど。",
+   "zh": "希望对你来说，\n她们也\n有魅力。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "206/ACT",
+   "narrator": "",
+   "text": "プレイしてる人です",
+   "zh": "我正在玩",
+   "narrator_zh": ""
+  },
+  {
+   "location": "207/TALK",
+   "narrator": "千羽鶴",
+   "text": "いつも彼女たちを\n癒してくれてありがと。",
+   "zh": "谢谢你一直\n在治愈她们。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "208/TALK",
+   "narrator": "千羽鶴",
+   "text": "ところで、聞くまでも\nないと思うけど――",
+   "zh": "不过，我觉得\n不必问也知道——",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "209/TALK",
+   "narrator": "千羽鶴",
+   "text": "彼女たちは魅力的？\nラヴい？",
+   "zh": "她们有魅力吗？\n够不够甜？",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "210/SEL",
+   "narrator": "（選択肢）",
+   "text": "もちろん！！",
+   "zh": "当然！！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "211/SEL",
+   "narrator": "（選択肢）",
+   "text": "実はそんなには…",
+   "zh": "其实并没有那么……",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "212/ACT",
+   "narrator": "",
+   "text": "もちろん！！",
+   "zh": "当然！！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "217/TALK",
+   "narrator": "千羽鶴",
+   "text": "良かった。\nこれからも\n一緒にいてあげて。",
+   "zh": "太好了。\n以后也请\n陪着她们。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "218/ACT",
+   "narrator": "",
+   "text": "実はそんなには…",
+   "zh": "其实并没有那么……",
+   "narrator_zh": ""
+  },
+  {
+   "location": "221/TALK",
+   "narrator": "千羽鶴",
+   "text": "そう。\nそれは残念。",
+   "zh": "是的。\n那很遗憾。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "240/TALK",
+   "narrator": "千羽鶴",
+   "text": "それじゃ早速、\n彼女たちを紹介がてら\nイチャイチャしてもらう。",
+   "zh": "那就马上，\n一边介绍她们，\n一边让你腻歪一下。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "242/TALK",
+   "narrator": "千羽鶴",
+   "text": "プロファイル０１、\n逢瀬つばめ\n１５歳、高校１年。",
+   "zh": "档案01，\n逢濑燕\n15岁，高中1年级。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "243/TALK",
+   "narrator": "千羽鶴",
+   "text": "いつも元気で天然系の\n前向き指向、まわりを\n笑顔にするのが得意。",
+   "zh": "一直很有精神，天然系地\n向前看，最擅长让周围的人\n露出笑容。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "244/TALK",
+   "narrator": "千羽鶴",
+   "text": "なかなか骨太な世間\n知らずのところがウザ\nカワイイ…かも。",
+   "zh": "不谙世事得相当扎实，\n那一点又烦又可爱\n……也许吧。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "245/TALK",
+   "narrator": "千羽鶴",
+   "text": "得意なことは……\n何かあったかしら。",
+   "zh": "擅长的事……\n有过吗。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "247/TALK",
+   "narrator": "千羽鶴",
+   "text": "プロファイル０２、\n國政綾水（あやみ）\n２１歳、大学３年。",
+   "zh": "档案02，\n国政绫水（绫水）\n21岁，大学3年级。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "248/TALK",
+   "narrator": "千羽鶴",
+   "text": "４人の中で最年長の\nお姉さん的存在。",
+   "zh": "四个人里年纪最大，\n像个姐姐。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "249/TALK",
+   "narrator": "千羽鶴",
+   "text": "結構なカタブツだけど、\n面倒見は良く、頼りに\nなる存在だと思う。",
+   "zh": "相当古板，\n不过很会照顾人，\n是可以依靠的人。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "250/TALK",
+   "narrator": "千羽鶴",
+   "text": "剣道をたしなみ、その\n腕は世界選手権で優勝\nした程。",
+   "zh": "练剑道，\n实力强到拿过\n世界锦标赛冠军。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "252/TALK",
+   "narrator": "千羽鶴",
+   "text": "プロファイル０３、\nガブリエラ\n１４歳、中学３年。",
+   "zh": "档案03，\n加布里埃拉\n14岁，初中3年级。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "253/TALK",
+   "narrator": "千羽鶴",
+   "text": "４人中最年少の\nポーランドから来た\n留学生。",
+   "zh": "四个人里最小，\n从波兰来的\n留学生。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "254/TALK",
+   "narrator": "千羽鶴",
+   "text": "いつもツンツンしてる\nけど、本当はメルヘンな\nものが大好き。",
+   "zh": "平时总是一副刺人的样子，\n其实最喜欢\n童话一样的东西。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "255/TALK",
+   "narrator": "千羽鶴",
+   "text": "銃の腕前は\n世界で通用するレベル。",
+   "zh": "枪法是\n世界通用的水平。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "257/TALK",
+   "narrator": "千羽鶴",
+   "text": "プロファイル０４、\n恋ヶ崎みやび\n１７歳、高校３年。",
+   "zh": "档案04，\n恋之崎雅\n17岁，高中3年级。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "258/TALK",
+   "narrator": "千羽鶴",
+   "text": "いつも突拍子も無い\nことを言って、周囲を\n惑わせる不思議ちゃん。",
+   "zh": "总说些不着边际的话，\n让周围的人\n摸不着头脑的怪人。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "259/TALK",
+   "narrator": "千羽鶴",
+   "text": "典型的な、\n『喋らなければ\n綺麗なお姉さん』ね。",
+   "zh": "典型的，\n“不说话的话\n就是个漂亮姐姐”。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "260/TALK",
+   "narrator": "千羽鶴",
+   "text": "面倒くさがりでズボラ\nだけど、PCの腕は\nハッカークラス。",
+   "zh": "嫌麻烦，生活也随便，\n不过电脑技术是\n黑客级别。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "262/TALK",
+   "narrator": "千羽鶴",
+   "text": "以上、簡単な紹介おわり。\n早速今からフリータイム。",
+   "zh": "以上，简单介绍完了。\n现在马上进入自由时间。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "264/SEL",
+   "narrator": "（選択肢）",
+   "text": "逢瀬つばめ",
+   "zh": "逢濑燕",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "265/SEL",
+   "narrator": "（選択肢）",
+   "text": "國政綾水",
+   "zh": "国政绫水",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "266/SEL",
+   "narrator": "（選択肢）",
+   "text": "ガブリエラ",
+   "zh": "加布里埃拉",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "267/SEL",
+   "narrator": "（選択肢）",
+   "text": "恋ヶ崎みやび",
+   "zh": "恋之崎雅",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "268/SEL",
+   "narrator": "（選択肢）",
+   "text": "千羽鶴",
+   "zh": "千羽鹤",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "269/SEL",
+   "narrator": "（選択肢）",
+   "text": "十分堪能した！",
+   "zh": "已经玩够了！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "270/ACT",
+   "narrator": "",
+   "text": "逢瀬つばめ",
+   "zh": "逢濑燕",
+   "narrator_zh": ""
+  },
+  {
+   "location": "272/TALK",
+   "narrator": "つばめ",
+   "text": "は、はじめまして！\n逢瀬ちゅ…つ、\nつばめです！",
+   "zh": "初、初次见面！\n逢濑啾……燕、\n我是燕！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "273/TALK",
+   "narrator": "つばめ",
+   "text": "何の取り柄もないけど\n宜しくお願いします！",
+   "zh": "没什么长处，\n请多关照！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "277/DIALOG",
+   "narrator": "",
+   "text": "<b><color=#ff0044><size=40>逢瀬つばめ</size></color></b>\n<color=#ff0044><size=20>おうせつばめ</size></color>\n\n１５歳(高校１年)\n誕生日:2000.6.7\n\n静岡県出身。\n近年まで重い病気でずっと入院していたため世間知らず。\n元気で前向きで天然なムードメーカー。\n\n<b><color=orange>【好きなもの】</color></b>\nフレイメノウ、可愛い服、いちご、チーズクリーム鯛焼き\n\n<b><color=blue>【苦手なもの】</color></b>\n病院、薬、痛いこと\n",
+   "zh": "<b><color=#ff0044><size=40>逢濑燕</size></color></b>\n<color=#ff0044><size=20>ousetsubame</size></color>\n\n15岁（高中1年级）\n生日:2000.6.7\n\n静冈县出身。\n直到近年都因重病一直住院，所以不谙世事。\n开朗、向前看、天然的气氛担当。\n\n<b><color=orange>【喜欢的东西】</color></b>\nFreyMENOW、可爱的衣服、草莓、芝士奶油鲷鱼烧\n\n<b><color=blue>【不擅长的东西】</color></b>\n医院、药、会痛的事\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "281/SEL",
+   "narrator": "（選択肢）",
+   "text": "チャットでイチャイチャ体験",
+   "zh": "聊天腻歪体验",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "282/SEL",
+   "narrator": "（選択肢）",
+   "text": "浜辺で水着イチャイチャ体験",
+   "zh": "海边泳衣腻歪体验",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "283/SEL",
+   "narrator": "（選択肢）",
+   "text": "お試しおさわり",
+   "zh": "试着摸摸",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "284/SEL",
+   "narrator": "（選択肢）",
+   "text": "戻る",
+   "zh": "返回",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "285/ACT",
+   "narrator": "",
+   "text": "チャットでイチャイチャ体験",
+   "zh": "聊天腻歪体验",
+   "narrator_zh": ""
+  },
+  {
+   "location": "290/ACT",
+   "narrator": "",
+   "text": "浜辺で水着イチャイチャ体験",
+   "zh": "海边泳衣腻歪体验",
+   "narrator_zh": ""
+  },
+  {
+   "location": "295/ACT",
+   "narrator": "",
+   "text": "お試しおさわり",
+   "zh": "试着摸摸",
+   "narrator_zh": ""
+  },
+  {
+   "location": "301/DIALOG",
+   "narrator": "",
+   "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n接続されました。\n\n画面をタップして相手に\n感覚を伝えましょう。",
+   "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已连接。\n\n点击画面，向对方\n传达感觉吧。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "364/TALK",
+   "narrator": "つばめ",
+   "text": "えへへ。",
+   "zh": "诶嘿嘿。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "366/TALK",
+   "narrator": "つばめ",
+   "text": "なんだか\nこそばゆいょ。",
+   "zh": "总觉得\n怪不好意思的呀。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "372/TALK",
+   "narrator": "つばめ",
+   "text": "うわっ！",
+   "zh": "哇！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "374/TALK",
+   "narrator": "つばめ",
+   "text": "いたたっ！\n許してください！",
+   "zh": "好痛！\n饶了我吧！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "380/TALK",
+   "narrator": "つばめ",
+   "text": "きゃあっ！",
+   "zh": "呀啊！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "382/TALK",
+   "narrator": "つばめ",
+   "text": "もーっ！\nわたしが何も言わない\nからって！",
+   "zh": "真是的！\n别因为我什么都不说\n就这样呀！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "388/TALK",
+   "narrator": "つばめ",
+   "text": "あははっ！\nなんか\nこそばゆいよう。",
+   "zh": "啊哈哈！\n总觉得\n痒痒的哦。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "390/TALK",
+   "narrator": "つばめ",
+   "text": "ぷにぷにしてる？\n鍛えないとだめかなぁ。",
+   "zh": "软软的吗？\n是不是该锻炼一下了呀。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "396/TALK",
+   "narrator": "つばめ",
+   "text": "はああっ…",
+   "zh": "哈啊……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "398/TALK",
+   "narrator": "つばめ",
+   "text": "へんなかんじ。",
+   "zh": "好奇怪的感觉。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "404/DIALOG",
+   "narrator": "",
+   "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n切断されました。",
+   "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已断开。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "407/TALK",
+   "narrator": "千羽鶴",
+   "text": "はい、お終い。",
+   "zh": "好，到此为止。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "409/ACT",
+   "narrator": "",
+   "text": "戻る",
+   "zh": "返回",
+   "narrator_zh": ""
+  },
+  {
+   "location": "413/ACT",
+   "narrator": "",
+   "text": "國政綾水",
+   "zh": "国政绫水",
+   "narrator_zh": ""
+  },
+  {
+   "location": "415/TALK",
+   "narrator": "アーヤ",
+   "text": "はじめまして。\n國政綾水と申します。",
+   "zh": "初次见面。\n我是国政绫水。",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "416/TALK",
+   "narrator": "アーヤ",
+   "text": "貴方のサポート、\n楽しみにしてるわ。",
+   "zh": "你的支援，\n我很期待。",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "420/DIALOG",
+   "narrator": "",
+   "text": "<b><color=#2670DA><size=40>國政綾水</size>(アーヤ)</color></b>\n<color=#2670DA><size=20>くにまさあやみ</size></color>\n\n２１歳(大学３年)\n誕生日:1994.9.14\n\n長野県出身。\n実家がド田舎の山中にある神社ということもあり、都会に憧れを持つ。責任感が強く、意志が固いリーダー肌の少女。\n\n<b><color=orange>【好きなもの】</color></b>\n武士の心得、精神統一\n哲学、子供、都会\n\n<b><color=blue>【苦手なもの】</color></b>\nだらしない人\n",
+   "zh": "<b><color=#2670DA><size=40>国政绫水</size>（绫水）</color></b>\n<color=#2670DA><size=20>kunimasaayami</size></color>\n\n21岁（大学3年级）\n生日:1994.9.14\n\n长野县出身。\n老家在深山里很偏的神社，因此向往都市。责任感强，意志坚定，是领头的那种女孩。\n\n<b><color=orange>【喜欢的东西】</color></b>\n武士的心得、凝神\n哲学、孩子、都市\n\n<b><color=blue>【不擅长的东西】</color></b>\n散漫的人\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "424/SEL",
+   "narrator": "（選択肢）",
+   "text": "チャットでイチャイチャ体験",
+   "zh": "聊天腻歪体验",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "425/SEL",
+   "narrator": "（選択肢）",
+   "text": "浜辺で水着イチャイチャ体験",
+   "zh": "海边泳衣腻歪体验",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "426/SEL",
+   "narrator": "（選択肢）",
+   "text": "お試しおさわり",
+   "zh": "试着摸摸",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "427/SEL",
+   "narrator": "（選択肢）",
+   "text": "戻る",
+   "zh": "返回",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "428/ACT",
+   "narrator": "",
+   "text": "チャットでイチャイチャ体験",
+   "zh": "聊天腻歪体验",
+   "narrator_zh": ""
+  },
+  {
+   "location": "433/ACT",
+   "narrator": "",
+   "text": "浜辺で水着イチャイチャ体験",
+   "zh": "海边泳衣腻歪体验",
+   "narrator_zh": ""
+  },
+  {
+   "location": "438/ACT",
+   "narrator": "",
+   "text": "お試しおさわり",
+   "zh": "试着摸摸",
+   "narrator_zh": ""
+  },
+  {
+   "location": "444/DIALOG",
+   "narrator": "",
+   "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n接続されました。\n\n画面をタップして相手に\n感覚を伝えましょう。",
+   "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已连接。\n\n点击画面，向对方\n传达感觉吧。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "507/TALK",
+   "narrator": "アーヤ",
+   "text": "ふふっ。",
+   "zh": "呵呵。",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "509/TALK",
+   "narrator": "アーヤ",
+   "text": "ちょっと\n不思議な気分。",
+   "zh": "有点\n奇妙的感觉。",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "515/TALK",
+   "narrator": "アーヤ",
+   "text": "きゃっ！？",
+   "zh": "呀！？",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "517/TALK",
+   "narrator": "アーヤ",
+   "text": "ちょ、ちょっと\n痛いってば！",
+   "zh": "等、等一下，\n很痛啊！",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "523/TALK",
+   "narrator": "アーヤ",
+   "text": "もうっ。\n調子に乗らないの。",
+   "zh": "真是的。\n别得意。",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "525/TALK",
+   "narrator": "アーヤ",
+   "text": "ダメだって！",
+   "zh": "不行！",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "531/TALK",
+   "narrator": "アーヤ",
+   "text": "もうっ！\nくすぐったいってば。",
+   "zh": "真是的！\n很痒啊。",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "533/TALK",
+   "narrator": "アーヤ",
+   "text": "もしかして\nおなか出てる？",
+   "zh": "难道\n肚子鼓出来了？",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "539/TALK",
+   "narrator": "アーヤ",
+   "text": "ふわっ！",
+   "zh": "呼哇！",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "541/TALK",
+   "narrator": "アーヤ",
+   "text": "なんか\n不思議な気持ち。",
+   "zh": "有种\n奇妙的感觉。",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "547/DIALOG",
+   "narrator": "",
+   "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n切断されました。",
+   "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已断开。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "550/TALK",
+   "narrator": "千羽鶴",
+   "text": "はい、お終い。",
+   "zh": "好，到此为止。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "552/ACT",
+   "narrator": "",
+   "text": "戻る",
+   "zh": "返回",
+   "narrator_zh": ""
+  },
+  {
+   "location": "556/ACT",
+   "narrator": "",
+   "text": "ガブリエラ",
+   "zh": "加布里埃拉",
+   "narrator_zh": ""
+  },
+  {
+   "location": "558/TALK",
+   "narrator": "ガブリエラ",
+   "text": "ガブリエラよ。",
+   "zh": "我是加布里埃拉。",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "559/TALK",
+   "narrator": "ガブリエラ",
+   "text": "ていうか、\nあんた誰？",
+   "zh": "话说，\n你是谁？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "563/DIALOG",
+   "narrator": "",
+   "text": "<b><color=#00E676><size=40>ガブリエラ</size></color></b>\n<color=#00E676><size=20>がぶりえら</size></color>\n\n１４歳(中学３年)\n誕生日:2001.10.13\n\nポーランド共和国\nワルシャワ出身。\n交換留学生として日本に来ている。祖国は今第二次冷戦によって戦火の中。アーヤの剣道試合を見て日本に憧れを持った。\n\n<b><color=orange>【好きなもの】</color></b>\n\nたこ焼き、日本文化、銃、プラツキジェムニャチャーネ\n\n<b><color=blue>【苦手なもの】</color></b>\n後ろに立たれること",
+   "zh": "<b><color=#00E676><size=40>加布里埃拉</size></color></b>\n<color=#00E676><size=20>gaburiera</size></color>\n\n14岁（初中3年级）\n生日:2001.10.13\n\n波兰共和国\n华沙出身。\n作为交换留学生来到日本。祖国正因第二次冷战处于战火之中。看了绫水的剑道比赛后，对日本心生向往。\n\n<b><color=orange>【喜欢的东西】</color></b>\n\n章鱼烧、日本文化、枪、波兰土豆饼\n\n<b><color=blue>【不擅长的东西】</color></b>\n被人站在身后",
+   "narrator_zh": ""
+  },
+  {
+   "location": "567/SEL",
+   "narrator": "（選択肢）",
+   "text": "チャットでイチャイチャ体験",
+   "zh": "聊天腻歪体验",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "568/SEL",
+   "narrator": "（選択肢）",
+   "text": "浜辺で水着イチャイチャ体験",
+   "zh": "海边泳衣腻歪体验",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "569/SEL",
+   "narrator": "（選択肢）",
+   "text": "お試しおさわり",
+   "zh": "试着摸摸",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "570/SEL",
+   "narrator": "（選択肢）",
+   "text": "戻る",
+   "zh": "返回",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "571/ACT",
+   "narrator": "",
+   "text": "チャットでイチャイチャ体験",
+   "zh": "聊天腻歪体验",
+   "narrator_zh": ""
+  },
+  {
+   "location": "576/ACT",
+   "narrator": "",
+   "text": "浜辺で水着イチャイチャ体験",
+   "zh": "海边泳衣腻歪体验",
+   "narrator_zh": ""
+  },
+  {
+   "location": "581/ACT",
+   "narrator": "",
+   "text": "お試しおさわり",
+   "zh": "试着摸摸",
+   "narrator_zh": ""
+  },
+  {
+   "location": "587/DIALOG",
+   "narrator": "",
+   "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n接続されました。\n\n画面をタップして相手に\n感覚を伝えましょう。",
+   "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已连接。\n\n点击画面，向对方\n传达感觉吧。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "650/TALK",
+   "narrator": "ガブリエラ",
+   "text": "まあ、こういうのも\n悪くないわね。",
+   "zh": "哎呀，这样也\n不坏。",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "652/TALK",
+   "narrator": "ガブリエラ",
+   "text": "もっとやって\nいいのよ？",
+   "zh": "可以再多来\n一点哦？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "658/TALK",
+   "narrator": "ガブリエラ",
+   "text": "きゃっ！\n突然なあに！？",
+   "zh": "呀！\n突然干什么！？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "660/TALK",
+   "narrator": "ガブリエラ",
+   "text": "いてっ！\nもうっ！\n許さないわよ！",
+   "zh": "好痛！\n真是的！\n我可不原谅你！",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "666/TALK",
+   "narrator": "ガブリエラ",
+   "text": "きゃああっ！\n何て事するのかしら！",
+   "zh": "呀啊啊！\n你这是在干什么！",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "668/TALK",
+   "narrator": "ガブリエラ",
+   "text": "こらあっ！\n恥を知りなさい！",
+   "zh": "喂！\n知道点羞耻！",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "674/TALK",
+   "narrator": "ガブリエラ",
+   "text": "ちょ、ちょっと\n何の真似！？",
+   "zh": "等、等一下，\n这是什么意思！？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "676/TALK",
+   "narrator": "ガブリエラ",
+   "text": "ああっ、もしかして\n肥ってるとか\n言いたいわけ！？",
+   "zh": "啊，难道\n是想说我胖了\n吗！？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "682/TALK",
+   "narrator": "ガブリエラ",
+   "text": "ちょっ、キモっ！\n変な感じっ！",
+   "zh": "等、好恶心！\n感觉好奇怪！",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "684/TALK",
+   "narrator": "ガブリエラ",
+   "text": "べ、べつに気持ちよく\nなんてないんだから…",
+   "zh": "才、才没有觉得舒服\n……",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "690/DIALOG",
+   "narrator": "",
+   "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n切断されました。",
+   "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已断开。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "693/TALK",
+   "narrator": "千羽鶴",
+   "text": "はい、お終い。",
+   "zh": "好，到此为止。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "695/ACT",
+   "narrator": "",
+   "text": "戻る",
+   "zh": "返回",
+   "narrator_zh": ""
+  },
+  {
+   "location": "699/ACT",
+   "narrator": "",
+   "text": "恋ヶ崎みやび",
+   "zh": "恋之崎雅",
+   "narrator_zh": ""
+  },
+  {
+   "location": "701/TALK",
+   "narrator": "みやび",
+   "text": "ふむ。\n興味深い存在やね。",
+   "zh": "嗯。\n挺有意思的存在咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "702/TALK",
+   "narrator": "みやび",
+   "text": "ちゅうか、\nあんた本当に\n人間なが？",
+   "zh": "话说，\n你真的是\n人喃？",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "706/DIALOG",
+   "narrator": "",
+   "text": "<b><color=#C007FF><size=40>恋ヶ崎みやび</size></color></b>\n<color=#C007FF><size=20>こいがさきみやび</size></color>\n\n１７歳(高校３年)\n誕生日:1998.7.27\n\n高知県出身。\n高知の酒蔵の家の娘。PCスキルは世界レベルだが、言動が常に不思議ちゃん。要領よく生きることに命をかけており、大の面倒くさがりである。\n\n<b><color=orange>【好きなもの】</color></b>\n\n洋菓子、ＰＣ魔改造、温泉、一人で久里浜線に乗る\n\n<b><color=blue>【苦手なもの】</color></b>\n片付け\n",
+   "zh": "<b><color=#C007FF><size=40>恋之崎雅</size></color></b>\n<color=#C007FF><size=20>koigasakimiyabi</size></color>\n\n17岁（高中3年级）\n生日:1998.7.27\n\n高知县出身。\n高知酒窖家的女儿。电脑技术是世界级，但言行总是很奇妙。把会过日子当成命，而且非常嫌麻烦。\n\n<b><color=orange>【喜欢的东西】</color></b>\n\n西点、PC魔改、温泉、一个人坐久里滨线\n\n<b><color=blue>【不擅长的东西】</color></b>\n收拾整理\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "710/SEL",
+   "narrator": "（選択肢）",
+   "text": "チャットでイチャイチャ体験",
+   "zh": "聊天腻歪体验",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "711/SEL",
+   "narrator": "（選択肢）",
+   "text": "浜辺で水着イチャイチャ体験",
+   "zh": "海边泳衣腻歪体验",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "712/SEL",
+   "narrator": "（選択肢）",
+   "text": "お試しおさわり",
+   "zh": "试着摸摸",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "713/SEL",
+   "narrator": "（選択肢）",
+   "text": "戻る",
+   "zh": "返回",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "714/ACT",
+   "narrator": "",
+   "text": "チャットでイチャイチャ体験",
+   "zh": "聊天腻歪体验",
+   "narrator_zh": ""
+  },
+  {
+   "location": "719/ACT",
+   "narrator": "",
+   "text": "浜辺で水着イチャイチャ体験",
+   "zh": "海边泳衣腻歪体验",
+   "narrator_zh": ""
+  },
+  {
+   "location": "724/ACT",
+   "narrator": "",
+   "text": "お試しおさわり",
+   "zh": "试着摸摸",
+   "narrator_zh": ""
+  },
+  {
+   "location": "730/DIALOG",
+   "narrator": "",
+   "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n接続されました。\n\n画面をタップして相手に\n感覚を伝えましょう。",
+   "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已连接。\n\n点击画面，向对方\n传达感觉吧。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "793/TALK",
+   "narrator": "みやび",
+   "text": "なんぞ、\n頭に付いちょったが？",
+   "zh": "搞么子，\n头上沾着东西？",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "795/TALK",
+   "narrator": "みやび",
+   "text": "霊体験のようで\n面白いぞね。",
+   "zh": "跟灵异体验似的，\n有趣得很啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "801/TALK",
+   "narrator": "みやび",
+   "text": "…っと！\nいきなり何しゆう！",
+   "zh": "……啧！\n冷不丁搞么子啵！",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "803/TALK",
+   "narrator": "みやび",
+   "text": "むっ。\n不当な暴力ぞね。",
+   "zh": "哼。\n不正当的暴力啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "809/TALK",
+   "narrator": "みやび",
+   "text": "あー、まったく。\nまたろくでもないヤツ\nに絡まれたねぇ……",
+   "zh": "啊，真是的。\n又被没得用的家伙\n缠上了……",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "811/TALK",
+   "narrator": "みやび",
+   "text": "所詮はあんたも\nオッパイ星人か。",
+   "zh": "说到底，\n你也是欧派星人喃。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "817/TALK",
+   "narrator": "みやび",
+   "text": "なかなかえい\nおなかじゃろ。",
+   "zh": "这肚子\n相当好得很咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "819/TALK",
+   "narrator": "みやび",
+   "text": "これがいわゆる\nハラパンというヤツか。",
+   "zh": "这就是所谓的\n露肚番咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "825/TALK",
+   "narrator": "みやび",
+   "text": "ちょっ！\nそこはいかんちや！",
+   "zh": "喂！\n那里不行咯！",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "827/TALK",
+   "narrator": "みやび",
+   "text": "うち、おなかは\nダメやき、堪忍してや。",
+   "zh": "我肚子不行啵，\n饶了我嘛。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "833/DIALOG",
+   "narrator": "",
+   "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n切断されました。",
+   "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已断开。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "836/TALK",
+   "narrator": "千羽鶴",
+   "text": "はい、お終い。",
+   "zh": "好，到此为止。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "838/ACT",
+   "narrator": "",
+   "text": "戻る",
+   "zh": "返回",
+   "narrator_zh": ""
+  },
+  {
+   "location": "842/ACT",
+   "narrator": "",
+   "text": "千羽鶴",
+   "zh": "千羽鹤",
+   "narrator_zh": ""
+  },
+  {
+   "location": "844/TALK",
+   "narrator": "千羽鶴",
+   "text": "…は？",
+   "zh": "……啊？",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "845/TALK",
+   "narrator": "千羽鶴",
+   "text": "何やってるの？\n時間の無駄。\nすなわち人生の無駄。",
+   "zh": "你在干什么？\n浪费时间。\n也就是浪费人生。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "848/DIALOG",
+   "narrator": "",
+   "text": "<b><color=#767676><size=40>千羽鶴</size></color></b>\n<color=#767676><size=20>ちはる</size></color>\n\n■■歳(■■■■)\n\n■■■■■■\n■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■\n\n<b><color=orange>【好きなもの】</color></b>\n\n■■■■■■■■■■■■■■■■■■■■■■■■■■■■\n\n<b><color=blue>【苦手なもの】</color></b>\n■■■■■",
+   "zh": "<b><color=#767676><size=40>千羽鹤</size></color></b>\n<color=#767676><size=20>chiharu</size></color>\n\n■■岁(■■■■)\n\n■■■■■■\n■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■\n\n<b><color=orange>【喜欢的东西】</color></b>\n\n■■■■■■■■■■■■■■■■■■■■■■■■■■■■\n\n<b><color=blue>【不擅长的东西】</color></b>\n■■■■■",
+   "narrator_zh": ""
+  },
+  {
+   "location": "852/SEL",
+   "narrator": "（選択肢）",
+   "text": "お試しおさわり",
+   "zh": "试着摸摸",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "853/SEL",
+   "narrator": "（選択肢）",
+   "text": "戻る",
+   "zh": "返回",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "854/ACT",
+   "narrator": "",
+   "text": "お試しおさわり",
+   "zh": "试着摸摸",
+   "narrator_zh": ""
+  },
+  {
+   "location": "856/TALK",
+   "narrator": "千羽鶴",
+   "text": "却下。",
+   "zh": "驳回。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "857/TALK",
+   "narrator": "千羽鶴",
+   "text": "私の話、ちゃんと\n聞いてた？",
+   "zh": "我的话，\n你有好好听吗？",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "858/TALK",
+   "narrator": "千羽鶴",
+   "text": "私は非攻略対象だと\n言っている。",
+   "zh": "我说了，\n我是非攻略对象。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "860/SEL",
+   "narrator": "（選択肢）",
+   "text": "すみません…",
+   "zh": "对不起……",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "861/SEL",
+   "narrator": "（選択肢）",
+   "text": "そこを何とか！！",
+   "zh": "通融一下！！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "862/ACT",
+   "narrator": "",
+   "text": "すみません…",
+   "zh": "对不起……",
+   "narrator_zh": ""
+  },
+  {
+   "location": "863/TALK",
+   "narrator": "千羽鶴",
+   "text": "わかってくれて\nよかった。",
+   "zh": "你能明白\n就好。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "864/ACT",
+   "narrator": "",
+   "text": "そこを何とか！！",
+   "zh": "通融一下！！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "865/TALK",
+   "narrator": "千羽鶴",
+   "text": "はぁ……\nしょうがない人。",
+   "zh": "哈啊……\n真拿你没办法。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "866/TALK",
+   "narrator": "千羽鶴",
+   "text": "本当に特別。\n今回だけ特別だから。",
+   "zh": "真的是特别。\n只限这一次。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "872/DIALOG",
+   "narrator": "",
+   "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n接続されました。\n\n画面をタップして相手に\n感覚を伝えましょう。",
+   "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已连接。\n\n点击画面，向对方\n传达感觉吧。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "935/TALK",
+   "narrator": "千羽鶴",
+   "text": "……。",
+   "zh": "……。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "937/TALK",
+   "narrator": "千羽鶴",
+   "text": "まあ、\nこんな感じ？",
+   "zh": "嗯，\n就是这种感觉？",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "943/TALK",
+   "narrator": "千羽鶴",
+   "text": "こら。",
+   "zh": "喂。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "945/TALK",
+   "narrator": "千羽鶴",
+   "text": "痛いから。",
+   "zh": "很痛。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "951/TALK",
+   "narrator": "千羽鶴",
+   "text": "調子乗りすぎ。",
+   "zh": "得意过头了。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "953/TALK",
+   "narrator": "千羽鶴",
+   "text": "どーんするから。",
+   "zh": "我会咚你一下。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "959/TALK",
+   "narrator": "千羽鶴",
+   "text": "くすぐったい。",
+   "zh": "很痒。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "961/TALK",
+   "narrator": "千羽鶴",
+   "text": "気持ち悪い。",
+   "zh": "恶心。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "967/TALK",
+   "narrator": "千羽鶴",
+   "text": "おなかが\nもにゅもにゅする。",
+   "zh": "肚子\n软乎乎的。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "969/TALK",
+   "narrator": "千羽鶴",
+   "text": "変な感じ。",
+   "zh": "感觉怪怪的。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "975/DIALOG",
+   "narrator": "",
+   "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n切断されました。",
+   "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已断开。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "978/TALK",
+   "narrator": "千羽鶴",
+   "text": "やっぱり\nもうお終い。",
+   "zh": "果然还是\n到此为止。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "979/SEL",
+   "narrator": "（選択肢）",
+   "text": "えー！！！",
+   "zh": "诶！！！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "980/ACT",
+   "narrator": "",
+   "text": "えー！！！",
+   "zh": "诶！！！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "982/TALK",
+   "narrator": "千羽鶴",
+   "text": "非攻略対象と\nイチャイチャしても\n時間の無駄だから！",
+   "zh": "跟非攻略对象\n腻歪，也只是\n浪费时间！",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "983/TALK",
+   "narrator": "千羽鶴",
+   "text": "はい、次に進む！",
+   "zh": "好，往下走！",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "985/ACT",
+   "narrator": "",
+   "text": "戻る",
+   "zh": "返回",
+   "narrator_zh": ""
+  },
+  {
+   "location": "990/ACT",
+   "narrator": "",
+   "text": "十分堪能した！",
+   "zh": "已经玩够了！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1004/TALK",
+   "narrator": "千羽鶴",
+   "text": "お気に入りの子はいた？",
+   "zh": "有喜欢的孩子吗？",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1005/SEL",
+   "narrator": "（選択肢）",
+   "text": "逢瀬つばめ",
+   "zh": "逢濑燕",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1006/SEL",
+   "narrator": "（選択肢）",
+   "text": "國政綾水",
+   "zh": "国政绫水",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1007/SEL",
+   "narrator": "（選択肢）",
+   "text": "ガブリエラ",
+   "zh": "加布里埃拉",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1008/SEL",
+   "narrator": "（選択肢）",
+   "text": "恋ヶ崎みやび",
+   "zh": "恋之崎雅",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1009/SEL",
+   "narrator": "（選択肢）",
+   "text": "特にいなかった",
+   "zh": "并没有特别喜欢的",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1010/SEL",
+   "narrator": "（選択肢）",
+   "text": "千羽鶴",
+   "zh": "千羽鹤",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1011/ACT",
+   "narrator": "",
+   "text": "逢瀬つばめ",
+   "zh": "逢濑燕",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1013/TALK",
+   "narrator": "千羽鶴",
+   "text": "なるほど。\n確かに彼女にするには\nかわいいと思う。",
+   "zh": "原来如此。\n要说当女朋友，\n确实觉得可爱。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1014/TALK",
+   "narrator": "千羽鶴",
+   "text": "ただし彼女は\n楽勝に見えて\n４人の中で最強。",
+   "zh": "不过她看着好对付，\n其实是\n四个人里最强的。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1015/TALK",
+   "narrator": "千羽鶴",
+   "text": "がんばって。",
+   "zh": "加油。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1016/ACT",
+   "narrator": "",
+   "text": "國政綾水",
+   "zh": "国政绫水",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1018/TALK",
+   "narrator": "千羽鶴",
+   "text": "なるほど。\n彼女はきっと\nいい奥さんになる。",
+   "zh": "原来如此。\n她一定能成为\n好妻子。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1019/TALK",
+   "narrator": "千羽鶴",
+   "text": "それに、目一杯\n甘やかしてもらえるかも\nしれないものね。",
+   "zh": "而且，说不定\n还能被尽情\n宠着。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1020/ACT",
+   "narrator": "",
+   "text": "ガブリエラ",
+   "zh": "加布里埃拉",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1022/TALK",
+   "narrator": "千羽鶴",
+   "text": "なるほど。\nまあ、何もいわないで\nおいてあげる。",
+   "zh": "原来如此。\n好吧，我就\n什么都不说了。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1023/TALK",
+   "narrator": "千羽鶴",
+   "text": "彼女は日常と\nプライベートの\nギャップがすごい。",
+   "zh": "她日常和私下的\n反差\n很大。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1024/TALK",
+   "narrator": "千羽鶴",
+   "text": "いろいろと\n驚くこともあるかも。",
+   "zh": "说不定会在\n很多地方吃惊。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1025/ACT",
+   "narrator": "",
+   "text": "恋ヶ崎みやび",
+   "zh": "恋之崎雅",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1027/TALK",
+   "narrator": "千羽鶴",
+   "text": "なるほど。\n物好きね。",
+   "zh": "原来如此。\n品味真特别。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1028/TALK",
+   "narrator": "千羽鶴",
+   "text": "まあでも、人の好みは\n十人十色。",
+   "zh": "不过，人的喜好\n各不相同。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1029/TALK",
+   "narrator": "千羽鶴",
+   "text": "貴方に、鉄の仮面を\n脱がせるスキルが\nあることを祈ってる。",
+   "zh": "但愿你有本事\n摘下她的\n铁面具。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1030/ACT",
+   "narrator": "",
+   "text": "特にいなかった",
+   "zh": "并没有特别喜欢的",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1032/TALK",
+   "narrator": "千羽鶴",
+   "text": "そう。\nそれは残念。",
+   "zh": "是的。\n那很遗憾。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1033/TALK",
+   "narrator": "千羽鶴",
+   "text": "でも、彼女たちの\n生活を見ていたら\n気が変わるかも。",
+   "zh": "不过，看着她们的\n生活，\n说不定会改主意。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1034/TALK",
+   "narrator": "千羽鶴",
+   "text": "最初のうちは、彼女\nたちの生活ドラマと\nして楽しめばいい。",
+   "zh": "一开始，把她们的生活\n当成生活剧\n来看就行。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1035/ACT",
+   "narrator": "",
+   "text": "千羽鶴",
+   "zh": "千羽鹤",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1038/TALK",
+   "narrator": "千羽鶴",
+   "text": "ああ……。\nやっちゃったのね。",
+   "zh": "啊……。\n你还是选了啊。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1039/TALK",
+   "narrator": "千羽鶴",
+   "text": "再三言うけど、\n私は非攻略対象。",
+   "zh": "我说了很多次了，\n我是非攻略对象。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1040/TALK",
+   "narrator": "千羽鶴",
+   "text": "もう１回\nやりなおし。",
+   "zh": "再来\n一次。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1043/TALK",
+   "narrator": "千羽鶴",
+   "text": "とにかく、あなたの\n好みは把握した。",
+   "zh": "总之，你的喜好\n我把握了。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1044/TALK",
+   "narrator": "千羽鶴",
+   "text": "早く彼女たちと\n今くらいの関係に\nなれるといいわね。",
+   "zh": "希望你能早点\n跟她们变成\n现在这样的关系。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1045/SEL",
+   "narrator": "（選択肢）",
+   "text": "あと一人、まだ紹介してない子がいるはずなんだけど",
+   "zh": "应该还有一个没介绍的人吧",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1046/SEL",
+   "narrator": "（選択肢）",
+   "text": "早く会いたい",
+   "zh": "想早点见到她们",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1047/ACT",
+   "narrator": "",
+   "text": "あと一人、まだ紹介してない子がいるはずなんだけど",
+   "zh": "应该还有一个没介绍的人吧",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1048/TALK",
+   "narrator": "千羽鶴",
+   "text": "ああ、黄色いの。",
+   "zh": "啊，黄色的那个。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1049/TALK",
+   "narrator": "千羽鶴",
+   "text": "紹介してもいいけど、\nお薦めはしない。",
+   "zh": "介绍也可以，\n不过不推荐。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1050/TALK",
+   "narrator": "千羽鶴",
+   "text": "自己責任で関わるなら\n止めはしないけど、\nどうする？",
+   "zh": "你要是自担责任去接触，\n我不会拦，\n怎么样？",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1051/SEL",
+   "narrator": "（選択肢）",
+   "text": "もちろんお願いします！",
+   "zh": "当然，拜托了！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1052/SEL",
+   "narrator": "（選択肢）",
+   "text": "やめておきます…",
+   "zh": "还是算了……",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1053/ACT",
+   "narrator": "",
+   "text": "もちろんお願いします！",
+   "zh": "当然，拜托了！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1054/TALK",
+   "narrator": "千羽鶴",
+   "text": "わかった。",
+   "zh": "好。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1067/TALK",
+   "narrator": "神楽",
+   "text": "初めまして！\n卯月神楽といいます！",
+   "zh": "初次见面！\n我是卯月神乐！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1069/TALK",
+   "narrator": "神楽",
+   "text": "まだ、チャンネル\n頂けてないんですけど、\nよければお話しませんか？",
+   "zh": "频道还没能收到，\n不过方便的话，\n能跟我聊聊吗？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1074/DIALOG",
+   "narrator": "",
+   "text": "<b><color=#FFBA00><size=40>卯月神楽</size></color></b>\n<color=#FFBA00><size=20>うづきかぐら</size></color>\n\n１５歳(高校１年)\n誕生日:2000.12.09\n\n東京都出身。\n明るく元気なお嬢様。普段は礼儀正しくよく気がきく子だが、趣味のラノベのこととなると興奮してキャラが変わる。表裏が激しい。\n\n<b><color=orange>【好きなもの】</color></b>\n\nラノベ、アニメを見る\n（特に中二成分多めのもの）\n\n<b><color=blue>【苦手なもの】</color></b>\n掃除、運命\n",
+   "zh": "<b><color=#FFBA00><size=40>卯月神乐</size></color></b>\n<color=#FFBA00><size=20>uzukikagura</size></color>\n\n15岁（高中1年级）\n生日:2000.12.09\n\n东京都出身。\n开朗有精神的大小姐。平时懂礼貌、会察言观色，可一扯到爱好的轻小说就兴奋得换了个人。表里反差很大。\n\n<b><color=orange>【喜欢的东西】</color></b>\n\n看轻小说、动画\n（尤其是中二成分很多的）\n\n<b><color=blue>【不擅长的东西】</color></b>\n打扫、命运\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1078/SEL",
+   "narrator": "（選択肢）",
+   "text": "浜辺で水着イチャイチャ体験",
+   "zh": "海边泳衣腻歪体验",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1079/SEL",
+   "narrator": "（選択肢）",
+   "text": "お試しおさわり",
+   "zh": "试着摸摸",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1080/SEL",
+   "narrator": "（選択肢）",
+   "text": "戻る",
+   "zh": "返回",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1081/ACT",
+   "narrator": "",
+   "text": "浜辺で水着イチャイチャ体験",
+   "zh": "海边泳衣腻歪体验",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1087/ACT",
+   "narrator": "",
+   "text": "お試しおさわり",
+   "zh": "试着摸摸",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1093/DIALOG",
+   "narrator": "",
+   "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n接続されました。\n\n画面をタップして相手に\n感覚を伝えましょう。",
+   "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已连接。\n\n点击画面，向对方\n传达感觉吧。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1156/TALK",
+   "narrator": "神楽",
+   "text": "ふふ。\nなんだかちょっと\n恥ずかしいですね。",
+   "zh": "呵呵。\n总觉得有点\n不好意思。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1158/TALK",
+   "narrator": "神楽",
+   "text": "えへへ。\nなでなで\nされちゃいました♪",
+   "zh": "诶嘿嘿。\n被摸了摸\n头♪",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1164/TALK",
+   "narrator": "神楽",
+   "text": "はうっ！\nビックリしました！",
+   "zh": "哈唔！\n吓了我一跳！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1166/TALK",
+   "narrator": "神楽",
+   "text": "きゃっ！\nちょっと痛いですっ！",
+   "zh": "呀！\n有点痛！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1172/TALK",
+   "narrator": "神楽",
+   "text": "もーっ！　\nどうせ全然柔らかく\nありませんよ。",
+   "zh": "真是的！\n反正一点都不软\n就是了。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1174/TALK",
+   "narrator": "神楽",
+   "text": "それは私に対する\n冒涜ですか？",
+   "zh": "这是对我的\n亵渎吗？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1180/TALK",
+   "narrator": "神楽",
+   "text": "はあっ！\nなんだか不思議な\n感じがします！",
+   "zh": "哈啊！\n总觉得有种\n奇妙的感觉！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1182/TALK",
+   "narrator": "神楽",
+   "text": "ううっ！\nあまりお腹叩くと\n気持ち悪いですよ？",
+   "zh": "呜！\n肚子拍太多的话\n会不舒服的哦？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1188/TALK",
+   "narrator": "神楽",
+   "text": "ふわあっ！\nくすぐったいです！！",
+   "zh": "呼哇！\n好痒！！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1190/TALK",
+   "narrator": "神楽",
+   "text": "ふふ♪\n私との子供を\n想像してますか？",
+   "zh": "呵呵♪\n在想和我的\n孩子吗？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1196/DIALOG",
+   "narrator": "",
+   "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n切断されました。",
+   "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已断开。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1199/TALK",
+   "narrator": "千羽鶴",
+   "text": "はい、お終い。",
+   "zh": "好，到此为止。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1202/ACT",
+   "narrator": "",
+   "text": "戻る",
+   "zh": "返回",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1216/ACT",
+   "narrator": "",
+   "text": "やめておきます…",
+   "zh": "还是算了……",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1217/TALK",
+   "narrator": "千羽鶴",
+   "text": "いい判断だと思う。",
+   "zh": "我觉得这判断不错。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1219/ACT",
+   "narrator": "",
+   "text": "早く会いたい",
+   "zh": "想早点见到她们",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1220/TALK",
+   "narrator": "千羽鶴",
+   "text": "ならば今すぐ、自分の\nスマホへのインストールを\nお薦めする。",
+   "zh": "那就建议你马上\n装到自己的\n手机上。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1223/TALK",
+   "narrator": "千羽鶴",
+   "text": "念のため\nもう一度\n出してみる。",
+   "zh": "保险起见，\n再拿出来\n一次。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1229/TALK",
+   "narrator": "千羽鶴",
+   "text": "というわけで、\n彼女たちとのコミュニ\nケーションはどうだった？",
+   "zh": "所以，\n和她们的交流\n怎么样？",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1230/SEL",
+   "narrator": "（選択肢）",
+   "text": "よかった！",
+   "zh": "很好！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1231/SEL",
+   "narrator": "（選択肢）",
+   "text": "まあ、普通？",
+   "zh": "嗯，一般？",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1232/ACT",
+   "narrator": "",
+   "text": "よかった！",
+   "zh": "很好！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1237/TALK",
+   "narrator": "千羽鶴",
+   "text": "それは何より。",
+   "zh": "那比什么都好。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1238/ACT",
+   "narrator": "",
+   "text": "まあ、普通？",
+   "zh": "嗯，一般？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1241/TALK",
+   "narrator": "千羽鶴",
+   "text": "そう。",
+   "zh": "是的。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1245/ACT",
+   "narrator": "",
+   "text": "その壮大なるストーリーとやらを垣間見たい",
+   "zh": "想瞥一眼那所谓的宏大故事",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1246/TALK",
+   "narrator": "千羽鶴",
+   "text": "わかった。",
+   "zh": "好。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1247/TALK",
+   "narrator": "千羽鶴",
+   "text": "ところで貴方は、\n既にアプリをDLして\nプレイしてる人？",
+   "zh": "对了，你是\n已经下载了应用、\n正在玩的人吗？",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1248/SEL",
+   "narrator": "（選択肢）",
+   "text": "いえ、してません。",
+   "zh": "不，还没有。",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1249/SEL",
+   "narrator": "（選択肢）",
+   "text": "プレイしてる人です",
+   "zh": "我正在玩",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1250/ACT",
+   "narrator": "",
+   "text": "いえ、してません。",
+   "zh": "不，还没有。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1251/TALK",
+   "narrator": "千羽鶴",
+   "text": "興味持ってくれて\nありがと。",
+   "zh": "谢谢你\n有兴趣。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1252/TALK",
+   "narrator": "千羽鶴",
+   "text": "今日はこのアプリの\n奥深い物語を少しでも\n感じていって欲しい。",
+   "zh": "希望你今天多少能\n感受到这个应用\n深层的故事。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1253/TALK",
+   "narrator": "千羽鶴",
+   "text": "ちなみに、今実際に\nプレイしている人に\n聞いてみたところ――",
+   "zh": "顺便，我问了\n现在正在玩的\n人——",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1254/TALK",
+   "narrator": "千羽鶴",
+   "text": "$tgs_q2_all$人中$tgs_q2_yes$人が\nこのアプリの物語に\n夢中だと答えてる。",
+   "zh": "$tgs_q2_all$人里有$tgs_q2_yes$人\n回答说，正沉迷于\n这个应用的故事。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1255/TALK",
+   "narrator": "千羽鶴",
+   "text": "あなたにとっても\n興味を持てる物語だと\nいいけど。",
+   "zh": "希望对你来说，\n也是能提起兴趣的\n故事。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1256/ACT",
+   "narrator": "",
+   "text": "プレイしてる人です",
+   "zh": "我正在玩",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1257/TALK",
+   "narrator": "千羽鶴",
+   "text": "いつも彼女たちを\n支えてくれてありがと。",
+   "zh": "谢谢你一直\n支撑着她们。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1258/TALK",
+   "narrator": "千羽鶴",
+   "text": "ところで、\nトライナリーの物語は\n楽しい？",
+   "zh": "对了，\n三重奏的故事\n有趣吗？",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1259/SEL",
+   "narrator": "（選択肢）",
+   "text": "もちろん！！",
+   "zh": "当然！！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1260/SEL",
+   "narrator": "（選択肢）",
+   "text": "実はそんなには…",
+   "zh": "其实并没有那么……",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1261/ACT",
+   "narrator": "",
+   "text": "もちろん！！",
+   "zh": "当然！！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1266/TALK",
+   "narrator": "千羽鶴",
+   "text": "良かった。\nこれからも存分に\n楽しんで。",
+   "zh": "太好了。\n以后也尽情\n享受吧。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1267/ACT",
+   "narrator": "",
+   "text": "実はそんなには…",
+   "zh": "其实并没有那么……",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1270/TALK",
+   "narrator": "千羽鶴",
+   "text": "そう。\nそれは残念。",
+   "zh": "是的。\n那很遗憾。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1273/TALK",
+   "narrator": "千羽鶴",
+   "text": "それじゃ早速\nこれから物語について\n紹介していこうと思う。",
+   "zh": "那就马上\n开始介绍\n故事。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1277/SEL",
+   "narrator": "（選択肢）",
+   "text": "１．どんな感じ？",
+   "zh": "1．什么感觉？",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1278/SEL",
+   "narrator": "（選択肢）",
+   "text": "２．どんなあらすじ？",
+   "zh": "2．什么概要？",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1279/SEL",
+   "narrator": "（選択肢）",
+   "text": "３．みんなの反応は？",
+   "zh": "3．大家的反应呢？",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1280/SEL",
+   "narrator": "（選択肢）",
+   "text": "１～３を通して見る",
+   "zh": "1到3连着看",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1281/SEL",
+   "narrator": "（選択肢）",
+   "text": "終わりにする",
+   "zh": "到此结束",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1282/ACT",
+   "narrator": "",
+   "text": "１．どんな感じ？",
+   "zh": "1．什么感觉？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1286/ACT",
+   "narrator": "",
+   "text": "２．どんなあらすじ？",
+   "zh": "2．什么概要？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1290/ACT",
+   "narrator": "",
+   "text": "３．みんなの反応は？",
+   "zh": "3．大家的反应呢？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1294/ACT",
+   "narrator": "",
+   "text": "１～３を通して見る",
+   "zh": "1到3连着看",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1299/ACT",
+   "narrator": "",
+   "text": "終わりにする",
+   "zh": "到此结束",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1300/TALK",
+   "narrator": "千羽鶴",
+   "text": "そう。",
+   "zh": "是的。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1324/DIALOG",
+   "narrator": "",
+   "text": "- その１ -\n\n<size=60>恋愛ゲーム</size>\n×\n<size=60>社会派アニメーション</size>\n",
+   "zh": "- 其一 -\n\n<size=60>恋爱游戏</size>\n×\n<size=60>社会派动画</size>\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1330/TALK",
+   "narrator": "アーヤ",
+   "text": "こんにちは、\n國政綾水です。\nアーヤって呼んでね？",
+   "zh": "你好，\n我是国政绫水。\n叫我绫水，可以吧？",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "1331/TALK",
+   "narrator": "ガブリエラ",
+   "text": "あたしは\nガブリエラよ。\nギャヴィって呼ばれてる。",
+   "zh": "我是\n加布里埃拉。\n别人叫我加维。",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "1332/SEL",
+   "narrator": "（選択肢）",
+   "text": "よろしくね",
+   "zh": "请多关照",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1333/SEL",
+   "narrator": "（選択肢）",
+   "text": "その格好は！？",
+   "zh": "这身打扮是！？",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1334/ACT",
+   "narrator": "",
+   "text": "よろしくね",
+   "zh": "请多关照",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1335/ACT",
+   "narrator": "",
+   "text": "その格好は！？",
+   "zh": "这身打扮是！？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1336/TALK",
+   "narrator": "ガブリエラ",
+   "text": "ああ、これ？\nポーランドの\n民族衣装よ？",
+   "zh": "啊，这个？\n波兰的\n民族服装哦？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "1337/TALK",
+   "narrator": "ガブリエラ",
+   "text": "あたし、\nポーランド生まれだから。",
+   "zh": "因为我\n生在波兰。",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "1338/TALK",
+   "narrator": "アーヤ",
+   "text": "私は日本人だから浴衣。",
+   "zh": "我是日本人，所以穿浴衣。",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "1340/TALK",
+   "narrator": "ガブリエラ",
+   "text": "アーヤの場合、わざわざ\n日本人だって主張する\n必要無いと思うんだけど。",
+   "zh": "绫水的话，我觉得\n没必要特意强调\n自己是日本人。",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "1343/TALK",
+   "narrator": "アーヤ",
+   "text": "というわけで、\nトライナリーとは\nどんなお話なのか？",
+   "zh": "所以，\n三重奏是\n什么样的故事？",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "1344/TALK",
+   "narrator": "ガブリエラ",
+   "text": "それを今から、\nあたしとアーヤで\n説明していくわよ。",
+   "zh": "接下来就由\n我和绫水\n来说明。",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "1346/TALK",
+   "narrator": "ガブリエラ",
+   "text": "早速で悪いんだけど、\nタイトルテロップに\n突っ込み入れていい？",
+   "zh": "突然说这个不好意思，\n我能吐槽一下\n标题字幕吗？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "1348/TALK",
+   "narrator": "アーヤ",
+   "text": "どうしたの？",
+   "zh": "怎么了？",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "1349/TALK",
+   "narrator": "ガブリエラ",
+   "text": "恋愛はいいわ、恋愛は。\nそこはいいとして。",
+   "zh": "恋爱没问题，恋爱。\n那部分先放一边。",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "1350/TALK",
+   "narrator": "ガブリエラ",
+   "text": "社会派アニメってなに！？",
+   "zh": "社会派动画是什么啊！？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "1351/TALK",
+   "narrator": "アーヤ",
+   "text": "あー、そこね。\nほら、あれよ。",
+   "zh": "啊，那里啊。\n你看，就是那个。",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "1353/DIALOG",
+   "narrator": "",
+   "text": "愛と勇気の宇宙戦争！\n…というよりは――",
+   "zh": "爱与勇气的宇宙战争！\n……与其说是那样——",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1355/TALK",
+   "narrator": "アーヤ",
+   "text": "同じロボットが出てくる\nにしても、宇宙でドンパチ\nやるタイプじゃなくて――",
+   "zh": "就算同样有机器人出场，\n也不是在宇宙里\n开枪对轰的那种——",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "1358/DIALOG",
+   "narrator": "",
+   "text": "これからの社会を\nズバッと斬る！！",
+   "zh": "把今后的社会\n干脆利落地斩开！！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1360/TALK",
+   "narrator": "アーヤ",
+   "text": "一家に一台ロボットが\n普及したらどんな問題が\n出てくるか、みたいな。",
+   "zh": "要是一家一台机器人\n普及了，会冒出\n什么问题，之类的。",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "1363/TALK",
+   "narrator": "アーヤ",
+   "text": "そういうアニメって\nことなんじゃないかしら？",
+   "zh": "大概就是\n那种动画吧？",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "1364/TALK",
+   "narrator": "ガブリエラ",
+   "text": "え！？\nそんなお話だっけ？",
+   "zh": "诶！？\n是这种故事来着？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "1367/DIALOG",
+   "narrator": "",
+   "text": "- POINT① -\n\n昨今の世界情勢などを\nテーマのベースに盛り込んだ\n骨太なストーリーです。\n",
+   "zh": "- POINT① -\n\n把近年的世界局势等\n收进主题的底子里，\n是很扎实的故事。\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1369/TALK",
+   "narrator": "アーヤ",
+   "text": "まあ、最初のうちは\n単なるイチャイチャ\nマッタリ日常劇だけど。",
+   "zh": "不过，一开始只是\n腻歪、慢悠悠的\n日常剧。",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "1370/TALK",
+   "narrator": "ガブリエラ",
+   "text": "そうよね。\nあたしもイチャイチャした\n記憶しかな――",
+   "zh": "是啊。\n我也只记得\n腻歪的事——",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "1373/DIALOG",
+   "narrator": "",
+   "text": "- POINT② -\n\n最初はマッタリ日常ドラマ。\n彼女たちとの平穏な日常を\nお楽しみいただけます。\n",
+   "zh": "- POINT② -\n\n一开始是慢悠悠的日常剧。\n可以享受和她们\n平静的日常。\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1376/TALK",
+   "narrator": "ガブリエラ",
+   "text": "……いや、別に\n毎日恋愛ボケしてるって\nワケじゃないのよ？",
+   "zh": "……不，也不是说\n每天都恋爱到昏头\n哦？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "1377/TALK",
+   "narrator": "アーヤ",
+   "text": "たまになら\n恋愛ボケしてるって\nことかしら。",
+   "zh": "那就是偶尔\n会恋爱到昏头\n吧。",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "1378/TALK",
+   "narrator": "アーヤ",
+   "text": "まあでも、確かに\nかなり濃厚な恋愛を\nしてるわよね、私たち。",
+   "zh": "不过，我们确实\n在谈相当浓的\n恋爱。",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "1379/TALK",
+   "narrator": "アーヤ",
+   "text": "ホントにいっぱい、\n泣いたり笑ったり……。\n色んな経験をしてる。",
+   "zh": "真的有很多，\n哭也好笑也好……。\n经历了各种各样的事。",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "1382/DIALOG",
+   "narrator": "",
+   "text": "- POINT③ -\n\n彼女たちとの恋愛は\nその過程を楽しむものに\nなっています。\n\n一緒に泣いて笑って、\nそれは最高の思い出になります。",
+   "zh": "- POINT③ -\n\n和她们的恋爱，\n是拿来享受\n过程的。\n\n一起哭，一起笑，\n那会成为最好的回忆。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1385/TALK",
+   "narrator": "ガブリエラ",
+   "text": "まあ、そこは\n否定しないわね。",
+   "zh": "嗯，这一点\n我不否认。",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "1386/TALK",
+   "narrator": "ガブリエラ",
+   "text": "それはそうと、\nどんなストーリーなのかの\n説明はしなくていいの？",
+   "zh": "话虽如此，\n不用说明是什么样的\n故事吗？",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "1387/TALK",
+   "narrator": "アーヤ",
+   "text": "ああ…そうね。",
+   "zh": "啊……也是。",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "1388/TALK",
+   "narrator": "アーヤ",
+   "text": "その辺りは、\n次の二人に\nお任せしましょ。",
+   "zh": "那部分就交给\n后面两个人\n吧。",
+   "narrator_zh": "绫水"
+  },
+  {
+   "location": "1389/TALK",
+   "narrator": "ガブリエラ",
+   "text": "あらら……。",
+   "zh": "哎呀……。",
+   "narrator_zh": "加布里埃拉"
+  },
+  {
+   "location": "1420/DIALOG",
+   "narrator": "",
+   "text": "- その２ -\n\n<size=60>ジェットコースター</size>\n＆\n<size=60>エクストリーム</size>\n",
+   "zh": "- 其二 -\n\n<size=60>过山车</size>\n＆\n<size=60>极限</size>\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1425/TALK",
+   "narrator": "つばめ",
+   "text": "皆さんこんにちは、\n逢瀬つばめです！",
+   "zh": "大家好，\n我是逢濑燕！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1426/TALK",
+   "narrator": "神楽",
+   "text": "卯月神楽です♪",
+   "zh": "我是卯月神乐♪",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1430/TALK",
+   "narrator": "神楽",
+   "text": "つばめさんっ！\n私たち、ストーリーの\n解説を任されました！",
+   "zh": "燕！\n解说剧情的任务\n交给我们了！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1431/TALK",
+   "narrator": "つばめ",
+   "text": "責任重大だね！\nちゃんと出来るかな。",
+   "zh": "责任重大呀！\n不知道能不能做好。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1432/TALK",
+   "narrator": "神楽",
+   "text": "大丈夫です！\n失敗しても、つばめさんが\n脱げば丸く収まります♪",
+   "zh": "没问题！\n就算失败了，只要燕脱掉，\n也能圆过去♪",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1433/TALK",
+   "narrator": "つばめ",
+   "text": "ええっ！！",
+   "zh": "诶诶！！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1436/DIALOG",
+   "narrator": "",
+   "text": "- POINT④ -\n\n確かにそんな展開も、\n無いとは言い切れない…。",
+   "zh": "- POINT④ -\n\n这样的展开，\n确实也不能说没有……。",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1438/TALK",
+   "narrator": "神楽",
+   "text": "では早速、\n世界観を説明して\nいきましょう。",
+   "zh": "那就马上\n说明\n世界观吧。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1444/TALK",
+   "narrator": "つばめ",
+   "text": "拡張少女系トライナリーは\nとある災厄と闘う\n少女たちの物語です。",
+   "zh": "扩张少女系三重奏，\n是与某种灾厄战斗的\n少女们的故事。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1445/TALK",
+   "narrator": "神楽",
+   "text": "簡単に言えば、\n魔法少女モノだけど、\nストーリーは骨太。",
+   "zh": "简单来说，\n是魔法少女题材，\n不过剧情很扎实。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1449/TALK",
+   "narrator": "つばめ",
+   "text": "時は２０１６年。\n東京ではフェノメノンと\n呼ばれる災厄が勃発。",
+   "zh": "时为2016年。\n东京爆发了名为\nPhenoMENON的灾厄。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1450/TALK",
+   "narrator": "神楽",
+   "text": "突如都内に繭のような\nものが発生し、街の一部を\n覆ってしまいますっ！",
+   "zh": "市区里突然出现\n像茧一样的东西，把一部分\n街道盖住了！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1454/TALK",
+   "narrator": "つばめ",
+   "text": "中に巻き込まれちゃった\n人たちは、そこで殺し合い\nしちゃったりするんだよ。",
+   "zh": "被卷进去的人，\n会在里面\n互相残杀之类的呀。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1458/TALK",
+   "narrator": "神楽",
+   "text": "事態を重く見た政府は、\n総務省情報管理庁に対し、\n災厄に対処するよう指示。",
+   "zh": "政府看重事态，\n指示总务省情报管理厅\n去应对灾厄。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1459/TALK",
+   "narrator": "つばめ",
+   "text": "そして生まれたのが\nトライナリーと呼ばれる、\nわたしたち特殊部隊！",
+   "zh": "于是诞生的，\n就是叫做三重奏的、\n我们这支特殊部队！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1460/TALK",
+   "narrator": "神楽",
+   "text": "5人の女の子によって\n構成された、フェノメノン\n対処専門部隊なんです♪",
+   "zh": "由五个女孩组成的、\n专门应对PhenoMENON的\n部队♪",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1461/TALK",
+   "narrator": "つばめ",
+   "text": "フェノメノンの中に\n潜入して、元を断って\n収束させるよ！",
+   "zh": "潜入PhenoMENON里面，\n切断源头，\n让它收敛呀！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1464/TALK",
+   "narrator": "神楽",
+   "text": "大雑把に言えば\nそんなお話ですよね。",
+   "zh": "粗略说来，\n就是这样的故事吧。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1466/TALK",
+   "narrator": "つばめ",
+   "text": "そうだね。\nでも……",
+   "zh": "是呀。\n不过……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1467/TALK",
+   "narrator": "つばめ",
+   "text": "ジェットコースター＆\nエクストリームって\nどういう意味なんだろう？",
+   "zh": "过山车＆\n极限，\n是什么意思呀？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1468/TALK",
+   "narrator": "神楽",
+   "text": "それは多分、\nアレですよ。\nほら――",
+   "zh": "那大概是\n那个。\n你看——",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1474/TALK",
+   "narrator": "神楽",
+   "text": "きっと\nこのシーンのことです♪",
+   "zh": "一定是\n说这个场景♪",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1476/TALK",
+   "narrator": "つばめ",
+   "text": "わあああっ！\nまたこういう恥ずかしいの\n出してきてー！",
+   "zh": "哇啊啊！\n又把这种不好意思的\n拿出来了呀！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1481/TALK",
+   "narrator": "つばめ",
+   "text": "そうじゃなくて！\n神楽ちゃんの、こういう\nところの事だよ！",
+   "zh": "不是这个！\n是神乐这种\n地方的事呀！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1482/TALK",
+   "narrator": "神楽",
+   "text": "シレッと私の\n恥ずかしいシーンを\n出してきましたね。",
+   "zh": "若无其事地\n把我不好意思的场面\n拿出来了。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1486/TALK",
+   "narrator": "神楽",
+   "text": "それでは、\nこれなんかどうですか？\nエクストリームですよね！",
+   "zh": "那么，\n这个怎么样？\n很极限吧！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1487/TALK",
+   "narrator": "つばめ",
+   "text": "神楽ちゃん、\nわたしにセクハラしか\nしてないような気が…。",
+   "zh": "神乐，\n我怎么觉得你只是在\n对我性骚扰……",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1490/DIALOG",
+   "narrator": "",
+   "text": "- POINT⑤ -\n\nそれは伏線です。\n",
+   "zh": "- POINT⑤ -\n\n那是伏笔。\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1495/TALK",
+   "narrator": "つばめ",
+   "text": "いや、エクストリームって\n言ったら、こういう\nシーンのことじゃ…！",
+   "zh": "不对，说起极限，\n应该是这种\n场景才……！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1496/TALK",
+   "narrator": "神楽",
+   "text": "つばめさん、\nナチュラルに私の心の傷を\n抉ってきますね。",
+   "zh": "燕，\n你很自然地往我的\n心伤上戳。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1501/TALK",
+   "narrator": "神楽",
+   "text": "私はこの赤い水着を着た\nつばめさんこそ、エクス\nトリームだと思います♪",
+   "zh": "我觉得，穿着这件红泳衣的\n燕，才称得上\n极限♪",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1505/TALK",
+   "narrator": "つばめ",
+   "text": "そんなのより！\n神楽ちゃんの顔が\n変わっちゃうシーンのが！",
+   "zh": "那种算什么！\n神乐脸变掉的\n场景才是！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1510/TALK",
+   "narrator": "神楽",
+   "text": "今時そんなの古いですっ！\n今はパンツだって、宙を\n舞う時代なんですから！",
+   "zh": "那种现在已经过时了！\n现在可是连内裤都会\n在天上飞的时代！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1513/DIALOG",
+   "narrator": "",
+   "text": "- POINT⑥ -\n\nそれは恋ヶ崎みやびのです。\n",
+   "zh": "- POINT⑥ -\n\n那是恋之崎雅的。\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1518/TALK",
+   "narrator": "つばめ",
+   "text": "神楽ちゃん\nごまかしすぎー！！",
+   "zh": "神乐\n你糊弄得太过了！！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1521/SEL",
+   "narrator": "（選択肢）",
+   "text": "待って待って、落ち着いて！",
+   "zh": "等等等等，冷静一点！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1522/ACT",
+   "narrator": "",
+   "text": "待って待って、落ち着いて！",
+   "zh": "等等等等，冷静一点！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1526/DIALOG",
+   "narrator": "",
+   "text": "- POINT⑦ -\n\n今登場したスナップは\n全て\n拡張少女系トライナリーのシーンです。\n",
+   "zh": "- POINT⑦ -\n\n刚才出现的快照\n全部都是\n扩张少女系三重奏的场景。\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1532/TALK",
+   "narrator": "神楽",
+   "text": "ああっ、すみません。\n私としたことが。",
+   "zh": "啊，对不起。\n我怎么会这样。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1533/TALK",
+   "narrator": "つばめ",
+   "text": "つい熱くなっちゃったよ。",
+   "zh": "一下子就热血起来了呀。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1534/TALK",
+   "narrator": "神楽",
+   "text": "やっぱりストーリーの\n説明って難しいですよね。",
+   "zh": "解说剧情\n果然很难。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1536/TALK",
+   "narrator": "つばめ",
+   "text": "見る人によって\n面白いって思う部分が\n違うもんねぇ。",
+   "zh": "看的人不一样，\n觉得有趣的地方\n也不一样呀。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1538/TALK",
+   "narrator": "神楽",
+   "text": "そうですね～。",
+   "zh": "是啊～。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1539/TALK",
+   "narrator": "神楽",
+   "text": "さて、それはそうと、\n大変なことが！",
+   "zh": "对了，说起来，\n出大事了！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1540/TALK",
+   "narrator": "つばめ",
+   "text": "どうしたの！？",
+   "zh": "怎么了！？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1541/TALK",
+   "narrator": "神楽",
+   "text": "解説に失敗したので、\n約束通りつばめさんが\n脱ぐ羽目になりました♪",
+   "zh": "解说失败了，\n所以照约定，\n变成燕得脱掉的下场了♪",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1542/TALK",
+   "narrator": "つばめ",
+   "text": "ええええっ！！",
+   "zh": "诶诶诶诶！！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1562/TALK",
+   "narrator": "つばめ",
+   "text": "ああっ！！",
+   "zh": "啊啊！！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1563/TALK",
+   "narrator": "つばめ",
+   "text": "人前でこんな格好に…。\n恥ずかしいよぅ……。",
+   "zh": "在别人面前变成这样……。\n好害羞哦……。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1564/TALK",
+   "narrator": "神楽",
+   "text": "何故か私まで\nこんな格好に\nなっちゃいましたね。",
+   "zh": "不知为什么，\n连我也变成\n这身打扮了。",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1565/TALK",
+   "narrator": "つばめ",
+   "text": "そもそも誰が\nわたしたちを\n着替えさせてるの？？",
+   "zh": "说到底是谁\n在给我们\n换衣服呀？？",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1566/TALK",
+   "narrator": "神楽",
+   "text": "そこにツッコミを入れると\n消されますよ？",
+   "zh": "吐槽到那里的话，\n会被删掉的哦？",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1567/TALK",
+   "narrator": "つばめ",
+   "text": "ええっ！！",
+   "zh": "诶诶！！",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1569/TALK",
+   "narrator": "神楽",
+   "text": "というわけで、\n最後は無理矢理\n色気オチになりましたが！",
+   "zh": "所以，\n最后硬是收成了\n色气结局！",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1570/TALK",
+   "narrator": "神楽",
+   "text": "想像の斜め上に突き進み\n続ける本作を、どうぞ\n宜しくお願いしますね♪",
+   "zh": "这部作品会一直冲向\n想象的斜上方，\n请多关照♪",
+   "narrator_zh": "神乐"
+  },
+  {
+   "location": "1571/TALK",
+   "narrator": "つばめ",
+   "text": "なんか、無理矢理に\n無理矢理を上塗りした\nだけのような気が……。",
+   "zh": "总觉得，只是\n硬上加硬地\n又盖了一层……。",
+   "narrator_zh": "燕"
+  },
+  {
+   "location": "1596/DIALOG",
+   "narrator": "",
+   "text": "- その３ -\n\n<size=60>リアルタイム生の声</size>\n",
+   "zh": "- 其三 -\n\n<size=60>实时原声</size>\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1601/TALK",
+   "narrator": "みやび",
+   "text": "ちわ。\n恋ヶ崎みやびやよ。",
+   "zh": "嗨。\n我是恋之崎雅咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1602/SEL",
+   "narrator": "（選択肢）",
+   "text": "よろしく！",
+   "zh": "请多关照！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1603/SEL",
+   "narrator": "（選択肢）",
+   "text": "その格好は！？",
+   "zh": "这身打扮是！？",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1604/ACT",
+   "narrator": "",
+   "text": "よろしく！",
+   "zh": "请多关照！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1605/TALK",
+   "narrator": "みやび",
+   "text": "うむ。\nよろしゅうな。",
+   "zh": "嗯。\n请多关照咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1606/ACT",
+   "narrator": "",
+   "text": "その格好は！？",
+   "zh": "这身打扮是！？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1607/TALK",
+   "narrator": "みやび",
+   "text": "うちの想いを\n代弁してくれる\n素敵なTシャツや。",
+   "zh": "能替我把心思\n说出来的\n好看T恤咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1608/TALK",
+   "narrator": "みやび",
+   "text": "本当は寝間着やけんどな、\nせっかくやし、しっかり\n意思表示をしとこうかと。",
+   "zh": "本来是睡衣，不过\n难得穿出来，就好好\n把意思表明一下。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1609/SEL",
+   "narrator": "（選択肢）",
+   "text": "胸なんぞ単なる脂肪の塊ぞね？？",
+   "zh": "胸么子，不过是一块脂肪啵？？",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1610/ACT",
+   "narrator": "",
+   "text": "胸なんぞ単なる脂肪の塊ぞね？？",
+   "zh": "胸么子，不过是一块脂肪啵？？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1612/TALK",
+   "narrator": "みやび",
+   "text": "言葉の通りやよ。\n重いだけで、まっこと\n何の役にも立たん。",
+   "zh": "字面上就是这样咯。\n光是重，的确\n没得一点用。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1613/SEL",
+   "narrator": "（選択肢）",
+   "text": "いえ、それは大変素晴らしいものです",
+   "zh": "不，那是非常美好的东西",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1614/SEL",
+   "narrator": "（選択肢）",
+   "text": "全くその通り！",
+   "zh": "完全就是这样！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1615/ACT",
+   "narrator": "",
+   "text": "いえ、それは大変素晴らしいものです",
+   "zh": "不，那是非常美好的东西",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1616/TALK",
+   "narrator": "みやび",
+   "text": "そうかね？",
+   "zh": "是喃？",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1617/TALK",
+   "narrator": "みやび",
+   "text": "まあ、お前さんが\nそう言うてくれるなら、\n少しは報われるぞね。",
+   "zh": "嘛，你既然\n这么讲，\n也算没白受着啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1618/ACT",
+   "narrator": "",
+   "text": "全くその通り！",
+   "zh": "完全就是这样！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1619/TALK",
+   "narrator": "みやび",
+   "text": "うむ！\nうちと気が合うね！",
+   "zh": "嗯！\n跟我挺合得来咯！",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1621/TALK",
+   "narrator": "みやび",
+   "text": "とまあ、\nそんなことは\nどうでもえいちや。",
+   "zh": "不过嘛，\n那些怎样都\n要得咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1623/TALK",
+   "narrator": "みやび",
+   "text": "なんぞ、他の子らが\n一生懸命ストーリーの\n説明をしちょったけんど。",
+   "zh": "其他那些人\n拼了命把剧情讲了一通，\n不过。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1624/TALK",
+   "narrator": "みやび",
+   "text": "少しは興味\n持てたかね？",
+   "zh": "有没有提起\n一点兴趣喃？",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1625/SEL",
+   "narrator": "（選択肢）",
+   "text": "持てた",
+   "zh": "有",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1626/SEL",
+   "narrator": "（選択肢）",
+   "text": "意味が分からなかった",
+   "zh": "没听懂",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1627/ACT",
+   "narrator": "",
+   "text": "持てた",
+   "zh": "有",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1628/TALK",
+   "narrator": "みやび",
+   "text": "それは良かった。",
+   "zh": "那挺好。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1629/TALK",
+   "narrator": "みやび",
+   "text": "ちゅうか、\nあんた優しいね。",
+   "zh": "话说，\n你人蛮好咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1630/TALK",
+   "narrator": "みやび",
+   "text": "うちやったら\nまあ、無理やね。",
+   "zh": "换作我嘛，\n不行咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1631/ACT",
+   "narrator": "",
+   "text": "意味が分からなかった",
+   "zh": "没听懂",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1632/TALK",
+   "narrator": "みやび",
+   "text": "うむ。\n正直でえいね。",
+   "zh": "嗯。\n老实，要得咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1634/TALK",
+   "narrator": "みやび",
+   "text": "うち、思うんよ。",
+   "zh": "我是这么想的咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1635/TALK",
+   "narrator": "みやび",
+   "text": "ストーリーなんてものは、\n当事者が面白い面白い\n言うて解説しても――",
+   "zh": "故事这种东西，\n当事人再怎么\n说好看好看——",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1636/TALK",
+   "narrator": "みやび",
+   "text": "全部嘘臭く\n聞こえるもんやき。",
+   "zh": "听着全像\n在撒谎啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1637/TALK",
+   "narrator": "みやび",
+   "text": "で、うちは考えて、\n１つの結論に達した。",
+   "zh": "然后我想了想，\n得出一个结论。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1638/TALK",
+   "narrator": "みやび",
+   "text": "今ストーリーを楽しんでる\nみんなに、率直な感想を\nもらった方がえいかなと。",
+   "zh": "不如问这阵正看着故事的\n大家要一句直话，\n要得些。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1639/TALK",
+   "narrator": "みやび",
+   "text": "そんなわけで、ここでは\n現在プレイ中の皆からの\n感想をまとめちゅう。",
+   "zh": "所以这里，\n把正在玩的大家的感想\n汇总着啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1640/TALK",
+   "narrator": "みやび",
+   "text": "エネルギッシュな感想の\n数々を、是非見たってや。",
+   "zh": "这些有劲得很的感想，\n你就看一看啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1645/DIALOG",
+   "narrator": "",
+   "text": "既にプレイされている\n皆さんからのメッセージを\nご紹介します",
+   "zh": "为大家介绍\n已经在玩的各位\n发来的留言",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1649/TALK",
+   "narrator": "みやび",
+   "text": "とまあ、\nこんな感じやね。",
+   "zh": "大概就是\n这样咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1650/TALK",
+   "narrator": "みやび",
+   "text": "何か琴線に触れるものが\nあったら、是非うちらに\n逢いに来てや。",
+   "zh": "要是有哪句碰到心坎上，\n一定要来\n见我们啵。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1651/TALK",
+   "narrator": "みやび",
+   "text": "あと、Twitterで、\n感想書いて協力してくれた\nうちの相棒もありがとね。",
+   "zh": "还有，在Twitter上\n写了感想帮忙的\n我的搭档，也谢谢咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1654/DIALOG",
+   "narrator": "",
+   "text": "- POINT⑧ -\n\n掲載させていただいたコメントは、\n2017/9/15～16に\nTwitterにて募集したものです。\n\nご協力いただきました皆様、\nありがとうございました！\n",
+   "zh": "- POINT⑧ -\n\n登载的评论，\n是于2017/9/15～16\n在Twitter上征集的。\n\n感谢各位的协助，\n谢谢大家！\n",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1656/TALK",
+   "narrator": "みやび",
+   "text": "ほな、またなー。",
+   "zh": "那就，下次见咯。",
+   "narrator_zh": "雅"
+  },
+  {
+   "location": "1672/TALK",
+   "narrator": "千羽鶴",
+   "text": "――というわけで、\nこれでストーリー紹介は\n全て終了した。",
+   "zh": "——所以，\n故事介绍到这里\n就全部结束了。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1680/TALK",
+   "narrator": "千羽鶴",
+   "text": "もし彼女たちを\nもっと知りたいと\n思ったなら――",
+   "zh": "如果还想\n更多地\n了解她们——",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1681/TALK",
+   "narrator": "千羽鶴",
+   "text": "是非アプリを\n入れてみて。",
+   "zh": "请务必\n装上这个应用看看。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1686/DIALOG",
+   "narrator": "",
+   "text": "SSR倍増ガチャ開催中！",
+   "zh": "SSR加倍扭蛋举办中！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1688/TALK",
+   "narrator": "千羽鶴",
+   "text": "今日アプリを入れると、\n今丁度やってる<color=red>SSR倍増\nガチャ</color>が回せる。",
+   "zh": "今天装上应用，\n就能转现在正在举办的<color=red>SSR加倍\n扭蛋</color>。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1691/DIALOG",
+   "narrator": "",
+   "text": "ご新規さん強力バックアップ\nキャンペーン中！",
+   "zh": "新手强力支援\n活动举办中！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1693/TALK",
+   "narrator": "千羽鶴",
+   "text": "他にも、今から始める\nことで有利に進められる\nイベントが満載。",
+   "zh": "另外，现在开始玩\n还能赶上很多\n占便宜的活动。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1694/TALK",
+   "narrator": "千羽鶴",
+   "text": "例えば今なら、\nリリース当時やっていた\n大サービスバトル――",
+   "zh": "比方说现在，\n上线当时办过的\n大回馈战斗——",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1695/TALK",
+   "narrator": "千羽鶴",
+   "text": "<color=red>スタートダッシュバトル</color>を\n復刻している。",
+   "zh": "<color=red>开局冲刺战斗</color>\n正在复刻。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1696/TALK",
+   "narrator": "千羽鶴",
+   "text": "また、<color=red>期間限定の\n太っ腹ログインボーナス</color>も\n追加配信中。",
+   "zh": "另外，<color=red>限时的\n大方登录奖励</color>也\n在追加发放。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1697/TALK",
+   "narrator": "千羽鶴",
+   "text": "その中には<color=red>SR以上確定\nガチャチケット</color>なども\n入ってる。",
+   "zh": "其中还有<color=red>SR以上必得\n扭蛋券</color>\n之类。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1698/TALK",
+   "narrator": "千羽鶴",
+   "text": "今始めないと、\n損するレベルの\n大盤振る舞いね。",
+   "zh": "现在不开始的话，\n亏的就是这种程度的\n大派送。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1701/DIALOG",
+   "narrator": "",
+   "text": "ARGUMENTED REALITY GIRL'S TRINARY.",
+   "zh": "ARGUMENTED REALITY GIRL'S TRINARY.",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1703/TALK",
+   "narrator": "千羽鶴",
+   "text": "<color=green>無料でノベル6冊分はある\n物語を楽しめる。</color>それが\n拡張少女系トライナリー。",
+   "zh": "<color=green>能免费享受足有\n六本小说分量的故事。</color>这就是\n扩张少女系三重奏。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1704/TALK",
+   "narrator": "千羽鶴",
+   "text": "貴方も是非、\nこの機会に\n始めてみて欲しい。",
+   "zh": "也希望你务必\n趁这个机会\n开始看看。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1709/TALK",
+   "narrator": "千羽鶴",
+   "text": "――というわけで、\n体験プレイは\nこれでおしまい。",
+   "zh": "——所以，\n体验到这里\n就结束了。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1711/TALK",
+   "narrator": "千羽鶴",
+   "text": "それじゃ――",
+   "zh": "那就——",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1712/SEL",
+   "narrator": "（選択肢）",
+   "text": "ちょっとまった！",
+   "zh": "等一下！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1713/ACT",
+   "narrator": "",
+   "text": "ちょっとまった！",
+   "zh": "等一下！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1715/TALK",
+   "narrator": "千羽鶴",
+   "text": "……なに？",
+   "zh": "……什么？",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1716/SEL",
+   "narrator": "（選択肢）",
+   "text": "ハネムーンの約束は！？",
+   "zh": "蜜月的约定呢！？",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1717/ACT",
+   "narrator": "",
+   "text": "ハネムーンの約束は！？",
+   "zh": "蜜月的约定呢！？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1719/TALK",
+   "narrator": "千羽鶴",
+   "text": "……。\nよく覚えてた。",
+   "zh": "……。\n记得挺清楚。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1720/SEL",
+   "narrator": "（選択肢）",
+   "text": "まさか忘れてた！？",
+   "zh": "难道忘了！？",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1721/ACT",
+   "narrator": "",
+   "text": "まさか忘れてた！？",
+   "zh": "难道忘了！？",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1724/TALK",
+   "narrator": "千羽鶴",
+   "text": "……。",
+   "zh": "……。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1725/TALK",
+   "narrator": "千羽鶴",
+   "text": "まさか。",
+   "zh": "怎么会。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1726/TALK",
+   "narrator": "千羽鶴",
+   "text": "貴方の記憶力を\n試していただけ。",
+   "zh": "只是在试\n你的记性。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1728/TALK",
+   "narrator": "千羽鶴",
+   "text": "それじゃ早速\n行きましょ。",
+   "zh": "那就马上\n走吧。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1729/TALK",
+   "narrator": "千羽鶴",
+   "text": "私と貴方、二人きりの\nハネムーン（お試し）へ。\n<color=red>（重要：お試し）</color>",
+   "zh": "去只有我和你两个人的\n蜜月（试用）。\n<color=red>（重要：试用）</color>",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1733/TALK",
+   "narrator": "千羽鶴",
+   "text": "はい、おしまい。",
+   "zh": "好，到此为止。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1734/SEL",
+   "narrator": "（選択肢）",
+   "text": "とても良かったよ",
+   "zh": "非常好",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1735/SEL",
+   "narrator": "（選択肢）",
+   "text": "もう一回！",
+   "zh": "再来一次！",
+   "narrator_zh": "（选项）"
+  },
+  {
+   "location": "1736/ACT",
+   "narrator": "",
+   "text": "とても良かったよ",
+   "zh": "非常好",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1738/TALK",
+   "narrator": "千羽鶴",
+   "text": "そう。",
+   "zh": "是的。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1739/ACT",
+   "narrator": "",
+   "text": "もう一回！",
+   "zh": "再来一次！",
+   "narrator_zh": ""
+  },
+  {
+   "location": "1741/TALK",
+   "narrator": "千羽鶴",
+   "text": "周りの人への\n配慮も考えて生きて。",
+   "zh": "活着的时候，\n也考虑一下周围的人。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1744/TALK",
+   "narrator": "千羽鶴",
+   "text": "これで私の負っていた\n責任は全て果たしたはず。",
+   "zh": "这样，我担着的责任\n应该全部完成了。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1745/TALK",
+   "narrator": "千羽鶴",
+   "text": "また遊びに\n来てくれると嬉しい。",
+   "zh": "要是你再来玩，\n我会高兴的。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1747/TALK",
+   "narrator": "千羽鶴",
+   "text": "あと、今回貴方はフラグを\n立てられなかったけど――",
+   "zh": "另外，这次你没能\n立下flag——",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1748/TALK",
+   "narrator": "千羽鶴",
+   "text": "実はこの体験版には、\n私と少しだけイチャイチャ\nできる分岐もある。",
+   "zh": "其实这个体验版里，\n也有能和我稍微腻歪一下的\n分支。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1749/TALK",
+   "narrator": "千羽鶴",
+   "text": "何度もプレイできそうなら\n是非チャレンジしてみて。\n待ってるから。",
+   "zh": "要是能多玩几次，\n请务必挑战看看。\n我等着。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1753/TALK",
+   "narrator": "千羽鶴",
+   "text": "それじゃ\n今回はこの辺で。",
+   "zh": "那就\n这次到这里。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1754/TALK",
+   "narrator": "千羽鶴",
+   "text": "この短時間じゃ彼女たちの\n可愛さしか伝わらなかった\nと思うけど――",
+   "zh": "这么短的时间，大概只\n传达出她们的可爱\n——",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1755/TALK",
+   "narrator": "千羽鶴",
+   "text": "もしこのノリが\nツボに入るようなら\n是非プレイしてみて。",
+   "zh": "如果这个调子\n对你的胃口，\n请务必玩玩看。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1756/TALK",
+   "narrator": "千羽鶴",
+   "text": "それと、シナリオ編も\n試してみてもらえると\n嬉しいかも。",
+   "zh": "另外，要是剧本篇\n也能试一试，\n我会高兴的。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1757/TALK",
+   "narrator": "千羽鶴",
+   "text": "貴方とあなたの世界に、\n素敵なココロの旅を。",
+   "zh": "愿你和你的世界，\n有一场美好的心之旅。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1759/TALK",
+   "narrator": "千羽鶴",
+   "text": "この短時間で、どれ程\nストーリーの魅力が\n伝わったか疑問だけど――",
+   "zh": "这么短的时间，故事的魅力\n传达了多少，\n我抱有疑问——",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1760/TALK",
+   "narrator": "千羽鶴",
+   "text": "もし少しでも興味が\n出たなら、是非プレイ\nしてみて欲しい。",
+   "zh": "如果多少提起了一点兴趣，\n希望你务必\n玩玩看。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1761/TALK",
+   "narrator": "千羽鶴",
+   "text": "それと、イチャラブ編も\n試してみてもらえると\n嬉しいかも。",
+   "zh": "另外，要是腻歪篇\n也能试一试，\n我会高兴的。",
+   "narrator_zh": "千羽鹤"
+  },
+  {
+   "location": "1762/TALK",
+   "narrator": "千羽鶴",
+   "text": "貴方とあなたの世界に、\n素敵なココロの旅を。",
+   "zh": "愿你和你的世界，\n有一场美好的心之旅。",
+   "narrator_zh": "千羽鹤"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+    "dir": "chap22/cos/coschg_ch05_22_afternoon_up.js",
+    "type": "Cos",
+    "info": {
+        "story_id": "52290",
+        "cid": "kagura",
+        "title": "神楽/チャプター22/afternoon",
+        "sub_title": "chapter22"
+    },
+    "entry":
+    [
+        { "location": "40/TALK" , "narrator": "プレイヤー", "text": "お着替えしてみよう"},
+        { "location": "42/TALK" , "narrator": "プレイヤー", "text": "違う服を着てほしいな"},
+        { "location": "44/TALK" , "narrator": "プレイヤー", "text": "よし、お着替えタイムだ！"},
+        { "location": "50/TALK" , "narrator": "プレイヤー", "text": "やあ"},
+        { "location": "52/TALK" , "narrator": "プレイヤー", "text": "こんにちは"},
+        { "location": "54/TALK" , "narrator": "プレイヤー", "text": "げんき？"},
+        { "location": "57/TALK" , "narrator": "神楽", "text": "ぴょんこを呼ぶ声"},
+        { "location": "58/TALK" , "narrator": "神楽", "text": "あなたはだあれ？"},
+        { "location": "60/SEL"  , "narrator": "", "text": "$handle$だよ"},
+        { "location": "61/ACT"  , "narrator": "", "text": "$handle$だよ"},
+        { "location": "63/TALK" , "narrator": "神楽", "text": "知ってるし"},
+        { "location": "64/TALK" , "narrator": "神楽", "text": "ぴょんこに用事ぴょん？"},
+        { "location": "67/SEL"  , "narrator": "", "text": "ちょっと着替えてほしいんだ"},
+        { "location": "68/ACT"  , "narrator": "", "text": "ちょっと着替えてほしいんだ"},
+        { "location": "78/TALK" , "narrator": "神楽", "text": "意味不明すぎ"},
+        { "location": "79/TALK" , "narrator": "神楽", "text": "でもまあ"},
+        { "location": "80/TALK" , "narrator": "神楽", "text": "優しいぴょんこは聞いてあげるのだった"},
+        { "location": "82/TALK" , "narrator": "神楽", "text": "は？"},
+        { "location": "83/TALK" , "narrator": "神楽", "text": "この服変だった？"},
+        { "location": "84/TALK" , "narrator": "神楽", "text": "なら着替えるけど"},
+        { "location": "87/SEL"  , "narrator": "", "text": "$me$が選ぶ"},
+        { "location": "88/SEL"  , "narrator": "", "text": "やっぱやめる"},
+        { "location": "90/TALK" , "narrator": "神楽", "text": "…………"},
+        { "location": "93/TALK" , "narrator": "神楽", "text": "リクエストないとか？"},
+        { "location": "94/TALK" , "narrator": "神楽", "text": "なら着ない"},
+        { "location": "96/ACT"  , "narrator": "", "text": "$me$が選ぶ"},
+        { "location": "97/TALK" , "narrator": "神楽", "text": "だと思った"},
+        { "location": "98/TALK" , "narrator": "神楽", "text": "どれを着てほしいと？"},
+        { "location": "105/ACT" , "narrator": "", "text": "やっぱやめる"},
+        { "location": "106/TALK", "narrator": "神楽", "text": "ありえネー"}
+    ]
+}
