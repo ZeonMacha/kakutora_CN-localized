@@ -65,7 +65,9 @@ def prescan_file(src_path: Path, ssot: dict, out_md: Path | None = None) -> Path
     hit_ambiguous = [(k, v) for k, v in AMBIGUOUS_TERMS.items() if k in joined]
 
     # 4. 出场说话人 & 角色卡裁剪
+    alias_narr_re = re.compile(r"(？|\?|新司書|新司书|謎の|正体|誰か|黒衣|覆面)")
     narrators: list[str] = []
+    alias_narrators: list[str] = []
     seen_narr = set()
     active_cards: list[str] = []
     seen_cards = set()
@@ -74,6 +76,8 @@ def prescan_file(src_path: Path, ssot: dict, out_md: Path | None = None) -> Path
         if nar and nar not in seen_narr:
             seen_narr.add(nar)
             narrators.append(nar)
+            if alias_narr_re.search(nar):
+                alias_narrators.append(nar)
             card_key = NARRATOR_TO_CARD.get(nar)
             if card_key and card_key not in seen_cards:
                 seen_cards.add(card_key)
@@ -104,6 +108,13 @@ def prescan_file(src_path: Path, ssot: dict, out_md: Path | None = None) -> Path
         f"- **出场说话人**: {', '.join(f'`{n}`' for n in narrators) if narrators else '无'}",
         "",
     ]
+
+    if alias_narrators:
+        lines.extend([
+            "## 🎭 匿名 / 阶段性头衔核对预警",
+            f"> 本话出现匿名或阶段性头衔：{', '.join(f'`{n}`' for n in alias_narrators)}。翻译与更新随读笔记前，**必须先对照随读笔记第 1 栏（长期关键锚点）与第 3 栏（已有口吻卡）**，比对立场、自称、称呼与语气，必要时用 `rg` 检索前文已译 JSON；若属同一角色换头衔（如 `？？？` → `〇〇の新司書` → 真名），须在笔记中合并关联并注明演变脉络，严禁拆成两条独立人设！",
+            "",
+        ])
 
     if trick_hits:
         lines.extend([
