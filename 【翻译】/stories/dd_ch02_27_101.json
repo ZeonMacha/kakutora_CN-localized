@@ -1,0 +1,952 @@
+{
+    "dir": "chap27/daydra/dd_ch02_27_101.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "27202",
+        "cid": "ayami",
+        "title": "002 メインストーリー",
+        "sub_title": "二人の秘密基地＜前編＞",
+        "title_zh": "002 主线剧情",
+        "sub_title_zh": "两人的秘密基地＜前篇＞"
+    },
+    "entry": [
+        {
+            "location": "8/SCENARIO",
+            "narrator": "",
+            "text": "あねいもうと",
+            "zh": "姐姐妹妹",
+            "narrator_zh": ""
+        },
+        {
+            "location": "29/TALK",
+            "narrator": "アーヤ",
+            "text": "この部屋に入るのも\n久しぶり。",
+            "zh": "好久没进\n这间屋子了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "30/TALK",
+            "narrator": "アーヤ",
+            "text": "何かヒントを\n残してないかと\n思ったけど。",
+            "zh": "本来还想着\n会不会留下\n什么线索呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "アーヤ",
+            "text": "あるわけないか。",
+            "zh": "怎么可能有嘛。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "アーヤ",
+            "text": "お姉ちゃんの方が\n先にこの家を\n出たんだもの。",
+            "zh": "毕竟是姐姐\n先离开\n这个家的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "34/SEL",
+            "narrator": "",
+            "text": "ねえ",
+            "zh": "那个",
+            "narrator_zh": ""
+        },
+        {
+            "location": "35/ACT",
+            "narrator": "",
+            "text": "ねえ",
+            "zh": "那个",
+            "narrator_zh": ""
+        },
+        {
+            "location": "52/TALK",
+            "narrator": "アーヤ",
+            "text": "どうしたの？",
+            "zh": "怎么了？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "54/SEL",
+            "narrator": "",
+            "text": "お姉さんの部屋にいるの？",
+            "zh": "你在你姐姐的房间里吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "55/SEL",
+            "narrator": "",
+            "text": "お姉さんの話が聞きたいな",
+            "zh": "想听听你姐姐的事啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "56/SEL",
+            "narrator": "",
+            "text": "思い出話ってないの",
+            "zh": "没有什么回忆可以聊聊吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "57/ACT",
+            "narrator": "",
+            "text": "お姉さんの部屋にいるの？",
+            "zh": "你在你姐姐的房间里吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "58/TALK",
+            "narrator": "アーヤ",
+            "text": "そう",
+            "zh": "是啊",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "59/ACT",
+            "narrator": "",
+            "text": "お姉さんの話が聞きたいな",
+            "zh": "想听听你姐姐的事啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "アーヤ",
+            "text": "姉の？",
+            "zh": "我姐姐的？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "61/ACT",
+            "narrator": "",
+            "text": "思い出話ってないの",
+            "zh": "没有什么回忆可以聊聊吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "アーヤ",
+            "text": "そうね",
+            "zh": "是啊",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "66/TALK",
+            "narrator": "アーヤ",
+            "text": "私が家を出た時と",
+            "zh": "和我离家的时候",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "67/TALK",
+            "narrator": "アーヤ",
+            "text": "全く変わっていないわ",
+            "zh": "完全没有任何变化",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "68/TALK",
+            "narrator": "アーヤ",
+            "text": "この部屋は",
+            "zh": "这间屋子",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "81/TALK",
+            "narrator": "アーヤ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "ガブリエラ",
+            "text": "アーヤ。\nここにいたのね。",
+            "zh": "绫水。\n原来你在这儿啊。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "86/TALK",
+            "narrator": "アーヤ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "87/TALK",
+            "narrator": "ガブリエラ",
+            "text": "……ここって……。",
+            "zh": "……这里是……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "88/TALK",
+            "narrator": "アーヤ",
+            "text": "姉の使っていた部屋よ。",
+            "zh": "以前姐姐用过的房间。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "89/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…そう。",
+            "zh": "……这样啊。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "90/TALK",
+            "narrator": "アーヤ",
+            "text": "ねえギャヴィ。",
+            "zh": "我说加维。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "91/TALK",
+            "narrator": "ガブリエラ",
+            "text": "何？",
+            "zh": "什么？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "アーヤ",
+            "text": "今ね。\n昔のことを\n思い出してたの。",
+            "zh": "刚刚呀，\n我在回忆\n以前的事。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "94/TALK",
+            "narrator": "ガブリエラ",
+            "text": "どんな？",
+            "zh": "什么事？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "95/TALK",
+            "narrator": "アーヤ",
+            "text": "小学生の頃のこととか。",
+            "zh": "小学时候的事之类的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "96/TALK",
+            "narrator": "アーヤ",
+            "text": "うちの姉は小さい頃\nよくいじめられてたの。",
+            "zh": "我姐姐小时候\n经常被人欺负。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "97/TALK",
+            "narrator": "アーヤ",
+            "text": "空き地に変なもの\n作ったりしてたから\n壊されたりして。",
+            "zh": "因为她总是在空地上\n做些奇怪的东西，\n结果老是被人弄坏。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "98/TALK",
+            "narrator": "アーヤ",
+            "text": "壊すような子から\n作ったものを守るのが\n私の役目。",
+            "zh": "从那些坏小孩手里\n保护她做出来的东西，\n就是我的职责。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "99/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…。",
+            "zh": "……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "アーヤ",
+            "text": "別に強制されたわけじゃ\nなくて。\nなんとなくそうなってた。",
+            "zh": "倒也不是谁强迫我\n这么做的。\n不知不觉就变成那样了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "アーヤ",
+            "text": "でもある日。\n隣町からやってきた\nガキ大将に負けたの。",
+            "zh": "可有一天，\n我输给了从隔壁镇\n来的孩子王。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "アーヤ",
+            "text": "そして姉の作ったものは\n全部壊された。",
+            "zh": "然后姐姐做的东西\n全都被毁掉了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "アーヤ",
+            "text": "自分が悔しくて\n情けなくて姉の前で\nわんわん泣いたわ。",
+            "zh": "我既懊恼又窝囊，\n在姐姐面前\n哇哇大哭起来。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "105/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…。",
+            "zh": "……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "108/TALK",
+            "narrator": "アーヤ",
+            "text": "姉はね。\nそんな私を抱きしめて\nこう言ったの。",
+            "zh": "姐姐她呀，\n抱着那样的我\n对我这样说道。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "109/TALK",
+            "narrator": "アーヤ",
+            "text": "アヤちゃんがいるから\nアヤちゃんが味方だから\n壊されたって平気だって。",
+            "zh": "因为有小绫在，\n小绫是我的伙伴，\n所以就算被弄坏也没关系。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "110/TALK",
+            "narrator": "アーヤ",
+            "text": "また作れば\nいいだけなんだから\n泣かないでって。",
+            "zh": "只要再重新做一个\n就好了，\n所以别哭了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "111/TALK",
+            "narrator": "アーヤ",
+            "text": "アヤちゃんが世界で一番\n強い子だってことも\n知ってるって。",
+            "zh": "而且她也知道，\n小绫是世界上最厉害的\n孩子。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "112/TALK",
+            "narrator": "ガブリエラ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "113/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だから剣道を\nしていたの？",
+            "zh": "所以你才\n练剑道的吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "114/TALK",
+            "narrator": "アーヤ",
+            "text": "え？",
+            "zh": "哎？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "115/TALK",
+            "narrator": "ガブリエラ",
+            "text": "お姉さんが世界で一番\n強い子だってアーヤの\nことを言ったから。",
+            "zh": "因为你姐姐说过，\n绫水是世界上\n最厉害的孩子。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "116/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だから剣道を\n始めたの？",
+            "zh": "所以你才\n开始学剑道的吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "118/TALK",
+            "narrator": "アーヤ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "166/TALK",
+            "narrator": "アーヤ",
+            "text": "　",
+            "zh": "　",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "193/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "こんにちは、\n$handle$さん。",
+            "zh": "你好，\n$handle$。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "194/SEL",
+            "narrator": "",
+            "text": "あ、ども",
+            "zh": "啊，你好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "195/ACT",
+            "narrator": "",
+            "text": "あ、ども",
+            "zh": "啊，你好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "197/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "やっと来たわね。",
+            "zh": "你总算来了。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "198/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "それじゃ早速だけど\n行くわよ。",
+            "zh": "那事不宜迟，\n我们出发吧。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "199/SEL",
+            "narrator": "",
+            "text": "どこへ！？",
+            "zh": "去哪里！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "200/ACT",
+            "narrator": "",
+            "text": "どこへ！？",
+            "zh": "去哪里！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "202/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "エヴェレットが\n幽閉されてるところ。",
+            "zh": "艾弗雷特\n被囚禁的地方。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "205/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "オープンプロセス、\n0x510番地から\nC2:9:5AF//1x0FF番地へ。",
+            "zh": "开放进程，\n从0x510地址前往\nC2:9:5AF//1x0FF地址。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "209/SEL",
+            "narrator": "",
+            "text": "助けに行くの？",
+            "zh": "去救她吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "210/SEL",
+            "narrator": "",
+            "text": "消しに行くの？",
+            "zh": "去抹消她吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "211/ACT",
+            "narrator": "",
+            "text": "助けに行くの？",
+            "zh": "去救她吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "212/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "そう。",
+            "zh": "没错。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "213/ACT",
+            "narrator": "",
+            "text": "消しに行くの？",
+            "zh": "去抹消她吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "215/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "失礼ね。\n助けに行くのよ。",
+            "zh": "真失礼啊。\n是去救她才对。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "217/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "平然とした顔してたと\n思うけど、十中八九\n一人じゃ戻れないから。",
+            "zh": "我看她当时虽然一副泰然自若的样子，\n但十有八九\n靠自己一个人是回不来的。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "219/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "……倍速。",
+            "zh": "……倍速。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "222/SEL",
+            "narrator": "",
+            "text": "ホントは優しいんだね",
+            "zh": "其实你很温柔嘛",
+            "narrator_zh": ""
+        },
+        {
+            "location": "223/SEL",
+            "narrator": "",
+            "text": "どういう風の吹き回し！？",
+            "zh": "这是吹的什么风！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "224/ACT",
+            "narrator": "",
+            "text": "ホントは優しいんだね",
+            "zh": "其实你很温柔嘛",
+            "narrator_zh": ""
+        },
+        {
+            "location": "227/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "228/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "別に。",
+            "zh": "也没有。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "230/ACT",
+            "narrator": "",
+            "text": "どういう風の吹き回し！？",
+            "zh": "这是吹的什么风！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "231/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "私をどんな人格だと\n思ってるの？",
+            "zh": "你到底把我当成\n什么样的人格了？",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "233/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "契約主がいなくなった今、\n私個人が彼女に何をする\n理由も無いもの。",
+            "zh": "如今契约主已经不在了，\n我个人也没有任何理由\n去对她做什么。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "234/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "それに。あんなのでも\n私の人格だし。\n嫌いだけど。",
+            "zh": "而且，就算再怎么那样，\n她也是我的人格嘛。\n虽然我讨厌她。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "236/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "……４倍速。",
+            "zh": "……4倍速。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "253/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "完了。",
+            "zh": "完成。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "255/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "……？",
+            "zh": "……？",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "256/SEL",
+            "narrator": "",
+            "text": "いない？",
+            "zh": "不在这里？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "257/ACT",
+            "narrator": "",
+            "text": "いない？",
+            "zh": "不在这里？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "259/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "いないわね。\n自分でどこかに\n行っちゃったのかしら。",
+            "zh": "不在呢。\n难道她自己\n跑到哪里去了吗。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "261/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "おーい。\nお迎えに\n来てあげたわよ。",
+            "zh": "喂——。\n我来接你\n回去咯。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "262/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "263/SEL",
+            "narrator": "",
+            "text": "脱出したんじゃない？",
+            "zh": "该不会自己逃出去了吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "264/SEL",
+            "narrator": "",
+            "text": "その辺探してみようか？",
+            "zh": "要不要在附近找找看？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "265/ACT",
+            "narrator": "",
+            "text": "脱出したんじゃない？",
+            "zh": "该不会自己逃出去了吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "267/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "ないない。",
+            "zh": "不可能的。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "268/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "それぞれのアドレスは\n普通は自力では\n行き来できないもの。",
+            "zh": "各个地址之间\n普通人靠自己是\n没法自由来往的。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "269/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "司書は例外だけど、\n彼女、消される前に\n司書権剥奪されていたし。",
+            "zh": "虽然司书是例外，\n但她被抹消之前\n就已经被剥夺司书权了。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "270/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "ちょっとその辺りを\n捜索してみるしか\nないわね。",
+            "zh": "看来只能先在\n这附近搜寻一下\n试试看了。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "271/ACT",
+            "narrator": "",
+            "text": "その辺探してみようか？",
+            "zh": "要不要在附近找找看？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "273/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "そうね。\nこのアドレスはちょっと\n広いみたいだし。",
+            "zh": "也是呢。\n这个地址看起来\n还挺宽敞的。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "274/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "ちょっとその辺りを\n捜してみるわ。",
+            "zh": "我去这附近\n找找看。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "279/TALK",
+            "narrator": "エヴェレット",
+            "text": "$handle$さん",
+            "zh": "$handle$",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "280/SEL",
+            "narrator": "",
+            "text": "エヴェレットさん！？",
+            "zh": "艾弗雷特！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "281/ACT",
+            "narrator": "",
+            "text": "エヴェレットさん！？",
+            "zh": "艾弗雷特！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "283/TALK",
+            "narrator": "エヴェレット",
+            "text": "私は大丈夫だから、",
+            "zh": "我没事的，",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "284/TALK",
+            "narrator": "エヴェレット",
+            "text": "もうちょっとしたら戻るから、気にせず私の心の葛藤を解決して？",
+            "zh": "过一会儿我就会回去，所以你不用在意我，先去解决我内心的纠葛吧？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "285/TALK",
+            "narrator": "エヴェレット",
+            "text": "今回のは、剣道を始めた理由ね。確かに姉が理由なの",
+            "zh": "这次的纠葛，是关于开始学剑道的理由哦。确实是因为姐姐",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "286/TALK",
+            "narrator": "エヴェレット",
+            "text": "それをちょっと恥ずかしいと思ってるところがあるから、本人あまり肯定したがらないと思う",
+            "zh": "不过她自己觉得那有点丢人，所以我想她本人应该不太愿意承认",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "287/SEL",
+            "narrator": "",
+            "text": "ちょっと待って、ホントに大丈夫なの？",
+            "zh": "等一下，你真的没事吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "288/ACT",
+            "narrator": "",
+            "text": "ちょっと待って、ホントに大丈夫なの？",
+            "zh": "等一下，你真的没事吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "290/TALK",
+            "narrator": "エヴェレット",
+            "text": "だからクランが阻んでるのよね",
+            "zh": "所以库兰才在阻挠嘛",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "292/SEL",
+            "narrator": "",
+            "text": "おーい、話聞いて",
+            "zh": "喂——，听我说话啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "293/ACT",
+            "narrator": "",
+            "text": "おーい、話聞いて",
+            "zh": "喂——，听我说话啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "295/TALK",
+            "narrator": "エヴェレット",
+            "text": "私が剣道を始めた理由は、姉との関係において「例え嫌いであっても離れられない理由」を作りたかったからというのがホントの最初です",
+            "zh": "我之所以开始学剑道，最开始的真实理由，其实是想在和姐姐的关系里制造一个“哪怕讨厌也无法离开的理由”",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "296/SEL",
+            "narrator": "",
+            "text": "ホントは大丈夫じゃないんじゃないの？",
+            "zh": "你其实根本不是没事吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "297/ACT",
+            "narrator": "",
+            "text": "ホントは大丈夫じゃないんじゃないの？",
+            "zh": "你其实根本不是没事吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "299/TALK",
+            "narrator": "エヴェレット",
+            "text": "私が私自身に、姉を護るという使命をこじつけることで、誰からも、自分自身からも姉と離れられないことを正当化して安心できるように",
+            "zh": "我给自己硬安上一个保护姐姐的使命，这样就能向任何人、也向自己证明我无法离开姐姐是正当的，好让自己安心",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "300/TALK",
+            "narrator": "エヴェレット",
+            "text": "もし自分がどうにも姉が許せなかったり、一緒にいたくなくなっても、離れられないように",
+            "zh": "哪怕将来自己无论如何都无法原谅姐姐、或者不想再待在她身边了，也不会就此分开",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "301/SEL",
+            "narrator": "",
+            "text": "エヴェレットさん！！",
+            "zh": "艾弗雷特！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "302/ACT",
+            "narrator": "",
+            "text": "エヴェレットさん！！",
+            "zh": "艾弗雷特！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "304/TALK",
+            "narrator": "エヴェレット",
+            "text": "けど、離れて行っちゃったのは姉の方だった。だからその後剣道やめた。もちろん他にも理由はあったけど",
+            "zh": "结果，先离开的却是姐姐。所以后来我就不练剑道了。当然也有其他理由就是了",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "305/TALK",
+            "narrator": "エヴェレット",
+            "text": "今このときに、私にはそのことを肯定して欲しいから、是非早くクランを倒して欲しいの",
+            "zh": "此时此刻，我希望我能够肯定这件事，所以请务必快点打倒库兰哦",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "306/TALK",
+            "narrator": "エヴェレット",
+            "text": "私は大丈夫だから",
+            "zh": "我真的没事的",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "307/SEL",
+            "narrator": "",
+            "text": "大丈夫なら今何処で何してるか教えて！",
+            "zh": "没事的话就告诉我你现在在哪、在干什么！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "308/ACT",
+            "narrator": "",
+            "text": "大丈夫なら今何処で何してるか教えて！",
+            "zh": "没事的话就告诉我你现在在哪、在干什么！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "310/TALK",
+            "narrator": "エヴェレット",
+            "text": "じゃあ、アドレス教えて",
+            "zh": "那就先告诉你地址吧",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "311/SEL",
+            "narrator": "",
+            "text": "0x89F",
+            "zh": "0x89F",
+            "narrator_zh": ""
+        },
+        {
+            "location": "315/SEL",
+            "narrator": "",
+            "text": "ちょっと！！！",
+            "zh": "等一下！！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "316/ACT",
+            "narrator": "",
+            "text": "ちょっと！！！",
+            "zh": "等一下！！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "318/TALK",
+            "narrator": "エヴェレット",
+            "text": "大好き(^^*",
+            "zh": "最喜欢你了(^^*",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "28/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>9月3日　 10:31 PM</color>\n長野県松代、アーヤの実家でのこと",
+            "zh": "<color=green>9月3日　 10:31 PM</color>\n长野县松代，发生于绫水老家的事",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "131/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch01",
+            "text": "<color=black><size=50><b>逢瀬つばめのココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n逢瀬つばめの心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>在逢濑燕的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n在她的心灵之中，\n正产生着巨大的纠葛。\n\n请潜入心灵领域，\n化解逢濑燕内心的纠葛。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch01"
+        },
+        {
+            "location": "133/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch02",
+            "text": "<color=black><size=50><b>國政綾水のココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n國政綾水の心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>在国政绫水的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n在她的心灵之中，\n正产生着巨大的纠葛。\n\n请潜入心灵领域，\n化解国政绫水内心的纠葛。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch02"
+        },
+        {
+            "location": "135/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch03",
+            "text": "<color=black><size=50><b>ガブリエラのココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\nガブリエラの心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>在加布里埃拉的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n在她的心灵之中，\n正产生着巨大的纠葛。\n\n请潜入心灵领域，\n化解加布里埃拉内心的纠葛。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch03"
+        },
+        {
+            "location": "137/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch04",
+            "text": "<color=black><size=50><b>恋ヶ崎みやびのココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n恋ヶ崎みやびの心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>在恋之崎雅的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n在她的心灵之中，\n正产生着巨大的纠葛。\n\n请潜入心灵领域，\n化解恋之崎雅内心的纠葛。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch04"
+        },
+        {
+            "location": "139/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch05",
+            "text": "<color=black><size=50><b>卯月神楽のココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n卯月神楽の心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>在卯月神乐的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n在她的心灵之中，\n正产生着巨大的纠葛。\n\n请潜入心灵领域，\n化解卯月神乐内心的纠葛。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch05"
+        },
+        {
+            "location": "335/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:librarian】</color>\n司書が存在しません。(p12)",
+            "zh": "<color=green>【TRI-OS Plug-in:librarian】</color>\n司书不存在。(p12)",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "336/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:librarian】</color>\nAutoBatchが\n検出されました。\n\nコマンド\n<color=blue>【EXEC_SEEK_SECTOR/.】</color>\nを、実行します。",
+            "zh": "<color=green>【TRI-OS Plug-in:librarian】</color>\n检测到\nAutoBatch。\n\n即将执行\n指令\n<color=blue>【EXEC_SEEK_SECTOR/.】</color>。",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "341/DIALOG",
+            "narrator": "INFO",
+            "text": "<color=green>【TRI-OS Plug-in:SeekSector】</color>\nOpenProcess...\n(0x510 => 0x89F)",
+            "zh": "<color=green>【TRI-OS Plug-in:SeekSector】</color>\nOpenProcess...\n(0x510 => 0x89F)",
+            "narrator_zh": "INFO"
+        },
+        {
+            "location": "361/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:SeekSector】</color>\nSucceed access file!\n\n<color=blue>【File :: 02-338-91】</color>\n<color=red>Fatal Error Occured !</color>\n\n剣道を始めた理由。それは姉のことと関係がある。今の姉に対する態度と異なるため、それを肯定することを拒絶しようとするクランが出現している。\n\n姉との関係を正常化するためにも、素直な気持ちで過去を止まって見返してみるのがよいと思われる。",
+            "zh": "<color=green>【TRI-OS Plug-in:SeekSector】</color>\nSucceed access file!\n\n<color=blue>【File :: 02-338-91】</color>\n<color=red>Fatal Error Occured !</color>\n\n开始学剑道的理由。这与姐姐有关。由于和如今对待姐姐的态度不同，出现了拒绝肯定此事的库兰。\n\n为了使与姐姐的关系恢复正常，不妨以坦率的心情停下来重新审视一下过去。",
+            "narrator_zh": "NOTICE"
+        }
+    ]
+}
