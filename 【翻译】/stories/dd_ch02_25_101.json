@@ -1,0 +1,1512 @@
+{
+    "dir": "chap25/daydra/dd_ch02_25_101.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "25202",
+        "cid": "ayami",
+        "title": "002 メインストーリー",
+        "sub_title": "想定外の想定値＜前編＞",
+        "title_zh": "002 主线剧情",
+        "sub_title_zh": "意料之外的预设值＜前篇＞"
+    },
+    "entry": [
+        {
+            "location": "8/SCENARIO",
+            "narrator": "",
+            "text": "想定外の想定値",
+            "zh": "意料之外的预设值",
+            "narrator_zh": ""
+        },
+        {
+            "location": "29/TALK",
+            "narrator": "アーヤ",
+            "text": "…つばめ、\n遅いわね…。",
+            "zh": "……燕，\n好慢啊……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "ガブリエラ",
+            "text": "みやびもまだ\n来てないわよ。",
+            "zh": "雅也还没\n过来哦。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "アーヤ",
+            "text": "みやびは寮に\n戻ったんだもの。",
+            "zh": "雅是因为\n回宿舍了嘛。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "35/TALK",
+            "narrator": "アーヤ",
+            "text": "時間がかかるのは\n仕方ないわ。",
+            "zh": "花点时间\n也是没办法的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "36/TALK",
+            "narrator": "ガブリエラ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "37/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あたし少し\n見てこようか。",
+            "zh": "要不我稍微\n去看看情况吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "38/TALK",
+            "narrator": "アーヤ",
+            "text": "みやびなら\nいざとなれば\n迎えに行けるわ。",
+            "zh": "雅的话，\n真到万不得已\n还可以去接她。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "39/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…つばめは…。",
+            "zh": "……那燕呢……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "40/TALK",
+            "narrator": "アーヤ",
+            "text": "ダメよ。\n危険すぎるわ。",
+            "zh": "不行。\n太危险了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "41/TALK",
+            "narrator": "ガブリエラ",
+            "text": "でも…。",
+            "zh": "可是……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "42/TALK",
+            "narrator": "アーヤ",
+            "text": "待ちましょう。\n今はそれが最善策。",
+            "zh": "再等等吧。\n现在这是最稳妥的办法。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "44/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…でも…。",
+            "zh": "……可是……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "45/TALK",
+            "narrator": "アーヤ",
+            "text": "とはいうものの\nあまり遅くなりすぎたら\nここも危険になる……。",
+            "zh": "话虽这么说，\n要是拖得太晚，\n这里也会变得危险……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "46/TALK",
+            "narrator": "アーヤ",
+            "text": "でもギャヴィに\n行かせるのが\n危険なのも事実…。",
+            "zh": "但让加维去\n确实太危险了，\n这也是事实……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "47/SEL",
+            "narrator": "",
+            "text": "おーい",
+            "zh": "喂——",
+            "narrator_zh": ""
+        },
+        {
+            "location": "48/ACT",
+            "narrator": "",
+            "text": "おーい",
+            "zh": "喂——",
+            "narrator_zh": ""
+        },
+        {
+            "location": "63/TALK",
+            "narrator": "プレイヤー",
+            "text": "おーい",
+            "zh": "喂——",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "アーヤ",
+            "text": "ごめんね",
+            "zh": "抱歉",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "66/TALK",
+            "narrator": "アーヤ",
+            "text": "今取り込み中",
+            "zh": "现在有点忙",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "78/TALK",
+            "narrator": "アーヤ",
+            "text": "……音羽の\n様子はどう？",
+            "zh": "……音羽的\n情况怎么样？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "79/TALK",
+            "narrator": "ガブリエラ",
+            "text": "特に問題は\nないと思うわ。",
+            "zh": "我觉得应该\n没什么问题。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "81/TALK",
+            "narrator": "ガブリエラ",
+            "text": "本人に聞いた\nわけじゃないけど。",
+            "zh": "虽然不是听她本人\n亲口说的就是了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "アーヤ",
+            "text": "……そう。",
+            "zh": "……这样啊。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "アーヤ",
+            "text": "音羽は必ず\n連れて行く。",
+            "zh": "一定要把音羽\n一起带走。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "85/TALK",
+            "narrator": "アーヤ",
+            "text": "つばめったら\n何をしているの…？\nまさか……もう…。",
+            "zh": "燕这孩子\n到底在干什么啊……？\n难道说……已经……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "86/SEL",
+            "narrator": "",
+            "text": "アーヤってば",
+            "zh": "我说绫水",
+            "narrator_zh": ""
+        },
+        {
+            "location": "87/ACT",
+            "narrator": "",
+            "text": "アーヤってば",
+            "zh": "我说绫水",
+            "narrator_zh": ""
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "プレイヤー",
+            "text": "アーヤってば",
+            "zh": "我说绫水",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "アーヤ",
+            "text": "何？",
+            "zh": "什么事？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "107/SEL",
+            "narrator": "",
+            "text": "つばめを待ってるの？",
+            "zh": "你在等燕吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "108/SEL",
+            "narrator": "",
+            "text": "ガブリエラに探しに行かせれば？",
+            "zh": "让加布里埃拉去找不就好了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "109/SEL",
+            "narrator": "",
+            "text": "みやびは心配してないの？",
+            "zh": "不担心雅吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "110/ACT",
+            "narrator": "",
+            "text": "つばめを待ってるの？",
+            "zh": "你在等燕吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "111/TALK",
+            "narrator": "アーヤ",
+            "text": "そうよ",
+            "zh": "是啊",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "112/ACT",
+            "narrator": "",
+            "text": "ガブリエラに探しに行かせれば？",
+            "zh": "让加布里埃拉去找不就好了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "113/TALK",
+            "narrator": "アーヤ",
+            "text": "危険すぎるわ",
+            "zh": "太危险了",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "114/ACT",
+            "narrator": "",
+            "text": "みやびは心配してないの？",
+            "zh": "不担心雅吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "115/TALK",
+            "narrator": "アーヤ",
+            "text": "してないわけないでしょ",
+            "zh": "怎么可能不担心",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "117/TALK",
+            "narrator": "アーヤ",
+            "text": "つばめ",
+            "zh": "你觉得",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "118/TALK",
+            "narrator": "アーヤ",
+            "text": "探しに行った方がいいと思う？",
+            "zh": "还是去找燕比较好吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "119/SEL",
+            "narrator": "",
+            "text": "むしろ、早く離れた方がいいんじゃない？",
+            "zh": "倒不如说，早点离开这里不是更好吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "120/SEL",
+            "narrator": "",
+            "text": "いや、ここで待っていた方がいいよ",
+            "zh": "不，还是在这里等比较好哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "121/ACT",
+            "narrator": "",
+            "text": "探しに行った方がいいと思う",
+            "zh": "我觉得去找比较好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "123/TALK",
+            "narrator": "アーヤ",
+            "text": "やっぱそうよね",
+            "zh": "果然还是这样对吧",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "124/TALK",
+            "narrator": "アーヤ",
+            "text": "ありがと",
+            "zh": "谢谢",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "125/ACT",
+            "narrator": "",
+            "text": "さすがチームメイト想いのリーダーだね",
+            "zh": "不愧是替队友着想的领队呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "126/TALK",
+            "narrator": "アーヤ",
+            "text": "そんなの",
+            "zh": "这种事",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "127/TALK",
+            "narrator": "アーヤ",
+            "text": "普通よ",
+            "zh": "很正常吧",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "139/TALK",
+            "narrator": "アーヤ",
+            "text": "…つばめ…。",
+            "zh": "……燕……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "141/TALK",
+            "narrator": "アーヤ",
+            "text": "ねえギャヴィ。",
+            "zh": "我说，加维。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "ガブリエラ",
+            "text": "何？",
+            "zh": "怎么了？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "143/TALK",
+            "narrator": "アーヤ",
+            "text": "あなたはここに\nいてくれる？",
+            "zh": "你能留在这里\n等着吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "144/TALK",
+            "narrator": "アーヤ",
+            "text": "私はつばめを\n探しに行ってくるわ。",
+            "zh": "我去把燕\n找回来。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "ガブリエラ",
+            "text": "えっ！？",
+            "zh": "哎！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "147/SEL",
+            "narrator": "",
+            "text": "ちょっと待って！",
+            "zh": "等一下！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "148/SEL",
+            "narrator": "",
+            "text": "今バグってた",
+            "zh": "刚才出Bug了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "149/SEL",
+            "narrator": "",
+            "text": "なんかおかしいんだけど",
+            "zh": "总觉得哪里怪怪的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "150/SEL",
+            "narrator": "",
+            "text": "それがいいと思う",
+            "zh": "我觉得这样挺好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "151/ACT",
+            "narrator": "",
+            "text": "それがいいと思う",
+            "zh": "我觉得这样挺好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "152/ACT",
+            "narrator": "",
+            "text": "それがいいと思う",
+            "zh": "我觉得这样挺好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "153/ACT",
+            "narrator": "",
+            "text": "それがいいと思う",
+            "zh": "我觉得这样挺好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "154/ACT",
+            "narrator": "",
+            "text": "それがいいと思う",
+            "zh": "我觉得这样挺好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "169/TALK",
+            "narrator": "プレイヤー",
+            "text": "それがいいと思う",
+            "zh": "我觉得这样挺好",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "171/SEL",
+            "narrator": "",
+            "text": "そんなこと言ってないし",
+            "zh": "我才没说过这种话",
+            "narrator_zh": ""
+        },
+        {
+            "location": "172/SEL",
+            "narrator": "",
+            "text": "何これ！？",
+            "zh": "这什么啊！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "173/SEL",
+            "narrator": "",
+            "text": "どうなってるの？",
+            "zh": "这是怎么回事？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "174/SEL",
+            "narrator": "",
+            "text": "武運を祈る",
+            "zh": "祝你武运昌隆",
+            "narrator_zh": ""
+        },
+        {
+            "location": "175/ACT",
+            "narrator": "",
+            "text": "武運を祈る",
+            "zh": "祝你武运昌隆",
+            "narrator_zh": ""
+        },
+        {
+            "location": "176/ACT",
+            "narrator": "",
+            "text": "武運を祈る",
+            "zh": "祝你武运昌隆",
+            "narrator_zh": ""
+        },
+        {
+            "location": "177/ACT",
+            "narrator": "",
+            "text": "武運を祈る",
+            "zh": "祝你武运昌隆",
+            "narrator_zh": ""
+        },
+        {
+            "location": "178/ACT",
+            "narrator": "",
+            "text": "武運を祈る",
+            "zh": "祝你武运昌隆",
+            "narrator_zh": ""
+        },
+        {
+            "location": "180/TALK",
+            "narrator": "アーヤ",
+            "text": "そうね",
+            "zh": "是啊",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "181/TALK",
+            "narrator": "アーヤ",
+            "text": "祈ってて",
+            "zh": "替我祈祷吧",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "192/TALK",
+            "narrator": "アーヤ",
+            "text": "ギャヴィは絶対に\nここにいてね。",
+            "zh": "加维你绝对要\n留在这里哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "193/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ちょっと待って！\nさっきと言うことが\n矛盾してるわよ！？",
+            "zh": "等一下！\n这跟刚才说的话\n自相矛盾了吧！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "194/TALK",
+            "narrator": "アーヤ",
+            "text": "…してないわ。",
+            "zh": "……没有矛盾。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "195/TALK",
+            "narrator": "アーヤ",
+            "text": "ここはまだ安全だから\nギャヴィにはここに\nいてほしい。",
+            "zh": "这里还算安全，\n我希望加维\n能留在这里。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "196/TALK",
+            "narrator": "アーヤ",
+            "text": "劇場はとても危険。\nだからギャヴィには\n行かせられない。",
+            "zh": "剧场非常危险。\n所以我不能让加维\n过去。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "198/TALK",
+            "narrator": "アーヤ",
+            "text": "でもつばめも\n私にとっては\n妹みたいなもの。",
+            "zh": "但是燕对我来说，\n也像是妹妹一样\n的存在。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "199/TALK",
+            "narrator": "アーヤ",
+            "text": "だから私が\n劇場に行くの。",
+            "zh": "所以我要\n回剧场去。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "200/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だからそれなら\nあたしが…！",
+            "zh": "所以我才说，\n既然这样那就由我……！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "201/TALK",
+            "narrator": "アーヤ",
+            "text": "ねえギャヴィ。",
+            "zh": "我说，加维。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "202/TALK",
+            "narrator": "アーヤ",
+            "text": "本気にして\nもらえないかも\nしれないけど。",
+            "zh": "也许你不会\n把我的话\n当真就是了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "203/TALK",
+            "narrator": "アーヤ",
+            "text": "ギャヴィのことは\nかわいくて生意気な\n本当の妹だと思ってる。",
+            "zh": "我一直把加维\n当成可爱又有点傲气的\n亲妹妹看待。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "204/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…え…。",
+            "zh": "……哎……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "205/TALK",
+            "narrator": "アーヤ",
+            "text": "末っ子だった私に\nかわいい妹が\nできた喜びがわかる？",
+            "zh": "你能明白一直作为老小的我\n突然有了一个可爱妹妹时的\n那种喜悦吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "206/TALK",
+            "narrator": "ガブリエラ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "207/TALK",
+            "narrator": "アーヤ",
+            "text": "何もかもかわいくて\nお姉ちゃんはずるいって\n何度も思ったわ。",
+            "zh": "一举一动都那么可爱，\n让我无数次觉得\n做姐姐真是太好了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "208/TALK",
+            "narrator": "ガブリエラ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "209/TALK",
+            "narrator": "アーヤ",
+            "text": "だからね、ギャヴィ。",
+            "zh": "所以啊，加维。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "210/TALK",
+            "narrator": "アーヤ",
+            "text": "姉として妹には\n危険な目に\n遭って欲しくないの。",
+            "zh": "作为姐姐，\n我不希望妹妹\n去涉险。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "211/TALK",
+            "narrator": "アーヤ",
+            "text": "だからここにいて。",
+            "zh": "所以留在这里。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "212/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そんな言い方\nずるいわよ…！",
+            "zh": "用这种说法\n也太狡猾了吧……！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "213/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…もう！\n絶対につばめを\n連れてきてよね！",
+            "zh": "……真是的！\n一定要把燕\n给我带回来啊！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "214/TALK",
+            "narrator": "アーヤ",
+            "text": "絶対とは\n言い切れないけど。",
+            "zh": "虽然不敢保证\n一定没问题。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "215/TALK",
+            "narrator": "アーヤ",
+            "text": "最善は尽くすわ。\n行ってきます！",
+            "zh": "但我会竭尽全力的。\n我出发了！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "216/TALK",
+            "narrator": "ガブリエラ",
+            "text": "……もう……！",
+            "zh": "……真是的……！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "218/TALK",
+            "narrator": "ガブリエラ",
+            "text": "リーダーだからって\n勝手なことばかり\nするんだから！",
+            "zh": "仗着自己是领队\n就尽做些\n擅自决定的事！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "266/TALK",
+            "narrator": "アーヤ",
+            "text": "　",
+            "zh": "　",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "297/SEL",
+            "narrator": "",
+            "text": "おーい",
+            "zh": "喂——",
+            "narrator_zh": ""
+        },
+        {
+            "location": "298/ACT",
+            "narrator": "",
+            "text": "おーい",
+            "zh": "喂——",
+            "narrator_zh": ""
+        },
+        {
+            "location": "301/TALK",
+            "narrator": "エヴェレット",
+            "text": "$handle$さん、元気にしてた？",
+            "zh": "$handle$，最近还好吗？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "302/SEL",
+            "narrator": "",
+            "text": "エヴェレットさん！？",
+            "zh": "艾弗雷特！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "303/ACT",
+            "narrator": "",
+            "text": "エヴェレットさん！？",
+            "zh": "艾弗雷特！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "305/TALK",
+            "narrator": "エヴェレット",
+            "text": "そう",
+            "zh": "是哦",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "306/SEL",
+            "narrator": "",
+            "text": "消されたって聞いてるんだけど",
+            "zh": "我听说你不是被消除了吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "307/ACT",
+            "narrator": "",
+            "text": "消されたって聞いてるんだけど",
+            "zh": "我听说你不是被消除了吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "309/TALK",
+            "narrator": "エヴェレット",
+            "text": "そうね。",
+            "zh": "是啊。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "310/TALK",
+            "narrator": "エヴェレット",
+            "text": "確かに人格としては消された",
+            "zh": "作为人格确实是被消除了",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "311/TALK",
+            "narrator": "エヴェレット",
+            "text": "けど大丈夫、この通り元気だから",
+            "zh": "不过放心，我现在不就这样好端端的嘛",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "312/SEL",
+            "narrator": "",
+            "text": "なんか婉曲な言い方だね",
+            "zh": "总觉得这说法好委婉啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "313/ACT",
+            "narrator": "",
+            "text": "なんか婉曲な言い方だね",
+            "zh": "总觉得这说法好委婉啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "315/TALK",
+            "narrator": "エヴェレット",
+            "text": "それより",
+            "zh": "比起那个",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "316/TALK",
+            "narrator": "エヴェレット",
+            "text": "そっちはどう？",
+            "zh": "你那边怎么样？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "317/TALK",
+            "narrator": "エヴェレット",
+            "text": "大丈夫？",
+            "zh": "还好吗？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "318/SEL",
+            "narrator": "",
+            "text": "WAVEの会話がちゃんと伝わらなくて",
+            "zh": "WAVE上的对话没法好好传过去",
+            "narrator_zh": ""
+        },
+        {
+            "location": "319/SEL",
+            "narrator": "",
+            "text": "エヴェレットがいなくて寂しい",
+            "zh": "没有艾弗雷特在好寂寞",
+            "narrator_zh": ""
+        },
+        {
+            "location": "320/ACT",
+            "narrator": "",
+            "text": "WAVEの会話がちゃんと伝わらなくて",
+            "zh": "WAVE上的对话没法好好传过去",
+            "narrator_zh": ""
+        },
+        {
+            "location": "321/TALK",
+            "narrator": "エヴェレット",
+            "text": "そうなの？",
+            "zh": "是吗？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "322/TALK",
+            "narrator": "エヴェレット",
+            "text": "バグかしら",
+            "zh": "是出Bug了吗",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "323/TALK",
+            "narrator": "エヴェレット",
+            "text": "今もおかしい？",
+            "zh": "现在也还是不对劲吗？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "324/SEL",
+            "narrator": "",
+            "text": "ココロスフィアに来てからは大丈夫みたい",
+            "zh": "来到心灵领域之后好像就正常了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "325/ACT",
+            "narrator": "",
+            "text": "ココロスフィアに来てからは大丈夫みたい",
+            "zh": "来到心灵领域之后好像就正常了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "327/TALK",
+            "narrator": "エヴェレット",
+            "text": "一時的なものかも",
+            "zh": "说不定只是暂时的",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "328/TALK",
+            "narrator": "エヴェレット",
+            "text": "何か通信に問題があるのかも",
+            "zh": "也可能是通信方面出了什么问题吧",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "329/ACT",
+            "narrator": "",
+            "text": "エヴェレットがいなくて寂しい",
+            "zh": "没有艾弗雷特在好寂寞",
+            "narrator_zh": ""
+        },
+        {
+            "location": "331/TALK",
+            "narrator": "エヴェレット",
+            "text": "嬉しいけど、ほんと？",
+            "zh": "虽然很高兴，不过真的吗？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "332/TALK",
+            "narrator": "エヴェレット",
+            "text": "もう長いこと逢ってなかったし、ホントは私の事忘れてたんじゃない？",
+            "zh": "已经好久没见面了，你该不会其实早就把我忘了吧？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "333/SEL",
+            "narrator": "",
+            "text": "そんなことないよ！",
+            "zh": "才没有那种事！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "334/SEL",
+            "narrator": "",
+            "text": "実は忘れてました",
+            "zh": "其实已经忘了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "335/ACT",
+            "narrator": "",
+            "text": "そんなことないよ！",
+            "zh": "才没有那种事！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "336/TALK",
+            "narrator": "エヴェレット",
+            "text": "そう",
+            "zh": "是吗",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "337/TALK",
+            "narrator": "エヴェレット",
+            "text": "なら",
+            "zh": "那样的话",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "338/TALK",
+            "narrator": "エヴェレット",
+            "text": "嬉しいかな",
+            "zh": "我大概会很开心吧",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "339/TALK",
+            "narrator": "エヴェレット",
+            "text": "私の気持ちは",
+            "zh": "我的心情",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "340/TALK",
+            "narrator": "エヴェレット",
+            "text": "別れる前と全然変わってないから",
+            "zh": "和分别前相比可是一点都没变哦",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "341/ACT",
+            "narrator": "",
+            "text": "実は忘れてました",
+            "zh": "其实已经忘了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "342/TALK",
+            "narrator": "エヴェレット",
+            "text": "ほーらー",
+            "zh": "看——吧——",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "343/TALK",
+            "narrator": "エヴェレット",
+            "text": "まあでも、無事でなによりです",
+            "zh": "不过算了，你平安无事就好",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "346/SEL",
+            "narrator": "",
+            "text": "いつ戻ってこれるの？",
+            "zh": "你什么时候能回来？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "347/SEL",
+            "narrator": "",
+            "text": "今回の心の悩みってどうすればいいの？",
+            "zh": "这次的心灵烦恼该怎么办才好？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "348/ACT",
+            "narrator": "",
+            "text": "いつ戻ってこれるの？",
+            "zh": "你什么时候能回来？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "349/TALK",
+            "narrator": "エヴェレット",
+            "text": "そうねえ",
+            "zh": "这个嘛",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "350/TALK",
+            "narrator": "エヴェレット",
+            "text": "気持ち的には今すぐ$handle$さんに逢いたいけど",
+            "zh": "虽然心情上我现在就想见$handle$",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "351/TALK",
+            "narrator": "エヴェレット",
+            "text": "戻るのには少し時間がかかりそう",
+            "zh": "但要回来似乎还需要一点时间呢",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "352/TALK",
+            "narrator": "エヴェレット",
+            "text": "でも心配しないで！",
+            "zh": "不过别担心！",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "353/TALK",
+            "narrator": "エヴェレット",
+            "text": "ゲートは遠隔操作で回せるから",
+            "zh": "心之扉靠远程操作就能转动了",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "354/ACT",
+            "narrator": "",
+            "text": "今回の心の悩みってどうすればいいの？",
+            "zh": "这次的心灵烦恼该怎么办才好？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "355/TALK",
+            "narrator": "エヴェレット",
+            "text": "心配しなくても大丈夫",
+            "zh": "不用担心，没问题的",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "356/TALK",
+            "narrator": "エヴェレット",
+            "text": "ゲートは遠隔操作で回せるから",
+            "zh": "心之扉靠远程操作就能转动了",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "359/SEL",
+            "narrator": "",
+            "text": "あ",
+            "zh": "啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "360/ACT",
+            "narrator": "",
+            "text": "あ",
+            "zh": "啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "362/TALK",
+            "narrator": "エヴェレット",
+            "text": "どうしたの？(^^*",
+            "zh": "怎么了？(^^*",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "365/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "そんな回りくどいやり方\nしなくても、私が回して\nあげるから。",
+            "zh": "用不着那么拐弯抹角，\n我来帮你\n转动不就好了。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "366/SEL",
+            "narrator": "",
+            "text": "バラされたんじゃないの！？",
+            "zh": "你不是被拆解了吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "367/ACT",
+            "narrator": "",
+            "text": "バラされたんじゃないの！？",
+            "zh": "你不是被拆解了吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "369/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "その予定だったみたいね。\nすんでの所で\n回避できたけど。",
+            "zh": "原本好像是这么打算的呢。\n不过我在千钧一发之际\n躲过去了。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "370/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "それはそうと、\nバラされた方が良かった\nみたいな感じね？",
+            "zh": "话说回来，\n听你这口气，好像还巴不得\n我被拆解掉一样呢？",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "371/SEL",
+            "narrator": "",
+            "text": "ご想像にお任せします",
+            "zh": "请自行想象",
+            "narrator_zh": ""
+        },
+        {
+            "location": "372/SEL",
+            "narrator": "",
+            "text": "断じてそれはない",
+            "zh": "绝对没有那种事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "373/ACT",
+            "narrator": "",
+            "text": "ご想像にお任せします",
+            "zh": "请自行想象",
+            "narrator_zh": ""
+        },
+        {
+            "location": "374/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "じゃあ、\n勝手にご想像するわね。",
+            "zh": "那我就，\n自己随便想象一下咯。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "375/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "まあ、そもそもそんなに\n気にしてないけど。",
+            "zh": "算了，本来我也\n没那么在意就是了。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "376/ACT",
+            "narrator": "",
+            "text": "断じてそれはない",
+            "zh": "绝对没有那种事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "377/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "ホントに？",
+            "zh": "真的吗？",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "378/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "まあいいわ、\nどっちでも。",
+            "zh": "算了，\n怎样都好。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "380/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "私は國政綾水の\n嫌われ者担当だもの。",
+            "zh": "我毕竟是国政绫水的\n讨人嫌担当嘛。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "381/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "司書になる前から\nそれは変わってないし。",
+            "zh": "在当上司书之前\n这一点就没变过。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "382/SEL",
+            "narrator": "",
+            "text": "どういう部分の人格なの？",
+            "zh": "你是哪一部分的人格？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "383/SEL",
+            "narrator": "",
+            "text": "人工的に作られたんじゃなかったの？",
+            "zh": "你不是人工制造出来的吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "384/ACT",
+            "narrator": "",
+            "text": "どういう部分の人格なの？",
+            "zh": "你是哪一部分的人格？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "385/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "んー…\nなかなか\n説明しにくいんだけど。",
+            "zh": "唔——……\n这还挺\n难解释的呢。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "386/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "自分の印象を\n維持する為の\n工作員的な？",
+            "zh": "大概是为了维持\n自己对外印象的\n特工之类的吧？",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "387/ACT",
+            "narrator": "",
+            "text": "人工的に作られたんじゃなかったの？",
+            "zh": "你不是人工制造出来的吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "388/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "なんでそんなことを？",
+            "zh": "干嘛这么问？",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "389/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "まあ、そうね。\nそれは正解。",
+            "zh": "嘛，算是吧。\n这么说也没错。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "390/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "ただ、それは\nゼロからじゃなくて――",
+            "zh": "只不过，并不是\n从零开始——",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "391/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "國政綾水の人格と、\nそれ以外の人格が\n合成されてる感じ。",
+            "zh": "而是把国政绫水的人格\n和除此之外的人格\n合成在一起的感觉。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "392/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "だから、半分は\n生身の國政綾水の\n一人格なの。",
+            "zh": "所以，有一半是\n现实中活生生的国政绫水的\n一部分人格哦。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "393/SEL",
+            "narrator": "",
+            "text": "もう半分は？",
+            "zh": "那另一半呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "394/ACT",
+            "narrator": "",
+            "text": "もう半分は？",
+            "zh": "那另一半呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "396/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "契約主の用意した人格。",
+            "zh": "契约主准备的人格。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "397/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "まあ、なんだか契約主は\n突然いなくなっちゃった\nらしいけど。",
+            "zh": "嘛，不过契约主好像\n突然不见了\n的样子就是了。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "398/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "それでかどうか、\nその半分がスッと抜けて、\n今は前に戻った感じ。",
+            "zh": "不知是不是这个缘故，\n那一半嗖地一下抽离了，\n现在感觉又变回以前那样了。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "399/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "まあ、たぶん\n機能停止してるだけ\nなんでしょうけどね。",
+            "zh": "嘛，大概也只是\n机能停止了\n而已吧。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "401/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "いずれにせよ、\nあまり警戒しないで。",
+            "zh": "不管怎样，\n别那么戒备了。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "402/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "腐っても一人格だから、\n自分に害のあることは\nしないわ。",
+            "zh": "瘦死的骆驼比马大，我好歹也是一个人格，\n对自己有害的事\n我是不会做的。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "403/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "エヴェレットほど、\n貴方にベタベタしたりは\nしないけどね。",
+            "zh": "虽然我可不会像艾弗雷特那样，\n对你黏糊糊地\n撒娇就是了。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "404/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "そういうの\nホントにもう\n疲れちゃうから。",
+            "zh": "那种事\n真的太让人\n累得慌了。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "405/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "それじゃ、\n回すわね。",
+            "zh": "那么，\n我要转动了哦。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "412/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "オープンプロセス――",
+            "zh": "开放进程——",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "413/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "414/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "…？",
+            "zh": "……？",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "415/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "何も降ってこないわね。",
+            "zh": "什么都没传下来呢。",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "417/TALK",
+            "narrator": "エヴェレット",
+            "text": "$handle$さん、その人格に勝手なことさせないで",
+            "zh": "$handle$，别让那个人格胡来",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "418/TALK",
+            "narrator": "エヴェレット",
+            "text": "おねがい",
+            "zh": "拜托了",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "419/SEL",
+            "narrator": "",
+            "text": "エヴェレットが情報とめてるの？",
+            "zh": "是艾弗雷特把情报截住了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "420/ACT",
+            "narrator": "",
+            "text": "エヴェレットが情報とめてるの？",
+            "zh": "是艾弗雷特把情报截住了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "422/TALK",
+            "narrator": "エヴェレット",
+            "text": "とめてる？",
+            "zh": "截住？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "423/TALK",
+            "narrator": "エヴェレット",
+            "text": "なんのこと？",
+            "zh": "你在说什么呀？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "424/SEL",
+            "narrator": "",
+            "text": "謎のおねえさんから情報が届くはずなんだけど",
+            "zh": "本来应该有神秘的大姐姐把情报送过来的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "425/ACT",
+            "narrator": "",
+            "text": "謎のおねえさんから情報が届くはずなんだけど",
+            "zh": "本来应该有神秘的大姐姐把情报送过来的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "427/TALK",
+            "narrator": "エヴェレット",
+            "text": "とにかく",
+            "zh": "总之",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "430/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "またエヴェレットさん？",
+            "zh": "又是艾弗雷特吗？",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "433/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "文句があるなら、\nこっちに戻って来たら\nいくらでも――",
+            "zh": "要是有意见的话，\n等回到这边来\n多少都可以——",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "440/TALK",
+            "narrator": "アーヤの新司書　",
+            "text": "え！？",
+            "zh": "哎！？",
+            "narrator_zh": "绫水的新司书"
+        },
+        {
+            "location": "28/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>9月3日　 7:25 PM</color>\nストライキ開始当日、神楽坂トライナリーにて",
+            "zh": "<color=green>9月3日　 7:25 PM</color>\n罢工开始当天，于神乐坂三重奏",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "231/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch01",
+            "text": "<color=black><size=50><b>逢瀬つばめのココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n逢瀬つばめの心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>在逢濑燕的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n在她的心灵之中，\n正产生着巨大的纠葛。\n\n请潜入心灵领域，\n化解逢濑燕内心的纠葛。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch01"
+        },
+        {
+            "location": "233/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch02",
+            "text": "<color=black><size=50><b>國政綾水のココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n國政綾水の心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>在国政绫水的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n在她的心灵之中，\n正产生着巨大的纠葛。\n\n请潜入心灵领域，\n化解国政绫水内心的纠葛。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch02"
+        },
+        {
+            "location": "235/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch03",
+            "text": "<color=black><size=50><b>ガブリエラのココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\nガブリエラの心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>在加布里埃拉的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n在她的心灵之中，\n正产生着巨大的纠葛。\n\n请潜入心灵领域，\n化解加布里埃拉内心的纠葛。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch03"
+        },
+        {
+            "location": "237/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch04",
+            "text": "<color=black><size=50><b>恋ヶ崎みやびのココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n恋ヶ崎みやびの心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>在恋之崎雅的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n在她的心灵之中，\n正产生着巨大的纠葛。\n\n请潜入心灵领域，\n化解恋之崎雅内心的纠葛。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch04"
+        },
+        {
+            "location": "239/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch05",
+            "text": "<color=black><size=50><b>卯月神楽のココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n卯月神楽の心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>在卯月神乐的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n在她的心灵之中，\n正产生着巨大的纠葛。\n\n请潜入心灵领域，\n化解卯月神乐内心的纠葛。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch05"
+        },
+        {
+            "location": "295/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:librarian】</color>\n司書が存在しません。(p12)",
+            "zh": "<color=green>【TRI-OS Plug-in:librarian】</color>\n司书不存在。(p12)",
+            "narrator_zh": "NOTICE"
+        }
+    ]
+}
