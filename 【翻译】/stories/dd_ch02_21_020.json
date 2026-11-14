@@ -1,0 +1,560 @@
+{
+    "dir": "chap21/daydra/dd_ch02_21_020.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "21256",
+        "cid": "ayami",
+        "title": "Extra006 プレミアムストーリー",
+        "sub_title": "みやび家の謎",
+        "title_zh": "Extra006 额外剧情",
+        "sub_title_zh": "雅家的谜团"
+    },
+    "entry": [
+        {
+            "location": "283/SCENARIO",
+            "narrator": "",
+            "text": "みやび家の謎",
+            "zh": "雅家的谜团",
+            "narrator_zh": ""
+        },
+        {
+            "location": "300/TALK",
+            "narrator": "アーヤ",
+            "text": "何やってるの？",
+            "zh": "你在干什么？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "306/TALK",
+            "narrator": "ガブリエラ",
+            "text": "うわっ！？\nお、脅かさないでよ！",
+            "zh": "呜哇！？\n别、别吓唬人啊！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "307/TALK",
+            "narrator": "アーヤ",
+            "text": "普通に声掛けただけ\nじゃない。",
+            "zh": "我只是正常地跟你打招呼\n而已吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "308/TALK",
+            "narrator": "アーヤ",
+            "text": "それより、私たちの\n部屋は向こうよ？",
+            "zh": "比起这个，我们的\n房间在那边哦？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "311/TALK",
+            "narrator": "ガブリエラ",
+            "text": "わかってるわよ。\nちょっと探検してるだけ。",
+            "zh": "我知道啦。\n只是稍微探险一下而已。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "312/TALK",
+            "narrator": "アーヤ",
+            "text": "探検って…。",
+            "zh": "还探险……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "315/TALK",
+            "narrator": "アーヤ",
+            "text": "まさか、奥の部屋に\n行こうとしてるんじゃ\nないでしょうね！？",
+            "zh": "你该不会，是打算去\n里面的那间屋子\n吧！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "316/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "317/TALK",
+            "narrator": "アーヤ",
+            "text": "到着した時、みやびに\n言われたこと忘れたの？",
+            "zh": "刚到的时候，雅\n说的话你忘了吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "334/TALK",
+            "narrator": "みやび",
+            "text": "あ～、基本的に家の中は\n自由に散策してもろうて\nかまわんけんど――",
+            "zh": "啊～，基本上屋子里面\n你们随便逛\n都没得事，不过——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "336/TALK",
+            "narrator": "みやび",
+            "text": "一つだけ禁止事項な。\n奥の木戸の部屋、\nあそこは立ち入り禁止や。",
+            "zh": "只有一件事禁止咯。\n里头那间木门房，\n那里禁止入内咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "340/TALK",
+            "narrator": "ガブリエラ",
+            "text": "木戸の部屋？",
+            "zh": "木门房？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "341/TALK",
+            "narrator": "みやび",
+            "text": "他の部屋とは違うき、\n見ればすぐわかるはずや。",
+            "zh": "跟别的房间不一样啵，\n一看应该就认得出来。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "342/TALK",
+            "narrator": "みやび",
+            "text": "それだけは\n守ってもらうぞね。",
+            "zh": "就这一条\n得给我守好啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "345/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だから、なんで――",
+            "zh": "所以说，为什么——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "347/TALK",
+            "narrator": "アーヤ",
+            "text": "ダメよ、ギャヴィ。",
+            "zh": "不行哦，加维。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "348/TALK",
+            "narrator": "アーヤ",
+            "text": "ここはみやびのご家族も\n暮らしているんだから――",
+            "zh": "这里雅的家人也\n一起住着呢——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "349/TALK",
+            "narrator": "アーヤ",
+            "text": "色々プライバシーが\nあるでしょ？",
+            "zh": "总有各种隐私\n需要顾及吧？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "351/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "353/TALK",
+            "narrator": "みやび",
+            "text": "話が早くて助かる。\nそういうことやき、\n覚えといてな。",
+            "zh": "好说话就省事多了。\n就是这么回事啵，\n记牢了咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "374/TALK",
+            "narrator": "アーヤ",
+            "text": "って、話したこと\n忘れたの？",
+            "zh": "刚说过的话\n这就忘了吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "375/TALK",
+            "narrator": "ガブリエラ",
+            "text": "はぁ…そういう反応\nされるから、アーヤには\n見られたくなかったのよ。",
+            "zh": "唉……就是因为你会有这种反应，\n我才不想让绫水\n看见啊。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "379/TALK",
+            "narrator": "ガブリエラ",
+            "text": "大丈夫だってば。\n約束通り、あの部屋には\n入らないから。",
+            "zh": "放心吧。\n我会遵守约定，不进\n那个房间的。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "380/TALK",
+            "narrator": "アーヤ",
+            "text": "本当？",
+            "zh": "真的？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "381/TALK",
+            "narrator": "ガブリエラ",
+            "text": "覗くだけよ。",
+            "zh": "就偷看一眼嘛。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "384/TALK",
+            "narrator": "アーヤ",
+            "text": "覗くのだってダメに\n決まってるでしょ！",
+            "zh": "偷看一眼当然也是\n不行的吧！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "385/TALK",
+            "narrator": "ガブリエラ",
+            "text": "でも、他の部屋はどこも\n出入り自由なのに――",
+            "zh": "可是，其他房间明明都可以\n自由进出——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "386/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あの部屋だけダメなんて、\n気になるじゃない。",
+            "zh": "偏偏只有那间不行，\n不是很让人在意吗。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "387/TALK",
+            "narrator": "アーヤ",
+            "text": "それはそうだけど…。",
+            "zh": "话是这么说……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "388/TALK",
+            "narrator": "アーヤ",
+            "text": "…ギャヴィ、みやびの\n前では言わなかった\nけど――",
+            "zh": "……加维，在雅\n面前我没好意思说\n但——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "389/TALK",
+            "narrator": "アーヤ",
+            "text": "この家って、\n凄く古いでしょ？",
+            "zh": "这栋房子，\n历史非常悠久吧？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "390/TALK",
+            "narrator": "アーヤ",
+            "text": "そういう家にはね、\nその家独自のルールが\n存在するものなの。",
+            "zh": "这种老宅子呢，\n都会有那家人\n独特的规矩存在哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "391/TALK",
+            "narrator": "アーヤ",
+            "text": "日本の文化とか伝統が\n好きなら、そういうのも\nわからないとダメよ。",
+            "zh": "既然你喜欢日本的文化和传统，\n这种事也得\n懂得尊重才行。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "394/TALK",
+            "narrator": "ガブリエラ",
+            "text": "何それ？",
+            "zh": "那是什么呀？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "395/TALK",
+            "narrator": "ガブリエラ",
+            "text": "文化や伝統だから、\nなんて理由じゃ、\nさっぱりわからないわ。",
+            "zh": "说什么因为是文化和传统，\n这种理由，\n我完全搞不懂啊。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "396/TALK",
+            "narrator": "アーヤ",
+            "text": "ギャヴィ！",
+            "zh": "加维！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "397/TALK",
+            "narrator": "ガブリエラ",
+            "text": "覗くのもダメな部屋なら、\n鍵くらい掛かってるわよ。",
+            "zh": "要是连偷看都不行的房间，\n至少会锁上门吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "399/TALK",
+            "narrator": "アーヤ",
+            "text": "あっ、待ちなさい！",
+            "zh": "啊，等一下！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "400/SEL",
+            "narrator": "",
+            "text": "霊気を感じる",
+            "zh": "感觉到了灵气",
+            "narrator_zh": ""
+        },
+        {
+            "location": "401/SEL",
+            "narrator": "",
+            "text": "入らないならＯＫでしょ",
+            "zh": "不进去不就行了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "404/TALK",
+            "narrator": "アーヤ",
+            "text": "どうしよう…。\nなんて言えばわかって\nもらえるのかしら？",
+            "zh": "怎么办……。\n要怎么说她才能\n明白呢？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "405/TALK",
+            "narrator": "アーヤ",
+            "text": "もしもあの部屋が、\n私の思ってるような\n部屋だったとしたら――",
+            "zh": "如果那间屋子，\n真如我想的那样\n是一间……——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "406/TALK",
+            "narrator": "アーヤ",
+            "text": "冗談抜きでマズいことに\nなりかねないわ。",
+            "zh": "不开玩笑，真可能会\n闹出大事来的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "411/TALK",
+            "narrator": "アーヤ",
+            "text": "って、いけない！\n待ちなさいギャヴィ！",
+            "zh": "啊，不好！\n等等啊加维！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "417/ACT",
+            "narrator": "",
+            "text": "霊気を感じる",
+            "zh": "感觉到了灵气",
+            "narrator_zh": ""
+        },
+        {
+            "location": "439/TALK",
+            "narrator": "アーヤ",
+            "text": "バカ！",
+            "zh": "笨蛋！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "440/TALK",
+            "narrator": "アーヤ",
+            "text": "そういう冗談、本当面白くないから！！",
+            "zh": "这种玩笑，一点都不好笑！！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "442/TALK",
+            "narrator": "アーヤ",
+            "text": "…冗談よね？",
+            "zh": "……是玩笑吧？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "456/TALK",
+            "narrator": "アーヤ",
+            "text": "って、いけない！\n待ちなさいギャヴィ！",
+            "zh": "啊，不好！\n等等啊加维！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "461/ACT",
+            "narrator": "",
+            "text": "入らないならＯＫでしょ",
+            "zh": "不进去不就行了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "481/TALK",
+            "narrator": "アーヤ",
+            "text": "あなたまで何言ってるの？",
+            "zh": "怎么连你也这么说？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "482/TALK",
+            "narrator": "アーヤ",
+            "text": "そういうの、屁理屈って言うの！",
+            "zh": "这种说法，就叫强词夺理！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "495/TALK",
+            "narrator": "アーヤ",
+            "text": "って、いけない！\n待ちなさいギャヴィ！",
+            "zh": "啊，不好！\n等等啊加维！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "517/TALK",
+            "narrator": "ガブリエラ",
+            "text": "うわぁ…何これ？",
+            "zh": "呜哇……这是什么？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "521/TALK",
+            "narrator": "アーヤ",
+            "text": "ギャヴィ！！\nあ、覗いたらダメだって！",
+            "zh": "加维！！\n都说了不准偷看啊！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "525/TALK",
+            "narrator": "ガブリエラ",
+            "text": "アーヤ、この部屋凄いわ！\n他の部屋と全然違うの！",
+            "zh": "绫水，这间屋子好厉害！\n跟其他房间完全不一样！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "529/TALK",
+            "narrator": "アーヤ",
+            "text": "嫌！！\n聞きたくないから！",
+            "zh": "不要！！\n我不想听！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "534/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "535/TALK",
+            "narrator": "ガブリエラ",
+            "text": "怖いの？",
+            "zh": "你害怕了吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "538/TALK",
+            "narrator": "アーヤ",
+            "text": "なっ！？　バカなこと\n言わないでよ！",
+            "zh": "什！？　别胡说\n八道了！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "539/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だったらほら――",
+            "zh": "那就来看嘛——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "544/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ちょっとでいいから\n見てみなって。",
+            "zh": "就看一眼也好\n过来看看嘛。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "547/TALK",
+            "narrator": "アーヤ",
+            "text": "ちょ、ちょっと、ダメ！\nそんな押したら…っ！？",
+            "zh": "等、等等，不行！\n别推我啊……！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "551/TALK",
+            "narrator": "アーヤ",
+            "text": "きゃぁっ！",
+            "zh": "呀啊！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "554/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あ、アーヤッ！？",
+            "zh": "绫、绫水！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "566/TALK",
+            "narrator": "アーヤ",
+            "text": "イタタタ…。",
+            "zh": "好痛痛痛……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "569/TALK",
+            "narrator": "アーヤ",
+            "text": "ギャヴィ！！\nあんたが押すから\nドアが外れて――",
+            "zh": "加维！！\n都怪你推我，\n门都掉下来了——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "584/TALK",
+            "narrator": "アーヤ",
+            "text": "ひぃっ！？",
+            "zh": "噫！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "600/TALK",
+            "narrator": "ガブリエラ",
+            "text": "やばっ！\nドア外れちゃった！",
+            "zh": "糟了！\n门掉下来了！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "602/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ほら、アーヤ！\n直すの手伝って！！",
+            "zh": "喂，绫水！\n快帮我装回去！！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "603/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "605/TALK",
+            "narrator": "ガブリエラ",
+            "text": "アーヤってば！！",
+            "zh": "绫水你倒是说话呀！！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "606/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "608/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あちゃー、完全に\n固まっちゃってる…。",
+            "zh": "哎呀呀，彻底\n吓僵了……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "610/TALK",
+            "narrator": "ガブリエラ",
+            "text": "戻ったら、絶対に\nお説教だろうなぁ…。",
+            "zh": "回去以后，绝对\n要被说教了啊……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "295/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>8月25日　 9:21 PM</color>\n合宿中、みやびの実家木戸の部屋の前でのこと",
+            "zh": "<color=green>8月25日　 9:21 PM</color>\n集训期间，在雅老家的木门房前",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "622/DIALOG",
+            "narrator": "Dialog_GEThimegoto_ch02",
+            "text": "【アーヤの恐怖報告】",
+            "zh": "【绫水的恐怖报告】",
+            "narrator_zh": "Dialog_GEThimegoto_ch02"
+        }
+    ]
+}
