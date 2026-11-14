@@ -1,0 +1,567 @@
+{
+    "dir": "chap18/daydra/dd_ch03_18_010.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "18352",
+        "cid": "gabriella",
+        "title": "Extra002 プレミアムストーリー",
+        "sub_title": "夢のバイト",
+        "title_zh": "Extra002 额外剧情",
+        "sub_title_zh": "梦想的打工"
+    },
+    "entry": [
+        {
+            "location": "7/SCENARIO",
+            "narrator": "",
+            "text": "夢のバイト",
+            "zh": "梦想的打工",
+            "narrator_zh": ""
+        },
+        {
+            "location": "21/TALK",
+            "narrator": "雛",
+            "text": "…いいなぁ。",
+            "zh": "……真好啊。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "23/TALK",
+            "narrator": "つばめ",
+            "text": "ん、どうしたの？",
+            "zh": "嗯，怎么啦？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "24/TALK",
+            "narrator": "雛",
+            "text": "ここのウェイトレスさんの\nことだよ。",
+            "zh": "我说这里的女服务员\n啦。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "25/TALK",
+            "narrator": "雛",
+            "text": "あんな可愛い制服着て\n働けたら、毎日楽しい\nだろうなぁ…。",
+            "zh": "要是能穿着那么可爱的制服\n上班，每天肯定都会很开心\n吧……。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "26/TALK",
+            "narrator": "繭",
+            "text": "ここの制服は、\n都内の可愛い制服の\n喫茶店ランキングで――",
+            "zh": "这家的制服，\n在东京内可爱制服\n咖啡店排行榜里可是——",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "27/TALK",
+            "narrator": "繭",
+            "text": "ベスト５に入る店よ。",
+            "zh": "排进前五的店哦。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "29/TALK",
+            "narrator": "ガブリエラ",
+            "text": "何でそんなこと\n知ってるのよ？",
+            "zh": "你怎么连这种事\n都知道啊？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "繭",
+            "text": "…ネットの記事で\n見ただけ。",
+            "zh": "……只是在网上的\n文章里看到过。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ふ～ん…でもまあ、\nわからなくはないわね。",
+            "zh": "哼～嗯……不过嘛，\n倒也不是不能理解。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "35/TALK",
+            "narrator": "ガブリエラ",
+            "text": "メイド服みたいに\n男受けを狙ったデザイン、\nってわけでもないし――",
+            "zh": "既不像女仆装那样\n一门心思讨好男生\n的设计——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "36/TALK",
+            "narrator": "ガブリエラ",
+            "text": "かといって、\n変に地味でもない\nオシャレな制服だし。",
+            "zh": "可要说土气吧，\n也完全不土，是挺时髦\n的一款制服呢。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "41/TALK",
+            "narrator": "雛",
+            "text": "…あ、バイトの\n募集してるじゃん！",
+            "zh": "……啊，店里正在\n招兼职呢！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "43/TALK",
+            "narrator": "雛",
+            "text": "思い切って応募して\nみようかなー？",
+            "zh": "要不要干脆一咬牙\n去投个简历试试呀—？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "44/TALK",
+            "narrator": "つばめ",
+            "text": "いいなぁ…。\nわたしも、ちょっと\n着てみたいかも。",
+            "zh": "真好呀……。\n其实我也，稍微有点\n想穿穿看呢。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "46/TALK",
+            "narrator": "雛",
+            "text": "じゃあ、つばめちゃんも\n一緒にバイトの面接\n受けてみようよ。",
+            "zh": "那，燕也和我一起\n去参加兼职面试\n试试看吧。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "48/TALK",
+            "narrator": "つばめ",
+            "text": "うん！",
+            "zh": "嗯！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "50/TALK",
+            "narrator": "ガブリエラ",
+            "text": "うん、じゃないでしょ！",
+            "zh": "还「嗯」呢，当然不行啊！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "52/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あんたは劇場の仕事が\nあるんだし――",
+            "zh": "你还有剧场的活儿\n要干呢——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "53/TALK",
+            "narrator": "ガブリエラ",
+            "text": "それに…いつ出動要請が\nくるかわからないのよ？",
+            "zh": "而且……鬼知道什么时候\n就会来出动指令哦？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "つばめ",
+            "text": "わかってるけど…\nやっぱり、憧れるよぉ…。",
+            "zh": "我是知道啦……\n可还是，好向往呀……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "57/TALK",
+            "narrator": "ガブリエラ",
+            "text": "憧れるだけで\n我慢しなさい。",
+            "zh": "忍着，光向往一下\n就够了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "58/TALK",
+            "narrator": "雛",
+            "text": "もぉ、ガブリエラちゃんは\nクールだなぁ…。",
+            "zh": "真是的，加布里埃拉\n好冷酷呀……。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "61/TALK",
+            "narrator": "繭",
+            "text": "ここの制服、\n似合いそうなのに。",
+            "zh": "明明这里的制服，\n感觉就很适合你穿。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "62/TALK",
+            "narrator": "繭",
+            "text": "ていうか、ガブリエラは\nベタなメイド服よりも、\nこっちの方が断然萌え！",
+            "zh": "话说回来，比起烂大街的女仆装，\n加布里埃拉绝对穿这种制服\n更萌！",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "66/TALK",
+            "narrator": "雛",
+            "text": "でも、意外とまゆちんも\n似合いそうだよねー。",
+            "zh": "不过意外地，小茧应该\n也很适合穿这种吧—。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "68/TALK",
+            "narrator": "つばめ",
+            "text": "まゆちんは大人っぽい\n雰囲気あるから、\nかっこよくなりそうかも！",
+            "zh": "小茧平时就有点成熟稳重的\n气质嘛，穿起来肯定\n会很帅气哦！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "70/TALK",
+            "narrator": "繭",
+            "text": "そ、そう？",
+            "zh": "是、是吗？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "71/TALK",
+            "narrator": "雛",
+            "text": "そうだよー。\nあ、でもでも――",
+            "zh": "是呀—。\n啊，不过不过——",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "74/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…制服かぁ。",
+            "zh": "……制服啊。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "86/TALK",
+            "narrator": "ガブリエラ",
+            "text": "口ではあんなこと言ったけど",
+            "zh": "虽然嘴上那样说",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "87/TALK",
+            "narrator": "ガブリエラ",
+            "text": "私もね、本当は可愛い制服を着てみたいと思ってるの",
+            "zh": "其实我呀，心里也很想穿穿看可爱的制服呢",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "89/SEL",
+            "narrator": "",
+            "text": "言えばよかったのに",
+            "zh": "直接说出来不就好了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "90/ACT",
+            "narrator": "",
+            "text": "言えばよかったのに",
+            "zh": "直接说出来不就好了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "ガブリエラ",
+            "text": "言葉に出したら、着たい気持ちが大きくなっちゃうわ",
+            "zh": "要是说出口，想穿的念头就会越来越强烈的",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "93/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だから言わないようにしてるの",
+            "zh": "所以我才刻意忍着不说",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "94/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あ～あ、トライナリーやってると、不便なこと多いなぁ…",
+            "zh": "啊～啊，当三重奏成员，不方便的事真多呀……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "96/SEL",
+            "narrator": "",
+            "text": "劇場の制服ってないの？",
+            "zh": "剧场难道没有制服吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "97/SEL",
+            "narrator": "",
+            "text": "非常勤とかないのかな？",
+            "zh": "难道不能做非全职的吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "98/ACT",
+            "narrator": "",
+            "text": "劇場の制服ってないの？",
+            "zh": "剧场难道没有制服吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…懐かしいことを思い出したわ",
+            "zh": "……这倒是让我想起件怀念的事",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "111/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…制服といえばだけど。",
+            "zh": "……说到制服，顺便一提。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "112/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あたしが劇場で働き\n始めた頃のことだけど――",
+            "zh": "那还是我刚在剧场\n开始打工那会儿的事——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "113/TALK",
+            "narrator": "ガブリエラ",
+            "text": "可愛い制服を作って\nほしいって、まほに\n言ったことがあるの。",
+            "zh": "我曾经跟真幌提过，\n希望她能做一套\n可爱的制服来着。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "117/TALK",
+            "narrator": "つばめ",
+            "text": "そうだったの！？",
+            "zh": "还有过这种事吗！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "120/TALK",
+            "narrator": "ガブリエラ",
+            "text": "まあ、予算がないから\n制服じゃなくて――",
+            "zh": "结果嘛，因为没预算，\n最后没做成制服——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "122/TALK",
+            "narrator": "ガブリエラ",
+            "text": "まほが自腹でジャージを\n買おうとしたから、\n慌てて止めたんだけど。",
+            "zh": "真幌甚至打算自掏腰包\n买运动服凑数，被我\n慌慌张张地拦下来了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "123/TALK",
+            "narrator": "雛",
+            "text": "…それ、止めて\n正解だったよ。",
+            "zh": "……那可真是\n拦得太对了。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "124/TALK",
+            "narrator": "つばめ",
+            "text": "もしガブちゃんが止めて\nくれなかったら――",
+            "zh": "要是当时加布没有\n拦住她的话——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "125/TALK",
+            "narrator": "つばめ",
+            "text": "今頃、わたしもジャージで\n働いてたんだね？",
+            "zh": "岂不是连我现在也要穿着\n运动服在剧场干活了吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "127/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そういうこと。",
+            "zh": "就是这么回事。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "128/TALK",
+            "narrator": "ガブリエラ",
+            "text": "トライナリーの一員で\nある以上は、可愛い制服\nとは無縁なの。",
+            "zh": "只要一天还是三重奏的\n一员，就注定跟可爱制服\n无缘啦。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "130/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だから、さっさと\n諦めた方が賢明よ。",
+            "zh": "所以，还是早点\n死心比较明智。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "つばめ",
+            "text": "…しょんぼりだよぉ。",
+            "zh": "……好失落呀……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "135/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…あたしも、ジャージを\n買われそうになった時は\nしょんぼりしたなぁ…。",
+            "zh": "……我那会儿差点被逼着\n买运动服的时候，也是\n失落得不行啊……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "136/ACT",
+            "narrator": "",
+            "text": "非常勤とかないのかな？",
+            "zh": "难道不能做非全职的吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "137/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あったとしても、私達はできないわ",
+            "zh": "就算有，我们也没法做啊",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "ガブリエラ",
+            "text": "仕事中に出撃要請が来ることも考えられるし…",
+            "zh": "毕竟说不定上班上到一半就会接到出击指令……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "139/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうなったら、お店に迷惑がかかっちゃうもの",
+            "zh": "真那样的话，会给人家店里添麻烦的",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "151/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…まあ、あれね。",
+            "zh": "……不过嘛，那个。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "152/TALK",
+            "narrator": "ガブリエラ",
+            "text": "可愛い制服を着られる\n仕事をしたいなら――",
+            "zh": "如果真的想找一份\n能穿可爱制服的工作——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "153/TALK",
+            "narrator": "ガブリエラ",
+            "text": "さっさとフェノメノンを\nどうにかする以外に、\n方法はないわ。",
+            "zh": "除了麻利地把\nPhenoMENON解决掉以外，\n可没有别的办法了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "155/TALK",
+            "narrator": "雛",
+            "text": "…あ、そっか。",
+            "zh": "……啊，对哦。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "156/TALK",
+            "narrator": "雛",
+            "text": "フェノメノン関係の\n事件が起こらなく\nなれば――",
+            "zh": "只要跟PhenoMENON\n有关的事件\n不再发生——",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "157/TALK",
+            "narrator": "雛",
+            "text": "トライナリーも解散に\nなるし、劇場で働く\n必要もなくなるんだ？",
+            "zh": "三重奏也会随之解散，\n也就不用在剧场\n打工了对吧？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "160/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そういうことよ。",
+            "zh": "就是这么回事。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "162/TALK",
+            "narrator": "繭",
+            "text": "自由が欲しければ\n勝利せよ、ってこと？",
+            "zh": "想要自由，\n就得先赢下胜利，是这意思？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "164/TALK",
+            "narrator": "つばめ",
+            "text": "あはは、その言い方だと\nかっこよくていいかも。",
+            "zh": "啊哈哈，这么一说\n听起来还挺帅气的嘛。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "166/TALK",
+            "narrator": "ガブリエラ",
+            "text": "でも、実際のとこ\n自由が欲しければ\n勝つ以外ないのは本当よ。",
+            "zh": "不过实际上，\n想要自由就只能靠赢，\n这倒是千真万确的。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "168/TALK",
+            "narrator": "ガブリエラ",
+            "text": "じゃなきゃ、あたし達は\n東京からあまり離れる\nこともできないんだし。",
+            "zh": "要不然的话，我们\n甚至连离开东京太远\n都做不到呢。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "169/TALK",
+            "narrator": "雛",
+            "text": "…大変なんだね、\nトライナリーって。",
+            "zh": "……好辛苦啊，\n当三重奏成员。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "172/TALK",
+            "narrator": "つばめ",
+            "text": "…けど、決めたよ。",
+            "zh": "……不过，我决定啦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "173/TALK",
+            "narrator": "つばめ",
+            "text": "わたしも、いつかは\n可愛い制服を着れる\nお仕事したいから――",
+            "zh": "因为我总有一天也想\n找一份能穿上可爱制服\n的工作嘛——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "174/TALK",
+            "narrator": "つばめ",
+            "text": "そのためにも、\n今まで以上に今の仕事を\n頑張るよ！",
+            "zh": "为了那一天，\n我也要比以前更加努力\n做好现在的工作哦！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "177/TALK",
+            "narrator": "雛",
+            "text": "さすがつばめちゃん。\n応援してるよー！",
+            "zh": "不愧是燕。\n我支持你哟—！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "179/TALK",
+            "narrator": "ガブリエラ",
+            "text": "世界平和のために、くらい\n言いなさいよ。\n目標が小さいわね。",
+            "zh": "好歹说一句“为了世界和平”\n什么的嘛。\n志向未免太小了吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "181/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…でも、いつかは\n可愛い制服を着れる\nお仕事に就いてみたいな。",
+            "zh": "……不过，有朝一日\n我也想试着找一份能穿\n可爱制服的工作呢。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "20/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>7月15日　3:38 PM</color>\nとある平日の午後、都内某所のカフェにて。",
+            "zh": "<color=green>7月15日　3:38 PM</color>\n某个平日的午后，于东京都内某处的咖啡店。",
+            "narrator_zh": "Dialog_EventData"
+        }
+    ]
+}
