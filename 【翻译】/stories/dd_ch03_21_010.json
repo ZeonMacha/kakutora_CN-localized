@@ -1,0 +1,665 @@
+{
+    "dir": "chap21/daydra/dd_ch03_21_010.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "21352",
+        "cid": "gabriella",
+        "title": "Extra002 プレミアムストーリー",
+        "sub_title": "恋ヶ崎家の味",
+        "title_zh": "Extra002 额外剧情",
+        "sub_title_zh": "恋之崎家的味道"
+    },
+    "entry": [
+        {
+            "location": "7/SCENARIO",
+            "narrator": "",
+            "text": "恋ヶ崎家の味",
+            "zh": "恋之崎家的味道",
+            "narrator_zh": ""
+        },
+        {
+            "location": "22/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…ちょっと、つばめ。\n昼間からゴロゴロして\nないでよ。",
+            "zh": "……我说，燕。\n大白天的别一直瘫着\n不动啊。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "24/TALK",
+            "narrator": "つばめ",
+            "text": "ううっ…でも、何だか\n凄くダルくて…。",
+            "zh": "呜呜……可是，总觉得\n浑身好没力气呀……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "26/TALK",
+            "narrator": "アーヤ",
+            "text": "そういえば、朝の訓練の\n後から元気ないわね。",
+            "zh": "说起来，早上的训练\n结束后就一直没精神了哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "28/TALK",
+            "narrator": "神楽",
+            "text": "軽い夏バテかも\nしれませんよ？",
+            "zh": "可能是有点轻微的\n苦夏了吧？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "つばめ",
+            "text": "そうなのかなぁ？",
+            "zh": "是这样吗……？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "ガブリエラ",
+            "text": "まったく…他人様の家で\nだらしない…。",
+            "zh": "真是的……在别人家里\n这么懒散……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ほら、これ味見させて\nあげるから、シャキッと\nしなさい。",
+            "zh": "来，我让你尝尝这个，\n快点给我\n打起精神来。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "36/TALK",
+            "narrator": "つばめ",
+            "text": "…これって、サラダ？",
+            "zh": "……这个是，沙拉？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "39/TALK",
+            "narrator": "アーヤ",
+            "text": "ギャヴィが作ったの？",
+            "zh": "加维做的吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "43/TALK",
+            "narrator": "ガブリエラ",
+            "text": "うん、みやびのお母さんに\nお願いして、作り方を\n教えてもらってね――",
+            "zh": "嗯，我拜托雅的妈妈\n教了我做法，\n那个――",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "44/TALK",
+            "narrator": "ガブリエラ",
+            "text": "とりあえず、簡単に\n作れるさっぱり味の\nサラダを教わったの。",
+            "zh": "先学了一道做起来\n比较简单的清爽口\n味沙拉。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "45/TALK",
+            "narrator": "ガブリエラ",
+            "text": "夏バテ対策にもなる、って\n聞いたから、今のつばめに\n丁度いいんじゃない？",
+            "zh": "听说还能用来应对\n苦夏，对现在的燕来说\n不正好合适吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "47/TALK",
+            "narrator": "つばめ",
+            "text": "う、うん…あむっ…。",
+            "zh": "嗯、嗯……啊呜……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "48/TALK",
+            "narrator": "つばめ",
+            "text": "…えっ？",
+            "zh": "……哎？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "51/TALK",
+            "narrator": "ガブリエラ",
+            "text": "な、なに？\n不味かった？",
+            "zh": "怎、怎么了？\n很难吃吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "54/TALK",
+            "narrator": "つばめ",
+            "text": "これ…ガブちゃんが\n作ったの？",
+            "zh": "这个……真的是加布\n做的吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "55/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうよ。\n教わりながらだけど…。",
+            "zh": "是啊。\n虽然是边学边做的……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "神楽",
+            "text": "味はどうなんですか？",
+            "zh": "味道怎么样？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "57/TALK",
+            "narrator": "つばめ",
+            "text": "美味しいよ。\nううん、凄く美味しい！",
+            "zh": "很好吃哦。\n不对，是超级好吃！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "58/TALK",
+            "narrator": "ガブリエラ",
+            "text": "やった、大成功！",
+            "zh": "太好了，大成功！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "つばめ",
+            "text": "本当に凄いよ。\n凄く美味しい！",
+            "zh": "真的好厉害哦。\n超级好吃！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "62/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…みやびのお母さんの\n教え方が、凄く上手\nだったからよ。",
+            "zh": "……因为雅的妈妈\n教得特别\n好嘛。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "神楽",
+            "text": "…あの、私もいいですか？",
+            "zh": "……那个，我也可以吃吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "アーヤ",
+            "text": "私もいい？",
+            "zh": "我也能吃吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "67/TALK",
+            "narrator": "ガブリエラ",
+            "text": "仕方ないわね…。\nはい、どうぞ。",
+            "zh": "真拿你们没办法……。\n来，吃吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "71/TALK",
+            "narrator": "神楽",
+            "text": "ありがとうございます。\nそれじゃ…あむっ。",
+            "zh": "谢谢。\n那我就……啊呜。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "72/TALK",
+            "narrator": "神楽",
+            "text": "…本当だ。\nこれ、本当に美味しい\nですよ！",
+            "zh": "……真的耶。\n这个，真的\n好好吃！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "74/TALK",
+            "narrator": "神楽",
+            "text": "ドレッシングも自分で\n作ったんですか？",
+            "zh": "连酱汁也是自己\n调的吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ええ、市販品もいいけど、\n作った方が楽しいから、\nって教えてもらったわ。",
+            "zh": "嗯，虽说买现成的也不错，\n但她教我说自己做会更\n有趣呢。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "80/TALK",
+            "narrator": "神楽",
+            "text": "最高です！\n程よく酸っぱくて、\n身体がシャキッとします！",
+            "zh": "太棒了！\n酸度刚刚好，\n整个人都清爽起来了！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "アーヤ",
+            "text": "凄いわ、ギャヴィ。\nこれ本当に美味しい！",
+            "zh": "真厉害啊，加维。\n这个真的很好吃！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "つばめ",
+            "text": "朝ごはんで出たら\n嬉しいですね。",
+            "zh": "早饭要是能吃到这个\n一定会很开心的。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "アーヤ",
+            "text": "そうね。\n和食とも、パンとも\n合いそうな味だし。",
+            "zh": "是啊。\n感觉不管是配和食还是\n配面包都很合适。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "86/TALK",
+            "narrator": "神楽",
+            "text": "暑くて食欲ない時も、\nこれなら食べられますよ。",
+            "zh": "天气热没胃口的时候，\n吃这个也完全没问题哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "88/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "ガブリエラ",
+            "text": "なんか、予想してたよりも美味しい物ができちゃったみたい",
+            "zh": "感觉好像做出了比预想中还要美味的东西呢",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "101/TALK",
+            "narrator": "ガブリエラ",
+            "text": "みやびのお母さんの教え方が、凄く上手だったからだと思うけど",
+            "zh": "虽然我想主要是因为雅的妈妈教得太好了",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "ガブリエラ",
+            "text": "こんなに美味しいって言ってもらえるもの作ったの、初めてかも",
+            "zh": "能做出让人夸得这么好吃的东西，说不定还是第一次",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "ガブリエラ",
+            "text": "自分の作った物を美味しいって言ってもらうのって、凄く嬉しい！",
+            "zh": "自己亲手做的东西被人夸好吃，真的超级开心！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "105/SEL",
+            "narrator": "",
+            "text": "全部食べられちゃうよ？",
+            "zh": "要被全部吃光了哦？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "106/SEL",
+            "narrator": "",
+            "text": "一人でも作れる？",
+            "zh": "一个人也能做吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "107/SEL",
+            "narrator": "",
+            "text": "みやびのお母さん凄過ぎ",
+            "zh": "雅的妈妈太厉害了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "108/ACT",
+            "narrator": "",
+            "text": "全部食べられちゃうよ？",
+            "zh": "要被全部吃光了哦？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "109/TALK",
+            "narrator": "ガブリエラ",
+            "text": "え？",
+            "zh": "哎？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "121/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ちょ、あんた達食べ過ぎ！\n半分近くなくなってる\nじゃない！？",
+            "zh": "等、你们吃太多了吧！\n这不都快少了一半\n了吗！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "123/TALK",
+            "narrator": "アーヤ",
+            "text": "あっ…ご、ごめん！\n凄く美味しくて、つい…。",
+            "zh": "啊……对、对不起！\n实在太好吃了，不知不觉就……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "126/TALK",
+            "narrator": "神楽",
+            "text": "わ、私もです…。\nつい手が止まらなく\nなちゃって…。",
+            "zh": "我、我也是……。\n一不小心就停不\n下来了……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "127/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そう言ってもらえるのは\n嬉しいけど…。",
+            "zh": "听你们这么夸我\n是很开心啦……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "128/TALK",
+            "narrator": "ガブリエラ",
+            "text": "一応それ、あたしの\nお昼ご飯でもあったん\nだけど…。",
+            "zh": "但姑且这还算是\n我自己的午饭\n来着……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "129/TALK",
+            "narrator": "ガブリエラ",
+            "text": "はぁ…まあ、いいわ。\nそこまで気に入って\nもらえたなら――",
+            "zh": "唉……算了，也罢。\n既然你们这么\n喜欢的话――",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "130/TALK",
+            "narrator": "ガブリエラ",
+            "text": "悪い気はしないし。",
+            "zh": "我心里也不算坏嘛。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "131/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あたしは新しいの\n作るから、それは\n食べちゃっていいわよ。",
+            "zh": "我再去重新做一份，\n那份你们就\n全吃了吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "134/TALK",
+            "narrator": "アーヤ",
+            "text": "またこのサラダ作るの？",
+            "zh": "还要再做这个沙拉吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "135/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうだけど…。",
+            "zh": "是啊……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "136/TALK",
+            "narrator": "アーヤ",
+            "text": "それなら、私達の分も\n作ってもらいたいな。",
+            "zh": "那能顺便把我们的份\n也一起做了吗。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "ガブリエラ",
+            "text": "まだ食べるつもり？",
+            "zh": "你们还打算接着吃啊？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "140/TALK",
+            "narrator": "アーヤ",
+            "text": "だって、本当に凄く\n美味しいんだもの。",
+            "zh": "因为真的超级\n好吃嘛。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "神楽",
+            "text": "私も、もう少し食べたい\nです。",
+            "zh": "我也想再多吃\n一点。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "143/TALK",
+            "narrator": "つばめ",
+            "text": "わたしも。\nお願いガブちゃん。",
+            "zh": "我也是。\n拜托啦加布。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "145/TALK",
+            "narrator": "ガブリエラ",
+            "text": "はぁ…\n本当、仕方ないわね。",
+            "zh": "唉……\n真是的，拿你们没办法。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "ガブリエラ",
+            "text": "少し時間かかるけど、\nそれでもいいなら\n作ってあげるから――",
+            "zh": "会花点时间就是了，\n如果不介意的话\n我就做给你们吧――",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "147/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だらしない格好して\nないで、ちゃんと\n待ってるのよ？",
+            "zh": "别摆出那副懒散的样子，\n给我老老实实\n等着哦？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "150/TALK",
+            "narrator": "つばめ",
+            "text": "うん！",
+            "zh": "嗯！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "151/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…じゃあ、\nちょっと待ってなさい。",
+            "zh": "……那，\n稍微等一下哦。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "152/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…なんか、料理の楽しさに\n目覚めちゃうかも。",
+            "zh": "……总觉得，说不定会就此\n觉醒做菜的乐趣呢。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "153/ACT",
+            "narrator": "",
+            "text": "一人でも作れる？",
+            "zh": "一个人也能做吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "155/TALK",
+            "narrator": "ガブリエラ",
+            "text": "もちろん、ちゃんとメモは取ってあるもの",
+            "zh": "那当然，我可是好好记了笔记的",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "156/TALK",
+            "narrator": "ガブリエラ",
+            "text": "これさえあれば、一人でも問題なく作れるわ",
+            "zh": "只要有这个，我一个人也能毫无问题地做出来",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "167/TALK",
+            "narrator": "アーヤ",
+            "text": "ねえ、ギャヴィ。\nサラダ以外にも\n何か教わったの？",
+            "zh": "呐，加维。\n除了沙拉以外，\n还学了什么吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "170/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ううん、まだサラダしか\n教わってないけど――",
+            "zh": "没，现在还只学了\n沙拉而已――",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "171/TALK",
+            "narrator": "ガブリエラ",
+            "text": "また後で、違うのを\n教えてくれるって\n言ってたわ。",
+            "zh": "不过她说之后还会\n再教我做别的\n菜呢。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "173/TALK",
+            "narrator": "神楽",
+            "text": "何を教えてもらえるかは\n聞いてないんですか？",
+            "zh": "没问过要教你做\n什么吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "174/TALK",
+            "narrator": "ガブリエラ",
+            "text": "うん、その時までの\nお楽しみだって。",
+            "zh": "嗯，说是要留到那时候\n当成惊喜。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "176/TALK",
+            "narrator": "つばめ",
+            "text": "そうなんだ…。\n出来上がったら、\nまた味見させてね。",
+            "zh": "这样呀……。\n做好了之后，\n记得再让我们尝尝哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "179/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…そう来ると思った。\nじゃあ、少し多めに\n作るようにするわ。",
+            "zh": "……就知道你们会这么说。\n那我就试着稍微\n多做一点吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "180/ACT",
+            "narrator": "",
+            "text": "みやびのお母さん凄過ぎ",
+            "zh": "雅的妈妈太厉害了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "181/TALK",
+            "narrator": "ガブリエラ",
+            "text": "もぅ、ここはあたしを褒めるところじゃないの？",
+            "zh": "真是的，这里难道不该是夸我的时候吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "195/TALK",
+            "narrator": "ガブリエラ",
+            "text": "はぁ…。",
+            "zh": "唉……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "198/TALK",
+            "narrator": "神楽",
+            "text": "ため息なんか吐いて、\nどうしたんですか？",
+            "zh": "怎么叹起气来了，\n发生什么事了吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "199/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…別に、何でもないわ。",
+            "zh": "……没什么，不用在意。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "201/TALK",
+            "narrator": "つばめ",
+            "text": "もしかして、ガブちゃんも\n夏バテ気味？",
+            "zh": "难道说，加布也有点\n苦夏了吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "202/TALK",
+            "narrator": "つばめ",
+            "text": "このサラダ食べて、\nシャキッとした方が\nいいよ。",
+            "zh": "还是吃点这个沙拉，\n打起精神来\n比较好哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "205/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうね、ありが――",
+            "zh": "是啊，谢――",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "207/TALK",
+            "narrator": "ガブリエラ",
+            "text": "って、あたしが作った\nサラダでしょ！",
+            "zh": "不对，这可是我做的\n沙拉吧！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "209/TALK",
+            "narrator": "アーヤ",
+            "text": "この合宿、ギャヴィに\nとっては料理合宿も\n兼ねたものになりそうね。",
+            "zh": "这次合宿，对加维来说\n说不定还会兼作一场\n料理合宿呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "210/TALK",
+            "narrator": "神楽",
+            "text": "ここで美味しい料理の\n作り方をいっぱい教わ\nって――",
+            "zh": "在这里多学点\n美味料理的做\n法――",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "211/TALK",
+            "narrator": "神楽",
+            "text": "東京に帰ってから、\n美味しい物作って\n食べさせてくださいね。",
+            "zh": "等回到东京之后，\n再做些好吃的\n给我们吃吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "214/TALK",
+            "narrator": "つばめ",
+            "text": "こんなに美味しいなら、\n毎日だって喜んで\n食べるよ。",
+            "zh": "要是都这么好吃的话，\n天天吃我也乐意\n哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "217/TALK",
+            "narrator": "ガブリエラ",
+            "text": "自分で作るの怠けたい\nだけでしょ？\nまったく…。",
+            "zh": "你们只是懒得自己做\n而已吧？\n真是的……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "218/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…まあ、こんなに沢山\n褒めてもらえるなら――",
+            "zh": "……算了，既然能被这么\n夸奖的话――",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "219/TALK",
+            "narrator": "ガブリエラ",
+            "text": "たまには良いかしら？",
+            "zh": "偶尔这样倒也不坏吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "20/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>8月21日　 1:48 PM</color>\n合宿中、みやびの実家でのこと",
+            "zh": "<color=green>8月21日　 1:48 PM</color>\n合宿期间，在雅的老家",
+            "narrator_zh": "Dialog_EventData"
+        }
+    ]
+}

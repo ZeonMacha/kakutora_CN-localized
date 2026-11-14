@@ -1,0 +1,868 @@
+{
+    "dir": "chap19/daydra/dd_ch03_19_010.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "19352",
+        "cid": "gabriella",
+        "title": "Extra002 プレミアムストーリー",
+        "sub_title": "岩場の洞窟",
+        "title_zh": "Extra002 额外剧情",
+        "sub_title_zh": "礁岩洞窟"
+    },
+    "entry": [
+        {
+            "location": "7/SCENARIO",
+            "narrator": "",
+            "text": "岩場の洞窟",
+            "zh": "礁岩洞窟",
+            "narrator_zh": ""
+        },
+        {
+            "location": "18/TALK",
+            "narrator": "ガブリエラ",
+            "text": "えっと、水着とタオル、\nそれと懐中電灯、と…。",
+            "zh": "那个，泳衣和毛巾，\n还有手电筒，嗯……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "20/TALK",
+            "narrator": "ガブリエラ",
+            "text": "うん、準備ＯＫ！",
+            "zh": "嗯，准备OK！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "ガブリエラ",
+            "text": "$marzanna$、今日は面白いところに連れて行ってあげるわ",
+            "zh": "$marzanna$，今天我带你去个好玩的地方",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "34/SEL",
+            "narrator": "",
+            "text": "どこに行くつもりなの？",
+            "zh": "你打算去哪里？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "35/ACT",
+            "narrator": "",
+            "text": "どこに行くつもりなの？",
+            "zh": "你打算去哪里？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "37/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ネットで調べてて見つけたの",
+            "zh": "我在网上查资料时找到的",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "38/TALK",
+            "narrator": "ガブリエラ",
+            "text": "この近くに岩場になってる海岸があるんだけど",
+            "zh": "这附近有一片全是礁石的海岸",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "39/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そこにね、見つけ辛いけど、綺麗な洞窟があるらしいの",
+            "zh": "听说那里虽然不太好找，但有个很漂亮的洞窟",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "40/TALK",
+            "narrator": "ガブリエラ",
+            "text": "どう、面白そうでしょ？",
+            "zh": "怎么样，听起来挺有趣吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "42/SEL",
+            "narrator": "",
+            "text": "一人で行くの？",
+            "zh": "你一个人去吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "43/ACT",
+            "narrator": "",
+            "text": "一人で行くの？",
+            "zh": "你一个人去吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "45/TALK",
+            "narrator": "ガブリエラ",
+            "text": "$marzanna$がいるから、一人じゃないわ",
+            "zh": "有$marzanna$在，可不算一个人哦",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "46/TALK",
+            "narrator": "ガブリエラ",
+            "text": "まあ、ちょっとは不安だけど…",
+            "zh": "嘛，虽然心里还是有点不安……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "48/TALK",
+            "narrator": "ガブリエラ",
+            "text": "でも、危ないことするわけじゃないし、平気よ",
+            "zh": "不过，又不是要去做什么危险的事，没问题的",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "50/SEL",
+            "narrator": "",
+            "text": "誰か誘った方が良い",
+            "zh": "还是叫上谁一起比较好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "51/SEL",
+            "narrator": "",
+            "text": "洞窟の怪談話を知ってる",
+            "zh": "我知道关于洞窟的怪谈哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "52/SEL",
+            "narrator": "",
+            "text": "ちょっとした冒険だね",
+            "zh": "算是一场小冒险呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "53/ACT",
+            "narrator": "",
+            "text": "誰か誘った方が良い",
+            "zh": "还是叫上谁一起比较好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "54/TALK",
+            "narrator": "ガブリエラ",
+            "text": "もぅ、$marzanna$は心配性なんだから",
+            "zh": "真是的，$marzanna$就是爱操心",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "66/TALK",
+            "narrator": "ガブリエラ",
+            "text": "でも、もしものことも\n考えて、やっぱり誰か\n誘おうかしら？",
+            "zh": "不过，考虑到万一的情况，\n果然还是叫上谁\n一起去吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "68/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…つばめ、神楽。\n今日は海に行くの？",
+            "zh": "……燕、神乐。\n你们今天要去海边吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "71/TALK",
+            "narrator": "つばめ",
+            "text": "うん、午前中だけ泳ぎに\n行こうと思うんだ。",
+            "zh": "嗯，打算趁着上午\n去游个泳哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "74/TALK",
+            "narrator": "神楽",
+            "text": "今日は一段と暑いから、\nきっと気持ちいいと\n思うんです。",
+            "zh": "今天格外热呢，\n泡在水里肯定\n会很舒服的。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "75/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そう…それなら、\nちょっとだけ遠くの\n岩場に行ってみない？",
+            "zh": "这样啊……那不如，\n要不要去稍微远一点的\n礁石滩看看？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "神楽",
+            "text": "えっ、岩場ですか？",
+            "zh": "哎，礁石滩吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "78/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ネットで見つけたん\nだけど、綺麗な洞窟が\nあるらしいの。",
+            "zh": "我在网上查到的，\n听说那里有个\n很漂亮的洞窟。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "79/TALK",
+            "narrator": "ガブリエラ",
+            "text": "興味あるなら、\n二人も一緒にどう？",
+            "zh": "要是感兴趣的话，\n你们俩要不要一起去？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "80/TALK",
+            "narrator": "つばめ",
+            "text": "わぁ、楽しそうだよ\n卯月さん！",
+            "zh": "哇，听起来好好玩呀\n卯月！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "81/TALK",
+            "narrator": "つばめ",
+            "text": "一緒に行くよ。\nどんな洞窟なのか\n見てみたいな。",
+            "zh": "一起去吧。\n真想看看究竟是\n什么样的洞窟呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ん、つばめは決まりね。\n神楽はどうする？",
+            "zh": "嗯，燕算定下来了。\n神乐你呢？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "神楽",
+            "text": "絶対行きません！",
+            "zh": "绝对不去！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "ガブリエラ",
+            "text": "え、何でよ？",
+            "zh": "哎，为什么啊？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "85/TALK",
+            "narrator": "神楽",
+            "text": "だって、岩場ですよね？\nおまけに洞窟なんて――",
+            "zh": "因为，那是礁石滩对吧？\n而且还要钻洞窟什么的——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "86/TALK",
+            "narrator": "神楽",
+            "text": "フナ虫とコウモリが\nウジャウジャいそうじゃ\nないですか。",
+            "zh": "感觉海蟑螂和蝙蝠\n肯定多得密密麻麻的\n不是吗。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "88/TALK",
+            "narrator": "つばめ",
+            "text": "ふ、フナ虫！？",
+            "zh": "海、海蟑螂！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "89/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ちょ！？　神楽！\nあんた何てこと言うのよ！",
+            "zh": "喂！？神乐！\n你瞎说什么呢！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "90/TALK",
+            "narrator": "神楽",
+            "text": "だって、本当のことじゃ\nないですか。",
+            "zh": "可是，我说的难道\n不是事实吗。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "神楽",
+            "text": "私は遠慮します。\nフナ虫もコウモリも\n苦手なので。",
+            "zh": "我就免了。\n海蟑螂也好蝙蝠也好\n我都应付不来。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "93/TALK",
+            "narrator": "つばめ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "94/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "96/TALK",
+            "narrator": "つばめ",
+            "text": "が、ガブちゃん…\nわたしも、フナ虫は\nちょっと苦手で…。",
+            "zh": "加、加布……\n其实我，也对海蟑螂\n有点应付不来……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "97/TALK",
+            "narrator": "ガブリエラ",
+            "text": "わかってる。\nあたしも、もう行く気が\n失せちゃったわ…。",
+            "zh": "我知道。\n其实我自己，也已经完全\n没兴致去了……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "99/TALK",
+            "narrator": "神楽",
+            "text": "砂浜が一番ですよ。\n岩場より、そっちの方が\n安心です。",
+            "zh": "还是沙滩最好哦。\n比起礁石滩，去那边\n才让人安心。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "100/ACT",
+            "narrator": "",
+            "text": "洞窟の怪談話を知ってる",
+            "zh": "我知道关于洞窟的怪谈哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "101/TALK",
+            "narrator": "ガブリエラ",
+            "text": "どうしてそういうこと言うの！？",
+            "zh": "干嘛突然说这种话啊！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そんなこと言われたら、行く気なくなっちゃうじゃない…",
+            "zh": "被你这么一说，不就没兴致去了嘛……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "ガブリエラ",
+            "text": "もう、$marzanna$のバカ！",
+            "zh": "真是的，$marzanna$是个大笨蛋！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "115/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…せっかく楽しみに\nしてたのに。",
+            "zh": "……明明难得\n这么期待的。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "117/TALK",
+            "narrator": "つばめ",
+            "text": "あっ、ガブちゃん。\nこれから海に行くん\nだけど――",
+            "zh": "啊，加布。\n我们待会儿要去海边，\n那个——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "118/TALK",
+            "narrator": "ガブリエラ",
+            "text": "行かない！\n今日は一日家にいるわ！",
+            "zh": "不去！\n今天一整天我都待在家里！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "119/TALK",
+            "narrator": "つばめ",
+            "text": "そ、そっか…。",
+            "zh": "这、这样啊……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "121/TALK",
+            "narrator": "つばめ",
+            "text": "なんか、機嫌悪いみたい。\n何かあったのかな？",
+            "zh": "她好像心情不太好呀。\n发生什么事了吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "122/ACT",
+            "narrator": "",
+            "text": "ちょっとした冒険だね",
+            "zh": "算是一场小冒险呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "124/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうね",
+            "zh": "是啊",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "125/TALK",
+            "narrator": "ガブリエラ",
+            "text": "冒険って言われたら、ワクワクしてきちゃった",
+            "zh": "被你这么一说“冒险”，我倒真有点兴奋起来了",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "126/TALK",
+            "narrator": "ガブリエラ",
+            "text": "準備に戻るわね",
+            "zh": "那我回去继续准备了哦",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ふふっ…素敵なところだと\n良いな…。",
+            "zh": "呼呼……要是个很棒的地方\n就好了……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "170/TALK",
+            "narrator": "ガブリエラ",
+            "text": "えっと…確かここを\nもう少し進むと――",
+            "zh": "那个……记得沿着这里\n再往前走一点的话——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "172/TALK",
+            "narrator": "雛",
+            "text": "うわぁぁぁぁぁっ！？\nふ、フナ虫！！\n海のゴキブリ！！",
+            "zh": "哇啊啊啊啊啊！？\n海、海蟑螂！！\n海里的蟑螂！！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "174/TALK",
+            "narrator": "キリト",
+            "text": "おいおい、騒ぎ過ぎだろ？\n別に噛みつきゃしねぇん\nだぞ？",
+            "zh": "喂喂，用得着叫那么大声吗？\n它又不会咬人，\n怕什么啊？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "177/TALK",
+            "narrator": "雛",
+            "text": "気持ち悪いじゃん！！\nうわっ、こっちにも！？",
+            "zh": "可是看着就很恶心嘛！！\n哇，这边也有！？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "179/TALK",
+            "narrator": "ヒカル",
+            "text": "ヒナコさん、こっちの方は\nいないみたいですよ。",
+            "zh": "雏子，这边好像\n没有哦。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "181/TALK",
+            "narrator": "キリト",
+            "text": "ったく、フナ虫が怖いのに\n岩場に来るからこうなるん\nだよ。",
+            "zh": "真是的，明明怕海蟑螂\n还非要跟到礁石滩来，\n活该这样。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "183/TALK",
+            "narrator": "雛",
+            "text": "怖いんじゃなくて\n気持ち悪いの！",
+            "zh": "不是怕，\n是觉得恶心！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "186/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "188/TALK",
+            "narrator": "雛",
+            "text": "ねえ、ガブリエラちゃん。\n早く洞窟行こうよー。",
+            "zh": "呐，加布里埃拉。\n咱们快去洞窟吧—。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "189/TALK",
+            "narrator": "雛",
+            "text": "ここは虫だらけで\n落ち着けないよ…。",
+            "zh": "这里到处都是虫子，\n让人静不下心来呀……。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "191/TALK",
+            "narrator": "ガブリエラ",
+            "text": "知らないわよ。\nっていうか、勝手について\n来たのはあんた達でしょ？",
+            "zh": "我才不管呢。\n话说回来，擅自跟过来的\n不就是你们几个吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "192/TALK",
+            "narrator": "雛",
+            "text": "だって、一人でどこかに\n行くのが見えたから――",
+            "zh": "谁叫我们看见你一个人\n不知道要往哪儿走嘛——",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "193/TALK",
+            "narrator": "雛",
+            "text": "またみんなとケンカして、\n居づらくなっちゃったの\nかなぁ、って――",
+            "zh": "还以为你是不是又跟大家吵架，\n待不下去才跑出来的\n呢——",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "194/TALK",
+            "narrator": "雛",
+            "text": "優しいお姉さんは、\n心配になっちゃったん\nだよ。",
+            "zh": "温柔的大姐姐我呀，\n就忍不住\n担心起来了嘛。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "198/TALK",
+            "narrator": "ガブリエラ",
+            "text": "勘違いってわかったん\nだから、もう帰って\nいいのに…。",
+            "zh": "既然已经知道是误会了，\n现在回去\n不就好了嘛……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "201/TALK",
+            "narrator": "キリト",
+            "text": "洞窟探検なんて楽しそうな\nことするのわかってて、\n帰れるわけねぇだろ、な？",
+            "zh": "明知道你们要去搞洞窟探险\n这么好玩的事，\n怎么可能半路回去啊，对吧？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "203/TALK",
+            "narrator": "ヒカル",
+            "text": "そうですね。\n綺麗な洞窟という\nことなので――",
+            "zh": "确实如此。\n听说是个很漂亮的\n洞窟呢——",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "204/TALK",
+            "narrator": "ヒカル",
+            "text": "ガブリエラさんさえ\n良ければ、ご一緒させて\nもらえませんか？",
+            "zh": "只要加布里埃拉你不介意，\n能让我们\n一起同行吗？",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "206/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "207/TALK",
+            "narrator": "雛",
+            "text": "というわけ。",
+            "zh": "就是这么回事。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "208/TALK",
+            "narrator": "雛",
+            "text": "まあ、どうしても\n一人で行きたい、って\n言うなら――",
+            "zh": "嘛，如果你无论如何\n都非要一个人去\n的话——",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "209/TALK",
+            "narrator": "雛",
+            "text": "あたし達はこのまま\n帰るけど…。",
+            "zh": "那我们也就只好\n直接回去了……。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "211/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…別に、付いてきたいなら\n構わないけど――",
+            "zh": "……倒也不是，你们想跟过来\n我也无所谓啦——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "212/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ただ、あたしもどういう\n場所なのか、よく知らない\nから――",
+            "zh": "只不过，我自己也不太清楚\n那到底是\n个什么地方——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "213/TALK",
+            "narrator": "ガブリエラ",
+            "text": "しょぼかったりしても、\n責任取れないわよ？",
+            "zh": "就算到时候看着很寒酸，\n我可不负责任哦？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "215/TALK",
+            "narrator": "雛",
+            "text": "了解であります、隊長！",
+            "zh": "收到，队长！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "218/TALK",
+            "narrator": "キリト",
+            "text": "おっ、隊長隊長！\n前方にそれらしい穴が\n見えるぜ！",
+            "zh": "哦，队长队长！\n前方发现一个看起来\n像样的洞口啦！",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "220/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あれは…ネットで見た\n写真に似てるかも…。",
+            "zh": "那个……跟我在网上看到的\n照片好像挺像的……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "221/TALK",
+            "narrator": "雛",
+            "text": "あそこでいいの、隊長？",
+            "zh": "就是那里没错吧，队长？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "222/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ええ、間違いないわ。\n急ぎましょ！",
+            "zh": "嗯，错不了。\n我们快过去吧！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "223/TALK",
+            "narrator": "雛",
+            "text": "あ、待って隊長！",
+            "zh": "啊，等等啊队长！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "225/TALK",
+            "narrator": "ガブリエラ",
+            "text": "っていうか、\n隊長っていうのやめて！",
+            "zh": "话说回来，\n别一直叫我队长啦！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "226/TALK",
+            "narrator": "雛",
+            "text": "了解であります、隊長！",
+            "zh": "收到，队长！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "228/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…まったく。",
+            "zh": "……真是的。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "270/TALK",
+            "narrator": "キリト",
+            "text": "おおっ、すげぇ！！\nなんだここ！？",
+            "zh": "哦哦，太厉害了！！\n这里是什么地方啊！？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "271/TALK",
+            "narrator": "ヒカル",
+            "text": "洞窟の中が、ちょっとした\n砂浜になってるんですね。",
+            "zh": "洞窟里面竟然形成了一片\n小小的沙滩呢。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "272/TALK",
+            "narrator": "ヒカル",
+            "text": "岩場だらけの中に、\nまさかこんな場所が\nあるなんて…。",
+            "zh": "在一片乱石嶙峋之中，\n没想到还藏着这样的\n地方……。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "274/TALK",
+            "narrator": "雛",
+            "text": "凄いよガブリエラちゃん！\nここ最高だよー！",
+            "zh": "太厉害了加布里埃拉！\n这里简直绝了—！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "276/TALK",
+            "narrator": "雛",
+            "text": "なんか秘密基地みたいで、\n超テンション上がるね！",
+            "zh": "感觉就像秘密基地一样，\n超让人兴奋的！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "278/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…そうね。",
+            "zh": "……是啊。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "281/TALK",
+            "narrator": "キリト",
+            "text": "ん？　なんかテンション\n低くねぇか？",
+            "zh": "嗯？怎么感觉你情绪\n不太高啊？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "282/TALK",
+            "narrator": "雛",
+            "text": "もしかして、あんまり\n気に入ってないの？",
+            "zh": "难道说，你不太\n喜欢这里吗？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "283/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あ、ううん。\nそうじゃないの。",
+            "zh": "啊，没有啦。\n不是那样的。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "285/TALK",
+            "narrator": "ガブリエラ",
+            "text": "秘密基地みたいで、\nあたしも凄く良いところ\nだとは思ってるけど――",
+            "zh": "像秘密基地一样，\n我也觉得这里是个\n非常棒的地方——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "288/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ちょっと、想像してたの\nとは違ったから…。",
+            "zh": "只是，跟我原本想象的\n有点不太一样……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "289/TALK",
+            "narrator": "雛",
+            "text": "どんなの想像してたの？",
+            "zh": "你原本想象的是什么样的呀？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "290/TALK",
+            "narrator": "ガブリエラ",
+            "text": "青の洞窟みたいなのよ。",
+            "zh": "就像蓝洞那样的啦。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "293/TALK",
+            "narrator": "キリト",
+            "text": "青の洞窟？",
+            "zh": "蓝洞？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "295/TALK",
+            "narrator": "ヒカル",
+            "text": "陽の光が反射することで、\n洞窟内の海水が――",
+            "zh": "阳光照射进去发生反射，\n使得洞窟里的海水——",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "296/TALK",
+            "narrator": "ヒカル",
+            "text": "綺麗な青色に見える\n洞窟があるんですよ。",
+            "zh": "呈现出绚丽蓝色的\n一种海蚀洞哦。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "298/TALK",
+            "narrator": "キリト",
+            "text": "…なんか、テレビで見た\nことある気がするけど、\nそりゃ期待し過ぎだろ。",
+            "zh": "……我好像在电视上\n见过类似的地方，\n不过你这也期待过头了吧。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "301/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "303/TALK",
+            "narrator": "キリト",
+            "text": "…でもまあ、ここだって\nすっげぇ良い洞窟だと\n思うけどな。",
+            "zh": "……不过嘛，我觉得这里\n也已经是个超棒的洞窟\n了啊。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "304/TALK",
+            "narrator": "キリト",
+            "text": "雛も言ってたけど、\n秘密基地みたいだし。",
+            "zh": "雏也说了嘛，\n就跟秘密基地似的。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "305/TALK",
+            "narrator": "雛",
+            "text": "ね？　ね？\nテンションめっちゃ\n上がるよね！？",
+            "zh": "对吧？对吧？\n超让人兴奋的\n对不对！？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "307/TALK",
+            "narrator": "雛",
+            "text": "それに、ここに来るまでも\n超楽しかったし。",
+            "zh": "而且，来这一路也\n超级开心嘛。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "308/TALK",
+            "narrator": "ヒカル",
+            "text": "同感です。",
+            "zh": "我也有同感。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "309/TALK",
+            "narrator": "ヒカル",
+            "text": "連れてきていただいて、\nありがとうございます。\n隊ちょ――",
+            "zh": "谢谢你带我们来这里，\n真是太感谢了。\n队——",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "312/TALK",
+            "narrator": "ガブリエラ",
+            "text": "っ！？",
+            "zh": "唔！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "314/TALK",
+            "narrator": "ヒカル",
+            "text": "あ、すみません！\nガブリエラさん…。",
+            "zh": "啊，抱歉！\n加布里埃拉……。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "315/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "318/TALK",
+            "narrator": "ガブリエラ",
+            "text": "まあ、楽しかったから\nそれで良いか…。",
+            "zh": "嘛，反正玩得挺开心，\n这样也不错吧……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "17/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>8月22日　10:23 AM</color>\n合宿中、みやびの実家にて",
+            "zh": "<color=green>8月22日　10:23 AM</color>\n合宿中，在雅的老家",
+            "narrator_zh": "Dialog_EventData"
+        }
+    ]
+}

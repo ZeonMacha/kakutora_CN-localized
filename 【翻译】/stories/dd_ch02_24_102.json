@@ -1,0 +1,805 @@
+{
+    "dir": "chap24/daydra/dd_ch02_24_102.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "24205",
+        "cid": "ayami",
+        "title": "005 メインストーリー",
+        "sub_title": "貴方を憂う手紙＜後編＞",
+        "title_zh": "005 主线剧情",
+        "sub_title_zh": "为你担忧的信＜后篇＞"
+    },
+    "entry": [
+        {
+            "location": "483/TALK",
+            "narrator": "アーヤ",
+            "text": "…ううん。\nやっぱり、ダメ！",
+            "zh": "……不对。\n果然，不行！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "484/TALK",
+            "narrator": "アーヤ",
+            "text": "館長のことはもちろん\n気になるけど、それだけで\n動いたらいけないわ。",
+            "zh": "我当然很担心\n馆长，但也不能\n光凭这个就贸然行动。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "485/TALK",
+            "narrator": "アーヤ",
+            "text": "館長がいない間は、\n私が代わりをしなきゃ\nいけないんだし。",
+            "zh": "在馆长不在的期间，\n必须由我来\n顶替她的位置才行。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "486/TALK",
+            "narrator": "アーヤ",
+            "text": "…大丈夫。",
+            "zh": "……没问题的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "487/TALK",
+            "narrator": "アーヤ",
+            "text": "私にはできるって、\n館長は信じてくれたん\nだから…。",
+            "zh": "馆长她相信着\n我能做到才托付给我的\n……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "489/TALK",
+            "narrator": "アーヤ",
+            "text": "…ねえ、ギャヴィ。",
+            "zh": "……呐，加维。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "492/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ん？　なに？",
+            "zh": "嗯？　怎么了？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "493/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "495/TALK",
+            "narrator": "アーヤ",
+            "text": "ううん、ごめん。\n何でもない。",
+            "zh": "没、没事，抱歉。\n什么都没有。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "496/TALK",
+            "narrator": "ガブリエラ",
+            "text": "は？　何よそれ…。\nまあ、いいけど…。",
+            "zh": "哈？　什么跟什么啊……。\n算了，随你便……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "497/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "509/TALK",
+            "narrator": "アーヤ",
+            "text": "みんなに聞けない質問",
+            "zh": "有个没法问大家的问题",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "511/TALK",
+            "narrator": "アーヤ",
+            "text": "聞いてくれる？(￣Д￣ )",
+            "zh": "你愿意听听吗？(￣Д￣ )",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "513/SEL",
+            "narrator": "",
+            "text": "そのために$me$がいる",
+            "zh": "就是为了这个$me$才在的呀",
+            "narrator_zh": ""
+        },
+        {
+            "location": "514/ACT",
+            "narrator": "",
+            "text": "そのために$me$がいる",
+            "zh": "就是为了这个$me$才在的呀",
+            "narrator_zh": ""
+        },
+        {
+            "location": "516/TALK",
+            "narrator": "アーヤ",
+            "text": "ありがと(^^",
+            "zh": "谢谢(^^",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "520/TALK",
+            "narrator": "アーヤ",
+            "text": "もしもだけど",
+            "zh": "我是说如果",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "521/TALK",
+            "narrator": "アーヤ",
+            "text": "館長が戻ってこなかったら",
+            "zh": "要是馆长回不来的话",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "522/TALK",
+            "narrator": "アーヤ",
+            "text": "その時は",
+            "zh": "到那个时候",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "523/TALK",
+            "narrator": "アーヤ",
+            "text": "救出に行かないといけないの",
+            "zh": "我们就必须去救她才行吧",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "524/SEL",
+            "narrator": "",
+            "text": "ええと？",
+            "zh": "呃？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "525/SEL",
+            "narrator": "",
+            "text": "何？　ゲームの話？",
+            "zh": "什么？　在说游戏的事吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "526/SEL",
+            "narrator": "",
+            "text": "寝坊してるだけじゃない？",
+            "zh": "会不会只是睡过头了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "527/TALK",
+            "narrator": "アーヤ",
+            "text": "でも相手は情報管理庁だから",
+            "zh": "但对手可是情报管理厅",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "528/TALK",
+            "narrator": "アーヤ",
+            "text": "こっちの戦力なんて把握されてるだろうし",
+            "zh": "我们这边的战力大概早就被摸透了",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "529/TALK",
+            "narrator": "アーヤ",
+            "text": "役に立てるのかしら？",
+            "zh": "就算去了真能派上用场吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "531/ACT",
+            "narrator": "",
+            "text": "ええと？",
+            "zh": "呃？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "532/TALK",
+            "narrator": "アーヤ",
+            "text": "あれ？",
+            "zh": "哎？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "533/ACT",
+            "narrator": "",
+            "text": "何？　ゲームの話？",
+            "zh": "什么？　在说游戏的事吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "534/TALK",
+            "narrator": "アーヤ",
+            "text": "違うわよ",
+            "zh": "不是啦",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "535/ACT",
+            "narrator": "",
+            "text": "寝坊してるだけじゃない？",
+            "zh": "会不会只是睡过头了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "536/TALK",
+            "narrator": "アーヤ",
+            "text": "そうかも",
+            "zh": "说不定呢",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "537/TALK",
+            "narrator": "アーヤ",
+            "text": "だったら",
+            "zh": "要是那样",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "538/TALK",
+            "narrator": "アーヤ",
+            "text": "いいんだけど",
+            "zh": "就好了",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "540/TALK",
+            "narrator": "アーヤ",
+            "text": "えっとね",
+            "zh": "那个呀",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "541/TALK",
+            "narrator": "アーヤ",
+            "text": "以前館長が私に言ってたの",
+            "zh": "之前馆长曾经对我说过",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "542/TALK",
+            "narrator": "アーヤ",
+            "text": "何かあったら後を頼むみたいなこと",
+            "zh": "类似于要是有个万一后面就拜托我了之类的话",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "544/SEL",
+            "narrator": "",
+            "text": "把握した",
+            "zh": "我明白了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "545/SEL",
+            "narrator": "",
+            "text": "それでいいんじゃない",
+            "zh": "那样不也挺好吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "546/SEL",
+            "narrator": "",
+            "text": "さすがはアーヤ",
+            "zh": "不愧是绫水",
+            "narrator_zh": ""
+        },
+        {
+            "location": "547/ACT",
+            "narrator": "",
+            "text": "把握した",
+            "zh": "我明白了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "548/TALK",
+            "narrator": "アーヤ",
+            "text": "よかった",
+            "zh": "那就好",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "549/ACT",
+            "narrator": "",
+            "text": "それでいいんじゃない",
+            "zh": "那样不也挺好吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "550/TALK",
+            "narrator": "アーヤ",
+            "text": "よくないわよ",
+            "zh": "一点都不好",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "551/ACT",
+            "narrator": "",
+            "text": "さすがはアーヤ",
+            "zh": "不愧是绫水",
+            "narrator_zh": ""
+        },
+        {
+            "location": "552/TALK",
+            "narrator": "アーヤ",
+            "text": "おだてないでいいから",
+            "zh": "就别拿话捧我了",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "554/TALK",
+            "narrator": "アーヤ",
+            "text": "それで",
+            "zh": "所以",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "556/TALK",
+            "narrator": "アーヤ",
+            "text": "その前に助けに行くべきだって思ったんだけど",
+            "zh": "我本来觉得在那之前应该去救她才对",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "557/TALK",
+            "narrator": "アーヤ",
+            "text": "管理庁相手だと無理かもしれない",
+            "zh": "但对手如果是管理厅的话或许办不到",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "559/SEL",
+            "narrator": "",
+            "text": "気弱になるな！",
+            "zh": "别那么泄气啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "560/SEL",
+            "narrator": "",
+            "text": "まあそうだろうね……",
+            "zh": "也是呢……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "561/SEL",
+            "narrator": "",
+            "text": "他に手はないのかな？",
+            "zh": "就没有别的办法了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "562/ACT",
+            "narrator": "",
+            "text": "気弱になるな！",
+            "zh": "别那么泄气啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "563/TALK",
+            "narrator": "アーヤ",
+            "text": "これは冷静な判断よ",
+            "zh": "我这是冷静的判断哦",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "564/ACT",
+            "narrator": "",
+            "text": "まあそうだろうね……",
+            "zh": "也是呢……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "565/TALK",
+            "narrator": "アーヤ",
+            "text": "やっぱりそうよね、、、",
+            "zh": "果然是这样吧……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "566/ACT",
+            "narrator": "",
+            "text": "他に手はないのかな？",
+            "zh": "就没有别的办法了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "567/TALK",
+            "narrator": "アーヤ",
+            "text": "それはもちろん考えるけど",
+            "zh": "那个我当然也会想办法",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "569/TALK",
+            "narrator": "アーヤ",
+            "text": "館長が戻る間は",
+            "zh": "在馆长回来之前",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "570/TALK",
+            "narrator": "アーヤ",
+            "text": "必然的に私が代わりになるの",
+            "zh": "势必得由我来暂代她的位置",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "571/TALK",
+            "narrator": "アーヤ",
+            "text": "おかしいこと",
+            "zh": "我这话没说错",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "572/TALK",
+            "narrator": "アーヤ",
+            "text": "言ってないわよね？",
+            "zh": "对吧？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "574/SEL",
+            "narrator": "",
+            "text": "やるしかないね",
+            "zh": "也只能上了呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "575/SEL",
+            "narrator": "",
+            "text": "どーんといけ",
+            "zh": "放手大胆去吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "576/SEL",
+            "narrator": "",
+            "text": "代役くらいならね",
+            "zh": "只是代班的话没问题啦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "577/ACT",
+            "narrator": "",
+            "text": "やるしかないね",
+            "zh": "也只能上了呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "579/TALK",
+            "narrator": "アーヤ",
+            "text": "そうよね(｡-_-｡)",
+            "zh": "就是说啊(｡-_-｡)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "580/TALK",
+            "narrator": "アーヤ",
+            "text": "その通りよね",
+            "zh": "说得没错",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "581/TALK",
+            "narrator": "アーヤ",
+            "text": "代わりになれるか",
+            "zh": "不是能不能顶替",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "582/TALK",
+            "narrator": "アーヤ",
+            "text": "引っ張っていけるか",
+            "zh": "也不是能不能带好大家",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "583/TALK",
+            "narrator": "アーヤ",
+            "text": "そうじゃなくて",
+            "zh": "而是",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "584/TALK",
+            "narrator": "アーヤ",
+            "text": "やらなきゃダメ(｀ヘ´)",
+            "zh": "非做不可(｀ヘ´)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "585/TALK",
+            "narrator": "アーヤ",
+            "text": "それしかないのよね",
+            "zh": "没有别的选择了呢",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "588/TALK",
+            "narrator": "アーヤ",
+            "text": "目が覚めたかも(^^",
+            "zh": "感觉一下子清醒过来了(^^",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "590/TALK",
+            "narrator": "アーヤ",
+            "text": "私、やるわ",
+            "zh": "我会做到的",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "592/SEL",
+            "narrator": "",
+            "text": "困った時のサポートは任せろ",
+            "zh": "遇到困难时就尽管交给我来支援吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "593/ACT",
+            "narrator": "",
+            "text": "困った時のサポートは任せろ",
+            "zh": "遇到困难时就尽管交给我来支援吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "596/TALK",
+            "narrator": "アーヤ",
+            "text": "なら",
+            "zh": "那",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "597/TALK",
+            "narrator": "アーヤ",
+            "text": "困った時は",
+            "zh": "等遇到困难的时候",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "598/TALK",
+            "narrator": "アーヤ",
+            "text": "甘えさせてね(・・。)ゞ",
+            "zh": "就让我依靠一下吧(・・。)ゞ",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "599/ACT",
+            "narrator": "",
+            "text": "どーんといけ",
+            "zh": "放手大胆去吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "601/TALK",
+            "narrator": "アーヤ",
+            "text": "未熟者の私に",
+            "zh": "凭还不成熟的我",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "602/TALK",
+            "narrator": "アーヤ",
+            "text": "みんな引っ張っていけるかしら？(-ω-;)",
+            "zh": "真的能带好大家吗？(-ω-;)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "603/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$はどう思う？",
+            "zh": "$handle$你怎么看？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "604/TALK",
+            "narrator": "アーヤ",
+            "text": "って",
+            "zh": "不过",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "605/TALK",
+            "narrator": "アーヤ",
+            "text": "どーんといけだもんね",
+            "zh": "既然说是放手大胆去",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "606/TALK",
+            "narrator": "アーヤ",
+            "text": "どーんといくわよ",
+            "zh": "那我就放手大胆上咯",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "608/SEL",
+            "narrator": "",
+            "text": "やるしかないだろ",
+            "zh": "也只能上吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "609/ACT",
+            "narrator": "",
+            "text": "やるしかないだろ",
+            "zh": "也只能上吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "612/ACT",
+            "narrator": "",
+            "text": "代役くらいならね",
+            "zh": "只是代班的话没问题啦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "613/TALK",
+            "narrator": "アーヤ",
+            "text": "そうだったわ",
+            "zh": "说得也是啊",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "614/TALK",
+            "narrator": "アーヤ",
+            "text": "私が館長の代わりに",
+            "zh": "要由我来代替馆长",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "615/TALK",
+            "narrator": "アーヤ",
+            "text": "隊長をやること",
+            "zh": "担任队长这件事",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "616/TALK",
+            "narrator": "アーヤ",
+            "text": "まだ本決まりなわけじゃないわね(>_<)",
+            "zh": "其实也还没完全定死呢(>_<)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "617/TALK",
+            "narrator": "アーヤ",
+            "text": "もしかしたら",
+            "zh": "说不定",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "618/TALK",
+            "narrator": "アーヤ",
+            "text": "話し合いが長引いてるだけかも(-.-;)",
+            "zh": "只是那边谈话拖太久了而已(-.-;)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "621/TALK",
+            "narrator": "アーヤ",
+            "text": "最悪の展開ばかり考えてた",
+            "zh": "我净往最坏的展开去想了",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "622/TALK",
+            "narrator": "アーヤ",
+            "text": "混乱してたみたい(´o｀；",
+            "zh": "看来有点乱了阵脚(´o｀；",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "623/TALK",
+            "narrator": "アーヤ",
+            "text": "そもそも館長って",
+            "zh": "说到底，馆长她",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "624/TALK",
+            "narrator": "アーヤ",
+            "text": "簡単にどうにかなるような",
+            "zh": "本来就不是那种",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "625/TALK",
+            "narrator": "アーヤ",
+            "text": "そんな人じゃなかったわ(^^",
+            "zh": "会轻易出事的人呀(^^",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "628/TALK",
+            "narrator": "アーヤ",
+            "text": "ちょっと",
+            "zh": "我得",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "629/TALK",
+            "narrator": "アーヤ",
+            "text": "落ち着かなくちゃ",
+            "zh": "稍微冷静下来才行",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "641/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "642/TALK",
+            "narrator": "アーヤ",
+            "text": "そうよね。",
+            "zh": "是啊。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "643/TALK",
+            "narrator": "アーヤ",
+            "text": "館長が帰ってくる\nまでの代役なら、\n私にもできるはず。",
+            "zh": "只是在馆长回来之前\n当个代班的话，\n我应该也做得到。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "645/TALK",
+            "narrator": "アーヤ",
+            "text": "ギャヴィ…。\n私、頑張るから。",
+            "zh": "加维……。\n我会加油的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "647/TALK",
+            "narrator": "ガブリエラ",
+            "text": "は？",
+            "zh": "哈？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "649/TALK",
+            "narrator": "アーヤ",
+            "text": "ううん…。\n聞いてもらいたかった\nだけ。",
+            "zh": "没什么……。\n我只是想找个人\n听我说一声。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "650/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…変なの。",
+            "zh": "……莫名其妙。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "651/TALK",
+            "narrator": "アーヤ",
+            "text": "…代役くらいは、\n私が勤めます。",
+            "zh": "……代班的话，\n我还是能胜任的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "652/TALK",
+            "narrator": "アーヤ",
+            "text": "だから…無事な顔を\n見せてくださいよ、\n館長…。",
+            "zh": "所以……请一定\n要平安露面啊，\n馆长……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "663/DIALOG",
+            "narrator": "Dialog_chapter_ch02",
+            "text": "【20 ２０１６】",
+            "zh": "【20 2016】",
+            "narrator_zh": "Dialog_chapter_ch02"
+        }
+    ]
+}
