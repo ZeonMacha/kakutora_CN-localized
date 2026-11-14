@@ -1,0 +1,3318 @@
+{
+    "dir": "chap35/daydra/dd_ch02_35_101.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "35202",
+        "cid": "ayami",
+        "title": "002 メインストーリー",
+        "sub_title": "記憶のドア＜前編＞",
+        "title_zh": "002 主线剧情",
+        "sub_title_zh": "记忆之门＜前篇＞"
+    },
+    "entry": [
+        {
+            "location": "8/SCENARIO",
+            "narrator": "",
+            "text": "記憶のドア",
+            "zh": "记忆之门",
+            "narrator_zh": ""
+        },
+        {
+            "location": "28/TALK",
+            "narrator": "アーヤ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "30/TALK",
+            "narrator": "アーヤ",
+            "text": "ここはどこ？",
+            "zh": "这里是哪里？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "アーヤ",
+            "text": "ええと。\n誰かいませんかー？",
+            "zh": "那个。\n请问有人在吗——？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "35/TALK",
+            "narrator": "アーヤ",
+            "text": "無理かしら？",
+            "zh": "行不通吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "36/SEL",
+            "narrator": "",
+            "text": "あなたは死にました",
+            "zh": "你已经死了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "37/ACT",
+            "narrator": "",
+            "text": "あなたは死にました",
+            "zh": "你已经死了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "39/TALK",
+            "narrator": "アーヤ",
+            "text": "…そうなのね。",
+            "zh": "……是这样啊。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "40/TALK",
+            "narrator": "アーヤ",
+            "text": "ご親切にありがとうって\n言うべきよね。",
+            "zh": "那我真该说声\n谢谢你的好意了呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "41/TALK",
+            "narrator": "アーヤ",
+            "text": "ところで\nあなたは誰？",
+            "zh": "话说回来\n你是谁？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "42/SEL",
+            "narrator": "",
+            "text": "$me$だよ",
+            "zh": "我是$me$",
+            "narrator_zh": ""
+        },
+        {
+            "location": "43/SEL",
+            "narrator": "",
+            "text": "$handle$",
+            "zh": "$handle$",
+            "narrator_zh": ""
+        },
+        {
+            "location": "44/SEL",
+            "narrator": "",
+            "text": "わからない？",
+            "zh": "不知道吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "45/ACT",
+            "narrator": "",
+            "text": "$me$だよ",
+            "zh": "我是$me$",
+            "narrator_zh": ""
+        },
+        {
+            "location": "46/TALK",
+            "narrator": "アーヤ",
+            "text": "$me$さん？",
+            "zh": "$me$？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "48/TALK",
+            "narrator": "アーヤ",
+            "text": "どこかで\n会ったことがある？",
+            "zh": "我们在哪里\n见过面吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "49/ACT",
+            "narrator": "",
+            "text": "わからない？",
+            "zh": "不知道吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "50/TALK",
+            "narrator": "アーヤ",
+            "text": "ちょっとわからないわ。",
+            "zh": "我不太清楚呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "52/TALK",
+            "narrator": "アーヤ",
+            "text": "ところでどうして\n私が死んだことを\n知ってるの？",
+            "zh": "话说回来，你为什么\n会知道\n我已经死了？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "53/SEL",
+            "narrator": "",
+            "text": "選択肢に出たから",
+            "zh": "因为选项里出现了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "54/SEL",
+            "narrator": "",
+            "text": "勘みたいなアレ",
+            "zh": "大概是直觉之类的吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "55/SEL",
+            "narrator": "",
+            "text": "それは秘密",
+            "zh": "这是秘密",
+            "narrator_zh": ""
+        },
+        {
+            "location": "56/ACT",
+            "narrator": "",
+            "text": "選択肢に出たから",
+            "zh": "因为选项里出现了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "57/TALK",
+            "narrator": "アーヤ",
+            "text": "そうなのね。",
+            "zh": "是这样啊。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "58/ACT",
+            "narrator": "",
+            "text": "勘みたいなアレ",
+            "zh": "大概是直觉之类的吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "アーヤ",
+            "text": "それでわかるの？",
+            "zh": "靠那个就能知道吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "60/ACT",
+            "narrator": "",
+            "text": "それは秘密",
+            "zh": "这是秘密",
+            "narrator_zh": ""
+        },
+        {
+            "location": "61/TALK",
+            "narrator": "アーヤ",
+            "text": "教えてはくれないのね。",
+            "zh": "不肯告诉我呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "アーヤ",
+            "text": "私、死んだのか。\n発症したわけ\nじゃなくて。",
+            "zh": "我，已经死了啊。\n不是发作了，\n而是死了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "65/SEL",
+            "narrator": "",
+            "text": "そうみたい",
+            "zh": "好像是这样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "66/SEL",
+            "narrator": "",
+            "text": "詳しくはわからない",
+            "zh": "具体情况我也不清楚",
+            "narrator_zh": ""
+        },
+        {
+            "location": "67/SEL",
+            "narrator": "",
+            "text": "事情に詳しそうだね",
+            "zh": "你好像很了解情况呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "68/ACT",
+            "narrator": "",
+            "text": "そうみたい",
+            "zh": "好像是这样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "69/TALK",
+            "narrator": "アーヤ",
+            "text": "はっきりとは\nわからないのね。",
+            "zh": "看来你也不是很\n确定呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "70/ACT",
+            "narrator": "",
+            "text": "詳しくはわからない",
+            "zh": "具体情况我也不清楚",
+            "narrator_zh": ""
+        },
+        {
+            "location": "71/TALK",
+            "narrator": "アーヤ",
+            "text": "もう少し\n情報が欲しい\nところだけど。",
+            "zh": "我还想再多获取\n一点信息\n就是了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "72/ACT",
+            "narrator": "",
+            "text": "事情に詳しそうだね",
+            "zh": "你好像很了解情况呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "73/TALK",
+            "narrator": "アーヤ",
+            "text": "多少はね。\n当事者だもの。",
+            "zh": "多少知道一点。\n毕竟我就是当事人。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "75/TALK",
+            "narrator": "アーヤ",
+            "text": "どっちにしても\n志半ばで力尽きたって\nことよね。",
+            "zh": "不管怎样，\n我都算是在壮志未酬时\n力竭倒下了吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "アーヤ",
+            "text": "もう少し善戦できる\nつもりだったのに。",
+            "zh": "原本还以为自己能\n再多坚持一会儿的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "77/SEL",
+            "narrator": "",
+            "text": "いつものアーヤと違う",
+            "zh": "和平时的绫水不一样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "78/SEL",
+            "narrator": "",
+            "text": "$me$の知ってる\nアーヤじゃない",
+            "zh": "不是$me$认识的\n绫水",
+            "narrator_zh": ""
+        },
+        {
+            "location": "79/SEL",
+            "narrator": "",
+            "text": "アーヤはどこ軸の\nアーヤなの？",
+            "zh": "绫水是哪条轴的\n绫水呀？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "80/ACT",
+            "narrator": "",
+            "text": "いつものアーヤと違う",
+            "zh": "和平时的绫水不一样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "81/TALK",
+            "narrator": "アーヤ",
+            "text": "…あ。",
+            "zh": "……啊。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "82/ACT",
+            "narrator": "",
+            "text": "$me$の知ってる\nアーヤじゃない",
+            "zh": "不是$me$认识的\n绫水",
+            "narrator_zh": ""
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "アーヤ",
+            "text": "知ってるアーヤ？",
+            "zh": "你认识的绫水？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "84/ACT",
+            "narrator": "",
+            "text": "アーヤはどこ軸の\nアーヤなの？",
+            "zh": "绫水是哪条轴的\n绫水呀？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "85/TALK",
+            "narrator": "アーヤ",
+            "text": "どこ軸って…。",
+            "zh": "哪条轴什么的……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "87/TALK",
+            "narrator": "アーヤ",
+            "text": "もしかして私\nフェノメノンに\n囚われてた？",
+            "zh": "难道说我\n之前一直被困在\nPhenoMENON里？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "88/SEL",
+            "narrator": "",
+            "text": "たぶん",
+            "zh": "大概吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "89/SEL",
+            "narrator": "",
+            "text": "そういうことだと思う",
+            "zh": "我觉得就是这么回事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "90/SEL",
+            "narrator": "",
+            "text": "察しがいいね",
+            "zh": "你领悟得真快呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "91/ACT",
+            "narrator": "",
+            "text": "たぶん",
+            "zh": "大概吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "アーヤ",
+            "text": "なるほどね。",
+            "zh": "原来如此。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "93/ACT",
+            "narrator": "",
+            "text": "そういうことだと思う",
+            "zh": "我觉得就是这么回事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "94/TALK",
+            "narrator": "アーヤ",
+            "text": "状況が少し\nわかったわ。",
+            "zh": "我稍微明白\n目前的状况了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "95/ACT",
+            "narrator": "",
+            "text": "察しがいいね",
+            "zh": "你领悟得真快呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "97/TALK",
+            "narrator": "アーヤ",
+            "text": "自分のことだし。",
+            "zh": "毕竟是自己的事。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "99/TALK",
+            "narrator": "アーヤ",
+            "text": "あなたの知ってる\n國政綾水と私は\n同じだけど別の人間。",
+            "zh": "你所认识的\n国政绫水和我，\n是同一个人，却又不是同一个人。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "アーヤ",
+            "text": "なんて言うと誤解\nされそうね。\n順を追って話すわ。",
+            "zh": "这么说的话\n好像容易让人误会呢。\n我按顺序解释吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "101/TALK",
+            "narrator": "アーヤ",
+            "text": "そもそも私は\n２０３１年の世界から\n送り込まれたの。",
+            "zh": "原本我是从\n2031年的世界\n被送过来的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "アーヤ",
+            "text": "逢瀬つばめの作った\nフェノメノンの中に。",
+            "zh": "被送进了逢濑燕制造的\nPhenoMENON之中。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "アーヤ",
+            "text": "日本を覆うフェノメノンを\n解消するために。",
+            "zh": "为了消除覆盖日本的\nPhenoMENON。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "104/SEL",
+            "narrator": "",
+            "text": "それがアーヤの目的？",
+            "zh": "那就是绫水的目的？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "105/SEL",
+            "narrator": "",
+            "text": "そんなアーヤ知らない",
+            "zh": "我不认识那样的绫水",
+            "narrator_zh": ""
+        },
+        {
+            "location": "106/SEL",
+            "narrator": "",
+            "text": "今までのアーヤは？",
+            "zh": "那之前的绫水呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "107/ACT",
+            "narrator": "",
+            "text": "それがアーヤの目的？",
+            "zh": "那就是绫水的目的？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "108/TALK",
+            "narrator": "アーヤ",
+            "text": "そうよ。",
+            "zh": "是的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "109/ACT",
+            "narrator": "",
+            "text": "そんなアーヤ知らない",
+            "zh": "我不认识那样的绫水",
+            "narrator_zh": ""
+        },
+        {
+            "location": "110/TALK",
+            "narrator": "アーヤ",
+            "text": "そんなこと\n言われても…。",
+            "zh": "就算你这么说\n我也……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "111/ACT",
+            "narrator": "",
+            "text": "今までのアーヤは？",
+            "zh": "那之前的绫水呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "112/TALK",
+            "narrator": "アーヤ",
+            "text": "こっちが聞きたいわ。",
+            "zh": "这句话应该由我来问吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "114/TALK",
+            "narrator": "アーヤ",
+            "text": "事前の説明では\n中に入っても記憶は保持\nされるって話だった。",
+            "zh": "事先的说明里说，\n就算进入其中\n记忆也会保留下来。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "117/TALK",
+            "narrator": "アーヤ",
+            "text": "でも私、中で何をして\nこうなったのか\n全く憶えてないわ。",
+            "zh": "可是我完全不记得\n自己在里面做了什么、\n又是怎么变成这样的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "119/TALK",
+            "narrator": "アーヤ",
+            "text": "ねえ。\nあなたは誰？\n私とどういう関係なの？",
+            "zh": "喂。\n你是谁？\n和我是什么关系？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "120/SEL",
+            "narrator": "",
+            "text": "アーヤの恋人",
+            "zh": "绫水的恋人",
+            "narrator_zh": ""
+        },
+        {
+            "location": "121/SEL",
+            "narrator": "",
+            "text": "本当に忘れたんだ…",
+            "zh": "你真的忘掉了啊……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "122/SEL",
+            "narrator": "",
+            "text": "支援者だよ",
+            "zh": "是支援者哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "123/ACT",
+            "narrator": "",
+            "text": "アーヤの恋人",
+            "zh": "绫水的恋人",
+            "narrator_zh": ""
+        },
+        {
+            "location": "124/TALK",
+            "narrator": "アーヤ",
+            "text": "冗談はやめて。",
+            "zh": "别开玩笑了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "125/ACT",
+            "narrator": "",
+            "text": "本当に忘れたんだ…",
+            "zh": "你真的忘掉了啊……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "126/TALK",
+            "narrator": "アーヤ",
+            "text": "ごめんなさい。\n憶えてないのよ。",
+            "zh": "抱歉。\n我记不起来了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "127/ACT",
+            "narrator": "",
+            "text": "支援者だよ",
+            "zh": "是支援者哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "128/TALK",
+            "narrator": "アーヤ",
+            "text": "何を支援して\nくれていたの？",
+            "zh": "你之前都在\n支援我什么？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "129/SEL",
+            "narrator": "",
+            "text": "色々",
+            "zh": "各种事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "130/SEL",
+            "narrator": "",
+            "text": "アーヤのこととか",
+            "zh": "比如绫水的事之类的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "131/SEL",
+            "narrator": "",
+            "text": "この世界かな…？",
+            "zh": "大概是这个世界吧……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "132/ACT",
+            "narrator": "",
+            "text": "色々",
+            "zh": "各种事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "アーヤ",
+            "text": "もっと具体的に\n言って。",
+            "zh": "请说得更具体\n一点。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "134/ACT",
+            "narrator": "",
+            "text": "アーヤのこととか",
+            "zh": "比如绫水的事之类的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "135/TALK",
+            "narrator": "アーヤ",
+            "text": "それはそうだと\n思うけど。",
+            "zh": "那倒是理所当然的\n吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "136/ACT",
+            "narrator": "",
+            "text": "この世界かな…？",
+            "zh": "大概是这个世界吧……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "137/TALK",
+            "narrator": "アーヤ",
+            "text": "疑問系なの？",
+            "zh": "怎么还是疑问句？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "139/TALK",
+            "narrator": "アーヤ",
+            "text": "どうして支援者に？",
+            "zh": "你为什么会成为支援者？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "140/SEL",
+            "narrator": "",
+            "text": "千羽鶴に頼まれた",
+            "zh": "受千羽鹤所托",
+            "narrator_zh": ""
+        },
+        {
+            "location": "141/ACT",
+            "narrator": "",
+            "text": "千羽鶴に頼まれた",
+            "zh": "受千羽鹤所托",
+            "narrator_zh": ""
+        },
+        {
+            "location": "143/TALK",
+            "narrator": "アーヤ",
+            "text": "千羽鶴？",
+            "zh": "千羽鹤？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "144/SEL",
+            "narrator": "",
+            "text": "つばめのクラン",
+            "zh": "燕的库兰",
+            "narrator_zh": ""
+        },
+        {
+            "location": "145/ACT",
+            "narrator": "",
+            "text": "つばめのクラン",
+            "zh": "燕的库兰",
+            "narrator_zh": ""
+        },
+        {
+            "location": "148/TALK",
+            "narrator": "アーヤ",
+            "text": "…ああ。\nなるほどね。",
+            "zh": "……啊啊。\n原来如此。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "149/TALK",
+            "narrator": "アーヤ",
+            "text": "そういう人格が\n顕現しちゃったのね…。",
+            "zh": "原来是显现出了\n那样的人格啊……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "151/SEL",
+            "narrator": "",
+            "text": "えと…みやびは？",
+            "zh": "那个……雅呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "152/SEL",
+            "narrator": "",
+            "text": "ガブリエラって知ってる？",
+            "zh": "你知道加布里埃拉吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "153/SEL",
+            "narrator": "",
+            "text": "つばめはわかるよね",
+            "zh": "燕你应该认识吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "154/SEL",
+            "narrator": "",
+            "text": "神楽っていたよね…？",
+            "zh": "还有神乐来着……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "155/ACT",
+            "narrator": "",
+            "text": "えと…みやびは？",
+            "zh": "那个……雅呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "156/TALK",
+            "narrator": "アーヤ",
+            "text": "恋ヶ崎みやびね。\n量子系エンジニアの。",
+            "zh": "恋之崎雅啊。\n那位量子系工程师。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "157/TALK",
+            "narrator": "アーヤ",
+            "text": "よくセリシアと一緒に\nいたはず。\n同じ会社だしね。",
+            "zh": "应该经常和塞莉西亚\n待在一起。\n毕竟在同一家公司。[?]",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "158/TALK",
+            "narrator": "アーヤ",
+            "text": "それに、同じ目的を\n志す仲間でもあるわ。",
+            "zh": "而且，也是怀着\n同样目标的同伴。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "159/ACT",
+            "narrator": "",
+            "text": "ガブリエラって知ってる？",
+            "zh": "你知道加布里埃拉吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "160/TALK",
+            "narrator": "アーヤ",
+            "text": "ポーランド軍将校の\n娘さんでしょ。",
+            "zh": "是波兰军将校的\n千金吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "161/TALK",
+            "narrator": "アーヤ",
+            "text": "とても無口な子よね。\nまだ中学生くらいだと\n思うけど。",
+            "zh": "是个非常沉默寡言的孩子呢。\n我记得大概才\n初中生左右的年纪。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "162/TALK",
+            "narrator": "アーヤ",
+            "text": "同じ目的を志す仲間でも\nあるけど、素性はよく\nわからないわね。",
+            "zh": "虽然也是怀着同样目标的同伴，\n但她的底细\n我也不太清楚呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "163/ACT",
+            "narrator": "",
+            "text": "つばめはわかるよね",
+            "zh": "燕你应该认识吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "164/TALK",
+            "narrator": "アーヤ",
+            "text": "当たり前でしょ\n被験体だもの。",
+            "zh": "那当然了\n毕竟她是被试体嘛。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "165/ACT",
+            "narrator": "",
+            "text": "神楽っていたよね…？",
+            "zh": "还有神乐来着……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "167/TALK",
+            "narrator": "アーヤ",
+            "text": "誰それ？\n知らないわ…。",
+            "zh": "那是谁？\n我不认识……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "169/TALK",
+            "narrator": "アーヤ",
+            "text": "ねえ。私は\n逢瀬つばめの世界の中で\n何をしていたの？",
+            "zh": "喂。我在\n逢濑燕的世界里\n到底做了些什么？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "170/SEL",
+            "narrator": "",
+            "text": "フェノメノンの収束",
+            "zh": "让PhenoMENON收敛",
+            "narrator_zh": ""
+        },
+        {
+            "location": "171/SEL",
+            "narrator": "",
+            "text": "人形劇サークル",
+            "zh": "人偶剧社团",
+            "narrator_zh": ""
+        },
+        {
+            "location": "172/SEL",
+            "narrator": "",
+            "text": "ガブリエラとイチャコラ",
+            "zh": "和加布里埃拉腻歪",
+            "narrator_zh": ""
+        },
+        {
+            "location": "173/SEL",
+            "narrator": "",
+            "text": "$me$の恋人",
+            "zh": "当$me$的恋人",
+            "narrator_zh": ""
+        },
+        {
+            "location": "174/ACT",
+            "narrator": "",
+            "text": "フェノメノンの収束",
+            "zh": "让PhenoMENON收敛",
+            "narrator_zh": ""
+        },
+        {
+            "location": "175/TALK",
+            "narrator": "アーヤ",
+            "text": "フェノメノンに洗脳されて\nフェノメノンの収束を\nさせられてたなんて。",
+            "zh": "居然被PhenoMENON洗脑，\n被迫去让\nPhenoMENON收敛什么的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "177/TALK",
+            "narrator": "アーヤ",
+            "text": "悪い夢か呪いみたい。",
+            "zh": "简直像噩梦或诅咒一样。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "178/ACT",
+            "narrator": "",
+            "text": "人形劇サークル",
+            "zh": "人偶剧社团",
+            "narrator_zh": ""
+        },
+        {
+            "location": "179/TALK",
+            "narrator": "アーヤ",
+            "text": "そんなことしてたの？",
+            "zh": "我做过那种事吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "180/TALK",
+            "narrator": "アーヤ",
+            "text": "人形劇ねえ…。\nちょっと子供っぽい\n感じよね。",
+            "zh": "人偶剧啊……。\n感觉稍微有点\n孩子气呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "181/TALK",
+            "narrator": "アーヤ",
+            "text": "逢瀬つばめの趣味\nだったの？",
+            "zh": "那是逢濑燕的\n爱好吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "182/TALK",
+            "narrator": "アーヤ",
+            "text": "かわいいものが\n好きみたいだし。",
+            "zh": "她看起来确实\n喜欢可爱的东西。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "183/ACT",
+            "narrator": "",
+            "text": "ガブリエラとイチャコラ",
+            "zh": "和加布里埃拉腻歪",
+            "narrator_zh": ""
+        },
+        {
+            "location": "185/TALK",
+            "narrator": "アーヤ",
+            "text": "は！？",
+            "zh": "哈！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "186/TALK",
+            "narrator": "アーヤ",
+            "text": "確かにかわいいなって\n思ったけど\nそんな趣味はないわ！？",
+            "zh": "虽然我确实觉得\n她很可爱，\n但我可没有那种爱好！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "187/TALK",
+            "narrator": "アーヤ",
+            "text": "逢瀬つばめ……\nなんでそんなこと…。",
+            "zh": "逢濑燕……\n为什么会让我做那种事……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "188/ACT",
+            "narrator": "",
+            "text": "$me$の恋人",
+            "zh": "当$me$的恋人",
+            "narrator_zh": ""
+        },
+        {
+            "location": "189/TALK",
+            "narrator": "アーヤ",
+            "text": "私が憶えてないからって\n適当なこと言わないで。",
+            "zh": "别趁着我不记得，\n就在那儿胡说八道。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "190/TALK",
+            "narrator": "アーヤ",
+            "text": "そういう冗談は\n面白くないわ。",
+            "zh": "这种玩笑\n一点也不好笑。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "192/SEL",
+            "narrator": "",
+            "text": "$me$は悲しい",
+            "zh": "$me$好难过",
+            "narrator_zh": ""
+        },
+        {
+            "location": "193/SEL",
+            "narrator": "",
+            "text": "アーヤだけど\nアーヤじゃないんだね",
+            "zh": "虽然是绫水，\n却不是我的绫水呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "194/SEL",
+            "narrator": "",
+            "text": "思い出してよ",
+            "zh": "快想起来啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "195/ACT",
+            "narrator": "",
+            "text": "$me$は悲しい",
+            "zh": "$me$好难过",
+            "narrator_zh": ""
+        },
+        {
+            "location": "196/TALK",
+            "narrator": "アーヤ",
+            "text": "そんなこと\n言われても…。",
+            "zh": "就算你这么说\n我也……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "197/ACT",
+            "narrator": "",
+            "text": "アーヤだけど\nアーヤじゃないんだね",
+            "zh": "虽然是绫水，\n却不是我的绫水呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "198/TALK",
+            "narrator": "アーヤ",
+            "text": "そうね。\n最初に言った通りよ。",
+            "zh": "是啊。\n就像我一开始说过的那样。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "199/ACT",
+            "narrator": "",
+            "text": "思い出してよ",
+            "zh": "快想起来啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "200/TALK",
+            "narrator": "アーヤ",
+            "text": "私だってそうしたいわ。",
+            "zh": "我也想这样啊。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "202/TALK",
+            "narrator": "アーヤ",
+            "text": "聞きたいことは\n山ほどあるけど。",
+            "zh": "虽然想问的事情\n堆积如山。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "203/TALK",
+            "narrator": "アーヤ",
+            "text": "聞いても結局\n虚像でしかない。",
+            "zh": "但就算问了，\n到头来也只是虚像罢了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "204/TALK",
+            "narrator": "アーヤ",
+            "text": "それに今はもっと\n大事なことがあるわ。\n本部への現状報告。",
+            "zh": "而且现在还有\n更重要的事要做。\n向总部报告现状。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "205/TALK",
+            "narrator": "アーヤ",
+            "text": "作戦失敗と科学者の\n推測が外れていたこと。",
+            "zh": "作战失败，以及科学家的\n推测落空了这件事。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "206/TALK",
+            "narrator": "アーヤ",
+            "text": "特殊部隊が完全に\nフェノメノンに\n取り込まれていたこと。",
+            "zh": "还有特种部队已经\n完全被PhenoMENON\n吞噬了这件事。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "208/TALK",
+            "narrator": "アーヤ",
+            "text": "問題は死んでいて\n報告できるか\nどうかってとこ。",
+            "zh": "问题在于我已经死了，\n不知道还能不能\n进行报告。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "209/TALK",
+            "narrator": "アーヤ",
+            "text": "でも量子的存在なら\n魂だけの私とだって\nコンタクト可能なはず。",
+            "zh": "不过如果是量子存在的话，\n就算只剩灵魂的我\n应该也能与之接触才对。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "210/TALK",
+            "narrator": "アーヤ",
+            "text": "あなた…ええと\n名前は…。",
+            "zh": "你……那个\n名字是……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "211/SEL",
+            "narrator": "",
+            "text": "$handle$だよ",
+            "zh": "我是$handle$",
+            "narrator_zh": ""
+        },
+        {
+            "location": "212/ACT",
+            "narrator": "",
+            "text": "$handle$だよ",
+            "zh": "我是$handle$",
+            "narrator_zh": ""
+        },
+        {
+            "location": "214/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$、\n協力して。",
+            "zh": "$handle$，\n帮帮我。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "215/TALK",
+            "narrator": "アーヤ",
+            "text": "逢瀬つばめの\nフェノメノンからの\n脱出を。",
+            "zh": "帮我从逢濑燕的\nPhenoMENON里\n逃脱出去。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "216/SEL",
+            "narrator": "",
+            "text": "アーヤのために協力する",
+            "zh": "为了绫水而协助你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "217/SEL",
+            "narrator": "",
+            "text": "あなたは$me$の契る\nアーヤではない",
+            "zh": "你不是与$me$立下契约的\n绫水",
+            "narrator_zh": ""
+        },
+        {
+            "location": "218/ACT",
+            "narrator": "",
+            "text": "アーヤのために協力する",
+            "zh": "为了绫水而协助你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "220/ACT",
+            "narrator": "",
+            "text": "あなたは$me$の契る\nアーヤではない",
+            "zh": "你不是与$me$立下契约的\n绫水",
+            "narrator_zh": ""
+        },
+        {
+            "location": "255/TALK",
+            "narrator": "エヴェレット",
+            "text": "$handle$さん！！",
+            "zh": "$handle$！！",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "256/SEL",
+            "narrator": "",
+            "text": "エヴェレット！",
+            "zh": "艾弗雷特！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "257/ACT",
+            "narrator": "",
+            "text": "エヴェレット！",
+            "zh": "艾弗雷特！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "259/TALK",
+            "narrator": "エヴェレット",
+            "text": "来てくれたのね！\n嬉しい！",
+            "zh": "你来看我了呢！\n好开心！",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "260/TALK",
+            "narrator": "エヴェレット",
+            "text": "発症が収まってから\nずっと逢いたかったの。",
+            "zh": "发作平息之后\n我一直好想见你。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "261/SEL",
+            "narrator": "",
+            "text": "大丈夫？\n問題ない？",
+            "zh": "不要紧吗？\n没什么问题吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "262/ACT",
+            "narrator": "",
+            "text": "大丈夫？\n問題ない？",
+            "zh": "不要紧吗？\n没什么问题吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "265/TALK",
+            "narrator": "エヴェレット",
+            "text": "ええ、お陰様で。",
+            "zh": "嗯，托你的福。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "266/TALK",
+            "narrator": "エヴェレット",
+            "text": "それより私ね、\n発症したことで\n気づいたことがあるの。",
+            "zh": "比起那个，我呀，\n在发作之后\n意识到了某件事呢。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "267/TALK",
+            "narrator": "エヴェレット",
+            "text": "それは、私にとって\n$handle$さんは\n特別な存在だってこと。",
+            "zh": "那就是，对我而言\n$handle$是\n特别的存在。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "268/TALK",
+            "narrator": "エヴェレット",
+            "text": "私が生きていく中で、\n掛け替えのない存在に\nなっていた貴方。",
+            "zh": "在我活下去的过程中，\n你不知不觉成为了\n无可替代的存在。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "269/TALK",
+            "narrator": "エヴェレット",
+            "text": "どうしてもっと早く\nそれに気づけなかったの\nかって、後悔したわ。",
+            "zh": "我甚至后悔过，\n为什么没能\n更早察觉到这一点呢。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "271/TALK",
+            "narrator": "エヴェレット",
+            "text": "だから、また……\nその……",
+            "zh": "所以，能再……\n那个……",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "272/TALK",
+            "narrator": "エヴェレット",
+            "text": "いいかしら？",
+            "zh": "可以吗？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "273/SEL",
+            "narrator": "",
+            "text": "もちろん",
+            "zh": "当然可以",
+            "narrator_zh": ""
+        },
+        {
+            "location": "274/SEL",
+            "narrator": "",
+            "text": "愛は形や行動じゃないよ、想いだよ",
+            "zh": "爱不是形式或行动，而是心意哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "275/ACT",
+            "narrator": "",
+            "text": "もちろん",
+            "zh": "当然可以",
+            "narrator_zh": ""
+        },
+        {
+            "location": "276/TALK",
+            "narrator": "エヴェレット",
+            "text": "ほんと！？\n嬉しい！",
+            "zh": "真的吗！？\n好开心！",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "278/TALK",
+            "narrator": "エヴェレット",
+            "text": "それじゃ……",
+            "zh": "那我就……",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "299/TALK",
+            "narrator": "エヴェレット",
+            "text": "ふわっ……",
+            "zh": "呼哇……",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "300/TALK",
+            "narrator": "エヴェレット",
+            "text": "この感触\nほんとすき。",
+            "zh": "这种触感\n我真的好喜欢。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "305/TALK",
+            "narrator": "エヴェレット",
+            "text": "ひぁっ…",
+            "zh": "呀啊……",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "307/TALK",
+            "narrator": "エヴェレット",
+            "text": "ど、どうしよう、\n止まらない…っ。",
+            "zh": "怎、怎么办，\n停不下来了……。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "309/TALK",
+            "narrator": "エヴェレット",
+            "text": "ほんと…\n甘い感覚……",
+            "zh": "真是……\n甜蜜的感觉……",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "320/TALK",
+            "narrator": "エヴェレット",
+            "text": "……？",
+            "zh": "……？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "321/TALK",
+            "narrator": "エヴェレット",
+            "text": "えっと、その……\nしてくれないの？",
+            "zh": "那个，就是……\n不亲我吗？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "322/SEL",
+            "narrator": "",
+            "text": "しますします",
+            "zh": "亲亲亲",
+            "narrator_zh": ""
+        },
+        {
+            "location": "323/SEL",
+            "narrator": "",
+            "text": "やっぱやめとく",
+            "zh": "还是算了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "324/ACT",
+            "narrator": "",
+            "text": "しますします",
+            "zh": "亲亲亲",
+            "narrator_zh": ""
+        },
+        {
+            "location": "328/ACT",
+            "narrator": "",
+            "text": "やっぱやめとく",
+            "zh": "还是算了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "332/TALK",
+            "narrator": "エヴェレット",
+            "text": "はぁ、…はぁっ…。",
+            "zh": "哈啊、……哈啊……。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "334/TALK",
+            "narrator": "エヴェレット",
+            "text": "…もうおわり？\nまだしたいの……",
+            "zh": "……已经结束了吗？\n我还想继续……",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "335/SEL",
+            "narrator": "",
+            "text": "はいはい",
+            "zh": "好好好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "336/SEL",
+            "narrator": "",
+            "text": "もうお終いお終い",
+            "zh": "已经结束了结束了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "337/ACT",
+            "narrator": "",
+            "text": "はいはい",
+            "zh": "好好好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "346/ACT",
+            "narrator": "",
+            "text": "もうお終いお終い",
+            "zh": "已经结束了结束了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "351/TALK",
+            "narrator": "エヴェレット",
+            "text": "えええっ！？\nそうなの……？",
+            "zh": "哎哎哎！？\n是这样吗……？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "352/TALK",
+            "narrator": "エヴェレット",
+            "text": "でも、この前なんて、\n$ayami_33_chu$回も\nキスしてくれたのに。",
+            "zh": "可是，上次的时候，\n你明明亲了我\n$ayami_33_chu$次呢。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "353/TALK",
+            "narrator": "エヴェレット",
+            "text": "今度来たときには、\nまたしてね？",
+            "zh": "下次来的时候，\n要再亲我哦？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "355/TALK",
+            "narrator": "エヴェレット",
+            "text": "えええっ！？\nそうなの……？",
+            "zh": "哎哎哎！？\n是这样吗……？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "356/TALK",
+            "narrator": "エヴェレット",
+            "text": "まあでも、\nもう$ayami_35_chu$回も\nしてくれたものね。",
+            "zh": "不过嘛，\n你都已经亲了我\n$ayami_35_chu$次了呢。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "357/TALK",
+            "narrator": "エヴェレット",
+            "text": "今度来たときに\nまたしてね？",
+            "zh": "下次来的时候\n要再亲我哦？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "363/TALK",
+            "narrator": "エヴェレット",
+            "text": "あっ……そういえば、\nさっきずっと気になってた\nことがあるんだけど。",
+            "zh": "啊……说起来，\n刚才有件事\n我一直很在意呢。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "364/SEL",
+            "narrator": "",
+            "text": "なに？",
+            "zh": "怎么了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "365/ACT",
+            "narrator": "",
+            "text": "なに？",
+            "zh": "怎么了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "367/TALK",
+            "narrator": "エヴェレット",
+            "text": "あのね？\nキスするとき、ちゃんと\nその…唇でしてくれてた？",
+            "zh": "我说呀？\n亲亲的时候，你有好好\n那个……用嘴唇亲我吗？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "368/SEL",
+            "narrator": "",
+            "text": "もちろんですよ！",
+            "zh": "那当然了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "369/SEL",
+            "narrator": "",
+            "text": "いいえ……",
+            "zh": "没有……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "370/SEL",
+            "narrator": "",
+            "text": "うわ面倒くせぇぇ！",
+            "zh": "哇好麻烦啊！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "371/ACT",
+            "narrator": "",
+            "text": "もちろんですよ！",
+            "zh": "那当然了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "372/TALK",
+            "narrator": "エヴェレット",
+            "text": "ほんと？\n嬉しい！",
+            "zh": "真的吗？\n好开心！",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "373/TALK",
+            "narrator": "エヴェレット",
+            "text": "またしてね？",
+            "zh": "要再来亲我哦？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "374/ACT",
+            "narrator": "",
+            "text": "いいえ……",
+            "zh": "没有……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "375/TALK",
+            "narrator": "エヴェレット",
+            "text": "ええええっ！",
+            "zh": "哎哎哎哎！",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "376/TALK",
+            "narrator": "エヴェレット",
+            "text": "それ、やり直し！",
+            "zh": "那可不行，重来！",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "383/ACT",
+            "narrator": "",
+            "text": "うわ面倒くせぇぇ！",
+            "zh": "哇好麻烦啊！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "384/TALK",
+            "narrator": "エヴェレット",
+            "text": "ええっ！？\nそうなの？",
+            "zh": "哎！？\n是这样吗？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "385/TALK",
+            "narrator": "エヴェレット",
+            "text": "うーん……面倒くさいの？\nちょっと意味が\nわからないんだけど。",
+            "zh": "唔……觉得麻烦吗？\n我有点搞不懂\n你是什么意思呢。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "386/TALK",
+            "narrator": "エヴェレット",
+            "text": "まあいいわ。なんか\n盛り下がっちゃったし。",
+            "zh": "算了。总觉得\n兴致都凉掉了。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "389/ACT",
+            "narrator": "",
+            "text": "愛は形や行動じゃないよ、想いだよ",
+            "zh": "爱不是形式或行动，而是心意哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "390/TALK",
+            "narrator": "エヴェレット",
+            "text": "え……\nそ、そうなの？",
+            "zh": "哎……\n这、这样啊？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "391/TALK",
+            "narrator": "エヴェレット",
+            "text": "ちょっと残念……。",
+            "zh": "有点遗憾……。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "395/TALK",
+            "narrator": "エヴェレット",
+            "text": "$handle$さん。",
+            "zh": "$handle$。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "396/SEL",
+            "narrator": "",
+            "text": "エヴェレット、無事だった？",
+            "zh": "艾弗雷特，你没事吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "397/ACT",
+            "narrator": "",
+            "text": "エヴェレット、無事だった？",
+            "zh": "艾弗雷特，你没事吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "399/TALK",
+            "narrator": "エヴェレット",
+            "text": "ええ、お陰様で。",
+            "zh": "嗯，托你的福。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "403/SEL",
+            "narrator": "",
+            "text": "ところで、白烏は無事なの？",
+            "zh": "话说回来，白鸦没事吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "404/ACT",
+            "narrator": "",
+            "text": "ところで、白烏は無事なの？",
+            "zh": "话说回来，白鸦没事吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "406/TALK",
+            "narrator": "エヴェレット",
+            "text": "え？",
+            "zh": "哎？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "407/TALK",
+            "narrator": "エヴェレット",
+            "text": "ええ、もちろん無事よ。\n貴方のお陰で。",
+            "zh": "嗯，当然没事哦。\n多亏了你。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "408/SEL",
+            "narrator": "",
+            "text": "よかった！",
+            "zh": "太好了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "409/ACT",
+            "narrator": "",
+            "text": "よかった！",
+            "zh": "太好了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "411/TALK",
+            "narrator": "エヴェレット",
+            "text": "……へえ。",
+            "zh": "……哦。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "412/SEL",
+            "narrator": "",
+            "text": "なに？",
+            "zh": "怎么了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "413/ACT",
+            "narrator": "",
+            "text": "なに？",
+            "zh": "怎么了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "415/TALK",
+            "narrator": "エヴェレット",
+            "text": "いいえ。",
+            "zh": "没什么。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "417/TALK",
+            "narrator": "エヴェレット",
+            "text": "貴方が白烏の心配を\nするのってちょっと\n意外だと思っただけ。",
+            "zh": "我只是觉得你会\n担心白鸦，\n稍微有点意外而已。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "419/TALK",
+            "narrator": "エヴェレット",
+            "text": "やっぱり貴方は\n白烏に魅力を感じて\nいるんだなぁと思って。",
+            "zh": "看来你果然还是\n觉得白鸦\n很有魅力呀。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "420/TALK",
+            "narrator": "エヴェレット",
+            "text": "前の時も、白烏の\n考えに共感してた\nみたいだし。",
+            "zh": "之前的时候，你也好像\n很认同白鸦的\n想法呢。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "422/SEL",
+            "narrator": "",
+            "text": "なにそれ嫉妬？",
+            "zh": "怎么了，吃醋吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "423/ACT",
+            "narrator": "",
+            "text": "なにそれ嫉妬？",
+            "zh": "怎么了，吃醋吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "426/TALK",
+            "narrator": "エヴェレット",
+            "text": "ええ。\nそうかもしれないわね。",
+            "zh": "是啊。\n说不定真是这样呢。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "428/TALK",
+            "narrator": "エヴェレット",
+            "text": "え？　私が？\nまさか。",
+            "zh": "哎？我吗？\n怎么可能。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "430/TALK",
+            "narrator": "エヴェレット",
+            "text": "なんて、\n馬鹿なこと話してる\n場合じゃなかったわ。",
+            "zh": "真是的，现在可不是\n说这种傻话的\n时候呢。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "431/TALK",
+            "narrator": "エヴェレット",
+            "text": "今から私と一緒に\n白烏のところへ\n来てもらえないかしら。",
+            "zh": "能请你现在跟我一起\n去白鸦那里\n一趟吗？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "433/TALK",
+            "narrator": "エヴェレット",
+            "text": "――っと、\nそういえば！",
+            "zh": "——啊，\n说起来！",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "435/TALK",
+            "narrator": "エヴェレット",
+            "text": "キスしてる\n場合じゃなかったのよ。",
+            "zh": "现在可不是\n亲亲的时候呀。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "437/TALK",
+            "narrator": "エヴェレット",
+            "text": "ちょっと今から、\n私と一緒に白烏の所に\n来てくれない？",
+            "zh": "能请你现在跟我一起\n去白鸦那里\n一趟吗？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "438/SEL",
+            "narrator": "",
+            "text": "白烏生きてたの！？",
+            "zh": "白鸦还活着吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "439/ACT",
+            "narrator": "",
+            "text": "白烏生きてたの！？",
+            "zh": "白鸦还活着吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "441/TALK",
+            "narrator": "エヴェレット",
+            "text": "そりゃそうよ。",
+            "zh": "那当然啦。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "442/TALK",
+            "narrator": "エヴェレット",
+            "text": "人格は倒されても\n死んだり消滅したり\nしないから。",
+            "zh": "人格就算被打倒，\n也不会死掉\n或者消灭的。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "443/TALK",
+            "narrator": "エヴェレット",
+            "text": "私という総意から\n切り離されることは\nあるけど。",
+            "zh": "顶多是从名为我的\n总意中\n被剥离出去而已。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "444/TALK",
+            "narrator": "エヴェレット",
+            "text": "でも、どう転ぶかは\n戦った相手の想い次第\nなんだけどね。",
+            "zh": "不过，之后会如何发展，\n就要看交战之人的\n心意如何了呢。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "445/TALK",
+            "narrator": "エヴェレット",
+            "text": "そういう意味では、\n貴方にお礼を\nいわなくちゃね。",
+            "zh": "从这个意义上讲，\n我还得向你\n道谢才行呢。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "446/SEL",
+            "narrator": "",
+            "text": "なんで？",
+            "zh": "为什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "447/ACT",
+            "narrator": "",
+            "text": "なんで？",
+            "zh": "为什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "449/TALK",
+            "narrator": "エヴェレット",
+            "text": "白烏の考え方が\n随分と変わった\nみたいだから。",
+            "zh": "因为白鸦的想法\n似乎发生了\n很大的转变。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "450/TALK",
+            "narrator": "エヴェレット",
+            "text": "それじゃ、\nいくわよ。",
+            "zh": "那么，\n我们走吧。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "456/TALK",
+            "narrator": "エヴェレット",
+            "text": "オープンプロセス、\n0x3CB番地から\n0xD4A番地へ。",
+            "zh": "开放进程，\n从0x3CB地址\n前往0xD4A地址。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "478/TALK",
+            "narrator": "エヴェレット",
+            "text": "シーク完了。",
+            "zh": "搜索完成。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "503/SEL",
+            "narrator": "",
+            "text": "白烏！？",
+            "zh": "白鸦！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "504/ACT",
+            "narrator": "",
+            "text": "白烏！？",
+            "zh": "白鸦！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "506/TALK",
+            "narrator": "白烏",
+            "text": "…ちょっと。",
+            "zh": "……喂。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "507/TALK",
+            "narrator": "白烏",
+            "text": "なんで\n$handle$さんを\n連れてきてるわけ？",
+            "zh": "你干嘛把\n$handle$\n带过来啊？",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "508/TALK",
+            "narrator": "白烏",
+            "text": "やめてって\n言ったじゃない。",
+            "zh": "我不是说了\n不要带他来吗。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "509/SEL",
+            "narrator": "",
+            "text": "大丈夫？\n怪我とかは？",
+            "zh": "没事吧？\n有没有受伤？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "510/SEL",
+            "narrator": "",
+            "text": "本当に生きてたんだ",
+            "zh": "你真的还活着啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "511/SEL",
+            "narrator": "",
+            "text": "なんでそんな尊い格好してるの？",
+            "zh": "你怎么穿了一身这么尊的打扮？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "512/ACT",
+            "narrator": "",
+            "text": "大丈夫？\n怪我とかは？",
+            "zh": "没事吧？\n有没有受伤？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "514/TALK",
+            "narrator": "白烏",
+            "text": "お陰様で、\n特にダメージはナシ。",
+            "zh": "托你的福，\n基本没什么伤害。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "515/TALK",
+            "narrator": "白烏",
+            "text": "貴方の殴り方が\n良かったのね。",
+            "zh": "是你打人的方式\n够好吧。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "516/ACT",
+            "narrator": "",
+            "text": "本当に生きてたんだ",
+            "zh": "你真的还活着啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "518/TALK",
+            "narrator": "白烏",
+            "text": "残念ながらね。",
+            "zh": "很遗憾，还活着呢。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "519/ACT",
+            "narrator": "",
+            "text": "なんでそんな尊い格好してるの？",
+            "zh": "你怎么穿了一身这么尊的打扮？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "521/TALK",
+            "narrator": "白烏",
+            "text": "え？\nああ、神子装束のこと？",
+            "zh": "哎？\n啊，你是说巫女装束吗？",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "522/TALK",
+            "narrator": "白烏",
+            "text": "まあ確かに神前衣装だから\n尊い格好ではあると\n思うけど――",
+            "zh": "确实毕竟是神前服饰，\n说是尊贵的打扮\n倒也没错——",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "523/TALK",
+            "narrator": "白烏",
+            "text": "そんな風にダイレクトに\n言われたのは初めてね。",
+            "zh": "这么直白地被人这么说，\n我还是头一次呢。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "524/TALK",
+            "narrator": "白烏",
+            "text": "この姿は、\n本来の私の正装よ。",
+            "zh": "这副打扮，\n才是原本属于我的正装。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "525/TALK",
+            "narrator": "白烏",
+            "text": "一応これでも私、\n水鏡の神子の祭司だから。",
+            "zh": "好歹我也是\n水镜之巫女的祭司嘛。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "526/TALK",
+            "narrator": "白烏",
+            "text": "はぁ…わかってはいたけど\nやっぱり見られると\n恥ずかしいわね。",
+            "zh": "唉……虽然早有心理准备，\n但真被看到了\n还是觉得好羞耻啊。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "529/SEL",
+            "narrator": "",
+            "text": "無事で良かった。\n心配してたんだよ。",
+            "zh": "你没事就好。\n我一直很担心你呢。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "530/SEL",
+            "narrator": "",
+            "text": "それで、どうしてここに連れてきたの？",
+            "zh": "所以，为什么要带我来这里？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "531/ACT",
+            "narrator": "",
+            "text": "無事で良かった。\n心配してたんだよ。",
+            "zh": "你没事就好。\n我一直很担心你呢。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "532/TALK",
+            "narrator": "白烏",
+            "text": "またそんな、\nココロにも無い事\n言わないで。",
+            "zh": "别再说这种\n违心的\n话了。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "533/TALK",
+            "narrator": "エヴェレット　",
+            "text": "悟りを開いても\n素直じゃないところは\n変わらないのね。",
+            "zh": "就算大彻大悟了，\n你这不坦率的毛病\n还是老样子呢。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "534/TALK",
+            "narrator": "白烏",
+            "text": "そ、そんなこと……",
+            "zh": "才、才没有那种事……",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "535/TALK",
+            "narrator": "白烏",
+            "text": "…わ、わかったわよ。",
+            "zh": "……我、我知道了啦。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "536/TALK",
+            "narrator": "白烏",
+            "text": "ありがと。\n私のことを禊いでくれて。",
+            "zh": "谢谢。\n帮我做了祓禊。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "555/TALK",
+            "narrator": "白烏",
+            "text": "はあっ…！！",
+            "zh": "哈啊……！！",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "556/TALK",
+            "narrator": "白烏",
+            "text": "ビックリした…",
+            "zh": "吓了我一跳……",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "562/TALK",
+            "narrator": "白烏",
+            "text": "もう、急に\n撫でたりしないで！",
+            "zh": "真是的，别突然\n伸手摸我啊！",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "563/TALK",
+            "narrator": "白烏",
+            "text": "でも、まあ、\n嫌じゃなかったけど……",
+            "zh": "不过，嘛，\n倒也不是讨厌就是了……",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "564/ACT",
+            "narrator": "",
+            "text": "それで、どうしてここに連れてきたの？",
+            "zh": "所以，为什么要带我来这里？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "567/SEL",
+            "narrator": "",
+            "text": "それで、どうしてここに連れてきたの？",
+            "zh": "所以，为什么要带我来这里？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "568/ACT",
+            "narrator": "",
+            "text": "それで、どうしてここに連れてきたの？",
+            "zh": "所以，为什么要带我来这里？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "571/TALK",
+            "narrator": "エヴェレット　",
+            "text": "それなんだけどね。",
+            "zh": "正是要说这件事呢。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "594/TALK",
+            "narrator": "エヴェレット　",
+            "text": "実は、白烏から「種」を\n取り除いたことで\n気づいたんだけど。",
+            "zh": "其实，在从白鸦身上\n取除了「种子」之后，\n我才注意到一件事。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "595/TALK",
+            "narrator": "白烏",
+            "text": "今、２つの記憶が\n何の心構えも無い状態で、\n混濁し始めてるのよ。",
+            "zh": "现在，两段记忆\n在毫无心理准备的状态下，\n开始混浊了。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "596/SEL",
+            "narrator": "",
+            "text": "２つの記憶って？",
+            "zh": "两段记忆是指？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "597/SEL",
+            "narrator": "",
+            "text": "混濁するってどういうこと？",
+            "zh": "混浊是什么意思？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "598/ACT",
+            "narrator": "",
+            "text": "２つの記憶って？",
+            "zh": "两段记忆是指？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "599/TALK",
+            "narrator": "白烏",
+            "text": "現実である\n2031年時点の記憶と、\nつばめの世界での記憶。",
+            "zh": "作为现实的\n2031年时的记忆，\n以及在燕的世界里的记忆。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "600/ACT",
+            "narrator": "",
+            "text": "混濁するってどういうこと？",
+            "zh": "混浊是什么意思？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "601/TALK",
+            "narrator": "エヴェレット　",
+            "text": "貴方にも感覚的に\nわかるだろう言い方を\nするならば――",
+            "zh": "用你也能凭感觉\n理解的说法\n来讲的话——",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "602/TALK",
+            "narrator": "エヴェレット　",
+            "text": "夢と現実が\n区別つかなくなる状態。",
+            "zh": "就是梦境与现实\n变得无法区分的状态。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "604/SEL",
+            "narrator": "",
+            "text": "あーやっぱり",
+            "zh": "啊——果然",
+            "narrator_zh": ""
+        },
+        {
+            "location": "605/ACT",
+            "narrator": "",
+            "text": "あーやっぱり",
+            "zh": "啊——果然",
+            "narrator_zh": ""
+        },
+        {
+            "location": "607/TALK",
+            "narrator": "エヴェレット　",
+            "text": "何か心当たりがあるの？",
+            "zh": "你有什么头绪吗？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "608/SEL",
+            "narrator": "",
+            "text": "今、現実のアーヤが別人のようになってる",
+            "zh": "现在，现实中的绫水变得像另一个人一样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "609/ACT",
+            "narrator": "",
+            "text": "今、現実のアーヤが別人のようになってる",
+            "zh": "现在，现实中的绫水变得像另一个人一样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "611/TALK",
+            "narrator": "白烏",
+            "text": "なるほどね。\nやっぱり\nそうなってるか……。",
+            "zh": "原来如此。\n果然变成\n那样了吗……。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "612/SEL",
+            "narrator": "",
+            "text": "どうしてそんなことに？",
+            "zh": "怎么会变成那样？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "613/ACT",
+            "narrator": "",
+            "text": "どうしてそんなことに？",
+            "zh": "怎么会变成那样？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "615/TALK",
+            "narrator": "白烏",
+            "text": "恐らくは、今\n現実の私が置かれてる\n環境が問題ね。",
+            "zh": "恐怕问题出在\n此刻现实中的我\n所处的环境上。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "616/TALK",
+            "narrator": "エヴェレット　",
+            "text": "もっと具体的に言えば、\n卯月の歌。",
+            "zh": "说得更具体一点，\n就是卯月的歌。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "617/TALK",
+            "narrator": "白烏",
+            "text": "つばめのフェノメノンが\n飛散しかけてるの。",
+            "zh": "燕的PhenoMENON\n正在濒临飞散。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "618/TALK",
+            "narrator": "エヴェレット　",
+            "text": "フェノメノンの中から、\nその外側にある現実が\n透けて見えている状態。",
+            "zh": "从PhenoMENON之中，\n已经能隐约透视到\n外侧的现实了。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "619/TALK",
+            "narrator": "白烏",
+            "text": "ココロは現実の状況に\n即影響される。",
+            "zh": "心灵会直接受到\n现实状况的影响。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "620/SEL",
+            "narrator": "",
+            "text": "そうすると……？",
+            "zh": "那样的话……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "621/ACT",
+            "narrator": "",
+            "text": "そうすると……？",
+            "zh": "那样的话……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "623/TALK",
+            "narrator": "エヴェレット　",
+            "text": "そうすると――",
+            "zh": "那样的话——",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "624/TALK",
+            "narrator": "白烏",
+            "text": "私は貴方のことを\n忘れてしまうかも\nしれない。",
+            "zh": "我或许会\n把你的事情\n忘得一干二净。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "625/TALK",
+            "narrator": "エヴェレット　",
+            "text": "厳密には、\n夢オチにされちゃうって\n感じなんだけど。",
+            "zh": "严格来说，\n就像是会被当成\n一场梦一样糊弄过去呢。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "626/SEL",
+            "narrator": "",
+            "text": "それは辛すぎる！",
+            "zh": "那也太痛苦了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "627/ACT",
+            "narrator": "",
+            "text": "それは辛すぎる！",
+            "zh": "那也太痛苦了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "630/TALK",
+            "narrator": "エヴェレット　",
+            "text": "あら、そうなの？",
+            "zh": "哎呀，是吗？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "632/TALK",
+            "narrator": "エヴェレット　",
+            "text": "私だって同じよ！",
+            "zh": "我也一样啊！",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "634/TALK",
+            "narrator": "白烏",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "636/TALK",
+            "narrator": "エヴェレット　",
+            "text": "あら？\n白烏は？",
+            "zh": "哎呀？\n白鸦呢？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "638/TALK",
+            "narrator": "白烏",
+            "text": "自分いじめ？",
+            "zh": "自我欺凌吗？",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "639/TALK",
+            "narrator": "エヴェレット　",
+            "text": "貴方が不幸体質だから\n協力してあげてるのよ。",
+            "zh": "因为你是不幸体质，\n我才配合你的呀。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "640/TALK",
+            "narrator": "白烏",
+            "text": "それ、\nちょっと誤解してるから。",
+            "zh": "关于那个，\n你稍微有点误会哦。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "641/TALK",
+            "narrator": "エヴェレット　",
+            "text": "で？\nどうなのよ。",
+            "zh": "然后呢？\n你觉得怎么样嘛。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "642/TALK",
+            "narrator": "白烏",
+            "text": "そりゃ、まあ……\nちょっとは寂しいけど……",
+            "zh": "那当然，嘛……\n多少还是会有点寂寞啦……",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "643/TALK",
+            "narrator": "エヴェレット　",
+            "text": "よし、それじゃ決まりね。",
+            "zh": "好，那就这么定了。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "644/SEL",
+            "narrator": "",
+            "text": "何が？",
+            "zh": "定什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "645/ACT",
+            "narrator": "",
+            "text": "何が？",
+            "zh": "定什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "648/TALK",
+            "narrator": "エヴェレット　",
+            "text": "水鏡の神子のところへ\n行くのよ。",
+            "zh": "我们去水镜之巫女\n那里吧。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "672/TALK",
+            "narrator": "水鏡の神子",
+            "text": "エヴェレットと\n白烏ですか。",
+            "zh": "是艾弗雷特和\n白鸦啊。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "673/TALK",
+            "narrator": "水鏡の神子",
+            "text": "何故戻れたのです？",
+            "zh": "为何能够回来？",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "674/TALK",
+            "narrator": "エヴェレット　",
+            "text": "ダーリンのお陰で。",
+            "zh": "多亏了达令。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "675/TALK",
+            "narrator": "白烏",
+            "text": "ええ。\n五体満足で生きてるわよ。",
+            "zh": "嗯。\n四肢健全地活着呢。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "676/TALK",
+            "narrator": "水鏡の神子",
+            "text": "そうでしたか。",
+            "zh": "是这样啊。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "677/SEL",
+            "narrator": "",
+            "text": "お久し振りです",
+            "zh": "好久不见",
+            "narrator_zh": ""
+        },
+        {
+            "location": "678/SEL",
+            "narrator": "",
+            "text": "お前ちょっと気に入らないんだけど",
+            "zh": "其实我有点看你不顺眼",
+            "narrator_zh": ""
+        },
+        {
+            "location": "679/ACT",
+            "narrator": "",
+            "text": "お久し振りです",
+            "zh": "好久不见",
+            "narrator_zh": ""
+        },
+        {
+            "location": "680/ACT",
+            "narrator": "",
+            "text": "お前ちょっと気に入らないんだけど",
+            "zh": "其实我有点看你不顺眼",
+            "narrator_zh": ""
+        },
+        {
+            "location": "681/TALK",
+            "narrator": "水鏡の神子",
+            "text": "ということは、\n國政綾水のことが\n嫌いなんですね？",
+            "zh": "也就是说，\n您讨厌国政绫水\n是吗？",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "682/SEL",
+            "narrator": "",
+            "text": "まさか！",
+            "zh": "怎么可能！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "683/SEL",
+            "narrator": "",
+            "text": "まあ、ぶっちゃけ推しじゃないけど",
+            "zh": "嘛，老实说虽然不是我的推",
+            "narrator_zh": ""
+        },
+        {
+            "location": "684/ACT",
+            "narrator": "",
+            "text": "まさか！",
+            "zh": "怎么可能！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "686/TALK",
+            "narrator": "水鏡の神子",
+            "text": "國政綾水は私自身\nなのですが……",
+            "zh": "国政绫水就是\n我自身……",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "687/TALK",
+            "narrator": "水鏡の神子",
+            "text": "まあいいでしょう。",
+            "zh": "算了，无妨。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "688/ACT",
+            "narrator": "",
+            "text": "まあ、ぶっちゃけ推しじゃないけど",
+            "zh": "嘛，老实说虽然不是我的推",
+            "narrator_zh": ""
+        },
+        {
+            "location": "689/TALK",
+            "narrator": "水鏡の神子",
+            "text": "推し…？",
+            "zh": "推……？",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "693/TALK",
+            "narrator": "エヴェレット　",
+            "text": "は！？",
+            "zh": "哈！？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "694/TALK",
+            "narrator": "白烏",
+            "text": "え！？",
+            "zh": "哎！？",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "695/SEL",
+            "narrator": "",
+            "text": "え",
+            "zh": "哎",
+            "narrator_zh": ""
+        },
+        {
+            "location": "696/ACT",
+            "narrator": "",
+            "text": "え",
+            "zh": "哎",
+            "narrator_zh": ""
+        },
+        {
+            "location": "698/TALK",
+            "narrator": "エヴェレット　",
+            "text": "そうなの！？",
+            "zh": "是这样吗！？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "699/TALK",
+            "narrator": "白烏",
+            "text": "私の事、\nどうでもいい感じ\nだったのね。",
+            "zh": "原来你对我的事，\n一直都是无所谓的\n态度啊。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "700/SEL",
+            "narrator": "",
+            "text": "ごめん、そうなんだ",
+            "zh": "抱歉，确实是这样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "701/SEL",
+            "narrator": "",
+            "text": "いや、推しじゃないのとずっと支えて行きたいのは別の気持ちだよ！！",
+            "zh": "不对，不是推和想一直支持下去是两码事！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "702/ACT",
+            "narrator": "",
+            "text": "ごめん、そうなんだ",
+            "zh": "抱歉，确实是这样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "703/TALK",
+            "narrator": "エヴェレット　",
+            "text": "そう。\nもういいわ。",
+            "zh": "这样啊。\n够了。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "704/TALK",
+            "narrator": "白烏",
+            "text": "出ていって。",
+            "zh": "请你出去。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "711/ACT",
+            "narrator": "",
+            "text": "いや、推しじゃないのとずっと支えて行きたいのは別の気持ちだよ！！",
+            "zh": "不对，不是推和想一直支持下去是两码事！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "713/TALK",
+            "narrator": "エヴェレット　",
+            "text": "……ふーん。",
+            "zh": "……嗯哼。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "714/TALK",
+            "narrator": "白烏",
+            "text": "まあ、いいけど。",
+            "zh": "嘛，倒也无所谓。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "720/TALK",
+            "narrator": "エヴェレット　",
+            "text": "水鏡の神子。\n今日は問題があって\n相談しに来ました。",
+            "zh": "水镜之巫女。\n今天我们遇到问题，\n特地来找你商量。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "721/TALK",
+            "narrator": "白烏",
+            "text": "今、現実とフェノメノンの\n記憶が混濁して、とても\n危険な事になってます。",
+            "zh": "现在，现实与PhenoMENON的\n记忆发生了混浊，\n情况变得非常危险。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "722/TALK",
+            "narrator": "水鏡の神子",
+            "text": "そのようですね。",
+            "zh": "似乎正是如此。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "723/TALK",
+            "narrator": "エヴェレット　",
+            "text": "早急に\n何とかする必要が――",
+            "zh": "我们必须尽快\n想办法——",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "724/TALK",
+            "narrator": "水鏡の神子",
+            "text": "心配いりません。",
+            "zh": "不必担心。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "725/TALK",
+            "narrator": "水鏡の神子",
+            "text": "昇華し、フェノメノンを\n纏って世界となれば、\n全ては解決します。",
+            "zh": "只要升华，披上\nPhenoMENON化作世界，\n一切都会迎刃而解。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "726/TALK",
+            "narrator": "水鏡の神子",
+            "text": "昇華とフェノメノンは\nすなわち神となること。",
+            "zh": "升华与PhenoMENON，\n即是成为神明。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "727/TALK",
+            "narrator": "水鏡の神子",
+            "text": "己を含む、その世界全てを\n俯瞰して見ることができ、\nココロは安寧を迎えます。",
+            "zh": "得以俯瞰包含自身在内的\n整个世界，\n心灵也将迎来安宁。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "728/TALK",
+            "narrator": "エヴェレット　",
+            "text": "残念ですけど、\nフェノメノンはもう\n発生させられません。",
+            "zh": "很遗憾，\nPhenoMENON已经\n无法再引发了。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "729/TALK",
+            "narrator": "白烏",
+            "text": "私の中から\n種を取ってしまったから。",
+            "zh": "因为你已经从我体内\n把种子取走了。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "730/TALK",
+            "narrator": "水鏡の神子",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "731/TALK",
+            "narrator": "エヴェレット　",
+            "text": "………。",
+            "zh": "………。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "732/TALK",
+            "narrator": "白烏",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "733/SEL",
+            "narrator": "",
+            "text": "……………。",
+            "zh": "……………。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "734/ACT",
+            "narrator": "",
+            "text": "……………。",
+            "zh": "……………。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "737/TALK",
+            "narrator": "水鏡の神子",
+            "text": "いいえ。\nまだ存在するようですが。",
+            "zh": "不。\n似乎依然存在。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "738/TALK",
+            "narrator": "エヴェレット　",
+            "text": "え……",
+            "zh": "哎……",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "739/TALK",
+            "narrator": "白烏",
+            "text": "ええっ！？\nどういうこと！？",
+            "zh": "哎哎！？\n这是怎么回事！？",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "740/TALK",
+            "narrator": "水鏡の神子",
+            "text": "種を取ったと言いましたが\nどのように？",
+            "zh": "你们说取走了种子，\n是如何做到的？",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "741/TALK",
+            "narrator": "白烏",
+            "text": "私が発症し、\n$handle$さんに\n壊してもらったのよ。",
+            "zh": "由我发作，\n再让$handle$\n将我打破的。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "742/TALK",
+            "narrator": "水鏡の神子",
+            "text": "$handle$さん。\n貴方の心持ちを\n正直に伝えてください。",
+            "zh": "$handle$。\n请如实说出\n你的心意。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "747/SEL",
+            "narrator": "",
+            "text": "千羽鶴に協力して発症を推進します",
+            "zh": "我会协助千羽鹤推进发作",
+            "narrator_zh": ""
+        },
+        {
+            "location": "748/ACT",
+            "narrator": "",
+            "text": "千羽鶴に協力して発症を推進します",
+            "zh": "我会协助千羽鹤推进发作",
+            "narrator_zh": ""
+        },
+        {
+            "location": "750/TALK",
+            "narrator": "エヴェレット　",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "751/TALK",
+            "narrator": "白烏",
+            "text": "なるほどね。\nそういう事か。",
+            "zh": "原来如此。\n是这么回事啊。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "752/TALK",
+            "narrator": "エヴェレット　",
+            "text": "わざとなの！？",
+            "zh": "你是故意的吗！？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "753/TALK",
+            "narrator": "白烏",
+            "text": "落ち着いて、\nエヴェレット。",
+            "zh": "冷静点，\n艾弗雷特。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "754/TALK",
+            "narrator": "白烏",
+            "text": "$handle$さんは\nわざとはやってない。",
+            "zh": "$handle$\n并不是故意的。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "755/TALK",
+            "narrator": "白烏",
+            "text": "発症したクランと\n相まみえたとき――",
+            "zh": "当与发作的库兰\n兵刃相见之时——",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "756/TALK",
+            "narrator": "白烏",
+            "text": "そのクランをどう\n対処するかは、\n戦った相手次第。",
+            "zh": "该如何处置\n那个库兰，\n取决于交战的对手。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "757/TALK",
+            "narrator": "エヴェレット　",
+            "text": "まさか……\nそういうこと……？",
+            "zh": "难道说……\n是这么回事……？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "758/TALK",
+            "narrator": "白烏",
+            "text": "そう。\n$handle$さんは、\n発症を望んでいた。",
+            "zh": "没错。\n$handle$，\n是期望着发作的。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "759/TALK",
+            "narrator": "白烏",
+            "text": "だから、私が発症した\n理由である、種の除去を\n否定してしまったのよ。",
+            "zh": "所以，才否定了我发作的\n理由——也就是\n将种子除去这件事。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "760/TALK",
+            "narrator": "白烏",
+            "text": "無意識でね。",
+            "zh": "在无意识之中。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "761/TALK",
+            "narrator": "水鏡の神子",
+            "text": "そのようですね。",
+            "zh": "似乎正是如此。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "762/TALK",
+            "narrator": "エヴェレット　",
+            "text": "なんてこと……。",
+            "zh": "怎么会这样……。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "763/TALK",
+            "narrator": "白烏",
+            "text": "まあ、そういう事も\nあるわよ、ね。",
+            "zh": "嘛，这种事\n也是会有的，对吧。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "764/TALK",
+            "narrator": "白烏",
+            "text": "ところで、\n$handle$さんに１つ\n聞きたいことがあるの。",
+            "zh": "话说回来，\n我有件事想问一下\n$handle$。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "765/TALK",
+            "narrator": "白烏",
+            "text": "私をフェノメノンに\nしたいという希望は\nわかった。",
+            "zh": "你想让我变成\nPhenoMENON的愿望，\n我已经明白了。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "766/TALK",
+            "narrator": "白烏",
+            "text": "でも、大事なことを\nちゃんと言葉で\n教えて欲しい。",
+            "zh": "但是，有一件重要的事，\n我希望你能\n亲口告诉我。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "767/TALK",
+            "narrator": "白烏",
+            "text": "貴方が私にフェノメノンを\n展開させる理由は、\n私の為？　世界の為？",
+            "zh": "你让我展开\nPhenoMENON的理由，\n是为了我？还是为了世界？",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "768/SEL",
+            "narrator": "",
+            "text": "今は大変でも、後で絶対良かったって思ってもらえると信じてるから",
+            "zh": "因为我相信即使现在很辛苦，以后你绝对会觉得太好了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "769/SEL",
+            "narrator": "",
+            "text": "申し訳無いけど、アーヤよりも世界の先行きが大事",
+            "zh": "抱歉，比起绫水，世界的未来更重要",
+            "narrator_zh": ""
+        },
+        {
+            "location": "770/ACT",
+            "narrator": "",
+            "text": "今は大変でも、後で絶対良かったって思ってもらえると信じてるから",
+            "zh": "因为我相信即使现在很辛苦，以后你绝对会觉得太好了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "771/TALK",
+            "narrator": "白烏",
+            "text": "そう。",
+            "zh": "这样啊。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "772/TALK",
+            "narrator": "白烏",
+            "text": "なら私は、\n$handle$さんを\n信じる。",
+            "zh": "既然如此，\n我就相信\n$handle$。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "776/TALK",
+            "narrator": "エヴェレット　",
+            "text": "ええっ！？\nちょっとどういうこと？",
+            "zh": "哎哎！？\n等下，这是什么意思？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "779/TALK",
+            "narrator": "白烏",
+            "text": "貴方には\n難しいでしょうね、\nエヴェレット。",
+            "zh": "这对你来说\n大概很难理解吧，\n艾弗雷特。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "780/TALK",
+            "narrator": "白烏",
+            "text": "けど、私は以前、\n発症を任された存在だから\nわかるのよ。",
+            "zh": "不过，我以前也是\n被托付了发作的存在，\n所以我能明白。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "781/TALK",
+            "narrator": "白烏",
+            "text": "発症は決して悪ではない。\n考え方と\n扱い方次第だって。",
+            "zh": "发作绝非恶事。\n全看怎么想、\n又怎么去对待它。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "782/TALK",
+            "narrator": "エヴェレット　",
+            "text": "無理無理無理。\nちょっと何言ってるか\nわからないから。",
+            "zh": "不行不行不行。\n完全听不懂\n你在说什么啊。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "783/TALK",
+            "narrator": "白烏",
+            "text": "まあ、無理も無いわよね。",
+            "zh": "嘛，这也难怪。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "786/TALK",
+            "narrator": "白烏",
+            "text": "少しだけ\nお話しましょうか。",
+            "zh": "稍微\n聊一聊吧。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "789/TALK",
+            "narrator": "白烏",
+            "text": "水鏡の神子も\n$handle$さんも\n一緒に。",
+            "zh": "水镜之巫女和\n$handle$，\n大家一起。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "790/ACT",
+            "narrator": "",
+            "text": "申し訳無いけど、アーヤよりも世界の先行きが大事",
+            "zh": "抱歉，比起绫水，世界的未来更重要",
+            "narrator_zh": ""
+        },
+        {
+            "location": "791/TALK",
+            "narrator": "白烏",
+            "text": "そう。",
+            "zh": "这样啊。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "792/TALK",
+            "narrator": "白烏",
+            "text": "申し訳無いけど、\nそれだったら\n賛同できない。",
+            "zh": "抱歉，\n如果是那样的话，\n我无法赞同。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "793/TALK",
+            "narrator": "白烏",
+            "text": "後は私たちで\n決着をつけるから、\n貴方は席を外してて。",
+            "zh": "剩下的由我们自己\n做个了断，\n请你先退席吧。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "794/SEL",
+            "narrator": "",
+            "text": "えっ！？",
+            "zh": "哎！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "795/ACT",
+            "narrator": "",
+            "text": "えっ！？",
+            "zh": "哎！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "806/TALK",
+            "narrator": "水鏡の神子",
+            "text": "……確かに。\nそのようです。",
+            "zh": "……确实。\n似乎正是如此。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "807/TALK",
+            "narrator": "水鏡の神子",
+            "text": "フェノメノンの為の\nエネルギーの源は\n既に存在しない。",
+            "zh": "用于PhenoMENON的\n能量之源\n已然不复存在。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "808/TALK",
+            "narrator": "水鏡の神子",
+            "text": "何故そのような事を？",
+            "zh": "为何要做那种事？",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "809/TALK",
+            "narrator": "エヴェレット　",
+            "text": "それを答える前に、\n逆に聞きたいことが\nあります。",
+            "zh": "在回答这个问题之前，\n我反而有件事\n想问你。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "810/TALK",
+            "narrator": "水鏡の神子",
+            "text": "何でしょうか。",
+            "zh": "请问是什么事。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "811/TALK",
+            "narrator": "エヴェレット　",
+            "text": "私がフェノメノン発症に\n否定的なのは\nご存知ですよね？",
+            "zh": "你应该知道，\n我对PhenoMENON发作\n持否定态度吧？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "812/TALK",
+            "narrator": "水鏡の神子",
+            "text": "もちろん。",
+            "zh": "当然。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "813/TALK",
+            "narrator": "エヴェレット　",
+            "text": "白烏が、\n否定派になったことも\nご存知ですか？",
+            "zh": "那你也知道，\n白鸦也已经\n转为否定派了吗？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "814/TALK",
+            "narrator": "水鏡の神子",
+            "text": "ええ、もちろん。",
+            "zh": "嗯，当然。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "815/TALK",
+            "narrator": "白烏",
+            "text": "では、そこに大きな\n矛盾があることに\nお気づきですか？",
+            "zh": "那么，你有没有注意到\n这其中存在一个\n巨大的矛盾呢？",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "816/TALK",
+            "narrator": "水鏡の神子",
+            "text": "……矛盾？",
+            "zh": "……矛盾？",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "817/TALK",
+            "narrator": "白烏",
+            "text": "セルフクランは、\n全ての人格の総元締め。",
+            "zh": "自身库兰，\n是所有人格的总管。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "818/TALK",
+            "narrator": "白烏",
+            "text": "0xで最も影響力のある\nエヴェレットと――",
+            "zh": "在0x最具影响力的\n艾弗雷特，以及——",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "819/TALK",
+            "narrator": "エヴェレット　",
+            "text": "1xで発症の役割を\n与えられた白烏。",
+            "zh": "在1x被赋予了\n发作职责的白鸦。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "820/TALK",
+            "narrator": "白烏",
+            "text": "ほぼ総意に近い影響力を\n網羅する私たちが\n共に否定派の中。",
+            "zh": "囊括了近乎总意之影响力的\n我们两人，\n如今都是否定派。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "821/TALK",
+            "narrator": "エヴェレット　",
+            "text": "貴方だけが\n全く揺るぎもせず\n発症に向かっているの。",
+            "zh": "唯有你一人\n毫不动摇地\n执意迈向发作。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "822/TALK",
+            "narrator": "水鏡の神子",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "823/TALK",
+            "narrator": "白烏",
+            "text": "それってちょっと\nおかしくないですか？",
+            "zh": "这难道不觉得\n有点奇怪吗？",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "824/TALK",
+            "narrator": "エヴェレット　",
+            "text": "セルフクランと\n私たちは、それぞれが\n互いに影響し合う。",
+            "zh": "自身库兰与我们之间，\n彼此都是\n相互影响的。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "825/TALK",
+            "narrator": "白烏",
+            "text": "なのに今回は、\n全くそれが\n見られないんです。",
+            "zh": "可这一次，\n却完全看不到\n任何相互影响的迹象。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "826/SEL",
+            "narrator": "",
+            "text": "それってどういう事？",
+            "zh": "那是什么意思？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "827/ACT",
+            "narrator": "",
+            "text": "それってどういう事？",
+            "zh": "那是什么意思？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "831/TALK",
+            "narrator": "エヴェレット　",
+            "text": "外部からの\n矯正力がとても\n強いのでしょうね。",
+            "zh": "大概是来自外部的\n矫正力\n非常强大吧。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "832/TALK",
+            "narrator": "白烏",
+            "text": "簡単に言えば、\n洗脳されていると\nいうこと。",
+            "zh": "简单来说，\n就是被洗脑了\n的意思。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "833/TALK",
+            "narrator": "白烏",
+            "text": "まあ、私が\n言える立場では\nないけどね。",
+            "zh": "嘛，虽然我\n也没有立场\n说这种话就是了。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "836/TALK",
+            "narrator": "水鏡の神子",
+            "text": "…わかりました。\n私がすこしばかり\n性急すぎたようです。",
+            "zh": "……我明白了。\n似乎是我稍微有些\n操之过急了。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "837/TALK",
+            "narrator": "水鏡の神子",
+            "text": "少し腰を据えて\n話をしましょうか。",
+            "zh": "我们坐下来\n好好谈谈吧。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "838/TALK",
+            "narrator": "水鏡の神子",
+            "text": "$handle$も\n一緒に。",
+            "zh": "$handle$也\n一起。",
+            "narrator_zh": "水镜之巫女"
+        },
+        {
+            "location": "23/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:Interrupt】</color>\nSystem Interrupted.\n\n必須選択肢が選ばれていません。\n\n<color=green>『STORY27：シン・カグラ』</color>\nにて、選択を行ってから\n再度アクセスしてください。\n",
+            "zh": "<color=green>【TRI-OS Plug-in:Interrupt】</color>\nSystem Interrupted.\n\n尚未选择必须选项。\n\n<color=green>『STORY27：新・神乐』</color>\n请在其中做出选择后\n再次访问。\n",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "27/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>-月--日　 -:-- --</color>\nNull",
+            "zh": "<color=green>-月--日　 -:-- --</color>\nNull",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "224/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:Interrupt】</color>\nSystem Interrupted.\n\nMODE : DI\nRESTART : SPHERE_MODE.\nMODE : EI\nSET_ADDR: 0x3CB\nRUN/.",
+            "zh": "<color=green>【TRI-OS Plug-in:Interrupt】</color>\nSystem Interrupted.\n\nMODE : DI\nRESTART : SPHERE_MODE.\nMODE : EI\nSET_ADDR: 0x3CB\nRUN/.",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "286/DIALOG",
+            "narrator": "INFO",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n接続されました。\n\n画面をタップして相手に\n感覚を伝えましょう。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已连接。\n\n请点击画面，向对方\n传达感觉吧。",
+            "narrator_zh": "INFO"
+        },
+        {
+            "location": "315/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n切断されました。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已断开。",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "541/DIALOG",
+            "narrator": "INFO",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n接続されました。\n\n画面をタップして相手に\n感覚を伝えましょう。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已连接。\n\n请点击画面，向对方\n传达感觉吧。",
+            "narrator_zh": "INFO"
+        },
+        {
+            "location": "544/DIALOG",
+            "narrator": "INFO",
+            "text": "<color=green>【TRI-OS Plug-in:librarian】</color>\n耐性が無いので\n普通に撫でてあげてください。\n(p89)",
+            "zh": "<color=green>【TRI-OS Plug-in:librarian】</color>\n因为她没有耐性，\n请普通地摸摸她吧。\n(p89)",
+            "narrator_zh": "INFO"
+        },
+        {
+            "location": "560/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n切断されました。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已断开。",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "709/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=red>【TRI-OS Error:0x99】</color>\nココロスフィアとの回線が\n切断されました。(981)",
+            "zh": "<color=red>【TRI-OS Error:0x99】</color>\n与心灵领域的连接\n已断开。(981)",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "801/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=red>【TRI-OS Error:0x99】</color>\nココロスフィアとの回線が\n切断されました。(981)",
+            "zh": "<color=red>【TRI-OS Error:0x99】</color>\n与心灵领域的连接\n已断开。(981)",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "844/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=red>【TRI-OS Error:0x99】</color>\nココロスフィアとの回線が\n切断されました。(981)",
+            "zh": "<color=red>【TRI-OS Error:0x99】</color>\n与心灵领域的连接\n已断开。(981)",
+            "narrator_zh": "NOTICE"
+        }
+    ]
+}
