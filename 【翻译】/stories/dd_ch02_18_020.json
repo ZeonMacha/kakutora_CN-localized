@@ -1,0 +1,644 @@
+{
+    "dir": "chap18/daydra/dd_ch02_18_020.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "18256",
+        "cid": "ayami",
+        "title": "Extra006 プレミアムストーリー",
+        "sub_title": "徹夜の準備",
+        "title_zh": "Extra006 额外剧情",
+        "sub_title_zh": "熬夜的准备"
+    },
+    "entry": [
+        {
+            "location": "276/SCENARIO",
+            "narrator": "",
+            "text": "徹夜の準備",
+            "zh": "熬夜的准备",
+            "narrator_zh": ""
+        },
+        {
+            "location": "289/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ん？　何かしらこの袋？",
+            "zh": "嗯？　这袋子里装的是什么？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "294/TALK",
+            "narrator": "アーヤ",
+            "text": "私の夕飯よ。\nさっきコンビニで\n買ってきたの。",
+            "zh": "我的晚饭哦。\n刚才在便利店\n买回来的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "297/TALK",
+            "narrator": "ガブリエラ",
+            "text": "珍しいわね。\nしっかり者のアーヤが\n手抜きご飯なんて。",
+            "zh": "真稀奇呢。\n一向靠得住的绫水\n居然吃这么敷衍的饭。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "298/TALK",
+            "narrator": "アーヤ",
+            "text": "今日は特別。\n明日提出しなきゃいけない\nレポートがあってね。",
+            "zh": "今天特殊嘛。\n明天有一份必须\n提交的报告。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "299/TALK",
+            "narrator": "アーヤ",
+            "text": "多分徹夜作業になるから、\n今日はささっと夕飯を\n済ませたいのよ。",
+            "zh": "估计要通宵赶工了，\n所以今天晚饭就想\n随随便便解决掉。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "300/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ふ～ん…っていうか、\nこのラインナップは\n酷いんじゃない？",
+            "zh": "哦——……不过话说，\n这搭配未免也太\n惨不忍睹了吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "301/TALK",
+            "narrator": "ガブリエラ",
+            "text": "おにぎりと缶コーヒー、\nそれにエナジードリンク？",
+            "zh": "饭团配罐装咖啡，\n再加上功能饮料？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "302/TALK",
+            "narrator": "アーヤ",
+            "text": "本当に夕飯を作る時間も\n惜しいくらいなのよ。",
+            "zh": "真的连做晚饭的时间\n都恨不得省下来嘛。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "303/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だからって…\nこれじゃ身体壊すわよ。",
+            "zh": "话虽如此……\n这样吃会把身体搞垮的。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "304/TALK",
+            "narrator": "アーヤ",
+            "text": "たった一日くらいで\n壊れたりしないってば。",
+            "zh": "就这么一天而已，\n不会搞垮的啦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "305/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "308/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あたしが、夕飯作って\nあげてもいいけど？",
+            "zh": "要不，我来帮你\n做晚饭也不是不行？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "310/TALK",
+            "narrator": "アーヤ",
+            "text": "えっ！？",
+            "zh": "咦！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "311/SEL",
+            "narrator": "",
+            "text": "作ってもらいなよ",
+            "zh": "让她做呗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "312/SEL",
+            "narrator": "",
+            "text": "遠慮した方が良いと思う",
+            "zh": "还是谢绝比较好吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "313/SEL",
+            "narrator": "",
+            "text": "何かリクエストすれば？",
+            "zh": "点个菜怎么样？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "314/ACT",
+            "narrator": "",
+            "text": "作ってもらいなよ",
+            "zh": "让她做呗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "316/ACT",
+            "narrator": "",
+            "text": "遠慮した方が良いと思う",
+            "zh": "还是谢绝比较好吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "318/ACT",
+            "narrator": "",
+            "text": "何かリクエストすれば？",
+            "zh": "点个菜怎么样？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "327/TALK",
+            "narrator": "ガブリエラ",
+            "text": "か、勘違いしないで！",
+            "zh": "别、别误会了！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "328/TALK",
+            "narrator": "ガブリエラ",
+            "text": "アーヤはトライナリーの\nリーダーでしょ？",
+            "zh": "绫水你可是三重奏的\n队长吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "329/SEL",
+            "narrator": "",
+            "text": "気づいて",
+            "zh": "理理我啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "330/ACT",
+            "narrator": "",
+            "text": "気づいて",
+            "zh": "理理我啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "335/TALK",
+            "narrator": "ガブリエラ",
+            "text": "なのに、そんな身体に\n悪い食事して倒れでも\nしたら――",
+            "zh": "结果你却吃那种\n伤身体的东西，万一\n病倒了的话——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "337/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あたし達が面倒なことに\nなるでしょ？",
+            "zh": "我们大家不就都要\n跟着添麻烦了吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "338/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "341/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だから、ご飯くらい\n作ってあげてもいいわ。",
+            "zh": "所以，做顿饭什么的\n我倒是可以帮你的。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "342/SEL",
+            "narrator": "",
+            "text": "おーい！！",
+            "zh": "喂——！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "343/ACT",
+            "narrator": "",
+            "text": "おーい！！",
+            "zh": "喂——！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "349/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "352/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ってか、さっきから\nＷＡＶＥの着信が\nうるさいから――",
+            "zh": "话说，刚才起\nWAVE的消息提示音\n就吵个不停——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "353/TALK",
+            "narrator": "ガブリエラ",
+            "text": "先にそっちすまし\nちゃえば？",
+            "zh": "你先把那边\n处理了呗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "356/TALK",
+            "narrator": "アーヤ",
+            "text": "そ、そうね。\nまったく、誰かしら？",
+            "zh": "说、说得对。\n真是的，是谁啊？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "369/TALK",
+            "narrator": "プレイヤー",
+            "text": "気づいて",
+            "zh": "理理我啊",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "370/TALK",
+            "narrator": "プレイヤー",
+            "text": "おーい！！",
+            "zh": "喂——！！",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "372/TALK",
+            "narrator": "アーヤ",
+            "text": "しつこい(｀Д´)",
+            "zh": "好烦人(｀Д´)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "373/TALK",
+            "narrator": "アーヤ",
+            "text": "でも、",
+            "zh": "不过，",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "374/TALK",
+            "narrator": "アーヤ",
+            "text": "聞いて欲しかった",
+            "zh": "好想说给你听",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "376/TALK",
+            "narrator": "アーヤ",
+            "text": "ギャヴィが私のために夕飯作ってくれるって",
+            "zh": "加维说要为我做晚饭呢",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "377/TALK",
+            "narrator": "アーヤ",
+            "text": "感激だよー(TωT)",
+            "zh": "好感动啊——(TωT)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "389/TALK",
+            "narrator": "アーヤ",
+            "text": "もちろん！(≧∇≦)b",
+            "zh": "那当然！(≧∇≦)b",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "401/TALK",
+            "narrator": "アーヤ",
+            "text": "お待たせ。",
+            "zh": "久等了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "402/TALK",
+            "narrator": "アーヤ",
+            "text": "それじゃあ、お言葉に\n甘えてご馳走になるわ。",
+            "zh": "那我就不客气，\n承蒙你的好意了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "404/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そ、そう…。",
+            "zh": "是、是吗……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "407/TALK",
+            "narrator": "アーヤ",
+            "text": "洗い物くらいはするから。",
+            "zh": "洗碗什么的我会来的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "410/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そういうの良いから、\n食べたらすぐレポート\nやんなさいよ。",
+            "zh": "那些不用你管，\n吃完赶紧去写你的\n报告吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "414/TALK",
+            "narrator": "アーヤ",
+            "text": "ふふっ…ありがと。\nそうさせてもらうわ。",
+            "zh": "呵呵……谢谢。\n那我就恭敬不如从命了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "417/TALK",
+            "narrator": "ガブリエラ",
+            "text": "まったく…。",
+            "zh": "真是的……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "418/TALK",
+            "narrator": "ガブリエラ",
+            "text": "とにかく、今夜は期待\nしてなさい。",
+            "zh": "总之，今晚你就\n好好期待着吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "419/TALK",
+            "narrator": "ガブリエラ",
+            "text": "うんと美味しくて、\n栄養タップリの\n和食を作ってあげるわ。",
+            "zh": "我给你做一顿超级美味、\n营养满满的\n日式料理。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "421/TALK",
+            "narrator": "アーヤ",
+            "text": "和食ってことは、やっぱり\nギャヴィオリジナルの\nアレンジ料理？",
+            "zh": "说是日式料理，难道又是\n加维原创的\n改良菜？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "424/TALK",
+            "narrator": "ガブリエラ",
+            "text": "何よ、不満なの？",
+            "zh": "怎么，你有意见吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "426/TALK",
+            "narrator": "アーヤ",
+            "text": "味見さえして\nもらえればね。",
+            "zh": "只要你做的时候\n先尝过味道就行。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "428/TALK",
+            "narrator": "ガブリエラ",
+            "text": "言ったわね！？",
+            "zh": "你这话说得可真敢！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "430/TALK",
+            "narrator": "ガブリエラ",
+            "text": "絶対美味しいの作って\n驚かせてやるんだから！",
+            "zh": "我绝对会做出超好吃的菜\n让你大吃一惊的！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "431/TALK",
+            "narrator": "アーヤ",
+            "text": "うん、楽しみにしてるわ。",
+            "zh": "嗯，我很期待哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "434/TALK",
+            "narrator": "アーヤ",
+            "text": "…甘え過ぎかしら？",
+            "zh": "……是不是太麻烦她了？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "435/TALK",
+            "narrator": "アーヤ",
+            "text": "ギャヴィのことだから、きっと手の込んだ料理作りそうだし",
+            "zh": "按加维的性子，肯定会做很费工夫的菜",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "436/TALK",
+            "narrator": "アーヤ",
+            "text": "…断った方がいいわね",
+            "zh": "……还是拒绝比较好吧",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "448/TALK",
+            "narrator": "アーヤ",
+            "text": "やっぱり遠慮するわ。",
+            "zh": "我还是谢绝了吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "449/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…あたしの料理に\n不満があるとか？",
+            "zh": "……你对我的手艺\n有什么不满吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "450/TALK",
+            "narrator": "アーヤ",
+            "text": "そうじゃなくて、\n二人分作らせるなんて\n迷惑だと思うし…。",
+            "zh": "不是的，让你做\n两个人的分量，\n我觉得太给你添麻烦了……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "452/TALK",
+            "narrator": "ガブリエラ",
+            "text": "何でそうなるのよ？",
+            "zh": "怎么就变成那样了？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "453/TALK",
+            "narrator": "ガブリエラ",
+            "text": "食べに来なさい、って\n言ってるのはあたし\nでしょ？",
+            "zh": "开口说“过来吃吧”的人\n是我自己\n没错吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "454/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あたしがそう言ってるん\nだから、迷惑だなんて\n勝手に決めないでよ。",
+            "zh": "既然都是我主动说的，\n就别自己擅自替我\n觉得麻烦啊。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "455/TALK",
+            "narrator": "アーヤ",
+            "text": "でも…。",
+            "zh": "可是……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "456/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そんな理由で断られる方が\n迷惑なんだってば！",
+            "zh": "因为这种理由被你拒绝，\n才更让人觉得麻烦好不好！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "458/TALK",
+            "narrator": "ガブリエラ",
+            "text": "迷惑掛けるのが嫌なら、\n大人しく食べに来なさい。",
+            "zh": "要是不想给我添麻烦，\n就乖乖过来吃。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "459/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "461/TALK",
+            "narrator": "アーヤ",
+            "text": "ありがとう。\nじゃあ、ご馳走になるわ。",
+            "zh": "谢谢。\n那我就恭敬不如从命了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "462/TALK",
+            "narrator": "ガブリエラ",
+            "text": "それでいいのよ。",
+            "zh": "这样才对嘛。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "464/TALK",
+            "narrator": "ガブリエラ",
+            "text": "精が付くもの沢山\n作るから、お腹いっぱい\n食べなきゃダメよ。",
+            "zh": "我会做很多补精力的菜，\n你必须吃得\n饱饱的才行。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "467/TALK",
+            "narrator": "アーヤ",
+            "text": "眠くなっちゃうから、\n程々にしてもらえると\n嬉しいかな…。",
+            "zh": "吃太饱会犯困的，\n能稍微适量一点的话\n我会更开心……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "473/TALK",
+            "narrator": "アーヤ",
+            "text": "そうするわ",
+            "zh": "就这么办吧",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "474/TALK",
+            "narrator": "アーヤ",
+            "text": "久しぶりに食べたい物があるのo(^∇^)o",
+            "zh": "有样好久没吃的东西想吃呢o(^∇^)o",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "486/TALK",
+            "narrator": "アーヤ",
+            "text": "じゃあ、ポーランド料理を\nリクエストしようかしら。",
+            "zh": "那，我就点一道\n波兰菜怎么样。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "489/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…リクエストを受け付ける\nとは言ってないんだけど？",
+            "zh": "……我可没说过\n接受点菜啊？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "491/TALK",
+            "narrator": "アーヤ",
+            "text": "受け付けないとも\n言ってないでしょ？",
+            "zh": "你也没说过\n不接受吧？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "494/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そこまで甘えないでよ。\nレポート提出したら\n自分で作ればいいでしょ？",
+            "zh": "别这么得寸进尺啊。\n等报告交上去之后\n你自己做不就行了？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "495/TALK",
+            "narrator": "アーヤ",
+            "text": "本場の味をよく知ってる、\nギャヴィの作ったものを\n食べたいのよ。",
+            "zh": "我想吃最懂地道风味的\n加维亲手做的\n波兰菜嘛。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "496/TALK",
+            "narrator": "アーヤ",
+            "text": "…ダメかしら？",
+            "zh": "……不行吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "499/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "502/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…まあ、いいけど。\nあたしも久しぶりに\n食べたいし――",
+            "zh": "……算了，也行吧。\n正好我也好久没吃了，\n怪想念的——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "503/TALK",
+            "narrator": "ガブリエラ",
+            "text": "最近は創作和食ばかりで、\nずっと作ってなかった\nから、自信ないけど。",
+            "zh": "不过最近光顾着做\n创意日料，好久没做过了，\n没什么自信就是了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "504/TALK",
+            "narrator": "アーヤ",
+            "text": "大丈夫よ。\n楽しみにしてるわ。",
+            "zh": "没关系的。\n我很期待哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "506/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ふんっ、勝手なんだから。",
+            "zh": "哼，真够任性的。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "510/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…絶対に美味しいの\n作ってみせるわ！",
+            "zh": "……我绝对会做出\n超美味的料理给你看的！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "286/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>7月28日　6:41 PM</color>\nとある平日の午後、寮「とらいあんぐる」アーヤの部屋にて。",
+            "zh": "<color=green>7月28日　6:41 PM</color>\n某个工作日的傍晚，在宿舍“三角”绫水的房间内。",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "521/DIALOG",
+            "narrator": "Dialog_GEThimegoto_ch02",
+            "text": "【夜食をどうぞ】",
+            "zh": "【请用宵夜】",
+            "narrator_zh": "Dialog_GEThimegoto_ch02"
+        }
+    ]
+}
