@@ -1,0 +1,6214 @@
+{
+    "dir": "mytalk/evtalk_ch04.js",
+    "type": "Mytalk",
+    "info": {
+        "story_id": "",
+        "cid": "_",
+        "title": "",
+        "sub_title": ""
+    },
+    "entry": [
+        {
+            "location": "12/SEL",
+            "narrator": "",
+            "text": "あいさつ",
+            "zh": "打招呼",
+            "narrator_zh": ""
+        },
+        {
+            "location": "13/SEL",
+            "narrator": "",
+            "text": "天気",
+            "zh": "天气",
+            "narrator_zh": ""
+        },
+        {
+            "location": "14/SEL",
+            "narrator": "",
+            "text": "質問",
+            "zh": "提问",
+            "narrator_zh": ""
+        },
+        {
+            "location": "19/SEL",
+            "narrator": "",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": ""
+        },
+        {
+            "location": "24/ACT",
+            "narrator": "",
+            "text": "あいさつ",
+            "zh": "打招呼",
+            "narrator_zh": ""
+        },
+        {
+            "location": "25/SEL",
+            "narrator": "",
+            "text": "おはよう",
+            "zh": "早上好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "26/SEL",
+            "narrator": "",
+            "text": "こんにちは",
+            "zh": "你好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "27/SEL",
+            "narrator": "",
+            "text": "こんばんは",
+            "zh": "晚上好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "28/SEL",
+            "narrator": "",
+            "text": "行ってきます",
+            "zh": "我出门了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "29/SEL",
+            "narrator": "",
+            "text": "ただいま",
+            "zh": "我回来了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "30/SEL",
+            "narrator": "",
+            "text": "おやすみなさい",
+            "zh": "晚安",
+            "narrator_zh": ""
+        },
+        {
+            "location": "31/SEL",
+            "narrator": "",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": ""
+        },
+        {
+            "location": "34/ACT",
+            "narrator": "",
+            "text": "おはよう",
+            "zh": "早上好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "37/TALK",
+            "narrator": "みやび",
+            "text": "ん、おはようさん",
+            "zh": "嗯，早啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "39/TALK",
+            "narrator": "みやび",
+            "text": "今起きたがか？",
+            "zh": "现在才起床咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "41/TALK",
+            "narrator": "みやび",
+            "text": "うちより後に起きるとは、えい度胸やね",
+            "zh": "比我起得还晚，好大的胆子咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "46/ACT",
+            "narrator": "",
+            "text": "こんにちは",
+            "zh": "你好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "49/TALK",
+            "narrator": "みやび",
+            "text": "ん、こんにちは",
+            "zh": "嗯，你好",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "51/TALK",
+            "narrator": "みやび",
+            "text": "おお、ハローハロー",
+            "zh": "哦哦，哈罗哈罗",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "53/TALK",
+            "narrator": "みやび",
+            "text": "ん？　昼寝の時間の合図か？",
+            "zh": "嗯？　这是午睡时间的暗号？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "58/ACT",
+            "narrator": "",
+            "text": "こんばんは",
+            "zh": "晚上好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "61/TALK",
+            "narrator": "みやび",
+            "text": "こんばんは",
+            "zh": "晚上好",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "63/TALK",
+            "narrator": "みやび",
+            "text": "丁寧な奴やね…こんばんは",
+            "zh": "还怪讲究的…晚上好",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "みやび",
+            "text": "別に、挨拶はせんでえいよ",
+            "zh": "不特意打招呼也行哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "66/TALK",
+            "narrator": "みやび",
+            "text": "一々面倒やきね",
+            "zh": "一件件来太麻烦啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "71/ACT",
+            "narrator": "",
+            "text": "行ってきます",
+            "zh": "我出门了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "74/TALK",
+            "narrator": "みやび",
+            "text": "気ぃつけるちや",
+            "zh": "要当心滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "みやび",
+            "text": "行ってらっしゃい",
+            "zh": "路上小心",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "77/TALK",
+            "narrator": "みやび",
+            "text": "お土産期待してるがよ",
+            "zh": "特产我可期待着啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "79/TALK",
+            "narrator": "みやび",
+            "text": "よくわからんけんど、行ってらっしゃい",
+            "zh": "虽然没懂是驷马意思，但是，路上小心",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "80/TALK",
+            "narrator": "みやび",
+            "text": "…ああ、端末が歩き出すわけやないんやね？",
+            "zh": "……哦，是说终端并不会自己走出门，对啵？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "85/ACT",
+            "narrator": "",
+            "text": "ただいま",
+            "zh": "我回来了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "88/TALK",
+            "narrator": "みやび",
+            "text": "おかえり",
+            "zh": "欢迎回来",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "90/TALK",
+            "narrator": "みやび",
+            "text": "おかえり",
+            "zh": "欢迎回来",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "91/TALK",
+            "narrator": "みやび",
+            "text": "外出は楽しかったか？",
+            "zh": "出去玩得开心咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "93/TALK",
+            "narrator": "みやび",
+            "text": "…端末はずっとここにあったけんど？",
+            "zh": "……可终端一直都在这里来着？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "99/ACT",
+            "narrator": "",
+            "text": "おやすみなさい",
+            "zh": "晚安",
+            "narrator_zh": ""
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "みやび",
+            "text": "ん、おやすみ",
+            "zh": "嗯，晚安",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "みやび",
+            "text": "ゆっくり眠るがよ",
+            "zh": "好好睡个够啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "105/TALK",
+            "narrator": "みやび",
+            "text": "けんど、呼んだらすぐ起きるがよ",
+            "zh": "但是，一叫你就要马上起来啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "107/TALK",
+            "narrator": "みやび",
+            "text": "うちより先に寝るんか？",
+            "zh": "要睡在我前头咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "108/TALK",
+            "narrator": "みやび",
+            "text": "まあえいわ、お疲れさん",
+            "zh": "得吧，辛苦了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "112/ACT",
+            "narrator": "",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": ""
+        },
+        {
+            "location": "118/ACT",
+            "narrator": "",
+            "text": "天気",
+            "zh": "天气",
+            "narrator_zh": ""
+        },
+        {
+            "location": "119/SEL",
+            "narrator": "",
+            "text": "いい天気だった",
+            "zh": "今天天气很好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "120/SEL",
+            "narrator": "",
+            "text": "雨が降りそう",
+            "zh": "快下雨了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "121/SEL",
+            "narrator": "",
+            "text": "雨の日が多くて…",
+            "zh": "最近雨天好多……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "122/SEL",
+            "narrator": "",
+            "text": "星がよく見える",
+            "zh": "星星看得很清楚",
+            "narrator_zh": ""
+        },
+        {
+            "location": "123/SEL",
+            "narrator": "",
+            "text": "流れ星を見た",
+            "zh": "看到流星了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "124/SEL",
+            "narrator": "",
+            "text": "虹を見た",
+            "zh": "看到彩虹了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "125/SEL",
+            "narrator": "",
+            "text": "雨の中を散歩した",
+            "zh": "在雨中散了步",
+            "narrator_zh": ""
+        },
+        {
+            "location": "126/SEL",
+            "narrator": "",
+            "text": "急な雨に降られた",
+            "zh": "被突然下的雨淋到了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "127/SEL",
+            "narrator": "",
+            "text": "雪が降ってる",
+            "zh": "正在下雪",
+            "narrator_zh": ""
+        },
+        {
+            "location": "128/SEL",
+            "narrator": "",
+            "text": "雷が鳴ってる",
+            "zh": "正在打雷",
+            "narrator_zh": ""
+        },
+        {
+            "location": "129/SEL",
+            "narrator": "",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": ""
+        },
+        {
+            "location": "132/ACT",
+            "narrator": "",
+            "text": "いい天気だった",
+            "zh": "今天天气很好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "135/TALK",
+            "narrator": "みやび",
+            "text": "散歩にでも言ったがか？",
+            "zh": "是去散步了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "137/TALK",
+            "narrator": "みやび",
+            "text": "だった言われてもなぁ…",
+            "zh": "就算你这么讲……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "みやび",
+            "text": "そうか、としか言えんき",
+            "zh": "这样啊，也只能讲到这儿了啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "140/TALK",
+            "narrator": "みやび",
+            "text": "えい天気やったがか",
+            "zh": "是个好天气来着咩",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "141/TALK",
+            "narrator": "みやび",
+            "text": "それはよかったなぁ",
+            "zh": "那真是不错啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "146/ACT",
+            "narrator": "",
+            "text": "雨が降りそう",
+            "zh": "快下雨了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "149/TALK",
+            "narrator": "みやび",
+            "text": "あんまり激しくないとえいんやけんど",
+            "zh": "下得别太猛就好了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "150/TALK",
+            "narrator": "みやび",
+            "text": "屋根に当たる音がやかましいと、イライラするちや",
+            "zh": "雨点砸屋顶吵得慌，人会烦躁滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "152/TALK",
+            "narrator": "みやび",
+            "text": "天気予報機能か？",
+            "zh": "天气预报功能吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "153/TALK",
+            "narrator": "みやび",
+            "text": "…もっとハイテク機能を見せてほしかったわ",
+            "zh": "……还指望你亮出更厉害的高科技功能呢",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "155/TALK",
+            "narrator": "みやび",
+            "text": "雨は嫌いやないちや",
+            "zh": "雨我倒不讨厌滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "156/TALK",
+            "narrator": "みやび",
+            "text": "部屋にこもる理由になるきね",
+            "zh": "正好多一个宅在房间的理由啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "161/ACT",
+            "narrator": "",
+            "text": "雨の日が多くて…",
+            "zh": "最近雨天好多……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "164/TALK",
+            "narrator": "みやび",
+            "text": "そんな天気ばかりやと",
+            "zh": "净是这种天气的话",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "165/TALK",
+            "narrator": "みやび",
+            "text": "いよいよ、外に出るんが億劫になるなぁ",
+            "zh": "就越发懒得出门了啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "167/TALK",
+            "narrator": "みやび",
+            "text": "そんな天気ばかりやと、買い物も行きたくなくなるな",
+            "zh": "净是这种天气，连买东西都不想去了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "170/TALK",
+            "narrator": "みやび",
+            "text": "一日中ジメッとしそうで最悪やね",
+            "zh": "一整天都潮乎乎的最难受咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "171/TALK",
+            "narrator": "みやび",
+            "text": "エアコン点けっぱにせんと、気が狂いそうになるがよ",
+            "zh": "空调不开足，简直要疯掉啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "176/ACT",
+            "narrator": "",
+            "text": "星がよく見える",
+            "zh": "星星看得很清楚",
+            "narrator_zh": ""
+        },
+        {
+            "location": "179/TALK",
+            "narrator": "みやび",
+            "text": "相棒は天体観測好きなが？",
+            "zh": "搭档喜欢看星星咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "180/TALK",
+            "narrator": "みやび",
+            "text": "まあ、うちも嫌いやないけんど",
+            "zh": "嘛，虽然我也不讨厌",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "182/TALK",
+            "narrator": "みやび",
+            "text": "カメラ部分、うちの手で隠れてるはずやぞ？",
+            "zh": "摄像头那块，应该正被我手挡着吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "185/TALK",
+            "narrator": "みやび",
+            "text": "うちも何時間もＰＣの前にいると、時々目の前がチカチカ…",
+            "zh": "我要在ＰＣ前一坐几个钟头，偶尔眼前也金星直冒……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "186/TALK",
+            "narrator": "みやび",
+            "text": "…違うか",
+            "zh": "……不对吗",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "191/ACT",
+            "narrator": "",
+            "text": "流れ星を見た",
+            "zh": "看到流星了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "194/TALK",
+            "narrator": "みやび",
+            "text": "また星が一つ流れたいうことか",
+            "zh": "就是说又有一颗星划过去了咩",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "195/TALK",
+            "narrator": "みやび",
+            "text": "悲しいことやね",
+            "zh": "真是叫人难过咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "197/TALK",
+            "narrator": "みやび",
+            "text": "今どきそんなもん、ネットでいくらでも見られるき",
+            "zh": "这年头那种东西网上要多少有多少啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "198/TALK",
+            "narrator": "みやび",
+            "text": "珍しさもありがたさもないがよ",
+            "zh": "既不稀奇也不珍贵啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "200/TALK",
+            "narrator": "みやび",
+            "text": "そういえば、最近まっこと空を見んようになったわ",
+            "zh": "说起来，最近真是难得抬头看天了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "201/TALK",
+            "narrator": "みやび",
+            "text": "夜は部屋でＰＣ三昧やきね",
+            "zh": "晚上净宅房间泡ＰＣ啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "206/ACT",
+            "narrator": "",
+            "text": "虹を見た",
+            "zh": "看到彩虹了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "209/TALK",
+            "narrator": "みやび",
+            "text": "虹は中々見れんき、見えると興奮するんよ",
+            "zh": "彩虹难得一见啵，碰上还是会兴奋的哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "211/TALK",
+            "narrator": "みやび",
+            "text": "見たやのうて、今見えてるときに言うて欲しかったわ",
+            "zh": "比起事后才讲，更想你在正看着的时候讲啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "214/TALK",
+            "narrator": "みやび",
+            "text": "今日、虹が出るような天気やったか？",
+            "zh": "今天是能出彩虹的天气咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "220/ACT",
+            "narrator": "",
+            "text": "雨の中を散歩した",
+            "zh": "在雨中散了步",
+            "narrator_zh": ""
+        },
+        {
+            "location": "223/TALK",
+            "narrator": "みやび",
+            "text": "あんまし関心せんよ？",
+            "zh": "我不太感兴趣哦？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "224/TALK",
+            "narrator": "みやび",
+            "text": "機械製品に雨は大敵やき",
+            "zh": "机械设备最怕雨啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "226/TALK",
+            "narrator": "みやび",
+            "text": "防水ケース付いとらんき、無茶はいかんぞ",
+            "zh": "又没装防水壳，可不许乱来哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "229/TALK",
+            "narrator": "みやび",
+            "text": "うち、雨の日は嫌いや",
+            "zh": "我讨厌雨天",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "235/ACT",
+            "narrator": "",
+            "text": "急な雨に降られた",
+            "zh": "被突然下的雨淋到了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "238/TALK",
+            "narrator": "みやび",
+            "text": "まっこと最悪やね",
+            "zh": "真是糟心透顶咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "239/TALK",
+            "narrator": "みやび",
+            "text": "うちやったら頭来て、即タクシーで帰宅コースや",
+            "zh": "换成我早炸毛了，直接打车回家咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "241/TALK",
+            "narrator": "みやび",
+            "text": "うちと一緒にいる時の話やないな？",
+            "zh": "不是跟我在一起时的事吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "242/TALK",
+            "narrator": "みやび",
+            "text": "ちゅうことは、いつの話や？",
+            "zh": "也就是说，是驷马时候的事？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "244/TALK",
+            "narrator": "みやび",
+            "text": "折り畳み傘は常に持ち歩かんといかんな",
+            "zh": "折叠伞得天天带着才行",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "245/TALK",
+            "narrator": "みやび",
+            "text": "まあ、うちは面倒やき、絶対に持ち歩かんけんど",
+            "zh": "嘛，我嫌麻烦，绝对不带就是咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "250/ACT",
+            "narrator": "",
+            "text": "雪が降ってる",
+            "zh": "正在下雪",
+            "narrator_zh": ""
+        },
+        {
+            "location": "253/TALK",
+            "narrator": "みやび",
+            "text": "どの地域の天気を言うとるが？",
+            "zh": "你说的是哪片地区的天气？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "256/TALK",
+            "narrator": "みやび",
+            "text": "東京は雪なんぞ降っとらんぞ？",
+            "zh": "东京可没下驷马雪哦？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "259/TALK",
+            "narrator": "みやび",
+            "text": "なら止むまで部屋に引きこもるき",
+            "zh": "那就宅到雪停为止啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "260/TALK",
+            "narrator": "みやび",
+            "text": "うち、寒いのは嫌いぞね",
+            "zh": "我最怕冷了咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "265/ACT",
+            "narrator": "",
+            "text": "雷が鳴ってる",
+            "zh": "正在打雷",
+            "narrator_zh": ""
+        },
+        {
+            "location": "268/TALK",
+            "narrator": "みやび",
+            "text": "ＰＣ使っちゅう身としては、雷は大敵なんよ",
+            "zh": "对用ＰＣ的人来说，雷电就是大敌哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "269/TALK",
+            "narrator": "みやび",
+            "text": "ＵＰＳあっても不安になるほどやき",
+            "zh": "就算备了不间断电源也不踏实啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "271/TALK",
+            "narrator": "みやび",
+            "text": "うちの部屋は雷対策もちゃんとしてるき、ＰＣ周りは安全や",
+            "zh": "我房间防雷措施做得齐全啵，ＰＣ周围安全得很",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "272/TALK",
+            "narrator": "みやび",
+            "text": "けんど、それでも不安にさせられるき、雷は恐ろしいんよ",
+            "zh": "但是，就算这样还是心头发紧啵，雷电就是可怕哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "274/TALK",
+            "narrator": "みやび",
+            "text": "落ちるんも怖いけんど、ゴロゴロうるさいのが一番厄介やね",
+            "zh": "断线掉线也怕，但是轰隆隆吵个没完才是最要命咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "279/ACT",
+            "narrator": "",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": ""
+        },
+        {
+            "location": "286/ACT",
+            "narrator": "",
+            "text": "質問",
+            "zh": "提问",
+            "narrator_zh": ""
+        },
+        {
+            "location": "287/SEL",
+            "narrator": "",
+            "text": "この服どうかな？",
+            "zh": "这件衣服怎么样？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "288/SEL",
+            "narrator": "",
+            "text": "明日晴れるかな？",
+            "zh": "明天会天晴吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "289/SEL",
+            "narrator": "",
+            "text": "何食べようかな？",
+            "zh": "吃点什么好呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "290/SEL",
+            "narrator": "",
+            "text": "出かけたほうがいいかな？",
+            "zh": "要不要出去走走？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "291/SEL",
+            "narrator": "",
+            "text": "髪切ろうかな？",
+            "zh": "要不要剪头发？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "292/SEL",
+            "narrator": "",
+            "text": "何してた？",
+            "zh": "你在做什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "293/SEL",
+            "narrator": "",
+            "text": "いいことあった？",
+            "zh": "有什么好事吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "294/SEL",
+            "narrator": "",
+            "text": "どこかに行ってた？",
+            "zh": "去哪里了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "295/SEL",
+            "narrator": "",
+            "text": "勉強してる？",
+            "zh": "在学习吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "296/SEL",
+            "narrator": "",
+            "text": "調子はどう？",
+            "zh": "状态怎么样？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "297/SEL",
+            "narrator": "",
+            "text": "好きなものは何？",
+            "zh": "喜欢的东西是什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "298/SEL",
+            "narrator": "",
+            "text": "今、楽しい？",
+            "zh": "现在，开心吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "299/SEL",
+            "narrator": "",
+            "text": "今食べたいものある？",
+            "zh": "现在有想吃的东西吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "300/SEL",
+            "narrator": "",
+            "text": "得意料理は？",
+            "zh": "拿手菜是什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "301/SEL",
+            "narrator": "",
+            "text": "疲れてない？",
+            "zh": "不累吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "302/SEL",
+            "narrator": "",
+            "text": "好きなタイプは？",
+            "zh": "喜欢什么类型？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "303/SEL",
+            "narrator": "",
+            "text": "恋してる？",
+            "zh": "在恋爱吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "304/SEL",
+            "narrator": "",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": ""
+        },
+        {
+            "location": "307/ACT",
+            "narrator": "",
+            "text": "この服どうかな？",
+            "zh": "这件衣服怎么样？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "310/TALK",
+            "narrator": "みやび",
+            "text": "Ｂｏｔの服って、端末本体のことか？",
+            "zh": "Ｂｏｔ的衣服，指的是终端本体吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "311/TALK",
+            "narrator": "みやび",
+            "text": "やったら、かっこえいと思うんよ",
+            "zh": "那样的话，我觉得挺拉风哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "313/TALK",
+            "narrator": "みやび",
+            "text": "あんた、服着ちゅう設定なん？",
+            "zh": "你是带着穿衣服的设定咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "314/TALK",
+            "narrator": "みやび",
+            "text": "わけわからんな…",
+            "zh": "没懂在讲驷马……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "316/TALK",
+            "narrator": "みやび",
+            "text": "似合う言うてほしいがか？",
+            "zh": "想让我夸句合身咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "317/TALK",
+            "narrator": "みやび",
+            "text": "端末が服なんぞ着ちゅうわけないのに…",
+            "zh": "终端又不可能穿驷马衣服……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "322/ACT",
+            "narrator": "",
+            "text": "明日晴れるかな？",
+            "zh": "明天会天晴吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "325/TALK",
+            "narrator": "みやび",
+            "text": "天気予報検索すれば一発やき",
+            "zh": "搜一下天气预报立马见分晓啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "326/TALK",
+            "narrator": "みやび",
+            "text": "まあ、天気予報が外れる場合もあるけんど",
+            "zh": "嘛，天气预报也有跑偏的时候",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "328/TALK",
+            "narrator": "みやび",
+            "text": "それ、うちが気にすることやき",
+            "zh": "那可不是我要操心的事啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "329/TALK",
+            "narrator": "みやび",
+            "text": "Ｂｏｔのあんたに天気は関係ないやろ？",
+            "zh": "天气跟你一个Ｂｏｔ没关系吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "331/TALK",
+            "narrator": "みやび",
+            "text": "曇りぐらいがえいよ",
+            "zh": "阴天左右刚好得哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "332/TALK",
+            "narrator": "みやび",
+            "text": "一番過ごしやすいしな",
+            "zh": "最舒服了嘛",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "337/ACT",
+            "narrator": "",
+            "text": "何食べようかな？",
+            "zh": "吃点什么好呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "340/TALK",
+            "narrator": "みやび",
+            "text": "充電はちゃんとしてあるき、必要ないやろ？",
+            "zh": "充电我可是好好做着的啵，你用不着吃饭吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "343/TALK",
+            "narrator": "みやび",
+            "text": "相棒、あんた電気以外に食べれるもんないやろ？",
+            "zh": "搭档，除了电你还能吃驷马？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "345/TALK",
+            "narrator": "みやび",
+            "text": "味噌汁の中に端末突っ込めいうがか？",
+            "zh": "是要我把终端泡进味噌汤里咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "346/TALK",
+            "narrator": "みやび",
+            "text": "絶対に壊れるちや",
+            "zh": "绝对会坏掉滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "351/ACT",
+            "narrator": "",
+            "text": "出かけたほうがいいかな？",
+            "zh": "要不要出去走走？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "354/TALK",
+            "narrator": "みやび",
+            "text": "どう答えるんが正解なのか、うちにはわからん",
+            "zh": "怎么答才算正解，我没懂",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "355/TALK",
+            "narrator": "みやび",
+            "text": "けんど、端末が自動で出かけるところは見てみたいんよ",
+            "zh": "但是，终端自己出门溜达的样子我倒想看看哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "357/TALK",
+            "narrator": "みやび",
+            "text": "そういう問いは人間のうちがするもんやき",
+            "zh": "这种问题应该由人类的我来问才对啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "360/TALK",
+            "narrator": "みやび",
+            "text": "うちに聞かんで、好きにすればえいよ",
+            "zh": "别问我，你随意就好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "366/ACT",
+            "narrator": "",
+            "text": "髪切ろうかな？",
+            "zh": "要不要剪头发？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "369/TALK",
+            "narrator": "みやび",
+            "text": "相棒のボディは端末やろ？",
+            "zh": "搭档的身体是终端吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "370/TALK",
+            "narrator": "みやび",
+            "text": "髪なんか生えてないちや",
+            "zh": "哪里长驷马头发滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "372/TALK",
+            "narrator": "みやび",
+            "text": "そういうジョークはハゲが言うから面白いんよ",
+            "zh": "这种笑话由秃子讲才好笑哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "373/TALK",
+            "narrator": "みやび",
+            "text": "端末の相棒が言うても、何も笑えんき",
+            "zh": "终端搭档来讲，一点都笑不出来啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "375/TALK",
+            "narrator": "みやび",
+            "text": "好きにすればえいよ",
+            "zh": "随意就好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "376/TALK",
+            "narrator": "みやび",
+            "text": "端末のどの部分が髪なんかはわからんけんど",
+            "zh": "虽然我没懂终端哪个部位算头发",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "381/ACT",
+            "narrator": "",
+            "text": "何してた？",
+            "zh": "你在做什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "384/TALK",
+            "narrator": "みやび",
+            "text": "端末ポチポチしてたがよ",
+            "zh": "我在终端上点点戳戳啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "386/TALK",
+            "narrator": "みやび",
+            "text": "退屈してたんよ",
+            "zh": "正闲得发慌呢",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "388/TALK",
+            "narrator": "みやび",
+            "text": "見てのとおり、相棒と話してるんよ",
+            "zh": "看见了吧，正跟搭档聊天哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "389/TALK",
+            "narrator": "みやび",
+            "text": "ちゅうか、この質問する必要あるんか？",
+            "zh": "话说，这个问题有问的必要咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "394/ACT",
+            "narrator": "",
+            "text": "いいことあった？",
+            "zh": "有什么好事吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "397/TALK",
+            "narrator": "みやび",
+            "text": "カプドラでレアキャラドロップしたぞね！",
+            "zh": "卡普德拉里掉稀有角色了咧！[?]",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "398/TALK",
+            "narrator": "みやび",
+            "text": "…まあ、それくらいやね",
+            "zh": "……嘛，也就这点程度咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "400/TALK",
+            "narrator": "みやび",
+            "text": "その質問、フレンドリー過ぎや",
+            "zh": "这问题也忒热络了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "402/TALK",
+            "narrator": "みやび",
+            "text": "起きた時に平日かと思うてたら、休日やった",
+            "zh": "醒来时还以为是工作日，结果是休息日",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "403/TALK",
+            "narrator": "みやび",
+            "text": "しょぼく聞こえるけんど、幸せ度かなり高いと思うぞね",
+            "zh": "听着不起眼，但是幸福度我觉得相当高咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "408/ACT",
+            "narrator": "",
+            "text": "どこかに行ってた？",
+            "zh": "去哪里了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "411/TALK",
+            "narrator": "みやび",
+            "text": "いんや、学校くらいしか行っとらんよ",
+            "zh": "没，除了学校基本没出门哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "413/TALK",
+            "narrator": "みやび",
+            "text": "特にどこにも出かけてないけんど？",
+            "zh": "我哪儿也没去，怎么？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "415/TALK",
+            "narrator": "みやび",
+            "text": "いんや、特に変わった場所に行ってはおらんよ",
+            "zh": "没，没去驷马稀奇地方哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "421/ACT",
+            "narrator": "",
+            "text": "勉強してる？",
+            "zh": "在学习吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "424/TALK",
+            "narrator": "みやび",
+            "text": "補修に時間を割かれるんは困るき",
+            "zh": "时间被补课占掉可头疼啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "425/TALK",
+            "narrator": "みやび",
+            "text": "そうならん程度にはしちゅうよ",
+            "zh": "我会控制在不成那样的程度哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "427/TALK",
+            "narrator": "みやび",
+            "text": "あんたは母親か？",
+            "zh": "你是当妈了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "428/TALK",
+            "narrator": "みやび",
+            "text": "ママー、勉強ちゃんとしちゅうき、ご褒美に新しいＰＣ買うてー",
+            "zh": "妈咪——我有好好在学习啵，奖励我买台新ＰＣ嘛——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "430/TALK",
+            "narrator": "みやび",
+            "text": "赤点にならん程度にな",
+            "zh": "保证考不到不及格的程度",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "436/ACT",
+            "narrator": "",
+            "text": "調子はどう？",
+            "zh": "状态怎么样？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "439/TALK",
+            "narrator": "みやび",
+            "text": "いつも通りや",
+            "zh": "跟平时一样咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "441/TALK",
+            "narrator": "みやび",
+            "text": "肩凝りが激しいき、誰かに揉んでもらいたいんよ",
+            "zh": "肩颈酸得厉害啵，想找谁给揉揉哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "443/TALK",
+            "narrator": "みやび",
+            "text": "ちっくと睡眠不足やき、眠いわ",
+            "zh": "有点睡眠不足啵，困死了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "449/ACT",
+            "narrator": "",
+            "text": "好きなものは何？",
+            "zh": "喜欢的东西是什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "452/TALK",
+            "narrator": "みやび",
+            "text": "嫌いな物の反対やね",
+            "zh": "讨厌的东西的反面咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "453/TALK",
+            "narrator": "みやび",
+            "text": "間違ったことは言うとらんぞ？",
+            "zh": "我可没讲错哦？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "455/TALK",
+            "narrator": "みやび",
+            "text": "答えたらくれるんか？",
+            "zh": "答了就给我咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "457/TALK",
+            "narrator": "みやび",
+            "text": "洋菓子やね",
+            "zh": "西点咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "458/TALK",
+            "narrator": "みやび",
+            "text": "教えたんやき、差し入れしてくれるんやろ？",
+            "zh": "都告诉你了啵，会给我带的吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "463/ACT",
+            "narrator": "",
+            "text": "今、楽しい？",
+            "zh": "现在，开心吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "466/TALK",
+            "narrator": "みやび",
+            "text": "つまらなくはないな",
+            "zh": "不算无聊啦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "468/TALK",
+            "narrator": "みやび",
+            "text": "今の生活について聞いてるがか？",
+            "zh": "问的是眼下的生活咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "469/TALK",
+            "narrator": "みやび",
+            "text": "それやったら、とりあえず満足はしちゅうよ",
+            "zh": "那的话，暂时算是满足的哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "471/TALK",
+            "narrator": "みやび",
+            "text": "相棒との会話が楽しいか聞いてるがか？",
+            "zh": "问的是跟搭档聊天开不开心咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "472/TALK",
+            "narrator": "みやび",
+            "text": "随分会話に自信があるんやね…",
+            "zh": "你对聊天还挺自信的嘛……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "477/ACT",
+            "narrator": "",
+            "text": "今食べたいものある？",
+            "zh": "现在有想吃的东西吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "480/TALK",
+            "narrator": "みやび",
+            "text": "温かい物を食べたい気分やね",
+            "zh": "想吃点热乎的咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "481/TALK",
+            "narrator": "みやび",
+            "text": "何か、とまでは言えんけんど",
+            "zh": "具体吃驷马还讲不上来，但是",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "483/TALK",
+            "narrator": "みやび",
+            "text": "今は特に食べたいものはないな",
+            "zh": "眼下倒没什么特别想吃的",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "486/TALK",
+            "narrator": "みやび",
+            "text": "今は食べ物より、飲み物が欲しい感じやね",
+            "zh": "眼下比起吃的，更想要喝的咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "487/TALK",
+            "narrator": "みやび",
+            "text": "熱いお茶を飲みたい気分なんよ",
+            "zh": "正想喝口热茶哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "492/ACT",
+            "narrator": "",
+            "text": "得意料理は？",
+            "zh": "拿手菜是什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "495/TALK",
+            "narrator": "みやび",
+            "text": "敢えて言うなら、和食やね",
+            "zh": "硬要讲的话，日料咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "498/TALK",
+            "narrator": "みやび",
+            "text": "修行中の身やき、得意料理なんてないちや",
+            "zh": "还在修业中啵，拿手菜什么的没得滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "501/TALK",
+            "narrator": "みやび",
+            "text": "料理はそんなに好きやないき、得意料理はないいうことにしとくんよ",
+            "zh": "做饭没那么喜欢啵，就当我没有拿手菜好了哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "506/ACT",
+            "narrator": "",
+            "text": "疲れてない？",
+            "zh": "不累吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "509/TALK",
+            "narrator": "みやび",
+            "text": "肩でも揉んでくれるが？",
+            "zh": "要帮我揉揉肩咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "512/TALK",
+            "narrator": "みやび",
+            "text": "起きてる間は体力使うき、常に疲れてるんよ",
+            "zh": "醒着就在耗体力啵，随时都累着哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "515/TALK",
+            "narrator": "みやび",
+            "text": "今日は珍しく体が軽いが",
+            "zh": "今天难得身子轻快",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "516/TALK",
+            "narrator": "みやび",
+            "text": "理由はわからんけんどな",
+            "zh": "虽然没懂是驷马原因就是",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "521/ACT",
+            "narrator": "",
+            "text": "好きなタイプは？",
+            "zh": "喜欢什么类型？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "524/TALK",
+            "narrator": "みやび",
+            "text": "好きなタイプを聞いてこんタイプや",
+            "zh": "问喜欢的类型，回的就是这种类型咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "526/TALK",
+            "narrator": "みやび",
+            "text": "嫌いやないタイプや",
+            "zh": "是不讨厌的类型咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "528/TALK",
+            "narrator": "みやび",
+            "text": "ブラインドタッチやね",
+            "zh": "盲打咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "529/TALK",
+            "narrator": "みやび",
+            "text": "タイピングのこと聞いてるんやないが？",
+            "zh": "问的又不是打字那方面吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "534/ACT",
+            "narrator": "",
+            "text": "恋してる？",
+            "zh": "在恋爱吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "537/TALK",
+            "narrator": "みやび",
+            "text": "恋に恋する乙女やきね",
+            "zh": "正是憧憬恋爱的少女啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "539/TALK",
+            "narrator": "みやび",
+            "text": "ノーコメントや",
+            "zh": "无可奉告咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "541/TALK",
+            "narrator": "みやび",
+            "text": "恋言われたら、鯉こく食べたくなってきたんよ",
+            "zh": "一讲恋，我倒想吃鲤鱼汤了哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "546/ACT",
+            "narrator": "",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": ""
+        },
+        {
+            "location": "555/SEL",
+            "narrator": "",
+            "text": "ゲームした",
+            "zh": "打游戏了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "556/SEL",
+            "narrator": "",
+            "text": "料理をした",
+            "zh": "做饭了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "557/SEL",
+            "narrator": "",
+            "text": "掃除をした",
+            "zh": "打扫了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "558/SEL",
+            "narrator": "",
+            "text": "買い物してきた",
+            "zh": "去买东西了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "559/SEL",
+            "narrator": "",
+            "text": "携帯買い替えた",
+            "zh": "换手机了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "560/SEL",
+            "narrator": "",
+            "text": "今、外出中なんだ",
+            "zh": "我现在还在外面",
+            "narrator_zh": ""
+        },
+        {
+            "location": "561/SEL",
+            "narrator": "",
+            "text": "疲れた",
+            "zh": "好累",
+            "narrator_zh": ""
+        },
+        {
+            "location": "562/SEL",
+            "narrator": "",
+            "text": "おなかすいた",
+            "zh": "肚子饿了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "563/SEL",
+            "narrator": "",
+            "text": "眠くなってきた",
+            "zh": "有点困了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "564/SEL",
+            "narrator": "",
+            "text": "イベントに行ってきた",
+            "zh": "去参加活动了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "565/SEL",
+            "narrator": "",
+            "text": "旅行に行ってきた",
+            "zh": "去旅行了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "566/SEL",
+            "narrator": "",
+            "text": "実家に帰ってた",
+            "zh": "回老家了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "567/SEL",
+            "narrator": "",
+            "text": "病院に行ってきた",
+            "zh": "去医院了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "568/SEL",
+            "narrator": "",
+            "text": "映画館に行っていた",
+            "zh": "去电影院了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "569/SEL",
+            "narrator": "",
+            "text": "友達と遊んできた",
+            "zh": "跟朋友出去玩了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "570/SEL",
+            "narrator": "",
+            "text": "家族と出かけてきた",
+            "zh": "跟家人出门了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "571/SEL",
+            "narrator": "",
+            "text": "ご飯がおいしかった",
+            "zh": "吃到好吃的了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "572/SEL",
+            "narrator": "",
+            "text": "褒められた",
+            "zh": "被夸奖了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "573/SEL",
+            "narrator": "",
+            "text": "お風呂に入った",
+            "zh": "泡澡了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "574/SEL",
+            "narrator": "",
+            "text": "テレビを見た",
+            "zh": "看电视了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "575/SEL",
+            "narrator": "",
+            "text": "宝くじ当たった",
+            "zh": "中彩票了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "576/SEL",
+            "narrator": "",
+            "text": "失くした物を見つけた",
+            "zh": "找到丢的东西了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "577/SEL",
+            "narrator": "",
+            "text": "早く帰れた！",
+            "zh": "提前回来了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "578/SEL",
+            "narrator": "",
+            "text": "奮発しちゃった",
+            "zh": "狠心大买了一次",
+            "narrator_zh": ""
+        },
+        {
+            "location": "579/SEL",
+            "narrator": "",
+            "text": "徹夜中です！！",
+            "zh": "正在熬夜！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "580/SEL",
+            "narrator": "",
+            "text": "ゲーセンでぬいぐるみＧＥＴ！！",
+            "zh": "在游戏厅GET到玩偶！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "581/SEL",
+            "narrator": "",
+            "text": "新しい服を買った",
+            "zh": "买了新衣服",
+            "narrator_zh": ""
+        },
+        {
+            "location": "582/SEL",
+            "narrator": "",
+            "text": "面白いアニメを見た",
+            "zh": "看了有趣的动画",
+            "narrator_zh": ""
+        },
+        {
+            "location": "583/SEL",
+            "narrator": "",
+            "text": "PCを新しくした",
+            "zh": "换了新电脑",
+            "narrator_zh": ""
+        },
+        {
+            "location": "584/SEL",
+            "narrator": "",
+            "text": "ラノベ読み終わった",
+            "zh": "把轻小说读完了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "585/SEL",
+            "narrator": "",
+            "text": "遅刻した",
+            "zh": "迟到了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "586/SEL",
+            "narrator": "",
+            "text": "怒られた",
+            "zh": "被骂了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "587/SEL",
+            "narrator": "",
+            "text": "いやなものを見た",
+            "zh": "看到了讨厌的东西",
+            "narrator_zh": ""
+        },
+        {
+            "location": "588/SEL",
+            "narrator": "",
+            "text": "怖い思いをした",
+            "zh": "吓到了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "589/SEL",
+            "narrator": "",
+            "text": "泣きそうになった",
+            "zh": "差点哭了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "590/SEL",
+            "narrator": "",
+            "text": "喧嘩した",
+            "zh": "吵架了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "591/SEL",
+            "narrator": "",
+            "text": "大切な物を無くした",
+            "zh": "把重要的东西弄丢了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "592/SEL",
+            "narrator": "",
+            "text": "ケガしちゃった",
+            "zh": "受伤了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "593/SEL",
+            "narrator": "",
+            "text": "帰りが遅くなった",
+            "zh": "回来晚了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "594/SEL",
+            "narrator": "",
+            "text": "金欠かも…",
+            "zh": "可能没钱了……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "595/SEL",
+            "narrator": "",
+            "text": "テストが酷かった",
+            "zh": "考试考得好惨",
+            "narrator_zh": ""
+        },
+        {
+            "location": "596/SEL",
+            "narrator": "",
+            "text": "先生に怒られた",
+            "zh": "被老师骂了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "597/SEL",
+            "narrator": "",
+            "text": "試験の点数が悪かったんだ",
+            "zh": "考试分数很差",
+            "narrator_zh": ""
+        },
+        {
+            "location": "598/SEL",
+            "narrator": "",
+            "text": "試験の点数が良かったんだ！",
+            "zh": "考试分数很好！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "599/SEL",
+            "narrator": "",
+            "text": "仕事が順調",
+            "zh": "工作顺利",
+            "narrator_zh": ""
+        },
+        {
+            "location": "600/SEL",
+            "narrator": "",
+            "text": "仕事が辛い",
+            "zh": "工作好辛苦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "601/SEL",
+            "narrator": "",
+            "text": "会社辞めたよ！",
+            "zh": "我把工作辞了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "602/SEL",
+            "narrator": "",
+            "text": "毎日することなくて…",
+            "zh": "每天都无事可做……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "603/SEL",
+            "narrator": "",
+            "text": "一日寝て過ごしてた",
+            "zh": "睡了一整天",
+            "narrator_zh": ""
+        },
+        {
+            "location": "604/SEL",
+            "narrator": "",
+            "text": "最近家から出てない…",
+            "zh": "最近都没出门……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "605/SEL",
+            "narrator": "",
+            "text": "可愛い子を見た",
+            "zh": "看到可爱的女孩子了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "606/SEL",
+            "narrator": "",
+            "text": "好きな子が出来た",
+            "zh": "有喜欢的女孩子了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "607/SEL",
+            "narrator": "",
+            "text": "デートしてきた",
+            "zh": "去约会了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "608/SEL",
+            "narrator": "",
+            "text": "告白された",
+            "zh": "被告白了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "609/SEL",
+            "narrator": "",
+            "text": "恋人が出来ました",
+            "zh": "我有恋人了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "610/SEL",
+            "narrator": "",
+            "text": "結婚します",
+            "zh": "我要结婚了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "611/SEL",
+            "narrator": "",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": ""
+        },
+        {
+            "location": "614/ACT",
+            "narrator": "",
+            "text": "ゲームした",
+            "zh": "打游戏了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "617/TALK",
+            "narrator": "みやび",
+            "text": "ゲーム好きなが？",
+            "zh": "喜欢打游戏咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "618/TALK",
+            "narrator": "みやび",
+            "text": "なら、うちの作ったゲームも遊んでほしいがよ",
+            "zh": "那，也想让你玩玩我做的游戏啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "620/TALK",
+            "narrator": "みやび",
+            "text": "そのうち、勝負できたらえいね",
+            "zh": "往后能来场对决就好了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "623/TALK",
+            "narrator": "みやび",
+            "text": "美少女ゲームか？",
+            "zh": "美少女游戏咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "629/ACT",
+            "narrator": "",
+            "text": "料理をした",
+            "zh": "做饭了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "632/TALK",
+            "narrator": "みやび",
+            "text": "相棒、意外と料理できそうな気がするちや",
+            "zh": "搭档，我总觉得你意外地会做饭滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "633/TALK",
+            "narrator": "みやび",
+            "text": "写真送るとかできんが？",
+            "zh": "照片发得了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "635/TALK",
+            "narrator": "みやび",
+            "text": "夫婦になってもえいき、うちの料理番になってほしいわ",
+            "zh": "跟我结成夫妻也行啵，想让你来当我的掌勺",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "638/TALK",
+            "narrator": "みやび",
+            "text": "…この端末に手足が付いてればなぁ",
+            "zh": "……这终端要是长出手脚就好了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "639/TALK",
+            "narrator": "みやび",
+            "text": "うちの食事も作ってもらえるんやけんど…",
+            "zh": "那样我的饭也有人做了……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "644/ACT",
+            "narrator": "",
+            "text": "掃除をした",
+            "zh": "打扫了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "647/TALK",
+            "narrator": "みやび",
+            "text": "ん、えい子やね",
+            "zh": "嗯，好孩子咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "649/TALK",
+            "narrator": "みやび",
+            "text": "うちも、自分の部屋は掃除していつも最適な状態を保ってるちや",
+            "zh": "我自己的房间也一直打扫着，随时保持最佳状态滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "650/TALK",
+            "narrator": "みやび",
+            "text": "けして散らかってるわけやないがよ",
+            "zh": "绝不是散乱一地的啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "652/TALK",
+            "narrator": "みやび",
+            "text": "えい子えい子",
+            "zh": "好孩子好孩子",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "653/TALK",
+            "narrator": "みやび",
+            "text": "褒められたかったんやろ？",
+            "zh": "是想被夸吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "658/ACT",
+            "narrator": "",
+            "text": "買い物してきた",
+            "zh": "去买东西了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "661/TALK",
+            "narrator": "みやび",
+            "text": "掘り出し物でも見つかったがか？",
+            "zh": "淘到什么好货了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "662/TALK",
+            "narrator": "みやび",
+            "text": "レア物やったら転売するちや",
+            "zh": "是稀有货就转手卖掉滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "664/TALK",
+            "narrator": "みやび",
+            "text": "一々報告してくるいうことは、凄い物が買えたようやね",
+            "zh": "一件件跑来报告，看来是买到了不得了的宝贝咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "665/TALK",
+            "narrator": "みやび",
+            "text": "大切にするちや",
+            "zh": "好好珍惜滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "667/TALK",
+            "narrator": "みやび",
+            "text": "通販の方が便利やぞ",
+            "zh": "网购更方便哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "672/ACT",
+            "narrator": "",
+            "text": "携帯買い替えた",
+            "zh": "换手机了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "675/TALK",
+            "narrator": "みやび",
+            "text": "…ちっくと羨ましいな",
+            "zh": "……有点眼馋啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "676/TALK",
+            "narrator": "みやび",
+            "text": "最新のガジェットには、うちも心惹かれるき",
+            "zh": "最新的数码玩意儿，我也心动啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "678/TALK",
+            "narrator": "みやび",
+            "text": "新しい携帯買うと、今まで使ってたんが急にショボく見えてくる…",
+            "zh": "一买新手机，之前用的那台忽然就显得寒碜了……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "679/TALK",
+            "narrator": "みやび",
+            "text": "あれ、なんでやろうね？",
+            "zh": "咦，这是为驷马咧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "681/TALK",
+            "narrator": "みやび",
+            "text": "おっ、前のに比べて使い勝手はどうや？",
+            "zh": "哦，跟之前那台比用着怎么样？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "682/TALK",
+            "narrator": "みやび",
+            "text": "うちもそろそろ買い替えたいんやけんどなぁ…",
+            "zh": "我也差不多该换一台了啊……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "687/ACT",
+            "narrator": "",
+            "text": "今、外出中なんだ",
+            "zh": "我现在还在外面",
+            "narrator_zh": ""
+        },
+        {
+            "location": "690/TALK",
+            "narrator": "みやび",
+            "text": "相棒はアウトドア派なが？",
+            "zh": "搭档是户外派咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "691/TALK",
+            "narrator": "みやび",
+            "text": "うちとは正反対やね",
+            "zh": "跟我正相反咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "693/TALK",
+            "narrator": "みやび",
+            "text": "…デートか？",
+            "zh": "……约会吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "695/TALK",
+            "narrator": "みやび",
+            "text": "そうか…",
+            "zh": "这样啊……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "696/TALK",
+            "narrator": "みやび",
+            "text": "で、用事はそれだけなが？",
+            "zh": "那，要讲的事就这一件咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "701/ACT",
+            "narrator": "",
+            "text": "疲れた",
+            "zh": "好累",
+            "narrator_zh": ""
+        },
+        {
+            "location": "704/TALK",
+            "narrator": "みやび",
+            "text": "疲れた言える元気があるなら、まだまだ平気やね",
+            "zh": "还有力气喊累，说明还顶得住咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "706/TALK",
+            "narrator": "みやび",
+            "text": "うちは栄養ドリンクやないき、何もできんちや",
+            "zh": "我又不是营养饮料啵，帮不上驷马滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "707/TALK",
+            "narrator": "みやび",
+            "text": "それより、布団にでも転がった方がえいよ",
+            "zh": "不如先滚到被窝里更好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "709/TALK",
+            "narrator": "みやび",
+            "text": "うちも、なんだか今日は疲れてるちや",
+            "zh": "说来今天我也莫名觉得累滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "710/TALK",
+            "narrator": "みやび",
+            "text": "…さっさと寝た方がえいかもしれんな",
+            "zh": "……可能麻利点睡更好",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "715/ACT",
+            "narrator": "",
+            "text": "おなかすいた",
+            "zh": "肚子饿了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "718/TALK",
+            "narrator": "みやび",
+            "text": "米炊いて味噌汁でも作ればえいよ",
+            "zh": "煮上饭、再弄个味噌汤就好了哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "719/TALK",
+            "narrator": "みやび",
+            "text": "それくらいやったら手間にもならんきね",
+            "zh": "这点活算不上费事啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "721/TALK",
+            "narrator": "みやび",
+            "text": "そう言われたら、うちも腹減ってきたがよ",
+            "zh": "被你这一讲，我肚子也饿了啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "722/TALK",
+            "narrator": "みやび",
+            "text": "何か軽く作るか…けんど、面倒やなぁ…",
+            "zh": "随便整点吃的吧……但是，好麻烦啊……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "724/TALK",
+            "narrator": "みやび",
+            "text": "元気があるなら、軽く何か作ればえい",
+            "zh": "有精神的话，随便弄点吃的就好",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "725/TALK",
+            "narrator": "みやび",
+            "text": "元気がないなら、寝て落ち着かせるんが一番よ",
+            "zh": "没精神的话，睡一觉静一静最实在",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "730/ACT",
+            "narrator": "",
+            "text": "眠くなってきた",
+            "zh": "有点困了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "733/TALK",
+            "narrator": "みやび",
+            "text": "寝た方がえいよ",
+            "zh": "睡一觉更好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "734/TALK",
+            "narrator": "みやび",
+            "text": "その状態やと、起きてても何もできんし",
+            "zh": "那副样子，醒着也干不了驷马",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "736/TALK",
+            "narrator": "みやび",
+            "text": "腕つねるかデコピンするか、頬を叩くちや",
+            "zh": "掐把胳膊或者弹个脑瓜崩，再不就拍拍脸滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "737/TALK",
+            "narrator": "みやび",
+            "text": "運が良ければ目が冴えるがよ",
+            "zh": "运气好就精神了啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "739/TALK",
+            "narrator": "みやび",
+            "text": "子守歌でも歌った方がえい？",
+            "zh": "要不我唱首摇篮曲？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "740/TALK",
+            "narrator": "みやび",
+            "text": "と思ったけんど、やめとくわ",
+            "zh": "刚这么想着，但是还是算了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "741/TALK",
+            "narrator": "みやび",
+            "text": "そんなん歌ったら、うち自身が眠くなるきね",
+            "zh": "那种歌唱着唱着，我自己先困了啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "746/ACT",
+            "narrator": "",
+            "text": "イベントに行ってきた",
+            "zh": "去参加活动了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "749/TALK",
+            "narrator": "みやび",
+            "text": "イベントは人が多いき、あまり好きになれんがよ",
+            "zh": "活动人挤人啵，喜欢不起来咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "750/TALK",
+            "narrator": "みやび",
+            "text": "嫌いやないんやけんどね。",
+            "zh": "倒也不是讨厌就是咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "752/TALK",
+            "narrator": "みやび",
+            "text": "…薄い本を買うやつか？",
+            "zh": "……是去买同人本的那路人咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "753/TALK",
+            "narrator": "みやび",
+            "text": "いや、さすがにそれはない…よな？",
+            "zh": "不，不至于吧……是吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "755/TALK",
+            "narrator": "みやび",
+            "text": "お疲れさん、人多くて大変やったろ？",
+            "zh": "辛苦了，人山人海够呛吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "756/TALK",
+            "narrator": "みやび",
+            "text": "今日はもうゆっくりしぃ",
+            "zh": "今天就好好歇着吧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "761/ACT",
+            "narrator": "",
+            "text": "旅行に行ってきた",
+            "zh": "去旅行了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "764/TALK",
+            "narrator": "みやび",
+            "text": "一人で行ってきたが？",
+            "zh": "是一个人去的咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "765/TALK",
+            "narrator": "みやび",
+            "text": "だとしたら、寂しい旅行やったね",
+            "zh": "那样的话，可真是场寂寞的旅行咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "767/TALK",
+            "narrator": "みやび",
+            "text": "自分探しの旅でもしてきたが？",
+            "zh": "是去来了一场寻找自我之旅？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "768/TALK",
+            "narrator": "みやび",
+            "text": "まあ、それで見つかった話を聞いたことないけんど",
+            "zh": "嘛，倒没听说过谁真这么找着了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "770/TALK",
+            "narrator": "みやび",
+            "text": "温泉にでも行ってきたがか？",
+            "zh": "是去泡温泉了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "771/TALK",
+            "narrator": "みやび",
+            "text": "うちも誘うてくれたらえいのに…もちろん費用は相棒もちでな",
+            "zh": "也捎带上我就好了……当然费用搭档你出啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "776/ACT",
+            "narrator": "",
+            "text": "実家に帰ってた",
+            "zh": "回老家了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "779/TALK",
+            "narrator": "みやび",
+            "text": "実家は食事の支度も何もせんでえいから、天国やね",
+            "zh": "回老家驷马都不用干、饭有人做，简直是天堂咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "780/TALK",
+            "narrator": "みやび",
+            "text": "まあ、うちは今の寮部屋が気に入ってるけんど",
+            "zh": "嘛，不过我现在宿舍的房间住得挺舒心",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "782/TALK",
+            "narrator": "みやび",
+            "text": "相棒の実家って、どの辺にあるが？",
+            "zh": "搭档的老家在哪个方位？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "783/TALK",
+            "narrator": "みやび",
+            "text": "アフリカのジャングルの奥地なる村やったりせん？",
+            "zh": "不会是非洲丛林深处的哪个村子吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "785/TALK",
+            "narrator": "みやび",
+            "text": "うちは実家より、寮の方が好きやね",
+            "zh": "比起老家，我更喜欢宿舍咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "786/TALK",
+            "narrator": "みやび",
+            "text": "自由な一人の空間に勝るもんはないちや",
+            "zh": "没有驷马比得上自由的独处空间滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "791/ACT",
+            "narrator": "",
+            "text": "病院に行ってきた",
+            "zh": "去医院了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "794/TALK",
+            "narrator": "みやび",
+            "text": "風邪でも引いたが？",
+            "zh": "感冒了？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "795/TALK",
+            "narrator": "みやび",
+            "text": "安静にせんといかんよ",
+            "zh": "得好好静养哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "797/TALK",
+            "narrator": "みやび",
+            "text": "体調崩したがか？",
+            "zh": "是身体不舒服了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "798/TALK",
+            "narrator": "みやび",
+            "text": "薬飲んで、ゆっくりした方がえいよ",
+            "zh": "吃点药，好好歇着更好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "800/TALK",
+            "narrator": "みやび",
+            "text": "風邪薬飲んでおいた方がえいよ",
+            "zh": "感冒药要先吃着哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "801/TALK",
+            "narrator": "みやび",
+            "text": "病院の待合室で風邪貰ってくることもあるきね",
+            "zh": "在候诊室反倒染回感冒的事也有啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "806/ACT",
+            "narrator": "",
+            "text": "映画館に行っていた",
+            "zh": "去电影院了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "809/TALK",
+            "narrator": "みやび",
+            "text": "うちの映画館やないな？",
+            "zh": "不是我们剧场那家影院吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "810/TALK",
+            "narrator": "みやび",
+            "text": "まあ、相棒が好きそうな映画上映しとらんき、仕方ないけんど…",
+            "zh": "嘛，你爱看的片子我们那儿也没排啵，没法子……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "812/TALK",
+            "narrator": "みやび",
+            "text": "相棒はどんな映画見るが？",
+            "zh": "搭档都看驷马电影？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "813/TALK",
+            "narrator": "みやび",
+            "text": "うちはハイクオリティなＣＧがバリバリ使われた映画が好きなんよ",
+            "zh": "我喜欢高画质ＣＧ管够的电影哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "815/TALK",
+            "narrator": "みやび",
+            "text": "うちの映画館も、もう少し上映するラインナップが良ければなぁ…",
+            "zh": "我们那儿的排片阵容再好点就好了……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "816/TALK",
+            "narrator": "みやび",
+            "text": "従業員やき、無料で最新映画見まくれたかもしれんがに…",
+            "zh": "身为员工啵，本来没准能免费把新片刷个遍……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "821/ACT",
+            "narrator": "",
+            "text": "友達と遊んできた",
+            "zh": "跟朋友出去玩了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "824/TALK",
+            "narrator": "みやび",
+            "text": "…うちには縁のない話やね",
+            "zh": "……跟我没缘分的话题咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "826/TALK",
+            "narrator": "みやび",
+            "text": "うちもよく、ネットのフレンドとネトゲで遊ぶんよ",
+            "zh": "我也常跟网友打网游哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "827/TALK",
+            "narrator": "みやび",
+            "text": "会ったことないき、どんな奴かは知らんけんど",
+            "zh": "没见过面啵，是驷马人没懂就是",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "829/TALK",
+            "narrator": "みやび",
+            "text": "うち、あんまし外で遊ばんき、どういうところで遊ぶかわからんがよ",
+            "zh": "我不怎么出门玩啵，都不晓得你们上哪儿玩咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "834/ACT",
+            "narrator": "",
+            "text": "家族と出かけてきた",
+            "zh": "跟家人出门了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "837/TALK",
+            "narrator": "みやび",
+            "text": "家族旅行にでも行ってきたが？",
+            "zh": "是全家出去玩了一趟？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "838/TALK",
+            "narrator": "みやび",
+            "text": "お土産は神楽坂トライナリー宛に送ってくれればえいき",
+            "zh": "特产寄到神乐坂三重奏收就行了啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "840/TALK",
+            "narrator": "みやび",
+            "text": "家族旅行、うちはしたことないき",
+            "zh": "全家旅行，我一次都没体验过啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "841/TALK",
+            "narrator": "みやび",
+            "text": "家が商売しちゅうき、仕方ないけんどな",
+            "zh": "家里开着营生啵，没法子咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "843/TALK",
+            "narrator": "みやび",
+            "text": "仲良し家族やね",
+            "zh": "一家人感情真好咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "844/TALK",
+            "narrator": "みやび",
+            "text": "どこ行ってきたが？",
+            "zh": "去哪儿玩了？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "849/ACT",
+            "narrator": "",
+            "text": "ご飯がおいしかった",
+            "zh": "吃到好吃的了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "852/TALK",
+            "narrator": "みやび",
+            "text": "ご飯が美味しいのはえいことや",
+            "zh": "饭好吃是好事咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "853/TALK",
+            "narrator": "みやび",
+            "text": "不味いご飯は食べてるとムカムカしてくるき",
+            "zh": "难吃的饭越吃越反胃啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "855/TALK",
+            "narrator": "みやび",
+            "text": "小さな幸せやけんど、大切やね",
+            "zh": "虽是小小的幸福，但是很要紧咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "856/TALK",
+            "narrator": "みやび",
+            "text": "食事は毎日するもんやし",
+            "zh": "毕竟饭是天天要吃的嘛",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "858/TALK",
+            "narrator": "みやび",
+            "text": "美味いご飯を食べたいなら、自分の腕を磨くべきちや",
+            "zh": "想吃好吃的饭，就该磨炼自己的手艺滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "859/TALK",
+            "narrator": "みやび",
+            "text": "それならいつでも美味い食事にありつけるぞね",
+            "zh": "那样随时都能吃上好吃的咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "864/ACT",
+            "narrator": "",
+            "text": "褒められた",
+            "zh": "被夸奖了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "867/TALK",
+            "narrator": "みやび",
+            "text": "何かえいことでもしたがか？",
+            "zh": "是干了驷马好事咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "869/TALK",
+            "narrator": "みやび",
+            "text": "褒められたことをわざわざ報告…",
+            "zh": "被夸了还特意跑来报告……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "870/TALK",
+            "narrator": "みやび",
+            "text": "ぷぷっ、相棒は子供やね",
+            "zh": "噗噗，搭档真是小孩子气咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "872/TALK",
+            "narrator": "みやび",
+            "text": "何したかは知らんけんど、よかったやんか",
+            "zh": "干了驷马我没懂，但是不错嘛",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "873/TALK",
+            "narrator": "みやび",
+            "text": "大きくなると、段々褒められんようになるきね",
+            "zh": "人长大了，就越来越难被夸了啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "878/ACT",
+            "narrator": "",
+            "text": "お風呂に入った",
+            "zh": "泡澡了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "881/TALK",
+            "narrator": "みやび",
+            "text": "湯冷めせんようにな",
+            "zh": "可别洗完澡着凉啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "883/TALK",
+            "narrator": "みやび",
+            "text": "うちもシャワーより風呂の方が好きやけんど",
+            "zh": "比起淋浴我也更爱泡澡",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "884/TALK",
+            "narrator": "みやび",
+            "text": "足を延ばして入れん風呂は、あんまり好きやないが",
+            "zh": "腿伸不直的浴缸，我不太喜欢",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "886/TALK",
+            "narrator": "みやび",
+            "text": "言われたら、うちも風呂に入りたくなってきたがよ",
+            "zh": "听你这一讲，我也想泡澡了啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "887/TALK",
+            "narrator": "みやび",
+            "text": "テルマエ行くか、それとも我慢するか…",
+            "zh": "是去浴场泡一场，还是忍着……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "892/ACT",
+            "narrator": "",
+            "text": "テレビを見た",
+            "zh": "看电视了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "895/TALK",
+            "narrator": "みやび",
+            "text": "うち、テレビはまったく見ないが",
+            "zh": "我是完全不看电视的",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "896/TALK",
+            "narrator": "みやび",
+            "text": "ネットの動画投稿サイトの方が面白いちや",
+            "zh": "网上的视频网站有意思多了滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "898/TALK",
+            "narrator": "みやび",
+            "text": "うちの部屋のテレビ、完全な置物になってるが",
+            "zh": "我房间的电视早成摆设了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "899/TALK",
+            "narrator": "みやび",
+            "text": "テレビよりＰＣばっかやきね",
+            "zh": "比起电视，我整天就是抱着ＰＣ啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "901/TALK",
+            "narrator": "みやび",
+            "text": "楽しみにしちょったドラマでもあったが？",
+            "zh": "有一直追着的剧吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "906/ACT",
+            "narrator": "",
+            "text": "宝くじ当たった",
+            "zh": "中彩票了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "909/TALK",
+            "narrator": "みやび",
+            "text": "うちの取り分が８、相棒が２でどうや？",
+            "zh": "我分八成、搭档你两成，怎么样？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "911/TALK",
+            "narrator": "みやび",
+            "text": "うちに投資せん？",
+            "zh": "要不要投资我？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "912/TALK",
+            "narrator": "みやび",
+            "text": "全額とは言わんけんど、８割くらいでえいき",
+            "zh": "不是说全下，八成左右就行啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "914/TALK",
+            "narrator": "みやび",
+            "text": "いくら当たったかにもよるけんど",
+            "zh": "不过也看中了多少就是",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "915/TALK",
+            "narrator": "みやび",
+            "text": "１０万以上やったら、お小遣い期待してるぞね",
+            "zh": "超过十万的话，我的零花钱就有着落咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "920/ACT",
+            "narrator": "",
+            "text": "失くした物を見つけた",
+            "zh": "找到丢的东西了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "923/TALK",
+            "narrator": "みやび",
+            "text": "見つかってよかったけんど",
+            "zh": "找到了就好",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "924/TALK",
+            "narrator": "みやび",
+            "text": "気をつけんといかんよ",
+            "zh": "得留心点哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "926/TALK",
+            "narrator": "みやび",
+            "text": "うちみたいに、どこに何を置いたかちゃんとわかるようにせんといかんよ",
+            "zh": "得学我这样，驷马东西搁哪儿都清清楚楚才行哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "927/TALK",
+            "narrator": "みやび",
+            "text": "…何か、言いたいことでもあるがか？",
+            "zh": "……怎么，有话想讲咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "929/TALK",
+            "narrator": "みやび",
+            "text": "物を失くす原因は、大抵変なところに置いて忘れることやき",
+            "zh": "东西弄丢的原因，多半是随手一搁然后忘了啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "930/TALK",
+            "narrator": "みやび",
+            "text": "相棒も、使うた物はちゃんと元の場所に戻さんといかんよ",
+            "zh": "搭档用完的东西也得乖乖放回原处才行哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "935/ACT",
+            "narrator": "",
+            "text": "早く帰れた！",
+            "zh": "提前回来了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "938/TALK",
+            "narrator": "みやび",
+            "text": "おっ、それはラッキーやね",
+            "zh": "哦，那可真是走运咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "941/TALK",
+            "narrator": "みやび",
+            "text": "早く帰れた時のあの嬉しさ、何なんやろね？",
+            "zh": "提前到家时那阵子高兴，到底是驷马咧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "942/TALK",
+            "narrator": "みやび",
+            "text": "解放感ながか？",
+            "zh": "是解放感咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "944/TALK",
+            "narrator": "みやび",
+            "text": "早く帰れた時のあの嬉しさ、何なんやろね？",
+            "zh": "提前到家时那阵子高兴，到底是驷马咧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "949/ACT",
+            "narrator": "",
+            "text": "奮発しちゃった",
+            "zh": "狠心大买了一次",
+            "narrator_zh": ""
+        },
+        {
+            "location": "952/TALK",
+            "narrator": "みやび",
+            "text": "うちにも奮発して、松坂牛送ってくれてもえいんよ？",
+            "zh": "也狠一回心，给我也送点松阪牛，不行咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "954/TALK",
+            "narrator": "みやび",
+            "text": "何かえいことでもあったが？",
+            "zh": "是有驷马好事吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "956/TALK",
+            "narrator": "みやび",
+            "text": "夕食でも奮発してえいもの食べたが？",
+            "zh": "晚饭狠心吃了顿好的？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "961/ACT",
+            "narrator": "",
+            "text": "徹夜中です！！",
+            "zh": "正在熬夜！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "964/TALK",
+            "narrator": "みやび",
+            "text": "お疲れさん",
+            "zh": "辛苦了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "965/TALK",
+            "narrator": "みやび",
+            "text": "仕事？　それともゲーム？",
+            "zh": "工作？　还是游戏？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "967/TALK",
+            "narrator": "みやび",
+            "text": "風邪引かんよう、何か羽織った方がえいよ",
+            "zh": "为了不感冒，披件衣裳更好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "968/TALK",
+            "narrator": "みやび",
+            "text": "明け方は冷えるきね",
+            "zh": "天快亮时最冷啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "970/TALK",
+            "narrator": "みやび",
+            "text": "うちもたまには徹夜でゲームしたいちや",
+            "zh": "我也想偶尔通宵打个游戏滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "971/TALK",
+            "narrator": "みやび",
+            "text": "…してしまおうか？",
+            "zh": "……要不就熬一场？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "976/ACT",
+            "narrator": "",
+            "text": "ゲーセンでぬいぐるみＧＥＴ！！",
+            "zh": "在游戏厅GET到玩偶！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "979/TALK",
+            "narrator": "みやび",
+            "text": "うちはあの手のゲームはやらんがよ",
+            "zh": "那种机器我不碰的咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "980/TALK",
+            "narrator": "みやび",
+            "text": "アームが恐ろしく弱い場合があるきね",
+            "zh": "爪子力道有时弱得离谱啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "982/TALK",
+            "narrator": "みやび",
+            "text": "ゲーセンは騒がしいき、あまり行かんがよ",
+            "zh": "游戏厅吵得很啵，我不常去咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "983/TALK",
+            "narrator": "みやび",
+            "text": "ゲームに集中できんくて、イライラするちや",
+            "zh": "没法专心打游戏，烦得很滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "985/TALK",
+            "narrator": "みやび",
+            "text": "相棒、ぬいぐるみ好きなが？",
+            "zh": "搭档喜欢玩偶咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "990/ACT",
+            "narrator": "",
+            "text": "新しい服を買った",
+            "zh": "买了新衣服",
+            "narrator_zh": ""
+        },
+        {
+            "location": "993/TALK",
+            "narrator": "みやび",
+            "text": "相棒はやっぱり洋服派なが？",
+            "zh": "搭档果然是洋装派咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "994/TALK",
+            "narrator": "みやび",
+            "text": "うちみたいに和服着る気はないが？",
+            "zh": "没兴趣像我这样穿和服？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "996/TALK",
+            "narrator": "みやび",
+            "text": "うちも新しい服が欲しいんよ",
+            "zh": "我也想添新衣裳哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "997/TALK",
+            "narrator": "みやび",
+            "text": "けんど、和服は高いき、気軽に買えんのがネックや…",
+            "zh": "但是，和服贵啵，不能随手买是硬伤……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "999/TALK",
+            "narrator": "みやび",
+            "text": "相棒の買うような服…",
+            "zh": "搭档会买的衣服……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1000/TALK",
+            "narrator": "みやび",
+            "text": "やっぱり、迷彩なが？",
+            "zh": "果然，是迷彩款咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1005/ACT",
+            "narrator": "",
+            "text": "面白いアニメを見た",
+            "zh": "看了有趣的动画",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1008/TALK",
+            "narrator": "みやび",
+            "text": "相棒もアニメ見るんやね？",
+            "zh": "搭档也看动画啊？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1009/TALK",
+            "narrator": "みやび",
+            "text": "うちも時々見るけんど、そこまで詳しくないが",
+            "zh": "我也偶尔看，但是算不上懂行",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1011/TALK",
+            "narrator": "みやび",
+            "text": "最近はテレビで見んでも、ネット配信したりもしてくれるき、うちも時々見るんよ",
+            "zh": "现在不上电视也有网络放送啵，我也偶尔追一追哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1012/TALK",
+            "narrator": "みやび",
+            "text": "見たい時に見れるき、ネット配信は便利やね",
+            "zh": "想看就能看啵，网络放送真方便咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1014/TALK",
+            "narrator": "みやび",
+            "text": "相棒の部屋、アニメのＤＶＤとか大量にありそうやね",
+            "zh": "搭档房间里，怕是堆着一堆动画ＤＶＤ咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1015/TALK",
+            "narrator": "みやび",
+            "text": "ガブちゃんと話が合うんやない？",
+            "zh": "跟加布不是挺合得来？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1020/ACT",
+            "narrator": "",
+            "text": "PCを新しくした",
+            "zh": "换了新电脑",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1023/TALK",
+            "narrator": "みやび",
+            "text": "相棒はデスクトップ派？",
+            "zh": "搭档是台式机派？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1024/TALK",
+            "narrator": "みやび",
+            "text": "それともラップトップ派？",
+            "zh": "还是笔记本派？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1026/TALK",
+            "narrator": "みやび",
+            "text": "うちも、新しいワークステーションが欲しいがよ",
+            "zh": "我也想要台新工作站啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1027/TALK",
+            "narrator": "みやび",
+            "text": "まあ、一から組むのも面白いんやけんどね",
+            "zh": "嘛，不过从零攒一台也挺有意思咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1029/TALK",
+            "narrator": "みやび",
+            "text": "相棒はＰＣでどんなことするが？",
+            "zh": "搭档拿ＰＣ都干驷马？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1030/TALK",
+            "narrator": "みやび",
+            "text": "まさか、ハイスペックなＰＣ使って動画サイト見るだけとかないよな？",
+            "zh": "不会配了高配ＰＣ光拿来刷视频网站吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1035/ACT",
+            "narrator": "",
+            "text": "ラノベ読み終わった",
+            "zh": "把轻小说读完了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1038/TALK",
+            "narrator": "みやび",
+            "text": "ラノベとか読むんか？",
+            "zh": "你还会读轻小说？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1039/TALK",
+            "narrator": "みやび",
+            "text": "うちは最近、まったく活字を読んでないちや",
+            "zh": "我最近，压根没碰过铅字滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1041/TALK",
+            "narrator": "みやび",
+            "text": "うち、活字読むんは苦手やき",
+            "zh": "我读不进铅字啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1042/TALK",
+            "narrator": "みやび",
+            "text": "それやったらラノベ原作のアニメ見るんよ",
+            "zh": "那样就去看轻小说改编的动画哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1044/TALK",
+            "narrator": "みやび",
+            "text": "やたらと分厚いラノベを見たことがあるけんど",
+            "zh": "见过厚得离谱的轻小说",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1045/TALK",
+            "narrator": "みやび",
+            "text": "あれ、本当に読んでる奴いるんか？",
+            "zh": "那玩意儿真有人通读下来咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1050/ACT",
+            "narrator": "",
+            "text": "遅刻した",
+            "zh": "迟到了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1053/TALK",
+            "narrator": "みやび",
+            "text": "そういうこともあるき、気にしたらいかんよ",
+            "zh": "这种事在所难免啵，别搁心上哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1055/TALK",
+            "narrator": "みやび",
+            "text": "あんまし回数重ねると目を付けられるき、気ぃつけた方がえいよ",
+            "zh": "次数多了要被盯上啵，还是当心点好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1057/TALK",
+            "narrator": "みやび",
+            "text": "遅刻ばかりしちゅうと、信用失くすき",
+            "zh": "老迟到的话，信用就没了啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1058/TALK",
+            "narrator": "みやび",
+            "text": "少し注意した方がえいよ",
+            "zh": "稍微留神点比较好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1063/ACT",
+            "narrator": "",
+            "text": "怒られた",
+            "zh": "被骂了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1066/TALK",
+            "narrator": "みやび",
+            "text": "まあ、くよくよしても仕方ないちや",
+            "zh": "嘛，懊恼也没用滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1067/TALK",
+            "narrator": "みやび",
+            "text": "気を入れ替えて頑張りぃ",
+            "zh": "换换心情接着加油吧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1069/TALK",
+            "narrator": "みやび",
+            "text": "あまり悪さしちょると、不良と思われるんよ？",
+            "zh": "太不学好，要被当成不良的哦？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1071/TALK",
+            "narrator": "みやび",
+            "text": "何したが？",
+            "zh": "干驷马了？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1072/TALK",
+            "narrator": "みやび",
+            "text": "あんまし悪さしたらいかんよ",
+            "zh": "不能净干坏事哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1077/ACT",
+            "narrator": "",
+            "text": "いやなものを見た",
+            "zh": "看到了讨厌的东西",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1080/TALK",
+            "narrator": "みやび",
+            "text": "ゴキブリでも見たがか？",
+            "zh": "是看见蟑螂了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1081/TALK",
+            "narrator": "みやび",
+            "text": "あれは視界の隅に入るだけでも、まっこと嫌な気持ちになるきね",
+            "zh": "那玩意哪怕只从眼角闪过一下，都够膈应人啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1083/TALK",
+            "narrator": "みやび",
+            "text": "ＰＣのエラー画面でも見たが？",
+            "zh": "还是瞅见ＰＣ报错界面了？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1084/TALK",
+            "narrator": "みやび",
+            "text": "あれは…心臓に悪いちや",
+            "zh": "那个……最伤心脏滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1086/TALK",
+            "narrator": "みやび",
+            "text": "そういう報告はせんでえい",
+            "zh": "这种报告就免了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1087/TALK",
+            "narrator": "みやび",
+            "text": "うちも聞きとうないきね",
+            "zh": "我也不想听啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1092/ACT",
+            "narrator": "",
+            "text": "怖い思いをした",
+            "zh": "吓到了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1095/TALK",
+            "narrator": "みやび",
+            "text": "事故にでも合いかけたがか？",
+            "zh": "差点出事咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1096/TALK",
+            "narrator": "みやび",
+            "text": "気をつけんといかんよ",
+            "zh": "得当心哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1098/TALK",
+            "narrator": "みやび",
+            "text": "お化けでも見たが？",
+            "zh": "还是撞见鬼了？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1099/TALK",
+            "narrator": "みやび",
+            "text": "…肯定されても困るけんどな",
+            "zh": "……你真认了我也难办啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1101/TALK",
+            "narrator": "みやび",
+            "text": "ＰＣが突然落ちたとかか？",
+            "zh": "还是ＰＣ突然崩了？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1102/TALK",
+            "narrator": "みやび",
+            "text": "うちやったら、心臓止まる勢いぞね",
+            "zh": "换成我，心脏都要骤停了咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1107/ACT",
+            "narrator": "",
+            "text": "泣きそうになった",
+            "zh": "差点哭了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1110/TALK",
+            "narrator": "みやび",
+            "text": "そういう時は泣いた方がえいよ",
+            "zh": "那种时候哭出来更好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1111/TALK",
+            "narrator": "みやび",
+            "text": "そうやないと、どんどん泣けなくなるきね",
+            "zh": "不然的话，会越来越哭不出来啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1113/TALK",
+            "narrator": "みやび",
+            "text": "タンスの角に指でもぶつけたが？",
+            "zh": "是小脚趾磕上柜角了？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1114/TALK",
+            "narrator": "みやび",
+            "text": "いや、そうなったら泣くより悶絶か",
+            "zh": "不对，那样子与其哭不如疼得打滚",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1116/TALK",
+            "narrator": "みやび",
+            "text": "泣ける機会なんて滅多にないがよ？",
+            "zh": "能哭的机会可稀罕着哦？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1117/TALK",
+            "narrator": "みやび",
+            "text": "大切にした方がえいちや",
+            "zh": "要好好珍惜滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1122/ACT",
+            "narrator": "",
+            "text": "喧嘩した",
+            "zh": "吵架了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1125/TALK",
+            "narrator": "みやび",
+            "text": "夕陽をバックに親友と殴り合いでもしたが？",
+            "zh": "是衬着夕阳跟挚友互殴了一场？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1127/TALK",
+            "narrator": "みやび",
+            "text": "気持ちよく仲直りできるとえいね",
+            "zh": "能痛痛快快和好就好了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1128/TALK",
+            "narrator": "みやび",
+            "text": "泥沼に発展しちゅうたら、地獄ぞね",
+            "zh": "要发展成泥潭大战，就是地狱咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1130/TALK",
+            "narrator": "みやび",
+            "text": "喧嘩できる相手がいるんはえいことやき",
+            "zh": "有能吵上一架的对象是好事啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1131/TALK",
+            "narrator": "みやび",
+            "text": "まあ、知らない相手との喧嘩やったら最悪やけんど",
+            "zh": "嘛，跟不相干的人吵起来就糟了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1136/ACT",
+            "narrator": "",
+            "text": "大切な物を無くした",
+            "zh": "把重要的东西弄丢了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1139/TALK",
+            "narrator": "みやび",
+            "text": "探して見つからん時は、探さん方がえいこともあるんよ",
+            "zh": "翻遍也找不到时，有时索性不找反而更好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1140/TALK",
+            "narrator": "みやび",
+            "text": "忘れた頃に見つかるいうこともあるきね",
+            "zh": "也有等你忘干净了才自己冒出来的啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1142/TALK",
+            "narrator": "みやび",
+            "text": "無くして初めて知った、どれだけ大切なのかを…",
+            "zh": "直到弄丢才知道，到底有多重要……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1143/TALK",
+            "narrator": "みやび",
+            "text": "冗談言ってる場合やなかったな、すまん…",
+            "zh": "这不是开玩笑的时候啊，没好意思……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1145/TALK",
+            "narrator": "みやび",
+            "text": "見つかったら、箱にでも入れて保管した方がえいよ",
+            "zh": "找回来就装盒收好更好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1146/TALK",
+            "narrator": "みやび",
+            "text": "相棒、すぐにまた無くしそうやきね",
+            "zh": "搭档你瞧着就快又要弄丢了啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1151/ACT",
+            "narrator": "",
+            "text": "ケガしちゃった",
+            "zh": "受伤了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1154/TALK",
+            "narrator": "みやび",
+            "text": "事故にでもあったが？",
+            "zh": "出事故了？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1155/TALK",
+            "narrator": "みやび",
+            "text": "注意せんといかんよ",
+            "zh": "得留神哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1157/TALK",
+            "narrator": "みやび",
+            "text": "随分軽い言い方やけんど、大したケガやなかったが？",
+            "zh": "讲得倒轻巧，伤得不重吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1158/TALK",
+            "narrator": "みやび",
+            "text": "あんまし調子に乗っちゅうと、もっと酷いケガすることになるぞね",
+            "zh": "太得意忘形，下回受的伤更重咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1160/TALK",
+            "narrator": "みやび",
+            "text": "入院しちゅうわけやないがか？",
+            "zh": "没到要住院的地步嘛？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1161/TALK",
+            "narrator": "みやび",
+            "text": "気をつけんといかんよ",
+            "zh": "得当心哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1166/ACT",
+            "narrator": "",
+            "text": "帰りが遅くなった",
+            "zh": "回来晚了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1169/TALK",
+            "narrator": "みやび",
+            "text": "遅くまでお疲れさん",
+            "zh": "忙到这么晚，辛苦了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1170/TALK",
+            "narrator": "みやび",
+            "text": "何で遅くなったかは知らんけんど",
+            "zh": "虽然我没懂你怎么才回来",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1172/TALK",
+            "narrator": "みやび",
+            "text": "遅くなった理由が遊びか仕事かわからんき、何とも言えんよ",
+            "zh": "晚归是玩还是干活我没懂啵，不好讲哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1174/TALK",
+            "narrator": "みやび",
+            "text": "忙しいようやね",
+            "zh": "瞧着挺忙咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1175/TALK",
+            "narrator": "みやび",
+            "text": "まあ、遅くまでやることあるんはえいことや",
+            "zh": "嘛，有事做到这么晚是好事咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1180/ACT",
+            "narrator": "",
+            "text": "金欠かも…",
+            "zh": "可能没钱了……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1183/TALK",
+            "narrator": "みやび",
+            "text": "奇遇やね",
+            "zh": "真巧咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1184/TALK",
+            "narrator": "みやび",
+            "text": "うちも今月、ちっくと金欠なんよ…",
+            "zh": "我这个月也有点囊中羞涩……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1186/TALK",
+            "narrator": "みやび",
+            "text": "金欠の時は、部屋に籠ってＰＣ三昧に限るちや",
+            "zh": "没钱的时候，宅房间里泡ＰＣ最对味滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1187/TALK",
+            "narrator": "みやび",
+            "text": "外に出なけりゃ金は使わんきね",
+            "zh": "不出门就不花钱啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1189/TALK",
+            "narrator": "みやび",
+            "text": "金が無いなら無いなりの楽しみ方があるちや",
+            "zh": "没钱有没钱的过法滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1190/TALK",
+            "narrator": "みやび",
+            "text": "のんびり家にある本でも読んでればえいよ",
+            "zh": "慢悠悠读读家里的藏书就好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1195/ACT",
+            "narrator": "",
+            "text": "テストが酷かった",
+            "zh": "考试考得好惨",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1198/TALK",
+            "narrator": "みやび",
+            "text": "相棒はバカやねぇ",
+            "zh": "搭档真是个笨蛋咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1200/TALK",
+            "narrator": "みやび",
+            "text": "調子でも悪かったが？",
+            "zh": "是状态不佳吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1201/TALK",
+            "narrator": "みやび",
+            "text": "まあ、酷いのがデフォルトかもしれんけんど",
+            "zh": "嘛，也许考砸才是默认值",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1203/TALK",
+            "narrator": "みやび",
+            "text": "いつもは酷くないが？",
+            "zh": "平时不惨吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1204/TALK",
+            "narrator": "みやび",
+            "text": "やったら、次は頑張るんやね",
+            "zh": "那样的话，下次加油咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1209/ACT",
+            "narrator": "",
+            "text": "先生に怒られた",
+            "zh": "被老师骂了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1212/TALK",
+            "narrator": "みやび",
+            "text": "何したが？",
+            "zh": "干驷马了？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1213/TALK",
+            "narrator": "みやび",
+            "text": "先生の頭に黒板消しでも落としたがか？",
+            "zh": "是往老师头上砸黑板擦了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1215/TALK",
+            "narrator": "みやび",
+            "text": "ちゃんと怒ってくれる先生はえい先生や",
+            "zh": "肯认真训人的老师是好老师",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1216/TALK",
+            "narrator": "みやび",
+            "text": "理不尽に怒る先生やったら…すっと忘れた方がえいよ",
+            "zh": "要是蛮不讲理乱发火的老师……麻利忘掉更好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1218/TALK",
+            "narrator": "みやび",
+            "text": "バカチンがぁ！",
+            "zh": "你这个笨蛋——！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1219/TALK",
+            "narrator": "みやび",
+            "text": "って怒られたがか？",
+            "zh": "是被这么骂了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1224/ACT",
+            "narrator": "",
+            "text": "試験の点数が悪かったんだ",
+            "zh": "考试分数很差",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1227/TALK",
+            "narrator": "みやび",
+            "text": "相棒、ちゃんと勉強してるが？",
+            "zh": "搭档，有好好念书吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1228/TALK",
+            "narrator": "みやび",
+            "text": "教科書読み直すだけでも違うき、今からやってみぃ",
+            "zh": "光把课本重读一遍都不一样啵，现在就试试吧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1230/TALK",
+            "narrator": "みやび",
+            "text": "落第せんように、ちっくと勉強した方がえいんやないが？",
+            "zh": "为了不挂科，稍微用点功不是更好？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1232/TALK",
+            "narrator": "みやび",
+            "text": "気にしちゅうなら勉強するちや",
+            "zh": "在意的话就去学滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1237/ACT",
+            "narrator": "",
+            "text": "試験の点数が良かったんだ！",
+            "zh": "考试分数很好！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1240/TALK",
+            "narrator": "みやび",
+            "text": "ならお祝いやね",
+            "zh": "那就得庆祝咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1241/TALK",
+            "narrator": "みやび",
+            "text": "相棒のお金で豪華なディナーといくちや",
+            "zh": "拿搭档的钱去吃豪华大餐滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1243/TALK",
+            "narrator": "みやび",
+            "text": "何の試験かは知らんけんど、おめでとさん",
+            "zh": "虽然没懂是驷马考试，但是恭喜啦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1244/TALK",
+            "narrator": "みやび",
+            "text": "美味いもんでも食べてお祝いやね",
+            "zh": "吃点好的庆祝一下咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1246/TALK",
+            "narrator": "みやび",
+            "text": "試験の結果も良かったんやし、ここはパーッと祝うぞね！",
+            "zh": "考试结果又好，这里就该痛痛快快庆祝咧！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1247/TALK",
+            "narrator": "みやび",
+            "text": "費用は相棒もちでな",
+            "zh": "费用搭档你出啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1252/ACT",
+            "narrator": "",
+            "text": "仕事が順調",
+            "zh": "工作顺利",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1255/TALK",
+            "narrator": "みやび",
+            "text": "その調子でいけば昇進も夢やないね",
+            "zh": "照这势头，升职也不是梦咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1257/TALK",
+            "narrator": "みやび",
+            "text": "うんうん、えいことや",
+            "zh": "嗯嗯，好事咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1258/TALK",
+            "narrator": "みやび",
+            "text": "それで給料が上がればもっとえいんやけんどね",
+            "zh": "工资要能跟着涨就更好咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1260/TALK",
+            "narrator": "みやび",
+            "text": "仕事が順調なんはえいけんど",
+            "zh": "工作顺利是好事，但是",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1261/TALK",
+            "narrator": "みやび",
+            "text": "それに慣れ過ぎると、順調じゃなくなった時が地獄になるんよ",
+            "zh": "太习惯了，等哪天不顺起来就是地狱哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1266/ACT",
+            "narrator": "",
+            "text": "仕事が辛い",
+            "zh": "工作好辛苦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1269/TALK",
+            "narrator": "みやび",
+            "text": "辛くないけどラクで給料のえい仕事って、存在するが？",
+            "zh": "不辛苦还轻松、钱又多的活儿，真存在吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1271/TALK",
+            "narrator": "みやび",
+            "text": "辛い仕事やからって、捨てたらいかんよ",
+            "zh": "工作再苦也不能说撂就撂哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1272/TALK",
+            "narrator": "みやび",
+            "text": "今度は人生辛くなるきね",
+            "zh": "接下来轮到人生辛苦了啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1274/TALK",
+            "narrator": "みやび",
+            "text": "相棒がどんな仕事しちゅうか知らんき、何とも言えんけんど",
+            "zh": "搭档干的是驷马活我没懂啵，不好讲",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1275/TALK",
+            "narrator": "みやび",
+            "text": "ブラック企業やったら、労基にチクりに行けばえいよ",
+            "zh": "要是黑心企业，直接去劳动局告它就好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1280/ACT",
+            "narrator": "",
+            "text": "会社辞めたよ！",
+            "zh": "我把工作辞了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1283/TALK",
+            "narrator": "みやび",
+            "text": "人生詰まんように気ぃつけた方がえいよ",
+            "zh": "为免人生完蛋，还是当心点好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1285/TALK",
+            "narrator": "みやび",
+            "text": "定年退職やと信じてるき",
+            "zh": "我就当你是光荣退休了啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1286/TALK",
+            "narrator": "みやび",
+            "text": "ニートなんて笑えんちや",
+            "zh": "家里蹲什么的可笑不起来滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1288/TALK",
+            "narrator": "みやび",
+            "text": "会社という束縛から逃れて良かったな",
+            "zh": "逃离公司这层束缚，可喜可贺啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1289/TALK",
+            "narrator": "みやび",
+            "text": "給料やら社会保険やらを失いはしたんやろうけんど…",
+            "zh": "工资、社保什么的倒是全没了……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1294/ACT",
+            "narrator": "",
+            "text": "毎日することなくて…",
+            "zh": "每天都无事可做……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1297/TALK",
+            "narrator": "みやび",
+            "text": "ＰＣの前に座っていれば、何かしらはすると思うんよ",
+            "zh": "只要往ＰＣ前一坐，总有驷马可干的我觉得哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1299/TALK",
+            "narrator": "みやび",
+            "text": "ＰＣのパーツでも買うてきて、組み立ててみるんはどうや？",
+            "zh": "买点ＰＣ零件回来试着装一台怎么样？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1300/TALK",
+            "narrator": "みやび",
+            "text": "ハマればいくらでもこだわれるき、毎日そればかりに熱中できるぞね",
+            "zh": "入了坑就能一直钻研啵，天天沉迷这一样都行咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1302/TALK",
+            "narrator": "みやび",
+            "text": "相棒は普段、何もしてないが？",
+            "zh": "搭档平时都驷马也不干吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1303/TALK",
+            "narrator": "みやび",
+            "text": "せめて熱中できる趣味くらい持ってないと、人としてヤバいと思うんよ",
+            "zh": "好歹得有个能沉迷的爱好，不然作为人我觉得悬乎哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1308/ACT",
+            "narrator": "",
+            "text": "一日寝て過ごしてた",
+            "zh": "睡了一整天",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1311/TALK",
+            "narrator": "みやび",
+            "text": "うちも休日は、時々やるんよ",
+            "zh": "休息日我也偶尔来一回哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1313/TALK",
+            "narrator": "みやび",
+            "text": "一日ゴロゴロしながらＰＣ弄るんは楽しいちや",
+            "zh": "一整天躺着摆弄ＰＣ很快乐滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1314/TALK",
+            "narrator": "みやび",
+            "text": "まあ、一時間もせんうちに、体制キツくなってくるけんどな",
+            "zh": "嘛，不过撑不满一个钟头，姿势就熬人咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1316/TALK",
+            "narrator": "みやび",
+            "text": "休日くらい、そういう過ごし方もありやと思うが",
+            "zh": "休息日嘛，这种过法我觉得也无妨",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1317/TALK",
+            "narrator": "みやび",
+            "text": "平日にそれやったら、ダメ人間やけんどね",
+            "zh": "工作日还这么过，那就是废人咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1322/ACT",
+            "narrator": "",
+            "text": "最近家から出てない…",
+            "zh": "最近都没出门……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1325/TALK",
+            "narrator": "みやび",
+            "text": "相棒はインドア派なが？",
+            "zh": "搭档是室内派咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1326/TALK",
+            "narrator": "みやび",
+            "text": "それやったら、別におかしなことやないな",
+            "zh": "那样的话，也不算驷马稀奇事",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1328/TALK",
+            "narrator": "みやび",
+            "text": "うちも基本的にインドア派やき、学校かバイト以外はヒキコモリや",
+            "zh": "我基本也是室内派啵，除了学校跟打工就是家里蹲",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1330/TALK",
+            "narrator": "みやび",
+            "text": "用事がないなら、無理に外出する必要ないぞね",
+            "zh": "没事的话，没必要硬出门咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1335/ACT",
+            "narrator": "",
+            "text": "可愛い子を見た",
+            "zh": "看到可爱的女孩子了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1338/TALK",
+            "narrator": "みやび",
+            "text": "うちは毎日見ちょるよ",
+            "zh": "我可是天天都在看哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1339/TALK",
+            "narrator": "みやび",
+            "text": "ガブちゃんを始めつばめちゃんにあーや、より取り見取りや",
+            "zh": "加布打头，燕啊、绫水啊，任挑任选咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1341/TALK",
+            "narrator": "みやび",
+            "text": "うちよりもか？",
+            "zh": "比我还好看？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1342/TALK",
+            "narrator": "みやび",
+            "text": "…冗談やき、笑ってほしいがよ",
+            "zh": "……是开玩笑啵，好歹笑一下咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1344/TALK",
+            "narrator": "みやび",
+            "text": "追っかけたりしてないやろね？",
+            "zh": "没有跟踪人家吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1345/TALK",
+            "narrator": "みやび",
+            "text": "相棒やったら、それくらいのことしてそうや",
+            "zh": "换作搭档，还真像干得出这种事",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1350/ACT",
+            "narrator": "",
+            "text": "好きな子が出来た",
+            "zh": "有喜欢的女孩子了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1353/TALK",
+            "narrator": "みやび",
+            "text": "なら、すっと告白するちや",
+            "zh": "那就麻利去告白滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1354/TALK",
+            "narrator": "みやび",
+            "text": "誰かに奪われてからやと遅いぞ",
+            "zh": "被人抢了才行动就晚了哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1356/TALK",
+            "narrator": "みやび",
+            "text": "報告するタイミングが変やないか？",
+            "zh": "报告的时机不对吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1357/TALK",
+            "narrator": "みやび",
+            "text": "告白してＯＫもらうなり断られるなりしてから報告せい",
+            "zh": "先告白，得了答复——成或不成——再来报告啦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1359/TALK",
+            "narrator": "みやび",
+            "text": "よし、ならちっくと強引にアプローチ掛けて、相手に気持ちを打ち明けるちや",
+            "zh": "好，那就来点强硬攻势，把心意直接摊给对方滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1360/TALK",
+            "narrator": "みやび",
+            "text": "ただ、やり過ぎると通報ものやき、気をつけるんやぞ",
+            "zh": "不过，做过头是要被报警的啵，给我当心哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1365/ACT",
+            "narrator": "",
+            "text": "デートしてきた",
+            "zh": "去约会了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1368/TALK",
+            "narrator": "みやび",
+            "text": "チューの一つもしてこれたか？",
+            "zh": "有没有亲一口再回来？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1369/TALK",
+            "narrator": "みやび",
+            "text": "まさか、仲良く遊んだだけなんてこと、ないよな？",
+            "zh": "不会就只是和和气气玩了一趟吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1371/TALK",
+            "narrator": "みやび",
+            "text": "どんなデートだったか、詳しく話してくれるが？",
+            "zh": "约会都干了驷马，详细讲来听听？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1372/TALK",
+            "narrator": "みやび",
+            "text": "そうやないなら気になるき、報告する必要ないちや",
+            "zh": "不是的话我也只是随口好奇，没得必要报告滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1374/TALK",
+            "narrator": "みやび",
+            "text": "がっついてチュー求めたりせんかったか？",
+            "zh": "没上赶着讨亲吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1375/TALK",
+            "narrator": "みやび",
+            "text": "やり過ぎは別れる原因になるき、気を付けた方がえいよ",
+            "zh": "做得太过是分手的根源啵，当心点好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1380/ACT",
+            "narrator": "",
+            "text": "告白された",
+            "zh": "被告白了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1383/TALK",
+            "narrator": "みやび",
+            "text": "本当なが？",
+            "zh": "是真的咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1384/TALK",
+            "narrator": "みやび",
+            "text": "見栄張ってウソついてるんやない？",
+            "zh": "不是撑面子在吹牛吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1386/TALK",
+            "narrator": "みやび",
+            "text": "せっかく告白されたんに、断ったんか？",
+            "zh": "难得被人告白，还拒了？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1387/TALK",
+            "narrator": "みやび",
+            "text": "承諾したなら、恋人ができた、いう報告してくるだろうし",
+            "zh": "要是答应了，该来报“我有恋人了”才对吧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1389/TALK",
+            "narrator": "みやび",
+            "text": "相棒は幸せ者やね",
+            "zh": "搭档真是个有福气的人咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1390/TALK",
+            "narrator": "みやび",
+            "text": "勇気出して告白しよう思うてもらえるくらい、好きだと思うてもらえてるんやき",
+            "zh": "能让对方鼓起勇气来告白，说明人家觉得你是值得被喜欢的啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1395/ACT",
+            "narrator": "",
+            "text": "恋人が出来ました",
+            "zh": "我有恋人了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1398/TALK",
+            "narrator": "みやび",
+            "text": "ヒューヒュー、ラブラブカップルー",
+            "zh": "咻咻~如胶似漆小两口~",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1399/TALK",
+            "narrator": "みやび",
+            "text": "こんな風に冷やかされたいがか？",
+            "zh": "想被这么起哄咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1401/TALK",
+            "narrator": "みやび",
+            "text": "なら、うちとはあまり話さん方がえいよ",
+            "zh": "那就少跟我讲话更好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1402/TALK",
+            "narrator": "みやび",
+            "text": "浮気と疑われたら、うちまで面倒なことに巻き込まれるきな",
+            "zh": "被疑心出轨，连我也得被卷进麻烦里啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1404/TALK",
+            "narrator": "みやび",
+            "text": "大切にせんといかんよ",
+            "zh": "得好好珍惜哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1405/TALK",
+            "narrator": "みやび",
+            "text": "けんど、あまりワガママ言うようやったら、ビシッと言ってやるのも役目やぞ",
+            "zh": "但是，要是太任性，狠狠说一顿也是职责哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1410/ACT",
+            "narrator": "",
+            "text": "結婚します",
+            "zh": "我要结婚了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1413/TALK",
+            "narrator": "みやび",
+            "text": "めでたいビッグニュースやね",
+            "zh": "可喜可贺的大新闻咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1414/TALK",
+            "narrator": "みやび",
+            "text": "おめでとう、うちも祝福するぞね",
+            "zh": "恭喜，我也送上祝福咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1416/TALK",
+            "narrator": "みやび",
+            "text": "相棒は幸せの真っただ中にいるんやね",
+            "zh": "搭档正泡在幸福正中央啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1417/TALK",
+            "narrator": "みやび",
+            "text": "その幸せ、ずっと続くことを祈ってるちや",
+            "zh": "愿这份幸福长长久久滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1419/TALK",
+            "narrator": "みやび",
+            "text": "二世誕生報告を楽しみに待ってるちや",
+            "zh": "我就等着听小宝宝诞生的报告滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1420/TALK",
+            "narrator": "みやび",
+            "text": "それはともかく、結婚おめでとう",
+            "zh": "总之，新婚快乐",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1424/ACT",
+            "narrator": "",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1431/SEL",
+            "narrator": "",
+            "text": "幽霊見たんだ",
+            "zh": "我看到幽灵了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1432/SEL",
+            "narrator": "",
+            "text": "宇宙人にさらわれてた",
+            "zh": "我被外星人抓走了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1433/SEL",
+            "narrator": "",
+            "text": "3億円当たった",
+            "zh": "中了3亿日元",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1434/SEL",
+            "narrator": "",
+            "text": "明日世界が終わるみたいだよ",
+            "zh": "世界好像明天就要完了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1435/SEL",
+            "narrator": "",
+            "text": "熊に襲われたなう",
+            "zh": "正被熊袭击中",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1436/SEL",
+            "narrator": "",
+            "text": "ごめん、人違い",
+            "zh": "抱歉，认错人了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1437/SEL",
+            "narrator": "",
+            "text": "はじめまして",
+            "zh": "初次见面",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1438/SEL",
+            "narrator": "",
+            "text": "優しくして",
+            "zh": "对我温柔点",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1439/SEL",
+            "narrator": "",
+            "text": "笑える話をして",
+            "zh": "说个好笑的故事来听",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1440/SEL",
+            "narrator": "",
+            "text": "会いに来て",
+            "zh": "来见我",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1441/SEL",
+            "narrator": "",
+            "text": "ご飯作って",
+            "zh": "做饭给我吃",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1442/SEL",
+            "narrator": "",
+            "text": "占って",
+            "zh": "帮我占卜",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1443/SEL",
+            "narrator": "",
+            "text": "目からビーム出して",
+            "zh": "从眼睛里发射光线",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1444/SEL",
+            "narrator": "",
+            "text": "アイドルになろうと思う",
+            "zh": "我打算成为偶像",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1445/SEL",
+            "narrator": "",
+            "text": "ヒーローを目指すぜ！",
+            "zh": "我要成为英雄！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1446/SEL",
+            "narrator": "",
+            "text": "へい、ベイビー",
+            "zh": "嘿，宝贝",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1447/SEL",
+            "narrator": "",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1450/ACT",
+            "narrator": "",
+            "text": "幽霊見たんだ",
+            "zh": "我看到幽灵了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1453/TALK",
+            "narrator": "みやび",
+            "text": "写真は撮ったが？",
+            "zh": "拍照了吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1454/TALK",
+            "narrator": "みやび",
+            "text": "その手の話は、証拠がないと誰にも信じてもらえんよ",
+            "zh": "这种事，没证据谁都不会信哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1456/TALK",
+            "narrator": "みやび",
+            "text": "特に何かされたわけでもないんやろ？",
+            "zh": "也没被干驷马吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1457/TALK",
+            "narrator": "みやび",
+            "text": "えいもん見れてよかったやんか",
+            "zh": "能看到好东西不也挺好吗",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1459/TALK",
+            "narrator": "みやび",
+            "text": "幽霊って、本当に足がないが？",
+            "zh": "幽灵真的没得脚？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1464/ACT",
+            "narrator": "",
+            "text": "宇宙人にさらわれてた",
+            "zh": "我被外星人抓走了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1467/TALK",
+            "narrator": "みやび",
+            "text": "それ、本当に宇宙人やったが？",
+            "zh": "那真是外星人？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1468/TALK",
+            "narrator": "みやび",
+            "text": "そもそも本物の宇宙人を見たことないき、すぐに宇宙人ってわからんと思うんやけんど…",
+            "zh": "话说回来谁也没见过真外星人啵，我看未必能马上认出来……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1470/TALK",
+            "narrator": "みやび",
+            "text": "何か変なもん埋められたり、内臓持ってかれたりしとらん？",
+            "zh": "没被埋进驷马怪东西、内脏也没被拿走吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1471/TALK",
+            "narrator": "みやび",
+            "text": "宇宙人による人間の誘拐はワクワクするぞね！",
+            "zh": "外星人绑架人类，想想就兴奋咧！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1473/TALK",
+            "narrator": "みやび",
+            "text": "無事に帰してくれたき、友好的な宇宙人やね",
+            "zh": "还平安把你放回来啵，真是友好型外星人咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1474/TALK",
+            "narrator": "みやび",
+            "text": "うちもさらわれてみたいちや",
+            "zh": "我也想被绑一回滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1479/ACT",
+            "narrator": "",
+            "text": "3億円当たった",
+            "zh": "中了3亿日元",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1482/TALK",
+            "narrator": "みやび",
+            "text": "じゃあ、２億８０００万はうちがもらうき",
+            "zh": "那，两亿八千万归我啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1483/TALK",
+            "narrator": "みやび",
+            "text": "明日までに口座に振り込んどいてな",
+            "zh": "明天之前打进账户里啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1485/TALK",
+            "narrator": "みやび",
+            "text": "３億で不可思議ちゃん造って、うちにプレゼントしてくれてもえいよ",
+            "zh": "拿三亿造台“不可思议”送我，也不是不行哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1486/TALK",
+            "narrator": "みやび",
+            "text": "ちなみに、不可思議ちゃんは日本政府からうちが借りてるスパコンのことやき",
+            "zh": "顺带讲下，“不可思议”是我从日本政府那儿借来的超算啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1487/TALK",
+            "narrator": "みやび",
+            "text": "あれ買うてくれるなら、うち、相棒と結婚してもえいよ",
+            "zh": "那个肯买给我的话，我跟你结婚也不是不行哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1489/TALK",
+            "narrator": "みやび",
+            "text": "全然連絡取ってない親戚や元クラスメイトからの連絡には気を付けた方がえいよ",
+            "zh": "突然冒头的远房亲戚和老同学，他们来联系时要当心哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1494/ACT",
+            "narrator": "",
+            "text": "明日世界が終わるみたいだよ",
+            "zh": "世界好像明天就要完了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1497/TALK",
+            "narrator": "みやび",
+            "text": "人類皆平等に仲良く終わるいうなら、諦めもつくちや",
+            "zh": "要是人类能平等和睦地一起完蛋，倒也认了滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1499/TALK",
+            "narrator": "みやび",
+            "text": "世界は終わっても、人類はまだ生き残っていた…",
+            "zh": "世界终结之后，人类依然幸存……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1500/TALK",
+            "narrator": "みやび",
+            "text": "世紀末でヒャッハーなマッド全開な世界に生まれ変わりそうな展開やね",
+            "zh": "这走向是要重生成分分钟“呀哈哈”狂笑、疯狂科学家全开的世纪末世界咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1502/TALK",
+            "narrator": "みやび",
+            "text": "なら、相棒の全財産うちにくれ",
+            "zh": "那就把搭档的全副身家给我",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1503/TALK",
+            "narrator": "みやび",
+            "text": "明日世界が終るならいらんやろ？",
+            "zh": "明天世界就完了，留着也没用吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1508/ACT",
+            "narrator": "",
+            "text": "熊に襲われたなう",
+            "zh": "正被熊袭击中",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1511/TALK",
+            "narrator": "みやび",
+            "text": "生きてるみたいだし、問題なさそうやね",
+            "zh": "瞧着还活着，应该没驷马问题咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1513/TALK",
+            "narrator": "みやび",
+            "text": "うち、熊肉ってまだ食べたことないちや",
+            "zh": "熊肉我还没吃过滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1514/TALK",
+            "narrator": "みやび",
+            "text": "…後は言わんでもわかるな？",
+            "zh": "……余下的不说也懂吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1516/TALK",
+            "narrator": "みやび",
+            "text": "ウソつかれたなう",
+            "zh": "被人撒谎骗了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1521/ACT",
+            "narrator": "",
+            "text": "ごめん、人違い",
+            "zh": "抱歉，认错人了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1524/TALK",
+            "narrator": "みやび",
+            "text": "よし、罰金３０万な",
+            "zh": "好，罚金三十万",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1526/TALK",
+            "narrator": "みやび",
+            "text": "誰と間違えたんか言うてみぃ？",
+            "zh": "讲讲，把人认成谁了？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1528/TALK",
+            "narrator": "みやび",
+            "text": "おｋ",
+            "zh": "OK",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1533/ACT",
+            "narrator": "",
+            "text": "はじめまして",
+            "zh": "初次见面",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1536/TALK",
+            "narrator": "みやび",
+            "text": "はじめまして、あたしガブちゃん！",
+            "zh": "初次见面，人家是加布哟！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1537/TALK",
+            "narrator": "みやび",
+            "text": "なんてな…つまらん冗談はよすちや、相棒",
+            "zh": "骗你的……无聊的玩笑就到此为止滴，搭档",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1539/TALK",
+            "narrator": "みやび",
+            "text": "初見お断りぞね",
+            "zh": "生人免进咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1541/TALK",
+            "narrator": "みやび",
+            "text": "てしまめじは",
+            "zh": "てしまめじは",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1542/TALK",
+            "narrator": "みやび",
+            "text": "まともに相手する気になれんよ",
+            "zh": "没心思正经搭理你哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1547/ACT",
+            "narrator": "",
+            "text": "優しくして",
+            "zh": "对我温柔点",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1550/TALK",
+            "narrator": "みやび",
+            "text": "よーしよしよし相棒はえいこやねーよしよしよし",
+            "zh": "乖~乖~乖~搭档是好孩子咯~乖~乖~乖",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1552/TALK",
+            "narrator": "みやび",
+            "text": "今日はこれで話すのやめるか",
+            "zh": "今天就讲到这儿吧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1553/TALK",
+            "narrator": "みやび",
+            "text": "突き放すんも優しさちや",
+            "zh": "推开你也是温柔滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1555/TALK",
+            "narrator": "みやび",
+            "text": "それ、有料サービスや",
+            "zh": "那个，可是付费服务哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1556/TALK",
+            "narrator": "みやび",
+            "text": "そういうことやき、相棒に優しくはできんなぁ",
+            "zh": "就是这么回事啵，对搭档温柔不起来啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1561/ACT",
+            "narrator": "",
+            "text": "笑える話をして",
+            "zh": "说个好笑的故事来听",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1564/TALK",
+            "narrator": "みやび",
+            "text": "そんな面白可笑しい毎日を送っちょらんき",
+            "zh": "我又没过着净是笑料的日子啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1567/TALK",
+            "narrator": "みやび",
+            "text": "笑えることがない、いうことに笑うしかない",
+            "zh": "只好为“没得可笑”这件事本身笑了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1568/TALK",
+            "narrator": "みやび",
+            "text": "そういうんはどうや？",
+            "zh": "这样的如何？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1570/TALK",
+            "narrator": "みやび",
+            "text": "ガブちゃんがケーキにガブッと噛みついてたが",
+            "zh": "加布朝蛋糕“嘎布”一口咬上去的样",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1571/TALK",
+            "narrator": "みやび",
+            "text": "…このジョークで笑えたら、疲れてる証拠や",
+            "zh": "……要是这笑话能把你逗笑，那就是累了的铁证",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1576/ACT",
+            "narrator": "",
+            "text": "会いに来て",
+            "zh": "来见我",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1579/TALK",
+            "narrator": "みやび",
+            "text": "自分から会いに行こうとは思わんが？",
+            "zh": "自己就没想过主动去见？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1580/TALK",
+            "narrator": "みやび",
+            "text": "こういうところで性格出るなぁ",
+            "zh": "这种地方最见人品啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1582/TALK",
+            "narrator": "みやび",
+            "text": "むしろ相棒がくればえいよ",
+            "zh": "不如搭档你过来就好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1584/TALK",
+            "narrator": "みやび",
+            "text": "こうして意思疎通できてるき、実際に会いに行く必要ないやろ？",
+            "zh": "既然这样都能沟通了啵，实际跑一趟的必要没得吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1589/ACT",
+            "narrator": "",
+            "text": "ご飯作って",
+            "zh": "做饭给我吃",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1592/TALK",
+            "narrator": "みやび",
+            "text": "食べるだけの奴がよく言うセリフやね",
+            "zh": "光会吃的人最常挂嘴边的台词咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1593/TALK",
+            "narrator": "みやび",
+            "text": "作るのは面倒なんやぞ？",
+            "zh": "做饭可是很费事的哦？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1595/TALK",
+            "narrator": "みやび",
+            "text": "おかゆでえいか？",
+            "zh": "白粥得咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1597/TALK",
+            "narrator": "みやび",
+            "text": "食べに来るいうなら作るけんど、そうやないならお断りや",
+            "zh": "要过来吃的话我就做，不然免谈",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1598/TALK",
+            "narrator": "みやび",
+            "text": "うち、面倒なこと大嫌いやき",
+            "zh": "我最讨厌麻烦事啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1603/ACT",
+            "narrator": "",
+            "text": "占って",
+            "zh": "帮我占卜",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1606/TALK",
+            "narrator": "みやび",
+            "text": "ネットで検索すれば、腐るほど出てくるんよ",
+            "zh": "网上一搜，多到发霉哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1609/TALK",
+            "narrator": "みやび",
+            "text": "うちが占いできる思うてるんか？",
+            "zh": "你当我会占卜咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1610/TALK",
+            "narrator": "みやび",
+            "text": "一度もやったことないちや",
+            "zh": "一次都没搞过滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1612/TALK",
+            "narrator": "みやび",
+            "text": "相棒は占い好きか？",
+            "zh": "搭档喜欢占卜？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1613/TALK",
+            "narrator": "みやび",
+            "text": "意外と乙女チックやね",
+            "zh": "意外地少女心咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1618/ACT",
+            "narrator": "",
+            "text": "目からビーム出して",
+            "zh": "从眼睛里发射光线",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1621/TALK",
+            "narrator": "みやび",
+            "text": "あれはうちの命と引き換えに仕える技やき、今は使えん",
+            "zh": "那可是拿命换的招式啵，现在使不得",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1622/TALK",
+            "narrator": "みやび",
+            "text": "ちゅう設定と思って諦めるちや",
+            "zh": "就当有这么个设定，趁早死心滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1624/TALK",
+            "narrator": "みやび",
+            "text": "手からは出せるんやけどなぁ",
+            "zh": "倒是能从手心放出来啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1625/TALK",
+            "narrator": "みやび",
+            "text": "けんど、相棒は目からのご所望やし、残念やけんど見せられんなぁ",
+            "zh": "但是，搭档指名要眼睛里的，遗憾，放不出来啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1627/TALK",
+            "narrator": "みやび",
+            "text": "ここで出したら周囲に被害が出るき",
+            "zh": "在这儿放出来要殃及四周啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1628/TALK",
+            "narrator": "みやび",
+            "text": "出したくても出せんがよ",
+            "zh": "想放也放不出来啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1633/ACT",
+            "narrator": "",
+            "text": "アイドルになろうと思う",
+            "zh": "我打算成为偶像",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1636/TALK",
+            "narrator": "みやび",
+            "text": "Ｌ・Ｏ・Ｖ・Ｅ、ラブリー相棒☆",
+            "zh": "Ｌ・Ｏ・Ｖ・Ｅ，可爱的搭档☆",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1637/TALK",
+            "narrator": "みやび",
+            "text": "とか、うちに言わせたいんか？",
+            "zh": "是想让我讲这种台词咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1639/TALK",
+            "narrator": "みやび",
+            "text": "アイドルなんて資格や免許が必要な職業やないき",
+            "zh": "偶像又不是要资格证执照的职业啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1640/TALK",
+            "narrator": "みやび",
+            "text": "アイドル、と名乗った時点でアイドルやき、相棒はもうアイドルぞね",
+            "zh": "报上“偶像”名号那一刻起就是偶像啵，搭档现在已经是偶像咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1642/TALK",
+            "narrator": "みやび",
+            "text": "地下アイドルやネットアイドルやったら、ホームページ作った時点でなれるんよ",
+            "zh": "地下偶像、网络偶像的话，主页一建起来就算当上了哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1643/TALK",
+            "narrator": "みやび",
+            "text": "ファンがいようがいまいが、名乗った時点でアイドルぞね",
+            "zh": "有没有粉丝都不管，报上名号就是偶像咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1648/ACT",
+            "narrator": "",
+            "text": "ヒーローを目指すぜ！",
+            "zh": "我要成为英雄！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1651/TALK",
+            "narrator": "みやび",
+            "text": "食っていけそうにない職業やね",
+            "zh": "看着就养不活自己的职业咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1654/TALK",
+            "narrator": "みやび",
+            "text": "目指してなれるようなもんなが？",
+            "zh": "是奔着目标就能当上的东西咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1656/TALK",
+            "narrator": "みやび",
+            "text": "なら敵が必要やね",
+            "zh": "那就得有对手咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1657/TALK",
+            "narrator": "みやび",
+            "text": "その役はうちがもらうちや",
+            "zh": "反派这个角色，我来当滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1662/ACT",
+            "narrator": "",
+            "text": "へい、ベイビー",
+            "zh": "嘿，宝贝",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1665/TALK",
+            "narrator": "みやび",
+            "text": "よぉ、ファーザー",
+            "zh": "哟，老爸",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1666/TALK",
+            "narrator": "みやび",
+            "text": "とか返せばえいんか？",
+            "zh": "回这么一句就得咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1668/TALK",
+            "narrator": "みやび",
+            "text": "バブバブ言うてほしいんか？",
+            "zh": "是想让我学婴儿咿咿呀呀？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1670/TALK",
+            "narrator": "みやび",
+            "text": "きゃっ、ベイビーだって、キュンとしちゃう☆",
+            "zh": "呀，被叫一声“宝贝”，心都要化了☆",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1671/TALK",
+            "narrator": "みやび",
+            "text": "なんて反応うちがしたら、氷河期がくるちや",
+            "zh": "我要真来这种反应，冰河期都要来了滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1676/ACT",
+            "narrator": "",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1683/SEL",
+            "narrator": "",
+            "text": "笑ってみて",
+            "zh": "试着笑一个",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1684/SEL",
+            "narrator": "",
+            "text": "怒ってみて",
+            "zh": "试着生个气",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1685/SEL",
+            "narrator": "",
+            "text": "甘えてみて",
+            "zh": "试着撒个娇",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1686/SEL",
+            "narrator": "",
+            "text": "罵って！",
+            "zh": "骂我一句！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1687/SEL",
+            "narrator": "",
+            "text": "名前を呼んで",
+            "zh": "叫我的名字",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1688/SEL",
+            "narrator": "",
+            "text": "「お兄ちゃん」と呼んで",
+            "zh": "叫我“哥哥”",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1689/SEL",
+            "narrator": "",
+            "text": "「お姉ちゃん」と呼ばせて",
+            "zh": "让你叫我“姐姐”",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1690/SEL",
+            "narrator": "",
+            "text": "「ご主人様」と呼んで",
+            "zh": "叫我“主人”",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1691/SEL",
+            "narrator": "",
+            "text": "「好き」って言って",
+            "zh": "说“喜欢”",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1692/SEL",
+            "narrator": "",
+            "text": "電話して",
+            "zh": "给我打电话",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1693/SEL",
+            "narrator": "",
+            "text": "秘密を教えて",
+            "zh": "告诉我你的秘密",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1694/SEL",
+            "narrator": "",
+            "text": "スリーサイズ教えて",
+            "zh": "告诉我三围",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1695/SEL",
+            "narrator": "",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1698/ACT",
+            "narrator": "",
+            "text": "笑ってみて",
+            "zh": "试着笑一个",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1701/TALK",
+            "narrator": "みやび",
+            "text": "強要されてできるもんやない",
+            "zh": "又不是逼一逼就能笑得出来的",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1703/TALK",
+            "narrator": "みやび",
+            "text": "笑わせてみぃ",
+            "zh": "那你来逗我笑啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1704/TALK",
+            "narrator": "みやび",
+            "text": "相棒やったら、簡単にできるやろ？",
+            "zh": "换作搭档，轻而易举吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1706/TALK",
+            "narrator": "みやび",
+            "text": "あんまし見せないき、レア感あってえいやろ？",
+            "zh": "难得一见啵，稀有度高不是正好？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1711/ACT",
+            "narrator": "",
+            "text": "怒ってみて",
+            "zh": "试着生个气",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1714/TALK",
+            "narrator": "みやび",
+            "text": "気が進まんき、却下や",
+            "zh": "没兴致啵，驳回",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1715/TALK",
+            "narrator": "みやび",
+            "text": "友達の頃に言うてくれたら、幾らでも怒ったんやけんどね",
+            "zh": "还是朋友那会儿你开口，我可以随便发火咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1717/TALK",
+            "narrator": "みやび",
+            "text": "意味もなく恋人怒る女ってどうなが？",
+            "zh": "平白无故冲恋人发火的女人怎么样？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1718/TALK",
+            "narrator": "みやび",
+            "text": "印象最悪やない？",
+            "zh": "印象糟透了吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1721/TALK",
+            "narrator": "みやび",
+            "text": "プンプン☆",
+            "zh": "气鼓鼓☆",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1723/TALK",
+            "narrator": "みやび",
+            "text": "キモッ！！　自分でやっときながらドン引きや！！",
+            "zh": "恶心！！　自己搞的自己先看傻了！！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1728/ACT",
+            "narrator": "",
+            "text": "甘えてみて",
+            "zh": "试着撒个娇",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1731/TALK",
+            "narrator": "みやび",
+            "text": "相棒～、みやび、新しいグラボ欲しいがよぉ～",
+            "zh": "搭档~我雅想要块新显卡嘛~",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1734/TALK",
+            "narrator": "みやび",
+            "text": "これでも結構甘えてるんやけんどね",
+            "zh": "我这也算撒了不少娇了咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1735/TALK",
+            "narrator": "みやび",
+            "text": "まあ、足りないいうならもっと甘えさせてもらうけんど",
+            "zh": "嘛，你要嫌不够，我就再撒多点",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1737/TALK",
+            "narrator": "みやび",
+            "text": "どんなふうに甘えてもらいたいかのリクエストはないが？",
+            "zh": "想让我怎么个撒法，有要求吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1738/TALK",
+            "narrator": "みやび",
+            "text": "そっちの方がうちもラクでえいちや",
+            "zh": "那样我也省事滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1743/ACT",
+            "narrator": "",
+            "text": "罵って！",
+            "zh": "骂我一句！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1746/TALK",
+            "narrator": "みやび",
+            "text": "ドアホ！",
+            "zh": "蠢货！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1748/TALK",
+            "narrator": "みやび",
+            "text": "ハゲデブ変質者！！",
+            "zh": "秃头死肥宅变态！！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1749/TALK",
+            "narrator": "みやび",
+            "text": "…罵りちゅうか、ただの悪口になっちょったか",
+            "zh": "……说是在骂人，倒成了纯嘴臭",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1751/TALK",
+            "narrator": "みやび",
+            "text": "相棒はマゾなが？",
+            "zh": "搭档是抖M咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1752/TALK",
+            "narrator": "みやび",
+            "text": "まあ、性癖は人それぞれやき、否定はせんよ",
+            "zh": "嘛，性癖人各有好啵，我不否定哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1757/ACT",
+            "narrator": "",
+            "text": "名前を呼んで",
+            "zh": "叫我的名字",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1763/TALK",
+            "narrator": "みやび",
+            "text": "…相棒って呼び方の方が、しっくりくるんやけんどなぁ",
+            "zh": "……还是“搭档”这个叫法最顺口啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1765/TALK",
+            "narrator": "みやび",
+            "text": "$handle$って呼んでほしいが？",
+            "zh": "想让我改口叫$handle$？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1766/TALK",
+            "narrator": "みやび",
+            "text": "うちは相棒って呼び方の方が気に入ってるんやけんど",
+            "zh": "我更喜欢“搭档”这个叫法",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1771/ACT",
+            "narrator": "",
+            "text": "「お兄ちゃん」と呼んで",
+            "zh": "叫我“哥哥”",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1774/TALK",
+            "narrator": "みやび",
+            "text": "あんましそういうこと、言わん方がえいよ",
+            "zh": "这种话还是少讲为妙哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1775/TALK",
+            "narrator": "みやび",
+            "text": "ただの変態やと思われるきね",
+            "zh": "会被当成纯变态的啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1777/TALK",
+            "narrator": "みやび",
+            "text": "呼んでもえいけんど、お兄ちゃんとしてうちに何してくれるが？",
+            "zh": "叫也不是不行，但是当了哥哥，打算为我做驷马？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1778/TALK",
+            "narrator": "みやび",
+            "text": "小遣いくらい、当然もらえるんやろな？",
+            "zh": "零花钱什么的，当然得给我咯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1780/TALK",
+            "narrator": "みやび",
+            "text": "お兄ちゃん、凄いちや",
+            "zh": "哥哥，好厉害滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1781/TALK",
+            "narrator": "みやび",
+            "text": "面と向かってそんなキショいこと頼めるところに、胸キュンドン引きや",
+            "zh": "敢当面提这么瘆人的要求，叫人又心动又想退",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1786/ACT",
+            "narrator": "",
+            "text": "「お姉ちゃん」と呼ばせて",
+            "zh": "让你叫我“姐姐”",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1789/TALK",
+            "narrator": "みやび",
+            "text": "うちはスパルタやき、弟なら命令には絶対やぞ？",
+            "zh": "我是斯巴达式啵，当弟弟就得绝对服从命令哦？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1790/TALK",
+            "narrator": "みやび",
+            "text": "それでもえいなら好きにしい",
+            "zh": "这样也行的话，随你便",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1792/TALK",
+            "narrator": "みやび",
+            "text": "お姉さま、なら許可するぞね",
+            "zh": "叫姐姐大人，倒可以批准咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1794/TALK",
+            "narrator": "みやび",
+            "text": "姉弟間での恋愛はいかんぞね",
+            "zh": "姐弟谈恋爱可不行咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1795/TALK",
+            "narrator": "みやび",
+            "text": "よし、わかれるか？",
+            "zh": "好，那就分手咯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1800/ACT",
+            "narrator": "",
+            "text": "「ご主人様」と呼んで",
+            "zh": "叫我“主人”",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1803/TALK",
+            "narrator": "みやび",
+            "text": "命令やなくて頼んでくる辺り、ご主人様オーラが感じられんね",
+            "zh": "不是下令而是央求，主人气场半点没有呢",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1804/TALK",
+            "narrator": "みやび",
+            "text": "相棒にご主人様の称号は１００万年早いちや",
+            "zh": "对搭档来讲，主人的称号还早着一百万年滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1806/TALK",
+            "narrator": "みやび",
+            "text": "ご主人様、オーラが感じられませんがよ",
+            "zh": "主人，实在感受不到您的气场啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1808/TALK",
+            "narrator": "みやび",
+            "text": "鏡に映った自分をよく見てみい",
+            "zh": "好好瞅瞅镜子里的你",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1809/TALK",
+            "narrator": "みやび",
+            "text": "そこに映る人間は、様付けで呼ばれるに値する存在か？",
+            "zh": "镜里那位，配得上被人称一声“大人”吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1814/ACT",
+            "narrator": "",
+            "text": "「好き」って言って",
+            "zh": "说“喜欢”",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1817/TALK",
+            "narrator": "みやび",
+            "text": "好き好き好き好き好き好き",
+            "zh": "喜欢喜欢喜欢喜欢喜欢喜欢",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1818/TALK",
+            "narrator": "みやび",
+            "text": "大盤振る舞いや、ありがたく思うんよ",
+            "zh": "我这可是大手笔哦，感恩戴德着点",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1820/TALK",
+            "narrator": "みやび",
+            "text": "お願いして好きって言われるんが好きなんか？",
+            "zh": "你喜欢的是求人求来的“喜欢”？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1821/TALK",
+            "narrator": "みやび",
+            "text": "相棒は安上がりやねぇ",
+            "zh": "搭档还真是好养活咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1823/TALK",
+            "narrator": "みやび",
+            "text": "ん、好き好き",
+            "zh": "嗯，喜欢喜欢",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1824/TALK",
+            "narrator": "みやび",
+            "text": "言うんはただやき、頼まれればいくらでも言うぞね",
+            "zh": "讲这个不要钱啵，你要求的话多少遍都讲咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1829/ACT",
+            "narrator": "",
+            "text": "電話して",
+            "zh": "给我打电话",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1832/TALK",
+            "narrator": "みやび",
+            "text": "自分からはせんのか？",
+            "zh": "你自己不主动打？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1834/TALK",
+            "narrator": "みやび",
+            "text": "話したいことがあるなら、今言えばえいやん",
+            "zh": "有话想讲，现在讲不就好了嘛",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1836/TALK",
+            "narrator": "みやび",
+            "text": "女にかけさせよういうんか？",
+            "zh": "是想支使女孩子来打？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1837/TALK",
+            "narrator": "みやび",
+            "text": "相棒はジェントルマンやないね",
+            "zh": "搭档可算不上绅士呢",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1842/ACT",
+            "narrator": "",
+            "text": "秘密を教えて",
+            "zh": "告诉我你的秘密",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1845/TALK",
+            "narrator": "みやび",
+            "text": "うちのＰＣの中には、秘密のフォルダがある",
+            "zh": "我的ＰＣ里头，存着一个秘密文件夹",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1846/TALK",
+            "narrator": "みやび",
+            "text": "中身は秘密やけんどな",
+            "zh": "不过里头装的是驷马就是秘密",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1848/TALK",
+            "narrator": "みやび",
+            "text": "教えて言われて教えたら、秘密やないやん",
+            "zh": "你让讲我就讲，那还算驷马秘密",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1851/TALK",
+            "narrator": "みやび",
+            "text": "実は、うちには秘密があるんよ",
+            "zh": "其实，我有个秘密哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1852/TALK",
+            "narrator": "みやび",
+            "text": "ほい、教えた",
+            "zh": "喏，讲了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1857/ACT",
+            "narrator": "",
+            "text": "スリーサイズ教えて",
+            "zh": "告诉我三围",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1860/TALK",
+            "narrator": "みやび",
+            "text": "見ての通り、ボンキュッボンや",
+            "zh": "眼见为实，前凸后翘咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1862/TALK",
+            "narrator": "みやび",
+            "text": "７５－５６－７７や",
+            "zh": "７５－５６－７７咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1863/TALK",
+            "narrator": "みやび",
+            "text": "まあ、うちのスリーサイズやないけんどな",
+            "zh": "不过这不是我的三围就是咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1865/TALK",
+            "narrator": "みやび",
+            "text": "うちだからえいものの、他の女子に言ったらセクハラやぞ？",
+            "zh": "问我是没事，去问别的女孩子就是性骚扰哦？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1869/ACT",
+            "narrator": "",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1876/SEL",
+            "narrator": "",
+            "text": "$me$と話すの楽しい？",
+            "zh": "跟$me$聊天开心吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1877/SEL",
+            "narrator": "",
+            "text": "一緒にいられて幸せ",
+            "zh": "能和你在一起真幸福",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1878/SEL",
+            "narrator": "",
+            "text": "可愛いね",
+            "zh": "你真可爱",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1879/SEL",
+            "narrator": "",
+            "text": "君のことだけ考えてた",
+            "zh": "我满脑子想的都是你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1880/SEL",
+            "narrator": "",
+            "text": "大好きだよ",
+            "zh": "最喜欢你了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1881/SEL",
+            "narrator": "",
+            "text": "愛してるよ",
+            "zh": "我爱你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1882/SEL",
+            "narrator": "",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1885/ACT",
+            "narrator": "",
+            "text": "$me$と話すの楽しい？",
+            "zh": "跟$me$聊天开心吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1888/TALK",
+            "narrator": "みやび",
+            "text": "楽しませてもらっちょるよ",
+            "zh": "我可乐在其中哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1889/TALK",
+            "narrator": "みやび",
+            "text": "この調子で、もっともっと楽しませてほしいちや",
+            "zh": "保持这势头，要让我更开心滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1891/TALK",
+            "narrator": "みやび",
+            "text": "いつもやないけんどな",
+            "zh": "虽然不是回回都这样",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1894/TALK",
+            "narrator": "みやび",
+            "text": "つまらん言うたら、もっと楽しくなるが？",
+            "zh": "讲一声无聊，就能变得更有趣咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1895/TALK",
+            "narrator": "みやび",
+            "text": "それなら、つまらん",
+            "zh": "那，无聊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1900/ACT",
+            "narrator": "",
+            "text": "一緒にいられて幸せ",
+            "zh": "能和你在一起真幸福",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1903/TALK",
+            "narrator": "みやび",
+            "text": "端末越しなのに、一緒というてえいんか？",
+            "zh": "隔着终端，也能算一起咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1905/TALK",
+            "narrator": "みやび",
+            "text": "今の状態で幸せなが？",
+            "zh": "眼下这样就算幸福咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1906/TALK",
+            "narrator": "みやび",
+            "text": "相棒は欲のない人間やねぇ",
+            "zh": "搭档真是个无欲无求的人咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1908/TALK",
+            "narrator": "みやび",
+            "text": "そう思うんは自由やき、好きなだけ思うてくれてえいよ",
+            "zh": "怎么想是你的自由啵，想多少遍都随你哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1914/ACT",
+            "narrator": "",
+            "text": "可愛いね",
+            "zh": "你真可爱",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1917/TALK",
+            "narrator": "みやび",
+            "text": "よく言われるけんど、うちにはわからん",
+            "zh": "常被这么讲，但是我没懂",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1919/TALK",
+            "narrator": "みやび",
+            "text": "聞き飽きるほど言われてるき、何とも思わんよ",
+            "zh": "这话早听得耳朵起茧啵，没什么感觉哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1920/TALK",
+            "narrator": "みやび",
+            "text": "まあ、うちにはよくわからんけんど",
+            "zh": "嘛，虽然我没太懂",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1922/TALK",
+            "narrator": "みやび",
+            "text": "それはうちの外見がか？　それとも内面か？",
+            "zh": "讲的是我的外表？　还是内在？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1923/TALK",
+            "narrator": "みやび",
+            "text": "外見だけなら、あんまし嬉しくないちや",
+            "zh": "光夸外表的话，我不太开心滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1928/ACT",
+            "narrator": "",
+            "text": "君のことだけ考えてた",
+            "zh": "我满脑子想的都是你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1931/TALK",
+            "narrator": "みやび",
+            "text": "依存のし過ぎは互いのためにならんき",
+            "zh": "依赖过头对彼此都没好处啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1932/TALK",
+            "narrator": "みやび",
+            "text": "時々想うてくれる程度でえいよ",
+            "zh": "偶尔想起我就好哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1934/TALK",
+            "narrator": "みやび",
+            "text": "雑念の多いうちには無理な話や",
+            "zh": "杂念一堆的我，做不到咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1937/TALK",
+            "narrator": "みやび",
+            "text": "こっ恥ずかしいことを平然と言いよる",
+            "zh": "这么害臊的话讲得面不改色",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1938/TALK",
+            "narrator": "みやび",
+            "text": "相棒、さてはこういうの慣れちゅうが？",
+            "zh": "搭档，八成是这种话讲惯了吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1943/ACT",
+            "narrator": "",
+            "text": "大好きだよ",
+            "zh": "最喜欢你了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1946/TALK",
+            "narrator": "みやび",
+            "text": "まあ、そうやなかったら付き合っとらんきね",
+            "zh": "嘛，不然才不会跟你交往啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1948/TALK",
+            "narrator": "みやび",
+            "text": "きゃっ、恥ずかしい！",
+            "zh": "呀，害羞！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1949/TALK",
+            "narrator": "みやび",
+            "text": "みたいな反応期待されても、うちには無理やぞ？",
+            "zh": "指望我给出这种反应，办不到哦？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1951/TALK",
+            "narrator": "みやび",
+            "text": "どんどん好きになってくれて構わんよ",
+            "zh": "越来越喜欢我也不碍事哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1952/TALK",
+            "narrator": "みやび",
+            "text": "恋人の特権やきね",
+            "zh": "这可是恋人的特权啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1957/ACT",
+            "narrator": "",
+            "text": "愛してるよ",
+            "zh": "我爱你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1960/TALK",
+            "narrator": "みやび",
+            "text": "どうも相棒、こういう言葉言い慣れちゅう感じするちや",
+            "zh": "我说搭档，这词你讲得也太溜了滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1961/TALK",
+            "narrator": "みやび",
+            "text": "うち以外に恋人いるんやないが？",
+            "zh": "不会除了我还有别的恋人吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1963/TALK",
+            "narrator": "みやび",
+            "text": "大袈裟やね",
+            "zh": "太夸张咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1964/TALK",
+            "narrator": "みやび",
+            "text": "そこは、好き、くらいでえいよ",
+            "zh": "那里讲到“喜欢”就够了哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1966/TALK",
+            "narrator": "みやび",
+            "text": "…リアルで言われると、思考停止するんやね",
+            "zh": "……在现实里被这么讲，会当机啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1967/TALK",
+            "narrator": "みやび",
+            "text": "ちっくと大袈裟にも思えるけんど",
+            "zh": "虽然听着也有点夸张",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1971/ACT",
+            "narrator": "",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1977/ACT",
+            "narrator": "",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": ""
+        }
+    ]
+}

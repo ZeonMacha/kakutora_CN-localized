@@ -1,0 +1,601 @@
+{
+    "dir": "tutorial/parts_tutorial_ch07.js",
+    "type": "Tutorial",
+    "info": {
+        "story_id": "",
+        "cid": "_",
+        "title": "",
+        "sub_title": "エリカデートイベント",
+        "sub_title_zh": "领火约会事件"
+    },
+    "entry": [
+        {
+            "location": "518/SCENARIO",
+            "narrator": "",
+            "text": "エリカデートイベント",
+            "zh": "领火约会事件",
+            "narrator_zh": ""
+        },
+        {
+            "location": "529/TALK",
+            "narrator": "エリカ",
+            "text": "はぁ～！\n幸せ～～！",
+            "zh": "哈——！\n好幸福～～！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "530/TALK",
+            "narrator": "エリカ",
+            "text": "わたしね、パーツ屋で\nお買い物するのが\n大好きなんだ。",
+            "zh": "我呀，\n最喜欢在零件店\n买东西了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "531/TALK",
+            "narrator": "エリカ",
+            "text": "一日中だって\nいてもいいくらいだよ。",
+            "zh": "喜欢到就算\n待上一整天都愿意哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "532/SEL",
+            "narrator": "",
+            "text": "デートで一日中パーツ屋！？",
+            "zh": "约会全程待在零件店！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "533/SEL",
+            "narrator": "",
+            "text": "じゃあ、ゆっくり見ていこうか",
+            "zh": "那就慢慢逛吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "534/ACT",
+            "narrator": "",
+            "text": "デートで一日中パーツ屋！？",
+            "zh": "约会全程待在零件店！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "536/TALK",
+            "narrator": "エリカ",
+            "text": "あ、ううん。\nさすがに、\nそこまではしないかな。",
+            "zh": "啊，不不。\n再怎么说，\n也不至于那样啦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "537/ACT",
+            "narrator": "",
+            "text": "じゃあ、ゆっくり見ていこうか",
+            "zh": "那就慢慢逛吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "538/TALK",
+            "narrator": "エリカ",
+            "text": "気持ちは嬉しいけど、\n今日は我慢しようと\n思うの。",
+            "zh": "你的心意\n让我很开心，\n不过今天我打算忍住。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "539/TALK",
+            "narrator": "エリカ",
+            "text": "その言葉に甘えちゃうと、\n本当に一日中いることに\nなっちゃいそうだし…。",
+            "zh": "要是顺着这话撒娇，\n搞不好就真的\n待上一整天了……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "541/TALK",
+            "narrator": "エリカ",
+            "text": "せっかく今回は\nデートなんだからね、\nそれは申し訳ないよ。",
+            "zh": "难得这次是\n约会嘛，\n那样我可过意不去。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "543/TALK",
+            "narrator": "エリカ",
+            "text": "で、でも…せっかく\nパーツ屋に来てるん\nだし…。",
+            "zh": "呃、不过……难得\n都来零件店了，\n所以……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "544/TALK",
+            "narrator": "エリカ",
+            "text": "今だけ、ちょっとだけ\nパーツ見てきていいかな？",
+            "zh": "就现在，稍微\n看一眼零件，可以吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "545/SEL",
+            "narrator": "",
+            "text": "そんなに好きなんだ？",
+            "zh": "你有那么喜欢吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "546/SEL",
+            "narrator": "",
+            "text": "それは構わないよ",
+            "zh": "那没关系哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "547/ACT",
+            "narrator": "",
+            "text": "そんなに好きなんだ？",
+            "zh": "你有那么喜欢吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "549/TALK",
+            "narrator": "エリカ",
+            "text": "うん…子供の頃から、\nずーっと好きなの。",
+            "zh": "嗯……从小时候起，\n就一直好喜欢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "550/TALK",
+            "narrator": "エリカ",
+            "text": "玩具とかに囲まれてる\nよりも、こういうパーツに\n囲まれながら…。",
+            "zh": "比起被玩具\n围着，被这种\n零件围着……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "551/TALK",
+            "narrator": "エリカ",
+            "text": "考えて、組み立てて、\nオリジナルの玩具を\n作るのが好きだったんだ。",
+            "zh": "动脑思考、动手组装，\n做出原创的玩具，\n我以前最喜欢这个了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "552/TALK",
+            "narrator": "エリカ",
+            "text": "…変わってるよね？\n普通の女の子は、\nそんなことしないし…。",
+            "zh": "……很奇怪吧？\n普通的女孩子，\n才不会做这种事……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "553/SEL",
+            "narrator": "",
+            "text": "そんなエリカが可愛い",
+            "zh": "这样的领火才可爱",
+            "narrator_zh": ""
+        },
+        {
+            "location": "554/SEL",
+            "narrator": "",
+            "text": "$me$には理想的ですが！？",
+            "zh": "对$me$来说不是正理想吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "555/ACT",
+            "narrator": "",
+            "text": "そんなエリカが可愛い",
+            "zh": "这样的领火才可爱",
+            "narrator_zh": ""
+        },
+        {
+            "location": "559/TALK",
+            "narrator": "エリカ",
+            "text": "えーっ！\nそういうこと、\n面と向かって言わないの！",
+            "zh": "诶——！\n这种话，\n不要当面说啦！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "560/TALK",
+            "narrator": "エリカ",
+            "text": "恥ずかしいのと\n嬉しいので、顔を\n見られなくなっちゃうよ。",
+            "zh": "又害羞又开心，\n脸都不知道往\n哪里放了啦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "561/ACT",
+            "narrator": "",
+            "text": "$me$には理想的ですが！？",
+            "zh": "对$me$来说不是正理想吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "563/TALK",
+            "narrator": "エリカ",
+            "text": "えぇっ、本当！？",
+            "zh": "诶，真的吗！？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "565/TALK",
+            "narrator": "エリカ",
+            "text": "うーん、あなたって\nちょっと変わってるよね？",
+            "zh": "唔，你这人\n也有点奇怪吧？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "566/TALK",
+            "narrator": "エリカ",
+            "text": "でも、だからこそ\n合うのかな。わたしも\n変わり者だから。",
+            "zh": "不过，正因如此\n才合得来吧。因为我\n也是个怪人。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "567/TALK",
+            "narrator": "エリカ",
+            "text": "ちょっと、\n嬉しいかも。",
+            "zh": "有点，\n开心了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "569/ACT",
+            "narrator": "",
+            "text": "それは構わないよ",
+            "zh": "那没关系哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "571/TALK",
+            "narrator": "エリカ",
+            "text": "ごめんね。せっかくの\nデートなのにこんな\nワガママ言って…。",
+            "zh": "抱歉啦。难得的\n约会，还说了这么\n任性的话……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "572/TALK",
+            "narrator": "エリカ",
+            "text": "こういうところが、\nわたしのいけないところ\nなんだろうなぁ。",
+            "zh": "这种地方，\n大概就是我的\n不好之处吧。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "573/TALK",
+            "narrator": "エリカ",
+            "text": "綾ちゃんにも、\n何度か怒られたこと\nあったし…。",
+            "zh": "毕竟之前也被\n绫说过了\n好几次……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "574/SEL",
+            "narrator": "",
+            "text": "$me$は受け入れる",
+            "zh": "$me$选择接受",
+            "narrator_zh": ""
+        },
+        {
+            "location": "575/SEL",
+            "narrator": "",
+            "text": "好きな物に一生懸命でいいと思う",
+            "zh": "对喜欢的东西全力以赴挺好的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "576/ACT",
+            "narrator": "",
+            "text": "$me$は受け入れる",
+            "zh": "$me$选择接受",
+            "narrator_zh": ""
+        },
+        {
+            "location": "579/TALK",
+            "narrator": "エリカ",
+            "text": "えへへ…嬉しいな。",
+            "zh": "嘿嘿……好开心呀。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "580/TALK",
+            "narrator": "エリカ",
+            "text": "自分の好きな物を、\nちゃんと受け入れて\nもらえてるって。",
+            "zh": "自己喜欢的东西，\n能被人好好地\n接受呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "582/TALK",
+            "narrator": "エリカ",
+            "text": "あ、でもその優しさに\n甘えてばっかりなのは\nダメだよね？",
+            "zh": "啊，不过老是\n仗着这份温柔\n撒娇可不行，对吧？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "583/TALK",
+            "narrator": "エリカ",
+            "text": "やっぱりこれからは、\nちょっと自制するように\nするからね。",
+            "zh": "所以从今往后，\n我会稍微\n节制一下的啦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "584/TALK",
+            "narrator": "エリカ",
+            "text": "けど、今だけは、\n甘えさせてもらうことに\nしてるけどね。",
+            "zh": "不过，就现在\n这一会儿，姑且让我\n撒个娇啦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "585/ACT",
+            "narrator": "",
+            "text": "好きな物に一生懸命でいいと思う",
+            "zh": "对喜欢的东西全力以赴挺好的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "587/TALK",
+            "narrator": "エリカ",
+            "text": "嬉しいな。\nえへへ。",
+            "zh": "好开心呀。\n嘿嘿。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "588/TALK",
+            "narrator": "エリカ",
+            "text": "わたしね、結婚とか\n絶対にできないと\n思ってるんだけど、",
+            "zh": "我呀，觉得结婚\n什么的绝对是\n不可能的，",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "589/TALK",
+            "narrator": "エリカ",
+            "text": "それでももし結婚するなら\n好きなことやらせてくれる\n相手の人がいいかな。",
+            "zh": "话虽如此，要是真结婚，\n还是选能让我继续\n做喜欢事情的人吧。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "591/TALK",
+            "narrator": "エリカ",
+            "text": "ワガママすぎる\n発言なのは\nわかってるけど――",
+            "zh": "这话任性得\n有点过分，我\n当然知道——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "592/TALK",
+            "narrator": "エリカ",
+            "text": "わかってるから、\n恋人も作らないし、\n結婚もしないんだよね。",
+            "zh": "正因为知道，\n才不找恋人，\n也不结婚的呀。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "593/SEL",
+            "narrator": "",
+            "text": "$me$はどうでしょう",
+            "zh": "$me$怎么样呢？[?]",
+            "narrator_zh": ""
+        },
+        {
+            "location": "594/SEL",
+            "narrator": "",
+            "text": "独身が一番だよ",
+            "zh": "单身最好了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "595/ACT",
+            "narrator": "",
+            "text": "$me$はどうでしょう",
+            "zh": "$me$怎么样呢？[?]",
+            "narrator_zh": ""
+        },
+        {
+            "location": "596/TALK",
+            "narrator": "エリカ",
+            "text": "ありがとう、\n気を使ってくれて。",
+            "zh": "谢谢你，\n顾虑我的感受。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "597/TALK",
+            "narrator": "エリカ",
+            "text": "それとも、\n本気なのかな？",
+            "zh": "还是说，\n你是认真的？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "598/TALK",
+            "narrator": "エリカ",
+            "text": "もし本気なら、\nやめた方がいいよ？",
+            "zh": "要是认真的话，\n还是趁早放弃哦？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "599/TALK",
+            "narrator": "エリカ",
+            "text": "わたし、行ったきり\n帰ってこなく\nなっちゃうから。",
+            "zh": "我会一头扎进去，\n就再也\n回不来的。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "600/TALK",
+            "narrator": "エリカ",
+            "text": "ずっと一緒にいたら\nそのうち嫌になっちゃうと\n思うの。",
+            "zh": "要是一直在一起，\n总有一天会\n腻烦的。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "601/ACT",
+            "narrator": "",
+            "text": "独身が一番だよ",
+            "zh": "单身最好了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "603/TALK",
+            "narrator": "エリカ",
+            "text": "そうだよね！\nわたしもそう思うよ。",
+            "zh": "就是嘛！\n我也这么觉得哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "604/TALK",
+            "narrator": "エリカ",
+            "text": "あなたみたいな人と\n好きなときに逢って、\n研究に没頭して……。",
+            "zh": "和像你这样的人，\n想见面时才见面，\n埋头搞研究……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "605/TALK",
+            "narrator": "エリカ",
+            "text": "そんな生活が、\n一番わたしには\n似合ってるからね。",
+            "zh": "那样的生活，\n才是最适合\n我的呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "609/SEL",
+            "narrator": "",
+            "text": "ちょっとだけ甘えていい？",
+            "zh": "可以稍微让我撒个娇吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "610/ACT",
+            "narrator": "",
+            "text": "ちょっとだけ甘えていい？",
+            "zh": "可以稍微让我撒个娇吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "615/TALK",
+            "narrator": "エリカ",
+            "text": "えっ…\nえええっ！？",
+            "zh": "诶……\n诶诶诶！？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "616/TALK",
+            "narrator": "エリカ",
+            "text": "い、いいけど…。\nちょっとだけだからね？",
+            "zh": "可、可以是可以……\n就一点点哦？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "637/TALK",
+            "narrator": "エリカ",
+            "text": "ふふっ…ツンツンされるの\nくすぐったいかも…。",
+            "zh": "呵呵……被戳来戳去\n好像有点痒……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "641/TALK",
+            "narrator": "エリカ",
+            "text": "…頭ポンポンされると、\n胸が熱くなってくるの\n感じるよ。",
+            "zh": "……被拍拍脑袋的话，\n能感觉胸口\n慢慢热起来哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "650/TALK",
+            "narrator": "エリカ",
+            "text": "だ、ダメダメダメ！",
+            "zh": "不、不行不行不行！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "651/TALK",
+            "narrator": "エリカ",
+            "text": "ちょっとだけでも、\nここは触っちゃダメな\nところなの。",
+            "zh": "就算只有一点点，\n这里也是不能\n碰的地方。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "655/TALK",
+            "narrator": "エリカ",
+            "text": "きゃぁっ！？",
+            "zh": "呀啊！？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "656/TALK",
+            "narrator": "エリカ",
+            "text": "もぉ…女の子の胸に\nイタズラしたらダメだよ。",
+            "zh": "真是的……对女孩子\n的胸恶作剧可不行哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "665/TALK",
+            "narrator": "エリカ",
+            "text": "あ、あはは…、\nくすぐったくて、\nムズムズしちゃうかも…。",
+            "zh": "啊、啊哈哈……，\n又痒，\n麻麻的受不了……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "668/TALK",
+            "narrator": "エリカ",
+            "text": "ひゃんっ！？",
+            "zh": "咿呀！？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "670/TALK",
+            "narrator": "エリカ",
+            "text": "きゅ、急に触ったら\nダメだよ！\n変な声出ちゃった…。",
+            "zh": "突、突然碰的话\n可不行哦！\n都发出怪声了……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "678/TALK",
+            "narrator": "エリカ",
+            "text": "えへへ…、\n頭撫でてもらうの、\n久しぶりかも…。",
+            "zh": "嘿嘿……，\n被人摸头这种事，\n好久没有了……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "681/TALK",
+            "narrator": "エリカ",
+            "text": "落ち着くなぁ…。\nわたし、頭撫でられるの\n大好き…。",
+            "zh": "好安心啊……。\n我最喜欢\n被人摸头了……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "689/TALK",
+            "narrator": "エリカ",
+            "text": "ひゃっ！？",
+            "zh": "呀！？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "690/TALK",
+            "narrator": "エリカ",
+            "text": "む、胸だよ！？\n今触ったの、胸だから！",
+            "zh": "喂、是胸！？\n你刚才碰到的，是胸哦！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "694/TALK",
+            "narrator": "エリカ",
+            "text": "ちょっ！？\nどこ撫でてるの！？",
+            "zh": "等！？\n你在摸哪里！？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "695/TALK",
+            "narrator": "エリカ",
+            "text": "撫でてくれるなら、\n頭の方が嬉しいのに…。",
+            "zh": "要摸的话，\n摸头我会更开心啊……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "704/TALK",
+            "narrator": "エリカ",
+            "text": "はふぅ…お腹、\nぽかぽかだよぉ…。",
+            "zh": "呼呜……肚子，\n暖乎乎的哟……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "708/TALK",
+            "narrator": "エリカ",
+            "text": "うぅ～、ちょっと\n恥ずかしいかも…。",
+            "zh": "呜～，\n好像有点害羞……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "621/DIALOG",
+            "narrator": "INFO",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n接続されました。\n\n画面をタップして相手に\n感覚を伝えましょう。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已连接。\n\n请点击画面，向对方\n传达感觉吧。",
+            "narrator_zh": "INFO"
+        },
+        {
+            "location": "716/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n切断されました。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已断开。",
+            "narrator_zh": "NOTICE"
+        }
+    ]
+}
