@@ -1,893 +1,1057 @@
 {
- "dir": "dramatics/daydra/drm_ch04_00_350.js",
- "type": "Episode",
- "info": {
-  "story_id": "4035",
-  "cid": "miyabi",
-  "title": "らぶとーく 第35話",
-  "sub_title": "ラブという名の何か"
- },
- "entry": [
-  {
-   "location": "7/SCENARIO",
-   "narrator": "",
-   "text": "ラブという名の何か"
-  },
-  {
-   "location": "18/TALK",
-   "narrator": "みやび",
-   "text": "ほぅ…あの掲示板で\nアクセス規制されたが？"
-  },
-  {
-   "location": "19/TALK",
-   "narrator": "繭",
-   "text": "はい。\n正直、お手上げ状態です。"
-  },
-  {
-   "location": "20/TALK",
-   "narrator": "みやび",
-   "text": "アクセス規制程度で\n音を上げてたら、\nハッカーの名が泣くぞね？"
-  },
-  {
-   "location": "22/TALK",
-   "narrator": "繭",
-   "text": "ですが、あそこの掲示板の\n鉄壁のセキュリティは\n知っているでしょう？",
-   "zh": "可是，那个论坛\n铜墙铁壁般的安保\n你是知道的吧？",
-   "narrator_zh": "茧"
-  },
-  {
-   "location": "23/TALK",
-   "narrator": "繭",
-   "text": "今まで何人のハッカーが、\nあのシステム内への\n侵入を試み――"
-  },
-  {
-   "location": "24/TALK",
-   "narrator": "繭",
-   "text": "悉く失敗して、\n不正アクセス者として\n規制を受けたか…。"
-  },
-  {
-   "location": "25/TALK",
-   "narrator": "みやび",
-   "text": "うちもちっくと\n見に行ったがよ。"
-  },
-  {
-   "location": "26/TALK",
-   "narrator": "みやび",
-   "text": "管理人、相当の\n手練れやね。"
-  },
-  {
-   "location": "28/TALK",
-   "narrator": "みやび",
-   "text": "そつがない、ゆう\nレベルやない。",
-   "zh": "已经不是滴水不漏的\n级别咯。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "29/TALK",
-   "narrator": "みやび",
-   "text": "隙がない。\n見事なもんや。"
-  },
-  {
-   "location": "30/TALK",
-   "narrator": "みやび",
-   "text": "その掲示板にハッキング\nするゆうんは、挑戦状を\n叩きつけるも同等や。",
-   "zh": "去黑那个论坛，\n就等于扔下\n挑战书一样咯。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "31/TALK",
-   "narrator": "みやび",
-   "text": "それでアクセス規制だけで\n済んでるき、ありがたく\n思わんといかんよ。",
-   "zh": "只受到访问限制\n就该偷着\n庆幸了。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "33/TALK",
-   "narrator": "繭",
-   "text": "…リベンジするためにも、\n相談に乗っていただけ\nませんか？",
-   "zh": "……为了复仇，\n能请您听我\n商量一下吗？",
-   "narrator_zh": "茧"
-  },
-  {
-   "location": "35/TALK",
-   "narrator": "みやび",
-   "text": "それは構わんが…。",
-   "zh": "那倒无所谓……。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "38/TALK",
-   "narrator": "みやび",
-   "text": "そうや、なら$handle$も\n混ぜて話そう。",
-   "zh": "对，那就把$handle$\n也叫上一起聊吧。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "39/TALK",
-   "narrator": "繭",
-   "text": "…本気ですか？",
-   "zh": "……你是认真的吗？",
-   "narrator_zh": "茧"
-  },
-  {
-   "location": "40/TALK",
-   "narrator": "繭",
-   "text": "彼はこの手の会話には、\nあまり慣れていないように\n思いますので――"
-  },
-  {
-   "location": "41/TALK",
-   "narrator": "繭",
-   "text": "話したとしても会話に\nついてこれないと\n思うのですが…。"
-  },
-  {
-   "location": "43/TALK",
-   "narrator": "みやび",
-   "text": "まあ、素人だからこそ\n聞いて勉強しろっちゅう\nことや。"
-  },
-  {
-   "location": "51/TALK",
-   "narrator": "みやび",
-   "text": "ちりんちりん",
-   "zh": "叮铃叮铃",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "52/TALK",
-   "narrator": "みやび",
-   "text": "Ｋｎｏｃｋ　Ｋｎｏｃｋ！"
-  },
-  {
-   "location": "54/SEL",
-   "narrator": "",
-   "text": "呼んだ？",
-   "zh": "叫我？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "55/SEL",
-   "narrator": "",
-   "text": "待ってたよ",
-   "zh": "我一直在等哦",
-   "narrator_zh": ""
-  },
-  {
-   "location": "56/SEL",
-   "narrator": "",
-   "text": "今忙しい",
-   "zh": "现在正忙",
-   "narrator_zh": ""
-  },
-  {
-   "location": "57/ACT",
-   "narrator": "",
-   "text": "呼んだ？",
-   "zh": "叫我？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "58/TALK",
-   "narrator": "みやび",
-   "text": "うむ",
-   "zh": "嗯",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "60/TALK",
-   "narrator": "みやび",
-   "text": "貴殿はいつも反応するな"
-  },
-  {
-   "location": "62/SEL",
-   "narrator": "",
-   "text": "反応したら悪い？",
-   "zh": "我要是反应了，不好吗？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "63/ACT",
-   "narrator": "",
-   "text": "反応したら悪い？",
-   "zh": "我要是反应了，不好吗？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "66/TALK",
-   "narrator": "みやび",
-   "text": "反応に文句はない"
-  },
-  {
-   "location": "67/TALK",
-   "narrator": "みやび",
-   "text": "だが",
-   "zh": "不过",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "68/TALK",
-   "narrator": "みやび",
-   "text": "その返しは悪い！",
-   "zh": "那个回法不行！",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "69/TALK",
-   "narrator": "みやび",
-   "text": "残念！！"
-  },
-  {
-   "location": "75/TALK",
-   "narrator": "みやび",
-   "text": "…まったく。",
-   "zh": "……真是的。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "76/TALK",
-   "narrator": "繭",
-   "text": "みやび先輩？\n$handle$さんは\nどうしたんですか？"
-  },
-  {
-   "location": "78/TALK",
-   "narrator": "みやび",
-   "text": "気が変わっただけちや。"
-  },
-  {
-   "location": "79/TALK",
-   "narrator": "みやび",
-   "text": "今日はウサギと二人で、\nじっくり語り合うことに\nしたがよ。"
-  },
-  {
-   "location": "80/TALK",
-   "narrator": "繭",
-   "text": "はぁ…いえ、それは\n光栄ではありますが…。",
-   "zh": "唉……不，那很\n荣幸，不过……。",
-   "narrator_zh": "茧"
-  },
-  {
-   "location": "81/TALK",
-   "narrator": "繭",
-   "text": "…あの一瞬でみやび先輩の\n機嫌を害せるなんて…\nただ者じゃない。"
-  },
-  {
-   "location": "82/ACT",
-   "narrator": "",
-   "text": "待ってたよ",
-   "zh": "我一直在等哦",
-   "narrator_zh": ""
-  },
-  {
-   "location": "83/TALK",
-   "narrator": "みやび",
-   "text": "うむ",
-   "zh": "嗯",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "84/TALK",
-   "narrator": "みやび",
-   "text": "そうだろう",
-   "zh": "就是这样",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "85/TALK",
-   "narrator": "みやび",
-   "text": "私もあなたと喋りたかったの☆"
-  },
-  {
-   "location": "86/TALK",
-   "narrator": "みやび",
-   "text": "なんてキャラではないけんど",
-   "zh": "虽然不是那种角色，不过嘛",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "87/TALK",
-   "narrator": "みやび",
-   "text": "うちも相棒と喋りたかったぞね"
-  },
-  {
-   "location": "89/SEL",
-   "narrator": "",
-   "text": "それで、どうかしたの？",
-   "zh": "所以，怎么了？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "90/ACT",
-   "narrator": "",
-   "text": "それで、どうかしたの？",
-   "zh": "所以，怎么了？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "92/TALK",
-   "narrator": "みやび",
-   "text": "大胆ね"
-  },
-  {
-   "location": "93/TALK",
-   "narrator": "みやび",
-   "text": "いやん"
-  },
-  {
-   "location": "95/SEL",
-   "narrator": "",
-   "text": "何が！？",
-   "zh": "什么！？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "96/ACT",
-   "narrator": "",
-   "text": "何が！？",
-   "zh": "什么！？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "98/TALK",
-   "narrator": "みやび",
-   "text": "いや",
-   "zh": "不对",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "99/TALK",
-   "narrator": "みやび",
-   "text": "ウサギに見せつけたい"
-  },
-  {
-   "location": "100/TALK",
-   "narrator": "みやび",
-   "text": "うちらの仲の良さ！"
-  },
-  {
-   "location": "101/TALK",
-   "narrator": "みやび",
-   "text": "うちらの友情は凄い！"
-  },
-  {
-   "location": "103/TALK",
-   "narrator": "みやび",
-   "text": "友情以上やき！"
-  },
-  {
-   "location": "104/TALK",
-   "narrator": "みやび",
-   "text": "フレンドの上はハイパーフレンド？"
-  },
-  {
-   "location": "105/TALK",
-   "narrator": "みやび",
-   "text": "もしくは",
-   "zh": "或者",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "107/TALK",
-   "narrator": "みやび",
-   "text": "そんなもんどうでもえい！",
-   "zh": "那种东西怎么都行嘛！",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "108/TALK",
-   "narrator": "みやび",
-   "text": "とにかく見せつけよう",
-   "zh": "总之就让他看看",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "109/TALK",
-   "narrator": "みやび",
-   "text": "アーユ－レディー？"
-  },
-  {
-   "location": "111/SEL",
-   "narrator": "",
-   "text": "わざわざしなくて良くない？",
-   "zh": "用不着特意做吧？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "112/SEL",
-   "narrator": "",
-   "text": "準備はＯＫだ",
-   "zh": "准备OK",
-   "narrator_zh": ""
-  },
-  {
-   "location": "113/ACT",
-   "narrator": "",
-   "text": "わざわざしなくて良くない？",
-   "zh": "用不着特意做吧？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "115/TALK",
-   "narrator": "みやび",
-   "text": "いや",
-   "zh": "不对",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "116/TALK",
-   "narrator": "みやび",
-   "text": "まあそうだが"
-  },
-  {
-   "location": "118/TALK",
-   "narrator": "みやび",
-   "text": "面白そうだし",
-   "zh": "看着挺有意思",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "119/TALK",
-   "narrator": "みやび",
-   "text": "そう",
-   "zh": "对",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "120/TALK",
-   "narrator": "みやび",
-   "text": "絶対面白い"
-  },
-  {
-   "location": "122/TALK",
-   "narrator": "みやび",
-   "text": "やるべきなのだ！"
-  },
-  {
-   "location": "123/TALK",
-   "narrator": "みやび",
-   "text": "声を上げよ"
-  },
-  {
-   "location": "124/TALK",
-   "narrator": "みやび",
-   "text": "見せてやろうと！"
-  },
-  {
-   "location": "126/SEL",
-   "narrator": "",
-   "text": "いや、見せなくていいでしょ？",
-   "zh": "不，不用给我看吧？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "127/ACT",
-   "narrator": "",
-   "text": "いや、見せなくていいでしょ？",
-   "zh": "不，不用给我看吧？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "130/TALK",
-   "narrator": "みやび",
-   "text": "なー",
-   "zh": "呐",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "131/TALK",
-   "narrator": "みやび",
-   "text": "うあーうあー"
-  },
-  {
-   "location": "132/TALK",
-   "narrator": "みやび",
-   "text": "なんやそれー",
-   "zh": "那是什么啊——",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "133/TALK",
-   "narrator": "みやび",
-   "text": "萎える―マジ萎えるー"
-  },
-  {
-   "location": "135/TALK",
-   "narrator": "みやび",
-   "text": "まあ",
-   "zh": "嗯",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "136/TALK",
-   "narrator": "みやび",
-   "text": "ならえいわ",
-   "zh": "那就好咯",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "143/TALK",
-   "narrator": "みやび",
-   "text": "はぁ…。",
-   "zh": "哈啊……。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "144/TALK",
-   "narrator": "繭",
-   "text": "…何かありましたか？",
-   "zh": "……发生什么了吗？",
-   "narrator_zh": "茧"
-  },
-  {
-   "location": "146/TALK",
-   "narrator": "みやび",
-   "text": "ん…。"
-  },
-  {
-   "location": "148/TALK",
-   "narrator": "みやび",
-   "text": "いや、何でもないちや。"
-  },
-  {
-   "location": "149/TALK",
-   "narrator": "繭",
-   "text": "そうですか？",
-   "zh": "是吗？",
-   "narrator_zh": "茧"
-  },
-  {
-   "location": "150/TALK",
-   "narrator": "繭",
-   "text": "何となく、落ち込んでいる\nように見えるのですが？"
-  },
-  {
-   "location": "151/TALK",
-   "narrator": "みやび",
-   "text": "いや、平気や。"
-  },
-  {
-   "location": "152/TALK",
-   "narrator": "みやび",
-   "text": "期待を裏切られて\nしもうて、ちっくと\nつまらんだけや…。"
-  },
-  {
-   "location": "155/TALK",
-   "narrator": "みやび",
-   "text": "はぁ…何か不味ったか？\nいや、うちが間違うなど\nありえんちや…多分…。",
-   "zh": "唉……是哪里弄错嘛？\n不，我家出错是\n不可能的……大概……。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "156/TALK",
-   "narrator": "繭",
-   "text": "…何があったのか、\n気になる…。",
-   "zh": "……到底发生了什么，\n真让人在意……。",
-   "narrator_zh": "茧"
-  },
-  {
-   "location": "157/ACT",
-   "narrator": "",
-   "text": "準備はＯＫだ",
-   "zh": "准备OK",
-   "narrator_zh": ""
-  },
-  {
-   "location": "159/TALK",
-   "narrator": "みやび",
-   "text": "感謝"
-  },
-  {
-   "location": "160/TALK",
-   "narrator": "みやび",
-   "text": "感激"
-  },
-  {
-   "location": "161/TALK",
-   "narrator": "みやび",
-   "text": "雨有られ"
-  },
-  {
-   "location": "163/TALK",
-   "narrator": "みやび",
-   "text": "おのれクソ変換機能！！",
-   "zh": "该死，这破转换功能！！",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "164/TALK",
-   "narrator": "みやび",
-   "text": "とりあえずウサギ召喚！",
-   "zh": "总之先召唤兔子！",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "167/TALK",
-   "narrator": "ラビットアニマ",
-   "text": "こんにちは",
-   "zh": "你好",
-   "narrator_zh": "兔之阿尼玛"
-  },
-  {
-   "location": "168/TALK",
-   "narrator": "みやび",
-   "text": "よし",
-   "zh": "好嘞",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "169/TALK",
-   "narrator": "みやび",
-   "text": "楽しく話そう"
-  },
-  {
-   "location": "171/TALK",
-   "narrator": "ラビットアニマ",
-   "text": "しかし$handle$さんは、本当に話に付いてこれる"
-  },
-  {
-   "location": "172/TALK",
-   "narrator": "ラビットアニマ",
-   "text": "？"
-  },
-  {
-   "location": "174/SEL",
-   "narrator": "",
-   "text": "結構不安"
-  },
-  {
-   "location": "175/ACT",
-   "narrator": "",
-   "text": "結構不安"
-  },
-  {
-   "location": "177/TALK",
-   "narrator": "みやび",
-   "text": "安心せよ"
-  },
-  {
-   "location": "178/TALK",
-   "narrator": "みやび",
-   "text": "うちが手取り足取り教えてあげちゃう"
-  },
-  {
-   "location": "179/TALK",
-   "narrator": "みやび",
-   "text": "実際に触れはせんけんど"
-  },
-  {
-   "location": "181/TALK",
-   "narrator": "ラビットアニマ",
-   "text": "？"
-  },
-  {
-   "location": "182/TALK",
-   "narrator": "ラビットアニマ",
-   "text": "テンション高いですね？"
-  },
-  {
-   "location": "183/SEL",
-   "narrator": "",
-   "text": "みやびは安くない女だからな",
-   "zh": "雅可不是随便的女人",
-   "narrator_zh": ""
-  },
-  {
-   "location": "184/ACT",
-   "narrator": "",
-   "text": "みやびは安くない女だからな",
-   "zh": "雅可不是随便的女人",
-   "narrator_zh": ""
-  },
-  {
-   "location": "186/TALK",
-   "narrator": "みやび",
-   "text": "その言い方にトキメキ感じた",
-   "zh": "那种说法让我心动",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "187/TALK",
-   "narrator": "みやび",
-   "text": "トキメキよくわからんけど"
-  },
-  {
-   "location": "190/TALK",
-   "narrator": "ラビットアニマ",
-   "text": "本当大丈夫ですか？"
-  },
-  {
-   "location": "191/TALK",
-   "narrator": "ラビットアニマ",
-   "text": "ていうか、凄い楽しそうな顔してますが？",
-   "zh": "话说，你一脸特别开心的样子？",
-   "narrator_zh": "兔之阿尼玛"
-  },
-  {
-   "location": "192/TALK",
-   "narrator": "みやび",
-   "text": "リアルを見るな"
-  },
-  {
-   "location": "193/TALK",
-   "narrator": "みやび",
-   "text": "チャット画面を見よ"
-  },
-  {
-   "location": "194/TALK",
-   "narrator": "みやび",
-   "text": "現実から目を反らせ"
-  },
-  {
-   "location": "196/TALK",
-   "narrator": "ラビットアニマ",
-   "text": "意味が違ってしまいます"
-  },
-  {
-   "location": "197/TALK",
-   "narrator": "みやび",
-   "text": "あ",
-   "zh": "啊",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "198/TALK",
-   "narrator": "みやび",
-   "text": "相棒はリアルやぞ？"
-  },
-  {
-   "location": "199/TALK",
-   "narrator": "みやび",
-   "text": "顔知らんけんど",
-   "zh": "我不认识他咯",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "200/TALK",
-   "narrator": "みやび",
-   "text": "リア友や"
-  },
-  {
-   "location": "201/TALK",
-   "narrator": "みやび",
-   "text": "画面内のリア友？"
-  },
-  {
-   "location": "202/TALK",
-   "narrator": "みやび",
-   "text": "メルヘン童話みたいや"
-  },
-  {
-   "location": "204/TALK",
-   "narrator": "ラビットアニマ",
-   "text": "とりあえず",
-   "zh": "总之先",
-   "narrator_zh": "兔之阿尼玛"
-  },
-  {
-   "location": "205/TALK",
-   "narrator": "ラビットアニマ",
-   "text": "本題に移りましょう"
-  },
-  {
-   "location": "206/TALK",
-   "narrator": "みやび",
-   "text": "遊び過ぎた"
-  },
-  {
-   "location": "208/TALK",
-   "narrator": "ラビットアニマ",
-   "text": "過ぎましたね"
-  },
-  {
-   "location": "209/TALK",
-   "narrator": "ラビットアニマ",
-   "text": "早く本題に移りましょう"
-  },
-  {
-   "location": "210/TALK",
-   "narrator": "みやび",
-   "text": "あいあい"
-  },
-  {
-   "location": "211/TALK",
-   "narrator": "みやび",
-   "text": "相棒にもわかりやすいように"
-  },
-  {
-   "location": "212/TALK",
-   "narrator": "みやび",
-   "text": "手取り足取り教えながらな"
-  },
-  {
-   "location": "214/SEL",
-   "narrator": "",
-   "text": "手足触ってもらえるの？",
-   "zh": "要让人摸摸手脚？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "215/ACT",
-   "narrator": "",
-   "text": "手足触ってもらえるの？",
-   "zh": "要让人摸摸手脚？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "217/TALK",
-   "narrator": "みやび",
-   "text": "ほほぅ？"
-  },
-  {
-   "location": "218/TALK",
-   "narrator": "みやび",
-   "text": "さわさわしてえいがかぁ？"
-  },
-  {
-   "location": "223/ACT",
-   "narrator": "",
-   "text": "今忙しい",
-   "zh": "现在正忙",
-   "narrator_zh": ""
-  },
-  {
-   "location": "224/TALK",
-   "narrator": "みやび",
-   "text": "マジか？"
-  },
-  {
-   "location": "225/TALK",
-   "narrator": "みやび",
-   "text": "いつもは平気なのに"
-  },
-  {
-   "location": "226/TALK",
-   "narrator": "みやび",
-   "text": "いや",
-   "zh": "不对",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "227/TALK",
-   "narrator": "みやび",
-   "text": "わかったぞ"
-  },
-  {
-   "location": "228/TALK",
-   "narrator": "みやび",
-   "text": "ツンデレモードやな？"
-  },
-  {
-   "location": "231/SEL",
-   "narrator": "",
-   "text": "別にみやびと話したくないわけじゃないんだからね！",
-   "zh": "我才不是不想跟雅说话呢！",
-   "narrator_zh": ""
-  },
-  {
-   "location": "232/ACT",
-   "narrator": "",
-   "text": "別にみやびと話したくないわけじゃないんだからね！",
-   "zh": "我才不是不想跟雅说话呢！",
-   "narrator_zh": ""
-  },
-  {
-   "location": "234/TALK",
-   "narrator": "みやび",
-   "text": "やはりか！"
-  },
-  {
-   "location": "236/TALK",
-   "narrator": "みやび",
-   "text": "ツンデレさんめ"
-  },
-  {
-   "location": "237/TALK",
-   "narrator": "みやび",
-   "text": "じゃあ",
-   "zh": "那么",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "238/TALK",
-   "narrator": "みやび",
-   "text": "また別の機会にな"
-  }
- ]
+    "dir": "dramatics/daydra/drm_ch04_00_350.js",
+    "type": "Episode",
+    "info": {
+        "story_id": "4035",
+        "cid": "miyabi",
+        "title": "らぶとーく 第35話",
+        "sub_title": "ラブという名の何か",
+        "title_zh": "恋爱漫谈 第35话",
+        "sub_title_zh": "名为爱的某种东西"
+    },
+    "entry": [
+        {
+            "location": "7/SCENARIO",
+            "narrator": "",
+            "text": "ラブという名の何か",
+            "zh": "名为爱的某种东西",
+            "narrator_zh": ""
+        },
+        {
+            "location": "18/TALK",
+            "narrator": "みやび",
+            "text": "ほぅ…あの掲示板で\nアクセス規制されたが？",
+            "zh": "嚯……听说你在那个论坛\n被访问限制了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "19/TALK",
+            "narrator": "繭",
+            "text": "はい。\n正直、お手上げ状態です。",
+            "zh": "是。\n说实话，已经束手无策了。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "20/TALK",
+            "narrator": "みやび",
+            "text": "アクセス規制程度で\n音を上げてたら、\nハッカーの名が泣くぞね？",
+            "zh": "就这点访问限制就\n扛不住的话，\n黑客的脸要丢光咧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "22/TALK",
+            "narrator": "繭",
+            "text": "ですが、あそこの掲示板の\n鉄壁のセキュリティは\n知っているでしょう？",
+            "zh": "可是，那个论坛\n铜墙铁壁般的安保\n你是知道的吧？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "23/TALK",
+            "narrator": "繭",
+            "text": "今まで何人のハッカーが、\nあのシステム内への\n侵入を試み――",
+            "zh": "至今为止有多少黑客，\n尝试侵入那个\n系统内部——",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "24/TALK",
+            "narrator": "繭",
+            "text": "悉く失敗して、\n不正アクセス者として\n規制を受けたか…。",
+            "zh": "全都失败了，\n落得个非法访问者\n的身份被限制……。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "25/TALK",
+            "narrator": "みやび",
+            "text": "うちもちっくと\n見に行ったがよ。",
+            "zh": "我也稍微\n去看过了啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "26/TALK",
+            "narrator": "みやび",
+            "text": "管理人、相当の\n手練れやね。",
+            "zh": "那个管理员，\n相当老练咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "28/TALK",
+            "narrator": "みやび",
+            "text": "そつがない、ゆう\nレベルやない。",
+            "zh": "已经不是滴水不漏的\n级别咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "29/TALK",
+            "narrator": "みやび",
+            "text": "隙がない。\n見事なもんや。",
+            "zh": "毫无可乘之隙。\n精彩得很。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "30/TALK",
+            "narrator": "みやび",
+            "text": "その掲示板にハッキング\nするゆうんは、挑戦状を\n叩きつけるも同等や。",
+            "zh": "去黑那个论坛，\n就等于扔下\n挑战书一样咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "みやび",
+            "text": "それでアクセス規制だけで\n済んでるき、ありがたく\n思わんといかんよ。",
+            "zh": "只受到访问限制\n就该偷着\n庆幸了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "繭",
+            "text": "…リベンジするためにも、\n相談に乗っていただけ\nませんか？",
+            "zh": "……为了复仇，\n能请您听我\n商量一下吗？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "35/TALK",
+            "narrator": "みやび",
+            "text": "それは構わんが…。",
+            "zh": "那倒无所谓……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "38/TALK",
+            "narrator": "みやび",
+            "text": "そうや、なら$handle$も\n混ぜて話そう。",
+            "zh": "对，那就把$handle$\n也叫上一起聊吧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "39/TALK",
+            "narrator": "繭",
+            "text": "…本気ですか？",
+            "zh": "……你是认真的吗？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "40/TALK",
+            "narrator": "繭",
+            "text": "彼はこの手の会話には、\nあまり慣れていないように\n思いますので――",
+            "zh": "他给人的感觉，\n是不太习惯\n这类对话——",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "41/TALK",
+            "narrator": "繭",
+            "text": "話したとしても会話に\nついてこれないと\n思うのですが…。",
+            "zh": "就算拉他进来，\n他恐怕也跟不上\n话题……。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "43/TALK",
+            "narrator": "みやび",
+            "text": "まあ、素人だからこそ\n聞いて勉強しろっちゅう\nことや。",
+            "zh": "嘛，正因为是门外汉，\n才要多听多学，\n就是这么回事啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "51/TALK",
+            "narrator": "みやび",
+            "text": "ちりんちりん",
+            "zh": "叮铃叮铃",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "52/TALK",
+            "narrator": "みやび",
+            "text": "Ｋｎｏｃｋ　Ｋｎｏｃｋ！",
+            "zh": "Ｋｎｏｃｋ　Ｋｎｏｃｋ！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "54/SEL",
+            "narrator": "",
+            "text": "呼んだ？",
+            "zh": "叫我？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "55/SEL",
+            "narrator": "",
+            "text": "待ってたよ",
+            "zh": "我一直在等哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "56/SEL",
+            "narrator": "",
+            "text": "今忙しい",
+            "zh": "现在正忙",
+            "narrator_zh": ""
+        },
+        {
+            "location": "57/ACT",
+            "narrator": "",
+            "text": "呼んだ？",
+            "zh": "叫我？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "58/TALK",
+            "narrator": "みやび",
+            "text": "うむ",
+            "zh": "嗯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "みやび",
+            "text": "貴殿はいつも反応するな",
+            "zh": "阁下每次都会反应呢",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "62/SEL",
+            "narrator": "",
+            "text": "反応したら悪い？",
+            "zh": "我要是反应了，不好吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "63/ACT",
+            "narrator": "",
+            "text": "反応したら悪い？",
+            "zh": "我要是反应了，不好吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "66/TALK",
+            "narrator": "みやび",
+            "text": "反応に文句はない",
+            "zh": "反应倒没什么可挑的",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "67/TALK",
+            "narrator": "みやび",
+            "text": "だが",
+            "zh": "不过",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "68/TALK",
+            "narrator": "みやび",
+            "text": "その返しは悪い！",
+            "zh": "那个回法不行！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "69/TALK",
+            "narrator": "みやび",
+            "text": "残念！！",
+            "zh": "遗憾！！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "75/TALK",
+            "narrator": "みやび",
+            "text": "…まったく。",
+            "zh": "……真是的。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "繭",
+            "text": "みやび先輩？\n$handle$さんは\nどうしたんですか？",
+            "zh": "雅前辈？\n$handle$\n这是怎么了？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "78/TALK",
+            "narrator": "みやび",
+            "text": "気が変わっただけちや。",
+            "zh": "只是临时改了主意滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "79/TALK",
+            "narrator": "みやび",
+            "text": "今日はウサギと二人で、\nじっくり語り合うことに\nしたがよ。",
+            "zh": "今天决定跟兔子\n两个人好好\n畅谈一番啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "80/TALK",
+            "narrator": "繭",
+            "text": "はぁ…いえ、それは\n光栄ではありますが…。",
+            "zh": "唉……不，那很\n荣幸，不过……。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "81/TALK",
+            "narrator": "繭",
+            "text": "…あの一瞬でみやび先輩の\n機嫌を害せるなんて…\nただ者じゃない。",
+            "zh": "……能在一瞬间就\n惹恼雅前辈……\n真不是普通人。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "82/ACT",
+            "narrator": "",
+            "text": "待ってたよ",
+            "zh": "我一直在等哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "みやび",
+            "text": "うむ",
+            "zh": "嗯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "みやび",
+            "text": "そうだろう",
+            "zh": "就是嘛",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "85/TALK",
+            "narrator": "みやび",
+            "text": "私もあなたと喋りたかったの☆",
+            "zh": "我也想和你说话哦☆",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "86/TALK",
+            "narrator": "みやび",
+            "text": "なんてキャラではないけんど",
+            "zh": "虽然不是那种角色，但是",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "87/TALK",
+            "narrator": "みやび",
+            "text": "うちも相棒と喋りたかったぞね",
+            "zh": "我也想跟搭档说话咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "89/SEL",
+            "narrator": "",
+            "text": "それで、どうかしたの？",
+            "zh": "所以，怎么了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "90/ACT",
+            "narrator": "",
+            "text": "それで、どうかしたの？",
+            "zh": "所以，怎么了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "みやび",
+            "text": "大胆ね",
+            "zh": "真是大胆呢",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "93/TALK",
+            "narrator": "みやび",
+            "text": "いやん",
+            "zh": "讨厌啦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "95/SEL",
+            "narrator": "",
+            "text": "何が！？",
+            "zh": "什么！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "96/ACT",
+            "narrator": "",
+            "text": "何が！？",
+            "zh": "什么！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "98/TALK",
+            "narrator": "みやび",
+            "text": "いや",
+            "zh": "不对",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "99/TALK",
+            "narrator": "みやび",
+            "text": "ウサギに見せつけたい",
+            "zh": "想炫给兔子看",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "みやび",
+            "text": "うちらの仲の良さ！",
+            "zh": "我们俩的交情！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "101/TALK",
+            "narrator": "みやび",
+            "text": "うちらの友情は凄い！",
+            "zh": "我们的友情超棒！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "みやび",
+            "text": "友情以上やき！",
+            "zh": "是友情之上啵！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "みやび",
+            "text": "フレンドの上はハイパーフレンド？",
+            "zh": "朋友之上就是超级朋友？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "105/TALK",
+            "narrator": "みやび",
+            "text": "もしくは",
+            "zh": "或者",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "107/TALK",
+            "narrator": "みやび",
+            "text": "そんなもんどうでもえい！",
+            "zh": "那种东西怎么都行嘛！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "108/TALK",
+            "narrator": "みやび",
+            "text": "とにかく見せつけよう",
+            "zh": "总之就让他看看",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "109/TALK",
+            "narrator": "みやび",
+            "text": "アーユ－レディー？",
+            "zh": "都准备好了咩——？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "111/SEL",
+            "narrator": "",
+            "text": "わざわざしなくて良くない？",
+            "zh": "用不着特意做吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "112/SEL",
+            "narrator": "",
+            "text": "準備はＯＫだ",
+            "zh": "准备OK",
+            "narrator_zh": ""
+        },
+        {
+            "location": "113/ACT",
+            "narrator": "",
+            "text": "わざわざしなくて良くない？",
+            "zh": "用不着特意做吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "115/TALK",
+            "narrator": "みやび",
+            "text": "いや",
+            "zh": "不对",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "116/TALK",
+            "narrator": "みやび",
+            "text": "まあそうだが",
+            "zh": "嘛，话是没错",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "118/TALK",
+            "narrator": "みやび",
+            "text": "面白そうだし",
+            "zh": "看着挺有意思",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "119/TALK",
+            "narrator": "みやび",
+            "text": "そう",
+            "zh": "对",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "120/TALK",
+            "narrator": "みやび",
+            "text": "絶対面白い",
+            "zh": "绝对有趣",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "122/TALK",
+            "narrator": "みやび",
+            "text": "やるべきなのだ！",
+            "zh": "非做不可啊！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "123/TALK",
+            "narrator": "みやび",
+            "text": "声を上げよ",
+            "zh": "给我出声",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "124/TALK",
+            "narrator": "みやび",
+            "text": "見せてやろうと！",
+            "zh": "就炫给他们看！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "126/SEL",
+            "narrator": "",
+            "text": "いや、見せなくていいでしょ？",
+            "zh": "不，不用给我看吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "127/ACT",
+            "narrator": "",
+            "text": "いや、見せなくていいでしょ？",
+            "zh": "不，不用给我看吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "130/TALK",
+            "narrator": "みやび",
+            "text": "なー",
+            "zh": "呐",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "131/TALK",
+            "narrator": "みやび",
+            "text": "うあーうあー",
+            "zh": "呜啊——呜啊——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "132/TALK",
+            "narrator": "みやび",
+            "text": "なんやそれー",
+            "zh": "那是驷马啊——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "みやび",
+            "text": "萎える―マジ萎えるー",
+            "zh": "真扫兴啊——真的扫兴啊——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "135/TALK",
+            "narrator": "みやび",
+            "text": "まあ",
+            "zh": "嗯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "136/TALK",
+            "narrator": "みやび",
+            "text": "ならえいわ",
+            "zh": "那就好咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "143/TALK",
+            "narrator": "みやび",
+            "text": "はぁ…。",
+            "zh": "哈啊……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "144/TALK",
+            "narrator": "繭",
+            "text": "…何かありましたか？",
+            "zh": "……发生什么了吗？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "みやび",
+            "text": "ん…。",
+            "zh": "嗯……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "148/TALK",
+            "narrator": "みやび",
+            "text": "いや、何でもないちや。",
+            "zh": "不，没什么事滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "149/TALK",
+            "narrator": "繭",
+            "text": "そうですか？",
+            "zh": "是吗？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "150/TALK",
+            "narrator": "繭",
+            "text": "何となく、落ち込んでいる\nように見えるのですが？",
+            "zh": "总觉得，你看起来\n有点消沉呢？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "151/TALK",
+            "narrator": "みやび",
+            "text": "いや、平気や。",
+            "zh": "不，没事咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "152/TALK",
+            "narrator": "みやび",
+            "text": "期待を裏切られて\nしもうて、ちっくと\nつまらんだけや…。",
+            "zh": "期待被辜负了，\n只是有点\n无聊而已咯……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "155/TALK",
+            "narrator": "みやび",
+            "text": "はぁ…何か不味ったか？\nいや、うちが間違うなど\nありえんちや…多分…。",
+            "zh": "唉……是哪里搞砸了咩？\n不，我会出错\n是不可能滴……大概……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "156/TALK",
+            "narrator": "繭",
+            "text": "…何があったのか、\n気になる…。",
+            "zh": "……到底发生了什么，\n真让人在意……。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "157/ACT",
+            "narrator": "",
+            "text": "準備はＯＫだ",
+            "zh": "准备OK",
+            "narrator_zh": ""
+        },
+        {
+            "location": "159/TALK",
+            "narrator": "みやび",
+            "text": "感謝",
+            "zh": "感谢",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "160/TALK",
+            "narrator": "みやび",
+            "text": "感激",
+            "zh": "感激",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "161/TALK",
+            "narrator": "みやび",
+            "text": "雨有られ",
+            "zh": "雨有霰",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "163/TALK",
+            "narrator": "みやび",
+            "text": "おのれクソ変換機能！！",
+            "zh": "该死，这破转换功能！！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "164/TALK",
+            "narrator": "みやび",
+            "text": "とりあえずウサギ召喚！",
+            "zh": "总之先召唤兔子！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "167/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "こんにちは",
+            "zh": "你好",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "168/TALK",
+            "narrator": "みやび",
+            "text": "よし",
+            "zh": "好嘞",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "169/TALK",
+            "narrator": "みやび",
+            "text": "楽しく話そう",
+            "zh": "开心地聊吧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "171/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "しかし$handle$さんは、本当に話に付いてこれる",
+            "zh": "不过$handle$真的能跟上话题吗",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "172/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "？",
+            "zh": "？",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "174/SEL",
+            "narrator": "",
+            "text": "結構不安",
+            "zh": "还挺不安的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "175/ACT",
+            "narrator": "",
+            "text": "結構不安",
+            "zh": "还挺不安的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "177/TALK",
+            "narrator": "みやび",
+            "text": "安心せよ",
+            "zh": "放心就是",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "178/TALK",
+            "narrator": "みやび",
+            "text": "うちが手取り足取り教えてあげちゃう",
+            "zh": "我可是会手把手脚把脚教你哦",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "179/TALK",
+            "narrator": "みやび",
+            "text": "実際に触れはせんけんど",
+            "zh": "虽然不会真的碰到就是了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "181/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "？",
+            "zh": "？",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "182/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "テンション高いですね？",
+            "zh": "情绪很高涨呢？",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "183/SEL",
+            "narrator": "",
+            "text": "みやびは安くない女だからな",
+            "zh": "雅可不是随便的女人",
+            "narrator_zh": ""
+        },
+        {
+            "location": "184/ACT",
+            "narrator": "",
+            "text": "みやびは安くない女だからな",
+            "zh": "雅可不是随便的女人",
+            "narrator_zh": ""
+        },
+        {
+            "location": "186/TALK",
+            "narrator": "みやび",
+            "text": "その言い方にトキメキ感じた",
+            "zh": "那种说法让我心动",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "187/TALK",
+            "narrator": "みやび",
+            "text": "トキメキよくわからんけど",
+            "zh": "心动是驷马我没太懂咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "190/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "本当大丈夫ですか？",
+            "zh": "真的没问题吗？",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "191/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "ていうか、凄い楽しそうな顔してますが？",
+            "zh": "话说，你一脸特别开心的样子？",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "192/TALK",
+            "narrator": "みやび",
+            "text": "リアルを見るな",
+            "zh": "别看现实",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "193/TALK",
+            "narrator": "みやび",
+            "text": "チャット画面を見よ",
+            "zh": "看聊天画面",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "194/TALK",
+            "narrator": "みやび",
+            "text": "現実から目を反らせ",
+            "zh": "把视线从现实上挪开",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "196/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "意味が違ってしまいます",
+            "zh": "意思会变得不一样哦",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "197/TALK",
+            "narrator": "みやび",
+            "text": "あ",
+            "zh": "啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "198/TALK",
+            "narrator": "みやび",
+            "text": "相棒はリアルやぞ？",
+            "zh": "搭档可是现实里的人哦？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "199/TALK",
+            "narrator": "みやび",
+            "text": "顔知らんけんど",
+            "zh": "虽然没见过脸，但是",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "200/TALK",
+            "narrator": "みやび",
+            "text": "リア友や",
+            "zh": "是现实朋友",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "201/TALK",
+            "narrator": "みやび",
+            "text": "画面内のリア友？",
+            "zh": "画面里的现实朋友？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "202/TALK",
+            "narrator": "みやび",
+            "text": "メルヘン童話みたいや",
+            "zh": "像童话故事一样咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "204/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "とりあえず",
+            "zh": "总之先",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "205/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "本題に移りましょう",
+            "zh": "进入正题吧",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "206/TALK",
+            "narrator": "みやび",
+            "text": "遊び過ぎた",
+            "zh": "玩过头了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "208/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "過ぎましたね",
+            "zh": "确实过头了呢",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "209/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "早く本題に移りましょう",
+            "zh": "快进入正题吧",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "210/TALK",
+            "narrator": "みやび",
+            "text": "あいあい",
+            "zh": "好嘞好嘞",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "211/TALK",
+            "narrator": "みやび",
+            "text": "相棒にもわかりやすいように",
+            "zh": "为了搭档也能听懂",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "212/TALK",
+            "narrator": "みやび",
+            "text": "手取り足取り教えながらな",
+            "zh": "边手把手脚把脚教你边说",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "214/SEL",
+            "narrator": "",
+            "text": "手足触ってもらえるの？",
+            "zh": "要让人摸摸手脚？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "215/ACT",
+            "narrator": "",
+            "text": "手足触ってもらえるの？",
+            "zh": "要让人摸摸手脚？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "217/TALK",
+            "narrator": "みやび",
+            "text": "ほほぅ？",
+            "zh": "哦嚯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "218/TALK",
+            "narrator": "みやび",
+            "text": "さわさわしてえいがかぁ？",
+            "zh": "摸来摸去得咩——？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "223/ACT",
+            "narrator": "",
+            "text": "今忙しい",
+            "zh": "现在正忙",
+            "narrator_zh": ""
+        },
+        {
+            "location": "224/TALK",
+            "narrator": "みやび",
+            "text": "マジか？",
+            "zh": "真的咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "225/TALK",
+            "narrator": "みやび",
+            "text": "いつもは平気なのに",
+            "zh": "平时明明都无所谓的",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "226/TALK",
+            "narrator": "みやび",
+            "text": "いや",
+            "zh": "不对",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "227/TALK",
+            "narrator": "みやび",
+            "text": "わかったぞ",
+            "zh": "懂咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "228/TALK",
+            "narrator": "みやび",
+            "text": "ツンデレモードやな？",
+            "zh": "这是傲娇模式吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "231/SEL",
+            "narrator": "",
+            "text": "別にみやびと話したくないわけじゃないんだからね！",
+            "zh": "我才不是不想跟雅说话呢！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "232/ACT",
+            "narrator": "",
+            "text": "別にみやびと話したくないわけじゃないんだからね！",
+            "zh": "我才不是不想跟雅说话呢！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "234/TALK",
+            "narrator": "みやび",
+            "text": "やはりか！",
+            "zh": "果然是这样！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "236/TALK",
+            "narrator": "みやび",
+            "text": "ツンデレさんめ",
+            "zh": "你这个傲娇家伙",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "237/TALK",
+            "narrator": "みやび",
+            "text": "じゃあ",
+            "zh": "那么",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "238/TALK",
+            "narrator": "みやび",
+            "text": "また別の機会にな",
+            "zh": "下次再找机会吧",
+            "narrator_zh": "雅"
+        }
+    ]
 }
