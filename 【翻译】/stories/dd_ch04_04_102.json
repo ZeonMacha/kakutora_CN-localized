@@ -1,756 +1,756 @@
 {
- "dir": "chap04/daydra/dd_ch04_04_102.js",
- "type": "MainStory",
- "info": {
-  "story_id": "4404",
-  "cid": "miyabi",
-  "title": "004 メインストーリー",
-  "sub_title": "恋ヶ崎みやびという存在＜後編＞",
-  "title_zh": "004 主线剧情",
-  "sub_title_zh": "名为恋之崎雅的存在＜后篇＞"
- },
- "entry": [
-  {
-   "location": "397/SCENARIO",
-   "narrator": "",
-   "text": "恋ヶ崎みやびという存在",
-   "zh": "名为恋之崎雅的存在",
-   "narrator_zh": ""
-  },
-  {
-   "location": "420/TALK",
-   "narrator": "千羽鶴",
-   "text": "現実世界へ\nおかえりなさい。",
-   "zh": "欢迎回到\n现实世界。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "421/TALK",
-   "narrator": "千羽鶴",
-   "text": "貴方が彼女のココロの中で\n奮闘してくれたお陰で、\n彼女の心は安定した。",
-   "zh": "多亏你在她的心中\n奋战，\n她的心稳定下来了。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "422/TALK",
-   "narrator": "千羽鶴",
-   "text": "あとは貴方から直接、\n彼女にアドバイスをして、\n背中を一押しするだけ。",
-   "zh": "接下来只要你直接\n给她一点建议，\n在背后推她一把。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "423/TALK",
-   "narrator": "千羽鶴",
-   "text": "さて、\nその方法だけど。",
-   "zh": "那么，\n说到方法。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "429/TALK",
-   "narrator": "千羽鶴",
-   "text": "WAVEというチャット\nツールのシステムを\n作ってみた。",
-   "zh": "我做了一个\n叫WAVE的聊天\n工具系统。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "430/TALK",
-   "narrator": "千羽鶴",
-   "text": "あなたの世界にも、\n似たものがあるかも\nしれないけど。",
-   "zh": "你的世界里，\n也许也有\n类似的东西。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "431/TALK",
-   "narrator": "千羽鶴",
-   "text": "そして、彼女のWAVEに\nあなたを登録して\nおいた。",
-   "zh": "然后，我已经把你\n登记进她的WAVE\n了。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "432/SEL",
-   "narrator": "",
-   "text": "なるほど",
-   "zh": "原来如此",
-   "narrator_zh": ""
-  },
-  {
-   "location": "433/ACT",
-   "narrator": "",
-   "text": "なるほど",
-   "zh": "原来如此",
-   "narrator_zh": ""
-  },
-  {
-   "location": "435/TALK",
-   "narrator": "千羽鶴",
-   "text": "でも「bot」として\nだけど。",
-   "zh": "不过是作为“bot”\n登记的。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "436/SEL",
-   "narrator": "",
-   "text": "なんでBot！？",
-   "zh": "为什么是Bot！？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "437/ACT",
-   "narrator": "",
-   "text": "なんでBot！？",
-   "zh": "为什么是Bot！？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "439/TALK",
-   "narrator": "千羽鶴",
-   "text": "いきなり知らない人が\nフレンド登録されて\nいたらまずいでしょう。",
-   "zh": "要是突然有不认识的人\n被加为好友，\n不太好吧。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "440/SEL",
-   "narrator": "",
-   "text": "そんなところにリアリティを持たせなくても",
-   "zh": "那种地方不必搞得那么真实",
-   "narrator_zh": ""
-  },
-  {
-   "location": "441/ACT",
-   "narrator": "",
-   "text": "そんなところにリアリティを持たせなくても",
-   "zh": "那种地方不必搞得那么真实",
-   "narrator_zh": ""
-  },
-  {
-   "location": "443/TALK",
-   "narrator": "千羽鶴",
-   "text": "「あなた」は「あなた」\nなんだから。",
-   "zh": "“你”就是“你”，\n就是这样。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "444/TALK",
-   "narrator": "千羽鶴",
-   "text": "幼馴染み設定とか、\nそんな都合のいい\nものはないから。",
-   "zh": "青梅竹马之类\n那么方便的设定，\n是没有的。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "445/TALK",
-   "narrator": "千羽鶴",
-   "text": "そこはリアリティを\n持って欲しい。",
-   "zh": "这一点，\n希望有真实感。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "446/TALK",
-   "narrator": "千羽鶴",
-   "text": "そういうわけだから、\n彼女からの抵抗は\nあまり無いはず。",
-   "zh": "所以，\n她应该不会\n太抗拒。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "447/SEL",
-   "narrator": "",
-   "text": "でもBotじゃねえ…",
-   "zh": "可是Bot啊……",
-   "narrator_zh": ""
-  },
-  {
-   "location": "448/ACT",
-   "narrator": "",
-   "text": "でもBotじゃねえ…",
-   "zh": "可是Bot啊……",
-   "narrator_zh": ""
-  },
-  {
-   "location": "450/TALK",
-   "narrator": "千羽鶴",
-   "text": "私はあくまで\n自然な出逢いと機会を\n与えただけ。",
-   "zh": "我只是给了\n一次自然的相遇\n和机会。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "451/TALK",
-   "narrator": "千羽鶴",
-   "text": "どう運用するかは\nあなたが決めていい。",
-   "zh": "怎么用，\n由你来决定。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "452/TALK",
-   "narrator": "千羽鶴",
-   "text": "すぐに「bot」では\nないと伝えてもいいし、\nそのままでもいい。",
-   "zh": "你可以马上说\n自己不是“bot”，\n也可以先这样。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "453/TALK",
-   "narrator": "千羽鶴",
-   "text": "そこはあなたの\nセンスに任せる。",
-   "zh": "这一点\n交给你的品味。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "457/TALK",
-   "narrator": "千羽鶴",
-   "text": "さあ、彼女の新しい物語が\n始まろうとしている。",
-   "zh": "好了，她的新故事\n就要开始了。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "458/TALK",
-   "narrator": "千羽鶴",
-   "text": "チャットツールWAVEを\n使って、彼女を支えて\nいってほしい。",
-   "zh": "希望你用聊天工具WAVE，\n去支撑她\n走下去。",
-   "narrator_zh": "千羽鹤"
-  },
-  {
-   "location": "470/TALK",
-   "narrator": "みやび",
-   "text": "…………。",
-   "zh": "…………。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "471/TALK",
-   "narrator": "みやび",
-   "text": "…なんや？",
-   "zh": "……怎么了？",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "472/TALK",
-   "narrator": "みやび",
-   "text": "なんか急に\nつっかかりが取れた\nような……",
-   "zh": "总觉得突然\n卡住的地方松开了\n似的……",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "473/SEL",
-   "narrator": "",
-   "text": "今回のやる気喪失、なごちゃんが関係してたりする？",
-   "zh": "这次提不起劲，和七五有关系吗？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "474/ACT",
-   "narrator": "",
-   "text": "今回のやる気喪失、なごちゃんが関係してたりする？",
-   "zh": "这次提不起劲，和七五有关系吗？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "478/TALK",
-   "narrator": "みやび",
-   "text": "はぁ…誰や、\nこんな時にWAVEなんぞ――",
-   "zh": "唉……是谁啊，\n这种时候搞什么WAVE——",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "479/TALK",
-   "narrator": "みやび",
-   "text": "…………。",
-   "zh": "…………。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "484/TALK",
-   "narrator": "みやび",
-   "text": "っ！？",
-   "zh": "唔！？",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "492/TALK",
-   "narrator": "みやび",
-   "text": "あんた、何者や？",
-   "zh": "你，是什么人？",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "494/SEL",
-   "narrator": "",
-   "text": "botです",
-   "zh": "我是bot",
-   "narrator_zh": ""
-  },
-  {
-   "location": "495/SEL",
-   "narrator": "",
-   "text": "みやびを助けに来た",
-   "zh": "我是来帮雅的",
-   "narrator_zh": ""
-  },
-  {
-   "location": "496/ACT",
-   "narrator": "",
-   "text": "Botです",
-   "zh": "我是Bot",
-   "narrator_zh": ""
-  },
-  {
-   "location": "498/TALK",
-   "narrator": "みやび",
-   "text": "確かにそう書いちゅうね",
-   "zh": "上面确实这么写着",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "499/TALK",
-   "narrator": "みやび",
-   "text": "けんど",
-   "zh": "不过",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "500/ACT",
-   "narrator": "",
-   "text": "みやびを助けに来た",
-   "zh": "我是来帮雅的",
-   "narrator_zh": ""
-  },
-  {
-   "location": "501/TALK",
-   "narrator": "みやび",
-   "text": "は？",
-   "zh": "哈？",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "502/TALK",
-   "narrator": "みやび",
-   "text": "画面にはBotと表示されちゅうけんどBotに助けられる筋合いはない、てゆうか",
-   "zh": "屏幕上显示的是Bot，不过没有被Bot帮忙的道理，或者说",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "504/TALK",
-   "narrator": "みやび",
-   "text": "まっことＡＩなが？",
-   "zh": "的确是ＡＩ喃？",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "506/SEL",
-   "narrator": "",
-   "text": "その話はあとだ",
-   "zh": "那话以后再说",
-   "narrator_zh": ""
-  },
-  {
-   "location": "507/ACT",
-   "narrator": "",
-   "text": "その話はあとだ",
-   "zh": "那话以后再说",
-   "narrator_zh": ""
-  },
-  {
-   "location": "509/TALK",
-   "narrator": "みやび",
-   "text": "誤魔化すなや",
-   "zh": "别糊弄",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "511/SEL",
-   "narrator": "",
-   "text": "まだ助かるかもしれないんだよ！",
-   "zh": "也许还来得及救啊！",
-   "narrator_zh": ""
-  },
-  {
-   "location": "512/ACT",
-   "narrator": "",
-   "text": "まだ助かるかもしれないんだよ！",
-   "zh": "也许还来得及救啊！",
-   "narrator_zh": ""
-  },
-  {
-   "location": "514/TALK",
-   "narrator": "みやび",
-   "text": "まだそんなこと言うてるが？",
-   "zh": "还在说这种话？",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "516/SEL",
-   "narrator": "",
-   "text": "頑張ろうよ！",
-   "zh": "一起加油啊！",
-   "narrator_zh": ""
-  },
-  {
-   "location": "517/ACT",
-   "narrator": "",
-   "text": "頑張ろうよ！",
-   "zh": "一起加油啊！",
-   "narrator_zh": ""
-  },
-  {
-   "location": "519/TALK",
-   "narrator": "みやび",
-   "text": "軽いな",
-   "zh": "说得轻巧",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "520/TALK",
-   "narrator": "みやび",
-   "text": "うちはな",
-   "zh": "我啊",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "521/TALK",
-   "narrator": "みやび",
-   "text": "そういう話を軽々しく言うヤツは",
-   "zh": "把这种话随口说出来的人",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "522/TALK",
-   "narrator": "みやび",
-   "text": "大嫌いなんや",
-   "zh": "我最讨厌了",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "535/TALK",
-   "narrator": "みやび",
-   "text": "…腹立たしいヤツや。",
-   "zh": "……真是个气人的家伙。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "536/TALK",
-   "narrator": "みやび",
-   "text": "まさか、なごちゃんの\nことを知っちゅうとは…。",
-   "zh": "……没想到，你居然知道\n七五的事……。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "537/TALK",
-   "narrator": "みやび",
-   "text": "…やはり、うちを攪乱する\nために、管理庁が仕掛けて\nきた刺客か…？",
-   "zh": "……果然，是为了搅乱我，\n管理厅派来的\n刺客吗……？",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "538/TALK",
-   "narrator": "みやび",
-   "text": "…いや、うちだけ\nピンポイントで狙われる\nようなこと――",
-   "zh": "……不，会专门\n盯上我一个人\n这种事——",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "539/TALK",
-   "narrator": "みやび",
-   "text": "管理庁にした覚えないん\nやけんど…。",
-   "zh": "我不记得对管理厅\n做过什么，不过……。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "540/TALK",
-   "narrator": "みやび",
-   "text": "…………。",
-   "zh": "…………。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "541/TALK",
-   "narrator": "みやび",
-   "text": "やけんど――",
-   "zh": "不过——",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "542/TALK",
-   "narrator": "みやび",
-   "text": "もしそうやとしたら、\nうちがやることは\n一つやね。",
-   "zh": "如果真是这样，\n我要做的\n只有一件咯。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "543/TALK",
-   "narrator": "みやび",
-   "text": "徹底抗戦や！",
-   "zh": "彻底抗战！",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "555/TALK",
-   "narrator": "みやび",
-   "text": "賭けをせんか？",
-   "zh": "要不要打个赌喃？",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "557/SEL",
-   "narrator": "",
-   "text": "賭けの内容は？",
-   "zh": "赌什么？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "558/ACT",
-   "narrator": "",
-   "text": "賭けの内容は？",
-   "zh": "赌什么？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "560/TALK",
-   "narrator": "みやび",
-   "text": "うちらがこの戦いに勝ったら",
-   "zh": "我们要是赢了这场",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "561/TALK",
-   "narrator": "みやび",
-   "text": "あんたのアカウントの秘密鍵をよこしや",
-   "zh": "就把你账号的私钥交出来",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "562/TALK",
-   "narrator": "みやび",
-   "text": "この条件を飲むなら、戦いを継続しちゃる",
-   "zh": "要是接受这个条件，我就给你把仗继续打下去",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "563/TALK",
-   "narrator": "みやび",
-   "text": "どうや？",
-   "zh": "怎么样？",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "565/SEL",
-   "narrator": "",
-   "text": "もし負けたら？",
-   "zh": "要是输了呢？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "566/SEL",
-   "narrator": "",
-   "text": "いいよ",
-   "zh": "好啊",
-   "narrator_zh": ""
-  },
-  {
-   "location": "567/ACT",
-   "narrator": "",
-   "text": "もし負けたら？",
-   "zh": "要是输了呢？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "568/TALK",
-   "narrator": "みやび",
-   "text": "うちらが死ぬだけや",
-   "zh": "不过是我们去死而已",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "571/TALK",
-   "narrator": "みやび",
-   "text": "まあ、賭け言うたけんど",
-   "zh": "嘛，说是打赌，不过",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "572/TALK",
-   "narrator": "みやび",
-   "text": "勝った時はご褒美くれ言うことや",
-   "zh": "就是赢了要给报酬的意思",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "573/TALK",
-   "narrator": "みやび",
-   "text": "褒美の一つも出さんで、人を動かせる思うが？",
-   "zh": "一点报酬都不给，你觉得能支使人？",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "575/SEL",
-   "narrator": "",
-   "text": "わかった、いいよ",
-   "zh": "知道了，好啊",
-   "narrator_zh": ""
-  },
-  {
-   "location": "576/ACT",
-   "narrator": "",
-   "text": "わかった、いいよ",
-   "zh": "知道了，好啊",
-   "narrator_zh": ""
-  },
-  {
-   "location": "578/ACT",
-   "narrator": "",
-   "text": "いいよ",
-   "zh": "好啊",
-   "narrator_zh": ""
-  },
-  {
-   "location": "580/TALK",
-   "narrator": "みやび",
-   "text": "決まりや",
-   "zh": "就这么定了",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "581/TALK",
-   "narrator": "みやび",
-   "text": "あんたがどんなロジックで動いているか、今は見当もつかん",
-   "zh": "你是按什么逻辑在动，我现在完全没头绪",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "582/TALK",
-   "narrator": "みやび",
-   "text": "けんど、この戦いが終わったら、すぐに暴いちゃるき",
-   "zh": "不过，这仗打完，马上给你掀开啵",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "583/TALK",
-   "narrator": "みやび",
-   "text": "待っちょりや",
-   "zh": "等着",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "584/TALK",
-   "narrator": "みやび",
-   "text": "モチベーション上がってきた(^Д^)ｷﾞｬﾊ",
-   "zh": "干劲上来了(^Д^)ｷﾞｬﾊ",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "585/TALK",
-   "narrator": "みやび",
-   "text": "久々に戦い頑張れそうや",
-   "zh": "好久没这么想打一场了",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "587/SEL",
-   "narrator": "",
-   "text": "勝ったら好きにしていいよ",
-   "zh": "赢了你想怎样都行",
-   "narrator_zh": ""
-  },
-  {
-   "location": "588/SEL",
-   "narrator": "",
-   "text": "絶対負けたりしないでね",
-   "zh": "绝对不许输啊",
-   "narrator_zh": ""
-  },
-  {
-   "location": "589/ACT",
-   "narrator": "",
-   "text": "勝ったら好きにしていいよ",
-   "zh": "赢了你想怎样都行",
-   "narrator_zh": ""
-  },
-  {
-   "location": "590/TALK",
-   "narrator": "みやび",
-   "text": "言質取ったきね",
-   "zh": "话我记下了啵",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "591/TALK",
-   "narrator": "みやび",
-   "text": "みやびさん",
-   "zh": "雅",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "592/TALK",
-   "narrator": "みやび",
-   "text": "本気モードで行くちや",
-   "zh": "认真模式上了咯",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "593/ACT",
-   "narrator": "",
-   "text": "絶対負けたりしないでね",
-   "zh": "绝对不许输啊",
-   "narrator_zh": ""
-  },
-  {
-   "location": "594/TALK",
-   "narrator": "みやび",
-   "text": "賭けの相手を心配？",
-   "zh": "担心打赌的对手？",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "595/TALK",
-   "narrator": "みやび",
-   "text": "変なBotや",
-   "zh": "真是个怪Bot",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "596/TALK",
-   "narrator": "みやび",
-   "text": "まあえい",
-   "zh": "算了，要得",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "597/TALK",
-   "narrator": "みやび",
-   "text": "賭けは賭けやし",
-   "zh": "赌就是赌",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "598/TALK",
-   "narrator": "みやび",
-   "text": "みやびさん",
-   "zh": "雅",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "599/TALK",
-   "narrator": "みやび",
-   "text": "本気モードで行くぞね",
-   "zh": "认真模式上了啵",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "613/TALK",
-   "narrator": "みやび",
-   "text": "…………。",
-   "zh": "…………。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "616/TALK",
-   "narrator": "みやび",
-   "text": "よし、行くちや！！",
-   "zh": "好，上咯！！",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "469/DIALOG",
-   "narrator": "Dialog_EventData",
-   "text": "<color=green>5月3日　2:07 PM</color>\nFreyMENOWライブ中に発生した\nフェノメノンドーム戦にて。",
-   "zh": "<color=green>5月3日　2:07 PM</color>\n发生在FreyMENOW演唱会中的\nPhenoMENON穹顶战。",
-   "narrator_zh": "Dialog_EventData"
-  }
- ]
+    "dir": "chap04/daydra/dd_ch04_04_102.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "4404",
+        "cid": "miyabi",
+        "title": "004 メインストーリー",
+        "sub_title": "恋ヶ崎みやびという存在＜後編＞",
+        "title_zh": "004 主线剧情",
+        "sub_title_zh": "名为恋之崎雅的存在＜后篇＞"
+    },
+    "entry": [
+        {
+            "location": "397/SCENARIO",
+            "narrator": "",
+            "text": "恋ヶ崎みやびという存在",
+            "zh": "名为恋之崎雅的存在",
+            "narrator_zh": ""
+        },
+        {
+            "location": "420/TALK",
+            "narrator": "千羽鶴",
+            "text": "現実世界へ\nおかえりなさい。",
+            "zh": "欢迎回到\n现实世界。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "421/TALK",
+            "narrator": "千羽鶴",
+            "text": "貴方が彼女のココロの中で\n奮闘してくれたお陰で、\n彼女の心は安定した。",
+            "zh": "多亏你在她的心中\n奋战，\n她的心稳定下来了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "422/TALK",
+            "narrator": "千羽鶴",
+            "text": "あとは貴方から直接、\n彼女にアドバイスをして、\n背中を一押しするだけ。",
+            "zh": "接下来只要你直接\n给她一点建议，\n在背后推她一把。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "423/TALK",
+            "narrator": "千羽鶴",
+            "text": "さて、\nその方法だけど。",
+            "zh": "那么，\n说到方法。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "429/TALK",
+            "narrator": "千羽鶴",
+            "text": "WAVEというチャット\nツールのシステムを\n作ってみた。",
+            "zh": "我做了一个\n叫WAVE的聊天\n工具系统。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "430/TALK",
+            "narrator": "千羽鶴",
+            "text": "あなたの世界にも、\n似たものがあるかも\nしれないけど。",
+            "zh": "你的世界里，\n也许也有\n类似的东西。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "431/TALK",
+            "narrator": "千羽鶴",
+            "text": "そして、彼女のWAVEに\nあなたを登録して\nおいた。",
+            "zh": "然后，我已经把你\n登记进她的WAVE\n了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "432/SEL",
+            "narrator": "",
+            "text": "なるほど",
+            "zh": "原来如此",
+            "narrator_zh": ""
+        },
+        {
+            "location": "433/ACT",
+            "narrator": "",
+            "text": "なるほど",
+            "zh": "原来如此",
+            "narrator_zh": ""
+        },
+        {
+            "location": "435/TALK",
+            "narrator": "千羽鶴",
+            "text": "でも「bot」として\nだけど。",
+            "zh": "不过是作为“bot”\n登记的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "436/SEL",
+            "narrator": "",
+            "text": "なんでBot！？",
+            "zh": "为什么是Bot！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "437/ACT",
+            "narrator": "",
+            "text": "なんでBot！？",
+            "zh": "为什么是Bot！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "439/TALK",
+            "narrator": "千羽鶴",
+            "text": "いきなり知らない人が\nフレンド登録されて\nいたらまずいでしょう。",
+            "zh": "要是突然有不认识的人\n被加为好友，\n不太好吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "440/SEL",
+            "narrator": "",
+            "text": "そんなところにリアリティを持たせなくても",
+            "zh": "那种地方不必搞得那么真实",
+            "narrator_zh": ""
+        },
+        {
+            "location": "441/ACT",
+            "narrator": "",
+            "text": "そんなところにリアリティを持たせなくても",
+            "zh": "那种地方不必搞得那么真实",
+            "narrator_zh": ""
+        },
+        {
+            "location": "443/TALK",
+            "narrator": "千羽鶴",
+            "text": "「あなた」は「あなた」\nなんだから。",
+            "zh": "“你”就是“你”，\n就是这样。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "444/TALK",
+            "narrator": "千羽鶴",
+            "text": "幼馴染み設定とか、\nそんな都合のいい\nものはないから。",
+            "zh": "青梅竹马之类\n那么方便的设定，\n是没有的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "445/TALK",
+            "narrator": "千羽鶴",
+            "text": "そこはリアリティを\n持って欲しい。",
+            "zh": "这一点，\n希望有真实感。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "446/TALK",
+            "narrator": "千羽鶴",
+            "text": "そういうわけだから、\n彼女からの抵抗は\nあまり無いはず。",
+            "zh": "所以，\n她应该不会\n太抗拒。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "447/SEL",
+            "narrator": "",
+            "text": "でもBotじゃねえ…",
+            "zh": "可是Bot啊……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "448/ACT",
+            "narrator": "",
+            "text": "でもBotじゃねえ…",
+            "zh": "可是Bot啊……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "450/TALK",
+            "narrator": "千羽鶴",
+            "text": "私はあくまで\n自然な出逢いと機会を\n与えただけ。",
+            "zh": "我只是给了\n一次自然的相遇\n和机会。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "451/TALK",
+            "narrator": "千羽鶴",
+            "text": "どう運用するかは\nあなたが決めていい。",
+            "zh": "怎么用，\n由你来决定。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "452/TALK",
+            "narrator": "千羽鶴",
+            "text": "すぐに「bot」では\nないと伝えてもいいし、\nそのままでもいい。",
+            "zh": "你可以马上说\n自己不是“bot”，\n也可以先这样。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "453/TALK",
+            "narrator": "千羽鶴",
+            "text": "そこはあなたの\nセンスに任せる。",
+            "zh": "这一点\n交给你的品味。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "457/TALK",
+            "narrator": "千羽鶴",
+            "text": "さあ、彼女の新しい物語が\n始まろうとしている。",
+            "zh": "好了，她的新故事\n就要开始了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "458/TALK",
+            "narrator": "千羽鶴",
+            "text": "チャットツールWAVEを\n使って、彼女を支えて\nいってほしい。",
+            "zh": "希望你用聊天工具WAVE，\n去支撑她\n走下去。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "470/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "471/TALK",
+            "narrator": "みやび",
+            "text": "…なんや？",
+            "zh": "……怎么了？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "472/TALK",
+            "narrator": "みやび",
+            "text": "なんか急に\nつっかかりが取れた\nような……",
+            "zh": "总觉得突然\n卡住的地方松开了\n似的……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "473/SEL",
+            "narrator": "",
+            "text": "今回のやる気喪失、なごちゃんが関係してたりする？",
+            "zh": "这次提不起劲，和七五有关系吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "474/ACT",
+            "narrator": "",
+            "text": "今回のやる気喪失、なごちゃんが関係してたりする？",
+            "zh": "这次提不起劲，和七五有关系吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "478/TALK",
+            "narrator": "みやび",
+            "text": "はぁ…誰や、\nこんな時にWAVEなんぞ――",
+            "zh": "唉……是谁啊，\n这种时候搞驷马WAVE——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "479/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "484/TALK",
+            "narrator": "みやび",
+            "text": "っ！？",
+            "zh": "唔！？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "492/TALK",
+            "narrator": "みやび",
+            "text": "あんた、何者や？",
+            "zh": "你，是什么人？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "494/SEL",
+            "narrator": "",
+            "text": "botです",
+            "zh": "我是bot",
+            "narrator_zh": ""
+        },
+        {
+            "location": "495/SEL",
+            "narrator": "",
+            "text": "みやびを助けに来た",
+            "zh": "我是来帮雅的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "496/ACT",
+            "narrator": "",
+            "text": "Botです",
+            "zh": "我是Bot",
+            "narrator_zh": ""
+        },
+        {
+            "location": "498/TALK",
+            "narrator": "みやび",
+            "text": "確かにそう書いちゅうね",
+            "zh": "上面确实这么写着",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "499/TALK",
+            "narrator": "みやび",
+            "text": "けんど",
+            "zh": "但是",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "500/ACT",
+            "narrator": "",
+            "text": "みやびを助けに来た",
+            "zh": "我是来帮雅的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "501/TALK",
+            "narrator": "みやび",
+            "text": "は？",
+            "zh": "哈？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "502/TALK",
+            "narrator": "みやび",
+            "text": "画面にはBotと表示されちゅうけんどBotに助けられる筋合いはない、てゆうか",
+            "zh": "屏幕上显示的是Bot，但是没有被Bot帮忙的道理，或者说",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "504/TALK",
+            "narrator": "みやび",
+            "text": "まっことＡＩなが？",
+            "zh": "真是ＡＩ咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "506/SEL",
+            "narrator": "",
+            "text": "その話はあとだ",
+            "zh": "那话以后再说",
+            "narrator_zh": ""
+        },
+        {
+            "location": "507/ACT",
+            "narrator": "",
+            "text": "その話はあとだ",
+            "zh": "那话以后再说",
+            "narrator_zh": ""
+        },
+        {
+            "location": "509/TALK",
+            "narrator": "みやび",
+            "text": "誤魔化すなや",
+            "zh": "别糊弄",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "511/SEL",
+            "narrator": "",
+            "text": "まだ助かるかもしれないんだよ！",
+            "zh": "也许还来得及救啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "512/ACT",
+            "narrator": "",
+            "text": "まだ助かるかもしれないんだよ！",
+            "zh": "也许还来得及救啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "514/TALK",
+            "narrator": "みやび",
+            "text": "まだそんなこと言うてるが？",
+            "zh": "还在说这种话？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "516/SEL",
+            "narrator": "",
+            "text": "頑張ろうよ！",
+            "zh": "一起加油啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "517/ACT",
+            "narrator": "",
+            "text": "頑張ろうよ！",
+            "zh": "一起加油啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "519/TALK",
+            "narrator": "みやび",
+            "text": "軽いな",
+            "zh": "说得轻巧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "520/TALK",
+            "narrator": "みやび",
+            "text": "うちはな",
+            "zh": "我啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "521/TALK",
+            "narrator": "みやび",
+            "text": "そういう話を軽々しく言うヤツは",
+            "zh": "把这种话随口说出来的人",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "522/TALK",
+            "narrator": "みやび",
+            "text": "大嫌いなんや",
+            "zh": "我最讨厌了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "535/TALK",
+            "narrator": "みやび",
+            "text": "…腹立たしいヤツや。",
+            "zh": "……真是个气人的家伙。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "536/TALK",
+            "narrator": "みやび",
+            "text": "まさか、なごちゃんの\nことを知っちゅうとは…。",
+            "zh": "……没想到，你居然知道\n七五的事……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "537/TALK",
+            "narrator": "みやび",
+            "text": "…やはり、うちを攪乱する\nために、管理庁が仕掛けて\nきた刺客か…？",
+            "zh": "……果然，是为了搅乱我，\n管理厅派来的\n刺客咩……？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "538/TALK",
+            "narrator": "みやび",
+            "text": "…いや、うちだけ\nピンポイントで狙われる\nようなこと――",
+            "zh": "……不，会专门\n盯上我一个人\n这种事——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "539/TALK",
+            "narrator": "みやび",
+            "text": "管理庁にした覚えないん\nやけんど…。",
+            "zh": "我不记得对管理厅\n做过什么，但是……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "540/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "541/TALK",
+            "narrator": "みやび",
+            "text": "やけんど――",
+            "zh": "但是——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "542/TALK",
+            "narrator": "みやび",
+            "text": "もしそうやとしたら、\nうちがやることは\n一つやね。",
+            "zh": "如果真是这样，\n我要做的\n只有一件咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "543/TALK",
+            "narrator": "みやび",
+            "text": "徹底抗戦や！",
+            "zh": "彻底抗战！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "555/TALK",
+            "narrator": "みやび",
+            "text": "賭けをせんか？",
+            "zh": "要不要打个赌咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "557/SEL",
+            "narrator": "",
+            "text": "賭けの内容は？",
+            "zh": "赌什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "558/ACT",
+            "narrator": "",
+            "text": "賭けの内容は？",
+            "zh": "赌什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "560/TALK",
+            "narrator": "みやび",
+            "text": "うちらがこの戦いに勝ったら",
+            "zh": "我们要是赢了这场",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "561/TALK",
+            "narrator": "みやび",
+            "text": "あんたのアカウントの秘密鍵をよこしや",
+            "zh": "就把你账号的私钥交出来",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "562/TALK",
+            "narrator": "みやび",
+            "text": "この条件を飲むなら、戦いを継続しちゃる",
+            "zh": "要是接受这个条件，我就给你把仗继续打下去",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "563/TALK",
+            "narrator": "みやび",
+            "text": "どうや？",
+            "zh": "怎么样？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "565/SEL",
+            "narrator": "",
+            "text": "もし負けたら？",
+            "zh": "要是输了呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "566/SEL",
+            "narrator": "",
+            "text": "いいよ",
+            "zh": "好啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "567/ACT",
+            "narrator": "",
+            "text": "もし負けたら？",
+            "zh": "要是输了呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "568/TALK",
+            "narrator": "みやび",
+            "text": "うちらが死ぬだけや",
+            "zh": "不过是我们去死而已",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "571/TALK",
+            "narrator": "みやび",
+            "text": "まあ、賭け言うたけんど",
+            "zh": "嘛，说是打赌，但是",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "572/TALK",
+            "narrator": "みやび",
+            "text": "勝った時はご褒美くれ言うことや",
+            "zh": "就是赢了要给报酬的意思",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "573/TALK",
+            "narrator": "みやび",
+            "text": "褒美の一つも出さんで、人を動かせる思うが？",
+            "zh": "一点报酬都不给，你觉得能支使人？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "575/SEL",
+            "narrator": "",
+            "text": "わかった、いいよ",
+            "zh": "知道了，好啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "576/ACT",
+            "narrator": "",
+            "text": "わかった、いいよ",
+            "zh": "知道了，好啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "578/ACT",
+            "narrator": "",
+            "text": "いいよ",
+            "zh": "好啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "580/TALK",
+            "narrator": "みやび",
+            "text": "決まりや",
+            "zh": "就这么定了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "581/TALK",
+            "narrator": "みやび",
+            "text": "あんたがどんなロジックで動いているか、今は見当もつかん",
+            "zh": "你是按什么逻辑在动，我现在完全没头绪",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "582/TALK",
+            "narrator": "みやび",
+            "text": "けんど、この戦いが終わったら、すぐに暴いちゃるき",
+            "zh": "但是，这仗打完，马上给你掀开啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "583/TALK",
+            "narrator": "みやび",
+            "text": "待っちょりや",
+            "zh": "等着",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "584/TALK",
+            "narrator": "みやび",
+            "text": "モチベーション上がってきた(^Д^)ｷﾞｬﾊ",
+            "zh": "干劲上来了(^Д^)ｷﾞｬﾊ",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "585/TALK",
+            "narrator": "みやび",
+            "text": "久々に戦い頑張れそうや",
+            "zh": "好久没这么想打一场了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "587/SEL",
+            "narrator": "",
+            "text": "勝ったら好きにしていいよ",
+            "zh": "赢了你想怎样都行",
+            "narrator_zh": ""
+        },
+        {
+            "location": "588/SEL",
+            "narrator": "",
+            "text": "絶対負けたりしないでね",
+            "zh": "绝对不许输啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "589/ACT",
+            "narrator": "",
+            "text": "勝ったら好きにしていいよ",
+            "zh": "赢了你想怎样都行",
+            "narrator_zh": ""
+        },
+        {
+            "location": "590/TALK",
+            "narrator": "みやび",
+            "text": "言質取ったきね",
+            "zh": "话我记下了啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "591/TALK",
+            "narrator": "みやび",
+            "text": "みやびさん",
+            "zh": "雅",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "592/TALK",
+            "narrator": "みやび",
+            "text": "本気モードで行くちや",
+            "zh": "认真模式上了滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "593/ACT",
+            "narrator": "",
+            "text": "絶対負けたりしないでね",
+            "zh": "绝对不许输啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "594/TALK",
+            "narrator": "みやび",
+            "text": "賭けの相手を心配？",
+            "zh": "担心打赌的对手？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "595/TALK",
+            "narrator": "みやび",
+            "text": "変なBotや",
+            "zh": "真是个怪Bot",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "596/TALK",
+            "narrator": "みやび",
+            "text": "まあえい",
+            "zh": "算了，得吧得吧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "597/TALK",
+            "narrator": "みやび",
+            "text": "賭けは賭けやし",
+            "zh": "赌就是赌",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "598/TALK",
+            "narrator": "みやび",
+            "text": "みやびさん",
+            "zh": "雅",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "599/TALK",
+            "narrator": "みやび",
+            "text": "本気モードで行くぞね",
+            "zh": "认真模式上了咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "613/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "616/TALK",
+            "narrator": "みやび",
+            "text": "よし、行くちや！！",
+            "zh": "好，上滴！！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "469/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>5月3日　2:07 PM</color>\nFreyMENOWライブ中に発生した\nフェノメノンドーム戦にて。",
+            "zh": "<color=green>5月3日　2:07 PM</color>\n发生在FreyMENOW演唱会中的\nPhenoMENON穹顶战。",
+            "narrator_zh": "Dialog_EventData"
+        }
+    ]
 }

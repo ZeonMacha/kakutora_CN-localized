@@ -1,0 +1,1050 @@
+{
+    "dir": "chap13/daydra/dd_ch04_13_101.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "13402",
+        "cid": "miyabi",
+        "title": "002 メインストーリー",
+        "sub_title": "穴へは飛び込むべきか＜前編＞",
+        "title_zh": "002 主线剧情",
+        "sub_title_zh": "该不该往洞里跳＜前篇＞"
+    },
+    "entry": [
+        {
+            "location": "8/SCENARIO",
+            "narrator": "",
+            "text": "うさぎと女王",
+            "zh": "兔子与女王",
+            "narrator_zh": ""
+        },
+        {
+            "location": "20/TALK",
+            "narrator": "みやび",
+            "text": "…そろそろ時間やな。",
+            "zh": "…差不多到时间了咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "24/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "ウサギ、始めてもいいか？",
+            "zh": "兔子，可以开始了吗？",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "26/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "お疲れ様です、いつでもどうぞ",
+            "zh": "辛苦了，随时可以开始",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "28/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "うむ",
+            "zh": "嗯",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "29/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "先日発生したフェノメノンを解析した際に",
+            "zh": "前些天解析那起PhenoMENON时",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "30/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "新たな事実が発覚した",
+            "zh": "查明了一个新事实",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "フェノメノンについてですか？",
+            "zh": "是关于PhenoMENON的事吗？",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "34/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "いや",
+            "zh": "不",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "35/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "トライナリーについてだ",
+            "zh": "是关于三重奏的",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "37/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "仮に、世間で噂されている通り",
+            "zh": "假设，就按世间传言的那样",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "38/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "彼女たち、と仮定する",
+            "zh": "假定『她们』存在",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "39/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "彼女たちはフェノメノン内で戦闘する際に",
+            "zh": "她们在PhenoMENON内战斗时",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "40/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "特殊なアイテムを使っていること",
+            "zh": "会使用特殊道具这一点",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "41/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "前に話したと思うが、覚えているか？",
+            "zh": "之前应该说过，还记得吧？",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "43/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "FatalQueenが以前ハッキングに成功し",
+            "zh": "FatalQueen之前成功入侵",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "44/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "謎のAPIの存在を確認したというアレですね？",
+            "zh": "确认了神秘API存在的那件事吧？",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "46/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "そうだ",
+            "zh": "没错",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "47/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "その際に、どこかへ通信していること",
+            "zh": "以及当时它正向某处通信这一点",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "49/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "その結果、何らかの処理を行っているらしいこともわかったのだが",
+            "zh": "虽然也已经查明，对方似乎在据此进行某种处理",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "50/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "今回、そのAPIをトレースした結果",
+            "zh": "这次，追踪那个API的结果",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "52/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "いくつかの挙動を確認することに成功した",
+            "zh": "成功确认到了几个动作",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "53/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "それが何を意味するかはわかるな？",
+            "zh": "这代表什么，你明白吧？",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "フェノメノンで作用しているということは",
+            "zh": "既然是在PhenoMENON中起作用",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "57/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "そのアイテムと",
+            "zh": "就说明那个道具",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "58/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "フェノメノンは",
+            "zh": "和PhenoMENON",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "何かしらの関係がある",
+            "zh": "之间存在某种关系",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "ということでしょうか？",
+            "zh": "是这个意思吗？",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "62/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "その通り",
+            "zh": "正是如此",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "例えばの話だが",
+            "zh": "打个比方",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "ゲームソフトを作ったとしよう",
+            "zh": "假设做了一款游戏软件",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "66/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "そのゲームの世界に新たな３Ｄモデルを投下するには",
+            "zh": "要想在那个游戏的世界里投放新的3D模型",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "67/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "ゲームソフトプログラム側の「協力」が必要不可欠になる",
+            "zh": "游戏软件程序一方的「配合」必不可少",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "69/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "つまりトライナリーがフェノメノン内部で自由にアクションを起こせるのは",
+            "zh": "也就是说，三重奏之所以能在PhenoMENON内部自由行动",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "70/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "フェノメノンという世界のアルゴリズムと",
+            "zh": "是因为PhenoMENON这个世界的算法",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "71/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "そのアイテムが",
+            "zh": "和那个道具",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "72/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "繋がっているからと考えられる",
+            "zh": "连在一起——只能这么认为",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "74/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "今の話からすると",
+            "zh": "照刚才的话来说",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "75/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "Queenはトライナリーのことを",
+            "zh": "在Queen看来，三重奏",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "フェノメノンの一部だとお思いなのですか？",
+            "zh": "是PhenoMENON的一部分吗？",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "78/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "可能性はある",
+            "zh": "有这个可能",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "80/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "ですが",
+            "zh": "但是",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "落ち着け",
+            "zh": "冷静",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "まだ確証はない",
+            "zh": "还没有确证",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "あくまでも可能性の一つというだけだ",
+            "zh": "说到底不过是可能性之一罢了",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "88/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "今はそれ以上何も言えないが",
+            "zh": "现在虽然无法再说什么",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "89/TALK",
+            "narrator": "フェイタルクイーン",
+            "text": "その可能性があるというのを覚えておいてほしい",
+            "zh": "但希望你们记住，这种可能性是存在的",
+            "narrator_zh": "致命女王"
+        },
+        {
+            "location": "91/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "わかりました",
+            "zh": "我知道了",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "ラビットアニマ",
+            "text": "では、また次の日時に",
+            "zh": "那么，下次约定的时间再会",
+            "narrator_zh": "兔之阿尼玛"
+        },
+        {
+            "location": "93/TALK",
+            "narrator": "システム",
+            "text": "『RabbitAnimaが退出しました』",
+            "zh": "『RabbitAnima已退出』",
+            "narrator_zh": "系统"
+        },
+        {
+            "location": "95/TALK",
+            "narrator": "みやび",
+            "text": "…トライナリーが\nフェノメノンの一部、\nか…。",
+            "zh": "…三重奏是\nPhenoMENON的一部分，\n……咩……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "96/TALK",
+            "narrator": "みやび",
+            "text": "自分で言うてて\nゾッとする話やね。",
+            "zh": "自己说出来\n都觉得发毛咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "97/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "98/TALK",
+            "narrator": "みやび",
+            "text": "ちゅうか、ウサギとも\n大分長い付き合いに\nなっちょるなぁ…。",
+            "zh": "话说，跟兔子的\n交情也处得\n相当久了啊……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "99/TALK",
+            "narrator": "みやび",
+            "text": "最初の頃は、こんな\n頻繁にやり取りも\nせんかったし。",
+            "zh": "最开始的时候，\n可没这么\n频繁地来往过。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "みやび",
+            "text": "まあ、雑談なんぞ\nする関係やない\nけんども――",
+            "zh": "嘛，本来就不是\n闲聊驷马的\n关系，但是——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "みやび",
+            "text": "まっこと、距離感\n縮まったなぁ…。",
+            "zh": "真是，距离感\n拉近了不少啊……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "みやび",
+            "text": "リアルで会うても、\n意外と楽しめるかも\nしれんな…。",
+            "zh": "就算在现实里见面，\n说不定也会\n意外地开心……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "105/TALK",
+            "narrator": "みやび",
+            "text": "いや、いかんいかん。\nハッカーがリアルで\n会うのはご法度や。",
+            "zh": "不行不行。\n黑客在现实里\n见面是大忌咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "106/TALK",
+            "narrator": "みやび",
+            "text": "それに、高度な知識と\n渋いコードから見て、\n確実にオッサンやし。",
+            "zh": "再说，凭那高深的知识\n和一身老成的代码，\n百分百是大叔。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "107/TALK",
+            "narrator": "みやび",
+            "text": "うさぎなんて呼んじゅう\nけんど、そう考えると\n妙な気分になるね。",
+            "zh": "虽然管它叫兔子了，\n但是这么一想，\n心情就变得妙咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "108/TALK",
+            "narrator": "みやび",
+            "text": "これもまた\nバーチャルワールドの\n功罪か……。",
+            "zh": "这也是\n虚拟世界的\n功罪……咩……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "110/TALK",
+            "narrator": "みやび",
+            "text": "と、こんなこと思うて\nしまうとは、\nうちらしくない…。",
+            "zh": "唉，居然会冒出\n这种念头，\n真不像我们……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "111/TALK",
+            "narrator": "みやび",
+            "text": "…信頼し過ぎて、\nちくっと距離縮め\n過ぎたか？",
+            "zh": "…是太信赖对方，\n距离拉得\n有点太近了咩……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "112/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "113/TALK",
+            "narrator": "みやび",
+            "text": "やり取りする回数、\n減らした方がえいかも\nしれんなぁ…。",
+            "zh": "来往的次数，\n或许还是减少点\n比较好啊……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "156/TALK",
+            "narrator": "みやび",
+            "text": "さあ、どこからでも\nかかってきいや！",
+            "zh": "来吧，不管从哪儿\n尽管放马过来咧！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "177/TALK",
+            "narrator": "みやび",
+            "text": "はあっ！\nえいタップや！",
+            "zh": "哈啊！\n好一记点击！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "181/TALK",
+            "narrator": "みやび",
+            "text": "もうこれ以上大きく\nなりたくないき、\nあまり触らんといてや。",
+            "zh": "已经不想再\n变得更大了啵，\n别碰得太勤啊。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "185/TALK",
+            "narrator": "みやび",
+            "text": "子供を身ごもると\n旦那に毎日こんな感じで\n触られるんかね……。",
+            "zh": "怀孕的女人，\n是不是每天都会\n被老公这样摸咩……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "189/TALK",
+            "narrator": "みやび",
+            "text": "みやびさん\n６ポイントゲット。",
+            "zh": "雅小姐\n获得６点。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "190/SEL",
+            "narrator": "",
+            "text": "ここ最近本末転倒じゃない？",
+            "zh": "最近这不是本末倒置吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "191/SEL",
+            "narrator": "",
+            "text": "毎回みやびを触れて嬉しい",
+            "zh": "每次都能摸到雅，好开心",
+            "narrator_zh": ""
+        },
+        {
+            "location": "192/ACT",
+            "narrator": "",
+            "text": "ここ最近本末転倒じゃない？",
+            "zh": "最近这不是本末倒置吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "193/TALK",
+            "narrator": "みやび",
+            "text": "そこに気づくとは、\nおぬし、ただ者では\nないな。",
+            "zh": "能注意到这点，\n你这人，\n可不简单啊。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "194/TALK",
+            "narrator": "みやび",
+            "text": "さよう。\n本来これは、うちを叩き\n起こすのが目的だった。",
+            "zh": "正是。\n这功能本来是\n拿来把我敲醒的。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "195/TALK",
+            "narrator": "みやび",
+            "text": "けんど今は、うちが\n楽しむために、敢えて\nお前さんにやらせちょる。",
+            "zh": "但是现在，我为了\n自己享受，才特意\n让你来做着。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "196/ACT",
+            "narrator": "",
+            "text": "毎回みやびを触れて嬉しい",
+            "zh": "每次都能摸到雅，好开心",
+            "narrator_zh": ""
+        },
+        {
+            "location": "197/TALK",
+            "narrator": "みやび",
+            "text": "……またそういうことを\nシレッと言いおって。",
+            "zh": "……又这样若无其事地\n说出这种话来。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "198/TALK",
+            "narrator": "みやび",
+            "text": "できることなら、\n面と向かって真顔で言って\nもらいたいものやね。",
+            "zh": "可以的话，真希望\n你当面绷着脸\n说出来咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "201/TALK",
+            "narrator": "みやび",
+            "text": "とまあ戯れ言は置いておき\n１７ポイントになった\nわけやけんど――",
+            "zh": "好了，玩笑话先放一边，\n点数攒到１７了，\n就是这么回事，但是——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "206/TALK",
+            "narrator": "みやび",
+            "text": "素数になったので、\nみやびさん、\n２回目の報酬をゲット！",
+            "zh": "凑成质数了，\n雅小姐，\n领取第二次报酬！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "207/SEL",
+            "narrator": "",
+            "text": "早くないすか？",
+            "zh": "这也太快了吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "208/ACT",
+            "narrator": "",
+            "text": "早くないすか？",
+            "zh": "这也太快了吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "210/TALK",
+            "narrator": "みやび",
+            "text": "速度は計算式に\n含まれては\nおらんからな。",
+            "zh": "速度可没有\n被算进\n计算式里啊。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "211/TALK",
+            "narrator": "みやび",
+            "text": "で、今回の賞品は、\nお前さんの労働力や。",
+            "zh": "然后，这次的奖品，\n就是你的劳动力。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "212/SEL",
+            "narrator": "",
+            "text": "何をするの？",
+            "zh": "要做什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "213/SEL",
+            "narrator": "",
+            "text": "ちゅーする労働？",
+            "zh": "亲嘴的劳动？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "214/ACT",
+            "narrator": "",
+            "text": "何をするの？",
+            "zh": "要做什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "215/TALK",
+            "narrator": "みやび",
+            "text": "焦らんでも、\n労働は逃げはせんよ。",
+            "zh": "不用急，\n劳动又跑不掉的。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "216/ACT",
+            "narrator": "",
+            "text": "ちゅーする労働？",
+            "zh": "亲嘴的劳动？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "218/TALK",
+            "narrator": "みやび",
+            "text": "一体どうゆう育ち方\nしてきたのやろか。",
+            "zh": "你到底是受的驷马教育长大的\n……咩……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "223/TALK",
+            "narrator": "みやび",
+            "text": "がしかし！\n賞品をもらうのは後や。",
+            "zh": "但是呢！\n领奖品是之后的事。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "224/TALK",
+            "narrator": "みやび",
+            "text": "まずは、うちの仕事を\nやってまおうかね。",
+            "zh": "首先，先把我手头的活\n干完来吧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "231/TALK",
+            "narrator": "みやび",
+            "text": "オープンプロセス、\n0x492番地から\n0x559番地へ。",
+            "zh": "开放进程，\n从0x492地址\n到0x559地址。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "246/TALK",
+            "narrator": "みやび",
+            "text": "完了。",
+            "zh": "完成。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "247/TALK",
+            "narrator": "みやび",
+            "text": "さて問題や。\n今回のうちを見て\nどう思う？",
+            "zh": "那么，出题。\n这次的我，\n你觉得怎么样？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "248/SEL",
+            "narrator": "",
+            "text": "警戒心が強い",
+            "zh": "警惕性很强",
+            "narrator_zh": ""
+        },
+        {
+            "location": "249/SEL",
+            "narrator": "",
+            "text": "主題がズレてる",
+            "zh": "主题跑偏了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "250/SEL",
+            "narrator": "",
+            "text": "相変わらず胸がでかい",
+            "zh": "胸还是那么大",
+            "narrator_zh": ""
+        },
+        {
+            "location": "251/ACT",
+            "narrator": "",
+            "text": "警戒心が強い",
+            "zh": "警惕性很强",
+            "narrator_zh": ""
+        },
+        {
+            "location": "252/TALK",
+            "narrator": "みやび",
+            "text": "いや、逆やろ。\n警戒心ガバガバや。",
+            "zh": "不，反了才对。\n我的警惕性松得很咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "253/ACT",
+            "narrator": "",
+            "text": "主題がズレてる",
+            "zh": "主题跑偏了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "254/TALK",
+            "narrator": "みやび",
+            "text": "お。なかなか\nえい筋しちゅうね。",
+            "zh": "哦。你这眼光\n相当不错咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "255/ACT",
+            "narrator": "",
+            "text": "相変わらず胸がでかい",
+            "zh": "胸还是那么大",
+            "narrator_zh": ""
+        },
+        {
+            "location": "256/TALK",
+            "narrator": "みやび",
+            "text": "出よったな、\nオッパイ星人め。",
+            "zh": "果然来了，\n你这欧派星人。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "258/TALK",
+            "narrator": "みやび",
+            "text": "今回のうちやけんど、\n困ったことに、本末転倒な\n事になっちゅう。",
+            "zh": "这次的我吧，\n伤脑筋的是，事情\n变得本末倒置着呢。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "259/TALK",
+            "narrator": "みやび",
+            "text": "ハッカー相手に警戒心を\n持つのは当然やけんど、\nそれは頻度の問題やない。",
+            "zh": "对黑客保持警惕\n是当然的，但是，\n那不是频率的问题。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "260/TALK",
+            "narrator": "みやび",
+            "text": "今の自分は、何かが\n引っかかって、それすら\n解らんくなっちゅうがね。",
+            "zh": "现在的我，心里\n卡着点什么，连那\n是什么都没懂了啊。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "261/TALK",
+            "narrator": "みやび",
+            "text": "やき、\nクランを倒してすっと\nうちの目を醒まさせい。",
+            "zh": "所以啵，\n利落地打倒库兰，\n让我睁开眼睛咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "262/TALK",
+            "narrator": "みやび",
+            "text": "これが今回の\nミッションや。",
+            "zh": "这就是这次的\n任务了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "263/SEL",
+            "narrator": "",
+            "text": "で、賞品の件は？",
+            "zh": "那，奖品的事呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "264/ACT",
+            "narrator": "",
+            "text": "で、賞品の件は？",
+            "zh": "那，奖品的事呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "270/TALK",
+            "narrator": "みやび",
+            "text": "おおっ、\n自己申告とは\nなかなかやるな。",
+            "zh": "哦哦，\n居然自己讨要，\n挺行啊。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "271/TALK",
+            "narrator": "みやび",
+            "text": "ほんだらご期待に応えて、\n今回うちがもらう賞品を\n教えちゃろう。",
+            "zh": "那就满足你的期待，\n把这次我要领的奖品\n说给你听咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "272/TALK",
+            "narrator": "みやび",
+            "text": "うちのハッキングを\n手伝う助手になりや。",
+            "zh": "来当帮我入侵的\n助手咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "273/SEL",
+            "narrator": "",
+            "text": "何をハッキングするの？",
+            "zh": "要入侵什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "274/ACT",
+            "narrator": "",
+            "text": "何をハッキングするの？",
+            "zh": "要入侵什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "276/TALK",
+            "narrator": "みやび",
+            "text": "うちのココロや。",
+            "zh": "是我的心。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "277/SEL",
+            "narrator": "",
+            "text": "どういうこと？",
+            "zh": "什么意思？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "278/ACT",
+            "narrator": "",
+            "text": "どういうこと？",
+            "zh": "什么意思？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "280/TALK",
+            "narrator": "みやび",
+            "text": "額面通り。\nうちのココロを\nクラックするちや。",
+            "zh": "按字面意思。\n就是把我的心\n破解掉滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "281/SEL",
+            "narrator": "",
+            "text": "司書だよね？",
+            "zh": "你是司书吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "282/SEL",
+            "narrator": "",
+            "text": "もしかして、本当はみやびの人格ではない？",
+            "zh": "该不会，其实不是雅的人格？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "283/ACT",
+            "narrator": "",
+            "text": "司書だよね？",
+            "zh": "你是司书吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "284/TALK",
+            "narrator": "みやび",
+            "text": "もちろん。\nけんど、司書だって\n見られないものはある。",
+            "zh": "当然。\n但是，就算是司书，\n也有看不到的东西。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "285/ACT",
+            "narrator": "",
+            "text": "もしかして、本当はみやびの人格ではない？",
+            "zh": "该不会，其实不是雅的人格？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "286/TALK",
+            "narrator": "みやび",
+            "text": "飛躍しすぎや。",
+            "zh": "你想得太远了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "287/TALK",
+            "narrator": "みやび",
+            "text": "うちは司書やけんど、\n全てのココロを見られる\nわけやない。",
+            "zh": "我虽然是司书，\n但并不是\n什么心都能看到的。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "289/TALK",
+            "narrator": "みやび",
+            "text": "そんな閉架された\nココロを見る為に\nクラックするわけや。",
+            "zh": "正是为了看到那种\n封闭起来的心，\n才要破解的。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "290/SEL",
+            "narrator": "",
+            "text": "でも、何で急に？",
+            "zh": "但是，为什么突然？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "291/SEL",
+            "narrator": "",
+            "text": "嫌だと言ったら？",
+            "zh": "要是我说不干呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "292/ACT",
+            "narrator": "",
+            "text": "でも、何で急に？",
+            "zh": "但是，为什么突然？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "293/TALK",
+            "narrator": "みやび",
+            "text": "急でもなんでもない。\nずっと前から\n何も変わっちょらんよ。",
+            "zh": "一点也不突然。\n很久以前起\n就什么都没变过。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "294/TALK",
+            "narrator": "みやび",
+            "text": "ただ……",
+            "zh": "只是……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "295/TALK",
+            "narrator": "みやび",
+            "text": "お前さんが、言うに値する\n存在かどうか、見定めて\nいただけや。",
+            "zh": "只是想看准，\n你算不算得上\n值得说的存在罢了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "296/ACT",
+            "narrator": "",
+            "text": "嫌だと言ったら？",
+            "zh": "要是我说不干呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "297/TALK",
+            "narrator": "みやび",
+            "text": "今までうちに触ったのを\n全部詳細に記述して、\n事案として告発する。",
+            "zh": "把你至今摸过我的\n全部详细记录下来，\n作为案件告发。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "298/TALK",
+            "narrator": "みやび",
+            "text": "ブタバコに入って人生を\n棒に振るか、JKと楽しく\nハッキングするか――",
+            "zh": "是坐牢把人生\n搭进去，还是跟JK\n开开心心地搞入侵——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "299/TALK",
+            "narrator": "みやび",
+            "text": "じっくり考えて\n答えを出しいや。",
+            "zh": "好好想清楚，\n再给我答案咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "304/TALK",
+            "narrator": "みやび",
+            "text": "とにかく、\nそうゆうわけやき。\n詳細はまた今度な。",
+            "zh": "总之，\n就是这么回事啵。\n详情下次再说。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "305/TALK",
+            "narrator": "みやび",
+            "text": "今回は、うちの錯乱を\nしっかり対処しいや。",
+            "zh": "这次，就把我的\n错乱好好处理掉咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "307/TALK",
+            "narrator": "みやび",
+            "text": "うちと$handle$に\nえいココロの旅を。",
+            "zh": "献给我和$handle$的\n美妙的心灵之旅。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "19/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>6月21日　9:47 PM</color>\nとある平日の夜、寮「とらいあんぐる」みやびの部屋。",
+            "zh": "<color=green>6月21日　9:47 PM</color>\n某个平常的夜晚，宿舍“三角”雅的房间。",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "125/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch04",
+            "text": "<color=black><size=50><b>恋ヶ崎みやびのココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n恋ヶ崎みやびの心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>恋之崎雅的心中\n战斗开始了。</b></size></color>\n\n\n\n\n\n她的心中，\n产生了很大的挣扎。\n\n请潜入心灵领域，\n化解恋之崎雅心中的挣扎。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch04"
+        },
+        {
+            "location": "162/DIALOG",
+            "narrator": "INFO",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n接続されました。\n\n画面をタップして相手に\n感覚を伝えましょう。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已连接。\n\n点击画面，向对方\n传达感觉吧。",
+            "narrator_zh": "INFO"
+        },
+        {
+            "location": "188/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n切断されました。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已断开。",
+            "narrator_zh": "NOTICE"
+        }
+    ]
+}

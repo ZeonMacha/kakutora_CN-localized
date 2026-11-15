@@ -1,0 +1,903 @@
+{
+    "dir": "chap16/daydra/dd_ch04_16_020.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "16456",
+        "cid": "miyabi",
+        "title": "Extra006 プレミアムストーリー",
+        "sub_title": "ギャルメイク",
+        "title_zh": "Extra006 额外剧情",
+        "sub_title_zh": "辣妹妆"
+    },
+    "entry": [
+        {
+            "location": "251/SCENARIO",
+            "narrator": "",
+            "text": "ギャルメイク",
+            "zh": "辣妹妆",
+            "narrator_zh": ""
+        },
+        {
+            "location": "268/TALK",
+            "narrator": "みやび",
+            "text": "…ギャルメイク、か。",
+            "zh": "……辣妹妆，啊。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "270/TALK",
+            "narrator": "繭",
+            "text": "っ！？",
+            "zh": "！？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "272/TALK",
+            "narrator": "雛",
+            "text": "な、なんですか！？\nどうしたんですか\nいきなり！？",
+            "zh": "什、什么呀！？\n怎么突然\n来这个！？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "275/TALK",
+            "narrator": "みやび",
+            "text": "いや…さっきまで\n隣に座ってた子達\nやけんど――",
+            "zh": "不是……刚才坐在\n旁边的那几个孩子\n来着，但是——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "276/TALK",
+            "narrator": "みやび",
+            "text": "すっっっっごい、\nギャルメイクや\nなかった？",
+            "zh": "超————级夸张的\n辣妹妆，\n不是咯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "279/TALK",
+            "narrator": "つばめ",
+            "text": "あっ、みやびさんも\nそう思いました？",
+            "zh": "啊，雅也\n这么觉得吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "280/TALK",
+            "narrator": "つばめ",
+            "text": "わたしも、気になって\nずっとチラチラ見ちゃって\nました。",
+            "zh": "我也很在意，\n一直偷偷\n瞄个不停来着。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "282/TALK",
+            "narrator": "雛",
+            "text": "この店であそこまで\n凄いギャルを見たの、\n初めてじゃないかな？",
+            "zh": "在这店里看到\n那么夸张的辣妹，\n还是头一回吧？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "283/TALK",
+            "narrator": "雛",
+            "text": "お召し列車級かも\nしれないよ。",
+            "zh": "搞不好是\n御召列车级别的哦。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "285/TALK",
+            "narrator": "つばめ",
+            "text": "おしめ列車？",
+            "zh": "御召列车？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "287/TALK",
+            "narrator": "雛",
+            "text": "お召し列車！\n天皇陛下とかが使う\n特別な列車のことだよ。",
+            "zh": "御召列车！\n就是天皇陛下之类\n乘坐的特别列车哦。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "290/TALK",
+            "narrator": "繭",
+            "text": "そこまでレアでは\nないと思う。",
+            "zh": "我觉得没\n那么稀有。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "292/TALK",
+            "narrator": "繭",
+            "text": "多分、貨物列車くらい？",
+            "zh": "大概，货运列车级别？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "294/TALK",
+            "narrator": "雛",
+            "text": "ん～…\nそんなもんかなぁ？",
+            "zh": "唔～……\n是那样吗？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "295/TALK",
+            "narrator": "雛",
+            "text": "でも、みやび先輩。\nそんなにあの人達が\n気になってたんですか？",
+            "zh": "可是雅前辈，\n那些人真有那么\n让你在意吗？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "297/TALK",
+            "narrator": "みやび",
+            "text": "あの人達やのうて、\nあの二人のメイクが\n気になったんよ…。",
+            "zh": "在意的不是那些人，\n是那两个人的妆\n让我在意咯……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "299/TALK",
+            "narrator": "みやび",
+            "text": "ちっくと、面白そうやき、\nやってみるんも\nえいかもしれん、ってな。",
+            "zh": "稍微觉得挺有意思嘛，\n就想着试试\n说不定也好，就这样咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "302/TALK",
+            "narrator": "つばめ",
+            "text": "えっ！？",
+            "zh": "诶！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "303/TALK",
+            "narrator": "雛",
+            "text": "みやび先輩が！？",
+            "zh": "雅前辈！？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "305/TALK",
+            "narrator": "繭",
+            "text": "だ、ダメです！！\nそんなの絶対に\n認められません！",
+            "zh": "不、不行！！\n那种事绝对\n不能认可！",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "306/TALK",
+            "narrator": "繭",
+            "text": "そもそも、みやび先輩は\nギャルメイクのことを\nどれくらいご存知ですか？",
+            "zh": "话说回来，雅前辈\n对辣妹妆\n究竟了解多少？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "309/TALK",
+            "narrator": "みやび",
+            "text": "ど素人やね。",
+            "zh": "完全是外行咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "310/TALK",
+            "narrator": "繭",
+            "text": "あのメイクは、するのに\nとてつもなく時間が\n掛かります。",
+            "zh": "那种妆，化起来\n要花非常多的\n时间。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "312/TALK",
+            "narrator": "繭",
+            "text": "慣れている人であっても、\n一時間くらい掛ける人が\n多いんですよ？",
+            "zh": "就算是熟练的人，\n花一个小时左右的\n也大有人在哦？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "315/TALK",
+            "narrator": "みやび",
+            "text": "そんなに掛かるが！？",
+            "zh": "要花那么久咯！？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "317/TALK",
+            "narrator": "みやび",
+            "text": "…面倒くさいっちゅう\n気持ちより、毎日そんなに\n時間掛けてまで――",
+            "zh": "……比起嫌麻烦的\n心情，每天肯花\n那么多时间——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "319/TALK",
+            "narrator": "みやび",
+            "text": "しっかりメイクしよう\n思う気持ちに、尊敬を\n覚えるちや。",
+            "zh": "认真化妆的这份\n心思，我反倒\n肃然起敬滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "321/TALK",
+            "narrator": "つばめ",
+            "text": "じゃあ、やったことない\nみやびさんじゃ、もっと\n時間が掛かるんじゃ…？",
+            "zh": "那没化过的雅，\n岂不是要花\n更久……？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "322/TALK",
+            "narrator": "繭",
+            "text": "二時間は考えた方が\n良いかと。",
+            "zh": "我觉得要\n按两小时算。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "323/TALK",
+            "narrator": "繭",
+            "text": "ちなみに、みやび先輩は\n普段どの程度時間を\n掛けていますか？",
+            "zh": "顺便问下，雅前辈\n平时化妆\n花多少时间？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "325/TALK",
+            "narrator": "みやび",
+            "text": "あっという間やね。\n適当にチャチャッと\nやるだけやき――",
+            "zh": "一瞬间的事咯。\n随便胡乱抹两下\n就完事嘛——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "326/TALK",
+            "narrator": "みやび",
+            "text": "一時間や二時間、\n鏡の前に座るなんて\n無理やね。",
+            "zh": "一两个小时，\n让我坐在镜子跟前？\n不可能咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "327/TALK",
+            "narrator": "雛",
+            "text": "普通はそうですよ。\nあたしだってそんなの\n無理ですし…。",
+            "zh": "一般人都是那样。\n连我都做不到\n那种事……。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "329/TALK",
+            "narrator": "つばめ",
+            "text": "わたしも、出来たとして\n三十分くらいが限界かも。",
+            "zh": "我也一样，就算可以，\n极限大概三十分钟。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "331/TALK",
+            "narrator": "つばめ",
+            "text": "…まあ、三十分もどこに\n掛ければいいのかは\nわからないけど。",
+            "zh": "……不过这三十分\n该花在哪里，\n我完全不知道。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "332/TALK",
+            "narrator": "雛",
+            "text": "そうだよねー。",
+            "zh": "就是说嘛——。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "335/TALK",
+            "narrator": "みやび",
+            "text": "その点は見習わんと\nいかんかもしれんね。",
+            "zh": "这方面我可能\n也该学着点咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "336/TALK",
+            "narrator": "みやび",
+            "text": "時間掛けて、少しでも\n自分を綺麗に見せよう\n思うてる証拠やし。",
+            "zh": "肯花时间，就是想把\n自己弄得更漂亮\n一点的证明嘛。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "337/TALK",
+            "narrator": "繭",
+            "text": "…まあ、きっかけは\nどうかと思いますが――",
+            "zh": "……嘛，虽然\n起因不敢恭维——",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "338/TALK",
+            "narrator": "繭",
+            "text": "見た目を綺麗にする\n努力をしようと思うのは、\n素敵なことだと思います。",
+            "zh": "但想要努力\n让外表变漂亮这件事，\n我认为是很美好的。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "341/TALK",
+            "narrator": "みやび",
+            "text": "そう思うてくれるか？",
+            "zh": "你会这么想咯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "344/TALK",
+            "narrator": "繭",
+            "text": "はい…特に、その…\nみやび先輩は、もともと\nとても綺麗なので――",
+            "zh": "是……特别是，那个……\n雅前辈本来\n就非常漂亮——",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "345/TALK",
+            "narrator": "繭",
+            "text": "それを活かすメイクを\nすれば、もっと素敵に\nなると思いますし…。",
+            "zh": "要是化能把这份\n漂亮发挥出来的妆，\n我想会更出彩……。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "347/TALK",
+            "narrator": "みやび",
+            "text": "…なるほど。",
+            "zh": "……原来如此。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "348/TALK",
+            "narrator": "みやび",
+            "text": "…ちっくと調べてみるき。",
+            "zh": "……我去稍微查一下啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "360/TALK",
+            "narrator": "みやび",
+            "text": "と言いつつ、うちは相棒に話しかけるのやった…",
+            "zh": "话虽这么说，其实我是该找搭档聊的……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "362/SEL",
+            "narrator": "",
+            "text": "化粧するの？",
+            "zh": "要化妆吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "363/ACT",
+            "narrator": "",
+            "text": "化粧するの？",
+            "zh": "要化妆吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "365/TALK",
+            "narrator": "みやび",
+            "text": "ちっくと興味がわいてな",
+            "zh": "稍微有点兴趣上来了嘛",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "366/TALK",
+            "narrator": "みやび",
+            "text": "みんなには、元を活かしたメイクを調べる言うたけんど",
+            "zh": "跟大家说的是要查查凸显底子的妆，但是",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "367/TALK",
+            "narrator": "みやび",
+            "text": "やっぱし、こういうのは相棒に聞いた方が面白いこと言うてくれそうやきね",
+            "zh": "果然这种事还是问搭档，比较能听到有意思的说法啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "368/TALK",
+            "narrator": "みやび",
+            "text": "で、どう思うん？",
+            "zh": "那，你怎么想咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "369/TALK",
+            "narrator": "みやび",
+            "text": "うちにはどんなメイクが似合うと思う？",
+            "zh": "你觉得驷马妆适合我？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "371/SEL",
+            "narrator": "",
+            "text": "いっそギャルメイクを",
+            "zh": "干脆来个辣妹妆",
+            "narrator_zh": ""
+        },
+        {
+            "location": "372/SEL",
+            "narrator": "",
+            "text": "今くらいが一番だよ",
+            "zh": "现在这样最好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "373/SEL",
+            "narrator": "",
+            "text": "化粧はしない方が良い",
+            "zh": "还是不化妆的好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "374/ACT",
+            "narrator": "",
+            "text": "いっそギャルメイクを",
+            "zh": "干脆来个辣妹妆",
+            "narrator_zh": ""
+        },
+        {
+            "location": "376/TALK",
+            "narrator": "みやび",
+            "text": "まあ、面白そうとは思うけんど、いかんせん時間が掛かるんがネックやし…",
+            "zh": "嘛，虽然觉得挺有意思，但毕竟费时间是个硬伤嘛……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "377/TALK",
+            "narrator": "みやび",
+            "text": "けんど、一度くらいはしてみるんも、悪くなさそうやね",
+            "zh": "但是，试一次好像也不坏咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "388/TALK",
+            "narrator": "みやび",
+            "text": "…やっぱり、一回くらい\nギャルメイクちゅうのを\n試そうと思うちや。",
+            "zh": "……果然，还是想\n试一次辣妹妆\n什么的滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "391/TALK",
+            "narrator": "繭",
+            "text": "何故そこに戻るん\nですか！？",
+            "zh": "为什么又绕回去\n了啊！？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "394/TALK",
+            "narrator": "みやび",
+            "text": "何事も経験やき、\n一回くらいはえいと\n思うたんよ。",
+            "zh": "凡事都是经验嘛，\n我就想着试一次\n也好咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "395/TALK",
+            "narrator": "雛",
+            "text": "う～ん…一回かぁ…。",
+            "zh": "唔～……一次啊……。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "396/TALK",
+            "narrator": "雛",
+            "text": "一回だけなら、\nあたしもいいと思うなぁ。",
+            "zh": "就一次的话，\n我觉得也行啊。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "399/TALK",
+            "narrator": "つばめ",
+            "text": "でも、その一回で\n凄く気に入ったら――",
+            "zh": "可是，要是就那一次\n喜欢得不行——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "400/TALK",
+            "narrator": "つばめ",
+            "text": "一回じゃすまなくなる\nかもしれないよ？",
+            "zh": "恐怕就不止一次\n就能收场的哦？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "403/TALK",
+            "narrator": "みやび",
+            "text": "何度もやるなんてこと、\n面倒くさがり屋のうちには\nありえんことやきね。",
+            "zh": "反复弄好几遍这种事，\n对怕麻烦的我来说\n是不可能的啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "405/TALK",
+            "narrator": "繭",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "407/TALK",
+            "narrator": "繭",
+            "text": "勇気があるのですね。\n多大なデメリットを\n抱えているというのに――",
+            "zh": "真有勇气呢。\n明明背负着\n巨大的坏处——",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "409/TALK",
+            "narrator": "繭",
+            "text": "好奇心に負けて、\nギャルメイクをする\nなんて。",
+            "zh": "居然会输给好奇心，\n去搞辣妹妆\n什么的。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "411/TALK",
+            "narrator": "みやび",
+            "text": "ほう…どの当たりが\nデメリットなのか、\n聞かせてもらえるか？",
+            "zh": "哦……哪一条\n算是坏处，\n能说给我听听咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "412/TALK",
+            "narrator": "みやび",
+            "text": "言うておくが、学園に\nしていくつもりは\nないんよ？",
+            "zh": "先说好，我可没打算\n把它搞成\n学园哦？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "414/TALK",
+            "narrator": "繭",
+            "text": "だとしても、みやび先輩の\n性格から考えて――",
+            "zh": "就算这样，从雅前辈的\n性格来考虑——",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "415/TALK",
+            "narrator": "繭",
+            "text": "ギャルメイクをした日、\n一日部屋で生活する\nとは考えられません。",
+            "zh": "化辣妹妆的那天，\n不可能一整天\n闷在房间里。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "416/TALK",
+            "narrator": "繭",
+            "text": "絶対に、寮の方達には\n見せて回り、反応を\n楽しむかと予想します。",
+            "zh": "我预测，你绝对会\n拿去给宿舍众人看，\n享受她们的反应。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "418/TALK",
+            "narrator": "つばめ",
+            "text": "…みやびさんなら、\n確かにやりそうかも。",
+            "zh": "……要是雅的话，\n确实真干得出来。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "420/TALK",
+            "narrator": "みやび",
+            "text": "…まあ、それくらいは\nせんと、面白くないきね。",
+            "zh": "……嘛，不做到\n那个份上，就没意思了啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "421/TALK",
+            "narrator": "みやび",
+            "text": "けんど、それのどこに\nデメリットがあるん？",
+            "zh": "但是，这里面\n哪来的坏处？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "422/TALK",
+            "narrator": "繭",
+            "text": "…東雲教官にも、\n間違いなくバレますよ？",
+            "zh": "……而且绝对\n瞒不过东云教官哦？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "424/TALK",
+            "narrator": "みやび",
+            "text": "っ！？",
+            "zh": "！？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "427/TALK",
+            "narrator": "繭",
+            "text": "多分、ガブリエラ辺りが\n面白がって、絶対に写真を\n撮って見せるはずです。",
+            "zh": "多半加布里埃拉\n还会觉得有趣，绝对会\n拍照到处给人看。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "429/TALK",
+            "narrator": "繭",
+            "text": "…そうは思いませんか？",
+            "zh": "……你不这么觉得吗？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "431/TALK",
+            "narrator": "みやび",
+            "text": "…ガブちゃんなら、\n間違いなくやりそうや。",
+            "zh": "……加布的话，\n肯定真干得出来。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "434/TALK",
+            "narrator": "繭",
+            "text": "怒られはしないと思い\nますが、ずっとネタに\nされることは――",
+            "zh": "倒是不会挨骂，\n但被当成梗\n翻来覆去地讲——",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "435/TALK",
+            "narrator": "繭",
+            "text": "間違いないと、\n私は考えますが…\nどうでしょうか？",
+            "zh": "这一点，\n我认为是肯定的……\n你觉得呢？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "436/TALK",
+            "narrator": "みやび",
+            "text": "…まほさんなら、\n確かにそんな反応\nしそうやな。",
+            "zh": "……真幌的话，\n确实也会有\n那种反应啊。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "437/TALK",
+            "narrator": "みやび",
+            "text": "酒が入る度に、繰り返し\n話を持ち出されそうやし。",
+            "zh": "而且每次喝酒，\n这事都要被翻出来重提的样子。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "441/TALK",
+            "narrator": "みやび",
+            "text": "…光月さんは、\nうちの恩人や。",
+            "zh": "……光月你，\n可是我的恩人。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "442/TALK",
+            "narrator": "みやび",
+            "text": "お礼に好きなケーキを\n好きなだけ注文しても\nえいよ。",
+            "zh": "当谢礼，喜欢的蛋糕\n想点多少点多少\n就得咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "443/TALK",
+            "narrator": "繭",
+            "text": "支払いは私の\nポケットマネーですよね？",
+            "zh": "支付用的是我自己的\n零花钱对吧？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "445/TALK",
+            "narrator": "みやび",
+            "text": "もちろん。\nまあ、とにかく――",
+            "zh": "当然。\n嘛，总之——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "447/TALK",
+            "narrator": "みやび",
+            "text": "ギャルメイクはやらん方が\n良さそうやね。",
+            "zh": "辣妹妆还是\n不搞为妙咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "448/TALK",
+            "narrator": "繭",
+            "text": "…それを聞いて、\n心から安心しました。",
+            "zh": "……听到这话，\n我发自内心安心了。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "450/TALK",
+            "narrator": "雛",
+            "text": "でも、一回くらいは\n見てみたかったなー。",
+            "zh": "可是，还真想\n看一次看看啊——。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "452/TALK",
+            "narrator": "繭",
+            "text": "うるさい黙れぶり返すな。",
+            "zh": "吵死了，闭嘴，别再提了。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "453/ACT",
+            "narrator": "",
+            "text": "今くらいが一番だよ",
+            "zh": "现在这样最好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "454/TALK",
+            "narrator": "みやび",
+            "text": "ふむ…相棒もそう思うんか",
+            "zh": "唔……搭档也这么想咩",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "455/TALK",
+            "narrator": "みやび",
+            "text": "あんまし、ぶっ飛んだメイクはせん方が良さそうやね",
+            "zh": "太夸张出格的妆，还是不画为妙咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "456/TALK",
+            "narrator": "みやび",
+            "text": "相棒にドン引きされてさよなら、なんてことになったら、割に合わん",
+            "zh": "要是把搭档吓到无言以对、直接说再见，那可就亏大了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "468/TALK",
+            "narrator": "みやび",
+            "text": "…まあ、元々の顔を\n活かすんやったら――",
+            "zh": "……嘛，要是想\n凸显原本的脸——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "469/TALK",
+            "narrator": "みやび",
+            "text": "肌のケアに力を入れた方が\nえいかもしれんね。",
+            "zh": "在皮肤护理上下功夫\n可能比较好咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "471/TALK",
+            "narrator": "みやび",
+            "text": "ちっくと高い化粧水を\n使ってみるとか。",
+            "zh": "比如试试用点\n贵一点的化妆水。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "473/TALK",
+            "narrator": "繭",
+            "text": "同感です。\n絶対にその方が良いと\n思います。",
+            "zh": "同感。\n我认为绝对\n那样更好。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "475/TALK",
+            "narrator": "雛",
+            "text": "そういえば、土台の肌の\nこともちゃんとケアしな\nいとマズいよね？",
+            "zh": "说起来，底子这张脸的\n护理要是做不好\n可就麻烦了，对吧？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "476/TALK",
+            "narrator": "雛",
+            "text": "あたしも、肌年齢だけ\n初老とかにならない\nように気をつけよう…。",
+            "zh": "我也要注意，别光\n皮肤年龄先\n步入初老……。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "477/TALK",
+            "narrator": "つばめ",
+            "text": "…十代でそこまで\n酷い状態になることって、\nあるのかな？",
+            "zh": "……十几岁就\n糟糕成那样的事，\n真的会有吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "478/ACT",
+            "narrator": "",
+            "text": "化粧はしない方が良い",
+            "zh": "还是不化妆的好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "482/TALK",
+            "narrator": "みやび",
+            "text": "まあ、スッピンだと化粧する時間削れるき、うちとしてはラクやけんど",
+            "zh": "嘛，素颜的话能省下化妆时间，对我这种懒人来说算轻快，但是",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "483/TALK",
+            "narrator": "みやび",
+            "text": "…光月さんだけやなくて、相棒もそう言うてくれるんやったら",
+            "zh": "……要是不只光月你，连搭档也这么说我",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "484/TALK",
+            "narrator": "みやび",
+            "text": "しばらくスッピン生活送るんも、悪くないかもしれん",
+            "zh": "过一阵子素颜生活，说不定也不坏",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "495/TALK",
+            "narrator": "みやび",
+            "text": "…うち、しばらく\n一切化粧せんことに\nするちや。",
+            "zh": "……我决定了，\n接下来一段时间\n完全素颜滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "499/TALK",
+            "narrator": "つばめ",
+            "text": "えっ！？\nそれって、スッピンで\nいるってことですか？",
+            "zh": "诶！？\n你是说，以后\n都素颜吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "501/TALK",
+            "narrator": "みやび",
+            "text": "うん…そもそも、\n化粧する必要がないんよ。",
+            "zh": "嗯……说到底，\n我本来就没化妆的必要。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "502/TALK",
+            "narrator": "みやび",
+            "text": "社会人になれば、\nマナー的に必要にも\nなるけんど――",
+            "zh": "等成了社会人，\n出于礼节有时候\n也会需要，但是——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "503/TALK",
+            "narrator": "みやび",
+            "text": "十代から化粧品ベタベタ\n塗りたくって、綺麗に\n見せる必要ないちや。",
+            "zh": "十几岁就把化妆品\n涂得满脸都是来\n显漂亮，没必要滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "505/TALK",
+            "narrator": "繭",
+            "text": "た、確かにそうですが…。",
+            "zh": "的、确实是那样……。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "506/TALK",
+            "narrator": "繭",
+            "text": "でも、スッピンで\n平気なんですか？",
+            "zh": "可是，素颜\n真的没问题吗？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "509/TALK",
+            "narrator": "みやび",
+            "text": "？　なにがや？",
+            "zh": "？驷马意思咯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "511/TALK",
+            "narrator": "繭",
+            "text": "…愚問でした。\nみやび先輩ですからね。",
+            "zh": "……是我问蠢了。\n毕竟是雅前辈嘛。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "513/TALK",
+            "narrator": "つばめ",
+            "text": "…化粧しないで\n平気って、スゴイよね？",
+            "zh": "……不化妆也\n完全没事，超厉害吧？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "514/TALK",
+            "narrator": "雛",
+            "text": "うん…あたし達も、\n必要以上にはやらない\nけど――",
+            "zh": "嗯……我们虽然\n也不会化过头，\n但是——",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "515/TALK",
+            "narrator": "雛",
+            "text": "やっぱり、楽しいし\nワクワクするから、\n止められないよ。",
+            "zh": "果然化妆很快乐，\n还会让人兴奋，\n根本停不下来哦。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "518/TALK",
+            "narrator": "みやび",
+            "text": "女の子やねぇ…。\nそういう気持ち、\n大切にせんといかんよ。",
+            "zh": "真是女孩子呀……。\n这种心情，\n可得好好珍惜哦。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "521/TALK",
+            "narrator": "繭",
+            "text": "…私が言うのは変ですが、\nみやび先輩も少しくらい\n持つべきです。",
+            "zh": "……由我来说虽然奇怪，\n但雅前辈也多少\n该有一点才好。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "264/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>7月22日　3:18 PM</color>\nとある平日の午後、某カフェにて。",
+            "zh": "<color=green>7月22日　3:18 PM</color>\n某个平常日的下午，某咖啡馆。",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "532/DIALOG",
+            "narrator": "Dialog_GEThimegoto_ch04",
+            "text": "【女子力は戦闘力に相当するらしい】",
+            "zh": "【女子力似乎相当于战斗力】",
+            "narrator_zh": "Dialog_GEThimegoto_ch04"
+        }
+    ]
+}

@@ -1,0 +1,784 @@
+{
+    "dir": "chap13/daydra/dd_ch04_13_020.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "13456",
+        "cid": "miyabi",
+        "title": "Extra006 プレミアムストーリー",
+        "sub_title": "男子からかい系",
+        "title_zh": "Extra006 额外剧情",
+        "sub_title_zh": "戏弄男子系"
+    },
+    "entry": [
+        {
+            "location": "256/SCENARIO",
+            "narrator": "",
+            "text": "男子からかい系",
+            "zh": "戏弄男子系",
+            "narrator_zh": ""
+        },
+        {
+            "location": "272/TALK",
+            "narrator": "キリト",
+            "text": "あ～、クソッ！\n朝っぱらから気分悪ぃもん\n見ちまったぜ。",
+            "zh": "啊——，靠！\n一大早就看到\n恶心玩意了。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "274/TALK",
+            "narrator": "ヒカル",
+            "text": "まあまあ、キリト。\nそう怒らずに。",
+            "zh": "好了好了，圣翔。\n别那么生气。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "279/TALK",
+            "narrator": "みやび",
+            "text": "朝っぱらから\n随分気が立っちゅうなぁ。",
+            "zh": "一大早就\n气鼓鼓着呢啊。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "282/TALK",
+            "narrator": "キリト",
+            "text": "あっ、みやび先輩！\nおはよーっす。",
+            "zh": "啊，雅前辈！\n早啊。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "284/TALK",
+            "narrator": "ヒカル",
+            "text": "おはようございます。\nすみません、朝から\n騒がしくて…。",
+            "zh": "早上好。\n抱歉，一大早就\n吵吵嚷嚷的……。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "285/TALK",
+            "narrator": "みやび",
+            "text": "何かあったがか？",
+            "zh": "出什么事了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "286/TALK",
+            "narrator": "キリト",
+            "text": "いや…ちょっとした\nことっすけど――",
+            "zh": "没……只是\n点小事——",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "287/TALK",
+            "narrator": "キリト",
+            "text": "さっき、手を繋いで\n登校してるカップルを\n見かけたんすよ。",
+            "zh": "刚才，看到了\n手牵手一起上学的\n情侣。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "288/TALK",
+            "narrator": "みやび",
+            "text": "あ～…それはウザいわ。",
+            "zh": "啊～……那确实烦人咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "292/TALK",
+            "narrator": "キリト",
+            "text": "でしょ！？\n朝っぱらからイチャつくん\nじゃねぇ、って話っすよ！",
+            "zh": "对吧！？\n就是说别一大早\n就腻歪啊！",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "294/TALK",
+            "narrator": "ヒカル",
+            "text": "妬んでるだけじゃ\nないですか。",
+            "zh": "这不就是单纯\n嫉妒吗。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "296/TALK",
+            "narrator": "みやび",
+            "text": "…そういえば、\n二人はまだ彼女さん\nおらんが？",
+            "zh": "……说起来，\n你们俩还没有\n女朋友咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "299/TALK",
+            "narrator": "ヒカル",
+            "text": "あはは…残念ながら、\nまだ交際の経験は\nありません。",
+            "zh": "啊哈哈……很遗憾，\n还没有交往的\n经验。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "302/TALK",
+            "narrator": "キリト",
+            "text": "…直球で聞いてくるの\n勘弁してくださいよ。",
+            "zh": "……这么直球地问\n饶了我们吧。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "303/TALK",
+            "narrator": "みやび",
+            "text": "遠回しに聞くより、\nこっちの方がダメージ\n少ないと思うけんどな。",
+            "zh": "比起拐弯抹角地问，\n这样给的打击\n我觉得还小些呢。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "304/TALK",
+            "narrator": "みやび",
+            "text": "けんど、不思議な話やね。\n二人とも結構イケメンさん\nやと思うんやが…。",
+            "zh": "但是，说来也怪咯。\n你们俩我觉得都\n挺帅的呀……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "305/TALK",
+            "narrator": "キリト",
+            "text": "仕方ないじゃないっすか。\n出会いがないんだし…。",
+            "zh": "没办法吧。\n根本没有相遇机会啊……。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "306/TALK",
+            "narrator": "みやび",
+            "text": "なんや？\n出会うための努力は\nしてるが？",
+            "zh": "怎么？\n为相遇做过\n努力了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "308/TALK",
+            "narrator": "キリト",
+            "text": "そ、それは…。",
+            "zh": "那、那个……。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "310/TALK",
+            "narrator": "みやび",
+            "text": "…キリト君、\n女の子は桃太郎さんの\n桃やないき――",
+            "zh": "……圣翔，\n女孩子可不是桃太郎的\n桃子啵——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "311/TALK",
+            "narrator": "みやび",
+            "text": "どんぶらこっこ\n会いに来たりはせんよ。",
+            "zh": "不会哗啦哗啦\n漂过来见你咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "312/TALK",
+            "narrator": "キリト",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "314/TALK",
+            "narrator": "みやび",
+            "text": "…男がそんなクヨクヨ\nするんもいかんよ。",
+            "zh": "……男人这么闷闷不乐\n也不行咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "315/TALK",
+            "narrator": "みやび",
+            "text": "本当に恋人さん欲しい\n思うてるなら、もっと\nグイグイ行かんとな。",
+            "zh": "真的想要恋人的话，\n就得更主动\n往前冲才行。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "317/TALK",
+            "narrator": "キリト",
+            "text": "…そう言われても、\nどうすりゃいいのか\nわかんねぇし…なぁ？",
+            "zh": "……就算你这么说，\n我也不知道\n该怎么做啊……对吧？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "319/TALK",
+            "narrator": "ヒカル",
+            "text": "僕に振らないでください。",
+            "zh": "请不要把话题丢给我。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "320/TALK",
+            "narrator": "みやび",
+            "text": "ひなこちゃん達と\n仲えいき、女子に不慣れ\nいうわけでもないのに…。",
+            "zh": "明明和小雏她们\n关系挺好，也不是\n不擅长跟女生打交道……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "321/TALK",
+            "narrator": "みやび",
+            "text": "意外と可愛らしいとこ\nあるんやねぇ…ちっくと、\nイタズラしてみるちや。",
+            "zh": "意外地有可爱的地方呢……\n稍微，\n捉弄一下试试滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "322/TALK",
+            "narrator": "みやび",
+            "text": "わかった。\nじゃあ、うちで練習して\nみるちや。",
+            "zh": "懂了。\n那就拿我\n来练习滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "326/TALK",
+            "narrator": "キリト",
+            "text": "は？　何のっすか？",
+            "zh": "哈？　练什么啊？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "327/TALK",
+            "narrator": "みやび",
+            "text": "女の子に声かけたり、\n口説いたりする練習や。",
+            "zh": "跟女生搭话、\n把她们的练习。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "328/TALK",
+            "narrator": "キリト",
+            "text": "ちょ、えぇっ！？\nみやび先輩で！？",
+            "zh": "等、诶！？\n拿雅前辈！？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "330/TALK",
+            "narrator": "ヒカル",
+            "text": "い、いや、みやび先輩。\n提案はありがたいですが、\nその…ちょっと…。",
+            "zh": "不、不用，雅前辈。\n提案是心存感激啦，\n那个……有点……。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "331/SEL",
+            "narrator": "",
+            "text": "純情な男子をからかうな",
+            "zh": "别逗纯情的男孩子",
+            "narrator_zh": ""
+        },
+        {
+            "location": "332/SEL",
+            "narrator": "",
+            "text": "教育してあげよう",
+            "zh": "就教育教育他们吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "335/TALK",
+            "narrator": "みやび",
+            "text": "うちじゃ物足りんが？",
+            "zh": "拿我练不够味咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "336/TALK",
+            "narrator": "ヒカル",
+            "text": "と、とんでもない！\nそうじゃなくてですね、\nその…。",
+            "zh": "不、不敢当！\n不是那个意思，\n那个……。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "337/TALK",
+            "narrator": "キリト",
+            "text": "う、嬉しいっすよ！\nマジ嬉しいっす！！",
+            "zh": "高、高兴死了！\n真的超高兴！！",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "339/TALK",
+            "narrator": "キリト",
+            "text": "けど、覚悟っていうか、\nなんていうか…なあ？",
+            "zh": "不过，说是觉悟也好，\n怎么说呢……对吧？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "341/TALK",
+            "narrator": "ヒカル",
+            "text": "一々僕に振らないで\nください！",
+            "zh": "请不要一个一个\n都丢给我！",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "342/TALK",
+            "narrator": "みやび",
+            "text": "ビックリするくらい\n初心な子達やねぇ…。",
+            "zh": "纯情得让人\n吃惊的孩子呢……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "343/TALK",
+            "narrator": "みやび",
+            "text": "手取り足取り、うちが\n教えんといかんがか？",
+            "zh": "还得我手把手\n教你们不行咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "346/TALK",
+            "narrator": "キリト",
+            "text": "いっ、いいんすか！？",
+            "zh": "真、真的可以吗！？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "350/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "352/TALK",
+            "narrator": "みやび",
+            "text": "やっぱ面倒やき、\nここから先は\n自習にするちや。",
+            "zh": "果然还是麻烦啵，\n从这往后\n就改成自习滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "354/TALK",
+            "narrator": "キリト",
+            "text": "うぇっ！？",
+            "zh": "诶！？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "356/TALK",
+            "narrator": "キリト",
+            "text": "いや、みやび先輩！\nここまで来てそれは\nマジでないっすよ！！",
+            "zh": "不是吧，雅前辈！\n都到这一步了，那个\n真的不行啊！！",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "358/TALK",
+            "narrator": "みやび",
+            "text": "何でもかんでもうちに\n聞いたら、キリト君達の\nためにならんちや。",
+            "zh": "什么都来问我，\n对圣翔你们\n可没好处滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "359/TALK",
+            "narrator": "みやび",
+            "text": "これも愛の鞭なんよ。\nわかってくれるな？",
+            "zh": "这也是爱的鞭策咯。\n能懂吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "361/TALK",
+            "narrator": "ヒカル",
+            "text": "…まあ、わからなくは\nないですけど…。",
+            "zh": "……嘛，也不是\n不能理解……。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "364/TALK",
+            "narrator": "キリト",
+            "text": "おい、バカ！！\n何勝手なこと――",
+            "zh": "喂，笨蛋！！\n你擅自说什么——",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "365/TALK",
+            "narrator": "みやび",
+            "text": "うん、わかってくれたなら\nうちも安心や。",
+            "zh": "嗯，你们能懂的话，\n我就放心咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "367/TALK",
+            "narrator": "みやび",
+            "text": "じゃ、宿題頑張りや。",
+            "zh": "那，作业加油咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "371/TALK",
+            "narrator": "キリト",
+            "text": "余計なこと言いやがって。\nあ～、くそぉ…。",
+            "zh": "都怪你多嘴。\n啊——，可恶……。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "373/TALK",
+            "narrator": "ヒカル",
+            "text": "いいじゃないですか…。\nどうせ僕たち、何も\nできませんでしたよ。",
+            "zh": "不是挺好的嘛……。\n反正我们，什么\n都做不到。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "375/TALK",
+            "narrator": "キリト",
+            "text": "…だな。\nはは、かっこわりぃ…。",
+            "zh": "……也是。\n哈哈，太逊了……。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "377/ACT",
+            "narrator": "",
+            "text": "純情な男子をからかうな",
+            "zh": "别逗纯情的男孩子",
+            "narrator_zh": ""
+        },
+        {
+            "location": "381/TALK",
+            "narrator": "みやび",
+            "text": "ん？　ちっくと待ちぃ。",
+            "zh": "嗯？　等子。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "397/TALK",
+            "narrator": "みやび",
+            "text": "なるほど",
+            "zh": "原来如此",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "398/TALK",
+            "narrator": "みやび",
+            "text": "純情な男子からかって、不純な男子になったら困るきね",
+            "zh": "纯情男子逗着逗着变成不纯男子，就伤脑筋了啵",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "410/TALK",
+            "narrator": "みやび",
+            "text": "…話はしまいや。\nうちは教室行くちや。",
+            "zh": "……话就到此为止。\n我去教室滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "412/TALK",
+            "narrator": "キリト",
+            "text": "は！？\nも、もういいんすか？",
+            "zh": "哈！？\n就、就这样完了？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "414/TALK",
+            "narrator": "みやび",
+            "text": "うん…相棒に怒られて\nしもうたきね。",
+            "zh": "嗯……被搭档\n骂了啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "415/TALK",
+            "narrator": "みやび",
+            "text": "純情な男子をからかうんは\nやめろ、ってな。",
+            "zh": "说什么『别逗纯情男子』\n来着。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "417/TALK",
+            "narrator": "ヒカル",
+            "text": "相棒？\nそれって…。",
+            "zh": "搭档？\n那是……。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "420/TALK",
+            "narrator": "みやび",
+            "text": "おっと、話はここまでや。\n女にはまっこと沢山の\n秘密があるんぞね～。",
+            "zh": "哎呀，话就说到这。\n女人的秘密啊，\n可真是多得很咧～。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "424/TALK",
+            "narrator": "キリト",
+            "text": "…なんかよくわかんねぇ\nけど、解放はされた\nみたいだな。",
+            "zh": "……虽然没怎么搞懂，\n但好像\n被放行了。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "426/TALK",
+            "narrator": "ヒカル",
+            "text": "そうですね…。\nはぁ、まだ心臓が\nバクバクしてますよ。",
+            "zh": "是啊……。\n哈啊，心脏还在\n怦怦跳呢。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "429/TALK",
+            "narrator": "キリト",
+            "text": "朝からみやび先輩の\n色気たっぷりオーラは、\nちょっと毒だよな。",
+            "zh": "一大早就吃雅前辈\n魅力全开的光环，\n有点顶不住啊。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "431/TALK",
+            "narrator": "キリト",
+            "text": "…けどよ、みやび先輩が\n言ってた相棒って、\n誰のことだ？",
+            "zh": "……但是啊，雅前辈\n说的搭档，\n是指谁？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "432/TALK",
+            "narrator": "ヒカル",
+            "text": "さあ？　少なくとも、\n逢瀬さん達の誰かでは\nなさそうですが…。",
+            "zh": "谁知道？　至少，\n好像不是燕她们\n里的谁……。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "433/TALK",
+            "narrator": "ヒカル",
+            "text": "…彼氏、でしょうか？",
+            "zh": "……是男朋友吗？",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "437/TALK",
+            "narrator": "キリト",
+            "text": "ははは、まさかぁ！\nそりゃさすがにねぇだろ？",
+            "zh": "哈哈哈，不会吧！\n那也太扯了吧？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "440/TALK",
+            "narrator": "ヒカル",
+            "text": "そ、そうですよね。\n考え過ぎでした。",
+            "zh": "是、是啊。\n是我想多了。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "441/TALK",
+            "narrator": "キリト",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "442/TALK",
+            "narrator": "ヒカル",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "443/TALK",
+            "narrator": "キリト",
+            "text": "…違うよな？",
+            "zh": "……不是的吧？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "446/TALK",
+            "narrator": "ヒカル",
+            "text": "…そう願ってます。",
+            "zh": "……我也希望如此。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "447/ACT",
+            "narrator": "",
+            "text": "教育してあげよう",
+            "zh": "就教育教育他们吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "452/TALK",
+            "narrator": "みやび",
+            "text": "ん？　ちっくと待ちや。",
+            "zh": "嗯？　等子。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "470/TALK",
+            "narrator": "みやび",
+            "text": "相棒、おぬしも悪よのぅ？",
+            "zh": "搭档，你也够坏的呐？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "471/TALK",
+            "narrator": "みやび",
+            "text": "純情男子をこれ以上からかえ言うんか？",
+            "zh": "是叫我别再逗纯情男子了？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "472/TALK",
+            "narrator": "みやび",
+            "text": "まあ、止めんのやったら遠慮せず教育するちや",
+            "zh": "嘛，你要是不拦着的话，我就不客气地教育他们滴",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "483/TALK",
+            "narrator": "みやび",
+            "text": "さて…何かしてこんと\n練習にならんよ？",
+            "zh": "那么……不做点什么，\n可不叫练习咯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "485/TALK",
+            "narrator": "キリト",
+            "text": "いや、だから何すれば\nいいかわかんねぇし…。",
+            "zh": "不是，所以根本\n不知道该做什么啊……。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "488/TALK",
+            "narrator": "みやび",
+            "text": "甘い言葉かけるでも\nデートに誘うでも、\n何でもえいちや。",
+            "zh": "说甜话也好，\n约出去约会也好，\n什么都行滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "491/TALK",
+            "narrator": "ヒカル",
+            "text": "いきなりそんなの\n無理ですよ！",
+            "zh": "突然来那个\n做不到啊！",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "495/TALK",
+            "narrator": "みやび",
+            "text": "じゃあ、強引にチュー\nでもするがか？",
+            "zh": "那就强行来个\n亲亲，如何啵？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "500/TALK",
+            "narrator": "キリト",
+            "text": "ちゅ、チューッ！？\nそれって、その…き、\nキスってこと？",
+            "zh": "亲、亲亲！？\n那是，那个……就、\n是接吻的意思？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "503/TALK",
+            "narrator": "みやび",
+            "text": "…二人とも、まっこと\nこういうことに耐性が\nないんやね。",
+            "zh": "……你们两个，\n算是对这种事\n一点耐性都没得呢。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "504/TALK",
+            "narrator": "みやび",
+            "text": "もうえいき、ここは\n一発ブチュッとやって、\n耐性付けるちや。",
+            "zh": "得咧，这里就\n啾地亲上一口，\n把耐性练出来滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "506/TALK",
+            "narrator": "ヒカル",
+            "text": "本気ですか！？",
+            "zh": "是认真的吗！？",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "507/TALK",
+            "narrator": "みやび",
+            "text": "ウソはつかん。\nほれ、どっちから\nするちや？",
+            "zh": "我不撒谎。\n来，哪边\n先来滴？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "509/TALK",
+            "narrator": "キリト",
+            "text": "…い、いいのか？\nこれ、本当に良いのか？",
+            "zh": "……真、真的好吗？\n这个，真的可以吗？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "511/TALK",
+            "narrator": "ヒカル",
+            "text": "ぼ、僕に聞かれても…\nでも、みやび先輩が\n言っているんですし…。",
+            "zh": "问、问我也不知道……\n不过，雅前辈\n都这么说了……。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "513/TALK",
+            "narrator": "繭",
+            "text": "おはようございます、\nみやび先輩。",
+            "zh": "早上好，\n雅前辈。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "517/TALK",
+            "narrator": "キリト",
+            "text": "うわぁっ！？",
+            "zh": "哇啊！？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "520/TALK",
+            "narrator": "ヒカル",
+            "text": "ま、繭さん！？",
+            "zh": "怎、怎么是茧！？",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "522/TALK",
+            "narrator": "繭",
+            "text": "朝からウザいやかましい。\n大声出すな。",
+            "zh": "一大早就烦人吵死了。\n别大声嚷嚷。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "523/TALK",
+            "narrator": "繭",
+            "text": "…ていうか、二人とも\n顔が赤い。\n何かあった？",
+            "zh": "……话说，你们两个\n脸都红了。\n发生什么了？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "525/TALK",
+            "narrator": "キリト",
+            "text": "べ、別に！！\nな、ヒカル！？",
+            "zh": "没、没什么！！\n对吧，光！？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "527/TALK",
+            "narrator": "ヒカル",
+            "text": "そ、そうですね。\nうん、何もありません\nでした。",
+            "zh": "是、是啊。\n嗯，什么\n都没发生。",
+            "narrator_zh": "光"
+        },
+        {
+            "location": "528/TALK",
+            "narrator": "キリト",
+            "text": "じゃあ俺たち先に\n行くから、また後でな！",
+            "zh": "那我们先走了，\n待会见！",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "534/TALK",
+            "narrator": "みやび",
+            "text": "はぁ…朝から元気やねぇ。",
+            "zh": "哈啊……一大早就精神满满呢。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "536/TALK",
+            "narrator": "繭",
+            "text": "…あの二人、\n何かあったんですか？",
+            "zh": "……那两个人，\n发生什么了吗？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "539/TALK",
+            "narrator": "みやび",
+            "text": "ないない、何もないぞね。",
+            "zh": "没得没得，什么事都没有咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "540/TALK",
+            "narrator": "みやび",
+            "text": "ちっくと純情な男の子いう\nだけやき、心配するほどの\nことやないんよ。",
+            "zh": "只是有点纯情的\n男孩子而已啵，\n用不着担心咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "269/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>6月27日　7:18 AM</color>\n初夏の朝、学園正門にて。",
+            "zh": "<color=green>6月27日　7:18 AM</color>\n初夏的早晨，在学园正门。",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "551/DIALOG",
+            "narrator": "Dialog_GEThimegoto_ch04",
+            "text": "【ハニーポッド、ハニートラップ】",
+            "zh": "【蜜罐、蜜糖陷阱】",
+            "narrator_zh": "Dialog_GEThimegoto_ch04"
+        }
+    ]
+}

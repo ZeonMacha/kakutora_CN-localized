@@ -1,0 +1,826 @@
+{
+    "dir": "chap21/daydra/dd_ch04_21_102.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "21405",
+        "cid": "miyabi",
+        "title": "005 メインストーリー",
+        "sub_title": "こじゃんと元気キャラ＜後編＞",
+        "title_zh": "005 主线剧情",
+        "sub_title_zh": "元气十足的角色＜后篇＞"
+    },
+    "entry": [
+        {
+            "location": "477/TALK",
+            "narrator": "みやび",
+            "text": "…けんど、やはり\nこんなことは\n滅多にないぞね。",
+            "zh": "……但是，话说回来\n这种事可是\n难得一遇咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "478/TALK",
+            "narrator": "みやび",
+            "text": "やらんのは勿体ない\n気もするちや。",
+            "zh": "不干的话总觉得\n可惜滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "480/TALK",
+            "narrator": "みやび",
+            "text": "それに…遊べば\nみんなも元気になる\nかもしれんし…。",
+            "zh": "而且……出去玩的话，\n大家说不定\n也能打起精神……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "481/SEL",
+            "narrator": "",
+            "text": "遊びに連れてこうよ",
+            "zh": "带大家去玩吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "482/ACT",
+            "narrator": "",
+            "text": "遊びに連れてこうよ",
+            "zh": "带大家去玩吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "497/TALK",
+            "narrator": "みやび",
+            "text": "いや",
+            "zh": "不",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "498/TALK",
+            "narrator": "みやび",
+            "text": "うちのキャラじゃない",
+            "zh": "这不是我的风格",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "499/TALK",
+            "narrator": "みやび",
+            "text": "突然何を言い出すのかと",
+            "zh": "突然冒出这种话",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "501/TALK",
+            "narrator": "みやび",
+            "text": "驚かれてしまう",
+            "zh": "会吓到人的",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "503/SEL",
+            "narrator": "",
+            "text": "レアな姿見せてあげようよ",
+            "zh": "就让大家见识下稀有的你嘛",
+            "narrator_zh": ""
+        },
+        {
+            "location": "504/ACT",
+            "narrator": "",
+            "text": "レアな姿見せてあげようよ",
+            "zh": "就让大家见识下稀有的你嘛",
+            "narrator_zh": ""
+        },
+        {
+            "location": "507/TALK",
+            "narrator": "みやび",
+            "text": "なるほど",
+            "zh": "原来如此",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "508/TALK",
+            "narrator": "みやび",
+            "text": "せっかく合宿になんぞ来てるんやし",
+            "zh": "难得都来合宿驷马的地方了嘛",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "509/TALK",
+            "narrator": "みやび",
+            "text": "こういう時くらい",
+            "zh": "这种时候偶尔",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "510/TALK",
+            "narrator": "みやび",
+            "text": "レアなうちを見せるのもよさそうや",
+            "zh": "让大家见识下稀有的我也好像不错咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "511/TALK",
+            "narrator": "みやび",
+            "text": "よしわかった",
+            "zh": "好，我明白了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "512/TALK",
+            "narrator": "みやび",
+            "text": "みんなを驚かせてくるとしよう",
+            "zh": "那我就去吓大家一跳吧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "524/TALK",
+            "narrator": "みやび",
+            "text": "…いかんなぁ。\n疲れちゅうんは\nわかる。",
+            "zh": "……这样可不行啊。\n大家累着这件事\n我晓得。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "525/TALK",
+            "narrator": "みやび",
+            "text": "けんど、休みの日に\nダラダラしちゃあ\nいかんぞね！",
+            "zh": "但是，休息日就\n这么懒懒散散\n可不行咧！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "527/TALK",
+            "narrator": "みやび",
+            "text": "今からみんなで、\n外へ遊びに行くぞね！",
+            "zh": "现在大家一起，\n出门玩去咧！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "530/TALK",
+            "narrator": "アーヤ",
+            "text": "…冗談のつもり？",
+            "zh": "……在开玩笑？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "531/TALK",
+            "narrator": "アーヤ",
+            "text": "誰もそんなのに\n引っかからないわよ？",
+            "zh": "这种话谁都不会\n上当的哦？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "533/TALK",
+            "narrator": "みやび",
+            "text": "いや、本気や。\nみんな準備しぃ。",
+            "zh": "不，我是认真的。\n大家准备咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "535/TALK",
+            "narrator": "つばめ",
+            "text": "えっ！？　本当に\n遊びに行くつもり\nなんですか？",
+            "zh": "诶！？　真的\n打算去玩\n吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "537/TALK",
+            "narrator": "神楽",
+            "text": "何も今日じゃなくても\nいいんじゃないん\nですか？",
+            "zh": "又不是非今天不可，\n改天不行\n吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "538/TALK",
+            "narrator": "みやび",
+            "text": "いや。みんなが\nヘロヘロということに\n意味がある。",
+            "zh": "不。大家\n瘫成一团这件事\n才是意义所在。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "539/TALK",
+            "narrator": "みやび",
+            "text": "元気なうちと\nヘロヘロなメンバー。\nなんと楽しいことか！",
+            "zh": "精神满满的我\n加上瘫软的成员。\n多么快乐啊！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "541/TALK",
+            "narrator": "ガブリエラ",
+            "text": "いや、あたしらは\n全然楽しくないから。",
+            "zh": "不，我们可\n一点都不觉得快乐。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "543/TALK",
+            "narrator": "ガブリエラ",
+            "text": "第一、みやびって\n一番外出を嫌がる\nタイプでしょ？",
+            "zh": "再说了，雅你是\n最讨厌出门的\n那种人吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "545/TALK",
+            "narrator": "みやび",
+            "text": "普段はそうやね。",
+            "zh": "平时是咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "546/TALK",
+            "narrator": "みやび",
+            "text": "それを上回る面白さを　\n感じたら実行する。\nそれもうちながよ。",
+            "zh": "一旦有超过它的有趣　\n感觉到了就执行。\n这也是我的做派咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "547/TALK",
+            "narrator": "アーヤ",
+            "text": "…確かに、みやびは\nそういう子よね。",
+            "zh": "……确实，雅就是\n这种孩子呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "548/TALK",
+            "narrator": "ガブリエラ",
+            "text": "いや、納得する\nとこじゃないでしょ？",
+            "zh": "不，这不是\n该认同的地方吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "550/TALK",
+            "narrator": "みやび",
+            "text": "ほれ、\nすっと準備しぃ。",
+            "zh": "喏，\n麻利准备咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "551/TALK",
+            "narrator": "みやび",
+            "text": "来ない子には、\n今夜の夕食は\n抜きぞね。",
+            "zh": "不来的孩子，\n今晚的晚饭\n没得吃咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "553/TALK",
+            "narrator": "つばめ",
+            "text": "えぇっ！？",
+            "zh": "诶！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "555/TALK",
+            "narrator": "神楽",
+            "text": "もぉ…みやびさんは\n変なところで\n強引なんですから…。",
+            "zh": "真是的……雅\n总在奇怪的地方\n这么强硬……",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "558/TALK",
+            "narrator": "アーヤ",
+            "text": "でも、遊びに行くって\nどこに行くのよ？",
+            "zh": "不过，说是去玩，\n要去哪里呀？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "560/TALK",
+            "narrator": "みやび",
+            "text": "そうやなぁ…。\nとりあえず――",
+            "zh": "也是啊……\n总之——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "602/TALK",
+            "narrator": "みやび",
+            "text": "我が家がいつも\n買うてる魚屋やね。",
+            "zh": "是我家常去买\n鱼的那家店咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "603/TALK",
+            "narrator": "みやび",
+            "text": "ちゅうわけやき、\n夕飯に食べたい魚、\nカゴに入れるちや。",
+            "zh": "就是这么回事嘛，\n晚饭想吃的鱼，\n放进篮子里滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "606/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…遊びに行くとか\n言っておきながら、\nただの買い物なの？",
+            "zh": "……嘴上说去玩，\n结果就只是\n买东西吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "609/TALK",
+            "narrator": "みやび",
+            "text": "みんな今日は\nヘロヘロやきね。",
+            "zh": "大家今天\n瘫得不行啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "610/TALK",
+            "narrator": "みやび",
+            "text": "まともに遊んだり\nできんやろ？",
+            "zh": "根本没法\n正经玩起来吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "611/TALK",
+            "narrator": "みやび",
+            "text": "なので買い物に\n変更や。",
+            "zh": "所以改成\n购物了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "613/TALK",
+            "narrator": "つばめ",
+            "text": "でもわたし、\nとっても楽しいです！",
+            "zh": "可是我觉得，\n超级开心！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "614/TALK",
+            "narrator": "つばめ",
+            "text": "普段来ないお店に\n来るのって、\nワクワクしますし。",
+            "zh": "来平时不来的店，\n本来就让人\n很兴奋嘛。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "616/TALK",
+            "narrator": "みやび",
+            "text": "ほれ、ガブちゃんも\nこの状況を楽しむ\n努力をしぃ。",
+            "zh": "喏，加布也\n努力享受一下\n这个状况咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "618/TALK",
+            "narrator": "神楽",
+            "text": "みやびさん。\n食べたいモノは\n何でもいいんですか？",
+            "zh": "雅。\n想吃的东西\n什么都行吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "620/TALK",
+            "narrator": "みやび",
+            "text": "合宿費用は全額\n管理庁に請求書を\n回すきね。",
+            "zh": "合宿费用嘛，\n把账单全额转给\n管理厅就好咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "621/TALK",
+            "narrator": "みやび",
+            "text": "何でも好きなもん\n入れてえいぞ。",
+            "zh": "喜欢什么就放什么，\n得咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "623/TALK",
+            "narrator": "神楽",
+            "text": "何でもなら…私、\nイクラ入れちゃい\nます！",
+            "zh": "什么都行的话……我，\n要放三文鱼籽\n了！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "624/TALK",
+            "narrator": "アーヤ",
+            "text": "そうねぇ…。",
+            "zh": "是啊……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "625/TALK",
+            "narrator": "アーヤ",
+            "text": "マグロはこっちで\n結構食べてるから\nウニとか？",
+            "zh": "金枪鱼在这边\n已经吃得挺多，\n来点海胆？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "627/TALK",
+            "narrator": "ガブリエラ",
+            "text": "アーヤって\nウニ食べれるんだ？",
+            "zh": "绫水你居然\n能吃海胆啊？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "628/TALK",
+            "narrator": "アーヤ",
+            "text": "ええ。\nギャヴィは\n何にするの？",
+            "zh": "嗯。\n加维你\n要什么？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "631/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうねぇ…。\nサーモンかしら？",
+            "zh": "这个嘛……\n三文鱼吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "632/TALK",
+            "narrator": "みやび",
+            "text": "サーモンって、\nガブちゃん…。",
+            "zh": "三文鱼啊，\n加布……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "634/TALK",
+            "narrator": "ガブリエラ",
+            "text": "いいでしょ？\n甘くて好きなのよ。",
+            "zh": "不行吗？\n甜甜的我喜欢嘛。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "636/TALK",
+            "narrator": "つばめ",
+            "text": "あ、みやびさん。\nわたしイチゴ入れても\nいいですか？",
+            "zh": "啊，雅。\n我可以放草莓\n吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "638/TALK",
+            "narrator": "神楽",
+            "text": "つばめさん…、\nここは魚屋さん\nですよ？",
+            "zh": "燕……\n这里可是\n鱼店呀？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "640/TALK",
+            "narrator": "つばめ",
+            "text": "あ、そっか…。\nえへへ…。",
+            "zh": "啊，对哦……\n诶嘿嘿……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "642/TALK",
+            "narrator": "みやび",
+            "text": "なら、魚屋の後に\n八百屋行くぞね。",
+            "zh": "那就鱼店之后，\n再去果蔬店咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "645/TALK",
+            "narrator": "みやび",
+            "text": "ほれ、遠慮せんで\nガンガン食べたいもん\n入れまくるちや。",
+            "zh": "喏，别客气，\n想吃的就可劲\n往里放滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "691/TALK",
+            "narrator": "アーヤ",
+            "text": "…ここのカフェ、\n素敵ね。",
+            "zh": "……这家咖啡馆，\n真不错呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "692/TALK",
+            "narrator": "アーヤ",
+            "text": "海風を感じながらの\nティータイム。",
+            "zh": "伴着海风的\n下午茶时间。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "694/TALK",
+            "narrator": "ガブリエラ",
+            "text": "アーヤって、こういう\nオシャレなお店\n大好きだもんね。",
+            "zh": "绫水最喜欢\n这种时髦的店\n了嘛。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "697/TALK",
+            "narrator": "アーヤ",
+            "text": "何よ。\nギャヴィだって\n楽しんでるでしょ？",
+            "zh": "说什么呢。\n加维你不也\n玩得挺开心吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "699/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あたしは美味しい\nデザートがあれば\nどこでもいいのよ。",
+            "zh": "我只要有好吃的\n甜点，去哪里\n都行哦。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "701/TALK",
+            "narrator": "つばめ",
+            "text": "わぁ、このイチゴの\nスムージー、とっても\n美味しい！",
+            "zh": "哇，这个草莓\n冰沙，超级\n好喝！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "703/TALK",
+            "narrator": "つばめ",
+            "text": "神楽ちゃんも\n一口どう？",
+            "zh": "神乐要不要\n也来一口？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "705/TALK",
+            "narrator": "神楽",
+            "text": "いいんですか？\nそれじゃ、一口だけ\nいただきますね。",
+            "zh": "可以吗？\n那我只\n喝一口哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "707/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あたしにも\n一口ちょうだいよ。",
+            "zh": "也给我\n一口嘛。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "709/TALK",
+            "narrator": "つばめ",
+            "text": "じゃあ、ガブちゃんの\nレモンスカッシュ\n一口欲しいな。",
+            "zh": "那我也想\n喝一口加布的\n柠檬汽水。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "711/TALK",
+            "narrator": "アーヤ",
+            "text": "このお店、みやびも\nよく来てたの？",
+            "zh": "这家店，雅以前\n也常来吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "713/TALK",
+            "narrator": "みやび",
+            "text": "今日みたいな買い物\n帰りに、たまにな。",
+            "zh": "像今天这样买完\n东西回去时，偶尔来。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "714/TALK",
+            "narrator": "みやび",
+            "text": "スイーツが多くて\nうちにとっての\n癒しなんよ。",
+            "zh": "甜食多得很，\n对我来说\n是治愈咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "716/TALK",
+            "narrator": "アーヤ",
+            "text": "そうなんだ。",
+            "zh": "这样啊。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "717/TALK",
+            "narrator": "みやび",
+            "text": "うん…ところで、\nその紅茶美味いが？",
+            "zh": "嗯……话说，\n那红茶好喝咯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "719/TALK",
+            "narrator": "アーヤ",
+            "text": "ええ、とっても。\nなんで？",
+            "zh": "嗯，非常好。\n怎么了？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "722/TALK",
+            "narrator": "みやび",
+            "text": "いや…。",
+            "zh": "没什么……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "724/TALK",
+            "narrator": "みやび",
+            "text": "海の磯臭さで紅茶の\n香り台無しやと思うん\nやけんど…。",
+            "zh": "我是觉得海水的腥味\n会把红茶的香气\n毁得干干净净咯……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "768/TALK",
+            "narrator": "神楽",
+            "text": "なんだか、充実した\n午後になりましたね。",
+            "zh": "总觉得，过了一个\n很充实的下午呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "769/TALK",
+            "narrator": "つばめ",
+            "text": "みやびさんが家から\n連れ出してくれた\nおかげだね。",
+            "zh": "多亏雅把我们\n从家里\n带出来呢。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "770/TALK",
+            "narrator": "みやび",
+            "text": "何や二人とも。\n疲れ取ったんじゃ\nないが？",
+            "zh": "驷马呀你们俩。\n这不就把疲累\n甩掉了咯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "772/TALK",
+            "narrator": "つばめ",
+            "text": "お買い物が楽しくて、\n疲れはどこかに\n消えちゃいました。",
+            "zh": "买东西太开心，\n疲累不知道\n跑哪里去了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "775/TALK",
+            "narrator": "ガブリエラ",
+            "text": "単純ねぇ。\nそんなんで疲れが\n取れるなんて。",
+            "zh": "真单纯呢。\n这样就能把疲累\n消掉。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "778/TALK",
+            "narrator": "アーヤ",
+            "text": "いいじゃない、\n元気になったん\nだから。",
+            "zh": "有什么不好，\n都精神起来\n了嘛。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "781/TALK",
+            "narrator": "アーヤ",
+            "text": "それに、家にいるより\n楽しく過ごせたのは\n事実なんだし。",
+            "zh": "而且，过得比\n待在家里开心，\n这是事实嘛。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "783/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "784/TALK",
+            "narrator": "アーヤ",
+            "text": "でも、ちょっと\n買い過ぎたかも\nしれないわね。",
+            "zh": "不过，好像\n买得有点\n太多了呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "786/TALK",
+            "narrator": "ガブリエラ",
+            "text": "大丈夫よ。\nアーヤは意外と\n大食いなんだし。",
+            "zh": "没事的。\n绫水意外地\n能吃嘛。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "789/TALK",
+            "narrator": "アーヤ",
+            "text": "大食いじゃないわよ。\n動いた分、ちゃんと\n食べてるだけだから。",
+            "zh": "才不是能吃。\n只是动了多少，\n就吃多少而已。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "791/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "793/TALK",
+            "narrator": "つばめ",
+            "text": "イチゴ、どうやって\n食べようかなぁ？",
+            "zh": "草莓，要怎么\n吃才好呢？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "795/TALK",
+            "narrator": "神楽",
+            "text": "冷やしたのを\n食べるんじゃ\nないんですか？",
+            "zh": "不是冰过之后\n直接吃\n吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "797/TALK",
+            "narrator": "つばめ",
+            "text": "お砂糖入れた牛乳に\n入れても\n美味しいんだよ？",
+            "zh": "放进加了糖的\n牛奶里也\n很好吃哦？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "798/TALK",
+            "narrator": "神楽",
+            "text": "そうなんですか…。\n私、そういう食べ方\nしたことなくて…。",
+            "zh": "是这样吗……\n我从来没那样\n吃过……",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "799/TALK",
+            "narrator": "つばめ",
+            "text": "じゃあ、デザートに\n一緒に食べよ。",
+            "zh": "那就当甜点，\n一起吃吧。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "801/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "802/TALK",
+            "narrator": "みやび",
+            "text": "みんな、楽しんで\nくれたみたいやな。",
+            "zh": "大家看来玩得\n挺开心咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "803/TALK",
+            "narrator": "みやび",
+            "text": "思い切って、\nみんな連れだした\n甲斐があったがよ。",
+            "zh": "狠下心把大家\n带出来，\n总算值了咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "805/TALK",
+            "narrator": "アーヤ",
+            "text": "みやび、今日は\n連れ出してくれて\nありがとう。",
+            "zh": "雅，谢谢你今天\n把我们带\n出来。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "806/TALK",
+            "narrator": "アーヤ",
+            "text": "とっても楽しい\n時間を過ごせたわ。",
+            "zh": "度过了非常\n开心的时光。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "808/TALK",
+            "narrator": "つばめ",
+            "text": "また訓練がお休みに\nなったら。",
+            "zh": "要是训练又\n放假的话。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "809/TALK",
+            "narrator": "つばめ",
+            "text": "お買い物に連れて\nいってくださいね。",
+            "zh": "请再带我们\n去买东西哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "810/TALK",
+            "narrator": "みやび",
+            "text": "…そうやね。",
+            "zh": "……是啊咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "811/TALK",
+            "narrator": "みやび",
+            "text": "その時は全員一緒で、\n荷物持ちしてな。",
+            "zh": "到时候全员一起，\n都要帮忙搬东西哦。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "812/TALK",
+            "narrator": "つばめ",
+            "text": "はい！",
+            "zh": "好！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "813/TALK",
+            "narrator": "アーヤ",
+            "text": "そんなこと言わないで\n配送とか\n頼めばいいじゃない。",
+            "zh": "别说这种话，\n叫个快递\n不就好了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "815/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうよ。\n勝手ばっかり\n言うんだから。",
+            "zh": "就是啊。\n净顾着\n自己方便。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "817/TALK",
+            "narrator": "つばめ",
+            "text": "あれ？\nみんな手伝わないん\nですか？　",
+            "zh": "咦？\n大家不帮忙\n吗？　",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "818/TALK",
+            "narrator": "みやび",
+            "text": "本気にしたのは\nつばめちゃんだけ\nやねえ。",
+            "zh": "当真的\n只有燕一个\n呀。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "819/TALK",
+            "narrator": "つばめ",
+            "text": "えー！？",
+            "zh": "诶——！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "821/TALK",
+            "narrator": "みやび",
+            "text": "ふふっ……。",
+            "zh": "呵呵……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "832/DIALOG",
+            "narrator": "Dialog_chapter_ch04",
+            "text": "【17 告白】",
+            "zh": "【17 告白】",
+            "narrator_zh": "Dialog_chapter_ch04"
+        }
+    ]
+}

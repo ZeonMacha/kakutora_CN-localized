@@ -1,0 +1,1911 @@
+{
+    "dir": "chap36/daydra/dd_ch04_36_101.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "36402",
+        "cid": "miyabi",
+        "title": "002 メインストーリー",
+        "sub_title": "ないはずの思い出＜前編＞",
+        "title_zh": "002 主线剧情",
+        "sub_title_zh": "本不该存在的回忆＜前篇＞"
+    },
+    "entry": [
+        {
+            "location": "8/SCENARIO",
+            "narrator": "",
+            "text": "ないはずの思い出",
+            "zh": "本不该存在的回忆",
+            "narrator_zh": ""
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "みやび",
+            "text": "なごちゃん、しっかり！\nうちはここに居るきね！",
+            "zh": "七五，撑住！\n我就在这里啵！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "みやび",
+            "text": "大丈夫やき、\nしっかりして…！",
+            "zh": "没事的啵，\n撑住…！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "七五三　",
+            "text": "いたいいたいいたい！\nあたま、いたい…！\nみや…たすけて…みや…！",
+            "zh": "疼疼疼！\n头，好疼…！\n小雅…救救我…小雅…！",
+            "narrator_zh": "七五三"
+        },
+        {
+            "location": "34/TALK",
+            "narrator": "みやび",
+            "text": "なごちゃん！\nなごちゃん！",
+            "zh": "七五！\n七五！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "37/TALK",
+            "narrator": "みやび",
+            "text": "なごちゃん……。",
+            "zh": "七五……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "52/TALK",
+            "narrator": "みやび",
+            "text": "…なごちゃん…\n…なごちゃん…。",
+            "zh": "…七五…\n…七五…。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "53/TALK",
+            "narrator": "みやび",
+            "text": "うちが付いちゅうき…。\nなごちゃん……。",
+            "zh": "是我陪着你就好了啵…。\n七五……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "54/SEL",
+            "narrator": "",
+            "text": "みやびは平気？",
+            "zh": "雅你没事？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "55/SEL",
+            "narrator": "",
+            "text": "少し休みなよ",
+            "zh": "稍微歇一会儿吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "56/SEL",
+            "narrator": "",
+            "text": "心配だよね",
+            "zh": "我很担心啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "57/ACT",
+            "narrator": "",
+            "text": "みやびは平気？",
+            "zh": "雅你没事？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "みやび",
+            "text": "うちは平気ぞね。\nそれよりなごちゃんの\nことやき。",
+            "zh": "我没事咧。\n比起我，\n七五才要紧啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "60/ACT",
+            "narrator": "",
+            "text": "少し休みなよ",
+            "zh": "稍微歇一会儿吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "61/TALK",
+            "narrator": "みやび",
+            "text": "そんなこと\nできるわけがないろう。",
+            "zh": "那种事\n怎么可能做得到咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "62/ACT",
+            "narrator": "",
+            "text": "心配だよね",
+            "zh": "我很担心啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "63/TALK",
+            "narrator": "みやび",
+            "text": "当然ちや。",
+            "zh": "那是当然滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "みやび",
+            "text": "…ちうか、おんしは\n誰ぞね？",
+            "zh": "……说起来，\n你是哪位咧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "66/SEL",
+            "narrator": "",
+            "text": "$handle$",
+            "zh": "$handle$",
+            "narrator_zh": ""
+        },
+        {
+            "location": "67/SEL",
+            "narrator": "",
+            "text": "$me$だよ",
+            "zh": "是$me$哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "68/SEL",
+            "narrator": "",
+            "text": "相棒だけど",
+            "zh": "是搭档啦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "70/TALK",
+            "narrator": "みやび",
+            "text": "…わるいけんど\n思い出せん。",
+            "zh": "……没好意思，\n想不起来。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "71/ACT",
+            "narrator": "",
+            "text": "$me$だよ",
+            "zh": "是$me$哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "72/TALK",
+            "narrator": "みやび",
+            "text": "それは答えになはって\nないろう？",
+            "zh": "那算哪门子\n回答咯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "73/ACT",
+            "narrator": "",
+            "text": "相棒だけど",
+            "zh": "是搭档啦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "74/TALK",
+            "narrator": "みやび",
+            "text": "冗談言うちゅう\n場合やないき。",
+            "zh": "现在不是\n开玩笑的时候啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "みやび",
+            "text": "悪いけんど\n今は知らん人の相手を\nしとる余裕はないき。",
+            "zh": "没好意思，\n现在没得闲工夫\n陪陌生人应酬啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "77/SEL",
+            "narrator": "",
+            "text": "なごちゃん頭痛なんでしょ",
+            "zh": "七五她头疼对吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "78/SEL",
+            "narrator": "",
+            "text": "それってあの症状でしょ",
+            "zh": "那就是那个症状吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "79/SEL",
+            "narrator": "",
+            "text": "似た症例を知ってるんだ",
+            "zh": "我知道相似的病例",
+            "narrator_zh": ""
+        },
+        {
+            "location": "80/ACT",
+            "narrator": "",
+            "text": "なごちゃん頭痛なんでしょ",
+            "zh": "七五她头疼对吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "81/TALK",
+            "narrator": "みやび",
+            "text": "…そう。",
+            "zh": "……这样啊。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "82/ACT",
+            "narrator": "",
+            "text": "それってあの症状でしょ",
+            "zh": "那就是那个症状吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "みやび",
+            "text": "あれ？",
+            "zh": "咦？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "84/ACT",
+            "narrator": "",
+            "text": "似た症例を知ってるんだ",
+            "zh": "我知道相似的病例",
+            "narrator_zh": ""
+        },
+        {
+            "location": "87/TALK",
+            "narrator": "みやび",
+            "text": "えっ！？",
+            "zh": "诶！？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "89/SEL",
+            "narrator": "",
+            "text": "つばめと同じだ",
+            "zh": "和燕一样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "90/SEL",
+            "narrator": "",
+            "text": "まだつばめのことは知らないんだ",
+            "zh": "你还不知道燕的事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "91/SEL",
+            "narrator": "",
+            "text": "つばめもこうだったんだね",
+            "zh": "燕当时也是这样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "92/ACT",
+            "narrator": "",
+            "text": "つばめと同じだ",
+            "zh": "和燕一样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "95/TALK",
+            "narrator": "みやび",
+            "text": "つばめ…？",
+            "zh": "燕…？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "96/ACT",
+            "narrator": "",
+            "text": "まだつばめのことは知らないんだ",
+            "zh": "你还不知道燕的事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "98/TALK",
+            "narrator": "みやび",
+            "text": "誰？",
+            "zh": "谁？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "99/ACT",
+            "narrator": "",
+            "text": "つばめもこうだったんだね",
+            "zh": "燕当时也是这样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "みやび",
+            "text": "そもそも知らんけんど。",
+            "zh": "话说我根本就不认识咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "みやび",
+            "text": "つばめ、いう子が\nなごちゃんと似た\n状態になった……。",
+            "zh": "有个叫燕的孩子，\n变得和七五\n差不多……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "みやび",
+            "text": "…ということは……。",
+            "zh": "……也就是说……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "みやび",
+            "text": "そのつばめ、いう子は\n激しい頭痛が出た後\nどうなったぞね？",
+            "zh": "那个叫燕的孩子，\n剧烈头痛过后\n怎么样了咧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "105/SEL",
+            "narrator": "",
+            "text": "どうって？",
+            "zh": "怎么样是指？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "106/ACT",
+            "narrator": "",
+            "text": "どうって？",
+            "zh": "怎么样是指？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "108/TALK",
+            "narrator": "みやび",
+            "text": "まだ病院に居るとか\nそういう…経過に\nついてのことぞね。",
+            "zh": "还在不在医院之类的，\n就是…关于\n病情进展的事咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "109/SEL",
+            "narrator": "",
+            "text": "治ったよ",
+            "zh": "治好了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "110/SEL",
+            "narrator": "",
+            "text": "新しい力に目覚めた",
+            "zh": "觉醒了新的力量",
+            "narrator_zh": ""
+        },
+        {
+            "location": "111/SEL",
+            "narrator": "",
+            "text": "高校生になったよ",
+            "zh": "变成高中生啦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "112/ACT",
+            "narrator": "",
+            "text": "治ったよ",
+            "zh": "治好了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "114/TALK",
+            "narrator": "みやび",
+            "text": "そうなんか……。",
+            "zh": "这样咩……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "115/ACT",
+            "narrator": "",
+            "text": "新しい力に目覚めた",
+            "zh": "觉醒了新的力量",
+            "narrator_zh": ""
+        },
+        {
+            "location": "117/TALK",
+            "narrator": "みやび",
+            "text": "いや、そういう冗談は\n聞きとうない。",
+            "zh": "不，那种玩笑\n我可不想听。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "118/ACT",
+            "narrator": "",
+            "text": "高校生になったよ",
+            "zh": "变成高中生啦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "120/TALK",
+            "narrator": "みやび",
+            "text": "…退院した、\nいうことやね。",
+            "zh": "……是出院了，\n是这个意思咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "122/TALK",
+            "narrator": "みやび",
+            "text": "いうことは、\nなごちゃんも治る\nいうことやね。",
+            "zh": "也就是说，\n七五也能治好，\n是这个意思咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "123/SEL",
+            "narrator": "",
+            "text": "うーん…",
+            "zh": "唔……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "124/SEL",
+            "narrator": "",
+            "text": "そればっかりは",
+            "zh": "这个嘛不好说",
+            "narrator_zh": ""
+        },
+        {
+            "location": "125/SEL",
+            "narrator": "",
+            "text": "$me$には断定できない",
+            "zh": "$me$没法断定",
+            "narrator_zh": ""
+        },
+        {
+            "location": "126/ACT",
+            "narrator": "",
+            "text": "うーん…",
+            "zh": "唔……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "127/TALK",
+            "narrator": "みやび",
+            "text": "歯切れが悪いねえ。",
+            "zh": "回答得含含糊糊咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "128/ACT",
+            "narrator": "",
+            "text": "そればっかりは",
+            "zh": "这个嘛不好说",
+            "narrator_zh": ""
+        },
+        {
+            "location": "129/TALK",
+            "narrator": "みやび",
+            "text": "いやいやそう言わず。",
+            "zh": "别别别这么说嘛。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "130/ACT",
+            "narrator": "",
+            "text": "$me$には断定できない",
+            "zh": "$me$没法断定",
+            "narrator_zh": ""
+        },
+        {
+            "location": "131/TALK",
+            "narrator": "みやび",
+            "text": "何事にも１００パーは\nないけんど。",
+            "zh": "无论什么事，\n都没有百分之百啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "みやび",
+            "text": "遠慮せんでえいき。\nなごちゃんを治し。",
+            "zh": "不用客气啵。\n把七五治好。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "134/SEL",
+            "narrator": "",
+            "text": "医者じゃないから…",
+            "zh": "我又不是医生…",
+            "narrator_zh": ""
+        },
+        {
+            "location": "135/SEL",
+            "narrator": "",
+            "text": "$me$に言われても",
+            "zh": "$me$被这么说也没用",
+            "narrator_zh": ""
+        },
+        {
+            "location": "136/SEL",
+            "narrator": "",
+            "text": "みやびが治せばいいと思う",
+            "zh": "我觉得雅自己治就好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "137/ACT",
+            "narrator": "",
+            "text": "医者じゃないから…",
+            "zh": "我又不是医生…",
+            "narrator_zh": ""
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "みやび",
+            "text": "そうやとは\n思うとった。",
+            "zh": "这一点\n我倒是想到了咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "139/ACT",
+            "narrator": "",
+            "text": "$me$に言われても",
+            "zh": "$me$被这么说也没用",
+            "narrator_zh": ""
+        },
+        {
+            "location": "140/TALK",
+            "narrator": "みやび",
+            "text": "ゴッドハンドは\n持っとらんか。",
+            "zh": "神之手\n你是没得的咯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "141/ACT",
+            "narrator": "",
+            "text": "みやびが治せばいいと思う",
+            "zh": "我觉得雅自己治就好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "みやび",
+            "text": "それができたら\nとっくにそうしちゅう。",
+            "zh": "要是做得到，\n早就做了咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "144/TALK",
+            "narrator": "みやび",
+            "text": "はぁ……。",
+            "zh": "唉……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "145/SEL",
+            "narrator": "",
+            "text": "ところで",
+            "zh": "话说",
+            "narrator_zh": ""
+        },
+        {
+            "location": "146/ACT",
+            "narrator": "",
+            "text": "ところで",
+            "zh": "话说",
+            "narrator_zh": ""
+        },
+        {
+            "location": "148/TALK",
+            "narrator": "みやび",
+            "text": "何ぞね。",
+            "zh": "驷马事咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "149/SEL",
+            "narrator": "",
+            "text": "なごちゃんはフェノメノンに巻き込まれて死んだのでは？",
+            "zh": "七五是不是被PhenoMENON卷进去死了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "150/ACT",
+            "narrator": "",
+            "text": "なごちゃんはフェノメノンに巻き込まれて死んだのでは？",
+            "zh": "七五是不是被PhenoMENON卷进去死了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "153/TALK",
+            "narrator": "みやび",
+            "text": "フェノメノン？",
+            "zh": "PhenoMENON？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "154/SEL",
+            "narrator": "",
+            "text": "そう",
+            "zh": "对",
+            "narrator_zh": ""
+        },
+        {
+            "location": "155/ACT",
+            "narrator": "",
+            "text": "そう",
+            "zh": "对",
+            "narrator_zh": ""
+        },
+        {
+            "location": "157/TALK",
+            "narrator": "みやび",
+            "text": "フェノメノンか…。",
+            "zh": "PhenoMENON啊……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "159/TALK",
+            "narrator": "みやび",
+            "text": "フェノメノンちうのは\n何ぞね？",
+            "zh": "所谓PhenoMENON\n是驷马咧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "160/SEL",
+            "narrator": "",
+            "text": "フェノメノンはフェノメノンだよ",
+            "zh": "PhenoMENON就是PhenoMENON啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "161/SEL",
+            "narrator": "",
+            "text": "あれ？",
+            "zh": "咦？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "162/SEL",
+            "narrator": "",
+            "text": "冗談で言ってるの？",
+            "zh": "你在开玩笑吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "163/ACT",
+            "narrator": "",
+            "text": "フェノメノンはフェノメノンだよ",
+            "zh": "PhenoMENON就是PhenoMENON啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "164/ACT",
+            "narrator": "",
+            "text": "あれ？",
+            "zh": "咦？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "165/ACT",
+            "narrator": "",
+            "text": "冗談で言ってるの？",
+            "zh": "你在开玩笑吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "187/TALK",
+            "narrator": "みやび",
+            "text": "なごちゃん！",
+            "zh": "七五！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "188/TALK",
+            "narrator": "みやび",
+            "text": "…なごちゃんは！？",
+            "zh": "……七五她！？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "189/TALK",
+            "narrator": "職員Ａ",
+            "text": "予想以上の重体のため\n政府の先進医療病院へ\n緊急搬送をしました。",
+            "zh": "因病情远超预想，\n已紧急转送至\n政府先进医疗医院。",
+            "narrator_zh": "职员Ａ"
+        },
+        {
+            "location": "190/TALK",
+            "narrator": "みやび",
+            "text": "え…？",
+            "zh": "诶…？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "191/TALK",
+            "narrator": "職員Ａ",
+            "text": "申し訳ありません。",
+            "zh": "非常抱歉。",
+            "narrator_zh": "职员Ａ"
+        },
+        {
+            "location": "192/TALK",
+            "narrator": "職員Ａ",
+            "text": "君、急がないと…！",
+            "zh": "你，再不快点…！",
+            "narrator_zh": "职员Ａ"
+        },
+        {
+            "location": "193/TALK",
+            "narrator": "職員Ｂ",
+            "text": "あ、はい…！",
+            "zh": "啊，是…！",
+            "narrator_zh": "职员Ｂ"
+        },
+        {
+            "location": "197/TALK",
+            "narrator": "みやび",
+            "text": "ちょ…！",
+            "zh": "等…！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "198/TALK",
+            "narrator": "みやび",
+            "text": "その病院はどこに\nあるがですか！？",
+            "zh": "那家医院\n到底在哪里！？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "199/TALK",
+            "narrator": "みやび",
+            "text": "…ちょっと待って\n待ちい！！",
+            "zh": "……等一下\n等等啊！！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "203/TALK",
+            "narrator": "みやび",
+            "text": "…待ちい、て…。",
+            "zh": "……等等，我说的…。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "204/TALK",
+            "narrator": "みやび",
+            "text": "何の説明もなしに！？\nどうなっちゅう！？",
+            "zh": "连句说明都没有！？\n这是搞什么咯！？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "205/TALK",
+            "narrator": "みやび",
+            "text": "誰か、返してくれ！\nなごちゃんを、\nなごちゃんを…！",
+            "zh": "谁来把她还给我！\n七五，\n七五…！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "245/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "ちゅうわけでや。",
+            "zh": "所以说呀。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "246/TALK",
+            "narrator": "四十九夜　",
+            "text": "うちらは\n考えたぞね。",
+            "zh": "我们呐，\n想好了咧。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "247/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "題して！",
+            "zh": "名字就叫！",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "251/TALK",
+            "narrator": "四十九夜　",
+            "text": "どっちの\nうちでショウ！！",
+            "zh": "哪种我\n做主秀！！",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "252/TALK",
+            "narrator": "なご",
+            "text": "なにしゆう……",
+            "zh": "在说什么呀……",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "253/SEL",
+            "narrator": "",
+            "text": "は…！？",
+            "zh": "哈…！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "254/ACT",
+            "narrator": "",
+            "text": "は…！？",
+            "zh": "哈…！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "256/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "はいはい本日も\nやってまいりました！",
+            "zh": "好好好，今天也\n开张咯！",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "257/TALK",
+            "narrator": "四十九夜　",
+            "text": "司会は私、\n四十九夜と、",
+            "zh": "主持是我，\n四十九夜，",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "258/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "シンギュラリティで\nお届けするぞね。",
+            "zh": "和奇点，\n为你献上节目咧。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "259/SEL",
+            "narrator": "",
+            "text": "ちょっとまって意味が分かりません",
+            "zh": "等一下我不明白什么意思",
+            "narrator_zh": ""
+        },
+        {
+            "location": "260/ACT",
+            "narrator": "",
+            "text": "ちょっとまって意味が分かりません",
+            "zh": "等一下我不明白什么意思",
+            "narrator_zh": ""
+        },
+        {
+            "location": "262/TALK",
+            "narrator": "四十九夜　",
+            "text": "ルールは簡単ちや。",
+            "zh": "规则很简单滴。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "263/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "今からうちに関する\n問題を五問出題\nしますき。",
+            "zh": "现在开始出\n五道关于我的\n问题啵。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "264/TALK",
+            "narrator": "四十九夜　",
+            "text": "これぞみやび！　と\n思った方を選択しいや。",
+            "zh": "觉得“这才是雅！”\n就选那一个咧。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "265/SEL",
+            "narrator": "",
+            "text": "ええええ！突然なんで！？",
+            "zh": "诶诶诶诶！怎么这么突然！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "266/ACT",
+            "narrator": "",
+            "text": "ええええ！突然なんで！？",
+            "zh": "诶诶诶诶！怎么这么突然！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "268/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "すると\nなんとうちが！",
+            "zh": "然后呢，\n想不到我会！",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "269/TALK",
+            "narrator": "四十九夜　",
+            "text": "あなた好みの\nうちに大変身！",
+            "zh": "变身成你喜欢的\n那个我！",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "270/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "それでは早速\n参りたいと思います！",
+            "zh": "那么让我们\n赶快开始吧！",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "271/TALK",
+            "narrator": "四十九夜　",
+            "text": "どっちの\nうちでショウ！！",
+            "zh": "哪种我\n做主秀！！",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "272/TALK",
+            "narrator": "なご",
+            "text": "早う、終わらせや。",
+            "zh": "快点给我结束掉。",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "276/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "第一問！",
+            "zh": "第一问！",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "277/TALK",
+            "narrator": "四十九夜　",
+            "text": "寝るときは！",
+            "zh": "睡觉的时候！",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "278/SEL",
+            "narrator": "",
+            "text": "ドテラ",
+            "zh": "裹着大棉袍",
+            "narrator_zh": ""
+        },
+        {
+            "location": "279/SEL",
+            "narrator": "",
+            "text": "一糸まとわぬ姿",
+            "zh": "一丝不挂",
+            "narrator_zh": ""
+        },
+        {
+            "location": "280/ACT",
+            "narrator": "",
+            "text": "ドテラ",
+            "zh": "裹着大棉袍",
+            "narrator_zh": ""
+        },
+        {
+            "location": "282/ACT",
+            "narrator": "",
+            "text": "一糸まとわぬ姿",
+            "zh": "一丝不挂",
+            "narrator_zh": ""
+        },
+        {
+            "location": "284/TALK",
+            "narrator": "四十九夜　",
+            "text": "第二問！",
+            "zh": "第二问！",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "285/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "デート中、\nカフェでは！",
+            "zh": "约会中，\n在咖啡馆的话！",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "286/SEL",
+            "narrator": "",
+            "text": "ちゅうをしまくる",
+            "zh": "亲个不停",
+            "narrator_zh": ""
+        },
+        {
+            "location": "287/SEL",
+            "narrator": "",
+            "text": "スマホを見て暇を潰す",
+            "zh": "玩手机打发时间",
+            "narrator_zh": ""
+        },
+        {
+            "location": "288/ACT",
+            "narrator": "",
+            "text": "ちゅうをしまくる",
+            "zh": "亲个不停",
+            "narrator_zh": ""
+        },
+        {
+            "location": "289/ACT",
+            "narrator": "",
+            "text": "スマホを見て暇を潰す",
+            "zh": "玩手机打发时间",
+            "narrator_zh": ""
+        },
+        {
+            "location": "292/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "第三問！",
+            "zh": "第三问！",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "293/TALK",
+            "narrator": "四十九夜　",
+            "text": "作るなら！",
+            "zh": "要造的话！",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "294/SEL",
+            "narrator": "",
+            "text": "サーバーマシン",
+            "zh": "服务器主机",
+            "narrator_zh": ""
+        },
+        {
+            "location": "295/SEL",
+            "narrator": "",
+            "text": "子供",
+            "zh": "孩子",
+            "narrator_zh": ""
+        },
+        {
+            "location": "296/ACT",
+            "narrator": "",
+            "text": "サーバーマシン",
+            "zh": "服务器主机",
+            "narrator_zh": ""
+        },
+        {
+            "location": "298/ACT",
+            "narrator": "",
+            "text": "子供",
+            "zh": "孩子",
+            "narrator_zh": ""
+        },
+        {
+            "location": "300/TALK",
+            "narrator": "四十九夜　",
+            "text": "第四問！",
+            "zh": "第四问！",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "301/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "なごちゃんは！",
+            "zh": "七五是！",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "302/SEL",
+            "narrator": "",
+            "text": "イマジナリーシスター",
+            "zh": "想象中的妹妹",
+            "narrator_zh": ""
+        },
+        {
+            "location": "303/SEL",
+            "narrator": "",
+            "text": "かわいい妹",
+            "zh": "可爱的妹妹",
+            "narrator_zh": ""
+        },
+        {
+            "location": "304/ACT",
+            "narrator": "",
+            "text": "イマジナリーシスター",
+            "zh": "想象中的妹妹",
+            "narrator_zh": ""
+        },
+        {
+            "location": "305/ACT",
+            "narrator": "",
+            "text": "かわいい妹",
+            "zh": "可爱的妹妹",
+            "narrator_zh": ""
+        },
+        {
+            "location": "309/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "第五問！",
+            "zh": "第五问！",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "310/TALK",
+            "narrator": "四十九夜　",
+            "text": "コイガサキとは！",
+            "zh": "恋之崎是指！",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "311/SEL",
+            "narrator": "",
+            "text": "エンドレスでラッキースケベ日常アニメを続けたい",
+            "zh": "想把幸运色狼日常动画无限继续下去",
+            "narrator_zh": ""
+        },
+        {
+            "location": "312/SEL",
+            "narrator": "",
+            "text": "血湧き肉躍る冒険活劇ラブロマンスをしたい",
+            "zh": "想来一场热血沸腾的冒险活剧爱情大戏",
+            "narrator_zh": ""
+        },
+        {
+            "location": "313/ACT",
+            "narrator": "",
+            "text": "エンドレスで日常アニメを続けたい",
+            "zh": "想把日常动画无限继续下去",
+            "narrator_zh": ""
+        },
+        {
+            "location": "315/ACT",
+            "narrator": "",
+            "text": "血湧き肉躍る冒険活劇ラブロマンスをしたい",
+            "zh": "想来一场热血沸腾的冒险活剧爱情大戏",
+            "narrator_zh": ""
+        },
+        {
+            "location": "321/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "終了！！",
+            "zh": "结束！！",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "323/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "というわけで！",
+            "zh": "所以呢！",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "324/TALK",
+            "narrator": "四十九夜　",
+            "text": "お前さんの理想の\nみやび実現度は！！",
+            "zh": "你的理想雅\n实现度是！！",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "329/TALK",
+            "narrator": "四十九夜　",
+            "text": "まあ…よくここまで\n一貫した回答を\nしたものやね。",
+            "zh": "嘛…居然能一路\n保持这么一致的\n回答，厉害咯。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "330/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "まっこと、天晴れな程に\n煩悩ダダ漏れや。",
+            "zh": "实在是，叹为观止地\n烦恼狂漏咯。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "331/TALK",
+            "narrator": "四十九夜　",
+            "text": "おま中イマジナリー\nみやびさんで、存分に\nエンジョイしいや。",
+            "zh": "用你脑内的\n想象雅，\n尽情享受吧咧。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "332/SEL",
+            "narrator": "",
+            "text": "あれ！？　選んだとおりのみやびになるんじゃ…",
+            "zh": "咦！？　不是会变成我选的那种雅吗…",
+            "narrator_zh": ""
+        },
+        {
+            "location": "333/ACT",
+            "narrator": "",
+            "text": "あれ！？　選んだとおりのみやびになるんじゃ…",
+            "zh": "咦！？　不是会变成我选的那种雅吗…",
+            "narrator_zh": ""
+        },
+        {
+            "location": "337/TALK",
+            "narrator": "四十九夜　",
+            "text": "こじゃんと\n妄想全開やね…。",
+            "zh": "妄想全开得\n相当彻底呢…。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "338/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "こんなみやびさんいたら\n放送できんぞね。",
+            "zh": "要是真有这种雅，\n根本没法播咧。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "339/SEL",
+            "narrator": "",
+            "text": "あれ！？　選んだとおりのみやびになるんじゃ…",
+            "zh": "咦！？　不是会变成我选的那种雅吗…",
+            "narrator_zh": ""
+        },
+        {
+            "location": "340/ACT",
+            "narrator": "",
+            "text": "あれ！？　選んだとおりのみやびになるんじゃ…",
+            "zh": "咦！？　不是会变成我选的那种雅吗…",
+            "narrator_zh": ""
+        },
+        {
+            "location": "344/TALK",
+            "narrator": "四十九夜　",
+            "text": "まあ、健康的な\n思春期男児といった\nところかね。",
+            "zh": "嘛，也就是个\n健康的青春期\n男孩子咯。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "345/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "相棒が女子でも、\n健康的男児的女子や。",
+            "zh": "就算搭档是女的，\n也是健康男孩系女子。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "346/SEL",
+            "narrator": "",
+            "text": "で、そんなみやびになってくれるんでしょ？",
+            "zh": "那，你会变成那种雅对吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "347/ACT",
+            "narrator": "",
+            "text": "で、そんなみやびになってくれるんでしょ？",
+            "zh": "那，你会变成那种雅对吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "349/TALK",
+            "narrator": "四十九夜　",
+            "text": "まあ、これくらいなら\nお前さん次第かね。",
+            "zh": "嘛，这种程度的话，\n就看你咯。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "352/TALK",
+            "narrator": "四十九夜　",
+            "text": "ほうほう。\nわりと悪くない\n実現度やね。",
+            "zh": "哦哦。\n实现度还\n不算差咯。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "353/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "これくらいになると、\nまあ許してもえいかなと\n思えるレベルや。",
+            "zh": "到了这个程度，\n嗯，就觉得可以\n放行的级别咯。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "354/SEL",
+            "narrator": "",
+            "text": "やった！",
+            "zh": "太棒了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "355/ACT",
+            "narrator": "",
+            "text": "やった！",
+            "zh": "太棒了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "357/TALK",
+            "narrator": "四十九夜　",
+            "text": "けんど、\nなるのには１０年を\n要するね。",
+            "zh": "但是，\n要变成那样\n得花上10年咯。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "360/TALK",
+            "narrator": "四十九夜　",
+            "text": "おおっ！\nなんという健全な！",
+            "zh": "哦哦！\n多么健全啊！",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "361/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "健全の中にも\nちくっと不健全が\n混ざる理想の相棒！",
+            "zh": "健全里又掺着\n一点不健全的\n理想搭档！",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "362/SEL",
+            "narrator": "",
+            "text": "なってくれるの？",
+            "zh": "你会变成吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "363/ACT",
+            "narrator": "",
+            "text": "なってくれるの？",
+            "zh": "你会变成吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "365/TALK",
+            "narrator": "四十九夜　",
+            "text": "うむ。\n大いに検討しよう。",
+            "zh": "嗯。\n值得大力研究。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "368/TALK",
+            "narrator": "四十九夜　",
+            "text": "なんという健全な！！",
+            "zh": "多么健全啊！！",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "369/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "相棒がこんなに\n健全な全年齢対象\nキャラやったなんて！",
+            "zh": "没想到搭档居然是\n这么健全的全年龄向\n角色！",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "370/TALK",
+            "narrator": "四十九夜　",
+            "text": "これは奇跡とも\n言えようぞ。",
+            "zh": "这都能说是\n奇迹了啵。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "371/SEL",
+            "narrator": "",
+            "text": "で、なってくれるの？",
+            "zh": "那，会变成吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "372/ACT",
+            "narrator": "",
+            "text": "で、なってくれるの？",
+            "zh": "那，会变成吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "374/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "つーか、\n今現在ナウまさに\nその通りのうちやよ。",
+            "zh": "话说，\n此时此刻的我\n正是那个样咯。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "379/TALK",
+            "narrator": "四十九夜　",
+            "text": "とまあ、\nそんな余興はさておき。",
+            "zh": "好了，\n余兴节目到此为止。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "380/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "この五つの問題には、\nなごちゃん発症に関する\n重大な仕掛けがあった！",
+            "zh": "这五个问题里，\n藏着关于七五发症的\n重大机关！",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "382/TALK",
+            "narrator": "四十九夜　",
+            "text": "うちらが高度な情報戦を\n仕掛けていたのである。",
+            "zh": "是我们设下了\n高度的信息战。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "383/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "そう。これらの問題に\nよって、お前さんの\n本心がわかる。",
+            "zh": "是的。靠这些\n问题，就能知道\n你的本心。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "384/TALK",
+            "narrator": "四十九夜　",
+            "text": "うむ。うわべだけの\n打算的な判断ではなく、\n深層でどう思ってるかや。",
+            "zh": "嗯。不是表面的\n算计性判断，\n而是深层里怎么想。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "385/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "そしてズバリ！\nお前さんは――",
+            "zh": "然后直说了！\n你——",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "387/TALK",
+            "narrator": "四十九夜　",
+            "text": "確かに宣言どおり、\nうちの発症を\n望んじゅう！！",
+            "zh": "确实如宣言所说，\n巴望着\n我发症！！[?]",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "388/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "まじかー……",
+            "zh": "真的假的……",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "390/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "言葉とは裏腹に\n本当は発症を\n望んではおらん！",
+            "zh": "嘴上说的和心里\n相反，其实根本\n不希望发症！",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "391/TALK",
+            "narrator": "四十九夜　",
+            "text": "なるほどね……",
+            "zh": "原来如此……",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "393/SEL",
+            "narrator": "",
+            "text": "その通り！",
+            "zh": "没错！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "394/SEL",
+            "narrator": "",
+            "text": "異議申し立てる！",
+            "zh": "我要提出异议！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "395/ACT",
+            "narrator": "",
+            "text": "その通り！",
+            "zh": "没错！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "398/TALK",
+            "narrator": "四十九夜　",
+            "text": "よかったね。\n深層心理も\nお前さんの味方で。",
+            "zh": "真好呐。\n深层心理也\n站在你这边。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "399/ACT",
+            "narrator": "",
+            "text": "異議申し立てる！",
+            "zh": "我要提出异议！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "402/TALK",
+            "narrator": "四十九夜　",
+            "text": "なるほど。",
+            "zh": "原来如此。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "403/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "うむ、その意気や！\n深層心理なぞには負けん\nエラいやつや。",
+            "zh": "嗯，好气魄！\n是不输给深层心理的\n了不起的家伙。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "405/TALK",
+            "narrator": "なご",
+            "text": "そろそろ\n余興は終わったん？",
+            "zh": "余兴节目\n差不多完了吗？",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "409/TALK",
+            "narrator": "四十九夜　",
+            "text": "うむ、\n終わったよ。",
+            "zh": "嗯，\n结束了。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "412/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "……どうや？",
+            "zh": "……如何？",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "413/TALK",
+            "narrator": "四十九夜　",
+            "text": "………。",
+            "zh": "………。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "414/TALK",
+            "narrator": "四十九夜　",
+            "text": "戻っちゅう！！",
+            "zh": "回来了！！",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "416/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "まじかぁぁぁっ！！",
+            "zh": "真的假的啊啊啊！！",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "417/SEL",
+            "narrator": "",
+            "text": "え？なになに！？",
+            "zh": "诶？什么什么！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "418/ACT",
+            "narrator": "",
+            "text": "え？なになに！？",
+            "zh": "诶？什么什么！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "420/TALK",
+            "narrator": "四十九夜　",
+            "text": "うちがお前さんから\n「種」を取り戻したんよ。",
+            "zh": "我从你手里\n把“种子”夺回来了哟。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "421/TALK",
+            "narrator": "なご",
+            "text": "おお、さすが\n四十九夜ぞね！",
+            "zh": "哦哦，不愧是\n四十九夜咧！",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "422/SEL",
+            "narrator": "",
+            "text": "なんで！？",
+            "zh": "为什么！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "423/ACT",
+            "narrator": "",
+            "text": "なんで！？",
+            "zh": "为什么！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "425/TALK",
+            "narrator": "四十九夜　",
+            "text": "種を奪ったのが\nお前さんなら、\n与えるのもまたお前さん。",
+            "zh": "夺走种子的是你，\n能给出种子的\n也只能是你。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "426/TALK",
+            "narrator": "四十九夜　",
+            "text": "さっきの５つの質問の中に\nお前さんが発症を望むなら\n選ぶ質問を用意していた。",
+            "zh": "刚才那5个问题里，\n我备下了你若\n希望发症就会选的问题。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "427/TALK",
+            "narrator": "四十九夜　",
+            "text": "そして見事、\nお前さんはそれを\n選んだわけや。",
+            "zh": "然后，\n你出色地选中了\n那道题咯。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "428/SEL",
+            "narrator": "",
+            "text": "まあ確かに、実は発症に揺らいでいたのはある",
+            "zh": "嘛确实，其实对发症是有过动摇",
+            "narrator_zh": ""
+        },
+        {
+            "location": "429/SEL",
+            "narrator": "",
+            "text": "断固認めない！",
+            "zh": "坚决不承认！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "430/ACT",
+            "narrator": "",
+            "text": "まあ確かに、実は発症に揺らいでいたのはある",
+            "zh": "嘛确实，其实对发症是有过动摇",
+            "narrator_zh": ""
+        },
+        {
+            "location": "433/TALK",
+            "narrator": "四十九夜　",
+            "text": "やはりそうであったか。",
+            "zh": "果然是这样啊。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "434/TALK",
+            "narrator": "四十九夜　",
+            "text": "ほれ、今こそ本当に\n種が戻ったぞね。",
+            "zh": "看，现在种子\n才是真回来了咧。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "435/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "あああぁぁぁ……",
+            "zh": "啊啊啊……",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "436/SEL",
+            "narrator": "",
+            "text": "何がどうなってるの！？",
+            "zh": "什么跟什么啊！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "437/ACT",
+            "narrator": "",
+            "text": "何がどうなってるの！？",
+            "zh": "什么跟什么啊！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "439/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "お前さん、\n誘導されたんよ。",
+            "zh": "你啊，\n被诱导了咯。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "440/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "あんなくだらない\nクイズ問題には\n何も仕掛けはない。",
+            "zh": "那种无聊的\n问答题目，\n什么机关都没有。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "441/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "けんど、結果を聞いて\n確かにそうかも、と\n思うたら――",
+            "zh": "但是，听到结果后\n要是觉得“确实\n可能这样”——",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "442/TALK",
+            "narrator": "四十九夜　",
+            "text": "それは誠になるぞね！",
+            "zh": "那就成了真心咧！",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "443/TALK",
+            "narrator": "四十九夜　",
+            "text": "けんどそれは\nお前さんにとっての\n正直な気持ちや。",
+            "zh": "但那是\n对你而言的\n真实心意。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "446/TALK",
+            "narrator": "四十九夜　",
+            "text": "なごちゃん、\nこれで昇華できるよ。",
+            "zh": "七五，\n这样就能升华了。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "447/TALK",
+            "narrator": "なご",
+            "text": "よかったぞね。",
+            "zh": "太好了咧。",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "448/ACT",
+            "narrator": "",
+            "text": "断固認めない！",
+            "zh": "坚决不承认！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "451/TALK",
+            "narrator": "四十九夜　",
+            "text": "そうか。",
+            "zh": "这样啊。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "452/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "まあ、所詮は\nインチキやったしね。",
+            "zh": "嘛，归根结底\n本来就是骗人的咯。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "453/SEL",
+            "narrator": "",
+            "text": "え？インチキ？",
+            "zh": "诶？骗人？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "454/ACT",
+            "narrator": "",
+            "text": "え？インチキ？",
+            "zh": "诶？骗人？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "456/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "そうやよ。\nあんなクイズ問題で\n種が戻るわけがない。",
+            "zh": "是啊咯。\n那种问答问题，\n种子怎么可能回来。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "457/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "それでも、結果を聞いて\n確かにそうかも、と\n思うたら――",
+            "zh": "即便如此，听到结果后\n要是觉得“确实\n可能这样”——",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "458/TALK",
+            "narrator": "四十九夜　",
+            "text": "それがお前さんの\n本心となって、種が戻る\n可能性はあったがね。",
+            "zh": "它就会成为你的本心，\n种子回来的\n可能性是有的咯。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "459/TALK",
+            "narrator": "なご",
+            "text": "なんぞ、\n結局種は戻らんの？",
+            "zh": "驷马啊，\n种子最后回得来咩？",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "463/TALK",
+            "narrator": "四十九夜　",
+            "text": "申し訳ない、なごちゃん。\n種は戻せんかったぞね。",
+            "zh": "对不住，七五。\n种子没能拿回来咧。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "464/TALK",
+            "narrator": "なご",
+            "text": "そうかー。\nなら……",
+            "zh": "这样啊。\n那么……",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "465/TALK",
+            "narrator": "なご",
+            "text": "なごが$handle$と\n戦って奪い返すのみぞね。",
+            "zh": "那就七五和$handle$\n打一架夺回来咧。",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "466/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "なごちゃん、\n無茶なことしたらいかん！",
+            "zh": "七五，\n不许乱来！",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "469/TALK",
+            "narrator": "なご",
+            "text": "ほんだら、\nうちがなんでそないに\n昇華したいか教えるきね。",
+            "zh": "那么，\n我为什么这么想升华，\n就说给你们听啵。",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "470/TALK",
+            "narrator": "なご",
+            "text": "本物のなごちゃんは\n十中八九生きちゅう。",
+            "zh": "真正的七五\n十有八九还活着咯。",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "471/TALK",
+            "narrator": "なご",
+            "text": "けんど――",
+            "zh": "但是——",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "472/TALK",
+            "narrator": "なご",
+            "text": "その所業に関しては\nあまり良い噂は\n聞かんぞね。",
+            "zh": "关于她的所作所为，\n可没听说\n什么好风评咧。",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "473/TALK",
+            "narrator": "なご",
+            "text": "やき。\nうちはなごちゃんの為。",
+            "zh": "所以啵。\n我是为了七五。",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "474/TALK",
+            "narrator": "なご",
+            "text": "なごちゃんと戦うために、\n強くなりたい思っちゅう。",
+            "zh": "为了和七五战斗，\n我想变强咯。",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "475/TALK",
+            "narrator": "なご",
+            "text": "それに、フェノメノンで\n世界になれば、色んな\nことが見えてくる。",
+            "zh": "而且，用PhenoMENON\n化成世界的话，\n就能看见各种东西。",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "476/TALK",
+            "narrator": "なご",
+            "text": "うちが言えることは\nこれだけぞね。",
+            "zh": "我能说的\n就这些咧。",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "477/TALK",
+            "narrator": "なご",
+            "text": "まああれや、\n単なる憶測と風の噂やき\n間違っちゅうやもしれん。",
+            "zh": "嘛，那些只是\n单纯的臆测和道听途说啵，\n可能有错咯。",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "478/TALK",
+            "narrator": "なご",
+            "text": "けんど、\nそれを解明する為にも\n発症はせんといかんき。",
+            "zh": "但是，\n为了查清那件事，\n也非发症不可啵。",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "479/TALK",
+            "narrator": "なご",
+            "text": "そうゆうことちや。",
+            "zh": "就是这么回事滴。",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "481/TALK",
+            "narrator": "なご",
+            "text": "やき、\nあんたの力を貸しぃや！",
+            "zh": "嘛，\n把你的力量借给我咧！",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "483/TALK",
+            "narrator": "なご",
+            "text": "やき、あんたのエゴに\nつき合ってる暇は\nないぞね！",
+            "zh": "啵，陪你计较\n你那点私心，\n我可没得闲咧！",
+            "narrator_zh": "七五"
+        },
+        {
+            "location": "24/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:Interrupt】</color>\nSystem Interrupted.\n\n必須選択肢が選ばれていません。\n\n<color=green>『STORY27：シン・カグラ』</color>\nにて、選択を行ってから\n再度アクセスしてください。\n",
+            "zh": "<color=green>【TRI-OS Plug-in:Interrupt】</color>\nSystem Interrupted.\n\n未选择必选项。\n\n<color=green>『STORY27：新·神乐』</color>\n请完成选择后\n再次访问。\n",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "28/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>-月--日　 -:-- --</color>\nNull",
+            "zh": "<color=green>-月--日　 -:-- --</color>\nNull",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "207/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:Interrupt】</color>\nSystem Interrupted.\n\nMODE : DI\nRESTART : SPHERE_MODE.\nMODE : EI\nSET_ADDR: 0x12E\nRUN/.",
+            "zh": "<color=green>【TRI-OS Plug-in:Interrupt】</color>\nSystem Interrupted.\n\nMODE : DI\nRESTART : SPHERE_MODE.\nMODE : EI\nSET_ADDR: 0x12E\nRUN/.",
+            "narrator_zh": "NOTICE"
+        }
+    ]
+}

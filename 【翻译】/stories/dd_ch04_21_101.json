@@ -1,0 +1,924 @@
+{
+    "dir": "chap21/daydra/dd_ch04_21_101.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "21402",
+        "cid": "miyabi",
+        "title": "002 メインストーリー",
+        "sub_title": "こじゃんと元気キャラ＜前編＞",
+        "title_zh": "002 主线剧情",
+        "sub_title_zh": "元气十足的角色＜前篇＞"
+    },
+    "entry": [
+        {
+            "location": "52/TALK",
+            "narrator": "つばめ",
+            "text": "…あれ？\nもうすぐお昼！？",
+            "zh": "……咦？\n马上就中午了！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "55/TALK",
+            "narrator": "神楽",
+            "text": "えっ！　もうそんな\n時間ですか！？",
+            "zh": "诶！　已经\n这个时间了吗！？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "つばめ",
+            "text": "……そうみたい…。",
+            "zh": "……好像是的……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "57/TALK",
+            "narrator": "つばめ",
+            "text": "お休み、\n半日無駄に\nしちゃったね…。",
+            "zh": "难得的休息，\n白白浪费了\n半天呢……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "アーヤ",
+            "text": "今日は仕方ないわ。\nみんな昨日の疲れも\n残ってると思うし。",
+            "zh": "今天就算了吧。\n我想大家的疲累\n还没缓过来呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "62/TALK",
+            "narrator": "神楽",
+            "text": "アーヤさんも、\n昨日の訓練キツいと\n思いました？",
+            "zh": "绫水也觉得\n昨天的训练\n很辛苦吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "アーヤ",
+            "text": "さすがにね…。\n後半はもうヘトヘト\nだったわ。",
+            "zh": "那当然……\n后半段已经\n累得不行了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "つばめ",
+            "text": "わたし、疲れすぎて\nよく覚えてません…。",
+            "zh": "我累过头了，\n记不太清了……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "68/TALK",
+            "narrator": "ガブリエラ",
+            "text": "つばめ、帰ってきて\nお風呂入ったら\nすぐ寝ちゃったものね。",
+            "zh": "燕回来以后，\n洗完澡就\n马上睡着了呢。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "70/TALK",
+            "narrator": "アーヤ",
+            "text": "ギャヴィだって、\nお夕飯食べながら\nウトウトしてたわよ？",
+            "zh": "加维还不是说，\n一边吃晚饭\n一边打瞌睡吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "71/TALK",
+            "narrator": "ガブリエラ",
+            "text": "う、うるさいわね！\n寝なかったんだから\nいいでしょ？",
+            "zh": "吵、吵死了！\n反正最后没睡着\n不就行了吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "74/TALK",
+            "narrator": "神楽",
+            "text": "…この分だと、\n午後も無駄にしちゃい\nそうですね。",
+            "zh": "…照这个势头，\n下午多半也要\n浪费掉了呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "アーヤ",
+            "text": "…まあ、\n体を休ませる、って\nいうのも訓練のうち。",
+            "zh": "……嘛，\n让身体休息，\n也算训练的一部分。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "77/TALK",
+            "narrator": "アーヤ",
+            "text": "本番で疲れ切ってたら\n困るものね。",
+            "zh": "真到了正式上场\n累瘫了可就麻烦了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "78/TALK",
+            "narrator": "つばめ",
+            "text": "うう…、とっても\n勿体ないことしてる\n気がします…。",
+            "zh": "呜呜……总觉得\n正在做特别\n浪费的事……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "みやび",
+            "text": "なんや？\nみんな、昼間っから\nダラダラしよって…。",
+            "zh": "驷马呀？\n大家大白天就\n懒洋洋地晃悠着……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そりゃ、みやびは\n昨日の訓練\n出てないから。",
+            "zh": "那还用说，\n雅昨天又没\n参加训练嘛。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "85/TALK",
+            "narrator": "ガブリエラ",
+            "text": "疲れてる\nわけがないわよ。",
+            "zh": "怎么可能\n累嘛。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "86/TALK",
+            "narrator": "みやび",
+            "text": "何言うてるが？\nちゃんと参加しちょっ\nたやろ。",
+            "zh": "说什么驷马呢？\n我可是好好\n参加了的好吧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "89/TALK",
+            "narrator": "アーヤ",
+            "text": "でも、みやびは\n後方支援だった\nじゃない。",
+            "zh": "可是雅\n是后方支援\n嘛。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "90/TALK",
+            "narrator": "アーヤ",
+            "text": "モニターの前と\n体を動かすのじゃ\n違うわよ。",
+            "zh": "坐在监视器前\n和活动身体\n是两回事哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "みやび",
+            "text": "戦場の全体を把握する\nっちゅうんは、結構\n大変なんやぞ？",
+            "zh": "把握战场全局这种事，\n可是相当\n费神的咧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "95/TALK",
+            "narrator": "神楽",
+            "text": "でも、翌日に残る\n肉体的な疲れは\nないじゃないですか。",
+            "zh": "可第二天会留下的\n身体上的疲劳，\n你不是没有吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "96/TALK",
+            "narrator": "神楽",
+            "text": "こっちは一日中、\n真幌さんにしごかれて\n大変だったんです。",
+            "zh": "我们这边一整天\n被真幌往死里练\n可辛苦了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "97/TALK",
+            "narrator": "みやび",
+            "text": "うん、見ちょったき\nわかるがよ。",
+            "zh": "嗯，看是看着了啵，\n我懂咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "98/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だったら、少しは\nあたし達を労わり\nなさいよね。",
+            "zh": "那就多少\n慰劳一下我们\n呀。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "つばめ",
+            "text": "…お昼ご飯食べたら、\nわたし、ちょっと\nお昼寝します…。",
+            "zh": "……吃完午饭，\n我要稍微\n睡个午觉……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "アーヤ",
+            "text": "私もそうしよう\nかしら？",
+            "zh": "我是不是也\n这么办好了？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "神楽",
+            "text": "午後はみんなで\nお昼寝になりそう\nですね。",
+            "zh": "下午看来要\n大家集体\n睡午觉了呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "106/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "118/TALK",
+            "narrator": "みやび",
+            "text": "何とも変な気分である",
+            "zh": "还真是种说不出的奇怪心情",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "119/TALK",
+            "narrator": "みやび",
+            "text": "うちが元気で",
+            "zh": "我精神满满",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "120/TALK",
+            "narrator": "みやび",
+            "text": "みんながヘロヘロ",
+            "zh": "大家却瘫成一团",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "122/SEL",
+            "narrator": "",
+            "text": "昨日そんなに大変だったの？",
+            "zh": "昨天有那么累吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "123/ACT",
+            "narrator": "",
+            "text": "昨日そんなに大変だったの？",
+            "zh": "昨天有那么累吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "125/TALK",
+            "narrator": "みやび",
+            "text": "東雲真幌教官プレゼンツ・夜までぶっ続け模擬戦！！",
+            "zh": "东云真幌教官倾情呈现·连轴转到深夜的模拟战！！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "126/TALK",
+            "narrator": "みやび",
+            "text": "って感じやった",
+            "zh": "大概就是这种阵仗咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "128/SEL",
+            "narrator": "",
+            "text": "それは疲れるね",
+            "zh": "那肯定累啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "129/ACT",
+            "narrator": "",
+            "text": "それは疲れるね",
+            "zh": "那肯定累啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "131/TALK",
+            "narrator": "みやび",
+            "text": "だから今日は一日休み",
+            "zh": "所以今天放一整天假",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "132/TALK",
+            "narrator": "みやび",
+            "text": "まほさんの飴と鞭の飴や",
+            "zh": "算是真幌的糖和鞭子里面的糖咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "みやび",
+            "text": "こんな状態じゃ訓練にならんし",
+            "zh": "这副状态也没法训练嘛",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "137/TALK",
+            "narrator": "みやび",
+            "text": "けんど",
+            "zh": "但是",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "みやび",
+            "text": "うちはこんだけ元気なわけで",
+            "zh": "我偏偏精神成这样",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "141/TALK",
+            "narrator": "みやび",
+            "text": "いつもとは逆に",
+            "zh": "和平时反过来",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "みやび",
+            "text": "うちがみんなを遊びに連れだしてみるというのも面白いかもしれん",
+            "zh": "由我带大家出门玩一趟，说不定也挺有意思",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "143/TALK",
+            "narrator": "みやび",
+            "text": "うちがみんなを振り回すチャンス到来！",
+            "zh": "轮到我折腾大家的机会来了！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "145/TALK",
+            "narrator": "みやび",
+            "text": "ナイスアイデアではないだろうか",
+            "zh": "这难道不是个好主意吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "148/TALK",
+            "narrator": "みやび",
+            "text": "とも思うたが",
+            "zh": "我也曾这么想过，但是",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "149/TALK",
+            "narrator": "みやび",
+            "text": "やはりのんびりする",
+            "zh": "还是悠闲度日吧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "160/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "162/TALK",
+            "narrator": "みやび",
+            "text": "そんなの、\nうちのキャラや\nないな…。",
+            "zh": "那种事，\n不是我的\n风格啊……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "226/TALK",
+            "narrator": "みやび",
+            "text": "　",
+            "zh": "　",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "249/SEL",
+            "narrator": "",
+            "text": "！？？",
+            "zh": "！？？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "250/ACT",
+            "narrator": "",
+            "text": "！？？",
+            "zh": "！？？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "272/TALK",
+            "narrator": "みやび",
+            "text": "エヘヘ、ナデナデサレテ、\nトッテモウレシイゾネ",
+            "zh": "诶嘿嘿，被摸摸头，\n开心得不得咧——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "275/TALK",
+            "narrator": "みやび",
+            "text": "キャーソンナトコサワル\nナンテエッツー！",
+            "zh": "呀——摸那种地方\n什么的，呀啊——！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "278/TALK",
+            "narrator": "みやび",
+            "text": "オナカヲナデルノガ\nスキナノ？　モーフェチ\nズムタロウナンダカラァー",
+            "zh": "你是喜欢摸肚子\n咩？　摩腹癖\n太郎呀——[?]",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "283/SEL",
+            "narrator": "",
+            "text": "なんだこれ…",
+            "zh": "这是什么啊……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "284/ACT",
+            "narrator": "",
+            "text": "なんだこれ…",
+            "zh": "这是什么啊……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "289/TALK",
+            "narrator": "みやび",
+            "text": "うちの人形",
+            "zh": "我的人形",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "290/TALK",
+            "narrator": "みやび",
+            "text": "ココロスフィアに来たら叩き起こすのが日課になっていたであろう。急にそれがしかも２回も続くとなれば、禁断症状で苦しむかと思ってな",
+            "zh": "来心灵领域就把我拍醒这件事，本该已经成了日课了吧。要是突然连着两回没有，我怕你会难受得犯瘾呢",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "291/TALK",
+            "narrator": "みやび",
+            "text": "みやびさんの気遣いは職人級！褒め称えよ",
+            "zh": "雅的心细程度堪称匠人级！快夸吧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "292/SEL",
+            "narrator": "",
+            "text": "いや…これはちょっと……",
+            "zh": "不……这个有点……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "293/SEL",
+            "narrator": "",
+            "text": "お持ち帰りしていいですか？",
+            "zh": "我可以打包带走吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "294/ACT",
+            "narrator": "",
+            "text": "いや…これはちょっと……",
+            "zh": "不……这个有点……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "295/TALK",
+            "narrator": "みやび",
+            "text": "贅沢者め",
+            "zh": "真是个挑剔鬼",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "296/TALK",
+            "narrator": "みやび",
+            "text": "そのような言葉は、うちをサクッと救出できるくらいの力をつけてから言うがいい",
+            "zh": "那种话，等你有了能一把救出我的本事再说不迟",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "297/ACT",
+            "narrator": "",
+            "text": "お持ち帰りしていいですか？",
+            "zh": "我可以打包带走吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "298/TALK",
+            "narrator": "みやび",
+            "text": "否",
+            "zh": "否",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "299/TALK",
+            "narrator": "みやび",
+            "text": "まっこと変態さんやね、お前さんは",
+            "zh": "你这家伙，真是算得上一号变态呢",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "300/TALK",
+            "narrator": "みやび",
+            "text": "勿論褒め言葉として受け取っておけ",
+            "zh": "当然，你就当夸奖收下吧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "301/TALK",
+            "narrator": "みやび",
+            "text": "オマエサンノナカデハナー",
+            "zh": "在你的体内呀——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "305/SEL",
+            "narrator": "",
+            "text": "みやび！？",
+            "zh": "雅！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "306/ACT",
+            "narrator": "",
+            "text": "みやび！？",
+            "zh": "雅！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "308/TALK",
+            "narrator": "みやび",
+            "text": "どうした？そんな驚くようなこと言ったか",
+            "zh": "怎么了？我说了什么吓人的话吗",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "309/SEL",
+            "narrator": "",
+            "text": "もう一人みやびが来た",
+            "zh": "又来了一个雅",
+            "narrator_zh": ""
+        },
+        {
+            "location": "310/ACT",
+            "narrator": "",
+            "text": "もう一人みやびが来た",
+            "zh": "又来了一个雅",
+            "narrator_zh": ""
+        },
+        {
+            "location": "312/TALK",
+            "narrator": "みやび",
+            "text": "は",
+            "zh": "哈？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "329/SEL",
+            "narrator": "",
+            "text": "人形消されたよ！",
+            "zh": "人形被消掉了啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "330/ACT",
+            "narrator": "",
+            "text": "人形消されたよ！",
+            "zh": "人形被消掉了啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "332/TALK",
+            "narrator": "みやび",
+            "text": "いやそんな",
+            "zh": "不，怎么会",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "334/TALK",
+            "narrator": "みやび",
+            "text": "いかんそいつはうちのか",
+            "zh": "不好，那家伙是我的？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "339/TALK",
+            "narrator": "みやび",
+            "text": "楽しそうやね。",
+            "zh": "玩得挺开心嘛。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "340/SEL",
+            "narrator": "",
+            "text": "君は何のみやびなの？",
+            "zh": "你是哪门子的雅？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "341/ACT",
+            "narrator": "",
+            "text": "君は何のみやびなの？",
+            "zh": "你是哪门子的雅？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "343/TALK",
+            "narrator": "みやび",
+            "text": "面白い聞き方するね。",
+            "zh": "这问法真有意思。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "344/TALK",
+            "narrator": "みやび",
+            "text": "うちは今回から\nココロの司書に任命された\n人格や。よろしくね。",
+            "zh": "我是从这次起\n被任命为心之司书的\n人格哦。请多指教。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "345/SEL",
+            "narrator": "",
+            "text": "前の司書は？",
+            "zh": "前司书呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "346/SEL",
+            "narrator": "",
+            "text": "司書なら既に足りてます",
+            "zh": "司书已经够用了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "347/ACT",
+            "narrator": "",
+            "text": "前の司書は？",
+            "zh": "前司书呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "348/ACT",
+            "narrator": "",
+            "text": "司書なら既に足りてます",
+            "zh": "司书已经够用了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "349/TALK",
+            "narrator": "みやび",
+            "text": "ハナから攻撃的で\nみやびさんは辛いぞね。",
+            "zh": "一上来就这么有攻击性，\n雅我很为难咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "350/TALK",
+            "narrator": "みやび",
+            "text": "うちとも前任のように\n仲良くやってや。",
+            "zh": "也跟前司书那时一样，\n和我好好相处啊。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "352/TALK",
+            "narrator": "みやび",
+            "text": "前任は、２回の無断欠勤を\nしたために、契約に則り\n解任された。",
+            "zh": "前任因为两次无故旷工，\n按照契约被\n解任了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "353/SEL",
+            "narrator": "",
+            "text": "回線切ったのも君なの？",
+            "zh": "切断线路的也是你吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "354/ACT",
+            "narrator": "",
+            "text": "回線切ったのも君なの？",
+            "zh": "切断线路的也是你吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "356/TALK",
+            "narrator": "みやび",
+            "text": "然り。",
+            "zh": "然也。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "357/TALK",
+            "narrator": "みやび",
+            "text": "司書でなくなった元司書は\nお前さんと話す資格が\n無くなっちゅう。",
+            "zh": "不再是司书的原司书，\n和你说话的资格\n也就没了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "358/TALK",
+            "narrator": "みやび",
+            "text": "よって、無条件で\n回線を切断した。\nそれだけのことぞね。",
+            "zh": "所以，就无条件地\n切断了线路。\n仅此而已咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "361/TALK",
+            "narrator": "みやび",
+            "text": "そこの",
+            "zh": "那边那位",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "362/TALK",
+            "narrator": "みやび",
+            "text": "うちは何も聞いていない。よって拒否権を発動する",
+            "zh": "我什么都没听见。因此行使否决权",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "370/TALK",
+            "narrator": "みやび",
+            "text": "CHAT窓を",
+            "zh": "CHAT窗口",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "371/TALK",
+            "narrator": "みやび",
+            "text": "シャットダウンする権利はない",
+            "zh": "没有关掉的权利",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "379/TALK",
+            "narrator": "みやび",
+            "text": "人権侵害",
+            "zh": "人权侵害",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "384/TALK",
+            "narrator": "みやび",
+            "text": "ほんだら、\nすっと仕事するぞね。",
+            "zh": "那就，\n麻利地开工咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "388/TALK",
+            "narrator": "みやび",
+            "text": "オープンプロセス、\n0x111番地から\n0xF38番地へ。",
+            "zh": "开放进程，\n从 0x111 号地址\n推进到 0xF38 号地址。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "389/SEL",
+            "narrator": "",
+            "text": "いや待って待って！",
+            "zh": "不，等等等等！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "390/ACT",
+            "narrator": "",
+            "text": "いや待って待って！",
+            "zh": "不，等等等等！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "411/TALK",
+            "narrator": "みやび",
+            "text": "完了。",
+            "zh": "完成。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "414/TALK",
+            "narrator": "みやび",
+            "text": "さてさて、\nうちは普段どんな\n悩みを持っちゅうんかね。",
+            "zh": "那么那么，\n我平时揣着的\n是什么样的烦恼咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "415/TALK",
+            "narrator": "みやび",
+            "text": "……ふむ。\nなるほど。\nこんな感じぞね。",
+            "zh": "……唔。\n原来如此。\n是这样的感觉咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "418/SEL",
+            "narrator": "",
+            "text": "こんな感じ…って！\nちょっと！",
+            "zh": "这样的感觉…什么啊！\n等一下！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "419/ACT",
+            "narrator": "",
+            "text": "こんな感じ…って！\nちょっと！",
+            "zh": "这样的感觉…什么啊！\n等一下！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "421/TALK",
+            "narrator": "みやび",
+            "text": "いてら。",
+            "zh": "慢走。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "432/TALK",
+            "narrator": "みやび",
+            "text": "さて。",
+            "zh": "那么。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "433/TALK",
+            "narrator": "みやび",
+            "text": "消しに行くか。",
+            "zh": "去消掉它吧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "51/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>8月22日　 11:40 AM</color>\n合宿中、みやびの実家でのこと",
+            "zh": "<color=green>8月22日　 11:40 AM</color>\n合宿期间，发生在雅的老家的事",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "191/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch01",
+            "text": "<color=black><size=50><b>逢瀬つばめのココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n逢瀬つばめの心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>逢濑燕的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n她的心灵之中，\n生出了巨大的纠葛。\n\n潜入心灵领域，\n解决逢濑燕心中的纠葛吧。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch01"
+        },
+        {
+            "location": "193/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch02",
+            "text": "<color=black><size=50><b>國政綾水のココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n國政綾水の心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>国政绫水的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n她的心灵之中，\n生出了巨大的纠葛。\n\n潜入心灵领域，\n解决国政绫水心中的纠葛吧。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch02"
+        },
+        {
+            "location": "195/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch03",
+            "text": "<color=black><size=50><b>ガブリエラのココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\nガブリエラの心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>加布里埃拉的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n她的心灵之中，\n生出了巨大的纠葛。\n\n潜入心灵领域，\n解决加布里埃拉心中的纠葛吧。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch03"
+        },
+        {
+            "location": "197/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch04",
+            "text": "<color=black><size=50><b>恋ヶ崎みやびのココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n恋ヶ崎みやびの心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>恋之崎雅的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n她的心灵之中，\n生出了巨大的纠葛。\n\n潜入心灵领域，\n解决恋之崎雅心中的纠葛吧。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch04"
+        },
+        {
+            "location": "199/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch05",
+            "text": "<color=black><size=50><b>卯月神楽のココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n卯月神楽の心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>卯月神乐的心灵之中\n战斗开始了。</b></size></color>\n\n\n\n\n\n她的心灵之中，\n生出了巨大的纠葛。\n\n潜入心灵领域，\n解决卯月神乐心中的纠葛吧。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch05"
+        },
+        {
+            "location": "258/DIALOG",
+            "narrator": "INFO",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n接続されました。\n\n画面をタップして相手に\n感覚を伝えましょう。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已连接。\n\n点击画面，\n把感觉传达给对方吧。",
+            "narrator_zh": "INFO"
+        },
+        {
+            "location": "281/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n切断されました。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已断开。",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "338/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:WaveSystem】</color>\n\n回線が強制切断されました。\n(002)",
+            "zh": "<color=green>【TRI-OS Plug-in:WaveSystem】</color>\n\n线路被强制切断。\n(002)",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "366/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:WaveSystem】</color>\n\n回線が強制切断されました。\n(002)",
+            "zh": "<color=green>【TRI-OS Plug-in:WaveSystem】</color>\n\n线路被强制切断。\n(002)",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "375/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:WaveSystem】</color>\n\n回線が強制切断されました。\n(002)",
+            "zh": "<color=green>【TRI-OS Plug-in:WaveSystem】</color>\n\n线路被强制切断。\n(002)",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "383/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:WaveSystem】</color>\n\n回線が強制切断されました。\n(002)",
+            "zh": "<color=green>【TRI-OS Plug-in:WaveSystem】</color>\n\n线路被强制切断。\n(002)",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "417/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:SeekSector】</color>\nSucceed access file!\n\n<color=blue>【File :: 04-882-57】</color>\n<color=red>Fatal Error Occured !</color>\n\n疲れてはいるが、１日ゴロゴロしているなんてもったいない。皆を連れて遊びに行くに限る！",
+            "zh": "<color=green>【TRI-OS Plug-in:SeekSector】</color>\nSucceed access file!\n\n<color=blue>【File :: 04-882-57】</color>\n<color=red>Fatal Error Occured !</color>\n\n虽然累，可躺一整天也太浪费了。带大家出门玩才是不二之选！",
+            "narrator_zh": "NOTICE"
+        }
+    ]
+}

@@ -1,0 +1,917 @@
+{
+    "dir": "chap23/daydra/dd_ch04_23_020.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "23456",
+        "cid": "miyabi",
+        "title": "Extra006 プレミアムストーリー",
+        "sub_title": "地元の光景",
+        "title_zh": "Extra006 额外剧情",
+        "sub_title_zh": "老家的光景"
+    },
+    "entry": [
+        {
+            "location": "174/SCENARIO",
+            "narrator": "",
+            "text": "地元の光景",
+            "zh": "老家的光景",
+            "narrator_zh": ""
+        },
+        {
+            "location": "190/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あれ？　誰かのタオル、\nあたしのバッグに\n入ってるんだけど？",
+            "zh": "咦？　谁的毛巾，\n跑到我的包里\n来了？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "193/TALK",
+            "narrator": "つばめ",
+            "text": "あ、それわたしのだ。\nよかったー、失くしたかと\n思ってたよ。",
+            "zh": "啊，那是我的。\n太好了——我还以为\n弄丢了呢。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "194/TALK",
+            "narrator": "アーヤ",
+            "text": "あら？　ブラシって\nどこ入れたかしら…。",
+            "zh": "哎呀？刷子\n放哪儿了来着……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "196/TALK",
+            "narrator": "神楽",
+            "text": "アーヤさんのブラシなら、\n洗面所にありましたよ。",
+            "zh": "绫水的刷子的话，\n在盥洗室哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "197/TALK",
+            "narrator": "神楽",
+            "text": "帰る日にしまうのかと\n思ってました。",
+            "zh": "我还以为是\n走的那天才收呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "199/TALK",
+            "narrator": "アーヤ",
+            "text": "あ、そうだったわ。",
+            "zh": "啊，是了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "204/TALK",
+            "narrator": "みやび",
+            "text": "なんや？　もう荷物\nまとめてるが？",
+            "zh": "驷马？这就\n收拾起行李了咯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "206/TALK",
+            "narrator": "アーヤ",
+            "text": "ええ、当日とか前日に\nバタバタするの嫌だし。",
+            "zh": "嗯，当天或前一天\n才手忙脚乱，多烦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "208/TALK",
+            "narrator": "神楽",
+            "text": "みやびさんは\n用意しなくて\nいいんですか？",
+            "zh": "雅就\n不用收拾\n行李吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "209/TALK",
+            "narrator": "みやび",
+            "text": "うちは身軽で来たき、\n当日の朝にすっとやれば\n問題ないちや。",
+            "zh": "我轻装来的啵，\n当天早上麻利搞完，\n就没问题滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "212/TALK",
+            "narrator": "つばめ",
+            "text": "すごいなぁ。\n旅慣れてるんですね。",
+            "zh": "好厉害呀。\n很习惯旅行呢。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "213/TALK",
+            "narrator": "みやび",
+            "text": "ちゅうか、実家やしね。",
+            "zh": "说起来，这可是老家咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "216/TALK",
+            "narrator": "みやび",
+            "text": "…ま、頑張りぃ。\nうちはちくっと外に\n出てくるぞね。",
+            "zh": "…嘛，加油干咯。\n我出去等子，\n马上就回来咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "218/TALK",
+            "narrator": "ガブリエラ",
+            "text": "買い物でも行くの？",
+            "zh": "是去购物吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "219/TALK",
+            "narrator": "みやび",
+            "text": "いんや、ＰＣの前で\n座りっぱなしで\n身体固まったきね。",
+            "zh": "不是，在ＰＣ前\n坐太久，\n身体都僵了啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "220/TALK",
+            "narrator": "みやび",
+            "text": "ちくっと散歩して\nほぐしてくるがよ。",
+            "zh": "去散等子步，\n松活松活就回来咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "235/TALK",
+            "narrator": "みやび",
+            "text": "ふぅ…。",
+            "zh": "呼……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "236/TALK",
+            "narrator": "みやび",
+            "text": "またしばらく、\nここともお別れやなぁ…。",
+            "zh": "又要隔上一阵，\n才能跟这里说再见咯……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "237/TALK",
+            "narrator": "みやび",
+            "text": "次帰ってくるのは、\n多分一か月後くらいやな。",
+            "zh": "下次回来，\n大概是一个月后咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "238/TALK",
+            "narrator": "みやび",
+            "text": "…けんど、考えてみると\nちくっと早い気もするし…。",
+            "zh": "…但是，想想看，\n又感觉早了点……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "239/TALK",
+            "narrator": "みやび",
+            "text": "だとすると…、秋か冬？",
+            "zh": "那样的话……，秋天还是冬天？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "241/TALK",
+            "narrator": "みやび",
+            "text": "はぁ…今度来るときは、\n超寒くなってるんは\n確実やなぁ。",
+            "zh": "唉……下次来的时候，\n肯定已经\n冷得要死咯……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "242/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "243/TALK",
+            "narrator": "みやび",
+            "text": "…写真でも、\n撮っておくべきか？",
+            "zh": "…要不要，\n拍几张照片存着咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "244/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "245/TALK",
+            "narrator": "みやび",
+            "text": "いや、ないない。\nどうせ撮っても\nまず見返さんやろうし。",
+            "zh": "不不，没得没得。\n反正拍了也\n基本不会回看咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "246/TALK",
+            "narrator": "みやび",
+            "text": "ちゅうか、アーヤの\n写真好きが移ったか？",
+            "zh": "说起来，是染上\n绫水的摄影癖了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "248/TALK",
+            "narrator": "みやび",
+            "text": "…うちらしくない。\nもうちくっと、\n頭冷やして帰るか…。",
+            "zh": "…太不像我们咯。\n再等子，\n冷静下头脑再回去吧……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "265/TALK",
+            "narrator": "みやび",
+            "text": "うちの帰還ぞね～。\nみんなの方は\nひと段落付いた？",
+            "zh": "我凯旋归来咧～。\n大家那边\n都告一段落了啵？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "267/TALK",
+            "narrator": "ガブリエラ",
+            "text": "とっくに終わったわよ。\nっていうか、\nどこ行ってたの？",
+            "zh": "早就结束了。\n话说，\n你上哪儿去了？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "268/TALK",
+            "narrator": "みやび",
+            "text": "だらだら散歩しちょった\nだけや。",
+            "zh": "就只是懒懒散散\n散着步而已咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "271/TALK",
+            "narrator": "つばめ",
+            "text": "わたしも\n一緒に行きたかったなぁ。",
+            "zh": "我也\n好想一起去呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "273/TALK",
+            "narrator": "神楽",
+            "text": "まだ帰る日までは\n数日ありますし、\nいつでも行けますよ。",
+            "zh": "离回去还有\n好几天，\n随时都能去哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "274/SEL",
+            "narrator": "",
+            "text": "写真は撮ったの？",
+            "zh": "照片拍了没？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "276/TALK",
+            "narrator": "アーヤ",
+            "text": "私も、帰る前にもう一度\n色々見て回りたいわ。",
+            "zh": "我也想在回去前\n再到处看看。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "277/TALK",
+            "narrator": "ガブリエラ",
+            "text": "その時は声かけて。\nあたしも一緒に行きたい。",
+            "zh": "到时候叫我。\n我也想去。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "278/TALK",
+            "narrator": "ガブリエラ",
+            "text": "見るのに夢中になってて、\n写真全然撮ってなかった\nのよ…。",
+            "zh": "光顾着看，\n照片根本没拍\n几张……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "281/TALK",
+            "narrator": "アーヤ",
+            "text": "私が撮ったのあるから、\nデータ渡す？",
+            "zh": "我拍了一些，\n数据传给你？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "284/TALK",
+            "narrator": "ガブリエラ",
+            "text": "それも欲しいけど、\n自分でもちょっとは\n撮りたいのよ。",
+            "zh": "那个我也要，\n但自己多少\n也想拍点。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "287/TALK",
+            "narrator": "みやび",
+            "text": "…みんな、まっこと\n元気やねぇ…。",
+            "zh": "…大家，真是\n活力满满咯……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "288/TALK",
+            "narrator": "みやび",
+            "text": "まあ、うちは散歩して\n疲れたき、部屋でちくっと\n寝てくるがよ。",
+            "zh": "嘛，我散步\n累了啵，回房间\n睡等子再出来咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "290/ACT",
+            "narrator": "",
+            "text": "写真は撮ったの？",
+            "zh": "照片拍了没？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "310/TALK",
+            "narrator": "みやび",
+            "text": "地元の写真なんぞ",
+            "zh": "老家的照片驷马的",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "311/TALK",
+            "narrator": "みやび",
+            "text": "撮る必要に",
+            "zh": "没得必要去拍",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "312/TALK",
+            "narrator": "みやび",
+            "text": "第一",
+            "zh": "第一",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "313/TALK",
+            "narrator": "みやび",
+            "text": "最近のカメラは高画質",
+            "zh": "最近的相机画质高",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "314/TALK",
+            "narrator": "みやび",
+            "text": "故にデータサイズがビッグ",
+            "zh": "所以数据尺寸巨大",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "315/TALK",
+            "narrator": "みやび",
+            "text": "うちのスマホの容量は無尽蔵ではない",
+            "zh": "本手机的容量并非取之不尽",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "316/TALK",
+            "narrator": "みやび",
+            "text": "理解したか？",
+            "zh": "理解了没？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "317/TALK",
+            "narrator": "みやび",
+            "text": "したと決めつけてさらばだ",
+            "zh": "就当你理解了，告辞",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "328/TALK",
+            "narrator": "みやび",
+            "text": "…まったく。",
+            "zh": "…真是的。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "331/TALK",
+            "narrator": "つばめ",
+            "text": "？　何か変なこと\n言われたんですか？",
+            "zh": "？　有人说了\n什么奇怪的话吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "333/TALK",
+            "narrator": "みやび",
+            "text": "うむ…写真を撮ったか\n聞かれたがよ。",
+            "zh": "嗯……被问拍了照片没，\n就这样咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "335/TALK",
+            "narrator": "ガブリエラ",
+            "text": "写真なら、少し前に\nみんなで撮ったじゃない。",
+            "zh": "照片的话，不久前\n大家不是一起拍过嘛。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "337/TALK",
+            "narrator": "アーヤ",
+            "text": "帰ったらちゃんと\n現像して渡すわね。",
+            "zh": "回去后我会好好\n洗出来给你们的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "339/TALK",
+            "narrator": "つばめ",
+            "text": "楽しみです！\nね、神楽ちゃん。",
+            "zh": "好期待！\n对吧，神乐。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "341/TALK",
+            "narrator": "神楽",
+            "text": "あ…はい…。",
+            "zh": "啊……嗯……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "342/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "344/TALK",
+            "narrator": "ガブリエラ",
+            "text": "でも、せっかくだから\n今から撮りにいかない？",
+            "zh": "不过，难得来一趟，\n现在就去拍如何？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "345/TALK",
+            "narrator": "みやび",
+            "text": "は？",
+            "zh": "哈？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "346/TALK",
+            "narrator": "ガブリエラ",
+            "text": "いや、あたしとアーヤは\nどうせ写真撮りに行く\nつもりだったし。",
+            "zh": "没，反正我和绫水\n本来就打算\n去拍照的。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "347/TALK",
+            "narrator": "みやび",
+            "text": "何も今日じゃなくても\nえいやろ？",
+            "zh": "又不是非得今天，\n不就好了嘛？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "348/TALK",
+            "narrator": "アーヤ",
+            "text": "…ううん、今がいいわ。",
+            "zh": "…不，就现在好。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "351/TALK",
+            "narrator": "アーヤ",
+            "text": "もうすぐ夕方だし、\n夕日に染まった海とか\n撮りたいもの。",
+            "zh": "马上就傍晚了，\n我想拍拍被夕阳\n染红的海。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "354/TALK",
+            "narrator": "みやび",
+            "text": "好きにしぃ。\nうちは待っちょるき、\nみんなだけで――",
+            "zh": "随你们便咯。\n我在这等着啵，\n你们自己去就——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "355/TALK",
+            "narrator": "アーヤ",
+            "text": "家のすぐ前なんだから、\nみやびも付き合いなさい。",
+            "zh": "就在自家门口，\n雅也一起来。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "356/TALK",
+            "narrator": "みやび",
+            "text": "拒否権は？",
+            "zh": "否决权呢？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "358/TALK",
+            "narrator": "ガブリエラ",
+            "text": "使用期間外だから却下。\nほら、行くわよ。",
+            "zh": "使用期已过，驳回。\n快，走了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "361/TALK",
+            "narrator": "みやび",
+            "text": "…うちの拒否権、\n使用期間あったんやね…。",
+            "zh": "…我的否决权，\n原来还有使用期限咯……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "384/TALK",
+            "narrator": "アーヤ",
+            "text": "…やっぱり、\n夕方の海って素敵ね。",
+            "zh": "…果然，\n傍晚的海真美。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "385/TALK",
+            "narrator": "ガブリエラ",
+            "text": "うん…ちょっとだけ\nロマンチックな気持ちに\nなるかも。",
+            "zh": "嗯……好像真的\n有点变得\n浪漫起来了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "388/TALK",
+            "narrator": "みやび",
+            "text": "よし、ならばチューやな。",
+            "zh": "好，那就亲一个咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "392/TALK",
+            "narrator": "ガブリエラ",
+            "text": "なんで！？",
+            "zh": "为什么！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "394/TALK",
+            "narrator": "みやび",
+            "text": "夕日に染まった海を\n見ながら砂浜にいる\nシチュエーションやぞ？",
+            "zh": "在夕阳染红的海边\n站在沙滩上\n这种场景啵？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "395/TALK",
+            "narrator": "みやび",
+            "text": "おもいっきしイチャラブ\n雰囲気ＭＡＸやろ。",
+            "zh": "尽情腻歪的气氛\n拉满咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "396/TALK",
+            "narrator": "つばめ",
+            "text": "ああ、ドラマとかで\nそういうの見たこと\nありますよ。",
+            "zh": "啊，电视剧里\n见过这种\n情节哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "397/TALK",
+            "narrator": "みやび",
+            "text": "そうやろ？\nちゅうわけやき、\nチューしぃ。",
+            "zh": "是没是？\n所以嘛，\n亲一个。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "399/TALK",
+            "narrator": "神楽",
+            "text": "わかりました。\nでは…。",
+            "zh": "我知道了。\n那么……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "401/TALK",
+            "narrator": "つばめ",
+            "text": "って、神楽ちゃん！？",
+            "zh": "等下，神乐！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "403/TALK",
+            "narrator": "神楽",
+            "text": "あっ、つばめさん。\nどうして離れちゃうん\nですか？",
+            "zh": "啊，燕。\n为什么要躲开\n呢？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "404/TALK",
+            "narrator": "つばめ",
+            "text": "だ、だって、もう少しで\nキスしちゃうところ\nだったから…。",
+            "zh": "因、因为，差一点\n就真的\n亲上了……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "405/TALK",
+            "narrator": "神楽",
+            "text": "しようとしてたんです！",
+            "zh": "本来就是要亲的！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "406/TALK",
+            "narrator": "つばめ",
+            "text": "えぇっ！？",
+            "zh": "诶诶！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "408/TALK",
+            "narrator": "みやび",
+            "text": "おっ、ノリがえいね卯月。\nキスシーンはうちが\nしっかり撮るぞね。",
+            "zh": "哦，卯月挺上道啵。\n吻戏由我来\n好好拍咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "410/TALK",
+            "narrator": "神楽",
+            "text": "お願いします。\nさあ、つばめさん！",
+            "zh": "拜托了。\n来吧，燕！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "412/TALK",
+            "narrator": "つばめ",
+            "text": "ちょ、ダメダメ！\nダメだよ神楽ちゃん！",
+            "zh": "等、不行不行！\n不行的神乐！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "414/TALK",
+            "narrator": "ガブリエラ",
+            "text": "はぁ…相変わらず\nなんだから…。",
+            "zh": "唉……还是\n老样子……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "415/TALK",
+            "narrator": "アーヤ",
+            "text": "ふふっ、いいじゃない。\n二人とも楽しそうなん\nだし。",
+            "zh": "呵呵，挺好啊。\n两个人都\n很开心嘛。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "416/TALK",
+            "narrator": "ガブリエラ",
+            "text": "見てるこっちとしては\nうるさいだけじゃない。",
+            "zh": "对旁观的我们来说\n只是吵而已。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "417/TALK",
+            "narrator": "みやび",
+            "text": "なんや、ガブちゃんは\nつばめちゃん達が\n羨ましいが？",
+            "zh": "驷马，加布是\n羡慕起燕她们\n了咯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "420/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そ、そんなこと\n言ってないでしょ！",
+            "zh": "才、才没有\n说那种话！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "421/TALK",
+            "narrator": "みやび",
+            "text": "えいやん、別に。\nアーヤとちくっと\nチューしてみぃ。",
+            "zh": "有什么关系嘛。\n跟绫水轻轻地\n亲一下试试咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "423/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ななななな、\nなんでアーヤなのよ！？",
+            "zh": "为为为为为，\n为什么是绫水啊！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "424/TALK",
+            "narrator": "みやび",
+            "text": "つばめちゃんと卯月の唇は\n埋まっちょるきね。",
+            "zh": "燕和卯月的嘴唇\n都被占着啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "426/TALK",
+            "narrator": "みやび",
+            "text": "開いてるんはアーヤの\nしかないやろ？",
+            "zh": "空着的，不就\n只剩绫水的了嘛？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "428/TALK",
+            "narrator": "アーヤ",
+            "text": "あのね…そういうこと\nするために来たわけじゃ\nないでしょ？",
+            "zh": "那个呀……我们不是\n为了做那种事\n才来的吧？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "430/TALK",
+            "narrator": "みやび",
+            "text": "そういうシチュになんやし、\nしてもえいんやないが？",
+            "zh": "都到这种场景了嘛，\n做了不也没事咯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "431/TALK",
+            "narrator": "ガブリエラ",
+            "text": "じゃあ、\nみやびは誰とするのよ？",
+            "zh": "那，\n雅要跟谁亲啊？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "432/TALK",
+            "narrator": "みやび",
+            "text": "せんよ。\nうちのファーストキスは\nまだ大切に取っとくきね。",
+            "zh": "不亲咯。\n我的初吻还要\n好好留着啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "433/TALK",
+            "narrator": "ガブリエラ",
+            "text": "自分はやらないのに\nあたし達にやらせようと\nしないでよ！",
+            "zh": "自己不亲就算了，\n也别想让我们\n去亲啊！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "434/TALK",
+            "narrator": "みやび",
+            "text": "まあまあ、これも大切な\n思い出っちゅうことで…。",
+            "zh": "好了好了，这也是重要的\n回忆嘛……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "436/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "442/TALK",
+            "narrator": "ガブリエラ",
+            "text": "えっ！？",
+            "zh": "诶！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "444/TALK",
+            "narrator": "アーヤ",
+            "text": "ふふ…、\nいい写真が撮れたわ。",
+            "zh": "呵呵……，\n拍到好照片了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "446/TALK",
+            "narrator": "神楽",
+            "text": "アーヤさん、早過ぎです。\n私、まだつばめさんと\nキスしてませんよ？",
+            "zh": "绫水，太快了。\n我和燕还没\n亲过哦？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "449/TALK",
+            "narrator": "つばめ",
+            "text": "ししし、しないから！\nキスは絶対しません！",
+            "zh": "不、不、不会的！\n绝对不会亲！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "451/TALK",
+            "narrator": "神楽",
+            "text": "えーっ…。",
+            "zh": "诶——……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "453/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…今のって、そんないい\nシチュだったの？",
+            "zh": "…刚才那个，有\n那么好的场景吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "454/TALK",
+            "narrator": "アーヤ",
+            "text": "うん、みんなすごく\n楽しそうに映ってるわ。",
+            "zh": "嗯，照片里大家\n看起来特别开心。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "455/TALK",
+            "narrator": "アーヤ",
+            "text": "撮る、って言ってからだと\nこんな自然な一枚は\n撮れないもの。",
+            "zh": "说了「要拍了」之后，\n就拍不出这么\n自然的一张了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "458/TALK",
+            "narrator": "みやび",
+            "text": "とほほ、うちが写真係に\nなるつもりやったのに…。",
+            "zh": "唉唉，我本来还打算\n当摄影担当的……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "459/TALK",
+            "narrator": "アーヤ",
+            "text": "ごめんなさい。\nでも、私も少しでも多く\n残しておきたいのよ。",
+            "zh": "对不起。\n但我也想尽量多\n留下一些。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "460/TALK",
+            "narrator": "アーヤ",
+            "text": "またこうやって、\nみんなで来られるとは\n限らないんだし…。",
+            "zh": "毕竟下次不一定\n还能像这样\n大家一起来了……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "463/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…そうよね。",
+            "zh": "…是啊。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "464/TALK",
+            "narrator": "ガブリエラ",
+            "text": "これから、どんなことが\n起きるかもわからないん\nだし…。",
+            "zh": "毕竟接下来，\n会发生什么\n谁也不知道……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "465/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "473/TALK",
+            "narrator": "アーヤ",
+            "text": "…うん。\n素敵な海の写真が\n撮れたわ。",
+            "zh": "…嗯。\n拍到很棒的海景\n照片了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "475/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あたしの方もＯＫよ。\nじゃ、今日はもう\n帰りましょ。",
+            "zh": "我这边也ＯＫ。\n那今天就\n回去吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "476/TALK",
+            "narrator": "神楽",
+            "text": "そうですね…。\nそろそろ、真っ暗に\nなりそうですし。",
+            "zh": "是啊……。\n差不多也快\n天黑了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "479/TALK",
+            "narrator": "神楽",
+            "text": "行きましょ、つばめさん。",
+            "zh": "走吧，燕。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "482/TALK",
+            "narrator": "つばめ",
+            "text": "うん。",
+            "zh": "嗯。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "491/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "492/TALK",
+            "narrator": "みやび",
+            "text": "どんなことが起きるか\nわからん、か…。",
+            "zh": "…会发生什么，\n搞没懂，咩……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "493/TALK",
+            "narrator": "みやび",
+            "text": "うちも、もしかすると\nもう戻ってこれんっちゅう\n可能性も…。",
+            "zh": "我也，说不定\n有再也回不来的\n可能性……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "494/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "495/TALK",
+            "narrator": "みやび",
+            "text": "…見返すつもりも、\n思い出として残そうとも\n思わんけんど――",
+            "zh": "…既没打算回看，\n也没想把它当回忆留下，\n但是——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "497/TALK",
+            "narrator": "みやび",
+            "text": "写真くらい…、\nちくっと撮っておいても\n悪くないか…。",
+            "zh": "…照片什么的……，\n稍微拍几张存着，\n也不坏咩……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "189/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>8月29日　 2:18 PM</color>\n合宿中、みやびの実家でのこと",
+            "zh": "<color=green>8月29日　 2:18 PM</color>\n合宿期间，在雅的老家发生的事",
+            "narrator_zh": "Dialog_EventData"
+        }
+    ]
+}

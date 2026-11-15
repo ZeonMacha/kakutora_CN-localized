@@ -1,0 +1,987 @@
+{
+    "dir": "chap27/daydra/dd_ch04_27_102.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "27405",
+        "cid": "miyabi",
+        "title": "005 メインストーリー",
+        "sub_title": "迷宮物語＜後編＞",
+        "title_zh": "005 主线剧情",
+        "sub_title_zh": "迷宫物语＜后篇＞"
+    },
+    "entry": [
+        {
+            "location": "350/SCENARIO",
+            "narrator": "",
+            "text": "じっちゃんはおらんけんど",
+            "zh": "虽然爷爷不在就是咯",
+            "narrator_zh": ""
+        },
+        {
+            "location": "376/TALK",
+            "narrator": "みやび",
+            "text": "…いや。\nもしかして…。",
+            "zh": "……不对。\n莫非……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "382/TALK",
+            "narrator": "みやび",
+            "text": "…………ふむ。",
+            "zh": "…………唔。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "384/TALK",
+            "narrator": "みやび",
+            "text": "アーヤに\nひとつ聞きたい。",
+            "zh": "想问绫水\n一件事。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "385/TALK",
+            "narrator": "みやび",
+            "text": "エリカさんは\n悪ふざけをするタイプの\n人間かどうか。",
+            "zh": "领火是不是那种\n会恶作剧的\n人。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "387/TALK",
+            "narrator": "アーヤ",
+            "text": "悪ふざけと\nいうか……。",
+            "zh": "要说恶作剧\n嘛……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "388/TALK",
+            "narrator": "アーヤ",
+            "text": "本人はいつも\n真剣なの。",
+            "zh": "她本人一直都是\n认真的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "390/TALK",
+            "narrator": "アーヤ",
+            "text": "それが突拍子もない\n内容だったり\nするものだから。",
+            "zh": "只是内容时常\n天马行空，\n才显得那样。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "391/TALK",
+            "narrator": "アーヤ",
+            "text": "まわりにはふざけてる\nように見えたりするの。\nそういう人よ。",
+            "zh": "在旁人眼里\n就显得像在胡闹。\n就是这种人哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "392/TALK",
+            "narrator": "ガブリエラ",
+            "text": "一言でまとめると\n変人ってことかしら？",
+            "zh": "一句话总结，\n就是怪人吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "393/TALK",
+            "narrator": "みやび",
+            "text": "なるほど。",
+            "zh": "原来如此。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "395/TALK",
+            "narrator": "みやび",
+            "text": "やったらこれも\n本気で用意した\nちうことやね。",
+            "zh": "那这个也是\n她认真准备的\n意思咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "397/TALK",
+            "narrator": "アーヤ",
+            "text": "何を？",
+            "zh": "什么东西？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "399/TALK",
+            "narrator": "みやび",
+            "text": "うちのスマホで\n試してみてから\n教える。",
+            "zh": "我在自己手机上\n试过之后\n再告诉你。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "403/TALK",
+            "narrator": "みやび",
+            "text": "ＰＣに直接スマホを\nつないで、と…。",
+            "zh": "把手机直接连到\nＰＣ上，然后……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "404/TALK",
+            "narrator": "みやび",
+            "text": "コピーもインストールも\n正常終了。",
+            "zh": "复制和安装都\n正常完成。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "406/TALK",
+            "narrator": "みやび",
+            "text": "あとはアプリを\n立ち上げて…\n設定完了ぞね。",
+            "zh": "然后就启动\n应用……\n设置完成啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "412/TALK",
+            "narrator": "みやび",
+            "text": "$handle$よ",
+            "zh": "$handle$哟",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "413/TALK",
+            "narrator": "みやび",
+            "text": "今一度チャンスを与える",
+            "zh": "再给你一次机会",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "414/TALK",
+            "narrator": "みやび",
+            "text": "真面目な話をしてみせろ",
+            "zh": "说句正经话来听听",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "416/SEL",
+            "narrator": "",
+            "text": "大丈夫かな…",
+            "zh": "没问题吗……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "417/SEL",
+            "narrator": "",
+            "text": "みやび何したの",
+            "zh": "雅你做了什么",
+            "narrator_zh": ""
+        },
+        {
+            "location": "418/SEL",
+            "narrator": "",
+            "text": "愛について語ろうか",
+            "zh": "来聊聊爱吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "419/ACT",
+            "narrator": "",
+            "text": "大丈夫かな…",
+            "zh": "没问题吗……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "420/TALK",
+            "narrator": "みやび",
+            "text": "これまでは",
+            "zh": "也就是说",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "421/TALK",
+            "narrator": "みやび",
+            "text": "大丈夫ではないと",
+            "zh": "到现在为止",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "422/TALK",
+            "narrator": "みやび",
+            "text": "いうことか",
+            "zh": "都不大行咯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "423/ACT",
+            "narrator": "",
+            "text": "みやび何したの",
+            "zh": "雅你做了什么",
+            "narrator_zh": ""
+        },
+        {
+            "location": "424/TALK",
+            "narrator": "みやび",
+            "text": "うちというか",
+            "zh": "说我的话嘛",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "425/TALK",
+            "narrator": "みやび",
+            "text": "正確には",
+            "zh": "准确来讲",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "426/TALK",
+            "narrator": "みやび",
+            "text": "エリカさんだの",
+            "zh": "是领火干的",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "427/ACT",
+            "narrator": "",
+            "text": "愛について語ろうか",
+            "zh": "来聊聊爱吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "428/TALK",
+            "narrator": "みやび",
+            "text": "いやいや",
+            "zh": "不不",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "430/TALK",
+            "narrator": "みやび",
+            "text": "そっちではなく",
+            "zh": "不是那边",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "431/TALK",
+            "narrator": "みやび",
+            "text": "もっとあるろう",
+            "zh": "还有更重要的吧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "434/TALK",
+            "narrator": "みやび",
+            "text": "どうだ？",
+            "zh": "如何？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "435/TALK",
+            "narrator": "みやび",
+            "text": "何か変化がないかね？",
+            "zh": "有没有什么变化呐？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "438/SEL",
+            "narrator": "",
+            "text": "エリカの件は話せそうかな",
+            "zh": "领火的事，说得出口了吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "439/SEL",
+            "narrator": "",
+            "text": "千羽鶴って知ってたっけ",
+            "zh": "千羽鹤，我以前知道来着？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "440/SEL",
+            "narrator": "",
+            "text": "バグがどうにかなった？",
+            "zh": "Bug有办法了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "441/ACT",
+            "narrator": "",
+            "text": "エリカの件は話せそうかな",
+            "zh": "领火的事，说得出口了吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "442/TALK",
+            "narrator": "みやび",
+            "text": "話せなかったのか",
+            "zh": "原来是说不出口啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "443/ACT",
+            "narrator": "",
+            "text": "千羽鶴って知ってたっけ",
+            "zh": "千羽鹤，我以前知道来着？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "444/TALK",
+            "narrator": "みやび",
+            "text": "知らん",
+            "zh": "没听说过",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "445/TALK",
+            "narrator": "みやび",
+            "text": "はず",
+            "zh": "才对",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "446/ACT",
+            "narrator": "",
+            "text": "バグがどうにかなった？",
+            "zh": "Bug有办法了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "448/TALK",
+            "narrator": "みやび",
+            "text": "バグってたという認識なのか",
+            "zh": "原来你的认知是出过 Bug 啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "451/SEL",
+            "narrator": "",
+            "text": "千羽鶴はＡカップ",
+            "zh": "千羽鹤是Ａ罩杯",
+            "narrator_zh": ""
+        },
+        {
+            "location": "452/SEL",
+            "narrator": "",
+            "text": "エリカから預かったものがある",
+            "zh": "我有领火寄存的东西",
+            "narrator_zh": ""
+        },
+        {
+            "location": "453/SEL",
+            "narrator": "",
+            "text": "正常化できたかな",
+            "zh": "能恢复正常吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "454/ACT",
+            "narrator": "",
+            "text": "千羽鶴はＡカップ",
+            "zh": "千羽鹤是Ａ罩杯",
+            "narrator_zh": ""
+        },
+        {
+            "location": "455/TALK",
+            "narrator": "みやび",
+            "text": "本人が聞いたら",
+            "zh": "本人要是听见了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "456/TALK",
+            "narrator": "みやび",
+            "text": "それこそ発言を取り消せと詰め寄りそうな言葉だの",
+            "zh": "恐怕会立刻逼你收回这句话咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "458/ACT",
+            "narrator": "",
+            "text": "エリカから預かったものがある",
+            "zh": "我有领火寄存的东西",
+            "narrator_zh": ""
+        },
+        {
+            "location": "459/TALK",
+            "narrator": "みやび",
+            "text": "それはアーヤ宛ての荷物とか",
+            "zh": "是说寄给绫水的包裹之类？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "460/TALK",
+            "narrator": "みやび",
+            "text": "さっきのアプリとはまた違うものなのか",
+            "zh": "还是说和刚才那个应用不同？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "462/ACT",
+            "narrator": "",
+            "text": "正常化できたかな",
+            "zh": "能恢复正常吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "463/TALK",
+            "narrator": "みやび",
+            "text": "たぶん",
+            "zh": "大概",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "464/TALK",
+            "narrator": "みやび",
+            "text": "エリカさんが悪ふざけを",
+            "zh": "只要领火没有",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "465/TALK",
+            "narrator": "みやび",
+            "text": "していない限り",
+            "zh": "在恶作剧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "468/SEL",
+            "narrator": "",
+            "text": "みやびは気付いてると思うけど",
+            "zh": "我觉得雅已经发现了哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "469/ACT",
+            "narrator": "",
+            "text": "みやびは気付いてると思うけど",
+            "zh": "我觉得雅已经发现了哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "470/TALK",
+            "narrator": "みやび",
+            "text": "ふむ",
+            "zh": "唔。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "473/SEL",
+            "narrator": "",
+            "text": "$me$との通信は改ざんされてた",
+            "zh": "$me$的通信被篡改过",
+            "narrator_zh": ""
+        },
+        {
+            "location": "474/SEL",
+            "narrator": "",
+            "text": "エリカのプログラムは改ざんガード",
+            "zh": "领火的程序带防篡改",
+            "narrator_zh": ""
+        },
+        {
+            "location": "475/ACT",
+            "narrator": "",
+            "text": "$me$との通信は改ざんされてた",
+            "zh": "$me$的通信被篡改过",
+            "narrator_zh": ""
+        },
+        {
+            "location": "476/TALK",
+            "narrator": "みやび",
+            "text": "それは",
+            "zh": "那个",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "477/TALK",
+            "narrator": "みやび",
+            "text": "過去形と",
+            "zh": "能当作",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "478/TALK",
+            "narrator": "みやび",
+            "text": "思っていいのか？",
+            "zh": "过去式了吗？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "480/ACT",
+            "narrator": "",
+            "text": "エリカのプログラムは改ざんガード",
+            "zh": "领火的程序带防篡改",
+            "narrator_zh": ""
+        },
+        {
+            "location": "481/TALK",
+            "narrator": "みやび",
+            "text": "そうらしいな",
+            "zh": "似乎是这样啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "482/TALK",
+            "narrator": "みやび",
+            "text": "そんなものが必要とは",
+            "zh": "居然需要那种东西，",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "483/TALK",
+            "narrator": "みやび",
+            "text": "敵は相当の手練れ",
+            "zh": "对手相当老练啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "487/SEL",
+            "narrator": "",
+            "text": "今の通信は正常",
+            "zh": "现在的通信是正常的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "488/SEL",
+            "narrator": "",
+            "text": "みやびが気付いてくれてよかった",
+            "zh": "幸好雅发现了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "489/SEL",
+            "narrator": "",
+            "text": "エリカって何者！？",
+            "zh": "领火到底是什么人！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "490/ACT",
+            "narrator": "",
+            "text": "今の通信は正常",
+            "zh": "现在的通信是正常的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "491/TALK",
+            "narrator": "みやび",
+            "text": "ふむ",
+            "zh": "唔。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "492/ACT",
+            "narrator": "",
+            "text": "みやびが気付いてくれてよかった",
+            "zh": "幸好雅发现了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "493/TALK",
+            "narrator": "みやび",
+            "text": "まあな",
+            "zh": "是啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "494/ACT",
+            "narrator": "",
+            "text": "エリカって何者！？",
+            "zh": "领火到底是什么人！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "495/TALK",
+            "narrator": "みやび",
+            "text": "アーヤの姉さま",
+            "zh": "绫水的姐姐大人",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "497/TALK",
+            "narrator": "みやび",
+            "text": "そして",
+            "zh": "然后",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "498/TALK",
+            "narrator": "みやび",
+            "text": "いつからだった？",
+            "zh": "是从什么时候开始的？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "499/TALK",
+            "narrator": "みやび",
+            "text": "$handle$がまともに通信できなかったのは",
+            "zh": "$handle$没法正常通信",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "501/SEL",
+            "narrator": "",
+            "text": "劇場脱出直前",
+            "zh": "剧场撤离前",
+            "narrator_zh": ""
+        },
+        {
+            "location": "502/ACT",
+            "narrator": "",
+            "text": "劇場脱出直前",
+            "zh": "剧场撤离前",
+            "narrator_zh": ""
+        },
+        {
+            "location": "504/TALK",
+            "narrator": "みやび",
+            "text": "特に思い当たらないが",
+            "zh": "没什么印象啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "506/SEL",
+            "narrator": "",
+            "text": "あったってば！",
+            "zh": "有的啦！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "507/SEL",
+            "narrator": "",
+            "text": "誤解されてる…",
+            "zh": "被误会了……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "508/SEL",
+            "narrator": "",
+            "text": "じゃあそれでいいやもう",
+            "zh": "那就这样吧真是的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "509/ACT",
+            "narrator": "",
+            "text": "あったってば！",
+            "zh": "有的啦！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "510/ACT",
+            "narrator": "",
+            "text": "誤解されてる…",
+            "zh": "被误会了……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "511/ACT",
+            "narrator": "",
+            "text": "じゃあそれでいいやもう",
+            "zh": "那就这样吧真是的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "513/TALK",
+            "narrator": "みやび",
+            "text": "ああそうだ",
+            "zh": "啊对了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "514/TALK",
+            "narrator": "みやび",
+            "text": "さっきはうちとしたことが取り乱した",
+            "zh": "刚才是我竟然失态了",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "515/TALK",
+            "narrator": "みやび",
+            "text": "すまんかった",
+            "zh": "没好意思了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "517/SEL",
+            "narrator": "",
+            "text": "気にしないで",
+            "zh": "别放在心上",
+            "narrator_zh": ""
+        },
+        {
+            "location": "518/SEL",
+            "narrator": "",
+            "text": "チューしてくれたら許す",
+            "zh": "亲我一下就原谅你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "519/SEL",
+            "narrator": "",
+            "text": "わかってたから大丈夫",
+            "zh": "我知道的所以没事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "520/ACT",
+            "narrator": "",
+            "text": "気にしないで",
+            "zh": "别放在心上",
+            "narrator_zh": ""
+        },
+        {
+            "location": "522/TALK",
+            "narrator": "みやび",
+            "text": "相棒はうちの相棒ぞね",
+            "zh": "搭档是我的搭档啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "524/TALK",
+            "narrator": "みやび",
+            "text": "本気だぞ",
+            "zh": "我是认真的啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "525/ACT",
+            "narrator": "",
+            "text": "チューしてくれたら許す",
+            "zh": "亲我一下就原谅你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "527/TALK",
+            "narrator": "みやび",
+            "text": "バカちんが",
+            "zh": "笨蛋啦。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "528/TALK",
+            "narrator": "みやび",
+            "text": "昼間にできるわけがないろう",
+            "zh": "大白天怎么可能做咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "529/ACT",
+            "narrator": "",
+            "text": "わかってたから大丈夫",
+            "zh": "我知道的所以没事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "531/TALK",
+            "narrator": "みやび",
+            "text": "相棒はオトナぞね",
+            "zh": "搭档真是大人咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "532/TALK",
+            "narrator": "みやび",
+            "text": "ちっくと惚れるちや",
+            "zh": "有点爱上你了滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "546/TALK",
+            "narrator": "みやび",
+            "text": "結論が出たぞね。",
+            "zh": "结论出来了啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "548/TALK",
+            "narrator": "ガブリエラ",
+            "text": "みやびにしては\nずいぶん時間が\nかかってたみたいだけど。",
+            "zh": "以雅来说，\n好像花了\n相当多时间啊。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "549/TALK",
+            "narrator": "みやび",
+            "text": "念には念を\n入れていただけぞね。",
+            "zh": "只是格外\n多加了一层保险啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "550/TALK",
+            "narrator": "アーヤ",
+            "text": "で？",
+            "zh": "所以？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "551/TALK",
+            "narrator": "みやび",
+            "text": "二人のスマホにも\n同じアプリを\nインストールする。",
+            "zh": "在你们两人的手机上\n也安装\n同一个应用。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "553/TALK",
+            "narrator": "アーヤ",
+            "text": "え？",
+            "zh": "诶？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "554/TALK",
+            "narrator": "ガブリエラ",
+            "text": "プログラムのことは\nわからないわよ？",
+            "zh": "程序的事\n我可不懂哦？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "555/TALK",
+            "narrator": "みやび",
+            "text": "ああ。\nそうやない。",
+            "zh": "啊。\n不是那个意思。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "556/TALK",
+            "narrator": "みやび",
+            "text": "順を追って\n説明すると……。",
+            "zh": "按顺序\n说明的话……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "585/TALK",
+            "narrator": "アーヤ",
+            "text": "なるほど。\nチャットの内容が\n書き換わっていたのね。",
+            "zh": "原来如此。\n聊天的内容\n被改掉了啊。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "587/TALK",
+            "narrator": "みやび",
+            "text": "今はもう正常化したき。",
+            "zh": "现在已经恢复正常了啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "588/TALK",
+            "narrator": "みやび",
+            "text": "もし思い当たる会話が\nあったら誤解は\n解いた方がええろう。",
+            "zh": "要是想起有什么\n可疑的对话，最好\n把误会解开咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "589/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あ！",
+            "zh": "啊！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "590/TALK",
+            "narrator": "みやび",
+            "text": "どういた？",
+            "zh": "怎么了？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "592/TALK",
+            "narrator": "ガブリエラ",
+            "text": "さっき文字化け？\nみたいなメッセージが\nあったのよ。",
+            "zh": "刚才有条像\n乱码一样的\n消息哦。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "594/TALK",
+            "narrator": "ガブリエラ",
+            "text": "もしかしてこれも？",
+            "zh": "难道这也是？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "618/TALK",
+            "narrator": "みやび",
+            "text": "ははん…ベタ問やね。\n「あやのあねだけど\nささえてあげて」",
+            "zh": "哈哈……一眼看穿咯。\n「我是绫水的姐姐\n请多多支持她」",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "620/TALK",
+            "narrator": "アーヤ",
+            "text": "え…？",
+            "zh": "诶……？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "621/TALK",
+            "narrator": "みやび",
+            "text": "介入されんよう\n文章を16進数にして\n送ってきたんやろうね。",
+            "zh": "大概是怕被\n插手，才把文字\n转成十六进制发来的咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "622/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そういうことだったの…！",
+            "zh": "原来是这么回事……！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "624/TALK",
+            "narrator": "アーヤ",
+            "text": "心配しすぎよ！",
+            "zh": "你操心过头了啦！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "626/TALK",
+            "narrator": "ガブリエラ",
+            "text": "でもちょっと\nうれしいでしょ？",
+            "zh": "不过还是有点\n开心吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "627/TALK",
+            "narrator": "アーヤ",
+            "text": "…それは…まあ…。",
+            "zh": "……那个……嘛……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "628/TALK",
+            "narrator": "みやび",
+            "text": "うちは相当\nうらやましいぞね。",
+            "zh": "我可羡慕\n得很咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "631/TALK",
+            "narrator": "アーヤ",
+            "text": "え、ええと……。",
+            "zh": "诶，那个……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "632/TALK",
+            "narrator": "みやび",
+            "text": "けんどうちが\nおらんかったら暗号も\n解読できんかったし。",
+            "zh": "但是要没我\n在这，暗号也\n解不开的。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "633/TALK",
+            "narrator": "みやび",
+            "text": "その件もまとめて\n報告してくれれば\n恨みには思わんぞね。",
+            "zh": "那件事也一并\n汇报上来的话，\n我就不记恨啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "634/TALK",
+            "narrator": "アーヤ",
+            "text": "あ、はい……。",
+            "zh": "啊，好……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "636/TALK",
+            "narrator": "みやび",
+            "text": "ほいたら残りの\nデータもすっと解析\nしちゃるきねえ！",
+            "zh": "那就剩下的\n数据也麻利地\n解析给你看啵——！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "647/DIALOG",
+            "narrator": "Dialog_chapter_ch04",
+            "text": "【22 トークン・リング】",
+            "zh": "【22 令牌环】",
+            "narrator_zh": "Dialog_chapter_ch04"
+        }
+    ]
+}
