@@ -13,7 +13,9 @@
 2. **预扫描**：用 `python -m pipeline.prescan <源文件>` 生成 `pipeline/work/*.context.md`。
 3. **翻译与回填**：严禁手动改写原文 JSON；只产出轻量翻译包并用 `python -m pipeline.apply_pack <pack.json>` 回填，确保 `python -m pipeline.lint` 输出 `ERROR=0`。
 4. **更新记忆**：按 `pipeline/README.md` 规范滚动更新对应随读笔记（控制在 ~2000 tokens 内）。
+5. **更新进度**：每次翻译作业收尾、**推上 GitHub 之前，必须重算并更新 `【翻译】/全体进度表.md`**（统计口径以表头说明为准，当前为"源 entry 含假名记 1 行"），与译文同一批提交推送；只译了一部分的文件按"部分"如实计入，不得凭记忆手改数字。
 
 ## 协作与 Git 约定
 - 严禁修改原文源文件及未负责线路的已译文件。
 - 随读笔记的删减与更新建议在根目录单独提交一条 `notes:` commit，便于追溯。
+- 推送前检查清单：lint `ERROR=0` → 随读笔记已滚动更新 → **全体进度表.md 已重算更新** → 再 `git push`。
