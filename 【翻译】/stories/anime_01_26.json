@@ -1,0 +1,1204 @@
+{
+    "dir": "chap26/daydra/anime_01_26.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "26101",
+        "cid": "tsubame",
+        "title": "001 アニメーション",
+        "sub_title": "EXE_KAGURa",
+        "title_zh": "001 动画",
+        "sub_title_zh": "EXE_KAGURa"
+    },
+    "entry": [
+        {
+            "location": "7/SCENARIO",
+            "narrator": "",
+            "text": "アニメ第26話",
+            "zh": "动画第26话",
+            "narrator_zh": ""
+        },
+        {
+            "location": "49/TALK",
+            "narrator": "神楽",
+            "text": "ごきげんよう、\n$handle$さん。",
+            "zh": "贵安，\n$handle$。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "50/TALK",
+            "narrator": "神楽",
+            "text": "今回は、私のMVを\n再生するだけにしますか？",
+            "zh": "这次要只播放\n我的MV吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "51/SEL",
+            "narrator": "",
+            "text": "はい",
+            "zh": "是",
+            "narrator_zh": ""
+        },
+        {
+            "location": "52/SEL",
+            "narrator": "",
+            "text": "いいえ",
+            "zh": "否",
+            "narrator_zh": ""
+        },
+        {
+            "location": "53/ACT",
+            "narrator": "",
+            "text": "はい",
+            "zh": "是",
+            "narrator_zh": ""
+        },
+        {
+            "location": "55/TALK",
+            "narrator": "神楽",
+            "text": "わかりました。",
+            "zh": "我知道了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "57/ACT",
+            "narrator": "",
+            "text": "いいえ",
+            "zh": "否",
+            "narrator_zh": ""
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "神楽",
+            "text": "わかりました。\nそれじゃ、エリカさんに\n代わりますね。",
+            "zh": "我知道了。\n那么，就请领火\n来接替吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "謎のおねえさん",
+            "text": "コーンコン。",
+            "zh": "叩叩。",
+            "narrator_zh": "神秘的大姐姐"
+        },
+        {
+            "location": "85/TALK",
+            "narrator": "謎のおねえさん",
+            "text": "また会えたね、\n$handle$さん。",
+            "zh": "又见面了呢，\n$handle$。",
+            "narrator_zh": "神秘的大姐姐"
+        },
+        {
+            "location": "86/SEL",
+            "narrator": "",
+            "text": "こんにちは謎のおねえさん",
+            "zh": "你好，神秘的大姐姐",
+            "narrator_zh": ""
+        },
+        {
+            "location": "87/ACT",
+            "narrator": "",
+            "text": "こんにちは謎のおねえさん",
+            "zh": "你好，神秘的大姐姐",
+            "narrator_zh": ""
+        },
+        {
+            "location": "90/TALK",
+            "narrator": "謎のおねえさん",
+            "text": "ああっ！\nそういえばまだ、自己\n紹介もしてなかったよね。",
+            "zh": "啊啊！\n说起来，我都还没\n做过自我介绍呢。",
+            "narrator_zh": "神秘的大姐姐"
+        },
+        {
+            "location": "91/TALK",
+            "narrator": "謎のおねえさん",
+            "text": "ごめんなさい。\nいつもウッカリして\n忘れちゃうんだよね。",
+            "zh": "对不起。\n我总是大意，\n一不小心就忘了。",
+            "narrator_zh": "神秘的大姐姐"
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "謎のおねえさん",
+            "text": "改めまして、\nわたしは國政領火です。\nエリカって呼んでね。",
+            "zh": "重新自我介绍一下，\n我是国政领火。\n叫我领火就好。",
+            "narrator_zh": "神秘的大姐姐"
+        },
+        {
+            "location": "93/TALK",
+            "narrator": "エリカ",
+            "text": "そして、綾ちゃん、\n國政綾水の姉です。",
+            "zh": "然后，也是绫水、\n国政绫水的姐姐。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "94/TALK",
+            "narrator": "エリカ",
+            "text": "いつも妹が\nお世話になってます！",
+            "zh": "平时承蒙你\n照顾我妹妹啦！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "95/SEL",
+            "narrator": "",
+            "text": "こちらこそ",
+            "zh": "哪里哪里",
+            "narrator_zh": ""
+        },
+        {
+            "location": "96/SEL",
+            "narrator": "",
+            "text": "お姉ちゃんは攻略できませんか？",
+            "zh": "姐姐不能攻略吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "97/ACT",
+            "narrator": "",
+            "text": "こちらこそ",
+            "zh": "哪里哪里",
+            "narrator_zh": ""
+        },
+        {
+            "location": "98/TALK",
+            "narrator": "エリカ",
+            "text": "これからもずっと\n支えてくれたら、\n姉として嬉しいな。",
+            "zh": "今后要是也能一直\n支持她的话，\n作为姐姐我会很开心的。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "99/TALK",
+            "narrator": "エリカ",
+            "text": "末永く\nよろしくね。",
+            "zh": "今后也请\n多多关照呀。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "100/ACT",
+            "narrator": "",
+            "text": "お姉ちゃんは攻略できませんか？",
+            "zh": "姐姐不能攻略吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "エリカ",
+            "text": "それはちょっと無理かも。",
+            "zh": "这个嘛，可能有点难度哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "エリカ",
+            "text": "っていうか、それ以前に\nあなた、千羽鶴ちゃんにも\n同じ様な事言ってない？",
+            "zh": "话说回来，在此之前\n你是不是也对千羽鹤\n说过一样的话呀？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "105/TALK",
+            "narrator": "エリカ",
+            "text": "確か、『綾ちゃんたちを\n殺してでも結婚したい』\nだったっけ…。",
+            "zh": "记得好像是“就算杀了\n绫水她们也想结婚”\n来着……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "106/SEL",
+            "narrator": "",
+            "text": "ああ、言ったさ！",
+            "zh": "啊，我说过！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "107/SEL",
+            "narrator": "",
+            "text": "ご、ごめんなさい…ブルブル",
+            "zh": "对、对不起……瑟瑟发抖",
+            "narrator_zh": ""
+        },
+        {
+            "location": "108/SEL",
+            "narrator": "",
+            "text": "言ってません！",
+            "zh": "我没有说过！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "109/ACT",
+            "narrator": "",
+            "text": "ああ、言ったさ！",
+            "zh": "啊，我说过！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "111/TALK",
+            "narrator": "エリカ",
+            "text": "素直でよろしい。",
+            "zh": "这么坦率真不错。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "112/TALK",
+            "narrator": "エリカ",
+            "text": "でも、同じ世界での重婚は\n画策しない方がいいよ？",
+            "zh": "不过，在同一个世界里\n还是别密谋重婚比较好哦？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "113/TALK",
+            "narrator": "エリカ",
+            "text": "こうして記録に\n残っちゃってるし。",
+            "zh": "毕竟都像这样\n留在记录里了呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "114/ACT",
+            "narrator": "",
+            "text": "ご、ごめんなさい…ブルブル",
+            "zh": "对、对不起……瑟瑟发抖",
+            "narrator_zh": ""
+        },
+        {
+            "location": "117/TALK",
+            "narrator": "エリカ",
+            "text": "あっ、えっと！\nそんな、怖がらせる\nつもりは無いんだけど！",
+            "zh": "啊、那个！\n我并不是打算\n要吓唬你啦！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "118/TALK",
+            "narrator": "エリカ",
+            "text": "でも、綾ちゃん殺されたら\nわたしはちょっと黙って\nいられないから。",
+            "zh": "不过要是绫水被杀的话，\n我作为姐姐可是\n没法坐视不管的。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "119/TALK",
+            "narrator": "エリカ",
+            "text": "実際はそんなことしないと\n思うけど、そこだけは\n最初に言っておくね？",
+            "zh": "虽然我想你实际上\n不会做那种事，\n这点还是先说清楚哦？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "120/ACT",
+            "narrator": "",
+            "text": "言ってません！",
+            "zh": "我没有说过！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "122/TALK",
+            "narrator": "エリカ",
+            "text": "往生際が悪いですよ？",
+            "zh": "还挺不肯认账的嘛？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "123/TALK",
+            "narrator": "エリカ",
+            "text": "ちゃんとアカシック\nレコードに記録されて\nいるんですからね？",
+            "zh": "那可是好好地\n记录在阿卡夏纪录\n里面的哦？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "125/TALK",
+            "narrator": "エリカ",
+            "text": "それに、\nちゃんと注意喚起まで\nされてたみたいだけど。",
+            "zh": "而且，\n好像还好好地\n提醒警告过你呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "131/TALK",
+            "narrator": "エリカ",
+            "text": "それはちょっと\n難しいかも。ごめんね？",
+            "zh": "那确实有点\n难办呢。抱歉哦？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "132/TALK",
+            "narrator": "エリカ",
+            "text": "でも、綾ちゃんと\n結婚すれば、わたしとも\n同じ家族になれるよ！",
+            "zh": "不过，只要你和绫水\n结婚，就能和我变成\n同一家人啦！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "エリカ",
+            "text": "ああっ！\nでも……",
+            "zh": "啊啊！\n不过……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "134/TALK",
+            "narrator": "エリカ",
+            "text": "綾ちゃん、お式に\n呼んでくれるかなぁ。",
+            "zh": "绫水会叫我去\n参加婚礼吗～。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "135/TALK",
+            "narrator": "エリカ",
+            "text": "綾ちゃんが嫌って言ったら\nあなたが「ご友人」として\n招待してくれないかな？",
+            "zh": "要是绫水说讨厌的话，\n能不能由你作为“朋友”\n来邀请我呀？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "139/TALK",
+            "narrator": "エリカ",
+            "text": "…って、いけない！\nそんなことやってる\n場合じゃなかったよ。",
+            "zh": "……哎呀，糟糕！\n现在可不是说这些\n闲话的时候啊。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "140/TALK",
+            "narrator": "エリカ",
+            "text": "ごめんね。\n今日はちょっと調べ事で\n色々忙しくて。",
+            "zh": "对不起。\n今天因为要调查点事情，\n各种忙得不可开交。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "141/SEL",
+            "narrator": "",
+            "text": "前回の選択肢のこととか？",
+            "zh": "是上一回选项的事之类的？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "142/SEL",
+            "narrator": "",
+            "text": "千羽鶴のこととか？",
+            "zh": "是千羽鹤的事之类的？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "143/ACT",
+            "narrator": "",
+            "text": "前回の選択肢のこととか？",
+            "zh": "是上一回选项的事之类的？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "144/TALK",
+            "narrator": "エリカ",
+            "text": "そう。正解～。",
+            "zh": "对。答对啦～。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "145/ACT",
+            "narrator": "",
+            "text": "千羽鶴のこととか？",
+            "zh": "是千羽鹤的事之类的？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "147/TALK",
+            "narrator": "エリカ",
+            "text": "んー、まだちょっと\nわからないけど、\nもしかしたら正解かも。",
+            "zh": "唔——虽然现在还\n不太清楚，\n搞不好也算对哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "149/TALK",
+            "narrator": "エリカ",
+            "text": "正解は、OSのコミュ\nシステム調査で忙しい、\nでした～！",
+            "zh": "正确答案是，正在忙着\n调查OS的通讯系统\n啦～！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "151/TALK",
+            "narrator": "エリカ",
+            "text": "ホントは今から、\n色んな真実をあなたに\n教えたかったんだけど――",
+            "zh": "本来我想从现在起\n把各种真相都\n告诉你的——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "152/TALK",
+            "narrator": "エリカ",
+            "text": "今回はちょっと\n無理になっちゃって。",
+            "zh": "但这次有点\n实在抽不开身。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "153/TALK",
+            "narrator": "エリカ",
+            "text": "それと、今の状態じゃ\nデイドラシステムも\n危なくて使えないの。",
+            "zh": "而且，以现在的状态\n连每日剧场系统\n也很危险，用不了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "154/TALK",
+            "narrator": "エリカ",
+            "text": "だから、\n今回は１回休みで\nいいかな？",
+            "zh": "所以，\n这次先休息一回\n可以吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "155/TALK",
+            "narrator": "エリカ",
+            "text": "ホント、ごめんね。\n出逢って早々ドタキャン\nしちゃって。",
+            "zh": "真的对不起。\n刚见面不久就\n临时放鸽子。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "156/TALK",
+            "narrator": "エリカ",
+            "text": "こんなだから綾ちゃんに\n怒られちゃうんだよね。",
+            "zh": "就是因为老这样，\n才会被绫水生气的呀。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "157/TALK",
+            "narrator": "エリカ",
+            "text": "って、また\n長話しちゃったよ。\nもう行かなくちゃ。",
+            "zh": "哎呀，一不小心又\n聊太久了。\n我得走了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "158/TALK",
+            "narrator": "エリカ",
+            "text": "それじゃまた次回、\nここで待ってるね！",
+            "zh": "那么下回再见，\n我在这里等你哦！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "169/TALK",
+            "narrator": "神楽",
+            "text": "こんにちは、\n$handle$さん。",
+            "zh": "你好，\n$handle$。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "170/SEL",
+            "narrator": "",
+            "text": "なんで神楽がここに！？",
+            "zh": "为什么神乐会在这里！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "171/ACT",
+            "narrator": "",
+            "text": "なんで神楽がここに！？",
+            "zh": "为什么神乐会在这里！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "173/TALK",
+            "narrator": "神楽",
+            "text": "今回は記録映像の再生が\n中止だって聞いて、\nお邪魔しちゃいました。",
+            "zh": "听说这次中止播放\n记录影像了，\n我就过来打扰一下。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "174/SEL",
+            "narrator": "",
+            "text": "どうやって？",
+            "zh": "怎么过来的？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "175/ACT",
+            "narrator": "",
+            "text": "どうやって？",
+            "zh": "怎么过来的？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "177/TALK",
+            "narrator": "神楽",
+            "text": "みやびさんの\nココロの司書さんに\n教えてもらったんです。",
+            "zh": "是雅的\n心之司书\n告诉我的。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "178/TALK",
+            "narrator": "神楽",
+            "text": "どうしても\nやりたいことがあって。",
+            "zh": "我有无论如何\n都想做的事。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "179/SEL",
+            "narrator": "",
+            "text": "$me$への告白？",
+            "zh": "要向$me$告白？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "180/SEL",
+            "narrator": "",
+            "text": "MVを流すの？",
+            "zh": "要放MV吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "181/ACT",
+            "narrator": "",
+            "text": "$me$への告白？",
+            "zh": "要向$me$告白？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "183/TALK",
+            "narrator": "神楽",
+            "text": "それも\n悪くはないんですけど……",
+            "zh": "那个嘛\n倒也不错……",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "184/TALK",
+            "narrator": "神楽",
+            "text": "でも、それはまた\n別の所でやりましょう！",
+            "zh": "不过，那种事还是留到\n别的场合再做吧！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "185/TALK",
+            "narrator": "神楽",
+            "text": "というわけで、違います。\n今回は、貴方と一緒に\n私のMVを見たくて。",
+            "zh": "所以说，不是的。\n这次我是想和你一起\n看我的MV。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "186/ACT",
+            "narrator": "",
+            "text": "MVを流すの？",
+            "zh": "要放MV吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "188/TALK",
+            "narrator": "神楽",
+            "text": "えっ！？\nどうして\nわかったんですか？",
+            "zh": "哎！？\n你怎么会\n知道的？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "189/SEL",
+            "narrator": "",
+            "text": "前回の終わりにMV回だって書いてあった",
+            "zh": "上一回结尾写了这回是MV回",
+            "narrator_zh": ""
+        },
+        {
+            "location": "190/ACT",
+            "narrator": "",
+            "text": "前回の終わりにMV回だって書いてあった",
+            "zh": "上一回结尾写了这回是MV回",
+            "narrator_zh": ""
+        },
+        {
+            "location": "192/TALK",
+            "narrator": "神楽",
+            "text": "あー、\nそうだったんですね。",
+            "zh": "啊——\n原来如此啊。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "193/TALK",
+            "narrator": "神楽",
+            "text": "私がここへ来ることは、\nTRI-OSにとっては\n予定通りだったと…。",
+            "zh": "我来到这里这件事，\n对TRI-OS来说\n也在计划之中吗……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "195/TALK",
+            "narrator": "神楽",
+            "text": "とにかく。\n見たいんです！\nあなたと一緒に！",
+            "zh": "总之。\n我想看！\n想和你一起看！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "196/SEL",
+            "narrator": "",
+            "text": "どうしてそんなに？",
+            "zh": "为什么这么执着？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "197/ACT",
+            "narrator": "",
+            "text": "どうしてそんなに？",
+            "zh": "为什么这么执着？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "199/TALK",
+            "narrator": "神楽",
+            "text": "それは……",
+            "zh": "那是因为……",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "200/TALK",
+            "narrator": "神楽",
+            "text": "私……もう、\nそんなに先が長くないかも\nしれないからです。",
+            "zh": "我……大概\n已经没有多少时间\n可以活下去了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "201/TALK",
+            "narrator": "神楽",
+            "text": "MVは千羽鶴によって\n入隊順にセットされて\nいました。",
+            "zh": "MV是千羽鹤按照\n入队顺序设定\n好的。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "202/TALK",
+            "narrator": "神楽",
+            "text": "それは、その子が最も\n輝ける時期に狙って\n置かれているんですが。",
+            "zh": "虽说是瞄准那个孩子\n最闪耀的时期\n来安排的。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "203/TALK",
+            "narrator": "神楽",
+            "text": "私とつばめさんのは、\n当然一番後ろにあって。",
+            "zh": "我和燕的，\n自然就排在了最后面。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "204/TALK",
+            "narrator": "神楽",
+            "text": "特につばめさんのは、\n本当に再生する気が\nあるのかっていう……",
+            "zh": "尤其是燕的那支，\n简直让人怀疑她到底\n打不打算放出来……",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "205/SEL",
+            "narrator": "",
+            "text": "何それどういうこと！？",
+            "zh": "什么啊那是什么意思！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "206/ACT",
+            "narrator": "",
+            "text": "何それどういうこと！？",
+            "zh": "什么啊那是什么意思！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "208/TALK",
+            "narrator": "神楽",
+            "text": "あ、いえ、今は\nそんなことは\nどうでもいいんです。",
+            "zh": "啊，不，现在\n那种事\n怎样都好。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "209/TALK",
+            "narrator": "神楽",
+            "text": "今お話したいのは\n私のMVの方ですから。",
+            "zh": "现在想聊的\n是我的MV。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "210/TALK",
+            "narrator": "神楽",
+            "text": "とにかく、私のMVは\n映像記録のほぼ末端に\nあって。",
+            "zh": "总之，我的MV\n排在影像记录\n几乎最末端的位置。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "211/TALK",
+            "narrator": "神楽",
+            "text": "それが流されるとき、\n私はどうなってるか、\n正直わかりません。",
+            "zh": "轮到它播放的时候，\n我会变成什么样，\n老实说我也不知道。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "212/TALK",
+            "narrator": "神楽",
+            "text": "生きてるかどうかすら\n怪しいと思ってます。",
+            "zh": "甚至连还能不能\n活着都很难说。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "213/TALK",
+            "narrator": "神楽",
+            "text": "仮に\n生きていたとしても……。",
+            "zh": "就算\n还活着……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "214/TALK",
+            "narrator": "神楽",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "215/TALK",
+            "narrator": "神楽",
+            "text": "恐らくは今後、私と\nつばめさん達との間には、\n様々な事があるでしょう。",
+            "zh": "恐怕今后，我和\n燕她们之间，\n还会发生各种各样的事吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "219/TALK",
+            "narrator": "神楽",
+            "text": "それらのコトが起こる前に\n生きて、貴方と一緒に\nMVを見たかったんです。",
+            "zh": "在那些事发生之前，\n我想活着和你一起\n看这支MV。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "220/TALK",
+            "narrator": "神楽",
+            "text": "私のMVには、想いが\n沢山詰まっています。",
+            "zh": "我的MV里，\n装满了很多心意。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "221/TALK",
+            "narrator": "神楽",
+            "text": "それを、\n私の隣で感じ取って\n欲しかったから。",
+            "zh": "因为我希望你能在\n我身旁感受到\n那些心意。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "224/TALK",
+            "narrator": "神楽",
+            "text": "…って。\nちょっと重いお話に\nなっちゃいましたね。",
+            "zh": "……说着说着。\n话题好像变得\n有点沉重了呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "225/TALK",
+            "narrator": "神楽",
+            "text": "でも、簡単に言えば、\n私も$handle$さんと\nイチャラブしたいんです。",
+            "zh": "不过简单来说，\n我也想和$handle$\n腻歪一番。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "227/TALK",
+            "narrator": "神楽",
+            "text": "ですから、よろしければ\nつき合ってもらえますか？",
+            "zh": "所以，如果可以的话\n能陪我一起吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "228/SEL",
+            "narrator": "",
+            "text": "もちろん",
+            "zh": "当然",
+            "narrator_zh": ""
+        },
+        {
+            "location": "229/SEL",
+            "narrator": "",
+            "text": "遠慮します",
+            "zh": "我还是算了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "230/ACT",
+            "narrator": "",
+            "text": "もちろん",
+            "zh": "当然",
+            "narrator_zh": ""
+        },
+        {
+            "location": "233/TALK",
+            "narrator": "神楽",
+            "text": "ありがとうございます！\nとっても嬉しいです。",
+            "zh": "谢谢你！\n我真的好开心。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "234/TALK",
+            "narrator": "神楽",
+            "text": "無理してMVを取ってきた\n甲斐がありました♪",
+            "zh": "总算没白费我\n硬把MV拿过来♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "235/TALK",
+            "narrator": "神楽",
+            "text": "それでは早速、\n宜しくお願いします！",
+            "zh": "那事不宜迟，\n请多指教！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "236/SEL",
+            "narrator": "",
+            "text": "こちらこそ",
+            "zh": "彼此彼此",
+            "narrator_zh": ""
+        },
+        {
+            "location": "237/ACT",
+            "narrator": "",
+            "text": "こちらこそ",
+            "zh": "彼此彼此",
+            "narrator_zh": ""
+        },
+        {
+            "location": "239/TALK",
+            "narrator": "神楽",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "240/SEL",
+            "narrator": "",
+            "text": "どうしたの？",
+            "zh": "怎么了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "241/ACT",
+            "narrator": "",
+            "text": "どうしたの？",
+            "zh": "怎么了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "243/TALK",
+            "narrator": "神楽",
+            "text": "何と言いましょうか…。\n中等部の頃に、\n放送室に潜入して――",
+            "zh": "该怎么说呢……。\n我想起了初中的时候，\n潜入广播室——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "244/TALK",
+            "narrator": "神楽",
+            "text": "自分のお気に入りの\n音楽を流しちゃった時の\n事を思い出しました！",
+            "zh": "把我自己喜欢的\n音乐放出来的\n那件事！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "245/TALK",
+            "narrator": "神楽",
+            "text": "あの時私、\n後で怒られるの覚悟で\n流したんです。",
+            "zh": "那时候我可是\n做好了事后挨骂的觉悟\n才放的。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "246/TALK",
+            "narrator": "神楽",
+            "text": "どうしてもみんなに\n聞いて欲しい曲があって。",
+            "zh": "因为有一首无论如何\n都想让大家听听的歌。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "247/TALK",
+            "narrator": "神楽",
+            "text": "今の私も、\nその時と同じ気持ちです。",
+            "zh": "现在的我，\n也是和那时一样的心情。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "248/TALK",
+            "narrator": "神楽",
+            "text": "改めて……。",
+            "zh": "再次向你……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "249/TALK",
+            "narrator": "神楽",
+            "text": "こんなに急なお願いなのに\n一緒に見てくれて\nありがとうございます。",
+            "zh": "明明是我这么突然的请求，\n谢谢你愿意\n陪我一起看。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "250/TALK",
+            "narrator": "神楽",
+            "text": "それじゃ早速、\nよろしくお願いします！",
+            "zh": "那事不宜迟，\n请多指教！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "251/ACT",
+            "narrator": "",
+            "text": "遠慮します",
+            "zh": "我还是算了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "253/TALK",
+            "narrator": "神楽",
+            "text": "そうですか…。\nちょっぴり残念です。",
+            "zh": "这样啊……。\n稍微有点遗憾。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "254/TALK",
+            "narrator": "神楽",
+            "text": "でも、無理矢理お願いして\nいるのは私ですから、\n気にしないでくださいね。",
+            "zh": "不过本来就是我\n硬要拜托你的，\n请别放在心上哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "255/TALK",
+            "narrator": "神楽",
+            "text": "もし気が変わって\n見たくなったら、いつでも\n来てください。",
+            "zh": "要是改变主意\n想看了，随时都\n可以过来。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "256/TALK",
+            "narrator": "神楽",
+            "text": "その時は是非、\nご一緒しましょう。",
+            "zh": "到时候请务必\n一起看吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "257/TALK",
+            "narrator": "神楽",
+            "text": "それでは、また。\nお逢いできる時を\n楽しみにしています♪",
+            "zh": "那么，再见。\n期待能再见到你的\n那天♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "262/SEL",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【高画質/43MB 2:51】</color>",
+            "zh": "观看影像\n<color=green>【高画质/43MB 2:51】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "263/SEL",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【標準画質/15MB 2:51】</color>",
+            "zh": "观看影像\n<color=green>【标准画质/15MB 2:51】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "264/ACT",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【高画質/43MB 2:51】</color>",
+            "zh": "观看影像\n<color=green>【高画质/43MB 2:51】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "270/ACT",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【標準画質/15MB 2:51】</color>",
+            "zh": "观看影像\n<color=green>【标准画质/15MB 2:51】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "286/TALK",
+            "narrator": "神楽",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "287/TALK",
+            "narrator": "神楽",
+            "text": "どうでしたか？",
+            "zh": "怎么样？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "288/SEL",
+            "narrator": "",
+            "text": "凄かった",
+            "zh": "好厉害",
+            "narrator_zh": ""
+        },
+        {
+            "location": "289/SEL",
+            "narrator": "",
+            "text": "まあ、こんなものか",
+            "zh": "也就那样吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "290/SEL",
+            "narrator": "",
+            "text": "色々教えて欲しいことがある",
+            "zh": "我有好多想让你教我的事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "291/ACT",
+            "narrator": "",
+            "text": "凄かった",
+            "zh": "好厉害",
+            "narrator_zh": ""
+        },
+        {
+            "location": "293/TALK",
+            "narrator": "神楽",
+            "text": "ふふ。\nありがとうございます。",
+            "zh": "呵呵。\n谢谢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "294/TALK",
+            "narrator": "神楽",
+            "text": "このMVから、何かを\n感じ取ってもらえたら\nとっても嬉しいです。",
+            "zh": "如果你能从这支MV里\n感受到什么的话，\n我会非常开心的。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "295/TALK",
+            "narrator": "神楽",
+            "text": "もし、もっと色んなことを\n知りたかったり、それと、\n……したかったりしたら。",
+            "zh": "要是你还想了解\n更多各种事情，还有，\n想……的话。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "296/TALK",
+            "narrator": "神楽",
+            "text": "是非今度は、\n私と一緒に\nMVを見ませんか？",
+            "zh": "下次请务必\n和我一起\n看MV吧？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "297/TALK",
+            "narrator": "神楽",
+            "text": "その時は、１つ１つ、\n手取り足取り、貴方に\n教えちゃいます♪",
+            "zh": "到时候，我会一点一点、\n手把手地教给\n你的♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "298/ACT",
+            "narrator": "",
+            "text": "まあ、こんなものか",
+            "zh": "也就那样吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "299/TALK",
+            "narrator": "神楽",
+            "text": "あまりお気に召さなかった\nみたいですね。",
+            "zh": "好像不太合你的\n胃口呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "300/TALK",
+            "narrator": "神楽",
+            "text": "でも、見てくれて\nありがとうございました！",
+            "zh": "不过还是谢谢你\n愿意看！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "301/TALK",
+            "narrator": "神楽",
+            "text": "少しでも何かを\n感じ取ってくれたら\nとっても嬉しいです。",
+            "zh": "哪怕只有一点点，\n只要能让你有所感受\n我就很开心了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "302/ACT",
+            "narrator": "",
+            "text": "色々教えて欲しいことがある",
+            "zh": "我有好多想让你教我的事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "303/TALK",
+            "narrator": "神楽",
+            "text": "その気持ち、\nすごくよくわかります！",
+            "zh": "这份心情，\n我非常理解！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "304/TALK",
+            "narrator": "神楽",
+            "text": "でも、どうせなら、\nここで回りくどく\n説明するより――",
+            "zh": "不过既然如此，\n比起在这里拐弯抹角地\n说明——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "305/TALK",
+            "narrator": "神楽",
+            "text": "今度二人きりで\n一緒に見ながら\n教えちゃいますよ？",
+            "zh": "不如改天只有我们两个人\n一边一起看\n一边教你吧？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "306/TALK",
+            "narrator": "神楽",
+            "text": "ですから、\n今日はここまでに\nしましょう。",
+            "zh": "所以，\n今天就先到\n这里吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "308/TALK",
+            "narrator": "神楽",
+            "text": "っと。",
+            "zh": "哎呀。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "309/TALK",
+            "narrator": "神楽",
+            "text": "あまり長居すると、\nナビゲーターさんが\n戻って来ちゃいますね。",
+            "zh": "再待太久的话，\n导航员小姐\n就要回来了呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "310/TALK",
+            "narrator": "神楽",
+            "text": "それでは、\nこれからもどうか\nよろしくお願いします。",
+            "zh": "那么，\n今后也请\n多多关照了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "311/TALK",
+            "narrator": "神楽",
+            "text": "まだチャンネルも無い\nうちからこんな事言うのも\n変かもですが――",
+            "zh": "虽然在连频道都还没有\n的时候说这种话\n可能有点奇怪——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "312/TALK",
+            "narrator": "神楽",
+            "text": "貴方だけが頼りです。",
+            "zh": "我能依靠的只有你了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "313/TALK",
+            "narrator": "神楽",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "314/TALK",
+            "narrator": "神楽",
+            "text": "それじゃ、\nまたお逢いしましょう。",
+            "zh": "那么，\n下次再见吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "315/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さん。\n頼りにしてますよ？",
+            "zh": "$handle$。\n我可全靠你了哦？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "163/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:Navigator】</color>\nナビゲーターが\n存在しないため、\nプログラムを終了します。(p01)",
+            "zh": "<color=green>【TRI-OS Plug-in:Navigator】</color>\n由于导航员\n不存在，\n即将终止程序。(p01)",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "165/DIALOG",
+            "narrator": "INFO",
+            "text": "<color=green>【TRI-OS Plug-in:Navigator】</color>\n\nNavigator assigned:\nKAGURA UDUKI.\n(p11)",
+            "zh": "<color=green>【TRI-OS Plug-in:Navigator】</color>\n\nNavigator assigned:\nKAGURA UDUKI.\n(p11)",
+            "narrator_zh": "INFO"
+        },
+        {
+            "location": "218/DIALOG",
+            "narrator": "Event/Dialog_EventPicWideNW",
+            "text": "卯　月　神　楽  (15) 、 紅　い　独　白　。",
+            "zh": "卯　月　神　乐  (15) 、 红　色　独　白　。",
+            "narrator_zh": "Event/Dialog_EventPicWideNW"
+        },
+        {
+            "location": "334/DIALOG",
+            "narrator": "Dialog_chapter_ch01",
+            "text": "【21 サマーワース】",
+            "zh": "【21 夏日价值】",
+            "narrator_zh": "Dialog_chapter_ch01"
+        }
+    ]
+}
