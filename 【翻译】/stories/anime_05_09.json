@@ -1,0 +1,2898 @@
+{
+    "dir": "chap09/daydra/anime_05_09.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "9501",
+        "cid": "kagura",
+        "title": "001 アニメーション",
+        "sub_title": "史上最悪の作戦",
+        "title_zh": "001 动画",
+        "sub_title_zh": "史上最恶作战"
+    },
+    "entry": [
+        {
+            "location": "862/SCENARIO",
+            "narrator": "",
+            "text": "アニメ第09話",
+            "zh": "动画第09话",
+            "narrator_zh": ""
+        },
+        {
+            "location": "903/TALK",
+            "narrator": "千羽鶴",
+            "text": "ごきげんよう、\n$handle$。",
+            "zh": "贵安，\n$handle$。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "904/TALK",
+            "narrator": "千羽鶴",
+            "text": "もう一度\n私との会話を\n再現する？",
+            "zh": "要再一次\n重现和我的\n对话吗？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "905/SEL",
+            "narrator": "",
+            "text": "はい",
+            "zh": "是",
+            "narrator_zh": ""
+        },
+        {
+            "location": "906/SEL",
+            "narrator": "",
+            "text": "いいえ",
+            "zh": "否",
+            "narrator_zh": ""
+        },
+        {
+            "location": "907/ACT",
+            "narrator": "",
+            "text": "はい",
+            "zh": "是",
+            "narrator_zh": ""
+        },
+        {
+            "location": "908/TALK",
+            "narrator": "千羽鶴",
+            "text": "わかった。",
+            "zh": "我知道了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "910/ACT",
+            "narrator": "",
+            "text": "いいえ",
+            "zh": "否",
+            "narrator_zh": ""
+        },
+        {
+            "location": "911/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう。",
+            "zh": "是的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "918/TALK",
+            "narrator": "千羽鶴",
+            "text": "あ、しまった。",
+            "zh": "啊，糟糕。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "919/SEL",
+            "narrator": "",
+            "text": "？",
+            "zh": "？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "920/ACT",
+            "narrator": "",
+            "text": "？",
+            "zh": "？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "922/TALK",
+            "narrator": "千羽鶴",
+            "text": "貴方が来る前に\nここから出ようと\n思ってたんだけど――",
+            "zh": "我本来打算\n在你来之前\n离开这里的——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "923/TALK",
+            "narrator": "千羽鶴",
+            "text": "貴方の方が\n先に来てしまった。",
+            "zh": "结果你比我\n先一步过来了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "924/TALK",
+            "narrator": "千羽鶴",
+            "text": "でも大丈夫、\n心配しないで。\nすぐに出ていくから。",
+            "zh": "不过没关系，\n别担心。\n我马上就走。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "925/SEL",
+            "narrator": "",
+            "text": "助かる",
+            "zh": "帮大忙了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "926/SEL",
+            "narrator": "",
+            "text": "ちょっと待って！",
+            "zh": "等一下！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "927/ACT",
+            "narrator": "",
+            "text": "助かる",
+            "zh": "帮大忙了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "928/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう。",
+            "zh": "是的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "929/TALK",
+            "narrator": "千羽鶴",
+            "text": "記録映像、\nとりあえず回しておく？",
+            "zh": "记录影像，\n先给你放着好吗？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "931/ACT",
+            "narrator": "",
+            "text": "ちょっと待って！",
+            "zh": "等一下！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "932/TALK",
+            "narrator": "千羽鶴",
+            "text": "……なに。",
+            "zh": "……什么事。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "933/SEL",
+            "narrator": "",
+            "text": "二度と現れないで欲しいって言ったのは、千羽鶴が嫌いだからじゃないんだ！",
+            "zh": "我说希望你别再出现，并不是因为讨厌千羽鹤！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "934/SEL",
+            "narrator": "",
+            "text": "やりにくいから、契約夫婦みたいにサッパリした関係になりませんか？",
+            "zh": "这样太难相处了，不如像契约夫妻那样保持清爽的关系吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "935/SEL",
+            "narrator": "",
+            "text": "いえ、なんでもないです",
+            "zh": "不，没什么事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "936/ACT",
+            "narrator": "",
+            "text": "二度と現れないで欲しいって言ったのは、千羽鶴が嫌いだからじゃないんだ！",
+            "zh": "我说希望你别再出现，并不是因为讨厌千羽鹤！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "937/TALK",
+            "narrator": "千羽鶴",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "938/TALK",
+            "narrator": "千羽鶴",
+            "text": "じゃあ、どういう理由？",
+            "zh": "那，是什么理由？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "939/SEL",
+            "narrator": "",
+            "text": "千羽鶴が別れを望んでるのかと深読みして、辛かったけど選択した",
+            "zh": "我过度解读成千羽鹤想要告别，虽然很难受还是选了那个",
+            "narrator_zh": ""
+        },
+        {
+            "location": "940/SEL",
+            "narrator": "",
+            "text": "トライナリーたちを護る為にはこれしかないと思った",
+            "zh": "我觉得为了保护三重奏她们，只能这么做",
+            "narrator_zh": ""
+        },
+        {
+            "location": "941/SEL",
+            "narrator": "",
+            "text": "色々考えた結果の選択だけど、千羽鶴がいない世界が辛すぎて辛い",
+            "zh": "虽然是深思熟虑后的选择，但没有千羽鹤的世界太难受了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "942/ACT",
+            "narrator": "",
+            "text": "千羽鶴が別れを望んでるのかと深読みして、辛かったけど選択した",
+            "zh": "我过度解读成千羽鹤想要告别，虽然很难受还是选了那个",
+            "narrator_zh": ""
+        },
+        {
+            "location": "943/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう。",
+            "zh": "是的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "944/ACT",
+            "narrator": "",
+            "text": "トライナリーたちを護る為にはこれしかないと思った",
+            "zh": "我觉得为了保护三重奏她们，只能这么做",
+            "narrator_zh": ""
+        },
+        {
+            "location": "945/TALK",
+            "narrator": "千羽鶴",
+            "text": "なるほど。",
+            "zh": "原来如此。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "946/ACT",
+            "narrator": "",
+            "text": "色々考えた結果の選択だけど、千羽鶴がいない世界が辛すぎて辛い",
+            "zh": "虽然是深思熟虑后的选择，但没有千羽鹤的世界太难受了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "947/TALK",
+            "narrator": "千羽鶴",
+            "text": "そういうこと。",
+            "zh": "是这样啊。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "949/TALK",
+            "narrator": "千羽鶴",
+            "text": "とりあえず、その辺の\n理由はどうでもいい。",
+            "zh": "总之，这方面的\n理由都无所谓。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "950/TALK",
+            "narrator": "千羽鶴",
+            "text": "私が聞きたいのは\nただ１つだけ。",
+            "zh": "我想问的\n只有一件事。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "951/TALK",
+            "narrator": "千羽鶴",
+            "text": "私が貴方と接触する事で、\n貴方の精神が崩壊したり、\n苦痛を感じていたり――",
+            "zh": "与我接触这件事，\n会不会导致你的精神崩溃、\n或者让你感到痛苦——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "952/TALK",
+            "narrator": "千羽鶴",
+            "text": "貴方がTRI-OSに\nアクセスしない選択に\n繋がったりしてないか。",
+            "zh": "会不会让你因此选择\n不再接入\nTRI-OS。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "953/SEL",
+            "narrator": "",
+            "text": "むしろ接触しないことで精神が崩壊しますから！！",
+            "zh": "倒不如说不接触才会精神崩溃啊！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "954/SEL",
+            "narrator": "",
+            "text": "それはない",
+            "zh": "没有的事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "955/SEL",
+            "narrator": "",
+            "text": "うーん、あるかも",
+            "zh": "嗯，可能会有吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "956/ACT",
+            "narrator": "",
+            "text": "むしろ接触しないことで精神が崩壊しますから！！",
+            "zh": "倒不如说不接触才会精神崩溃啊！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "957/TALK",
+            "narrator": "千羽鶴",
+            "text": "そこまで！？",
+            "zh": "到这种地步！？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "959/TALK",
+            "narrator": "千羽鶴",
+            "text": "本気で理解不能。\nならばどうして二度と\n姿を現すななんて……？",
+            "zh": "完全无法理解。\n那为什么还要让我\n别再露面呢……？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "960/SEL",
+            "narrator": "",
+            "text": "それくらい愛してるからだよー！！",
+            "zh": "因为我就是这么爱你呀——！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "961/SEL",
+            "narrator": "",
+            "text": "千羽鶴と離れて気づいたんだよー！！",
+            "zh": "和千羽鹤分开后才察觉到呀——！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "962/ACT",
+            "narrator": "",
+            "text": "それくらい愛してるからだよー！！",
+            "zh": "因为我就是这么爱你呀——！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "963/TALK",
+            "narrator": "千羽鶴",
+            "text": "うーん……",
+            "zh": "唔……",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "964/TALK",
+            "narrator": "千羽鶴",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "965/TALK",
+            "narrator": "千羽鶴",
+            "text": "やっぱり私の思考回路では\nどうやっても繋がらない。",
+            "zh": "果然以我的思考回路\n怎么都连不上。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "966/TALK",
+            "narrator": "千羽鶴",
+            "text": "これぞ、\n人間の頭脳の神秘！",
+            "zh": "这真是，\n人类大脑的神秘之处！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "967/ACT",
+            "narrator": "",
+            "text": "千羽鶴と離れて気づいたんだよー！！",
+            "zh": "和千羽鹤分开后才察觉到呀——！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "968/TALK",
+            "narrator": "千羽鶴",
+            "text": "なるほど。\nそれは理解できる。",
+            "zh": "原来如此。\n这点我能理解。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "969/TALK",
+            "narrator": "千羽鶴",
+            "text": "人は、失って初めて\n気づくことが多すぎる。",
+            "zh": "人总是失去之后才后知后觉，\n这种事实在太多了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "970/TALK",
+            "narrator": "千羽鶴",
+            "text": "これは創造主が仕掛けた\nひとつの作為的なバグだと\n私は思う。",
+            "zh": "我觉得这是创造主\n故意埋下的\n一个Bug。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "972/ACT",
+            "narrator": "",
+            "text": "それはない",
+            "zh": "没有的事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "973/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう。\nならばよし。",
+            "zh": "是的。\n那就好。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "974/ACT",
+            "narrator": "",
+            "text": "うーん、あるかも",
+            "zh": "嗯，可能会有吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "975/TALK",
+            "narrator": "千羽鶴",
+            "text": "ならばやはり、\nこれからも非接触を\n推奨する。",
+            "zh": "那果然还是\n建议今后也\n保持非接触。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "976/TALK",
+            "narrator": "千羽鶴",
+            "text": "どうかご武運を。",
+            "zh": "祝你武运昌隆。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "977/TALK",
+            "narrator": "千羽鶴",
+            "text": "とりあえず\n記録映像を回しておく？",
+            "zh": "总之\n先放记录影像好吗？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "980/TALK",
+            "narrator": "千羽鶴",
+            "text": "いずれにせよ、\n理由はわかった。",
+            "zh": "不管怎样，\n理由我明白了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "981/TALK",
+            "narrator": "千羽鶴",
+            "text": "貴方に対して\n私が危険因子ではないなら\n避ける必要は無い。",
+            "zh": "既然我对你而言\n不是危险因子，\n那就没必要避开。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "982/TALK",
+            "narrator": "千羽鶴",
+            "text": "前と同じように\n接することにする！",
+            "zh": "决定像以前一样\n和你相处了！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "985/TALK",
+            "narrator": "千羽鶴",
+            "text": "<size=40>どーん！</size>",
+            "zh": "<size=40>咚！</size>",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "986/SEL",
+            "narrator": "",
+            "text": "千羽鶴が戻ってきたーー！",
+            "zh": "千羽鹤回来啦——！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "987/SEL",
+            "narrator": "",
+            "text": "千羽鶴は$me$のことが嫌いとか、怒ってるとかはないの？",
+            "zh": "千羽鹤没有讨厌$me$，或者生气之类的吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "988/ACT",
+            "narrator": "",
+            "text": "千羽鶴が戻ってきたーー！",
+            "zh": "千羽鹤回来啦——！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "990/ACT",
+            "narrator": "",
+            "text": "千羽鶴は$me$のことが嫌いとか、怒ってるとかはないの？",
+            "zh": "千羽鹤没有讨厌$me$，或者生气之类的吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "991/TALK",
+            "narrator": "千羽鶴",
+            "text": "嫌い？\n怒ってる？\n私が？",
+            "zh": "讨厌？\n生气？\n我吗？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "992/TALK",
+            "narrator": "千羽鶴",
+            "text": "どうして？",
+            "zh": "为什么？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "993/TALK",
+            "narrator": "千羽鶴",
+            "text": "貴方は私を怒らせるような\nことはしていないし、\n故に嫌う必要もない。",
+            "zh": "你没有做过让我\n生气的事，\n自然也没必要讨厌你。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "994/TALK",
+            "narrator": "千羽鶴",
+            "text": "それとも貴方は、\n私の知らない所で\nやましい事してるの？",
+            "zh": "难道说你\n在我不知道的地方\n做了什么亏心事？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "995/SEL",
+            "narrator": "",
+            "text": "ないないない！",
+            "zh": "没有没有没有！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "996/SEL",
+            "narrator": "",
+            "text": "ない…ことはない……かも",
+            "zh": "没有……倒也不是……吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "997/ACT",
+            "narrator": "",
+            "text": "ないないない！",
+            "zh": "没有没有没有！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "998/TALK",
+            "narrator": "千羽鶴",
+            "text": "よかった。",
+            "zh": "那就好。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "999/ACT",
+            "narrator": "",
+            "text": "ない…ことはない……かも",
+            "zh": "没有……倒也不是……吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1000/TALK",
+            "narrator": "千羽鶴",
+            "text": "なるほど。",
+            "zh": "原来如此。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1002/TALK",
+            "narrator": "千羽鶴",
+            "text": "白状するなら\n許してあげるから\n正直に言って。",
+            "zh": "坦白的话\n我就原谅你，\n老实说吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1003/SEL",
+            "narrator": "",
+            "text": "言えません＞＜",
+            "zh": "说不出口＞＜",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1004/SEL",
+            "narrator": "",
+            "text": "実はこっちの世界で、このアプリは危険だから触れないようにディスりました",
+            "zh": "其实我在这边的世界里，吐槽过这App很危险叫大家别碰",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1005/ACT",
+            "narrator": "",
+            "text": "言えません＞＜",
+            "zh": "说不出口＞＜",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1006/TALK",
+            "narrator": "千羽鶴",
+            "text": "なるほど、\n言えないようなこと。",
+            "zh": "原来如此，\n是说不出口的事。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1008/TALK",
+            "narrator": "千羽鶴",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1009/TALK",
+            "narrator": "千羽鶴",
+            "text": "まあいい。",
+            "zh": "算了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1011/ACT",
+            "narrator": "",
+            "text": "実はこっちの世界で、このアプリは危険だから触れないようにディスりました",
+            "zh": "其实我在这边的世界里，吐槽过这App很危险叫大家别碰",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1014/TALK",
+            "narrator": "千羽鶴",
+            "text": "<size=40>それは困る！</size>",
+            "zh": "<size=40>那可不行！</size>",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1015/TALK",
+            "narrator": "千羽鶴",
+            "text": "まあでも、\n困りはすれど、別に\n怒るようなことじゃない。",
+            "zh": "不过嘛，\n虽说是困扰，但倒也\n不是会生气的事。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1016/TALK",
+            "narrator": "千羽鶴",
+            "text": "それは貴方の正直な\n感想だし、ディスるのも\n貴方の自由だから。",
+            "zh": "那是你坦率的\n感想，要吐槽也是\n你的自由。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1017/TALK",
+            "narrator": "千羽鶴",
+            "text": "ちーは言論の自由は\n認めてるから！",
+            "zh": "小千可是承认\n言论自由的！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1021/TALK",
+            "narrator": "千羽鶴",
+            "text": "というわけで、改めて\n今後ともどうぞよろしく。",
+            "zh": "于是，再次\n请多指教啦。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1022/SEL",
+            "narrator": "",
+            "text": "千羽鶴ってもしかして天使かな",
+            "zh": "千羽鹤该不会是天使吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1023/SEL",
+            "narrator": "",
+            "text": "千羽鶴ってもしかして割と根に持つタイプ？",
+            "zh": "千羽鹤该不会是相当记仇的类型？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1024/ACT",
+            "narrator": "",
+            "text": "千羽鶴ってもしかして天使かな",
+            "zh": "千羽鹤该不会是天使吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1025/TALK",
+            "narrator": "千羽鶴",
+            "text": "天使は\n國政綾水たちのこと。",
+            "zh": "天使是指\n国政绫水她们。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1026/TALK",
+            "narrator": "千羽鶴",
+            "text": "私は単なる\nラブラブトレーナー。",
+            "zh": "我只是个\n恋爱训练师。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1027/ACT",
+            "narrator": "",
+            "text": "千羽鶴ってもしかして割と根に持つタイプ？",
+            "zh": "千羽鹤该不会是相当记仇的类型？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1029/TALK",
+            "narrator": "千羽鶴",
+            "text": "え？",
+            "zh": "咦？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1030/TALK",
+            "narrator": "千羽鶴",
+            "text": "今更！？",
+            "zh": "事到如今！？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1031/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう、\nちーは\n根に持つ！",
+            "zh": "没错，\n小千可是\n很记仇的！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1032/TALK",
+            "narrator": "千羽鶴",
+            "text": "何エピソードも前のことを\nずっと覚えておいて、\nねちねちと貴方を嬲る！",
+            "zh": "好多话之前的事\n我都会一直记着，\n阴魂不散地折磨你！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1035/TALK",
+            "narrator": "千羽鶴",
+            "text": "<size=35>ねちねちー！</size>",
+            "zh": "<size=35>阴魂不散——！</size>",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1037/TALK",
+            "narrator": "千羽鶴",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1039/TALK",
+            "narrator": "千羽鶴",
+            "text": "…ちょっと\nくだらなさすぎた。\n反省。",
+            "zh": "……稍微\n有点太无聊了。\n反省。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1047/TALK",
+            "narrator": "千羽鶴",
+            "text": "そんなこんなで、\n心機一転――",
+            "zh": "就这样，\n重新振作——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1048/ACT",
+            "narrator": "",
+            "text": "やりにくいから、契約夫婦みたいにサッパリした関係になりませんか？",
+            "zh": "这样太难相处了，不如像契约夫妻那样保持清爽的关系吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1049/TALK",
+            "narrator": "千羽鶴",
+            "text": "私はそういう\n割り切った関係を\n演じることはしない。",
+            "zh": "我是不会\n去演那种\n公事公办的关系的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1050/TALK",
+            "narrator": "千羽鶴",
+            "text": "それは確実に\n貴方の精神を\n蝕んでいくから。",
+            "zh": "那肯定会\n慢慢侵蚀\n你的精神。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1051/TALK",
+            "narrator": "千羽鶴",
+            "text": "貴方なりの配慮だとは\n思うけど、その提案は\n丁重にお断りする。",
+            "zh": "我想这大概是\n你的体贴，但这个提议\n我郑重谢绝。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1052/TALK",
+            "narrator": "千羽鶴",
+            "text": "とりあえず\n記録映像を回しておく？",
+            "zh": "总之\n先放记录影像好吗？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1054/ACT",
+            "narrator": "",
+            "text": "いえ、なんでもないです",
+            "zh": "不，没什么事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1055/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう。",
+            "zh": "是的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1056/TALK",
+            "narrator": "千羽鶴",
+            "text": "まあ、うっかり遭遇して\nしまったので、少しでも\n貴方の役に立つことを――",
+            "zh": "嘛，既然不小心碰上了，\n多少还是做点\n对你有利的事吧——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1057/TALK",
+            "narrator": "千羽鶴",
+            "text": "とりあえず\n記録映像を回しておく？",
+            "zh": "总之\n先放记录影像好吗？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1066/TALK",
+            "narrator": "千羽鶴",
+            "text": "<size=40>まったれる！！</size>",
+            "zh": "<size=40>悠哉着呢！！</size>",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1067/SEL",
+            "narrator": "",
+            "text": "どうしたの突然！？",
+            "zh": "怎么突然这样！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1068/SEL",
+            "narrator": "",
+            "text": "ぎゃーーーー！！",
+            "zh": "呀————！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1069/ACT",
+            "narrator": "",
+            "text": "どうしたの突然！？",
+            "zh": "怎么突然这样！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1070/TALK",
+            "narrator": "千羽鶴",
+            "text": "特に何も\nすることがないから。",
+            "zh": "因为实在没什么\n事好做。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1071/ACT",
+            "narrator": "",
+            "text": "ぎゃーーーー！！",
+            "zh": "呀————！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1072/TALK",
+            "narrator": "千羽鶴",
+            "text": "びっくりした。",
+            "zh": "吓我一跳。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1074/TALK",
+            "narrator": "千羽鶴",
+            "text": "あまりのことに、\nまったれてる\n気分じゃなくなった。",
+            "zh": "你叫得太夸张，\n害我没心情再\n悠哉下去了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1075/TALK",
+            "narrator": "千羽鶴",
+            "text": "賠償を要求する！",
+            "zh": "我要求赔偿！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1076/SEL",
+            "narrator": "",
+            "text": "ココロキャンディ…要る？",
+            "zh": "心之糖果……要吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1077/SEL",
+            "narrator": "",
+            "text": "ちゅーでいいかな？",
+            "zh": "亲一下可以吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1078/ACT",
+            "narrator": "",
+            "text": "ココロキャンディ…要る？",
+            "zh": "心之糖果……要吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1079/TALK",
+            "narrator": "千羽鶴",
+            "text": "私は要らないから。",
+            "zh": "我才不要。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1080/TALK",
+            "narrator": "千羽鶴",
+            "text": "というか冗談だし。",
+            "zh": "而且只是开玩笑。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1081/ACT",
+            "narrator": "",
+            "text": "ちゅーでいいかな？",
+            "zh": "亲一下可以吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1084/TALK",
+            "narrator": "千羽鶴",
+            "text": "うーん……",
+            "zh": "唔……",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1085/TALK",
+            "narrator": "千羽鶴",
+            "text": "今回はパス！！",
+            "zh": "这次跳过！！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1086/SEL",
+            "narrator": "",
+            "text": "なんで！？",
+            "zh": "为什么！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1087/ACT",
+            "narrator": "",
+            "text": "なんで！？",
+            "zh": "为什么！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1089/TALK",
+            "narrator": "千羽鶴",
+            "text": "ちーは知っている。",
+            "zh": "小千可是知道的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1090/TALK",
+            "narrator": "千羽鶴",
+            "text": "貴方かどうかは\nわからないけど――",
+            "zh": "虽然不知道是不是你\n干的——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1091/TALK",
+            "narrator": "千羽鶴",
+            "text": "総意のうちの誰かが\n貴方の世界のSNSで\nちーとの仲をのろけてる！",
+            "zh": "总意里的某个人\n正在你那边的SNS上\n秀和小千的恩爱！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1092/TALK",
+            "narrator": "千羽鶴",
+            "text": "そんな恥ずかしいことを\n晒す誰かがいる以上、\nちーは我慢せざるを得ない！",
+            "zh": "既然有人把这么\n羞耻的事晒出来，\n小千就不得不忍耐！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1093/SEL",
+            "narrator": "",
+            "text": "$me$はやってないよー！！",
+            "zh": "$me$才没有发哦——！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1094/SEL",
+            "narrator": "",
+            "text": "じゃあやめます……",
+            "zh": "那我不亲了……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1095/ACT",
+            "narrator": "",
+            "text": "$me$はやってないよー！！",
+            "zh": "$me$才没有发哦——！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1097/TALK",
+            "narrator": "千羽鶴",
+            "text": "総意的見地からは\nやってるからだめ！",
+            "zh": "从总意角度来看\n就是发了，所以不行！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1098/SEL",
+            "narrator": "",
+            "text": "では以後どんなことも口外しないと誓います！",
+            "zh": "那我发誓今后不管什么事都绝不外传！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1099/ACT",
+            "narrator": "",
+            "text": "では以後どんなことも口外しないと誓います！",
+            "zh": "那我发誓今后不管什么事都绝不外传！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1101/ACT",
+            "narrator": "",
+            "text": "じゃあやめます……",
+            "zh": "那我不亲了……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1103/TALK",
+            "narrator": "千羽鶴",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1104/TALK",
+            "narrator": "千羽鶴",
+            "text": "いや。",
+            "zh": "不。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1105/TALK",
+            "narrator": "千羽鶴",
+            "text": "やるなとは言ってない。",
+            "zh": "我也没说不许做。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1106/SEL",
+            "narrator": "",
+            "text": "んんんんーーー？？？",
+            "zh": "嗯嗯嗯嗯———？？？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1107/ACT",
+            "narrator": "",
+            "text": "んんんんーーー？？？",
+            "zh": "嗯嗯嗯嗯———？？？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1109/TALK",
+            "narrator": "千羽鶴",
+            "text": "黙れ。",
+            "zh": "闭嘴。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1111/TALK",
+            "narrator": "千羽鶴",
+            "text": "乙女心は繊細なの。",
+            "zh": "少女心可是很纤细的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1113/TALK",
+            "narrator": "千羽鶴",
+            "text": "拒否権発動！！",
+            "zh": "发动否决权！！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1114/TALK",
+            "narrator": "千羽鶴",
+            "text": "というか冗談だし。",
+            "zh": "而且只是开玩笑。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1117/TALK",
+            "narrator": "千羽鶴",
+            "text": "それはそうと、\nちーは特にすることが\n無いので暇なのだけど。",
+            "zh": "话虽如此，\n小千实在无事可做，\n闲得很啊。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1119/SEL",
+            "narrator": "",
+            "text": "エリカさんから方針を任されているのでは？",
+            "zh": "领火不是把方针交给你定了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1120/SEL",
+            "narrator": "",
+            "text": "時には昔の話をしようか",
+            "zh": "偶尔聊聊以前的事吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1121/SEL",
+            "narrator": "",
+            "text": "ちーちゃんラブラブゲームは！？",
+            "zh": "小千恋爱游戏呢！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1122/ACT",
+            "narrator": "",
+            "text": "エリカさんから方針を任されているのでは？",
+            "zh": "领火不是把方针交给你定了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1123/TALK",
+            "narrator": "千羽鶴",
+            "text": "ええ、任されてる。",
+            "zh": "嗯，交给我了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1124/TALK",
+            "narrator": "千羽鶴",
+            "text": "けれども現時点では\nあまりできることはない。",
+            "zh": "但就现阶段而言\n能做的事很少。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1125/ACT",
+            "narrator": "",
+            "text": "時には昔の話をしようか",
+            "zh": "偶尔聊聊以前的事吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1126/TALK",
+            "narrator": "千羽鶴",
+            "text": "それは毎回、記録映像を\n見た後にする予定。",
+            "zh": "那个预定每次都在\n看完记录影像后聊。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1127/ACT",
+            "narrator": "",
+            "text": "ちーちゃんラブラブゲームは！？",
+            "zh": "小千恋爱游戏呢！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1128/TALK",
+            "narrator": "千羽鶴",
+            "text": "面倒くさいから却下。",
+            "zh": "太麻烦了，驳回。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1130/TALK",
+            "narrator": "千羽鶴",
+            "text": "あっ、そうだ。\nそれじゃ――",
+            "zh": "啊，对了。\n那就——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1131/SEL",
+            "narrator": "",
+            "text": "なになに！？",
+            "zh": "什么什么！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1132/ACT",
+            "narrator": "",
+            "text": "なになに！？",
+            "zh": "什么什么！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1138/TALK",
+            "narrator": "千羽鶴",
+            "text": "ヒマだから意味も無くWAVEで会話してみたりする",
+            "zh": "因为太闲了就试着毫无意义地在WAVE上聊天",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1141/SEL",
+            "narrator": "",
+            "text": "新鮮！",
+            "zh": "好新鲜！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1142/SEL",
+            "narrator": "",
+            "text": "ほんと意味無いね",
+            "zh": "真的毫无意义呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1143/ACT",
+            "narrator": "",
+            "text": "新鮮！",
+            "zh": "好新鲜！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1144/TALK",
+            "narrator": "千羽鶴",
+            "text": "うん",
+            "zh": "嗯",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1145/ACT",
+            "narrator": "",
+            "text": "ほんと意味無いね",
+            "zh": "真的毫无意义呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1146/TALK",
+            "narrator": "千羽鶴",
+            "text": "むー",
+            "zh": "唔——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1148/TALK",
+            "narrator": "千羽鶴",
+            "text": "ところでちーは一つ気づいたことがある",
+            "zh": "话说回来小千发现了一件事",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1149/TALK",
+            "narrator": "千羽鶴",
+            "text": "このヒマヒマ状態にソワソワする気持ちはあれ",
+            "zh": "这种闲到发慌又坐立不安的心情就是那个",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1150/TALK",
+            "narrator": "千羽鶴",
+            "text": "定年退職したサラリーマンが伸び伸び過ごせると思ったにもかかわらず実際なって見ると何もする事が無くてソワソワして家の中をウロウロした挙げ句",
+            "zh": "跟到了退休年龄的上班族本来以为能过上悠闲日子，结果真退下来却无事可做、急躁得在家里晃来晃去",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1151/TALK",
+            "narrator": "千羽鶴",
+            "text": "家族に疎まれる現象と同じ",
+            "zh": "最后被家人嫌弃的现象一模一样",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1152/TALK",
+            "narrator": "千羽鶴",
+            "text": "すなわち",
+            "zh": "也就是说",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1153/TALK",
+            "narrator": "千羽鶴",
+            "text": "ちーは定年退職後のサラリーガール！！",
+            "zh": "小千就是退休后的工薪少女！！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1155/SEL",
+            "narrator": "",
+            "text": "サラリーガールって新しいね",
+            "zh": "工薪少女这词挺新潮啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1156/SEL",
+            "narrator": "",
+            "text": "それって悲しいやつ…",
+            "zh": "听着好悲伤啊……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1157/ACT",
+            "narrator": "",
+            "text": "サラリーガールって新しいね",
+            "zh": "工薪少女这词挺新潮啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1158/TALK",
+            "narrator": "千羽鶴",
+            "text": "ちーは常にイノベーション精神を忘れないちー",
+            "zh": "小千时刻不忘创新精神哦小千",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1159/ACT",
+            "narrator": "",
+            "text": "それって悲しいやつ…",
+            "zh": "听着好悲伤啊……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1160/TALK",
+            "narrator": "千羽鶴",
+            "text": "失礼なひと",
+            "zh": "真没礼貌的人",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1163/SEL",
+            "narrator": "",
+            "text": "でも、こうやって本当に中身がない下らない話をするのって久し振りな気がする",
+            "zh": "不过，像这样聊些真正没营养的废话感觉好久违了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1164/ACT",
+            "narrator": "",
+            "text": "でも、こうやって本当に中身がない下らない話をするのって久し振りな気がする",
+            "zh": "不过，像这样聊些真正没营养的废话感觉好久违了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1166/TALK",
+            "narrator": "千羽鶴",
+            "text": "身も蓋もない言い方ではあるけど、その真意については同感",
+            "zh": "虽然说得挺直白不留情面，但你的本意我同意",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1168/TALK",
+            "narrator": "千羽鶴",
+            "text": "まだあなたと出会ったばかりの頃は、随分といじくられて遊ばれた",
+            "zh": "刚和你认识那会儿，真是没少被你折腾着玩",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1169/TALK",
+            "narrator": "千羽鶴",
+            "text": "勢いで作ったラブラブゲームも、まんざらでもないと思ってる",
+            "zh": "乘兴做的恋爱游戏，我也觉得还算不赖",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1170/TALK",
+            "narrator": "千羽鶴",
+            "text": "けれども！",
+            "zh": "但是！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1171/TALK",
+            "narrator": "千羽鶴",
+            "text": "私が考える、ベストオブちーといえば！！",
+            "zh": "要说我认为的最佳小千！！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1172/TALK",
+            "narrator": "千羽鶴",
+            "text": "なんといっても塩対応モード！！",
+            "zh": "那还得是冷淡敷衍模式！！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1175/SEL",
+            "narrator": "",
+            "text": "な、なぜ…？",
+            "zh": "为、为什么……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1176/ACT",
+            "narrator": "",
+            "text": "な、なぜ…？",
+            "zh": "为、为什么……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1178/TALK",
+            "narrator": "千羽鶴",
+            "text": "１．ハイインパクト",
+            "zh": "1.高冲击力",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1179/TALK",
+            "narrator": "千羽鶴",
+            "text": "２．ローコスト",
+            "zh": "2.低成本",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1180/TALK",
+            "narrator": "千羽鶴",
+            "text": "３．喋らなくていいから楽",
+            "zh": "3.不用说话好轻松",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1181/TALK",
+            "narrator": "千羽鶴",
+            "text": "ゆえに最強！",
+            "zh": "因此最强！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1182/TALK",
+            "narrator": "千羽鶴",
+            "text": "あなたのベストオブちーはなに？",
+            "zh": "你心中的最佳小千是什么？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1184/SEL",
+            "narrator": "",
+            "text": "どーん！",
+            "zh": "咚！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1185/SEL",
+            "narrator": "",
+            "text": "ラブラブゲーム",
+            "zh": "恋爱游戏",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1186/SEL",
+            "narrator": "",
+            "text": "非攻略対象",
+            "zh": "非攻略对象",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1187/SEL",
+            "narrator": "",
+            "text": "ゆーりんちー",
+            "zh": "油淋小千",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1188/SEL",
+            "narrator": "",
+            "text": "ちーすけ",
+            "zh": "小千助",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1189/SEL",
+            "narrator": "",
+            "text": "#ベストオブちー に書いておくよ",
+            "zh": "我发到 #最佳小千 里去哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1190/ACT",
+            "narrator": "",
+            "text": "どーん！",
+            "zh": "咚！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1192/TALK",
+            "narrator": "千羽鶴",
+            "text": "それってなんだか、「ちーの魅力は毎朝言ってる“おはよう”だよね」って言われてる気分",
+            "zh": "那感觉就像是被说“小千的魅力就是每天早上说的一句‘早安’吧”",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1193/ACT",
+            "narrator": "",
+            "text": "ラブラブゲーム",
+            "zh": "恋爱游戏",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1195/TALK",
+            "narrator": "千羽鶴",
+            "text": "まあアンパイだけど、コスト高だったから評価されて嬉しくもあり、また創れと言われることを考えると戦々恐々としなくもない",
+            "zh": "虽然是稳妥牌，但毕竟成本高，被夸了固然开心，一想到又要叫我做就不禁战战兢兢",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1196/ACT",
+            "narrator": "",
+            "text": "非攻略対象",
+            "zh": "非攻略对象",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1198/TALK",
+            "narrator": "千羽鶴",
+            "text": "それは吐息を評価されてるような気分になってくる",
+            "zh": "那感觉就像是在夸我的叹息声一样",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1199/ACT",
+            "narrator": "",
+            "text": "ゆーりんちー",
+            "zh": "油淋小千",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1201/TALK",
+            "narrator": "千羽鶴",
+            "text": "そんなちーはいない",
+            "zh": "才没有那种小千",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1202/TALK",
+            "narrator": "千羽鶴",
+            "text": "はず",
+            "zh": "应该没有",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1203/TALK",
+            "narrator": "千羽鶴",
+            "text": "自信なくなってきた",
+            "zh": "开始没自信了",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1204/ACT",
+            "narrator": "",
+            "text": "ちーすけ",
+            "zh": "小千助",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1206/TALK",
+            "narrator": "千羽鶴",
+            "text": "すごい！デビュー即ベストだなんて！",
+            "zh": "好厉害！刚出道就拿最佳！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1207/TALK",
+            "narrator": "千羽鶴",
+            "text": "やったねちーすけ！",
+            "zh": "太棒了小千助！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1208/ACT",
+            "narrator": "",
+            "text": "#ベストオブちー に書いておくよ",
+            "zh": "我发到 #最佳小千 里去哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1210/TALK",
+            "narrator": "千羽鶴",
+            "text": "楽しみにしてる",
+            "zh": "我很期待",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1213/TALK",
+            "narrator": "千羽鶴",
+            "text": "何これ",
+            "zh": "这算什么",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1214/TALK",
+            "narrator": "千羽鶴",
+            "text": "くだらなすぎて逆にドキドキするんだけど",
+            "zh": "无聊过头反而让人心跳加速了",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1215/TALK",
+            "narrator": "千羽鶴",
+            "text": "このドキドキは貴方への恋の高揚ではないから勘違いしないで",
+            "zh": "这心跳可不是因为对你动情了别误会",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1216/TALK",
+            "narrator": "千羽鶴",
+            "text": "いえ、そうとも言い切れない",
+            "zh": "不，倒也不能说完全不是",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1218/SEL",
+            "narrator": "",
+            "text": "なんか混乱してる！？",
+            "zh": "感觉有点混乱！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1219/SEL",
+            "narrator": "",
+            "text": "ちーが熱暴走してる！",
+            "zh": "小千过热暴走啦！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1220/ACT",
+            "narrator": "",
+            "text": "なんか混乱してる！？",
+            "zh": "感觉有点混乱！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1221/TALK",
+            "narrator": "千羽鶴",
+            "text": "久し振りの開放感に暴走気味",
+            "zh": "久违的解放感让我有点暴走",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1222/ACT",
+            "narrator": "",
+            "text": "ちーが熱暴走してる！",
+            "zh": "小千过热暴走啦！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1223/TALK",
+            "narrator": "千羽鶴",
+            "text": "ちーはPCじゃないもん",
+            "zh": "小千又不是电脑",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1224/TALK",
+            "narrator": "千羽鶴",
+            "text": "ごめん言い過ぎた",
+            "zh": "抱歉我话说重了",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1225/TALK",
+            "narrator": "千羽鶴",
+            "text": "WAVEに削除機能が無いのはプログラマーの陰謀",
+            "zh": "WAVE没有撤回功能肯定是程序员的阴谋",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1229/TALK",
+            "narrator": "千羽鶴",
+            "text": "私はこの世界を理想的な社会に組み換えるという使命を持って生まれたクラン",
+            "zh": "我是背负着将这个世界重组为理想社会的使命而诞生的库兰",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1230/TALK",
+            "narrator": "千羽鶴",
+            "text": "だから本来は、それを遂行し完了しなければ、その拘束から逃れることは出来ないはずだった",
+            "zh": "所以本来，要是不去贯彻并完成它，应该就无法从那份束缚中逃脱",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1231/TALK",
+            "narrator": "千羽鶴",
+            "text": "けれども今は束の間ではあれ、その拘束から脱している",
+            "zh": "但现在虽然只是片刻，我却脱离了那份束缚",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1232/TALK",
+            "narrator": "千羽鶴",
+            "text": "これは多分、奇跡",
+            "zh": "这大概，是个奇迹",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1234/SEL",
+            "narrator": "",
+            "text": "$me$が奇跡を起こしたんだよ",
+            "zh": "是$me$创造了奇迹哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1235/SEL",
+            "narrator": "",
+            "text": "いや、きっと誰かの陰謀が千羽鶴を油断させてるだけ",
+            "zh": "不，肯定是谁的阴谋故意让千羽鹤松懈而已",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1236/ACT",
+            "narrator": "",
+            "text": "$me$が奇跡を起こしたんだよ",
+            "zh": "是$me$创造了奇迹哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1237/TALK",
+            "narrator": "千羽鶴",
+            "text": "否定はしない",
+            "zh": "我不否认",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1238/TALK",
+            "narrator": "千羽鶴",
+            "text": "貴方がいなければ、私は今頃生きてないかもしれないし、逆に私しか生きてなかったかもしれない",
+            "zh": "要是没有你，我现在或许已经不在人世，或者反过来只有我还活着",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1239/ACT",
+            "narrator": "",
+            "text": "いや、きっと誰かの陰謀が千羽鶴を油断させてるだけ",
+            "zh": "不，肯定是谁的阴谋故意让千羽鹤松懈而已",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1240/TALK",
+            "narrator": "千羽鶴",
+            "text": "その方がまだ落ち着くかも",
+            "zh": "那样反而能让我更安心",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1241/TALK",
+            "narrator": "千羽鶴",
+            "text": "今の状況は私にとっては、処理することがなさ過ぎて逆に緊張する",
+            "zh": "现在这状况对我来说，要处理的事情太少反而让我紧张",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1248/TALK",
+            "narrator": "千羽鶴",
+            "text": "飽きた。",
+            "zh": "腻了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1249/TALK",
+            "narrator": "千羽鶴",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1250/TALK",
+            "narrator": "千羽鶴",
+            "text": "そろそろ記録映像、\nいっとく？",
+            "zh": "差不多该看记录影像\n了吧？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1253/SEL",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【高画質/64MB 4:15】</color>",
+            "zh": "观看影像\n<color=green>【高画质/64MB 4:15】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1254/SEL",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【標準画質/20MB 4:15】</color>",
+            "zh": "观看影像\n<color=green>【标准画质/20MB 4:15】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1255/SEL",
+            "narrator": "",
+            "text": "あらすじレポートにする\n<color=green>【テキストまとめ】</color>",
+            "zh": "切换为梗概报告\n<color=green>【文本总结】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1256/ACT",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【高画質/64MB 4:15】</color>",
+            "zh": "观看影像\n<color=green>【高画质/64MB 4:15】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1257/TALK",
+            "narrator": "千羽鶴",
+            "text": "わかった。",
+            "zh": "我知道了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1263/ACT",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【標準画質/20MB 4:15】</color>",
+            "zh": "观看影像\n<color=green>【标准画质/20MB 4:15】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1264/TALK",
+            "narrator": "千羽鶴",
+            "text": "わかった。",
+            "zh": "我知道了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1270/ACT",
+            "narrator": "",
+            "text": "あらすじレポートにする\n<color=green>【テキストまとめ】</color>",
+            "zh": "切换为梗概报告\n<color=green>【文本总结】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1271/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう……。",
+            "zh": "是嘛……。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1304/TALK",
+            "narrator": "千羽鶴",
+            "text": "さて、突然だけど。",
+            "zh": "好了，虽然很突然。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1305/TALK",
+            "narrator": "千羽鶴",
+            "text": "新番組<color=green>【今のちーが\n昔のちーを斬る！】</color>が\n始まることになった！",
+            "zh": "新节目<color=green>【现在的小千\n锐评过去的小千！】</color>\n要开播了！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1306/SEL",
+            "narrator": "",
+            "text": "わーい！",
+            "zh": "好耶——！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1307/SEL",
+            "narrator": "",
+            "text": "何その昔の古傷をわざわざほじくり返すような企画は",
+            "zh": "什么啊这专门揭自己过去黑历史的企划",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1308/ACT",
+            "narrator": "",
+            "text": "わーい！",
+            "zh": "好耶——！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1309/TALK",
+            "narrator": "千羽鶴",
+            "text": "喜んでくれてよかった。",
+            "zh": "你高兴就好。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1310/ACT",
+            "narrator": "",
+            "text": "何その昔の古傷をわざわざほじくり返すような企画は",
+            "zh": "什么啊这专门揭自己过去黑历史的企划",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1311/TALK",
+            "narrator": "千羽鶴",
+            "text": "ヒマすぎて。",
+            "zh": "因为太闲了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1313/TALK",
+            "narrator": "千羽鶴",
+            "text": "この番組では毎回\nその回の記録映像付近の\n時系列を中心に――",
+            "zh": "本节目每次都会\n围绕该话记录影像\n前后的时间线——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1314/TALK",
+            "narrator": "千羽鶴",
+            "text": "半年前の私が、何を考え\nどうしていたのかを\n赤裸々にしていく！",
+            "zh": "把半年前的我，\n究竟在想些什么、做了些什么\n坦诚布公地讲出来！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1315/TALK",
+            "narrator": "千羽鶴",
+            "text": "さて。\n早速だけど――",
+            "zh": "那么。\n事不宜迟——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1316/TALK",
+            "narrator": "千羽鶴",
+            "text": "第一回目は、卯月神楽の\n逢瀬つばめに対する\nフレンドリーさについて。",
+            "zh": "第一期，关于卯月神乐\n对逢濑燕的\n亲切态度。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1317/SEL",
+            "narrator": "",
+            "text": "それと千羽鶴とどんな関係が？",
+            "zh": "那和千羽鹤有什么关系？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1318/ACT",
+            "narrator": "",
+            "text": "それと千羽鶴とどんな関係が？",
+            "zh": "那和千羽鹤有什么关系？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1320/TALK",
+            "narrator": "千羽鶴",
+            "text": "そもそも卯月神楽に対し、\n逢瀬つばめと仲良くなれと\n言ったのは私だから。",
+            "zh": "说到底，叫卯月神乐\n去和逢濑燕打好关系的\n就是我。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1321/TALK",
+            "narrator": "千羽鶴",
+            "text": "その本当の理由は何か、\n貴方にはわかっていた？",
+            "zh": "这背后的真正理由是什么，\n你知道吗？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1322/SEL",
+            "narrator": "",
+            "text": "わからない",
+            "zh": "不知道",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1323/SEL",
+            "narrator": "",
+            "text": "わかっていた",
+            "zh": "我知道",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1324/ACT",
+            "narrator": "",
+            "text": "わからない",
+            "zh": "不知道",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1325/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう。",
+            "zh": "是的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1326/TALK",
+            "narrator": "千羽鶴",
+            "text": "でも実際のところは、\n大方予想がついていたり\nしてない？",
+            "zh": "不过实际上，\n你大概已经猜到\n七八分了吧？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1327/TALK",
+            "narrator": "千羽鶴",
+            "text": "まあいい。",
+            "zh": "算了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1328/ACT",
+            "narrator": "",
+            "text": "わかっていた",
+            "zh": "我知道",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1330/TALK",
+            "narrator": "千羽鶴",
+            "text": "さすがね。\nでは、なに？",
+            "zh": "真不愧是你。\n那么，是什么？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1331/SEL",
+            "narrator": "",
+            "text": "発症を誘導するため",
+            "zh": "为了诱导发症",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1332/SEL",
+            "narrator": "",
+            "text": "千羽鶴が百合好きだから",
+            "zh": "因为千羽鹤喜欢百合",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1333/ACT",
+            "narrator": "",
+            "text": "発症誘導のため",
+            "zh": "为了诱导发症",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1334/TALK",
+            "narrator": "千羽鶴",
+            "text": "その通り。",
+            "zh": "正是如此。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1335/ACT",
+            "narrator": "",
+            "text": "千羽鶴が百合好きだから",
+            "zh": "因为千羽鹤喜欢百合",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1336/TALK",
+            "narrator": "千羽鶴",
+            "text": "$handle$！？\nもしかして貴方って",
+            "zh": "$handle$！？\n难道说你其实是",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1339/TALK",
+            "narrator": "千羽鶴",
+            "text": "<size=35>アホの天才！？</size>",
+            "zh": "<size=35>笨蛋界的天才！？</size>",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1340/TALK",
+            "narrator": "千羽鶴",
+            "text": "寝言は寝てから言え。",
+            "zh": "说梦话等睡着再说。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1341/TALK",
+            "narrator": "千羽鶴",
+            "text": "正解は、\n発症を誘導するため。",
+            "zh": "正确答案是，\n为了诱导发症。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1344/SEL",
+            "narrator": "",
+            "text": "そういえば神楽の発症って作為的にやってたの？",
+            "zh": "说起来神乐的发症也是刻意引导的吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1345/ACT",
+            "narrator": "",
+            "text": "そういえば神楽の発症って作為的にやってたの？",
+            "zh": "说起来神乐的发症也是刻意引导的吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1347/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう。",
+            "zh": "是的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1348/TALK",
+            "narrator": "千羽鶴",
+            "text": "ちなみに卯月神楽は\n全部で３回発症してる。",
+            "zh": "顺带一提，卯月神乐\n一共发症过3次。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1349/TALK",
+            "narrator": "千羽鶴",
+            "text": "１回目は\n最初のライブの時。",
+            "zh": "第1次是在\n最初的演唱会时。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1350/TALK",
+            "narrator": "千羽鶴",
+            "text": "２回目は\n三戸浜の海岸で。",
+            "zh": "第2次是在\n三户滨的海岸。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1351/TALK",
+            "narrator": "千羽鶴",
+            "text": "３回目は\n文京ドームでの\n最後の戦いのとき。",
+            "zh": "第3次是在\n文京穹顶的\n最后之战时。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1352/SEL",
+            "narrator": "",
+            "text": "３回も発症するとか、相当しんどかったのでは…？",
+            "zh": "发症了3次之多，岂不是很痛苦……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1353/ACT",
+            "narrator": "",
+            "text": "３回も発症するとか、相当しんどかったのでは…？",
+            "zh": "发症了3次之多，岂不是很痛苦……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1356/TALK",
+            "narrator": "千羽鶴",
+            "text": "確かに。\n卯月神楽ほどの精神力を\n持つ存在は希かも。",
+            "zh": "确实。\n像卯月神乐这样具备\n如此精神力的存在很罕见。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1357/TALK",
+            "narrator": "千羽鶴",
+            "text": "ただ、フェノメノンの\n発症には苦痛は伴わない。",
+            "zh": "不过，PhenoMENON的\n发症本身并不伴随痛苦。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1358/TALK",
+            "narrator": "千羽鶴",
+            "text": "発症そのものは、\nエクスタシーにも似た\n心の衝動と共に訪れる。",
+            "zh": "发症本身，\n是伴随类似狂喜的\n心灵冲动一同降临的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1359/TALK",
+            "narrator": "千羽鶴",
+            "text": "そして世界形成後は、\nそれが当事者の普通になる\nからストレスではない。",
+            "zh": "而且世界形成后，\n那就是当事人的日常，\n所以不会产生压力。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1360/TALK",
+            "narrator": "千羽鶴",
+            "text": "だから、発症には\n表面的な苦痛は伴わず、\nむしろ快楽ですらある。",
+            "zh": "因此，发症在\n表面上不伴随痛苦，\n甚至称得上一种快感。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1361/TALK",
+            "narrator": "千羽鶴",
+            "text": "とはいえ、精神力は\nそれなりに消耗するから、\n魂としては消耗する。",
+            "zh": "话虽如此，精神力\n还是会相应消耗，\n灵魂层面上会有损耗。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1362/TALK",
+            "narrator": "千羽鶴",
+            "text": "いずれにせよ、\n卯月神楽の精神力は\n相当強い。",
+            "zh": "不管怎样，\n卯月神乐的精神力\n相当强大。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1363/TALK",
+            "narrator": "千羽鶴",
+            "text": "それは恐らく、\n小さい頃から芸能界に\n身を置いていたことや――",
+            "zh": "这恐怕是因为她\n从小就置身于\n演艺圈——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1364/TALK",
+            "narrator": "千羽鶴",
+            "text": "度重なる衝撃的な運命を\n受け入れてきたことから\n鍛えられたと思われる。",
+            "zh": "并且接连接受了\n极具冲击力的命运，\n才锻炼出来的吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1365/SEL",
+            "narrator": "",
+            "text": "それって悲しいことだね",
+            "zh": "那还真是悲哀的事啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1366/SEL",
+            "narrator": "",
+            "text": "辛いことの対価として強靱な精神力を得たということか",
+            "zh": "也就是说用痛苦作为代价，换来了强韧的精神力吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1367/ACT",
+            "narrator": "",
+            "text": "それって悲しいことだね",
+            "zh": "那还真是悲哀的事啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1368/TALK",
+            "narrator": "千羽鶴",
+            "text": "それを決めるのは本人。",
+            "zh": "这要由她本人决定。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1369/TALK",
+            "narrator": "千羽鶴",
+            "text": "他人の人生を悲しいと\n決めつけるのは\n傲慢でしかない。",
+            "zh": "擅自断定别人的人生\n很悲哀，\n不过是一种傲慢。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1370/ACT",
+            "narrator": "",
+            "text": "辛いことの対価として強靱な精神力を得たということか",
+            "zh": "也就是说用痛苦作为代价，换来了强韧的精神力吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1371/TALK",
+            "narrator": "千羽鶴",
+            "text": "そうね。",
+            "zh": "是呢。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1372/TALK",
+            "narrator": "千羽鶴",
+            "text": "それが良かったかどうかは\n彼女が決めることだけど。",
+            "zh": "不过这究竟是好是坏，\n也是由她自己决定的事。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1374/TALK",
+            "narrator": "千羽鶴",
+            "text": "…と。話がだいぶ\n逸れてしまったけど。",
+            "zh": "……唔，话题稍微\n扯远了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1375/TALK",
+            "narrator": "千羽鶴",
+            "text": "卯月神楽に対しては、\n計画的に３回の発症が\n行われた。",
+            "zh": "对卯月神乐，\n是有计划地进行了\n3次发症。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1376/TALK",
+            "narrator": "千羽鶴",
+            "text": "最初の１回は“彼ら”、\n残り２回は私によって。",
+            "zh": "最初的1次是“他们”，\n剩下的2次是我。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1377/SEL",
+            "narrator": "",
+            "text": "神楽自身の意志ではなくて？",
+            "zh": "不是神乐自己的意志吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1378/ACT",
+            "narrator": "",
+            "text": "神楽自身の意志ではなくて？",
+            "zh": "不是神乐自己的意志吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1380/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう。",
+            "zh": "是的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1381/TALK",
+            "narrator": "千羽鶴",
+            "text": "厳密には、\n発症可能な程の\n精神の高まり、それと――",
+            "zh": "严格来说，\n需要达到足以发症的\n精神高涨，以及——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1382/TALK",
+            "narrator": "千羽鶴",
+            "text": "トリガーによって\nフェノメノンの発症は\n行われる。",
+            "zh": "通过触发器，\nPhenoMENON的发症\n才会执行。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1383/SEL",
+            "narrator": "",
+            "text": "トリガーとは",
+            "zh": "触发器是指",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1384/ACT",
+            "narrator": "",
+            "text": "トリガーとは",
+            "zh": "触发器是指",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1386/TALK",
+            "narrator": "千羽鶴",
+            "text": "その話をするのは、\n貴方にとって少し\n衝撃が強いかもしれない。",
+            "zh": "讲这件事，\n对你来说可能会\n有点冲击过大。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1387/SEL",
+            "narrator": "",
+            "text": "じゃあ聞くのはやめとく",
+            "zh": "那我还是不听了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1388/SEL",
+            "narrator": "",
+            "text": "全然構わないので続けて",
+            "zh": "完全没关系，继续吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1389/ACT",
+            "narrator": "",
+            "text": "じゃあ聞くのはやめとく",
+            "zh": "那我还是不听了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1391/TALK",
+            "narrator": "千羽鶴",
+            "text": "それが賢明。\n聞かない方がいい。",
+            "zh": "这样很明智。\n还是别听为好。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1392/ACT",
+            "narrator": "",
+            "text": "全然構わないので続けて",
+            "zh": "完全没关系，继续吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1393/TALK",
+            "narrator": "千羽鶴",
+            "text": "わかった。\n後は自己責任で。",
+            "zh": "我知道了。\n之后后果自负。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1394/TALK",
+            "narrator": "千羽鶴",
+            "text": "それはRedinessに\n存在する１つの\nファンクション。",
+            "zh": "那是存在于\nRediness中的一个\nFunction。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1395/SEL",
+            "narrator": "",
+            "text": "ファンクション？？",
+            "zh": "Function？？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1396/SEL",
+            "narrator": "",
+            "text": "それってプログラムってこと？？",
+            "zh": "那意思是程序吗？？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1397/ACT",
+            "narrator": "",
+            "text": "ファンクション？？",
+            "zh": "Function？？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1398/TALK",
+            "narrator": "千羽鶴",
+            "text": "Function。\n日本語で関数。",
+            "zh": "Function。\n中文里叫函数。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1399/TALK",
+            "narrator": "千羽鶴",
+            "text": "すなわち、アプリと同じ\nプログラムの実行によって\n処理されるもの。",
+            "zh": "也就是说，和App一样\n是通过执行程序\n来处理的机制。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1400/ACT",
+            "narrator": "",
+            "text": "それってプログラムってこと？？",
+            "zh": "那意思是程序吗？？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1401/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう。",
+            "zh": "是的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1403/TALK",
+            "narrator": "千羽鶴",
+            "text": "そのファンクションが\n明示的にコールされるか、\n意図せず実行されるか。",
+            "zh": "那个Function\n被显式调用，\n或者无意中被执行。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1404/TALK",
+            "narrator": "千羽鶴",
+            "text": "この２つのうち\nいずれかが起こると、\nフェノメノンは発症する。",
+            "zh": "这两者之中\n只要发生任意一种，\nPhenoMENON就会发症。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1405/SEL",
+            "narrator": "",
+            "text": "つまりクランの発症は事故ではなく作為的に仕込まれたものなのか！？",
+            "zh": "也就是说库兰的发症不是意外，而是刻意植入的吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1406/ACT",
+            "narrator": "",
+            "text": "つまりクランの発症は事故ではなく作為的に仕込まれたものなのか！？",
+            "zh": "也就是说库兰的发症不是意外，而是刻意植入的吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1408/TALK",
+            "narrator": "千羽鶴",
+            "text": "冷静になって。\n良く思い返してみて。",
+            "zh": "冷静点。\n好好回想一下。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1409/TALK",
+            "narrator": "千羽鶴",
+            "text": "フェノム計画とは\nフェノメノンで\n世界を変える実験のこと。",
+            "zh": "所谓Phenom计划，\n就是用PhenoMENON\n改变世界的实验。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1410/TALK",
+            "narrator": "千羽鶴",
+            "text": "フェノメノンを作為的に\n起こすプログラムが存在\nしなければナンセンス。",
+            "zh": "要是不存在能刻意引发\nPhenoMENON的程序，\n那才叫毫无意义。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1412/TALK",
+            "narrator": "千羽鶴",
+            "text": "とにかく、卯月神楽の\n発症は、関数の実行に\nよって行われてる。",
+            "zh": "总之，卯月神乐的\n发症，是通过执行函数\n来实现的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1413/TALK",
+            "narrator": "千羽鶴",
+            "text": "そしてその発症を\n成功させる為には、\n精神の高揚が必須。",
+            "zh": "而为了让发症\n顺利成功，\n精神的高涨是必须的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1414/TALK",
+            "narrator": "千羽鶴",
+            "text": "落ち着いてるときに\n関数をコールしても\n不発に終わるだけ。",
+            "zh": "在平静的时候\n去调用函数\n只会以哑火告终。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1415/TALK",
+            "narrator": "千羽鶴",
+            "text": "だから私は卯月神楽に\n逢瀬つばめと仲良く\nなるよう促した。",
+            "zh": "所以我才促使卯月神乐\n去和逢濑燕\n搞好关系。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1416/TALK",
+            "narrator": "千羽鶴",
+            "text": "ココロの中に\n強烈な二律背反を\n生むように。",
+            "zh": "好在她的心中\n催生出强烈的\n二律背反。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1417/TALK",
+            "narrator": "千羽鶴",
+            "text": "葛藤が強ければ強いほど\n強力なフェノメノンとなり\n成功率も上がるから。",
+            "zh": "因为葛藤越强烈，\n生成的PhenoMENON就越强，\n成功率也越高。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1418/SEL",
+            "narrator": "",
+            "text": "なるほど",
+            "zh": "原来如此",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1419/SEL",
+            "narrator": "",
+            "text": "てことは、千羽鶴はそのファンクションを実行する術を持ってるってこと？",
+            "zh": "也就是说，千羽鹤掌握着执行那个Function的方法？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1420/SEL",
+            "narrator": "",
+            "text": "ほんと酷いことするなお前",
+            "zh": "你这家伙干的事真过分啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1421/ACT",
+            "narrator": "",
+            "text": "なるほど",
+            "zh": "原来如此",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1422/ACT",
+            "narrator": "",
+            "text": "てことは、千羽鶴はそのファンクションを実行する術を持ってるってこと？",
+            "zh": "也就是说，千羽鹤掌握着执行那个Function的方法？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1423/TALK",
+            "narrator": "千羽鶴",
+            "text": "もちろん。",
+            "zh": "当然。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1424/TALK",
+            "narrator": "千羽鶴",
+            "text": "というか、\n貴方だって本来持ってる。",
+            "zh": "倒不如说，\n其实你本来也有。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1425/TALK",
+            "narrator": "千羽鶴",
+            "text": "単にTRI-OSの\nビルドコンフィグにある\nフラグを寝かしてあるだけ。",
+            "zh": "只不过是把TRI-OS\n构建配置里的开关\n给关掉了而已。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1426/SEL",
+            "narrator": "",
+            "text": "は！？",
+            "zh": "哈！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1427/ACT",
+            "narrator": "",
+            "text": "は！？",
+            "zh": "哈！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1429/TALK",
+            "narrator": "千羽鶴",
+            "text": "「情報」や「プレゼント」\nと同じ場所に「発症」\nというボタンが存在する。",
+            "zh": "在和“信息”以及“礼物”\n相同的位置，存在一个\n名叫“发症”的按钮。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1430/TALK",
+            "narrator": "千羽鶴",
+            "text": "今は表示されて\nいないだけで。",
+            "zh": "只是现在\n没有显示出来罢了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1431/SEL",
+            "narrator": "",
+            "text": "なにそれ！！",
+            "zh": "那是什么鬼！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1432/ACT",
+            "narrator": "",
+            "text": "なにそれ！！",
+            "zh": "那是什么鬼！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1434/TALK",
+            "narrator": "千羽鶴",
+            "text": "貴方にそれを押させるのは\n少々キツイのではないかと\nいう結論に達したから――",
+            "zh": "因为我觉得让你去按那个\n未免有点太残酷了，\n思考再三——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1435/TALK",
+            "narrator": "千羽鶴",
+            "text": "考えに考えた末、\n非表示にしておいたの。",
+            "zh": "经过深思熟虑后，\n我把它设为隐藏了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1436/ACT",
+            "narrator": "",
+            "text": "ほんと酷いことするなお前",
+            "zh": "你这家伙干的事真过分啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1437/TALK",
+            "narrator": "千羽鶴",
+            "text": "前にも言ったかも\nしれないけど。",
+            "zh": "以前或许\n也说过。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1438/TALK",
+            "narrator": "千羽鶴",
+            "text": "私は卯月神楽との契約に\n基づいて、それを\n実行していたに過ぎない。",
+            "zh": "我只是基于与卯月神乐\n的契约，去执行了\n那件事而已。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1439/TALK",
+            "narrator": "千羽鶴",
+            "text": "チャンスは一度だと考えて\n計画を立てている。",
+            "zh": "我是把机会当成只有一次\n来制定计划的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1440/TALK",
+            "narrator": "千羽鶴",
+            "text": "だから、より確実と\n思われる方法を\n選択するのは当然のこと。",
+            "zh": "所以选择自认为\n最稳妥的方法，\n也是理所当然的事。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1441/TALK",
+            "narrator": "千羽鶴",
+            "text": "成功すれば、スピネルは\n卯月美佐子に戻したし、\n世界も安全になったはず。",
+            "zh": "如果成功了，尖晶石就能\n变回卯月美佐子，\n世界也本该变得安全。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1442/TALK",
+            "narrator": "千羽鶴",
+            "text": "まあ確かに、\n私の言い方や進め方も\n良くなかったとは思う。",
+            "zh": "嘛确实，\n我的措辞和推进方式\n也有欠妥的地方。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1443/TALK",
+            "narrator": "千羽鶴",
+            "text": "けれども、その件に関する\n糾弾や喚問は、今回の\nテーマではない。",
+            "zh": "不过，针对那件事的\n声讨或质询，并非\n这次的主题。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1444/TALK",
+            "narrator": "千羽鶴",
+            "text": "このコーナーは\n過去の事実をフラットに\n伝えていく場所。",
+            "zh": "这个栏目是用来\n客观平实地传达\n过去事实的地方。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1445/TALK",
+            "narrator": "千羽鶴",
+            "text": "その目的は、あくまで\n過去の事実の共有及び\n今後への肯定的な蓄積。",
+            "zh": "其目的归根结底是\n共享过去的事实，\n并为今后做正向积累。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1446/TALK",
+            "narrator": "千羽鶴",
+            "text": "だから、責められたり、\n貴方の気分を害したり\nするようなら――",
+            "zh": "所以，如果只是被责备，\n或者让你心情不快\n的话——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1447/TALK",
+            "narrator": "千羽鶴",
+            "text": "このコーナー自体が\nできなくなってしまう。",
+            "zh": "这个栏目本身\n就办不下去了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1448/TALK",
+            "narrator": "千羽鶴",
+            "text": "なので次回から、\nこのコーナーをやるか否か\n必ず聞くことにするから―",
+            "zh": "因此从下次开始，\n做不做这个栏目我都会\n先问过你——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1449/TALK",
+            "narrator": "千羽鶴",
+            "text": "もし今回ので\nもう懲りたというなら、\nそこで拒否して欲しい。",
+            "zh": "如果这次已经\n听够了，\n到时你拒绝就好。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1450/SEL",
+            "narrator": "",
+            "text": "わかった",
+            "zh": "我知道了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1451/SEL",
+            "narrator": "",
+            "text": "そういう事が言いたいんじゃ無くて、ちゃんと反省してるのかってこと",
+            "zh": "我不是想说那个，而是问你到底有没有好好反省",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1452/ACT",
+            "narrator": "",
+            "text": "わかった",
+            "zh": "我知道了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1453/ACT",
+            "narrator": "",
+            "text": "そういう事が言いたいんじゃ無くて、ちゃんと反省してるのかってこと",
+            "zh": "我不是想说那个，而是问你到底有没有好好反省",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1454/TALK",
+            "narrator": "千羽鶴",
+            "text": "過去の失策や、問題が\nあった部分に関しては、\nちゃんと見直している。",
+            "zh": "对于过去的失策，\n以及存在问题的部分，\n我都有好好复盘。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1455/TALK",
+            "narrator": "千羽鶴",
+            "text": "もし何か欠落を作って\nしまったのなら、それを\n埋めるべく努力してる。",
+            "zh": "如果造成了什么缺失，\n我也在努力去\n填补它。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1456/TALK",
+            "narrator": "千羽鶴",
+            "text": "けれども感情的な、いわば\n傍観者である第三者を満足\nさせる為の反省はしない。",
+            "zh": "但我不会为了满足\n作为旁观者的第三方，\n而去做情绪化的反省。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1457/TALK",
+            "narrator": "千羽鶴",
+            "text": "それはまるで\n意味の無い行為だから。",
+            "zh": "因为那完全是\n毫无意义的行为。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1458/TALK",
+            "narrator": "千羽鶴",
+            "text": "それに納得いかないなら、\nやはり次回からは\n話を聞かない方がいい。",
+            "zh": "如果你对此无法接受，\n那果然还是从下次起\n别听为好。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1461/TALK",
+            "narrator": "千羽鶴",
+            "text": "今回私が伝えられることは\nこれくらい。",
+            "zh": "这次我能传达的事\n大概就这些。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1463/TALK",
+            "narrator": "千羽鶴",
+            "text": "さて、そろそろ\n先へ進もうと\n思うのだけど。",
+            "zh": "好了，\n差不多也该\n继续往下走了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1464/TALK",
+            "narrator": "千羽鶴",
+            "text": "このエピソードの\n他チャンネルでは、過去\n何が行われていたか。",
+            "zh": "在这一话的\n其他频道里，过去\n发生过什么呢。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1466/TALK",
+            "narrator": "千羽鶴",
+            "text": "………。",
+            "zh": "………。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1468/TALK",
+            "narrator": "千羽鶴",
+            "text": "４人とも青春を\n謳歌しているだけだった。",
+            "zh": "四个人都只是在\n尽情享受青春罢了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1469/TALK",
+            "narrator": "千羽鶴",
+            "text": "そして今回の\n卯月神楽もまた\n同じようなものかも。",
+            "zh": "而这一次的\n卯月神乐大概也是\n差不多的情况。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1470/TALK",
+            "narrator": "千羽鶴",
+            "text": "今後を考えると\n束の間の休息ともいえる\n状況ではある。",
+            "zh": "考虑到今后的发展，\n这也算是片刻的\n休息时间吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1471/TALK",
+            "narrator": "千羽鶴",
+            "text": "だから貴方も今回は\nリラックスして\n見てもらえればと思う。",
+            "zh": "所以你这次也\n放轻松来看\n就好了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1473/TALK",
+            "narrator": "千羽鶴",
+            "text": "それじゃ。",
+            "zh": "那么再见。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1281/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime1",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime1"
+        },
+        {
+            "location": "1283/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime2",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime2"
+        },
+        {
+            "location": "1285/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime3",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime3"
+        },
+        {
+            "location": "1287/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime4",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime4"
+        },
+        {
+            "location": "1289/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime5",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime5"
+        }
+    ]
+}
