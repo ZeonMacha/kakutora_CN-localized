@@ -10,12 +10,13 @@
 
 ## 标准作业流程
 1. **读上下文**：通读 `【翻译】/文风.md` 与目标线路的 `【翻译】/随读笔记/chXX_<角色>.md`。
-2. **预扫描**：用 `python -m pipeline.prescan <源文件>` 生成 `pipeline/work/*.context.md`。
-3. **翻译与回填**：严禁手动改写原文 JSON；只产出轻量翻译包并用 `python -m pipeline.apply_pack <pack.json>` 回填，确保 `python -m pipeline.lint` 输出 `ERROR=0`。
-4. **更新记忆**：按 `pipeline/README.md` 规范滚动更新对应随读笔记（控制在 ~2000 tokens 内）。
+2. **预扫描**：用 `python -m pipeline.prescan <源文件>` 生成 `pipeline/work/*.context.md`（注意核对其中触发的叙述诡计与匿名/阶段性头衔预警）。
+3. **翻译与回填**：严禁手动改写原文 JSON；只产出轻量翻译包（存放于 `pipeline/work/pack_*.json`）并用 `python -m pipeline.apply_pack <pack.json>` 回填，确保 `python -m pipeline.lint` 输出 `ERROR=0`（若出现 `POLITE_NIN` 等 `WARN`，须人工复核确认是否为对尊长敬语而非对玩家使用）。
+4. **更新记忆**：更新前如需为无 Git 协作者留存上一轮快照，先将修改前的随读笔记复制归档至 `pipeline/work/notes/`；再按 `pipeline/README.md` 规范滚动更新对应随读笔记（控制在 ~2000 tokens 内，保留第 1 栏长期锚点、按四要素写明第 4 栏未决 `[?]` 项、严禁写入四线共用章节标题或曲名译名）。
 5. **更新进度**：每次翻译作业收尾、**推上 GitHub 之前，必须重算并更新 `【翻译】/全体进度表.md`**（统计口径以表头说明为准，当前为"源 entry 含假名记 1 行"），与译文同一批提交推送；只译了一部分的文件按"部分"如实计入，不得凭记忆手改数字。
 
 ## 协作与 Git 约定
 - 严禁修改原文源文件及未负责线路的已译文件。
-- 随读笔记的删减与更新建议在根目录单独提交一条 `notes:` commit，便于追溯。
+- 章节编号说明：第 `20`、`26`、`30`、`38` 话为四线共用章节，单线 `dd_chXX_*` 目录下无对应编号属正常现象；`last_event_0X0.json` 为对应角色线的 Last Story（最终剧情）。
+- 随读笔记的删减与更新建议在根目录单独提交一条 `notes:` commit，便于追溯；无 Git 环境下以 `pipeline/work/notes/` 内的上一轮拷贝作为直查归档。
 - 推送前检查清单：lint `ERROR=0` → 随读笔记已滚动更新 → **全体进度表.md 已重算更新** → 再 `git push`。
