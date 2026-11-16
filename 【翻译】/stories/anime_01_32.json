@@ -1,0 +1,1855 @@
+{
+    "dir": "chap32/daydra/anime_01_32.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "32101",
+        "cid": "tsubame",
+        "title": "001 アニメーション",
+        "sub_title": "ワールド・スピード",
+        "title_zh": "001 动画",
+        "sub_title_zh": "世界速度"
+    },
+    "entry": [
+        {
+            "location": "7/SCENARIO",
+            "narrator": "",
+            "text": "アニメ第32話",
+            "zh": "动画第32话",
+            "narrator_zh": ""
+        },
+        {
+            "location": "48/TALK",
+            "narrator": "エリカ",
+            "text": "こんにちは、\n$handle$さん。",
+            "zh": "你好，\n$handle$。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "50/TALK",
+            "narrator": "エリカ",
+            "text": "前に色々話したから、\n今回はつばめちゃんの\nお話をするだけでもいい？",
+            "zh": "之前聊了很多，\n这次就只讲\n燕的事情可以吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "52/TALK",
+            "narrator": "エリカ",
+            "text": "前に色々話したから、\n今回は綾ちゃんの\nお話をするだけでもいい？",
+            "zh": "之前聊了很多，\n这次就只讲\n绫水的事情可以吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "54/TALK",
+            "narrator": "エリカ",
+            "text": "前に色々話したから、\n今回はガブリエラちゃんの\nお話をするだけでもいい？",
+            "zh": "之前聊了很多，\n这次就只讲\n加布里埃拉的事情可以吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "エリカ",
+            "text": "前に色々話したから、\n今回はみやびちゃんの\nお話をするだけでもいい？",
+            "zh": "之前聊了很多，\n这次就只讲\n雅的事情可以吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "58/SEL",
+            "narrator": "",
+            "text": "はい",
+            "zh": "好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "59/SEL",
+            "narrator": "",
+            "text": "いいえ",
+            "zh": "不要",
+            "narrator_zh": ""
+        },
+        {
+            "location": "60/ACT",
+            "narrator": "",
+            "text": "はい",
+            "zh": "好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "62/TALK",
+            "narrator": "エリカ",
+            "text": "うん、わかった。",
+            "zh": "嗯，我知道了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "64/ACT",
+            "narrator": "",
+            "text": "いいえ",
+            "zh": "不要",
+            "narrator_zh": ""
+        },
+        {
+            "location": "66/TALK",
+            "narrator": "エリカ",
+            "text": "はーい。\nそれじゃ、少しだけ\n巻き戻しするね？",
+            "zh": "好——。\n那就稍微\n倒回一点点哦？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "71/TALK",
+            "narrator": "エリカ",
+            "text": "こんにちは！",
+            "zh": "你好！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "72/TALK",
+            "narrator": "エリカ",
+            "text": "前回も色々と\nお世話になりました。",
+            "zh": "上一回也多亏了你\n帮了大忙呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "74/SEL",
+            "narrator": "",
+            "text": "どういたしまして",
+            "zh": "不客气",
+            "narrator_zh": ""
+        },
+        {
+            "location": "75/SEL",
+            "narrator": "",
+            "text": "千羽鶴がつばめのココロに入り込んで何かしてるよ",
+            "zh": "千羽鹤好像钻进燕的心灵里干了什么哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "76/ACT",
+            "narrator": "",
+            "text": "どういたしまして",
+            "zh": "不客气",
+            "narrator_zh": ""
+        },
+        {
+            "location": "78/ACT",
+            "narrator": "",
+            "text": "千羽鶴がつばめのココロに入り込んで何かしてるよ",
+            "zh": "千羽鹤好像钻进燕的心灵里干了什么哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "82/SEL",
+            "narrator": "",
+            "text": "どういたしまして",
+            "zh": "不客气",
+            "narrator_zh": ""
+        },
+        {
+            "location": "83/ACT",
+            "narrator": "",
+            "text": "どういたしまして",
+            "zh": "不客气",
+            "narrator_zh": ""
+        },
+        {
+            "location": "89/TALK",
+            "narrator": "エリカ",
+            "text": "それでね、\n色々調べていて\nやっと解ったんだよ。",
+            "zh": "然后呢，\n我调查了好多事情，\n终于搞明白了哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "90/TALK",
+            "narrator": "エリカ",
+            "text": "千羽鶴ちゃんが\n何を目指しているのか。",
+            "zh": "千羽鹤她\n究竟想达成什么目标。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "91/SEL",
+            "narrator": "",
+            "text": "なになに？",
+            "zh": "什么什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "92/SEL",
+            "narrator": "",
+            "text": "なんか知ってる気がする",
+            "zh": "我好像有点头绪",
+            "narrator_zh": ""
+        },
+        {
+            "location": "93/ACT",
+            "narrator": "",
+            "text": "なになに？",
+            "zh": "什么什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "94/ACT",
+            "narrator": "",
+            "text": "なんか知ってる気がする",
+            "zh": "我好像有点头绪",
+            "narrator_zh": ""
+        },
+        {
+            "location": "95/TALK",
+            "narrator": "エリカ",
+            "text": "え！？　そうなの？\nすごいね！！",
+            "zh": "哎！？　真的吗？\n好厉害呀！！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "96/TALK",
+            "narrator": "エリカ",
+            "text": "でも、認識に齟齬があると\nいけないから、一応私から\n伝えることにするね。",
+            "zh": "不过，为了避免认知上\n出现偏差，还是由我\n姑且跟你说一遍吧。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "エリカ",
+            "text": "千羽鶴ちゃんは、この地球\n全体を、フェノメノンで\n覆おうとしてる。",
+            "zh": "千羽鹤她，打算用\nPhenoMENON把整个\n地球都覆盖起来。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "101/TALK",
+            "narrator": "エリカ",
+            "text": "でも、それを為し得るには\nさすがのつばめちゃんでも\n一人では無理。",
+            "zh": "可是，想要做到这一点，\n哪怕是燕\n光靠一个人也办不到。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "エリカ",
+            "text": "そこで、綾ちゃんたち\n他のメンバーも同時に\n発症させて――",
+            "zh": "于是，她就让绫水她们\n其他成员也同时\n发症——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "エリカ",
+            "text": "更に集めて来たクランを\n全て直列に繋いで。",
+            "zh": "再把收集来的库兰\n全部串联起来。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "エリカ",
+            "text": "その莫大なエネルギーで\n全世界にフェノメノンを\n膨張させようとしてるの。",
+            "zh": "企图用那股庞大的能量，\n把PhenoMENON扩张到\n全世界去哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "106/TALK",
+            "narrator": "エリカ",
+            "text": "彼女の計算では、豊洲で\n捕獲したモーフィアスで、\n必要量を満たしたみたい。",
+            "zh": "按照她的计算，靠在丰洲\n捕获的摩耳甫斯，\n似乎就已经凑够所需总量了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "107/SEL",
+            "narrator": "",
+            "text": "千羽鶴が言ってた「準備は整った、つばめを壊して」ってのは…",
+            "zh": "千羽鹤之前说的“准备就绪了，毁掉燕吧”难道就是……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "108/ACT",
+            "narrator": "",
+            "text": "千羽鶴が言ってた「準備は整った、つばめを壊して」ってのは…",
+            "zh": "千羽鹤之前说的“准备就绪了，毁掉燕吧”难道就是……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "111/TALK",
+            "narrator": "エリカ",
+            "text": "そう。世界を覆うだけの\nエネルギーが\n集まったからだよ。",
+            "zh": "没错。因为已经\n集齐了足以覆盖世界的\n能量了嘛。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "112/TALK",
+            "narrator": "エリカ",
+            "text": "だから、豊洲戦の後から\n色々と具体的な行動を\n起こし始めた。",
+            "zh": "所以，从丰洲战之后，\n她才开始采取各种\n具体的行动呀。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "115/SEL",
+            "narrator": "",
+            "text": "合点がいった",
+            "zh": "这下全都说得通了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "116/SEL",
+            "narrator": "",
+            "text": "何か引っかかる",
+            "zh": "总觉得有点不对劲",
+            "narrator_zh": ""
+        },
+        {
+            "location": "117/ACT",
+            "narrator": "",
+            "text": "合点がいった",
+            "zh": "这下全都说得通了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "118/TALK",
+            "narrator": "エリカ",
+            "text": "うんうん。",
+            "zh": "嗯嗯。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "119/ACT",
+            "narrator": "",
+            "text": "何か引っかかる",
+            "zh": "总觉得有点不对劲",
+            "narrator_zh": ""
+        },
+        {
+            "location": "120/TALK",
+            "narrator": "エリカ",
+            "text": "どの辺かな？",
+            "zh": "是哪一块呢？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "121/SEL",
+            "narrator": "",
+            "text": "エリカは千羽鶴を送り込んだ人たちの一人なんだよね？",
+            "zh": "领火你也是把千羽鹤送进去的人之一对吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "122/SEL",
+            "narrator": "",
+            "text": "千羽鶴は自分を送り込んだ人たちの計画に否定的だった",
+            "zh": "千羽鹤当时对送她进来那些人的计划持否定态度吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "123/SEL",
+            "narrator": "",
+            "text": "いや、やっぱりなんでもない",
+            "zh": "不，还是没什么",
+            "narrator_zh": ""
+        },
+        {
+            "location": "124/ACT",
+            "narrator": "",
+            "text": "エリカは千羽鶴を送り込んだ人たちの一人なんだよね？",
+            "zh": "领火你也是把千羽鹤送进去的人之一对吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "125/TALK",
+            "narrator": "エリカ",
+            "text": "そうだね。\n事実関係だけを答えれば\nその通り。",
+            "zh": "是呀。\n如果只按事实关系来答，\n确实是这样。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "126/SEL",
+            "narrator": "",
+            "text": "じゃあ、その人達が何をしようとしてるか知ってるよね？教えて",
+            "zh": "那你知道那些人打算干什么对吧？告诉我",
+            "narrator_zh": ""
+        },
+        {
+            "location": "127/ACT",
+            "narrator": "",
+            "text": "じゃあ、その人達が何をしようとしてるか知ってるよね？教えて",
+            "zh": "那你知道那些人打算干什么对吧？告诉我",
+            "narrator_zh": ""
+        },
+        {
+            "location": "129/TALK",
+            "narrator": "エリカ",
+            "text": "基本的には変わらない。\n綾ちゃんたちを発症させて\nフェノメノンを作ること。",
+            "zh": "本质上并没有区别。\n都是让绫水她们发症，\n来制造PhenoMENON。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "130/ACT",
+            "narrator": "",
+            "text": "千羽鶴は自分を送り込んだ人たちの計画に否定的だった",
+            "zh": "千羽鹤当时对送她进来那些人的计划持否定态度吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "131/TALK",
+            "narrator": "エリカ",
+            "text": "そう。",
+            "zh": "没错。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "132/TALK",
+            "narrator": "エリカ",
+            "text": "彼女は、統一国家及び\n多国籍企業群に、\n反旗を翻した。",
+            "zh": "她向统一国家以及\n跨国企业集团\n举起了反旗。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "133/SEL",
+            "narrator": "",
+            "text": "じゃあ、統一国家はトライナリーたちに何をさせようとしてたの？",
+            "zh": "那统一国家原本想让三重奏她们做什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "134/ACT",
+            "narrator": "",
+            "text": "じゃあ、統一国家はトライナリーたちに何をさせようとしてたの？",
+            "zh": "那统一国家原本想让三重奏她们做什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "136/TALK",
+            "narrator": "エリカ",
+            "text": "結果としては同じ。\nやっぱり発症による\nフェノメノンの生成。",
+            "zh": "从结果来看是一样的。\n同样是通过发症\n来生成PhenoMENON。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "137/ACT",
+            "narrator": "",
+            "text": "いや、やっぱりなんでもない",
+            "zh": "不，还是没什么",
+            "narrator_zh": ""
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "エリカ",
+            "text": "あらら。",
+            "zh": "哎呀呀。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "141/TALK",
+            "narrator": "エリカ",
+            "text": "けど、そのやり方も時期も\n千羽鶴ちゃんとは\n全く違う。",
+            "zh": "不过，无论是做法还是时机，\n都和千羽鹤\n完全不一样。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "142/SEL",
+            "narrator": "",
+            "text": "どう違うの？",
+            "zh": "怎么个不一样法？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "143/SEL",
+            "narrator": "",
+            "text": "エリカは自分の妹を発症させようとしているってこと！？",
+            "zh": "也就是说领火你打算让自己的妹妹发症吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "144/ACT",
+            "narrator": "",
+            "text": "どう違うの？",
+            "zh": "怎么个不一样法？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "145/TALK",
+            "narrator": "エリカ",
+            "text": "千羽鶴ちゃんは、社会を\n人間が適正管理するのは\n絶対不可能だと思ってる。",
+            "zh": "千羽鹤认为，\n人类是绝对不可能\n妥善管理社会的。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "エリカ",
+            "text": "及び、今の社会を実質\nコントロールする統一国家\n及び多国籍企業を――",
+            "zh": "因此，她打算把\n如今实际掌控社会的\n统一国家和跨国企业——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "147/TALK",
+            "narrator": "エリカ",
+            "text": "全て世界から\n消し去ろうとしているの。\nフェノメノンによって。",
+            "zh": "全都从世界上\n抹去。\n用PhenoMENON来抹去。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "148/TALK",
+            "narrator": "エリカ",
+            "text": "その為に、自らと\nトライナリーの面々を礎と\nして世界を創造する。",
+            "zh": "为此，她要以自己和\n三重奏的各位为基石，\n重新创造世界。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "149/TALK",
+            "narrator": "エリカ",
+            "text": "それによってどんな社会を\n作ろうとしてるのか、その\n管理手法はどんな物か――",
+            "zh": "她究竟想借此打造\n怎样的社会，那套管理\n手法又是什么样——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "150/TALK",
+            "narrator": "エリカ",
+            "text": "それらを説明するには\nちょっと時間が足りない。",
+            "zh": "要解释这些的话，\n时间稍微有点不够用。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "151/TALK",
+            "narrator": "エリカ",
+            "text": "片や多国籍企業群の\n目指す社会は単純。",
+            "zh": "而另一边，跨国企业集团\n所追求的社会就很简单了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "152/TALK",
+            "narrator": "エリカ",
+            "text": "目に見えない経済と宗教と\nいう鎖によって、人々を\n誘導し、統率をする。",
+            "zh": "用看不见的经济与宗教\n这两道锁链，去引导\n并统御人们。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "153/TALK",
+            "narrator": "エリカ",
+            "text": "こちらもその為に、\n常人では想像もつかない\nシナリオがあるけど――",
+            "zh": "他们为此也准备了\n常人难以想象的\n剧本，不过——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "154/TALK",
+            "narrator": "エリカ",
+            "text": "やはりそれは、\nここで説明するには\n時間が足りない。",
+            "zh": "同样地，要在这里\n解释清楚那些，\n时间实在是不够。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "155/TALK",
+            "narrator": "エリカ",
+            "text": "私が今、\nあなたに教えられることは\nこれくらいだと思う。",
+            "zh": "我现在能\n告诉你的事情，\n大概也就这么多了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "156/ACT",
+            "narrator": "",
+            "text": "エリカは自分の妹を発症させようとしているってこと！？",
+            "zh": "也就是说领火你打算让自己的妹妹发症吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "157/TALK",
+            "narrator": "エリカ",
+            "text": "結果だけを見れば\nそうなるよね。",
+            "zh": "只看结果的话，\n确实是那样呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "158/TALK",
+            "narrator": "エリカ",
+            "text": "けど、わたしと綾ちゃんは\n全く異なる経緯で\nフェノム計画に関わった。",
+            "zh": "不过，我和绫水\n是经由完全不同的\n过程卷入Phenom计划的。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "159/TALK",
+            "narrator": "エリカ",
+            "text": "わたしが初めて綾ちゃんの\n名前を見たのは、計画が\n実行された後。",
+            "zh": "我第一次看到绫水的\n名字，是在计划已经\n开始执行之后了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "160/TALK",
+            "narrator": "エリカ",
+            "text": "綾ちゃんがどんな経緯で\n天使候補になったのか、\nわたしは知らないの。",
+            "zh": "绫水究竟是怎么\n变成天使候补的，\n我并不知道。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "161/SEL",
+            "narrator": "",
+            "text": "なるほど",
+            "zh": "原来如此",
+            "narrator_zh": ""
+        },
+        {
+            "location": "162/SEL",
+            "narrator": "",
+            "text": "なんすか！？\n天使候補って！",
+            "zh": "什么啊！？\n天使候补是什么东西！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "163/ACT",
+            "narrator": "",
+            "text": "なるほど",
+            "zh": "原来如此",
+            "narrator_zh": ""
+        },
+        {
+            "location": "164/ACT",
+            "narrator": "",
+            "text": "なんすか！？\n天使候補って！",
+            "zh": "什么啊！？\n天使候补是什么东西！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "165/TALK",
+            "narrator": "エリカ",
+            "text": "あ、えっと。",
+            "zh": "啊，那个……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "166/TALK",
+            "narrator": "エリカ",
+            "text": "ニアイコール\nトライナリー、かな。",
+            "zh": "差不多就等于\n三重奏，吧。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "167/TALK",
+            "narrator": "エリカ",
+            "text": "統一国家及び\n多国籍企業群は\nそう呼んでいた。",
+            "zh": "统一国家和\n跨国企业集团\n当时就是这么叫的。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "168/TALK",
+            "narrator": "エリカ",
+            "text": "その意図は言葉通りの\n意味なんだけど――",
+            "zh": "其意图正如字面\n上的意思，不过——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "169/TALK",
+            "narrator": "エリカ",
+            "text": "その裏には、常人には\n想像だに着かない壮絶な\nシナリオがある。",
+            "zh": "在这背后，还有着\n常人根本无法想象的\n壮烈剧本。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "170/TALK",
+            "narrator": "エリカ",
+            "text": "でも、それをここで\n説明するには、あまりに\n時間が足りなすぎる。",
+            "zh": "但要在这里把那些\n解释清楚，时间实在\n太不够用了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "172/TALK",
+            "narrator": "エリカ",
+            "text": "とにかく、\nわたしは今では、\nフェノム計画否定派。",
+            "zh": "总之，\n我如今已经成了\nPhenom计划否定派。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "173/TALK",
+            "narrator": "エリカ",
+            "text": "千羽鶴ちゃんの計画も、\n統一国家の計画も。",
+            "zh": "无论是千羽鹤的计划，\n还是统一国家的计划，都一样。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "174/TALK",
+            "narrator": "エリカ",
+            "text": "過去の罪は消せないけど、\nこれ以上の悲劇を生まない\nために出来ることはある。",
+            "zh": "过去的罪孽无法抹去，\n但为了不再制造更多悲剧，\n还有我能做的事情。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "175/TALK",
+            "narrator": "エリカ",
+            "text": "ただ、それすらも\nわたしの独りよがりかも\nしれないけどね。",
+            "zh": "不过，说不定连这也\n只是我的一厢情愿\n就是了呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "176/TALK",
+            "narrator": "エリカ",
+            "text": "そういう意味でも、\nあなたには客観的視点から\nわたしを裁定して欲しい。",
+            "zh": "从这个意义上来说，\n我也希望你能站在客观\n视角来评判我。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "177/TALK",
+            "narrator": "エリカ",
+            "text": "これからもわたしは、\nわたしの信じる道を\n突き進むけど――",
+            "zh": "今后我也会沿着\n自己坚信的道路\n一路走下去，不过——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "178/TALK",
+            "narrator": "エリカ",
+            "text": "もし間違いだと思ったら\n諭してくれると\n嬉しいかな。",
+            "zh": "要是你觉得我走错了，\n能开口劝劝我的话，\n我会很开心的。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "182/TALK",
+            "narrator": "エリカ",
+            "text": "そんなわけで、\n千羽鶴ちゃんの計画は\nだいたい解った。",
+            "zh": "就是这样，\n千羽鹤的计划\n我已经大致弄明白了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "183/TALK",
+            "narrator": "エリカ",
+            "text": "けど……\nどうしても１つだけ\n分からない事があって。",
+            "zh": "但是……\n唯独只有１件事，\n我怎么都想不明白。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "184/SEL",
+            "narrator": "",
+            "text": "それはなに？",
+            "zh": "是什么事？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "185/ACT",
+            "narrator": "",
+            "text": "それはなに？",
+            "zh": "是什么事？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "187/TALK",
+            "narrator": "エリカ",
+            "text": "何故あなたに、\n結婚して欲しいと\n言い続けてるのかだよ。",
+            "zh": "就是她为什么一直对你说\n想让你和她\n结婚呀。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "188/SEL",
+            "narrator": "",
+            "text": "確かに",
+            "zh": "确实",
+            "narrator_zh": ""
+        },
+        {
+            "location": "189/ACT",
+            "narrator": "",
+            "text": "確かに",
+            "zh": "确实",
+            "narrator_zh": ""
+        },
+        {
+            "location": "191/TALK",
+            "narrator": "エリカ",
+            "text": "これを確かめるには、\nもはや彼女のココロに\nダイブするしかないかも。",
+            "zh": "想要搞清楚这件事，\n搞不好只能潜入\n她的心灵里去了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "192/TALK",
+            "narrator": "エリカ",
+            "text": "もしかしたら、\n結婚にすごく重大な\n絡繰りがあるかもだし。",
+            "zh": "说不定在结婚这件事里，\n还藏着什么极其重大的\n机关也说不定呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "193/TALK",
+            "narrator": "エリカ",
+            "text": "とにかく、今の段階では\nそこまではわからないの。",
+            "zh": "总之，在现阶段，\n这方面我还无从得知。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "194/TALK",
+            "narrator": "エリカ",
+            "text": "また何かわかったら、\nお話するね。",
+            "zh": "等以后查出什么了，\n我再跟你说哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "195/TALK",
+            "narrator": "エリカ",
+            "text": "それでね、現状の\n綾ちゃんたちだけど――",
+            "zh": "然后呢，关于目前\n绫水她们的状况——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "196/TALK",
+            "narrator": "エリカ",
+            "text": "前回音羽ちゃんのココロに\n潜ってもらったでしょ？",
+            "zh": "上一回不是拜托你\n潜入音羽的心灵了吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "197/TALK",
+            "narrator": "エリカ",
+            "text": "あれのお陰で、音羽ちゃん\n回復しそうだよ！",
+            "zh": "多亏了那次行动，\n音羽好像快恢复了哦！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "198/SEL",
+            "narrator": "",
+            "text": "良かった！",
+            "zh": "太好了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "199/ACT",
+            "narrator": "",
+            "text": "良かった！",
+            "zh": "太好了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "201/TALK",
+            "narrator": "エリカ",
+            "text": "音羽ちゃんが歌って\nくれれば、神楽ちゃんの\n破壊の歌を止められる。",
+            "zh": "只要音羽愿意\n唱歌，就能阻止\n神乐那首破坏之歌。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "202/TALK",
+            "narrator": "エリカ",
+            "text": "そうすれば、\nつばめちゃんは壊されずに\n済むからね。",
+            "zh": "这样一来，\n燕也就不用\n被毁掉了嘛。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "203/TALK",
+            "narrator": "エリカ",
+            "text": "あとは音羽ちゃんと一緒に\n東京に戻るだけだね。",
+            "zh": "接下来只要和音羽\n一起回东京就好了呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "205/TALK",
+            "narrator": "エリカ",
+            "text": "ここまで本当に\n色々協力してくれて\nありがとう。",
+            "zh": "一路走到这里，\n真的多亏了你\n多方协助，谢谢啦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "206/TALK",
+            "narrator": "エリカ",
+            "text": "お陰で、なんとか\n綾ちゃんたちを護る事が\nできそうだよ。",
+            "zh": "多亏有你，\n总算是能护住\n绫水她们了哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "208/TALK",
+            "narrator": "エリカ",
+            "text": "それじゃ、今回も\n記録映像を見てね。",
+            "zh": "那么，这一回也\n请看记录影像吧。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "237/TALK",
+            "narrator": "千羽鶴",
+            "text": "……なんて。\nちょっと\n懐かしいでしょ？",
+            "zh": "……开玩笑的。\n是不是觉得\n有点怀念呀？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "238/SEL",
+            "narrator": "",
+            "text": "なに？\nどういうこと！？",
+            "zh": "什么？\n这是怎么回事！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "239/ACT",
+            "narrator": "",
+            "text": "なに？\nどういうこと！？",
+            "zh": "什么？\n这是怎么回事！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "241/TALK",
+            "narrator": "千羽鶴",
+            "text": "大した事じゃない。\nちょっとした時間稼ぎ。",
+            "zh": "没什么大事。\n稍微拖延一下时间罢了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "242/TALK",
+            "narrator": "千羽鶴",
+            "text": "でも、それだけだと\n貴方にとっては全然\n面白くないと思うから。",
+            "zh": "不过，光那样的话\n对你来说肯定一点\n意思都没有。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "243/TALK",
+            "narrator": "千羽鶴",
+            "text": "貴方に一つ、\nオモシロ情報をあげる。",
+            "zh": "所以我送你一个\n有意思的情报。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "244/TALK",
+            "narrator": "千羽鶴",
+            "text": "今このちーちゃん\nラブラブRPGゲーム！を\nプレイすると――",
+            "zh": "现在去玩这款\n小千恋爱RPG游戏！\n的话——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "245/TALK",
+            "narrator": "千羽鶴",
+            "text": "当時は解らなかった\n色んな伏線を楽しむことが\nできると思う。",
+            "zh": "我想你就能品出\n当时没看懂的\n各种伏笔了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "246/TALK",
+            "narrator": "千羽鶴",
+            "text": "よくあるでしょう？",
+            "zh": "这不是很常见吗？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "247/TALK",
+            "narrator": "千羽鶴",
+            "text": "昔遊んだ８ビットゲームを\n今再び遊んでみる。",
+            "zh": "把小时候玩过的８位游戏\n拿出来重温一遍。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "248/TALK",
+            "narrator": "千羽鶴",
+            "text": "すると、当時小学生だった\n自分にはわからなかった\n物語が今ならよくわかる！",
+            "zh": "结果，当年还是小学生的\n自己看不懂的故事，\n如今一下子全明白了！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "249/TALK",
+            "narrator": "千羽鶴",
+            "text": "――みたいなこと。",
+            "zh": "——诸如此类的体验。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "250/TALK",
+            "narrator": "千羽鶴",
+            "text": "それを非常に短期間で\n体験出来る、とても\n画期的なプログラム。",
+            "zh": "能在极短的时间里\n重温到这种感觉，真是\n划时代的程序呢。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "251/TALK",
+            "narrator": "千羽鶴",
+            "text": "是非その衝撃を\n今すぐ体験してみて。",
+            "zh": "请务必现在就\n去体验一下那份冲击。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "252/SEL",
+            "narrator": "",
+            "text": "久々にやってみる",
+            "zh": "久违地玩玩看",
+            "narrator_zh": ""
+        },
+        {
+            "location": "253/SEL",
+            "narrator": "",
+            "text": "そんなことしてる場合じゃない",
+            "zh": "现在哪有工夫干这个",
+            "narrator_zh": ""
+        },
+        {
+            "location": "254/ACT",
+            "narrator": "",
+            "text": "久々にやってみる",
+            "zh": "久违地玩玩看",
+            "narrator_zh": ""
+        },
+        {
+            "location": "255/TALK",
+            "narrator": "千羽鶴",
+            "text": "わかった。",
+            "zh": "我知道了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "256/TALK",
+            "narrator": "千羽鶴",
+            "text": "それじゃ、\nもう一度リセット。",
+            "zh": "那就，\n再重置一次。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "269/ACT",
+            "narrator": "",
+            "text": "そんなことしてる場合じゃない",
+            "zh": "现在哪有工夫干这个",
+            "narrator_zh": ""
+        },
+        {
+            "location": "270/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう。\nそれじゃ、\n貴方に用はない。",
+            "zh": "是吗。\n那我和你\n没什么好说的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "271/TALK",
+            "narrator": "千羽鶴",
+            "text": "さよなら。",
+            "zh": "再见。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "281/SEL",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【高画質/67MB 4:15】</color>",
+            "zh": "观看影像\n<color=green>【高画质/67MB 4:15】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "282/SEL",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【標準画質/23MB 4:15】</color>",
+            "zh": "观看影像\n<color=green>【标准画质/23MB 4:15】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "283/SEL",
+            "narrator": "",
+            "text": "あらすじレポートにする\n<color=green>【テキストまとめ】</color>",
+            "zh": "改为剧情梗概报告\n<color=green>【文本汇总】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "284/ACT",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【高画質/67MB 4:15】</color>",
+            "zh": "观看影像\n<color=green>【高画质/67MB 4:15】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "285/TALK",
+            "narrator": "エリカ",
+            "text": "わかった。",
+            "zh": "知道啦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "291/ACT",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【標準画質/23MB 4:15】</color>",
+            "zh": "观看影像\n<color=green>【标准画质/23MB 4:15】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "292/TALK",
+            "narrator": "エリカ",
+            "text": "わかった。",
+            "zh": "知道啦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "298/ACT",
+            "narrator": "",
+            "text": "あらすじレポートにする\n<color=green>【テキストまとめ】</color>",
+            "zh": "改为剧情梗概报告\n<color=green>【文本汇总】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "299/TALK",
+            "narrator": "エリカ",
+            "text": "あらら。",
+            "zh": "哎呀呀。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "332/TALK",
+            "narrator": "エリカ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "333/SEL",
+            "narrator": "",
+            "text": "ちょっと、なんか大変な事になってない？",
+            "zh": "等一下，是不是出大事了啊？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "334/ACT",
+            "narrator": "",
+            "text": "ちょっと、なんか大変な事になってない？",
+            "zh": "等一下，是不是出大事了啊？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "336/TALK",
+            "narrator": "エリカ",
+            "text": "そんな……。",
+            "zh": "怎么会……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "337/TALK",
+            "narrator": "エリカ",
+            "text": "わたしが徹夜して\n計算したPreviewと\n結果が違うよ！！",
+            "zh": "跟我熬夜\n算出来的Preview\n结果完全不一样呀！！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "338/TALK",
+            "narrator": "エリカ",
+            "text": "そんな……",
+            "zh": "怎么会……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "339/SEL",
+            "narrator": "",
+            "text": "みんな爆死しちゃったの！？",
+            "zh": "大家都炸死了吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "340/SEL",
+            "narrator": "",
+            "text": "千羽鶴が何かやったのかな",
+            "zh": "是不是千羽鹤动了什么手脚",
+            "narrator_zh": ""
+        },
+        {
+            "location": "341/ACT",
+            "narrator": "",
+            "text": "みんな爆死しちゃったの！？",
+            "zh": "大家都炸死了吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "342/TALK",
+            "narrator": "エリカ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "343/TALK",
+            "narrator": "エリカ",
+            "text": "その可能性は、\n高いと思う。",
+            "zh": "这种可能性，\n我觉得很高。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "344/TALK",
+            "narrator": "エリカ",
+            "text": "ああっ……ごめんなさい。\n完全に迂闊だった。",
+            "zh": "啊……对不起。\n完全是我大意了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "345/TALK",
+            "narrator": "エリカ",
+            "text": "わたしが非力だった。",
+            "zh": "是我太无能了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "346/TALK",
+            "narrator": "エリカ",
+            "text": "本当に、\nごめんなさい……。",
+            "zh": "真的，\n对不起……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "347/SEL",
+            "narrator": "",
+            "text": "とにかく、今やれることをやろう",
+            "zh": "总之，先做现在能做的事吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "348/ACT",
+            "narrator": "",
+            "text": "とにかく、今やれることをやろう",
+            "zh": "总之，先做现在能做的事吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "351/TALK",
+            "narrator": "エリカ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "352/TALK",
+            "narrator": "エリカ",
+            "text": "うん。\nそうだよね。",
+            "zh": "嗯。\n说得对呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "354/ACT",
+            "narrator": "",
+            "text": "千羽鶴が何かやったのかな",
+            "zh": "是不是千羽鹤动了什么手脚",
+            "narrator_zh": ""
+        },
+        {
+            "location": "355/TALK",
+            "narrator": "エリカ",
+            "text": "それはないと思う。\n彼女は今、レディネスを\n操作できないはず。",
+            "zh": "我觉得不会。\n她现在应该没办法\n操纵Readiness才对。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "357/SEL",
+            "narrator": "",
+            "text": "前回、千羽鶴がつばめの中に入ってた",
+            "zh": "上一回，千羽鹤钻进了燕的里面",
+            "narrator_zh": ""
+        },
+        {
+            "location": "358/ACT",
+            "narrator": "",
+            "text": "前回、千羽鶴がつばめの中に入ってた",
+            "zh": "上一回，千羽鹤钻进了燕的里面",
+            "narrator_zh": ""
+        },
+        {
+            "location": "360/TALK",
+            "narrator": "エリカ",
+            "text": "ええっ！？\nそうだったの？",
+            "zh": "哎哎！？\n真的假的？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "361/TALK",
+            "narrator": "エリカ",
+            "text": "先に言ってくれれば\n良かったのに……。",
+            "zh": "你要是早点告诉我\n就好了呀……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "362/SEL",
+            "narrator": "",
+            "text": "言おうとすると、ちーちゃんラブラb…いや、リセットが掛かってたんだよ",
+            "zh": "我正想说来着，小千恋a……不对，就被强行重置了呀",
+            "narrator_zh": ""
+        },
+        {
+            "location": "363/ACT",
+            "narrator": "",
+            "text": "言おうとすると、ちーちゃんラブラb…いや、リセットが掛かってたんだよ",
+            "zh": "我正想说来着，小千恋a……不对，就被强行重置了呀",
+            "narrator_zh": ""
+        },
+        {
+            "location": "365/TALK",
+            "narrator": "エリカ",
+            "text": "あー…そうなんだ。",
+            "zh": "啊——…原来是这样。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "366/TALK",
+            "narrator": "エリカ",
+            "text": "もうその時点で\n操作されてたんだね。",
+            "zh": "从那个时候起\n就已经被她操纵了呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "367/TALK",
+            "narrator": "エリカ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "368/TALK",
+            "narrator": "エリカ",
+            "text": "ごめんなさい。\nわたしが非力だった。",
+            "zh": "对不起。\n是我太无能了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "369/TALK",
+            "narrator": "エリカ",
+            "text": "本当に、\nごめんなさい……。",
+            "zh": "真的，\n对不起……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "371/TALK",
+            "narrator": "エリカ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "372/TALK",
+            "narrator": "エリカ",
+            "text": "けど、もしかしたら……",
+            "zh": "不过，说不定……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "375/TALK",
+            "narrator": "エリカ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "376/TALK",
+            "narrator": "エリカ",
+            "text": "ああっ！！",
+            "zh": "啊啊！！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "377/SEL",
+            "narrator": "",
+            "text": "どうしたの！？",
+            "zh": "怎么了！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "378/ACT",
+            "narrator": "",
+            "text": "どうしたの！？",
+            "zh": "怎么了！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "380/TALK",
+            "narrator": "エリカ",
+            "text": "少し前に、つばめちゃんの\nココロスフィアにアクセス\nした形跡がある！",
+            "zh": "就在不久前，有访问\n燕的心灵领域的\n痕迹！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "381/TALK",
+            "narrator": "エリカ",
+            "text": "それも、物理体から\n直接繋がってる……。",
+            "zh": "而且，还是直接从\n物理体连上去的……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "382/SEL",
+            "narrator": "",
+            "text": "じゃあ、その時に何かされた可能性がある？",
+            "zh": "那有没有可能是那时候被她做了什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "383/ACT",
+            "narrator": "",
+            "text": "じゃあ、その時に何かされた可能性がある？",
+            "zh": "那有没有可能是那时候被她做了什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "385/TALK",
+            "narrator": "エリカ",
+            "text": "……あると思う。",
+            "zh": "……我觉得有可能。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "386/TALK",
+            "narrator": "エリカ",
+            "text": "ああっ……ごめんなさい。\n完全に迂闊だった。",
+            "zh": "啊……对不起。\n完全是我大意了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "387/TALK",
+            "narrator": "エリカ",
+            "text": "わたしが非力だった。",
+            "zh": "是我太无能了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "388/TALK",
+            "narrator": "エリカ",
+            "text": "本当に、\nごめんなさい……。",
+            "zh": "真的，\n对不起……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "390/SEL",
+            "narrator": "",
+            "text": "とにかく、今やれることをやろう",
+            "zh": "总之，先做现在能做的事吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "391/SEL",
+            "narrator": "",
+            "text": "でも千羽鶴がアーヤたちを殺す理由ってなに？",
+            "zh": "但千羽鹤杀掉绫水她们有什么理由吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "392/ACT",
+            "narrator": "",
+            "text": "とにかく、今やれることをやろう",
+            "zh": "总之，先做现在能做的事吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "393/TALK",
+            "narrator": "エリカ",
+            "text": "そうだね。",
+            "zh": "说得对呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "394/ACT",
+            "narrator": "",
+            "text": "でも千羽鶴がアーヤたちを殺す理由ってなに？",
+            "zh": "但千羽鹤杀掉绫水她们有什么理由吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "395/TALK",
+            "narrator": "エリカ",
+            "text": "それは……",
+            "zh": "那个……",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "396/TALK",
+            "narrator": "エリカ",
+            "text": "確かに、ちょっと\nおかしいかも。",
+            "zh": "确实，有点\n说不通呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "397/TALK",
+            "narrator": "エリカ",
+            "text": "綾ちゃんたちが死んだら、\n彼女はビジョンを実現\nできなくなる。",
+            "zh": "要是绫水她们死了，\n她的蓝图也就\n没法实现了呀。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "398/TALK",
+            "narrator": "エリカ",
+            "text": "ということは、\n統一国家？",
+            "zh": "难道说，\n是统一国家干的？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "400/SEL",
+            "narrator": "",
+            "text": "今はアーヤたちを助ける術を考えるのが先決だよ",
+            "zh": "现在当务之急是想办法救绫水她们呀",
+            "narrator_zh": ""
+        },
+        {
+            "location": "401/ACT",
+            "narrator": "",
+            "text": "今はアーヤたちを助ける術を考えるのが先決だよ",
+            "zh": "现在当务之急是想办法救绫水她们呀",
+            "narrator_zh": ""
+        },
+        {
+            "location": "403/TALK",
+            "narrator": "エリカ",
+            "text": "うん。\nそうだよね。",
+            "zh": "嗯。\n说得对呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "406/TALK",
+            "narrator": "エリカ",
+            "text": "ありがとう。\nわたし、ちょっと\n取り乱してたかも。",
+            "zh": "谢谢你。\n我刚才好像\n有点慌了神。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "407/TALK",
+            "narrator": "エリカ",
+            "text": "$handle$さんの\nお陰で、すごく\n落ち着けたよ。えへへ…。",
+            "zh": "多亏了$handle$，\n我一下子冷静下来\n了哦。嘿嘿嘿……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "408/TALK",
+            "narrator": "エリカ",
+            "text": "そうだよね。\nこういう時こそ、\nしっかりしなくちゃ。",
+            "zh": "是啊。\n越是这种时候，\n越得振作起来才行。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "409/TALK",
+            "narrator": "エリカ",
+            "text": "……ふぅ。",
+            "zh": "……呼。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "411/TALK",
+            "narrator": "エリカ",
+            "text": "あのね、今回の件だけど、\n$handle$さんにも\n協力して欲しいの。",
+            "zh": "那个呀，关于这次的事，\n我也想请$handle$你\n帮帮忙。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "412/TALK",
+            "narrator": "エリカ",
+            "text": "お願いできるかな…。",
+            "zh": "可以拜托你吗……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "413/SEL",
+            "narrator": "",
+            "text": "もちろん",
+            "zh": "当然",
+            "narrator_zh": ""
+        },
+        {
+            "location": "414/ACT",
+            "narrator": "",
+            "text": "もちろん",
+            "zh": "当然",
+            "narrator_zh": ""
+        },
+        {
+            "location": "416/TALK",
+            "narrator": "エリカ",
+            "text": "ありがとう。",
+            "zh": "谢谢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "417/TALK",
+            "narrator": "エリカ",
+            "text": "結末は、今からでも\n変えることができる。",
+            "zh": "结局，就算现在\n也依然能够改变。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "418/TALK",
+            "narrator": "エリカ",
+            "text": "東京までの道中に\n何があったのか――",
+            "zh": "前往东京的途中\n究竟发生了什么——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "419/TALK",
+            "narrator": "エリカ",
+            "text": "そして、どうすれば\n回避出来るのか。",
+            "zh": "以及，究竟要怎样\n才能回避掉。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "420/TALK",
+            "narrator": "エリカ",
+            "text": "それがわかる時系列を、\n今からデイトラシステムに\nプリセットする。",
+            "zh": "能看清这些的时间线，\n我现在就预设进\n每日三重奏系统里。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "421/TALK",
+            "narrator": "エリカ",
+            "text": "だから、それらに\nアクセスして、\n確認して欲しいの。",
+            "zh": "所以，我想请你\n去访问那些节点，\n确认一下情况。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "422/TALK",
+            "narrator": "エリカ",
+            "text": "綾ちゃんたちに\n何があったのか。",
+            "zh": "绫水她们身上\n到底发生了什么。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "423/TALK",
+            "narrator": "エリカ",
+            "text": "そして、可能なら\nその回避策を一緒に\n考えてあげて欲しいの。",
+            "zh": "然后，如果可能的话，\n请和她们一起想出\n回避的对策。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "424/TALK",
+            "narrator": "エリカ",
+            "text": "本当に役に立たなくて\nごめんなさい。",
+            "zh": "我真是太没用了，\n对不起。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "426/TALK",
+            "narrator": "エリカ",
+            "text": "でも、今は\nあなただけが\n頼りなんだ。",
+            "zh": "但是，现在\n我唯一能依靠的\n就只有你了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "432/TALK",
+            "narrator": "エリカ",
+            "text": "それでね、\n今回つばめちゃんに対して\nお願いしたいのは――",
+            "zh": "然后呢，\n这次想拜托燕\n那边的事是——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "433/TALK",
+            "narrator": "エリカ",
+            "text": "千羽鶴ちゃんが\nココロの中で何をしたのか\n見て来て欲しいの。",
+            "zh": "我想请你去看看\n千羽鹤在她的心灵里\n做了什么。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "434/TALK",
+            "narrator": "エリカ",
+            "text": "その際に１つ、\n申し訳無いお願いが\nあるんだけど……。",
+            "zh": "不过在做这件事时，有１个\n实在很过意不去的\n请求……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "435/SEL",
+            "narrator": "",
+            "text": "なんでしょう？",
+            "zh": "是什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "436/ACT",
+            "narrator": "",
+            "text": "なんでしょう？",
+            "zh": "是什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "438/TALK",
+            "narrator": "エリカ",
+            "text": "前回は強制的にダイブする\nプログラムを作って、\nやってもらったでしょ？",
+            "zh": "上一回我不是做了个\n强制潜入的程序\n给你用过吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "439/TALK",
+            "narrator": "エリカ",
+            "text": "でも今回は、\n正規の方法でダイブをして\nもらいたいの。",
+            "zh": "但这一次，\n我想请你用正规的方式\n潜入进去。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "440/TALK",
+            "narrator": "エリカ",
+            "text": "千羽鶴ちゃんが暗躍してる\nとなると、介入されちゃう\n可能性もあるから。",
+            "zh": "既然千羽鹤在暗中活动，\n用强制方式的话说不定\n会被她介入干涉。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "441/SEL",
+            "narrator": "",
+            "text": "で、どんな葛藤がありそうなの？",
+            "zh": "那，她可能会有什么样的纠结呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "442/ACT",
+            "narrator": "",
+            "text": "で、どんな葛藤がありそうなの？",
+            "zh": "那，她可能会有什么样的纠结呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "444/TALK",
+            "narrator": "エリカ",
+            "text": "あー、いや。\nそれが、監禁状態だし\nあまり葛藤は無いかも…。",
+            "zh": "啊——、不。\n话是这么说，她现在被监禁着，\n可能没什么纠结的事……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "445/TALK",
+            "narrator": "エリカ",
+            "text": "その場合は、何か\n些細なことでもいいから\n葛藤を生み出してみて？",
+            "zh": "要是那样的话，随便什么\n鸡毛蒜皮的小事也好，\n试着给她制造点纠结吧？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "446/SEL",
+            "narrator": "",
+            "text": "無茶すぎじゃない！？",
+            "zh": "这也太强人所难了吧！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "447/ACT",
+            "narrator": "",
+            "text": "無茶すぎじゃない！？",
+            "zh": "这也太强人所难了吧！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "449/TALK",
+            "narrator": "エリカ",
+            "text": "ごめんね！\n今はそれくらいしか\n思いつかなくて！",
+            "zh": "对不起啦！\n眼下我也只能\n想到这个办法了！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "450/TALK",
+            "narrator": "エリカ",
+            "text": "上手くいかなかったら\n全然それで構わないから。",
+            "zh": "要是没法成功，\n那也完全没关系。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "451/TALK",
+            "narrator": "エリカ",
+            "text": "やるだけ\nやってみてくれると\n嬉しいかな。",
+            "zh": "你能尽力\n去试试看，\n我就很高兴了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "452/TALK",
+            "narrator": "エリカ",
+            "text": "それじゃ、\n宜しくお願いします。",
+            "zh": "那就，\n拜托你啦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "459/TALK",
+            "narrator": "エリカ",
+            "text": "それじゃ、\n具体的にどうすれば\nいいかお話するね。",
+            "zh": "那么，\n具体该怎么做，\n我来跟你说一下哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "460/TALK",
+            "narrator": "エリカ",
+            "text": "デイドラシステムは、\n東京到着の３０分前\nくらいにセットした。",
+            "zh": "每日剧场系统，\n已经设定在了抵达东京\n大约３０分钟前的位置。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "461/TALK",
+            "narrator": "エリカ",
+            "text": "そこから綾ちゃんたちの\n様子を見てもらって――",
+            "zh": "我想请你从那里开始\n观察绫水她们的动向——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "462/TALK",
+            "narrator": "エリカ",
+            "text": "何か起きたら、それを\n解決するために、知恵を\n貸してあげて欲しいの。",
+            "zh": "一旦发生什么状况，\n就借给她们你的智慧，\n帮她们解决。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "463/TALK",
+            "narrator": "エリカ",
+            "text": "もちろん、先に\n危機的状況であることを\n伝えた方がいいよね。",
+            "zh": "当然，最好还是先\n把正处于危机之中\n这件事告诉她们哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "464/TALK",
+            "narrator": "エリカ",
+            "text": "そういった諸々の行動が\n未来を変えていくから。",
+            "zh": "正是这些一点一滴的行动，\n才能改变未来嘛。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "465/TALK",
+            "narrator": "エリカ",
+            "text": "でも、これが自然派生\nじゃなくて、誰かの\n計画による変更だと――",
+            "zh": "不过，如果这并非自然衍生，\n而是出自某人计划的\n改动的话——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "466/TALK",
+            "narrator": "エリカ",
+            "text": "ほんの少しの変更では、\n揺り戻しされる危険性も\nあるの。",
+            "zh": "只做微小的改动，\n也有可能被强行\n拉回原轨哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "467/TALK",
+            "narrator": "エリカ",
+            "text": "だから、ありとあらゆる\nことをやってみて欲しい。",
+            "zh": "所以，我希望你能\n把能试的办法都试一遍。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "468/TALK",
+            "narrator": "エリカ",
+            "text": "無茶ばかり言ってるけど、\n本当に出来ることをやって\nくれればいいから。",
+            "zh": "虽然净提些无理的要求，\n但只要做到你力所能及的\n事情就可以了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "469/TALK",
+            "narrator": "エリカ",
+            "text": "いつも頼り切りで\nごめんなさい。",
+            "zh": "总是这样全指望你，\n真是对不起。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "470/TALK",
+            "narrator": "エリカ",
+            "text": "どうか、\nよろしくお願いします。",
+            "zh": "拜托了，\n请多关照。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "219/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=red>【TRI-OS KernelError】</color>\n\n不正な割り込みが発生しました。\nシステムを再起動します。\n(Code:102)\n",
+            "zh": "<color=red>【TRI-OS KernelError】</color>\n\n发生了非法中断。\n系统即将重启。\n(Code:102)\n",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "258/DIALOG",
+            "narrator": "INFO",
+            "text": "<color=red>【TRI-OS KernelInfo】</color>\n\n<color=green>【Chiharu-Soft the Best!】\nちーちゃんとラブラブRPGゲーム！</color>\nを終了しました。\n\n承認された割り込みが\n発生しました。(0x010)\nシステム再起動します。",
+            "zh": "<color=red>【TRI-OS KernelInfo】</color>\n\n已结束\n<color=green>【Chiharu-Soft the Best!】\n和小千的恋爱RPG游戏！</color>。\n\n发生了已批准的\n中断。(0x010)\n系统即将重启。",
+            "narrator_zh": "INFO"
+        },
+        {
+            "location": "276/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=red>【TRI-OS Error:0x01】</color>\n回線が切断されました。(002)",
+            "zh": "<color=red>【TRI-OS Error:0x01】</color>\n连接已断开。(002)",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "309/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime1",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime1"
+        },
+        {
+            "location": "311/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime2",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime2"
+        },
+        {
+            "location": "313/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime3",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime3"
+        },
+        {
+            "location": "315/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime4",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime4"
+        },
+        {
+            "location": "317/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime5",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime5"
+        }
+    ]
+}
