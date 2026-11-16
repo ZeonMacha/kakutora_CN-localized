@@ -1,532 +1,615 @@
 {
- "dir": "dramatics/daydra/drm_ch03_00_200.js",
- "type": "Episode",
- "info": {
-  "story_id": "3020",
-  "cid": "gabriella",
-  "title": "らぶとーく  第20話",
-  "sub_title": "ほら、やっぱりね"
- },
- "entry": [
-  {
-   "location": "327/SCENARIO",
-   "narrator": "",
-   "text": "ほら、やっぱりね"
-  },
-  {
-   "location": "341/TALK",
-   "narrator": "アーヤ",
-   "text": "…そういえば――",
-   "zh": "……这么说——",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "342/TALK",
-   "narrator": "アーヤ",
-   "text": "みんな、あれから\nどうなった？"
-  },
-  {
-   "location": "345/TALK",
-   "narrator": "つばめ",
-   "text": "何がですか？"
-  },
-  {
-   "location": "347/TALK",
-   "narrator": "ガブリエラ",
-   "text": "何がって…アーヤが\nこうやって切り出す\nことといったら――"
-  },
-  {
-   "location": "348/TALK",
-   "narrator": "ガブリエラ",
-   "text": "Ｂｏｔのこと以外\nないじゃない。"
-  },
-  {
-   "location": "350/TALK",
-   "narrator": "つばめ",
-   "text": "ああ、そっか。"
-  },
-  {
-   "location": "353/TALK",
-   "narrator": "アーヤ",
-   "text": "その通りよ。",
-   "zh": "确实如此。",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "354/TALK",
-   "narrator": "アーヤ",
-   "text": "あれから、どう？\nＢｏｔとの仲に、\n折り合いはついた？"
-  },
-  {
-   "location": "356/TALK",
-   "narrator": "つばめ",
-   "text": "うーん…",
-   "zh": "嗯——",
-   "narrator_zh": "燕"
-  },
-  {
-   "location": "357/TALK",
-   "narrator": "つばめ",
-   "text": "わたしは前より\n仲良くなったかな。"
-  },
-  {
-   "location": "360/TALK",
-   "narrator": "みやび",
-   "text": "つばめちゃんらしい\n答えやね。",
-   "zh": "很像燕的\n回答呢。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "362/TALK",
-   "narrator": "みやび",
-   "text": "まあ、うちは元々、\n人間やないか疑うて\n相手してたきね。"
-  },
-  {
-   "location": "363/TALK",
-   "narrator": "みやび",
-   "text": "そう変わったことは\nなかったと思うけんど。",
-   "zh": "我觉得没什么\n变化咯。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "364/TALK",
-   "narrator": "つばめ",
-   "text": "…$handle$さんにも\nちょっと聞いてみます。"
-  },
-  {
-   "location": "376/TALK",
-   "narrator": "つばめ",
-   "text": "$handle$さーん",
-   "zh": "$handle$——",
-   "narrator_zh": "燕"
-  },
-  {
-   "location": "377/TALK",
-   "narrator": "つばめ",
-   "text": "ァーヤさんにわたし達のことを聞かれたんだけど"
-  },
-  {
-   "location": "378/TALK",
-   "narrator": "つばめ",
-   "text": "$handle$さんはどぅ思ぅ？(´・ω・`) ",
-   "zh": "$handle$觉得呢？(´･ω･`)",
-   "narrator_zh": "燕"
-  },
-  {
-   "location": "379/TALK",
-   "narrator": "つばめ",
-   "text": "人間なのがわかってから"
-  },
-  {
-   "location": "380/TALK",
-   "narrator": "つばめ",
-   "text": "何か変わった気する？(´ω｀*)"
-  },
-  {
-   "location": "382/SEL",
-   "narrator": "",
-   "text": "ラブラブだよね",
-   "zh": "真是恩爱啊",
-   "narrator_zh": ""
-  },
-  {
-   "location": "383/SEL",
-   "narrator": "",
-   "text": "友達にはなれたよね",
-   "zh": "我们算得上是朋友了吧",
-   "narrator_zh": ""
-  },
-  {
-   "location": "384/SEL",
-   "narrator": "",
-   "text": "仲良くなれたつもりだけど",
-   "zh": "我觉得我们关系已经不错了",
-   "narrator_zh": ""
-  },
-  {
-   "location": "385/ACT",
-   "narrator": "",
-   "text": "ラブラブだよね",
-   "zh": "真是恩爱啊",
-   "narrator_zh": ""
-  },
-  {
-   "location": "386/TALK",
-   "narrator": "つばめ",
-   "text": "そぅ？",
-   "zh": "是吗？",
-   "narrator_zh": "燕"
-  },
-  {
-   "location": "387/TALK",
-   "narrator": "つばめ",
-   "text": "仲良しってことだね(´∀｀*)ｳﾌﾌ"
-  },
-  {
-   "location": "388/TALK",
-   "narrator": "つばめ",
-   "text": "ぁりがと(*≧∀≦*) ",
-   "zh": "谢谢(*≧∀≦*)",
-   "narrator_zh": "燕"
-  },
-  {
-   "location": "389/ACT",
-   "narrator": "",
-   "text": "友達にはなれたよね",
-   "zh": "我们算得上是朋友了吧",
-   "narrator_zh": ""
-  },
-  {
-   "location": "390/TALK",
-   "narrator": "つばめ",
-   "text": "そぅ思ってくれてるの？",
-   "zh": "你是这么想的？",
-   "narrator_zh": "燕"
-  },
-  {
-   "location": "391/TALK",
-   "narrator": "つばめ",
-   "text": "ぅれしぃ(*≧∀≦*) "
-  },
-  {
-   "location": "392/ACT",
-   "narrator": "",
-   "text": "仲良くなれたつもりだけど",
-   "zh": "我觉得我们关系已经不错了",
-   "narrator_zh": ""
-  },
-  {
-   "location": "393/TALK",
-   "narrator": "つばめ",
-   "text": "わたしも同じ気持ちだよ"
-  },
-  {
-   "location": "394/TALK",
-   "narrator": "つばめ",
-   "text": "ぅれしぃな(*≧∀≦*) "
-  },
-  {
-   "location": "406/TALK",
-   "narrator": "アーヤ",
-   "text": "つばめ、どうだった？",
-   "zh": "燕，怎么样？",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "408/TALK",
-   "narrator": "つばめ",
-   "text": "えっとですね。\nやっぱり仲良しみたい\nです。"
-  },
-  {
-   "location": "411/TALK",
-   "narrator": "みやび",
-   "text": "よし、うちも\n聞いてみるちや。"
-  },
-  {
-   "location": "424/TALK",
-   "narrator": "みやび",
-   "text": "すっと答えい"
-  },
-  {
-   "location": "425/TALK",
-   "narrator": "みやび",
-   "text": "我らの関係に変化はみられるか"
-  },
-  {
-   "location": "426/TALK",
-   "narrator": "みやび",
-   "text": "どう思う？",
-   "zh": "你觉得呢？",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "428/SEL",
-   "narrator": "",
-   "text": "ラブラブだよね",
-   "zh": "真是恩爱啊",
-   "narrator_zh": ""
-  },
-  {
-   "location": "429/SEL",
-   "narrator": "",
-   "text": "友達にはなれたよね",
-   "zh": "我们算得上是朋友了吧",
-   "narrator_zh": ""
-  },
-  {
-   "location": "430/SEL",
-   "narrator": "",
-   "text": "仲良くなれたつもりだけど",
-   "zh": "我觉得我们关系已经不错了",
-   "narrator_zh": ""
-  },
-  {
-   "location": "431/ACT",
-   "narrator": "",
-   "text": "ラブラブだよね",
-   "zh": "真是恩爱啊",
-   "narrator_zh": ""
-  },
-  {
-   "location": "432/TALK",
-   "narrator": "みやび",
-   "text": "恥ずかしいセリフを平然と言う"
-  },
-  {
-   "location": "433/TALK",
-   "narrator": "みやび",
-   "text": "恥が無いのかチャラいのか"
-  },
-  {
-   "location": "434/TALK",
-   "narrator": "みやび",
-   "text": "恐ろしい人よ"
-  },
-  {
-   "location": "435/ACT",
-   "narrator": "",
-   "text": "友達にはなれたよね",
-   "zh": "我们算得上是朋友了吧",
-   "narrator_zh": ""
-  },
-  {
-   "location": "436/TALK",
-   "narrator": "みやび",
-   "text": "ほう",
-   "zh": "嚯",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "437/TALK",
-   "narrator": "みやび",
-   "text": "そう思うてるんか",
-   "zh": "你是这么想的啊",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "438/TALK",
-   "narrator": "みやび",
-   "text": "興味深い感想や"
-  },
-  {
-   "location": "439/ACT",
-   "narrator": "",
-   "text": "仲良くなれたつもりだけど",
-   "zh": "我觉得我们关系已经不错了",
-   "narrator_zh": ""
-  },
-  {
-   "location": "440/TALK",
-   "narrator": "みやび",
-   "text": "何と奇遇"
-  },
-  {
-   "location": "441/TALK",
-   "narrator": "みやび",
-   "text": "我もそんなつもりやった"
-  },
-  {
-   "location": "442/TALK",
-   "narrator": "みやび",
-   "text": "つもり、な",
-   "zh": "大概是，那个",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "454/TALK",
-   "narrator": "みやび",
-   "text": "ふむ…我も嫌われては\nおらんようやね。"
-  },
-  {
-   "location": "457/TALK",
-   "narrator": "つばめ",
-   "text": "よかったですね、\nみやびさん。"
-  },
-  {
-   "location": "459/TALK",
-   "narrator": "みやび",
-   "text": "別に、良くはない\nけんどね。"
-  },
-  {
-   "location": "462/TALK",
-   "narrator": "ガブリエラ",
-   "text": "…………。"
-  },
-  {
-   "location": "474/TALK",
-   "narrator": "ガブリエラ",
-   "text": "$handle$、質問があるの",
-   "zh": "$handle$，我有个问题",
-   "narrator_zh": "加布里埃拉"
-  },
-  {
-   "location": "475/TALK",
-   "narrator": "ガブリエラ",
-   "text": "あなたが人間とわかってから、今日まで"
-  },
-  {
-   "location": "476/TALK",
-   "narrator": "ガブリエラ",
-   "text": "私達、上手くやれていると思う？"
-  },
-  {
-   "location": "478/SEL",
-   "narrator": "",
-   "text": "ラブラブだよね",
-   "zh": "真是恩爱啊",
-   "narrator_zh": ""
-  },
-  {
-   "location": "479/SEL",
-   "narrator": "",
-   "text": "友達にはなれたよね",
-   "zh": "我们算得上是朋友了吧",
-   "narrator_zh": ""
-  },
-  {
-   "location": "480/SEL",
-   "narrator": "",
-   "text": "仲良くなれたつもりだけど",
-   "zh": "我觉得我们关系已经不错了",
-   "narrator_zh": ""
-  },
-  {
-   "location": "481/ACT",
-   "narrator": "",
-   "text": "ラブラブだよね",
-   "zh": "真是恩爱啊",
-   "narrator_zh": ""
-  },
-  {
-   "location": "482/TALK",
-   "narrator": "ガブリエラ",
-   "text": "違うわ",
-   "zh": "才不是",
-   "narrator_zh": "加布里埃拉"
-  },
-  {
-   "location": "484/TALK",
-   "narrator": "ガブリエラ",
-   "text": "っていうか",
-   "zh": "话说",
-   "narrator_zh": "加布里埃拉"
-  },
-  {
-   "location": "485/TALK",
-   "narrator": "ガブリエラ",
-   "text": "みんなにも同じようなこと言ってたわけね"
-  },
-  {
-   "location": "486/ACT",
-   "narrator": "",
-   "text": "友達にはなれたよね",
-   "zh": "我们算得上是朋友了吧",
-   "narrator_zh": ""
-  },
-  {
-   "location": "487/TALK",
-   "narrator": "ガブリエラ",
-   "text": "ふーん",
-   "zh": "嗯——",
-   "narrator_zh": "加布里埃拉"
-  },
-  {
-   "location": "488/TALK",
-   "narrator": "ガブリエラ",
-   "text": "そういうことにしておいてあげるわ",
-   "zh": "就当是那样吧",
-   "narrator_zh": "加布里埃拉"
-  },
-  {
-   "location": "489/TALK",
-   "narrator": "ガブリエラ",
-   "text": "一応ね",
-   "zh": "算是吧",
-   "narrator_zh": "加布里埃拉"
-  },
-  {
-   "location": "490/ACT",
-   "narrator": "",
-   "text": "仲良くなれたつもりだけど",
-   "zh": "我觉得我们关系已经不错了",
-   "narrator_zh": ""
-  },
-  {
-   "location": "491/TALK",
-   "narrator": "ガブリエラ",
-   "text": "そう",
-   "zh": "对",
-   "narrator_zh": "加布里埃拉"
-  },
-  {
-   "location": "492/TALK",
-   "narrator": "ガブリエラ",
-   "text": "あなたはそう思ってる、ってわけね"
-  },
-  {
-   "location": "494/TALK",
-   "narrator": "ガブリエラ",
-   "text": "それにしても",
-   "zh": "话说",
-   "narrator_zh": "加布里埃拉"
-  },
-  {
-   "location": "495/TALK",
-   "narrator": "ガブリエラ",
-   "text": "全員から同じような質問されて"
-  },
-  {
-   "location": "496/TALK",
-   "narrator": "ガブリエラ",
-   "text": "ちゃんとそれに答えるなんて",
-   "zh": "居然能好好回应那个",
-   "narrator_zh": "加布里埃拉"
-  },
-  {
-   "location": "497/TALK",
-   "narrator": "ガブリエラ",
-   "text": "律儀というか、なんというか…"
-  },
-  {
-   "location": "509/TALK",
-   "narrator": "ガブリエラ",
-   "text": "はぁ…。",
-   "zh": "哈啊……。",
-   "narrator_zh": "加布里埃拉"
-  },
-  {
-   "location": "511/TALK",
-   "narrator": "つばめ",
-   "text": "ガブちゃん、\nどうかしたんですか？"
-  },
-  {
-   "location": "513/TALK",
-   "narrator": "みやび",
-   "text": "Ｂｏｔに悪口でも\n言われたが？"
-  },
-  {
-   "location": "515/TALK",
-   "narrator": "ガブリエラ",
-   "text": "違うわよ。",
-   "zh": "不是的哦。",
-   "narrator_zh": "加布里埃拉"
-  },
-  {
-   "location": "517/TALK",
-   "narrator": "ガブリエラ",
-   "text": "器用だな、って\n思っただけよ。"
-  },
-  {
-   "location": "521/TALK",
-   "narrator": "アーヤ",
-   "text": "器用？"
-  },
-  {
-   "location": "523/TALK",
-   "narrator": "ガブリエラ",
-   "text": "なんでもない！",
-   "zh": "没什么！",
-   "narrator_zh": "加布里埃拉"
-  }
- ]
+    "dir": "dramatics/daydra/drm_ch03_00_200.js",
+    "type": "Episode",
+    "info": {
+        "story_id": "3020",
+        "cid": "gabriella",
+        "title": "らぶとーく  第20話",
+        "sub_title": "ほら、やっぱりね",
+        "title_zh": "恋爱漫谈 第20话",
+        "sub_title_zh": "看吧，果然"
+    },
+    "entry": [
+        {
+            "location": "327/SCENARIO",
+            "narrator": "",
+            "text": "ほら、やっぱりね",
+            "zh": "看吧，果然"
+        },
+        {
+            "location": "341/TALK",
+            "narrator": "アーヤ",
+            "text": "…そういえば――",
+            "zh": "……这么说——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "342/TALK",
+            "narrator": "アーヤ",
+            "text": "みんな、あれから\nどうなった？",
+            "zh": "大家，那之后\n怎么样了？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "345/TALK",
+            "narrator": "つばめ",
+            "text": "何がですか？",
+            "zh": "什么呀？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "347/TALK",
+            "narrator": "ガブリエラ",
+            "text": "何がって…アーヤが\nこうやって切り出す\nことといったら――",
+            "zh": "什么……绫水\n这样开口\n的话——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "348/TALK",
+            "narrator": "ガブリエラ",
+            "text": "Ｂｏｔのこと以外\nないじゃない。",
+            "zh": "除了Bot的事\n没有别的吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "350/TALK",
+            "narrator": "つばめ",
+            "text": "ああ、そっか。",
+            "zh": "啊，对哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "353/TALK",
+            "narrator": "アーヤ",
+            "text": "その通りよ。",
+            "zh": "确实如此。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "354/TALK",
+            "narrator": "アーヤ",
+            "text": "あれから、どう？\nＢｏｔとの仲に、\n折り合いはついた？",
+            "zh": "那之后，怎么样？\n和Bot的关系，\n合得来了吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "356/TALK",
+            "narrator": "つばめ",
+            "text": "うーん…",
+            "zh": "嗯——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "357/TALK",
+            "narrator": "つばめ",
+            "text": "わたしは前より\n仲良くなったかな。",
+            "zh": "我比以前\n更要好了吧。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "360/TALK",
+            "narrator": "みやび",
+            "text": "つばめちゃんらしい\n答えやね。",
+            "zh": "很像燕的\n回答呢。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "362/TALK",
+            "narrator": "みやび",
+            "text": "まあ、うちは元々、\n人間やないか疑うて\n相手してたきね。",
+            "zh": "嘛，我本来就是\n怀疑是不是人，\n才这么相处的啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "363/TALK",
+            "narrator": "みやび",
+            "text": "そう変わったことは\nなかったと思うけんど。",
+            "zh": "我觉得没什么\n变化咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "364/TALK",
+            "narrator": "つばめ",
+            "text": "…$handle$さんにも\nちょっと聞いてみます。",
+            "zh": "……也稍微问问\n$handle$。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "376/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さーん",
+            "zh": "$handle$——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "377/TALK",
+            "narrator": "つばめ",
+            "text": "ァーヤさんにわたし達のことを聞かれたんだけど",
+            "zh": "绫水问了我们的事",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "378/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんはどぅ思ぅ？(´・ω・`) ",
+            "zh": "$handle$觉得呢？(´･ω･`)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "379/TALK",
+            "narrator": "つばめ",
+            "text": "人間なのがわかってから",
+            "zh": "知道是人类之后",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "380/TALK",
+            "narrator": "つばめ",
+            "text": "何か変わった気する？(´ω｀*)",
+            "zh": "有觉得什么变了吗？(´ω｀*)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "382/SEL",
+            "narrator": "",
+            "text": "ラブラブだよね",
+            "zh": "真是恩爱啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "383/SEL",
+            "narrator": "",
+            "text": "友達にはなれたよね",
+            "zh": "我们算得上是朋友了吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "384/SEL",
+            "narrator": "",
+            "text": "仲良くなれたつもりだけど",
+            "zh": "我觉得我们关系已经不错了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "385/ACT",
+            "narrator": "",
+            "text": "ラブラブだよね",
+            "zh": "真是恩爱啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "386/TALK",
+            "narrator": "つばめ",
+            "text": "そぅ？",
+            "zh": "是吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "387/TALK",
+            "narrator": "つばめ",
+            "text": "仲良しってことだね(´∀｀*)ｳﾌﾌ",
+            "zh": "就是关系好的意思吧(´∀｀*)ｳﾌﾌ",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "388/TALK",
+            "narrator": "つばめ",
+            "text": "ぁりがと(*≧∀≦*) ",
+            "zh": "谢谢(*≧∀≦*)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "389/ACT",
+            "narrator": "",
+            "text": "友達にはなれたよね",
+            "zh": "我们算得上是朋友了吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "390/TALK",
+            "narrator": "つばめ",
+            "text": "そぅ思ってくれてるの？",
+            "zh": "你是这么想的？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "391/TALK",
+            "narrator": "つばめ",
+            "text": "ぅれしぃ(*≧∀≦*) ",
+            "zh": "好开心(*≧∀≦*)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "392/ACT",
+            "narrator": "",
+            "text": "仲良くなれたつもりだけど",
+            "zh": "我觉得我们关系已经不错了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "393/TALK",
+            "narrator": "つばめ",
+            "text": "わたしも同じ気持ちだよ",
+            "zh": "我也是同样的心情",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "394/TALK",
+            "narrator": "つばめ",
+            "text": "ぅれしぃな(*≧∀≦*) ",
+            "zh": "好开心呀(*≧∀≦*)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "406/TALK",
+            "narrator": "アーヤ",
+            "text": "つばめ、どうだった？",
+            "zh": "燕，怎么样？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "408/TALK",
+            "narrator": "つばめ",
+            "text": "えっとですね。\nやっぱり仲良しみたい\nです。",
+            "zh": "那个。\n果然像是关系很好\n的样子。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "411/TALK",
+            "narrator": "みやび",
+            "text": "よし、うちも\n聞いてみるちや。",
+            "zh": "好，我也\n去问问滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "424/TALK",
+            "narrator": "みやび",
+            "text": "すっと答えい",
+            "zh": "给我干脆地答",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "425/TALK",
+            "narrator": "みやび",
+            "text": "我らの関係に変化はみられるか",
+            "zh": "我等的关系可有变化",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "426/TALK",
+            "narrator": "みやび",
+            "text": "どう思う？",
+            "zh": "你觉得呢？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "428/SEL",
+            "narrator": "",
+            "text": "ラブラブだよね",
+            "zh": "真是恩爱啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "429/SEL",
+            "narrator": "",
+            "text": "友達にはなれたよね",
+            "zh": "我们算得上是朋友了吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "430/SEL",
+            "narrator": "",
+            "text": "仲良くなれたつもりだけど",
+            "zh": "我觉得我们关系已经不错了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "431/ACT",
+            "narrator": "",
+            "text": "ラブラブだよね",
+            "zh": "真是恩爱啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "432/TALK",
+            "narrator": "みやび",
+            "text": "恥ずかしいセリフを平然と言う",
+            "zh": "脸不红地说着害羞的台词",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "433/TALK",
+            "narrator": "みやび",
+            "text": "恥が無いのかチャラいのか",
+            "zh": "是不知羞耻，还是轻浮",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "434/TALK",
+            "narrator": "みやび",
+            "text": "恐ろしい人よ",
+            "zh": "可怕的人",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "435/ACT",
+            "narrator": "",
+            "text": "友達にはなれたよね",
+            "zh": "我们算得上是朋友了吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "436/TALK",
+            "narrator": "みやび",
+            "text": "ほう",
+            "zh": "嚯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "437/TALK",
+            "narrator": "みやび",
+            "text": "そう思うてるんか",
+            "zh": "你是这么想的啊",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "438/TALK",
+            "narrator": "みやび",
+            "text": "興味深い感想や",
+            "zh": "蛮有意思的感想咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "439/ACT",
+            "narrator": "",
+            "text": "仲良くなれたつもりだけど",
+            "zh": "我觉得我们关系已经不错了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "440/TALK",
+            "narrator": "みやび",
+            "text": "何と奇遇",
+            "zh": "真是巧合",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "441/TALK",
+            "narrator": "みやび",
+            "text": "我もそんなつもりやった",
+            "zh": "我本来也是这么打算的咯",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "442/TALK",
+            "narrator": "みやび",
+            "text": "つもり、な",
+            "zh": "大概是，那个",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "454/TALK",
+            "narrator": "みやび",
+            "text": "ふむ…我も嫌われては\nおらんようやね。",
+            "zh": "嗯……我好像\n也没被讨厌咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "457/TALK",
+            "narrator": "つばめ",
+            "text": "よかったですね、\nみやびさん。",
+            "zh": "太好了呢，\n雅。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "459/TALK",
+            "narrator": "みやび",
+            "text": "別に、良くはない\nけんどね。",
+            "zh": "也没什么好的，\n但是呢。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "462/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "474/TALK",
+            "narrator": "ガブリエラ",
+            "text": "$handle$、質問があるの",
+            "zh": "$handle$，我有个问题",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "475/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あなたが人間とわかってから、今日まで",
+            "zh": "从知道你是人类到今天",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "476/TALK",
+            "narrator": "ガブリエラ",
+            "text": "私達、上手くやれていると思う？",
+            "zh": "我们，算相处得不错吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "478/SEL",
+            "narrator": "",
+            "text": "ラブラブだよね",
+            "zh": "真是恩爱啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "479/SEL",
+            "narrator": "",
+            "text": "友達にはなれたよね",
+            "zh": "我们算得上是朋友了吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "480/SEL",
+            "narrator": "",
+            "text": "仲良くなれたつもりだけど",
+            "zh": "我觉得我们关系已经不错了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "481/ACT",
+            "narrator": "",
+            "text": "ラブラブだよね",
+            "zh": "真是恩爱啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "482/TALK",
+            "narrator": "ガブリエラ",
+            "text": "違うわ",
+            "zh": "才不是",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "484/TALK",
+            "narrator": "ガブリエラ",
+            "text": "っていうか",
+            "zh": "话说",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "485/TALK",
+            "narrator": "ガブリエラ",
+            "text": "みんなにも同じようなこと言ってたわけね",
+            "zh": "对大家也说了差不多的话吧",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "486/ACT",
+            "narrator": "",
+            "text": "友達にはなれたよね",
+            "zh": "我们算得上是朋友了吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "487/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ふーん",
+            "zh": "嗯——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "488/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そういうことにしておいてあげるわ",
+            "zh": "就当是那样吧",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "489/TALK",
+            "narrator": "ガブリエラ",
+            "text": "一応ね",
+            "zh": "算是吧",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "490/ACT",
+            "narrator": "",
+            "text": "仲良くなれたつもりだけど",
+            "zh": "我觉得我们关系已经不错了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "491/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そう",
+            "zh": "对",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "492/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あなたはそう思ってる、ってわけね",
+            "zh": "你是这么想的，是吧",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "494/TALK",
+            "narrator": "ガブリエラ",
+            "text": "それにしても",
+            "zh": "话说",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "495/TALK",
+            "narrator": "ガブリエラ",
+            "text": "全員から同じような質問されて",
+            "zh": "被所有人问了差不多的问题",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "496/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ちゃんとそれに答えるなんて",
+            "zh": "居然能好好回应那个",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "497/TALK",
+            "narrator": "ガブリエラ",
+            "text": "律儀というか、なんというか…",
+            "zh": "说是老实，还是说什么好……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "509/TALK",
+            "narrator": "ガブリエラ",
+            "text": "はぁ…。",
+            "zh": "哈啊……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "511/TALK",
+            "narrator": "つばめ",
+            "text": "ガブちゃん、\nどうかしたんですか？",
+            "zh": "加布，\n怎么了吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "513/TALK",
+            "narrator": "みやび",
+            "text": "Ｂｏｔに悪口でも\n言われたが？",
+            "zh": "被Bot说\n坏话了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "515/TALK",
+            "narrator": "ガブリエラ",
+            "text": "違うわよ。",
+            "zh": "不是的哦。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "517/TALK",
+            "narrator": "ガブリエラ",
+            "text": "器用だな、って\n思っただけよ。",
+            "zh": "只是觉得，\n真灵巧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "521/TALK",
+            "narrator": "アーヤ",
+            "text": "器用？",
+            "zh": "灵巧？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "523/TALK",
+            "narrator": "ガブリエラ",
+            "text": "なんでもない！",
+            "zh": "没什么！",
+            "narrator_zh": "加布里埃拉"
+        }
+    ]
 }

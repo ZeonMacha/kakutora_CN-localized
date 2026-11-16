@@ -1,535 +1,609 @@
 {
- "dir": "dramatics/daydra/drm_ch02_00_330.js",
- "type": "Episode",
- "info": {
-  "story_id": "2033",
-  "cid": "ayami",
-  "title": "らぶとーく 第33話",
-  "sub_title": "彼氏の役目"
- },
- "entry": [
-  {
-   "location": "269/SCENARIO",
-   "narrator": "",
-   "text": "彼氏の役目"
-  },
-  {
-   "location": "280/TALK",
-   "narrator": "アーヤ",
-   "text": "うーん…、\nどれがいいかしら？"
-  },
-  {
-   "location": "281/TALK",
-   "narrator": "アーヤ",
-   "text": "これは前に着たし、\nこっちのは今回はちょっと\n合わない気がするし…。",
-   "zh": "这件之前穿过，\n这件这次感觉\n不太合适……。",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "282/TALK",
-   "narrator": "アーヤ",
-   "text": "…作る？",
-   "zh": "……做吗？",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "283/TALK",
-   "narrator": "アーヤ",
-   "text": "いやいや、無理でしょ。\n今からじゃさすがに時間も\n足りないし…。"
-  },
-  {
-   "location": "285/TALK",
-   "narrator": "アーヤ",
-   "text": "…………。"
-  },
-  {
-   "location": "297/TALK",
-   "narrator": "アーヤ",
-   "text": "$handle$さん",
-   "zh": "$handle$",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "298/TALK",
-   "narrator": "アーヤ",
-   "text": "相談があるんだけど"
-  },
-  {
-   "location": "299/TALK",
-   "narrator": "アーヤ",
-   "text": "今って平気？ヾ(･･ )"
-  },
-  {
-   "location": "301/SEL",
-   "narrator": "",
-   "text": "悩んでるみたいだね",
-   "zh": "好像挺烦恼的",
-   "narrator_zh": ""
-  },
-  {
-   "location": "302/ACT",
-   "narrator": "",
-   "text": "悩んでるみたいだね",
-   "zh": "好像挺烦恼的",
-   "narrator_zh": ""
-  },
-  {
-   "location": "304/TALK",
-   "narrator": "アーヤ",
-   "text": "見てたの？"
-  },
-  {
-   "location": "305/TALK",
-   "narrator": "アーヤ",
-   "text": "なんか恥ずかしい(*^^*)",
-   "zh": "总觉得不好意思(*^^*)",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "306/TALK",
-   "narrator": "アーヤ",
-   "text": "あのね",
-   "zh": "那个啊",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "307/TALK",
-   "narrator": "アーヤ",
-   "text": "今度ボランティアで着ていく服なんだけど"
-  },
-  {
-   "location": "308/TALK",
-   "narrator": "アーヤ",
-   "text": "どんなのにするか悩んでるの",
-   "zh": "我在烦恼要什么样的",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "309/TALK",
-   "narrator": "アーヤ",
-   "text": "動きやすさ優先か"
-  },
-  {
-   "location": "310/TALK",
-   "narrator": "アーヤ",
-   "text": "アップリケとか付いた子供向けか"
-  },
-  {
-   "location": "311/TALK",
-   "narrator": "アーヤ",
-   "text": "劇に合わせたヒラヒラ系か"
-  },
-  {
-   "location": "312/TALK",
-   "narrator": "アーヤ",
-   "text": "どうしたらいいと思う？（￣ー￣？）",
-   "zh": "你觉得该怎么办？(￣▽￣？)",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "314/SEL",
-   "narrator": "",
-   "text": "$me$がアドバイスしていいの？",
-   "zh": "$me$可以给点建议吗？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "315/ACT",
-   "narrator": "",
-   "text": "$me$がアドバイスしていいの？",
-   "zh": "$me$可以给点建议吗？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "317/TALK",
-   "narrator": "アーヤ",
-   "text": "もちろん(*^o^*)"
-  },
-  {
-   "location": "318/TALK",
-   "narrator": "アーヤ",
-   "text": "ぜひ意見が聞きたいわ",
-   "zh": "很想听听你的意见",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "321/SEL",
-   "narrator": "",
-   "text": "好きにすれば",
-   "zh": "随你便",
-   "narrator_zh": ""
-  },
-  {
-   "location": "322/SEL",
-   "narrator": "",
-   "text": "全部似合いそうで迷う",
-   "zh": "好像全都合适，真犹豫",
-   "narrator_zh": ""
-  },
-  {
-   "location": "323/SEL",
-   "narrator": "",
-   "text": "いっそ着ない",
-   "zh": "干脆不穿算了",
-   "narrator_zh": ""
-  },
-  {
-   "location": "324/ACT",
-   "narrator": "",
-   "text": "好きにすれば",
-   "zh": "随你便",
-   "narrator_zh": ""
-  },
-  {
-   "location": "325/TALK",
-   "narrator": "アーヤ",
-   "text": "え？",
-   "zh": "诶？",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "327/TALK",
-   "narrator": "アーヤ",
-   "text": "冷たい(>_<)"
-  },
-  {
-   "location": "328/TALK",
-   "narrator": "アーヤ",
-   "text": "何かしら選んでくれると思ったのに"
-  },
-  {
-   "location": "330/SEL",
-   "narrator": "",
-   "text": "適当過ぎた？",
-   "zh": "太随便了？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "331/ACT",
-   "narrator": "",
-   "text": "適当過ぎた？",
-   "zh": "太随便了？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "334/TALK",
-   "narrator": "アーヤ",
-   "text": "ちょっとね",
-   "zh": "有点吧",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "335/TALK",
-   "narrator": "アーヤ",
-   "text": "でも",
-   "zh": "不过",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "336/TALK",
-   "narrator": "アーヤ",
-   "text": "そのくらいクールな方がいいのかも(^з^)―☆",
-   "zh": "也许那么冷静一点比较好(^з^)―☆",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "337/ACT",
-   "narrator": "",
-   "text": "全部似合いそうで迷う",
-   "zh": "好像全都合适，真犹豫",
-   "narrator_zh": ""
-  },
-  {
-   "location": "339/TALK",
-   "narrator": "アーヤ",
-   "text": "あら優しい"
-  },
-  {
-   "location": "340/TALK",
-   "narrator": "アーヤ",
-   "text": "そう言ってもらえると嬉しいわ(*^o^*)",
-   "zh": "你能这么说我很高兴(*^o^*)",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "342/TALK",
-   "narrator": "アーヤ",
-   "text": "まあ",
-   "zh": "嗯",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "343/TALK",
-   "narrator": "アーヤ",
-   "text": "ちょっと優柔不断っぽくも感じるけど",
-   "zh": "感觉也有点优柔寡断",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "345/SEL",
-   "narrator": "",
-   "text": "いっそ着ない",
-   "zh": "干脆不穿算了",
-   "narrator_zh": ""
-  },
-  {
-   "location": "346/ACT",
-   "narrator": "",
-   "text": "いっそ着ない",
-   "zh": "干脆不穿算了",
-   "narrator_zh": ""
-  },
-  {
-   "location": "349/TALK",
-   "narrator": "アーヤ",
-   "text": "普段着で、ってこと？"
-  },
-  {
-   "location": "351/SEL",
-   "narrator": "",
-   "text": "いや…そうじゃなくて…",
-   "zh": "不……不是那个意思……",
-   "narrator_zh": ""
-  },
-  {
-   "location": "352/ACT",
-   "narrator": "",
-   "text": "いや…そうじゃなくて…",
-   "zh": "不……不是那个意思……",
-   "narrator_zh": ""
-  },
-  {
-   "location": "355/TALK",
-   "narrator": "アーヤ",
-   "text": "酷い！(--#)"
-  },
-  {
-   "location": "357/TALK",
-   "narrator": "アーヤ",
-   "text": "もうちょっと",
-   "zh": "再稍微",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "358/TALK",
-   "narrator": "アーヤ",
-   "text": "本気で考えてみてよ"
-  },
-  {
-   "location": "361/TALK",
-   "narrator": "アーヤ",
-   "text": "話に付き合ってくれてありがと"
-  },
-  {
-   "location": "363/SEL",
-   "narrator": "",
-   "text": "まだ聞きたいことあるんじゃない？",
-   "zh": "你不是还有想问的吗？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "364/ACT",
-   "narrator": "",
-   "text": "まだ聞きたいことあるんじゃない？",
-   "zh": "你不是还有想问的吗？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "366/TALK",
-   "narrator": "アーヤ",
-   "text": "何かあったっけ？",
-   "zh": "发生过什么吗？",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "368/SEL",
-   "narrator": "",
-   "text": "$me$に彼氏みたいな真似させてそれ？",
-   "zh": "就是让$me$装成男朋友那件事？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "369/ACT",
-   "narrator": "",
-   "text": "$me$に彼氏みたいな真似させてそれ？",
-   "zh": "就是让$me$装成男朋友那件事？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "371/TALK",
-   "narrator": "アーヤ",
-   "text": "あ",
-   "zh": "啊",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "372/TALK",
-   "narrator": "アーヤ",
-   "text": "彼氏"
-  },
-  {
-   "location": "373/TALK",
-   "narrator": "アーヤ",
-   "text": "彼氏ねー？"
-  },
-  {
-   "location": "375/SEL",
-   "narrator": "",
-   "text": "言うことあるでしょ？",
-   "zh": "你有话要说吧？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "376/ACT",
-   "narrator": "",
-   "text": "言うことあるでしょ？",
-   "zh": "你有话要说吧？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "378/TALK",
-   "narrator": "アーヤ",
-   "text": "ええと",
-   "zh": "那个",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "380/TALK",
-   "narrator": "アーヤ",
-   "text": "似合うかしら？"
-  },
-  {
-   "location": "382/SEL",
-   "narrator": "",
-   "text": "最高"
-  },
-  {
-   "location": "383/SEL",
-   "narrator": "",
-   "text": "うーん……",
-   "zh": "嗯……",
-   "narrator_zh": ""
-  },
-  {
-   "location": "384/SEL",
-   "narrator": "",
-   "text": "$me$色に染まったね",
-   "zh": "被染成$me$的颜色了呢",
-   "narrator_zh": ""
-  },
-  {
-   "location": "385/ACT",
-   "narrator": "",
-   "text": "最高"
-  },
-  {
-   "location": "386/TALK",
-   "narrator": "アーヤ",
-   "text": "もう",
-   "zh": "真是的",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "387/TALK",
-   "narrator": "アーヤ",
-   "text": "照れちゃうわ"
-  },
-  {
-   "location": "388/ACT",
-   "narrator": "",
-   "text": "うーん……",
-   "zh": "嗯……",
-   "narrator_zh": ""
-  },
-  {
-   "location": "389/TALK",
-   "narrator": "アーヤ",
-   "text": "こらこら",
-   "zh": "好啦好啦",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "390/TALK",
-   "narrator": "アーヤ",
-   "text": "そこはほめるところよ？",
-   "zh": "那里是该夸奖的地方哦？",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "391/ACT",
-   "narrator": "",
-   "text": "$me$色に染まったね",
-   "zh": "被染成$me$的颜色了呢",
-   "narrator_zh": ""
-  },
-  {
-   "location": "392/TALK",
-   "narrator": "アーヤ",
-   "text": "時代錯誤ね！"
-  },
-  {
-   "location": "393/TALK",
-   "narrator": "アーヤ",
-   "text": "嫌いじゃないけど",
-   "zh": "虽然不讨厌",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "395/TALK",
-   "narrator": "アーヤ",
-   "text": "なんてね",
-   "zh": "开玩笑的",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "396/TALK",
-   "narrator": "アーヤ",
-   "text": "あとは自分で決めるから"
-  },
-  {
-   "location": "397/TALK",
-   "narrator": "アーヤ",
-   "text": "楽しかったわ"
-  },
-  {
-   "location": "399/TALK",
-   "narrator": "アーヤ",
-   "text": "彼氏ゴッコ(^з^)-☆"
-  },
-  {
-   "location": "412/TALK",
-   "narrator": "アーヤ",
-   "text": "…………。"
-  },
-  {
-   "location": "413/TALK",
-   "narrator": "アーヤ",
-   "text": "本当に彼氏がいたら、\nやっぱりこんな感じの\n毎日なのかしら？"
-  },
-  {
-   "location": "425/TALK",
-   "narrator": "アーヤ",
-   "text": "彼女からのメッセージよ"
-  },
-  {
-   "location": "427/TALK",
-   "narrator": "アーヤ",
-   "text": "受け取ってね☆"
-  },
-  {
-   "location": "430/TALK",
-   "narrator": "ボイスメール",
-   "text": "声が聞きたくて（なんて）"
-  },
-  {
-   "location": "278/DIALOG",
-   "narrator": "Dialog_EventData",
-   "text": "<color=green>某月某日　9:43 PM</color>\nとある平日の夜、寮「とらいあんぐる」アーヤの部屋にて。"
-  },
-  {
-   "location": "442/DIALOG",
-   "narrator": "Dialog_GETVoice",
-   "text": "<color=green>【アーヤ】</color>のボイスメール\n<color=red>【声が聞きたくて（なんて）】</color>\nをゲットしました！"
-  }
- ]
+    "dir": "dramatics/daydra/drm_ch02_00_330.js",
+    "type": "Episode",
+    "info": {
+        "story_id": "2033",
+        "cid": "ayami",
+        "title": "らぶとーく 第33話",
+        "sub_title": "彼氏の役目",
+        "title_zh": "恋爱漫谈 第33话",
+        "sub_title_zh": "男朋友的职责"
+    },
+    "entry": [
+        {
+            "location": "269/SCENARIO",
+            "narrator": "",
+            "text": "彼氏の役目",
+            "zh": "男朋友的职责",
+            "narrator_zh": ""
+        },
+        {
+            "location": "280/TALK",
+            "narrator": "アーヤ",
+            "text": "うーん…、\nどれがいいかしら？",
+            "zh": "嗯……\n选哪个好呢？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "281/TALK",
+            "narrator": "アーヤ",
+            "text": "これは前に着たし、\nこっちのは今回はちょっと\n合わない気がするし…。",
+            "zh": "这件之前穿过，\n这件这次感觉\n不太合适……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "282/TALK",
+            "narrator": "アーヤ",
+            "text": "…作る？",
+            "zh": "……做吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "283/TALK",
+            "narrator": "アーヤ",
+            "text": "いやいや、無理でしょ。\n今からじゃさすがに時間も\n足りないし…。",
+            "zh": "不是不是，不行吧。\n现在开始时间\n也来不及……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "285/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "297/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$さん",
+            "zh": "$handle$",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "298/TALK",
+            "narrator": "アーヤ",
+            "text": "相談があるんだけど",
+            "zh": "有件事想商量",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "299/TALK",
+            "narrator": "アーヤ",
+            "text": "今って平気？ヾ(･･ )",
+            "zh": "现在方便吗？ヾ(･･ )",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "301/SEL",
+            "narrator": "",
+            "text": "悩んでるみたいだね",
+            "zh": "好像挺烦恼的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "302/ACT",
+            "narrator": "",
+            "text": "悩んでるみたいだね",
+            "zh": "好像挺烦恼的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "304/TALK",
+            "narrator": "アーヤ",
+            "text": "見てたの？",
+            "zh": "你看见了？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "305/TALK",
+            "narrator": "アーヤ",
+            "text": "なんか恥ずかしい(*^^*)",
+            "zh": "总觉得不好意思(*^^*)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "306/TALK",
+            "narrator": "アーヤ",
+            "text": "あのね",
+            "zh": "那个啊",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "307/TALK",
+            "narrator": "アーヤ",
+            "text": "今度ボランティアで着ていく服なんだけど",
+            "zh": "是这次志愿者要穿的衣服",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "308/TALK",
+            "narrator": "アーヤ",
+            "text": "どんなのにするか悩んでるの",
+            "zh": "我在烦恼要什么样的",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "309/TALK",
+            "narrator": "アーヤ",
+            "text": "動きやすさ優先か",
+            "zh": "优先好活动",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "310/TALK",
+            "narrator": "アーヤ",
+            "text": "アップリケとか付いた子供向けか",
+            "zh": "还是带贴布、给小孩看的",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "311/TALK",
+            "narrator": "アーヤ",
+            "text": "劇に合わせたヒラヒラ系か",
+            "zh": "还是配合剧、飘飘的那种",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "312/TALK",
+            "narrator": "アーヤ",
+            "text": "どうしたらいいと思う？（￣ー￣？）",
+            "zh": "你觉得该怎么办？(￣▽￣？)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "314/SEL",
+            "narrator": "",
+            "text": "$me$がアドバイスしていいの？",
+            "zh": "$me$可以给点建议吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "315/ACT",
+            "narrator": "",
+            "text": "$me$がアドバイスしていいの？",
+            "zh": "$me$可以给点建议吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "317/TALK",
+            "narrator": "アーヤ",
+            "text": "もちろん(*^o^*)",
+            "zh": "当然(*^o^*)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "318/TALK",
+            "narrator": "アーヤ",
+            "text": "ぜひ意見が聞きたいわ",
+            "zh": "很想听听你的意见",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "321/SEL",
+            "narrator": "",
+            "text": "好きにすれば",
+            "zh": "随你便",
+            "narrator_zh": ""
+        },
+        {
+            "location": "322/SEL",
+            "narrator": "",
+            "text": "全部似合いそうで迷う",
+            "zh": "好像全都合适，真犹豫",
+            "narrator_zh": ""
+        },
+        {
+            "location": "323/SEL",
+            "narrator": "",
+            "text": "いっそ着ない",
+            "zh": "干脆不穿算了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "324/ACT",
+            "narrator": "",
+            "text": "好きにすれば",
+            "zh": "随你便",
+            "narrator_zh": ""
+        },
+        {
+            "location": "325/TALK",
+            "narrator": "アーヤ",
+            "text": "え？",
+            "zh": "诶？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "327/TALK",
+            "narrator": "アーヤ",
+            "text": "冷たい(>_<)",
+            "zh": "好冷淡(>_<)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "328/TALK",
+            "narrator": "アーヤ",
+            "text": "何かしら選んでくれると思ったのに",
+            "zh": "我还以为你会帮我选一个",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "330/SEL",
+            "narrator": "",
+            "text": "適当過ぎた？",
+            "zh": "太随便了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "331/ACT",
+            "narrator": "",
+            "text": "適当過ぎた？",
+            "zh": "太随便了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "334/TALK",
+            "narrator": "アーヤ",
+            "text": "ちょっとね",
+            "zh": "有点吧",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "335/TALK",
+            "narrator": "アーヤ",
+            "text": "でも",
+            "zh": "不过",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "336/TALK",
+            "narrator": "アーヤ",
+            "text": "そのくらいクールな方がいいのかも(^з^)―☆",
+            "zh": "也许那么冷静一点比较好(^з^)―☆",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "337/ACT",
+            "narrator": "",
+            "text": "全部似合いそうで迷う",
+            "zh": "好像全都合适，真犹豫",
+            "narrator_zh": ""
+        },
+        {
+            "location": "339/TALK",
+            "narrator": "アーヤ",
+            "text": "あら優しい",
+            "zh": "哎呀，真温柔",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "340/TALK",
+            "narrator": "アーヤ",
+            "text": "そう言ってもらえると嬉しいわ(*^o^*)",
+            "zh": "你能这么说我很高兴(*^o^*)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "342/TALK",
+            "narrator": "アーヤ",
+            "text": "まあ",
+            "zh": "嗯",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "343/TALK",
+            "narrator": "アーヤ",
+            "text": "ちょっと優柔不断っぽくも感じるけど",
+            "zh": "感觉也有点优柔寡断",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "345/SEL",
+            "narrator": "",
+            "text": "いっそ着ない",
+            "zh": "干脆不穿算了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "346/ACT",
+            "narrator": "",
+            "text": "いっそ着ない",
+            "zh": "干脆不穿算了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "349/TALK",
+            "narrator": "アーヤ",
+            "text": "普段着で、ってこと？",
+            "zh": "是说穿便服？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "351/SEL",
+            "narrator": "",
+            "text": "いや…そうじゃなくて…",
+            "zh": "不……不是那个意思……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "352/ACT",
+            "narrator": "",
+            "text": "いや…そうじゃなくて…",
+            "zh": "不……不是那个意思……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "355/TALK",
+            "narrator": "アーヤ",
+            "text": "酷い！(--#)",
+            "zh": "太过分了！(--#)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "357/TALK",
+            "narrator": "アーヤ",
+            "text": "もうちょっと",
+            "zh": "再稍微",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "358/TALK",
+            "narrator": "アーヤ",
+            "text": "本気で考えてみてよ",
+            "zh": "认真帮我想想",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "361/TALK",
+            "narrator": "アーヤ",
+            "text": "話に付き合ってくれてありがと",
+            "zh": "谢谢你陪我聊",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "363/SEL",
+            "narrator": "",
+            "text": "まだ聞きたいことあるんじゃない？",
+            "zh": "你不是还有想问的吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "364/ACT",
+            "narrator": "",
+            "text": "まだ聞きたいことあるんじゃない？",
+            "zh": "你不是还有想问的吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "366/TALK",
+            "narrator": "アーヤ",
+            "text": "何かあったっけ？",
+            "zh": "发生过什么吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "368/SEL",
+            "narrator": "",
+            "text": "$me$に彼氏みたいな真似させてそれ？",
+            "zh": "就是让$me$装成男朋友那件事？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "369/ACT",
+            "narrator": "",
+            "text": "$me$に彼氏みたいな真似させてそれ？",
+            "zh": "就是让$me$装成男朋友那件事？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "371/TALK",
+            "narrator": "アーヤ",
+            "text": "あ",
+            "zh": "啊",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "372/TALK",
+            "narrator": "アーヤ",
+            "text": "彼氏",
+            "zh": "男朋友",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "373/TALK",
+            "narrator": "アーヤ",
+            "text": "彼氏ねー？",
+            "zh": "男朋友吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "375/SEL",
+            "narrator": "",
+            "text": "言うことあるでしょ？",
+            "zh": "你有话要说吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "376/ACT",
+            "narrator": "",
+            "text": "言うことあるでしょ？",
+            "zh": "你有话要说吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "378/TALK",
+            "narrator": "アーヤ",
+            "text": "ええと",
+            "zh": "那个",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "380/TALK",
+            "narrator": "アーヤ",
+            "text": "似合うかしら？",
+            "zh": "配吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "382/SEL",
+            "narrator": "",
+            "text": "最高",
+            "zh": "最棒",
+            "narrator_zh": ""
+        },
+        {
+            "location": "383/SEL",
+            "narrator": "",
+            "text": "うーん……",
+            "zh": "嗯……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "384/SEL",
+            "narrator": "",
+            "text": "$me$色に染まったね",
+            "zh": "被染成$me$的颜色了呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "385/ACT",
+            "narrator": "",
+            "text": "最高",
+            "zh": "最棒",
+            "narrator_zh": ""
+        },
+        {
+            "location": "386/TALK",
+            "narrator": "アーヤ",
+            "text": "もう",
+            "zh": "真是的",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "387/TALK",
+            "narrator": "アーヤ",
+            "text": "照れちゃうわ",
+            "zh": "都不好意思了",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "388/ACT",
+            "narrator": "",
+            "text": "うーん……",
+            "zh": "嗯……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "389/TALK",
+            "narrator": "アーヤ",
+            "text": "こらこら",
+            "zh": "好啦好啦",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "390/TALK",
+            "narrator": "アーヤ",
+            "text": "そこはほめるところよ？",
+            "zh": "那里是该夸奖的地方哦？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "391/ACT",
+            "narrator": "",
+            "text": "$me$色に染まったね",
+            "zh": "被染成$me$的颜色了呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "392/TALK",
+            "narrator": "アーヤ",
+            "text": "時代錯誤ね！",
+            "zh": "太老套了！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "393/TALK",
+            "narrator": "アーヤ",
+            "text": "嫌いじゃないけど",
+            "zh": "虽然不讨厌",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "395/TALK",
+            "narrator": "アーヤ",
+            "text": "なんてね",
+            "zh": "开玩笑的",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "396/TALK",
+            "narrator": "アーヤ",
+            "text": "あとは自分で決めるから",
+            "zh": "剩下的我自己决定",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "397/TALK",
+            "narrator": "アーヤ",
+            "text": "楽しかったわ",
+            "zh": "很开心",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "399/TALK",
+            "narrator": "アーヤ",
+            "text": "彼氏ゴッコ(^з^)-☆",
+            "zh": "男朋友游戏(^з^)-☆",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "412/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "413/TALK",
+            "narrator": "アーヤ",
+            "text": "本当に彼氏がいたら、\nやっぱりこんな感じの\n毎日なのかしら？",
+            "zh": "要是真有男朋友，\n每天也会是\n这种感觉吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "425/TALK",
+            "narrator": "アーヤ",
+            "text": "彼女からのメッセージよ",
+            "zh": "是女朋友的消息",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "427/TALK",
+            "narrator": "アーヤ",
+            "text": "受け取ってね☆",
+            "zh": "收下吧☆",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "430/TALK",
+            "narrator": "ボイスメール",
+            "text": "声が聞きたくて（なんて）",
+            "zh": "想听到声音（怎么会）",
+            "narrator_zh": "语音信箱"
+        },
+        {
+            "location": "278/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>某月某日　9:43 PM</color>\nとある平日の夜、寮「とらいあんぐる」アーヤの部屋にて。",
+            "zh": "<color=green>某月某日　9:43 PM</color>\n某个平日的夜里，宿舍「Tri-angle」绫水的房间。",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "442/DIALOG",
+            "narrator": "Dialog_GETVoice",
+            "text": "<color=green>【アーヤ】</color>のボイスメール\n<color=red>【声が聞きたくて（なんて）】</color>\nをゲットしました！",
+            "zh": "<color=green>【绫水】</color>的语音信箱\n<color=red>【想听到声音（怎么会）】</color>\n已入手！",
+            "narrator_zh": "Dialog_GETVoice"
+        }
+    ]
 }

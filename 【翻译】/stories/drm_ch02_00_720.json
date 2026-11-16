@@ -1,545 +1,595 @@
 {
- "dir": "dramatics/himegoto/drm_ch02_00_720.js",
- "type": "Episode",
- "info": {
-  "story_id": "2072",
-  "cid": "ayami",
-  "title": "らぶとーく 第71話",
-  "sub_title": "そんなことは知ってるから"
- },
- "entry": [
-  {
-   "location": "7/SCENARIO",
-   "narrator": "",
-   "text": "640_そんなことは知ってるから"
-  },
-  {
-   "location": "32/TALK",
-   "narrator": "アーヤ",
-   "text": "$handle$さんは",
-   "zh": "$handle$",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "33/TALK",
-   "narrator": "アーヤ",
-   "text": "私のこと好き？"
-  },
-  {
-   "location": "35/SEL",
-   "narrator": "",
-   "text": "うん",
-   "zh": "嗯",
-   "narrator_zh": ""
-  },
-  {
-   "location": "36/SEL",
-   "narrator": "",
-   "text": "好きだよ",
-   "zh": "我喜欢你",
-   "narrator_zh": ""
-  },
-  {
-   "location": "37/SEL",
-   "narrator": "",
-   "text": "アーヤは$me$のこと好き？",
-   "zh": "绫水喜欢$me$吗？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "38/ACT",
-   "narrator": "",
-   "text": "うん",
-   "zh": "嗯",
-   "narrator_zh": ""
-  },
-  {
-   "location": "40/TALK",
-   "narrator": "アーヤ",
-   "text": "もう",
-   "zh": "真是的",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "41/TALK",
-   "narrator": "アーヤ",
-   "text": "ちゃんと言ってよ",
-   "zh": "你好好说啊",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "42/ACT",
-   "narrator": "",
-   "text": "好きだよ",
-   "zh": "我喜欢你",
-   "narrator_zh": ""
-  },
-  {
-   "location": "53/TALK",
-   "narrator": "アーヤ",
-   "text": "うん",
-   "zh": "嗯",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "54/TALK",
-   "narrator": "アーヤ",
-   "text": "知ってるわ"
-  },
-  {
-   "location": "55/ACT",
-   "narrator": "",
-   "text": "アーヤは$me$のこと好き？",
-   "zh": "绫水喜欢$me$吗？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "56/TALK",
-   "narrator": "アーヤ",
-   "text": "もちろんよ"
-  },
-  {
-   "location": "58/TALK",
-   "narrator": "アーヤ",
-   "text": "そうじゃなきゃ",
-   "zh": "不然的话",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "59/TALK",
-   "narrator": "アーヤ",
-   "text": "こんなこと聞かないわ",
-   "zh": "我不会问这种事",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "63/SEL",
-   "narrator": "",
-   "text": "何かあった？",
-   "zh": "发生什么了？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "64/SEL",
-   "narrator": "",
-   "text": "信用できない？",
-   "zh": "信不过？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "65/ACT",
-   "narrator": "",
-   "text": "何かあった？",
-   "zh": "发生什么了？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "66/TALK",
-   "narrator": "アーヤ",
-   "text": "え",
-   "zh": "诶",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "67/TALK",
-   "narrator": "アーヤ",
-   "text": "どうして？",
-   "zh": "为什么？",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "68/ACT",
-   "narrator": "",
-   "text": "信用できない？",
-   "zh": "信不过？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "69/TALK",
-   "narrator": "アーヤ",
-   "text": "そういうわけじゃ",
-   "zh": "也不是那样",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "70/TALK",
-   "narrator": "アーヤ",
-   "text": "ないけど",
-   "zh": "没有啦",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "72/TALK",
-   "narrator": "アーヤ",
-   "text": "言葉にしてほしい時ってあるでしょ？"
-  },
-  {
-   "location": "75/SEL",
-   "narrator": "",
-   "text": "それだけ？",
-   "zh": "就这些？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "76/SEL",
-   "narrator": "",
-   "text": "本当は他にあるんじゃない？",
-   "zh": "其实另有原因吧？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "77/ACT",
-   "narrator": "",
-   "text": "それだけ？",
-   "zh": "就这些？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "78/TALK",
-   "narrator": "アーヤ",
-   "text": "それだけっていうか",
-   "zh": "要说就这些的话",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "79/ACT",
-   "narrator": "",
-   "text": "本当は他にあるんじゃない？",
-   "zh": "其实另有原因吧？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "80/TALK",
-   "narrator": "アーヤ",
-   "text": "、、、"
-  },
-  {
-   "location": "82/TALK",
-   "narrator": "アーヤ",
-   "text": "$handle$さんは",
-   "zh": "$handle$",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "83/TALK",
-   "narrator": "アーヤ",
-   "text": "平気なの？"
-  },
-  {
-   "location": "84/TALK",
-   "narrator": "アーヤ",
-   "text": "私とずっと"
-  },
-  {
-   "location": "85/TALK",
-   "narrator": "アーヤ",
-   "text": "会えなくても"
-  },
-  {
-   "location": "88/SEL",
-   "narrator": "",
-   "text": "まあね",
-   "zh": "嘛",
-   "narrator_zh": ""
-  },
-  {
-   "location": "89/SEL",
-   "narrator": "",
-   "text": "いやだけど",
-   "zh": "虽然不情愿",
-   "narrator_zh": ""
-  },
-  {
-   "location": "90/SEL",
-   "narrator": "",
-   "text": "どうにかなるよ",
-   "zh": "总会有办法的",
-   "narrator_zh": ""
-  },
-  {
-   "location": "91/ACT",
-   "narrator": "",
-   "text": "まあね",
-   "zh": "嘛",
-   "narrator_zh": ""
-  },
-  {
-   "location": "92/TALK",
-   "narrator": "アーヤ",
-   "text": "そうなの",
-   "zh": "对",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "93/ACT",
-   "narrator": "",
-   "text": "いやだけど",
-   "zh": "虽然不情愿",
-   "narrator_zh": ""
-  },
-  {
-   "location": "94/TALK",
-   "narrator": "アーヤ",
-   "text": "けどって？",
-   "zh": "可是是什么意思？",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "95/ACT",
-   "narrator": "",
-   "text": "どうにかなるよ",
-   "zh": "总会有办法的",
-   "narrator_zh": ""
-  },
-  {
-   "location": "96/TALK",
-   "narrator": "アーヤ",
-   "text": "どうにかって、、、",
-   "zh": "想什么办法……",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "98/TALK",
-   "narrator": "アーヤ",
-   "text": "私はちょっと"
-  },
-  {
-   "location": "99/TALK",
-   "narrator": "アーヤ",
-   "text": "平気じゃないかも"
-  },
-  {
-   "location": "100/TALK",
-   "narrator": "アーヤ",
-   "text": "友達にも"
-  },
-  {
-   "location": "101/TALK",
-   "narrator": "アーヤ",
-   "text": "話せないし"
-  },
-  {
-   "location": "102/TALK",
-   "narrator": "アーヤ",
-   "text": "こういうのって",
-   "zh": "这种事啊",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "104/SEL",
-   "narrator": "",
-   "text": "話していいよ",
-   "zh": "你可以说哦",
-   "narrator_zh": ""
-  },
-  {
-   "location": "105/SEL",
-   "narrator": "",
-   "text": "話すもんなの？",
-   "zh": "这种事也要说吗？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "106/ACT",
-   "narrator": "",
-   "text": "話していいよ",
-   "zh": "你可以说哦",
-   "narrator_zh": ""
-  },
-  {
-   "location": "107/TALK",
-   "narrator": "アーヤ",
-   "text": "話せないわよ、、、"
-  },
-  {
-   "location": "108/ACT",
-   "narrator": "",
-   "text": "話すもんなの？",
-   "zh": "这种事也要说吗？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "109/TALK",
-   "narrator": "アーヤ",
-   "text": "話すものなの"
-  },
-  {
-   "location": "111/TALK",
-   "narrator": "アーヤ",
-   "text": "遊びに行ったとか"
-  },
-  {
-   "location": "112/TALK",
-   "narrator": "アーヤ",
-   "text": "写真撮ったとか"
-  },
-  {
-   "location": "113/TALK",
-   "narrator": "アーヤ",
-   "text": "そういう話をするものなの",
-   "zh": "是会说那种话的啊",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "115/SEL",
-   "narrator": "",
-   "text": "自慢したいってこと？",
-   "zh": "你是想炫耀？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "116/SEL",
-   "narrator": "",
-   "text": "言いふらすもんじゃないと思うけど",
-   "zh": "我觉得这事不该到处乱说",
-   "narrator_zh": ""
-  },
-  {
-   "location": "117/ACT",
-   "narrator": "",
-   "text": "自慢したいってこと？",
-   "zh": "你是想炫耀？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "118/TALK",
-   "narrator": "アーヤ",
-   "text": "違うわ",
-   "zh": "才不是",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "119/ACT",
-   "narrator": "",
-   "text": "言いふらすもんじゃないと思うけど",
-   "zh": "我觉得这事不该到处乱说",
-   "narrator_zh": ""
-  },
-  {
-   "location": "120/TALK",
-   "narrator": "アーヤ",
-   "text": "言いふらしたいわけじゃなくて"
-  },
-  {
-   "location": "122/TALK",
-   "narrator": "アーヤ",
-   "text": "貴方を好きなことが幸せなんだって"
-  },
-  {
-   "location": "123/TALK",
-   "narrator": "アーヤ",
-   "text": "そう思いたいだけなの",
-   "zh": "只是想想罢了",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "125/SEL",
-   "narrator": "",
-   "text": "幸せじゃないみたいだね",
-   "zh": "看来她并不幸福呢",
-   "narrator_zh": ""
-  },
-  {
-   "location": "126/SEL",
-   "narrator": "",
-   "text": "愛してるよアーヤ",
-   "zh": "我爱你，绫水",
-   "narrator_zh": ""
-  },
-  {
-   "location": "127/SEL",
-   "narrator": "",
-   "text": "……ごめんね",
-   "zh": "……抱歉",
-   "narrator_zh": ""
-  },
-  {
-   "location": "128/ACT",
-   "narrator": "",
-   "text": "幸せじゃないみたいだね",
-   "zh": "看来她并不幸福呢",
-   "narrator_zh": ""
-  },
-  {
-   "location": "129/TALK",
-   "narrator": "アーヤ",
-   "text": "、、、"
-  },
-  {
-   "location": "130/ACT",
-   "narrator": "",
-   "text": "愛してるよアーヤ",
-   "zh": "我爱你，绫水",
-   "narrator_zh": ""
-  },
-  {
-   "location": "133/TALK",
-   "narrator": "アーヤ",
-   "text": "ありがとう",
-   "zh": "谢谢",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "135/TALK",
-   "narrator": "アーヤ",
-   "text": "私もよ"
-  },
-  {
-   "location": "136/ACT",
-   "narrator": "",
-   "text": "……ごめんね",
-   "zh": "……抱歉",
-   "narrator_zh": ""
-  },
-  {
-   "location": "137/TALK",
-   "narrator": "アーヤ",
-   "text": "謝ってほしいわけじゃないの"
-  },
-  {
-   "location": "140/TALK",
-   "narrator": "アーヤ",
-   "text": "私のこと好きなのよね？"
-  },
-  {
-   "location": "141/TALK",
-   "narrator": "アーヤ",
-   "text": "それは信じてる",
-   "zh": "那个我相信",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "142/TALK",
-   "narrator": "アーヤ",
-   "text": "でも",
-   "zh": "不过",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "145/TALK",
-   "narrator": "アーヤ",
-   "text": "そうね",
-   "zh": "说得对",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "146/TALK",
-   "narrator": "アーヤ",
-   "text": "信じていれば"
-  },
-  {
-   "location": "147/TALK",
-   "narrator": "アーヤ",
-   "text": "それでいいじゃない",
-   "zh": "这样不就好了",
-   "narrator_zh": "绫水"
-  },
-  {
-   "location": "48/DIALOG",
-   "narrator": "Dialog_GETGokigen",
-   "text": "ゴキゲンポイントが\n<size=40><color=red><b>1000pt.</b></color></size>\nアップしました！",
-   "zh": "心情点数\n<size=40><color=red><b>1000pt.</b></color></size>\n增加了！",
-   "narrator_zh": "Dialog_GETGokigen"
-  }
- ]
+    "dir": "dramatics/himegoto/drm_ch02_00_720.js",
+    "type": "Episode",
+    "info": {
+        "story_id": "2072",
+        "cid": "ayami",
+        "title": "らぶとーく 第71話",
+        "sub_title": "そんなことは知ってるから",
+        "title_zh": "恋爱漫谈 第71话",
+        "sub_title_zh": "那种事我早就知道"
+    },
+    "entry": [
+        {
+            "location": "7/SCENARIO",
+            "narrator": "",
+            "text": "640_そんなことは知ってるから",
+            "zh": "640_那种事我早就知道",
+            "narrator_zh": ""
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$さんは",
+            "zh": "$handle$",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "アーヤ",
+            "text": "私のこと好き？",
+            "zh": "喜欢我吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "35/SEL",
+            "narrator": "",
+            "text": "うん",
+            "zh": "嗯",
+            "narrator_zh": ""
+        },
+        {
+            "location": "36/SEL",
+            "narrator": "",
+            "text": "好きだよ",
+            "zh": "我喜欢你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "37/SEL",
+            "narrator": "",
+            "text": "アーヤは$me$のこと好き？",
+            "zh": "绫水喜欢$me$吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "38/ACT",
+            "narrator": "",
+            "text": "うん",
+            "zh": "嗯",
+            "narrator_zh": ""
+        },
+        {
+            "location": "40/TALK",
+            "narrator": "アーヤ",
+            "text": "もう",
+            "zh": "真是的",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "41/TALK",
+            "narrator": "アーヤ",
+            "text": "ちゃんと言ってよ",
+            "zh": "你好好说啊",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "42/ACT",
+            "narrator": "",
+            "text": "好きだよ",
+            "zh": "我喜欢你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "53/TALK",
+            "narrator": "アーヤ",
+            "text": "うん",
+            "zh": "嗯",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "54/TALK",
+            "narrator": "アーヤ",
+            "text": "知ってるわ",
+            "zh": "我知道",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "55/ACT",
+            "narrator": "",
+            "text": "アーヤは$me$のこと好き？",
+            "zh": "绫水喜欢$me$吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "アーヤ",
+            "text": "もちろんよ",
+            "zh": "当然啦",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "58/TALK",
+            "narrator": "アーヤ",
+            "text": "そうじゃなきゃ",
+            "zh": "不然的话",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "アーヤ",
+            "text": "こんなこと聞かないわ",
+            "zh": "我不会问这种事",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "63/SEL",
+            "narrator": "",
+            "text": "何かあった？",
+            "zh": "发生什么了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "64/SEL",
+            "narrator": "",
+            "text": "信用できない？",
+            "zh": "信不过？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "65/ACT",
+            "narrator": "",
+            "text": "何かあった？",
+            "zh": "发生什么了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "66/TALK",
+            "narrator": "アーヤ",
+            "text": "え",
+            "zh": "诶",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "67/TALK",
+            "narrator": "アーヤ",
+            "text": "どうして？",
+            "zh": "为什么？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "68/ACT",
+            "narrator": "",
+            "text": "信用できない？",
+            "zh": "信不过？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "69/TALK",
+            "narrator": "アーヤ",
+            "text": "そういうわけじゃ",
+            "zh": "也不是那样",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "70/TALK",
+            "narrator": "アーヤ",
+            "text": "ないけど",
+            "zh": "没有啦",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "72/TALK",
+            "narrator": "アーヤ",
+            "text": "言葉にしてほしい時ってあるでしょ？",
+            "zh": "有时候就是想要你说出口吧？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "75/SEL",
+            "narrator": "",
+            "text": "それだけ？",
+            "zh": "就这些？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "76/SEL",
+            "narrator": "",
+            "text": "本当は他にあるんじゃない？",
+            "zh": "其实另有原因吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "77/ACT",
+            "narrator": "",
+            "text": "それだけ？",
+            "zh": "就这些？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "78/TALK",
+            "narrator": "アーヤ",
+            "text": "それだけっていうか",
+            "zh": "要说就这些的话",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "79/ACT",
+            "narrator": "",
+            "text": "本当は他にあるんじゃない？",
+            "zh": "其实另有原因吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "80/TALK",
+            "narrator": "アーヤ",
+            "text": "、、、",
+            "zh": "……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$さんは",
+            "zh": "$handle$",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "アーヤ",
+            "text": "平気なの？",
+            "zh": "也无所谓吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "アーヤ",
+            "text": "私とずっと",
+            "zh": "和我一直",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "85/TALK",
+            "narrator": "アーヤ",
+            "text": "会えなくても",
+            "zh": "见不了面",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "88/SEL",
+            "narrator": "",
+            "text": "まあね",
+            "zh": "嘛",
+            "narrator_zh": ""
+        },
+        {
+            "location": "89/SEL",
+            "narrator": "",
+            "text": "いやだけど",
+            "zh": "虽然不情愿",
+            "narrator_zh": ""
+        },
+        {
+            "location": "90/SEL",
+            "narrator": "",
+            "text": "どうにかなるよ",
+            "zh": "总会有办法的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "91/ACT",
+            "narrator": "",
+            "text": "まあね",
+            "zh": "嘛",
+            "narrator_zh": ""
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "アーヤ",
+            "text": "そうなの",
+            "zh": "对",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "93/ACT",
+            "narrator": "",
+            "text": "いやだけど",
+            "zh": "虽然不情愿",
+            "narrator_zh": ""
+        },
+        {
+            "location": "94/TALK",
+            "narrator": "アーヤ",
+            "text": "けどって？",
+            "zh": "可是是什么意思？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "95/ACT",
+            "narrator": "",
+            "text": "どうにかなるよ",
+            "zh": "总会有办法的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "96/TALK",
+            "narrator": "アーヤ",
+            "text": "どうにかって、、、",
+            "zh": "想什么办法……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "98/TALK",
+            "narrator": "アーヤ",
+            "text": "私はちょっと",
+            "zh": "我可稍微",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "99/TALK",
+            "narrator": "アーヤ",
+            "text": "平気じゃないかも",
+            "zh": "做不到无所谓",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "アーヤ",
+            "text": "友達にも",
+            "zh": "连朋友",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "101/TALK",
+            "narrator": "アーヤ",
+            "text": "話せないし",
+            "zh": "都没法说",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "アーヤ",
+            "text": "こういうのって",
+            "zh": "这种事啊",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "104/SEL",
+            "narrator": "",
+            "text": "話していいよ",
+            "zh": "你可以说哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "105/SEL",
+            "narrator": "",
+            "text": "話すもんなの？",
+            "zh": "这种事也要说吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "106/ACT",
+            "narrator": "",
+            "text": "話していいよ",
+            "zh": "你可以说哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "107/TALK",
+            "narrator": "アーヤ",
+            "text": "話せないわよ、、、",
+            "zh": "说不出口啊……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "108/ACT",
+            "narrator": "",
+            "text": "話すもんなの？",
+            "zh": "这种事也要说吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "109/TALK",
+            "narrator": "アーヤ",
+            "text": "話すものなの",
+            "zh": "就是会说的嘛",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "111/TALK",
+            "narrator": "アーヤ",
+            "text": "遊びに行ったとか",
+            "zh": "去了哪里玩啊",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "112/TALK",
+            "narrator": "アーヤ",
+            "text": "写真撮ったとか",
+            "zh": "拍了照片啊",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "113/TALK",
+            "narrator": "アーヤ",
+            "text": "そういう話をするものなの",
+            "zh": "是会说那种话的啊",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "115/SEL",
+            "narrator": "",
+            "text": "自慢したいってこと？",
+            "zh": "你是想炫耀？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "116/SEL",
+            "narrator": "",
+            "text": "言いふらすもんじゃないと思うけど",
+            "zh": "我觉得这事不该到处乱说",
+            "narrator_zh": ""
+        },
+        {
+            "location": "117/ACT",
+            "narrator": "",
+            "text": "自慢したいってこと？",
+            "zh": "你是想炫耀？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "118/TALK",
+            "narrator": "アーヤ",
+            "text": "違うわ",
+            "zh": "才不是",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "119/ACT",
+            "narrator": "",
+            "text": "言いふらすもんじゃないと思うけど",
+            "zh": "我觉得这事不该到处乱说",
+            "narrator_zh": ""
+        },
+        {
+            "location": "120/TALK",
+            "narrator": "アーヤ",
+            "text": "言いふらしたいわけじゃなくて",
+            "zh": "我不是想到处宣扬",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "122/TALK",
+            "narrator": "アーヤ",
+            "text": "貴方を好きなことが幸せなんだって",
+            "zh": "只是喜欢你我就会觉得幸福",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "123/TALK",
+            "narrator": "アーヤ",
+            "text": "そう思いたいだけなの",
+            "zh": "只是想想罢了",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "125/SEL",
+            "narrator": "",
+            "text": "幸せじゃないみたいだね",
+            "zh": "看来她并不幸福呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "126/SEL",
+            "narrator": "",
+            "text": "愛してるよアーヤ",
+            "zh": "我爱你，绫水",
+            "narrator_zh": ""
+        },
+        {
+            "location": "127/SEL",
+            "narrator": "",
+            "text": "……ごめんね",
+            "zh": "……抱歉",
+            "narrator_zh": ""
+        },
+        {
+            "location": "128/ACT",
+            "narrator": "",
+            "text": "幸せじゃないみたいだね",
+            "zh": "看来她并不幸福呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "129/TALK",
+            "narrator": "アーヤ",
+            "text": "、、、",
+            "zh": "……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "130/ACT",
+            "narrator": "",
+            "text": "愛してるよアーヤ",
+            "zh": "我爱你，绫水",
+            "narrator_zh": ""
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "アーヤ",
+            "text": "ありがとう",
+            "zh": "谢谢",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "135/TALK",
+            "narrator": "アーヤ",
+            "text": "私もよ",
+            "zh": "我也是哦",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "136/ACT",
+            "narrator": "",
+            "text": "……ごめんね",
+            "zh": "……抱歉",
+            "narrator_zh": ""
+        },
+        {
+            "location": "137/TALK",
+            "narrator": "アーヤ",
+            "text": "謝ってほしいわけじゃないの",
+            "zh": "我不是要你道歉",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "140/TALK",
+            "narrator": "アーヤ",
+            "text": "私のこと好きなのよね？",
+            "zh": "你喜欢我的，对吧？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "141/TALK",
+            "narrator": "アーヤ",
+            "text": "それは信じてる",
+            "zh": "那个我相信",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "アーヤ",
+            "text": "でも",
+            "zh": "不过",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "145/TALK",
+            "narrator": "アーヤ",
+            "text": "そうね",
+            "zh": "说得对",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "アーヤ",
+            "text": "信じていれば",
+            "zh": "只要相信着",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "147/TALK",
+            "narrator": "アーヤ",
+            "text": "それでいいじゃない",
+            "zh": "这样不就好了",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "48/DIALOG",
+            "narrator": "Dialog_GETGokigen",
+            "text": "ゴキゲンポイントが\n<size=40><color=red><b>1000pt.</b></color></size>\nアップしました！",
+            "zh": "心情点数\n<size=40><color=red><b>1000pt.</b></color></size>\n增加了！",
+            "narrator_zh": "Dialog_GETGokigen"
+        }
+    ]
 }
