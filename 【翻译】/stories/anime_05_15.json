@@ -1,0 +1,1855 @@
+{
+    "dir": "chap15/daydra/anime_05_15.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "15501",
+        "cid": "kagura",
+        "title": "001 アニメーション",
+        "sub_title": "ロード・オブ・メシア",
+        "title_zh": "001 动画",
+        "sub_title_zh": "救世主之王"
+    },
+    "entry": [
+        {
+            "location": "1459/SCENARIO",
+            "narrator": "",
+            "text": "アニメ第15話",
+            "zh": "动画第15话",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1472/TALK",
+            "narrator": "エリカ",
+            "text": "コーンコン。",
+            "zh": "空——空。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1473/TALK",
+            "narrator": "エリカ",
+            "text": "いらっしゃい\n$handle$さん。",
+            "zh": "欢迎过来，\n$handle$。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1474/TALK",
+            "narrator": "エリカ",
+            "text": "もう一度お話聞く？\nそれとも、省略する？",
+            "zh": "要再听一遍吗？\n还是说，跳过呢？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1475/SEL",
+            "narrator": "",
+            "text": "もう一度聞く",
+            "zh": "再听一遍",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1476/SEL",
+            "narrator": "",
+            "text": "飛ばす",
+            "zh": "跳过",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1477/ACT",
+            "narrator": "",
+            "text": "もう一度聞く",
+            "zh": "再听一遍",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1478/TALK",
+            "narrator": "エリカ",
+            "text": "うん、わかったよ。",
+            "zh": "嗯，我知道了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1480/ACT",
+            "narrator": "",
+            "text": "飛ばす",
+            "zh": "跳过",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1481/TALK",
+            "narrator": "エリカ",
+            "text": "そっかー。\nそれじゃ、またね。",
+            "zh": "这样啊——。\n那拜拜啦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1487/TALK",
+            "narrator": "エリカ",
+            "text": "コーンコン。",
+            "zh": "空——空。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1488/TALK",
+            "narrator": "エリカ",
+            "text": "こんにちは、\n$handle$さん。",
+            "zh": "你好呀，\n$handle$。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1489/SEL",
+            "narrator": "",
+            "text": "こんにちは",
+            "zh": "你好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1490/SEL",
+            "narrator": "",
+            "text": "あ、ども",
+            "zh": "啊，你好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1491/ACT",
+            "narrator": "",
+            "text": "こんにちは",
+            "zh": "你好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1492/TALK",
+            "narrator": "エリカ",
+            "text": "はい、こんにちは！",
+            "zh": "嗯，你好呀！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1493/ACT",
+            "narrator": "",
+            "text": "あ、ども",
+            "zh": "啊，你好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1494/TALK",
+            "narrator": "エリカ",
+            "text": "ん？\nなんかつっけんどんな\n感じだね。",
+            "zh": "嗯？\n感觉有点冷淡\n呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1497/TALK",
+            "narrator": "エリカ",
+            "text": "ところで、MV回では\n見事にゃボットを\n手に入れたね！",
+            "zh": "话说回来，你在MV回\n顺利拿到喵Bot了\n对吧！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1498/TALK",
+            "narrator": "エリカ",
+            "text": "わたしが長年大事に\n作ってきた\nネコ型ロボットだから――",
+            "zh": "那可是我长年珍视、\n亲手做出来的\n猫型机器人——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1499/TALK",
+            "narrator": "エリカ",
+            "text": "大事に使ってくれると\n嬉しいな！",
+            "zh": "你要是能好好珍惜它，\n我会很开心的！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1500/TALK",
+            "narrator": "エリカ",
+            "text": "さて――",
+            "zh": "那么——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1501/TALK",
+            "narrator": "エリカ",
+            "text": "早速本題に\n入ろうと思うんだけど。",
+            "zh": "我想马上进入\n正题了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1502/TALK",
+            "narrator": "エリカ",
+            "text": "突然になっちゃって\nごめんなさい！",
+            "zh": "一下子这么突然，\n对不起啦！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1504/TALK",
+            "narrator": "エリカ",
+            "text": "さて、今回は\nいきなりだけど\n本題に入ります。",
+            "zh": "好了，这次虽然有点\n突然，但我要直接\n进入正题了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1505/TALK",
+            "narrator": "エリカ",
+            "text": "唐突になっちゃって\n申し訳ないんだけど――",
+            "zh": "突然说这个实在\n不好意思——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1507/TALK",
+            "narrator": "エリカ",
+            "text": "今回から\nリプレイスを\n開始します！",
+            "zh": "从这次开始，\n要启动替换\n了哦！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1508/SEL",
+            "narrator": "",
+            "text": "遂に来たか",
+            "zh": "终于来了吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1509/SEL",
+            "narrator": "",
+            "text": "まだ心の準備が！",
+            "zh": "我还没做好心理准备！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1510/ACT",
+            "narrator": "",
+            "text": "遂に来たか",
+            "zh": "终于来了吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1511/TALK",
+            "narrator": "エリカ",
+            "text": "とは言っても、\n今回はテストも兼ねた\n簡単なものだけどね。",
+            "zh": "虽说如此，\n这次还只是兼顾测试的\n简单操作而已哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1512/ACT",
+            "narrator": "",
+            "text": "まだ心の準備が！",
+            "zh": "我还没做好心理准备！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1513/TALK",
+            "narrator": "エリカ",
+            "text": "ああっ！\nそんなに気負わなくても\n大丈夫だよ！",
+            "zh": "啊啊！\n不用那么紧张\n也没关系的啦！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1514/TALK",
+            "narrator": "エリカ",
+            "text": "今回はまだ、\nテストも兼ねた\n簡単なものだから！",
+            "zh": "因为这次还只是\n兼顾测试的\n简单操作嘛！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1516/TALK",
+            "narrator": "エリカ",
+            "text": "それじゃ早速、今から\n実際のリプレイスに関して\n話をしていくけど――",
+            "zh": "那事不宜迟，接下来\n我就说说关于实际\n替换的事情了——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1517/TALK",
+            "narrator": "エリカ",
+            "text": "その前に、もう一度\nリプレイスとは何かの\n説明をした方がいい？",
+            "zh": "在那之前，需要我\n再说明一次什么是\n替换吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1518/SEL",
+            "narrator": "",
+            "text": "リプレイスの説明して",
+            "zh": "请说明替换",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1519/SEL",
+            "narrator": "",
+            "text": "しなくてよい",
+            "zh": "不用了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1520/ACT",
+            "narrator": "",
+            "text": "リプレイスの説明して",
+            "zh": "请说明替换",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1521/TALK",
+            "narrator": "エリカ",
+            "text": "わかったよ。",
+            "zh": "我知道了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1522/TALK",
+            "narrator": "エリカ",
+            "text": "リプレイスっていうのは\n歴史を少しだけ\n置き換えることを言うよ。",
+            "zh": "所谓的替换呢，\n就是稍微置换一下\n历史的意思哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1523/TALK",
+            "narrator": "エリカ",
+            "text": "あなたやわたしたちは、\nここに来るまでの間に\n様々な観測をした。",
+            "zh": "你还有我们，\n在来到这里之前\n进行过各种各样的观测。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1526/TALK",
+            "narrator": "エリカ",
+            "text": "つばめちゃんが\n上京して、トライナリーに\n入隊し――",
+            "zh": "燕\n来到东京，\n加入了三重奏——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1527/TALK",
+            "narrator": "エリカ",
+            "text": "神楽ちゃんと出会って、\nそれから\n様々な事があって。",
+            "zh": "遇见了神乐，\n之后又经历了\n各种各样的事。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1529/TALK",
+            "narrator": "エリカ",
+            "text": "夏合宿の出来事や、\nその後の綾ちゃんたちの\n危機。",
+            "zh": "夏季集训发生的事，\n还有那之后绫水她们的\n危机。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1530/TALK",
+            "narrator": "エリカ",
+            "text": "そういった様々な\n観測した事柄は、歴史に\n刻まれることになる。",
+            "zh": "像这样观测到的\n各种事情，都会被\n刻进历史里。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1532/TALK",
+            "narrator": "エリカ",
+            "text": "だから、こういった\n見てしまったところは\nもう変えられないの。",
+            "zh": "所以，像这样已经\n看过的部分，是\n再也无法改变了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1533/TALK",
+            "narrator": "エリカ",
+            "text": "だけど逆をつけば、\n観測していないところは\nまだ変えられる。",
+            "zh": "但是反过来利用这一点，\n没有观测到的部分\n就还能改变。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1536/TALK",
+            "narrator": "エリカ",
+            "text": "そしてこのTRI-OSは、\nあなたの世界から\nわたしたちの世界を――",
+            "zh": "而且这个TRI-OS，\n能够从你的世界\n看着我们的世界——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1537/TALK",
+            "narrator": "エリカ",
+            "text": "時間という概念を\n自由に動かしながら\n見ることができる。",
+            "zh": "一边自由地移动\n时间这个概念，\n一边进行观察。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1538/TALK",
+            "narrator": "エリカ",
+            "text": "その特性を活かして、\nもう一度一定の過去から\nやり直すの。",
+            "zh": "活用这个特性，\n再一次从某个特定的\n过去重新来过。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1539/TALK",
+            "narrator": "エリカ",
+            "text": "そうすることで、\n現在観測が止まっている\n時点、すなわち――",
+            "zh": "这样一来，就能\n大幅改变当前观测\n停止的节点，也就是——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1540/TALK",
+            "narrator": "エリカ",
+            "text": "2016年末頃までの\n歴史を、大きく変える\nことができる。",
+            "zh": "直到2016年末左右的\n历史了\n哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1541/TALK",
+            "narrator": "エリカ",
+            "text": "既に見えてる部分は\n変えられないけど、\n見えていない部分は可能。",
+            "zh": "已经看见的部分\n无法改变，但没看见的\n部分就可以。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1542/TALK",
+            "narrator": "エリカ",
+            "text": "だから、その\n見えていない部分を\n未観測のチャンネル――",
+            "zh": "所以，我们要借用\n那个没被看见部分的\n未观测频道——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1543/TALK",
+            "narrator": "エリカ",
+            "text": "すなわち神楽ちゃんの\nチャンネルを使わせて\nもらって変化させるの。",
+            "zh": "也就是借用神乐的\n频道，来让它\n发生变化哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1544/TALK",
+            "narrator": "エリカ",
+            "text": "一度部分的に確定した\n世界の流れを、過去に遡り\n書き換える作戦。",
+            "zh": "将一度部分确定的\n世界走向，追溯到过去\n进行改写的作战。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1545/TALK",
+            "narrator": "エリカ",
+            "text": "それが、\nリプレイス作戦だよ。",
+            "zh": "这就是\n替换作战哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1547/TALK",
+            "narrator": "エリカ",
+            "text": "…なんとなく、\nわかってくれたかな…？",
+            "zh": "……多少有没有\n听明白一点呢……？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1548/SEL",
+            "narrator": "",
+            "text": "思い出した！",
+            "zh": "想起来了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1549/SEL",
+            "narrator": "",
+            "text": "やっぱりわからない……",
+            "zh": "还是没太懂……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1550/ACT",
+            "narrator": "",
+            "text": "思い出した！",
+            "zh": "想起来了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1551/TALK",
+            "narrator": "エリカ",
+            "text": "よかった！",
+            "zh": "太好了！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1552/ACT",
+            "narrator": "",
+            "text": "やっぱりわからない……",
+            "zh": "还是没太懂……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1553/TALK",
+            "narrator": "エリカ",
+            "text": "はぁぁっ、ごめんね。\nもっとちゃんとした\n説明が出来ればいいのに。",
+            "zh": "哈啊啊，对不起啦。\n要是我能解释得\n更清楚一点就好了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1554/TALK",
+            "narrator": "エリカ",
+            "text": "ま、まあでも！\nやっていけばきっと、\nわかってくるよ、多分。",
+            "zh": "嘛、嘛不过！\n只要实际做起来，\n一定会懂的，大概。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1555/SEL",
+            "narrator": "",
+            "text": "頑張ります",
+            "zh": "我会加油的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1556/SEL",
+            "narrator": "",
+            "text": "だといいけど",
+            "zh": "但愿如此",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1557/ACT",
+            "narrator": "",
+            "text": "頑張ります",
+            "zh": "我会加油的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1558/ACT",
+            "narrator": "",
+            "text": "だといいけど",
+            "zh": "但愿如此",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1560/TALK",
+            "narrator": "エリカ",
+            "text": "ありがとう。",
+            "zh": "谢谢你。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1562/ACT",
+            "narrator": "",
+            "text": "しなくてよい",
+            "zh": "不用了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1563/TALK",
+            "narrator": "エリカ",
+            "text": "わかったよ。",
+            "zh": "我知道了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1565/TALK",
+            "narrator": "エリカ",
+            "text": "それじゃ早速、\n今回やって欲しいことを\nお話していくね。",
+            "zh": "那事不宜迟，\n这就来说说这次想请你\n帮忙做的事情哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1566/SEL",
+            "narrator": "",
+            "text": "オーケー",
+            "zh": "OK",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1567/SEL",
+            "narrator": "",
+            "text": "その前に聞きたいことがある",
+            "zh": "在那之前我有事想问",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1568/ACT",
+            "narrator": "",
+            "text": "オーケー",
+            "zh": "OK",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1569/ACT",
+            "narrator": "",
+            "text": "その前に聞きたいことがある",
+            "zh": "在那之前我有事想问",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1570/TALK",
+            "narrator": "エリカ",
+            "text": "なに？",
+            "zh": "什么？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1572/SEL",
+            "narrator": "",
+            "text": "世界がどんな姿になることを目指してリプレイスするの？",
+            "zh": "替换是想让世界变成什么样子？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1573/SEL",
+            "narrator": "",
+            "text": "リプレイスすることによって、何かリスクがあったりはしないの？",
+            "zh": "进行替换的话，会有什么风险吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1574/SEL",
+            "narrator": "",
+            "text": "エリカはどうしてリプレイスを推進するの？",
+            "zh": "领火为什么要推进替换？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1575/SEL",
+            "narrator": "",
+            "text": "特にない\n<color=blue>（※先へ進みます）</color>",
+            "zh": "没什么特别想问的\n<color=blue>（※继续往下）</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1576/ACT",
+            "narrator": "",
+            "text": "世界がどんな姿になることを目指してリプレイスするの？",
+            "zh": "替换是想让世界变成什么样子？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1577/TALK",
+            "narrator": "エリカ",
+            "text": "あっ、えっとね、\nそれは後で説明するよ。",
+            "zh": "啊，那个嘛，\n这个等会儿再说明哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1578/TALK",
+            "narrator": "エリカ",
+            "text": "もちろん、どういう世界を\n目指しているのか知らな\nくちゃ怖いものね。",
+            "zh": "当然，不知道目标是什么样的\n世界确实会觉得\n害怕嘛。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1579/TALK",
+            "narrator": "エリカ",
+            "text": "他は？",
+            "zh": "还有别的吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1581/ACT",
+            "narrator": "",
+            "text": "リプレイスすることによって、何かリスクがあったりはしないの？",
+            "zh": "进行替换的话，会有什么风险吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1582/TALK",
+            "narrator": "エリカ",
+            "text": "あるよ。",
+            "zh": "有的哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1583/TALK",
+            "narrator": "エリカ",
+            "text": "リプレイスは、\n過去を操作して未来を\n変える作業だけど――",
+            "zh": "替换虽然是\n操作过去来改变\n未来的工作——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1584/TALK",
+            "narrator": "エリカ",
+            "text": "何でもアリという\nわけじゃないの。",
+            "zh": "但并不是\n什么都能乱来的。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1585/TALK",
+            "narrator": "エリカ",
+            "text": "そこが、\n一般的な過去改変作業と\n大きく違うところ。",
+            "zh": "这就是它和\n一般的过去改变工作\n最大的不同之处。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1586/TALK",
+            "narrator": "エリカ",
+            "text": "もちろん、何をやっても\n世界そのものが壊れたりは\nしないんだけど……。",
+            "zh": "当然，不管做什么\n世界本身倒是不会\n坏掉啦……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1587/TALK",
+            "narrator": "エリカ",
+            "text": "今回に関して言えば、\n過去を改変した結果――",
+            "zh": "但就这次而言，\n如果改变过去的结果——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1588/TALK",
+            "narrator": "エリカ",
+            "text": "記録映像と整合性が\nとれない世界になって\nしまうと色々問題が出る。",
+            "zh": "变成了与记录影像\n无法保持一致的世界，\n就会出现很多问题。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1589/SEL",
+            "narrator": "",
+            "text": "どうなっちゃうの？",
+            "zh": "会变成什么样？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1590/ACT",
+            "narrator": "",
+            "text": "どうなっちゃうの？",
+            "zh": "会变成什么样？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1592/TALK",
+            "narrator": "エリカ",
+            "text": "簡単かつ\nピンポイントで言えば――",
+            "zh": "简单又精准地\n来说的话——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1593/TALK",
+            "narrator": "エリカ",
+            "text": "綾ちゃんたちの記憶から、\nあなたのことが\n失われてしまう。",
+            "zh": "从绫水她们的记忆里，\n关于你的事情\n会消失掉哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1594/TALK",
+            "narrator": "エリカ",
+            "text": "もちろん、記録映像との\n不整合、即完全に無かった\nことになるわけじゃない。",
+            "zh": "当然，并不是说只要和\n记录影像有一点不一致，\n就会立刻彻底归零。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1595/TALK",
+            "narrator": "エリカ",
+            "text": "けど、その過程との\n不整合が出た箇所から\n思い出が消えていくの。",
+            "zh": "不过，从那个过程中\n出现不一致的地方开始，\n回忆就会逐渐消失哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1596/TALK",
+            "narrator": "エリカ",
+            "text": "もっとも、綾ちゃんたち\nからすれば、記憶が\n失われるわけじゃなくて―",
+            "zh": "话虽如此，从绫水她们\n来看，并不是失去了\n记忆——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1597/TALK",
+            "narrator": "エリカ",
+            "text": "別の歴史に置き換わって、\nそこにあなたがいない\nだけなんだけどね。",
+            "zh": "只是被替换成了另一段\n历史，而那里面没有你\n而已啦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1598/SEL",
+            "narrator": "",
+            "text": "そんなの嫌すぎる！！",
+            "zh": "那样也太讨厌了！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1599/SEL",
+            "narrator": "",
+            "text": "別に$me$は彼女たちの記憶から消えても構わない",
+            "zh": "其实$me$从她们的记忆里消失也无所谓",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1600/ACT",
+            "narrator": "",
+            "text": "そんなの嫌すぎる！！",
+            "zh": "那样也太讨厌了！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1601/TALK",
+            "narrator": "エリカ",
+            "text": "だよね！",
+            "zh": "就是说啊！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1602/TALK",
+            "narrator": "エリカ",
+            "text": "だから、記録映像との\n不整合が起きないように\nわたしも注意するから。",
+            "zh": "所以，为了不出现\n与记录影像的不一致，\n我也会小心的。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1603/ACT",
+            "narrator": "",
+            "text": "別に$me$は彼女たちの記憶から消えても構わない",
+            "zh": "其实$me$从她们的记忆里消失也无所谓",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1604/TALK",
+            "narrator": "エリカ",
+            "text": "えっ、そうなの！？",
+            "zh": "咦，是这样吗！？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1605/TALK",
+            "narrator": "エリカ",
+            "text": "うーん、そっか。\nそれなら少しはレンジが\n大きくなるのかな――",
+            "zh": "唔——，这样啊。\n那样的话容错范围\n是不是会变大一点呢——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1606/TALK",
+            "narrator": "エリカ",
+            "text": "いや、やっぱりあまり\n広くならないような……。",
+            "zh": "不，果然还是\n不会变宽太多吧……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1607/SEL",
+            "narrator": "",
+            "text": "$me$の記憶が消えても、彼女たちが幸せならそれでいいんだよ",
+            "zh": "就算$me$的记忆消失了，只要她们能幸福就好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1608/SEL",
+            "narrator": "",
+            "text": "それだけじゃ済まないの？",
+            "zh": "不只是那样而已吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1609/ACT",
+            "narrator": "",
+            "text": "$me$の記憶が消えても、彼女たちが幸せならそれでいいんだよ",
+            "zh": "就算$me$的记忆消失了，只要她们能幸福就好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1610/TALK",
+            "narrator": "エリカ",
+            "text": "うん、うん、\nその考え方はわかる。",
+            "zh": "嗯、嗯，\n你的想法我能理解。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1611/TALK",
+            "narrator": "エリカ",
+            "text": "けど、あなたを忘れる事は\nリプレイス作戦においては\n致命的なの。",
+            "zh": "但是，忘掉你这件事\n在替换作战里\n可是致命的哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1612/ACT",
+            "narrator": "",
+            "text": "それだけじゃ済まないの？",
+            "zh": "不只是那样而已吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1613/TALK",
+            "narrator": "エリカ",
+            "text": "うん。済まない。",
+            "zh": "嗯。不只是那样。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1615/TALK",
+            "narrator": "エリカ",
+            "text": "どういうことかと\n言うと――",
+            "zh": "要说具体是\n怎么回事——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1616/TALK",
+            "narrator": "エリカ",
+            "text": "綾ちゃんたちだけじゃなく\nわたしや千羽鶴ちゃんも\nあなたを忘れてしまう。",
+            "zh": "不只是绫水她们，\n连我和千羽鹤\n都会把你忘掉。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1617/TALK",
+            "narrator": "エリカ",
+            "text": "そうすれば、リプレイス\n作戦自体を立案した\n世界から逸脱し――",
+            "zh": "那样一来，就会偏离\n立案实施替换作战\n本身的世界——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1618/TALK",
+            "narrator": "エリカ",
+            "text": "全くあなたとは交わらない\n可能性軸へと移動して\nしまうの。",
+            "zh": "移动到与你完全\n没有交集的\n可能性轴上去哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1619/SEL",
+            "narrator": "",
+            "text": "親殺しのパラドックスみたいなものか",
+            "zh": "就像是弑亲悖论那样的东西吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1620/ACT",
+            "narrator": "",
+            "text": "親殺しのパラドックスみたいなものか",
+            "zh": "就像是弑亲悖论那样的东西吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1622/TALK",
+            "narrator": "エリカ",
+            "text": "そうかもね。",
+            "zh": "说不定呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1623/TALK",
+            "narrator": "エリカ",
+            "text": "過去に戻って\n自分の親を殺したら、\n自分はどうなるか……？",
+            "zh": "回到过去\n杀了自己的父母，\n自己会怎么样……？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1624/TALK",
+            "narrator": "エリカ",
+            "text": "その問題と\n今回のリスクは、\nとても近いと思う。",
+            "zh": "那个问题和\n这次的风险，\n我觉得非常接近。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1625/TALK",
+            "narrator": "エリカ",
+            "text": "わたしも細心の注意で\n事を進めるから、ご協力\nよろしくお願いします。",
+            "zh": "我也会怀着十二万分的\n小心推进这件事，\n还请你多多配合啦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1627/TALK",
+            "narrator": "エリカ",
+            "text": "他は？",
+            "zh": "还有别的吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1629/ACT",
+            "narrator": "",
+            "text": "エリカはどうしてリプレイスを推進するの？",
+            "zh": "领火为什么要推进替换？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1630/TALK",
+            "narrator": "エリカ",
+            "text": "ん？\nえっと――",
+            "zh": "嗯？\n那个——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1631/TALK",
+            "narrator": "エリカ",
+            "text": "前にもお話したけど、\n綾ちゃんたちが\n幸せになって欲しいから。",
+            "zh": "之前也说过，\n是因为我希望\n绫水她们能获得幸福。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1632/TALK",
+            "narrator": "エリカ",
+            "text": "そして、自分の罪を\n償うためにやってるよ。",
+            "zh": "而且，这也是为了\n赎清我自己的罪过才做的哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1633/TALK",
+            "narrator": "エリカ",
+            "text": "他は？",
+            "zh": "还有别的吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1635/ACT",
+            "narrator": "",
+            "text": "特にない\n<color=blue>（※先へ進みます）</color>",
+            "zh": "没什么特别想问的\n<color=blue>（※继续往下）</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1637/TALK",
+            "narrator": "エリカ",
+            "text": "うん、わかったよ。",
+            "zh": "嗯，我知道了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1639/TALK",
+            "narrator": "エリカ",
+            "text": "それじゃ、具体的な\nお話をする前に、まずは\n記録映像を見てね。",
+            "zh": "那在说具体的事情\n之前，先请你看一下\n记录影像吧。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1640/TALK",
+            "narrator": "エリカ",
+            "text": "その記録映像を元に、\n何をやるかについて\n説明していくから。",
+            "zh": "因为我会以那段\n记录影像为基础，说明\n要做什么事。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1642/SEL",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【高画質/75MB 4:57】</color>",
+            "zh": "观看影像\n<color=green>【高画质/75MB 4:57】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1643/SEL",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【標準画質/24MB 4:57】</color>",
+            "zh": "观看影像\n<color=green>【标准画质/24MB 4:57】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1644/SEL",
+            "narrator": "",
+            "text": "あらすじレポートにする\n<color=green>【テキストまとめ】</color>",
+            "zh": "改为剧情梗概报告\n<color=green>【文字汇总】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1645/ACT",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【高画質/75MB 4:57】</color>",
+            "zh": "观看影像\n<color=green>【高画质/75MB 4:57】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1646/TALK",
+            "narrator": "エリカ",
+            "text": "わかったよ。",
+            "zh": "我知道了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1652/ACT",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【標準画質/24MB 4:57】</color>",
+            "zh": "观看影像\n<color=green>【标准画质/24MB 4:57】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1653/TALK",
+            "narrator": "エリカ",
+            "text": "わかったよ。",
+            "zh": "我知道了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1659/ACT",
+            "narrator": "",
+            "text": "あらすじレポートにする\n<color=green>【テキストまとめ】</color>",
+            "zh": "改为剧情梗概报告\n<color=green>【文字汇总】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1660/TALK",
+            "narrator": "エリカ",
+            "text": "あらら。",
+            "zh": "哎呀呀。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1693/TALK",
+            "narrator": "エリカ",
+            "text": "というわけで、\n記録映像を\n見てもらいました。",
+            "zh": "于是乎，\n请大家看完了\n记录影像。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1694/TALK",
+            "narrator": "エリカ",
+            "text": "今回やって欲しい事は、\n神楽ちゃんとつばめちゃん\nのアキバデートで――",
+            "zh": "这次想请你做的事，\n是在神乐和燕\n的秋叶原约会里——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1695/TALK",
+            "narrator": "エリカ",
+            "text": "つばめちゃんから\n神楽ちゃんに、何か\n贈り物をさせて欲しいの。",
+            "zh": "想让燕送给\n神乐一件\n什么礼物。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1696/SEL",
+            "narrator": "",
+            "text": "そうすると、どう未来が変わるの？",
+            "zh": "那样做的话，未来会怎么变？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1697/ACT",
+            "narrator": "",
+            "text": "そうすると、どう未来が変わるの？",
+            "zh": "那样做的话，未来会怎么变？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1699/TALK",
+            "narrator": "エリカ",
+            "text": "期待することは、海での\n発症の後において、彼女の\n精神的負担を減らすこと。",
+            "zh": "我期待的是，在海边\n发症之后，能减轻\n她的精神负担。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1700/TALK",
+            "narrator": "エリカ",
+            "text": "それによって神楽ちゃんの\n希望を強くし、自暴自棄や\n思考停止を防止する。",
+            "zh": "借此增强神乐的\n希望，防止她\n自暴自弃或思考停止。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1701/TALK",
+            "narrator": "エリカ",
+            "text": "なぜそれが必要かというと\nその後の計画に大きな\n影響を与えるからなの。",
+            "zh": "要说为什么需要那样，\n因为那会对之后的计划\n产生很大影响哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1702/SEL",
+            "narrator": "",
+            "text": "どんな計画なの？",
+            "zh": "是什么样的计划？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1703/ACT",
+            "narrator": "",
+            "text": "どんな計画なの？",
+            "zh": "是什么样的计划？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1705/TALK",
+            "narrator": "エリカ",
+            "text": "神楽ちゃんに、\n管理庁長官・皇千羽鶴と\n対等な交渉をしてもらう。",
+            "zh": "要让神乐与\n管理厅长官·皇千羽鹤\n进行对等的交涉。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1706/TALK",
+            "narrator": "エリカ",
+            "text": "この世界の命運を握るのは\n皇長官…すなわち、過去の\n千羽鶴ちゃんでしょ？",
+            "zh": "掌握着这个世界命运的，\n是皇长官……也就是\n过去的千羽鹤吧？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1707/TALK",
+            "narrator": "エリカ",
+            "text": "そして、皇長官にとって、\n神楽ちゃんは最終兵器でも\nあり、弱点でもある。",
+            "zh": "而且对皇长官来说，\n神乐既是最终兵器，\n也是弱点。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1708/TALK",
+            "narrator": "エリカ",
+            "text": "だから、神楽ちゃんに\n理論的武器を与え、長官を\n交渉テーブルに着かせる。",
+            "zh": "所以，要给神乐\n赋予理论武器，让长官\n坐到谈判桌上来。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1710/SEL",
+            "narrator": "",
+            "text": "千羽鶴との交渉と、つばめから神楽へのプレゼントの関係性がわからん",
+            "zh": "和千羽鹤的交涉，跟燕送神乐礼物之间有什么关系，没搞懂",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1711/SEL",
+            "narrator": "",
+            "text": "そんな事したら、余計に神楽が二律背反で苦しむじゃないかあああ！！",
+            "zh": "做那种事，不是只会让神乐更受二律背反折磨吗啊啊啊！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1712/SEL",
+            "narrator": "",
+            "text": "千羽鶴と交渉なんて…そんな事出来るの？",
+            "zh": "和千羽鹤交涉什么的……那种事做得到吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1713/ACT",
+            "narrator": "",
+            "text": "千羽鶴との交渉と、つばめから神楽へのプレゼントの関係性がわからん",
+            "zh": "和千羽鹤的交涉，跟燕送神乐礼物之间有什么关系，没搞懂",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1714/TALK",
+            "narrator": "エリカ",
+            "text": "まあ、そうだよね。",
+            "zh": "嘛，也是呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1715/TALK",
+            "narrator": "エリカ",
+            "text": "身も蓋もない言い方に\nなるけど、それ自体には\n大きな繋がりはないよ。",
+            "zh": "虽然说起来\n有点大煞风景，但这两者\n本身并没有太大联系哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1716/TALK",
+            "narrator": "エリカ",
+            "text": "ただ、リプレイスの\nテストを行うにあたり、\nあまりリスクの無いもの―",
+            "zh": "只是在进行\n替换测试时，\n想要找一个风险不大—",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1717/TALK",
+            "narrator": "エリカ",
+            "text": "かつ、上手くいけば今後に\n役立つであろうものを検討\nした結果、これになった。",
+            "zh": "而且如果顺利的话\n今后能派上用场的事，\n探讨结果就是这个了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1718/TALK",
+            "narrator": "エリカ",
+            "text": "それに、テストとはいえ、\nもしこのリプレイスが\n成功すれば――",
+            "zh": "而且话虽说是测试，\n如果这次替换\n成功了的话——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1719/TALK",
+            "narrator": "エリカ",
+            "text": "つばめちゃんとの絆が\n深まり、神楽ちゃんの\n心の支えになる。",
+            "zh": "她与燕的羁绊会\n加深，成为神乐\n心灵的支柱。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1720/TALK",
+            "narrator": "エリカ",
+            "text": "それは神楽ちゃんの\n生きる意志になって、\n長官に対抗する力になる。",
+            "zh": "那会化作神乐\n活下去的意志，成为\n对抗长官的力量。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1721/ACT",
+            "narrator": "",
+            "text": "そんな事したら、余計に神楽が二律背反で苦しむじゃないかあああ！！",
+            "zh": "做那种事，不是只会让神乐更受二律背反折磨吗啊啊啊！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1722/TALK",
+            "narrator": "エリカ",
+            "text": "もちろん、これだけだと\nそうなる可能性が\n高いよね。",
+            "zh": "当然，光凭这一个\n确实很有可能会\n变成那样呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1723/TALK",
+            "narrator": "エリカ",
+            "text": "だからもちろん、後に\nフォローアップする\nリプレイスも実施する。",
+            "zh": "所以之后理所当然地，\n还会实施用于后续\n跟进的替换哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1724/ACT",
+            "narrator": "",
+            "text": "千羽鶴と交渉なんて…そんな事出来るの？",
+            "zh": "和千羽鹤交涉什么的……那种事做得到吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1725/TALK",
+            "narrator": "エリカ",
+            "text": "皇長官にとって、\n神楽ちゃんは手放せない\n存在だからね。",
+            "zh": "因为对皇长官来说，\n神乐是绝对不能\n放手的存在嘛。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1726/TALK",
+            "narrator": "エリカ",
+            "text": "今、わりと高圧的な対応を\nしているのは、単純に\n神楽ちゃんが丸腰だから。",
+            "zh": "她现在之所以态度\n相对强硬，单纯是因为\n神乐手无寸铁。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1727/TALK",
+            "narrator": "エリカ",
+            "text": "理論武装して、交渉材料と\nなるような情報を、何一つ\n持っていないからなの。",
+            "zh": "只是因为她没有进行\n理论武装，手里没有任何\n能当筹码的信息而已。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1728/TALK",
+            "narrator": "エリカ",
+            "text": "だからわたしたちは、\nこれから神楽ちゃんに\n情報を与えていく。",
+            "zh": "所以从今往后，\n我们会把信息\n交给神乐哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1729/TALK",
+            "narrator": "エリカ",
+            "text": "それは１００％成功する\nとは限らないけど、かなり\n確度は高いと思う。",
+            "zh": "虽然不敢说100%能\n成功，但我觉得\n把握还是相当高的。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1731/SEL",
+            "narrator": "",
+            "text": "全力で協力するよ！",
+            "zh": "我会全力配合的！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1732/SEL",
+            "narrator": "",
+            "text": "上手くいくとは思えないけど…",
+            "zh": "虽然觉得不太会顺利……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1733/SEL",
+            "narrator": "",
+            "text": "断固反対！",
+            "zh": "坚决反对！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1734/SEL",
+            "narrator": "",
+            "text": "他にも質問したいことがある",
+            "zh": "还有其他想问的事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1735/ACT",
+            "narrator": "",
+            "text": "全力で協力するよ！",
+            "zh": "我会全力配合的！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1736/TALK",
+            "narrator": "エリカ",
+            "text": "ありがとう。",
+            "zh": "谢谢你。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1737/TALK",
+            "narrator": "エリカ",
+            "text": "千羽鶴ちゃんにも\nそう伝えておくね。",
+            "zh": "我也会这样\n转告给千羽鹤的。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1738/TALK",
+            "narrator": "エリカ",
+            "text": "きっと喜ぶと思う。",
+            "zh": "她一定会很开心的。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1739/SEL",
+            "narrator": "",
+            "text": "千羽鶴？",
+            "zh": "千羽鹤？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1740/ACT",
+            "narrator": "",
+            "text": "千羽鶴？",
+            "zh": "千羽鹤？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1742/ACT",
+            "narrator": "",
+            "text": "上手くいくとは思えないけど…",
+            "zh": "虽然觉得不太会顺利……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1743/TALK",
+            "narrator": "エリカ",
+            "text": "そうだね。正直言って、\nやってみるまでは\n成功するかわからない。",
+            "zh": "是呢。老实说，\n在真正试过之前\n也不知道能不能成功。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1744/TALK",
+            "narrator": "エリカ",
+            "text": "けど、この作戦の強みは、\n本人の攻略を本人が\nしているということなの。",
+            "zh": "不过，这个作战的强项，\n在于是由本人亲自去\n攻略本人哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1745/SEL",
+            "narrator": "",
+            "text": "本人…？",
+            "zh": "本人……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1746/ACT",
+            "narrator": "",
+            "text": "本人…？",
+            "zh": "本人……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1748/TALK",
+            "narrator": "エリカ",
+            "text": "千羽鶴ちゃんのことだよ。",
+            "zh": "指的是千羽鹤啦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1749/ACT",
+            "narrator": "",
+            "text": "断固反対！",
+            "zh": "坚决反对！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1750/TALK",
+            "narrator": "エリカ",
+            "text": "えっ、そうなの？\nどうして？",
+            "zh": "咦，是这样吗？\n为什么？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1751/SEL",
+            "narrator": "",
+            "text": "神楽はあんたのおもちゃじゃない",
+            "zh": "神乐不是你的玩具",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1752/SEL",
+            "narrator": "",
+            "text": "神楽を余計に苦しめることになるなんて、耐えられない",
+            "zh": "还要让神乐更加痛苦，这让人无法忍受",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1753/SEL",
+            "narrator": "",
+            "text": "エリカは信用ならないから",
+            "zh": "因为领火并不可信",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1754/SEL",
+            "narrator": "",
+            "text": "理由は上手くまとめられないけど、とにかく反対！",
+            "zh": "虽然说不太清理由，总之就是反对！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1755/ACT",
+            "narrator": "",
+            "text": "神楽はあんたのおもちゃじゃない",
+            "zh": "神乐不是你的玩具",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1756/TALK",
+            "narrator": "エリカ",
+            "text": "うーん…そうだね。\nごめんなさい。",
+            "zh": "唔——……是啊。\n对不起。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1757/TALK",
+            "narrator": "エリカ",
+            "text": "そういうつもりは\n無かったんだけど――",
+            "zh": "我并没有\n那个意思的——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1758/ACT",
+            "narrator": "",
+            "text": "神楽を余計に苦しめることになるなんて、耐えられない",
+            "zh": "还要让神乐更加痛苦，这让人无法忍受",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1759/TALK",
+            "narrator": "エリカ",
+            "text": "確かに、これだけだと\n葛藤が大きくなってしまう\nようにしか見えないよね。",
+            "zh": "确实，光看这一步\n看起来也只会让她的\n纠葛变大呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1760/TALK",
+            "narrator": "エリカ",
+            "text": "でも、最終的には\nより良い結果を目指して\nいることだから――",
+            "zh": "但是，最终我们是\n以更好的结果为\n目标的——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1761/TALK",
+            "narrator": "エリカ",
+            "text": "それだけは\n信じて欲しいかな。",
+            "zh": "至少这一点，\n我希望你能相信呀。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1762/ACT",
+            "narrator": "",
+            "text": "エリカは信用ならないから",
+            "zh": "因为领火并不可信",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1763/TALK",
+            "narrator": "エリカ",
+            "text": "そっか……。",
+            "zh": "这样啊……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1764/TALK",
+            "narrator": "エリカ",
+            "text": "安心してこっちの世界に\n関われないような感じに\nなっちゃってごめんね？",
+            "zh": "弄得你没法放心地\n参与这边的世界，\n真是对不起呀？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1765/ACT",
+            "narrator": "",
+            "text": "理由は上手くまとめられないけど、とにかく反対！",
+            "zh": "虽然说不太清理由，总之就是反对！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1766/TALK",
+            "narrator": "エリカ",
+            "text": "そ、そうなんだ……。",
+            "zh": "这、这样啊……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1767/TALK",
+            "narrator": "エリカ",
+            "text": "うーん……。",
+            "zh": "唔——……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1769/TALK",
+            "narrator": "エリカ",
+            "text": "とにかく、\n受け入れられないのは\nわかったよ。",
+            "zh": "总之，\n你无法接受这件事\n我知道了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1770/TALK",
+            "narrator": "エリカ",
+            "text": "でも心配しないでね。",
+            "zh": "不过别担心哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1771/TALK",
+            "narrator": "エリカ",
+            "text": "受け入れられなければ、\nつばめちゃんに\n助言しなければいいから。",
+            "zh": "如果不能接受的话，\n不去向燕提议\n就好了嘛。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1772/TALK",
+            "narrator": "エリカ",
+            "text": "プレゼントの提案を\nしなければ、リプレイスは\n実行されないからね。",
+            "zh": "只要不提议送礼物，\n替换就不会\n执行了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1773/TALK",
+            "narrator": "エリカ",
+            "text": "最終的には、\n$handle$さんの\n判断に任せたいと思う。",
+            "zh": "最终还是\n交给$handle$\n来判断吧。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1775/ACT",
+            "narrator": "",
+            "text": "他にも質問したいことがある",
+            "zh": "还有其他想问的事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1779/TALK",
+            "narrator": "エリカ",
+            "text": "前にもちょっと話したけど\n作戦立案は千羽鶴ちゃんが\nやってるの。",
+            "zh": "之前也稍微提过，\n作战立案是千羽鹤\n在负责哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1780/TALK",
+            "narrator": "エリカ",
+            "text": "千羽鶴ちゃんは、\n記録映像の自分が何を\n思っていたか――",
+            "zh": "因为千羽鹤自己最清楚\n记录影像里的自己在\n想什么——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1781/TALK",
+            "narrator": "エリカ",
+            "text": "どういう駆け引きを\nやっていたかを全部\n把握してるからね。",
+            "zh": "当时在进行着怎样的\n博弈，她全都能\n把握得一清二楚。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1782/TALK",
+            "narrator": "エリカ",
+            "text": "ある意味、皇長官の\n答えを知ってると言っても\nいいくらいだよ。",
+            "zh": "从某种意义上说，\n简直就像已经知道了\n皇长官的答案一样哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1783/SEL",
+            "narrator": "",
+            "text": "やべー一気に勝てる気がしてきた！",
+            "zh": "糟糕，一下子觉得能赢了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1784/SEL",
+            "narrator": "",
+            "text": "でも千羽鶴を懐柔できたとしても、それ自体は目的ではないわけで…",
+            "zh": "但就算能拉拢千羽鹤，那本身也不是目的所在吧……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1785/ACT",
+            "narrator": "",
+            "text": "やべー一気に勝てる気がしてきた！",
+            "zh": "糟糕，一下子觉得能赢了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1786/TALK",
+            "narrator": "エリカ",
+            "text": "えへへ、よかった！",
+            "zh": "哎嘿嘿，太好了！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1787/ACT",
+            "narrator": "",
+            "text": "でも千羽鶴を懐柔できたとしても、それ自体は目的ではないわけで…",
+            "zh": "但就算能拉拢千羽鹤，那本身也不是目的所在吧……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1788/TALK",
+            "narrator": "エリカ",
+            "text": "うん。もちろんそう。",
+            "zh": "嗯。当然是那样。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1789/TALK",
+            "narrator": "エリカ",
+            "text": "だから、少しでも不確定\n要素を減らすために、皇\n長官を固めておきたい。",
+            "zh": "所以，为了哪怕减少\n一点不确定因素，\n才想先稳住皇长官。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1790/TALK",
+            "narrator": "エリカ",
+            "text": "最初から、最後までの\n青写真を作ることは\n不可能だからね。",
+            "zh": "毕竟从一开始就画出\n直到最后的蓝图，\n是不可能的嘛。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1791/TALK",
+            "narrator": "エリカ",
+            "text": "本当に、最後の最後の\n直前までは、神に祈りつつ\nやる感じになると思う。",
+            "zh": "真的直到最后关头\n之前，大概都要一边向神\n祈祷一边推进呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1792/TALK",
+            "narrator": "エリカ",
+            "text": "途方も無いことだと\n思うけど、それでも\nやらなくちゃ。",
+            "zh": "虽然觉得是件无比\n艰难的事，但就算那样\n也非做不可。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1795/TALK",
+            "narrator": "エリカ",
+            "text": "というわけで、\nもし協力してくれるなら\nお願いは１つだけ。",
+            "zh": "于是乎，\n如果你愿意帮忙的话，\n请求只有1件。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1796/TALK",
+            "narrator": "エリカ",
+            "text": "良きタイミングで、\nつばめちゃんに\nWAVEで語りかけて――",
+            "zh": "在合适的时机，\n在WAVE上对燕\n搭话——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1797/TALK",
+            "narrator": "エリカ",
+            "text": "神楽ちゃんと、おそろいの\nプレゼントをするように\n提案して欲しいの。",
+            "zh": "希望你能提议让她和\n神乐互相准备一对\n同款的礼物。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1798/TALK",
+            "narrator": "エリカ",
+            "text": "その提案をもって、\n今回のリプレイスが\n開始される。",
+            "zh": "只要做出这个提议，\n这次的替换\n就会开始。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1799/TALK",
+            "narrator": "エリカ",
+            "text": "逆に、提案しなくても\n世界は進行していく。",
+            "zh": "反过来说，就算不提议\n世界也会继续推进。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1800/TALK",
+            "narrator": "エリカ",
+            "text": "その場合\nリプレイスは\n起こらない。",
+            "zh": "那种情况下\n替换就\n不会发生。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1801/TALK",
+            "narrator": "エリカ",
+            "text": "最終的にリプレイスするか\n否かについては、その時の\nあなたの判断に任せるよ。",
+            "zh": "最终到底要不要替换，\n就交给那时的你\n来判断了哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1802/TALK",
+            "narrator": "エリカ",
+            "text": "そして、\nもしあなたがリプレイスを\nしてくれたならば――",
+            "zh": "然后，\n如果你执行了\n替换的话——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1803/TALK",
+            "narrator": "エリカ",
+            "text": "その結果を観測した後に、\n続けて実施する予定の\nリプレイスの判断に移る。",
+            "zh": "在观测到那个结果后，\n就会进入预定接着实施\n的替换的判断环节。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1804/TALK",
+            "narrator": "エリカ",
+            "text": "……とまあ、\nだいたいこんな感じ。",
+            "zh": "……大概就是\n这种感觉啦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1805/SEL",
+            "narrator": "",
+            "text": "頑張るよ",
+            "zh": "我会努力的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1806/SEL",
+            "narrator": "",
+            "text": "気が進まないけど、やるだけやるよ",
+            "zh": "虽然提不起劲，但我会尽力而为",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1807/SEL",
+            "narrator": "",
+            "text": "スルーします",
+            "zh": "我选择跳过",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1808/ACT",
+            "narrator": "",
+            "text": "頑張るよ",
+            "zh": "我会努力的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1809/TALK",
+            "narrator": "エリカ",
+            "text": "ありがとう。\nわたしも全力で\nがんばるよ！",
+            "zh": "谢谢你。\n我也会全力\n加油的！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1810/ACT",
+            "narrator": "",
+            "text": "気が進まないけど、やるだけやるよ",
+            "zh": "虽然提不起劲，但我会尽力而为",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1811/TALK",
+            "narrator": "エリカ",
+            "text": "ありがとう。\nあなただけが\n頼りだから……。",
+            "zh": "谢谢你。\n我们能依靠的\n就只有你了……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1812/ACT",
+            "narrator": "",
+            "text": "スルーします",
+            "zh": "我选择跳过",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1813/TALK",
+            "narrator": "エリカ",
+            "text": "そっか。",
+            "zh": "这样啊。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1814/TALK",
+            "narrator": "エリカ",
+            "text": "次はもっと、納得して\nもらえそうな案を\n考えておくね。",
+            "zh": "下次我会想一个\n更能让你接受的\n方案来的。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1816/TALK",
+            "narrator": "エリカ",
+            "text": "それじゃ今回も、\n神楽ちゃんと世界のこと、\nよろしくお願いします！",
+            "zh": "那么这一次，\n神乐和世界的事，\n也拜托你了！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1670/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime1",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime1"
+        },
+        {
+            "location": "1672/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime2",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime2"
+        },
+        {
+            "location": "1674/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime3",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime3"
+        },
+        {
+            "location": "1676/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime4",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime4"
+        },
+        {
+            "location": "1678/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime5",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime5"
+        }
+    ]
+}

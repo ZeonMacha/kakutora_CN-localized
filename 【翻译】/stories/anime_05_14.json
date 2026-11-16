@@ -1,0 +1,2345 @@
+{
+    "dir": "chap14/daydra/anime_05_14.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "14501",
+        "cid": "kagura",
+        "title": "001 アニメーション",
+        "sub_title": "NYABONYASTIE 第一巻",
+        "title_zh": "001 动画",
+        "sub_title_zh": "NYABONYASTIE 第一卷"
+    },
+    "entry": [
+        {
+            "location": "888/SCENARIO",
+            "narrator": "",
+            "text": "アニメ第14話",
+            "zh": "动画第14话",
+            "narrator_zh": ""
+        },
+        {
+            "location": "902/TALK",
+            "narrator": "千羽鶴",
+            "text": "ごきげんよう、\n$handle$。",
+            "zh": "贵安，\n$handle$。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "903/TALK",
+            "narrator": "千羽鶴",
+            "text": "もう一度\n私との会話を\n再現する？",
+            "zh": "要再一次\n重现与我的\n对话吗？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "904/SEL",
+            "narrator": "",
+            "text": "はい",
+            "zh": "是",
+            "narrator_zh": ""
+        },
+        {
+            "location": "905/SEL",
+            "narrator": "",
+            "text": "いいえ",
+            "zh": "否",
+            "narrator_zh": ""
+        },
+        {
+            "location": "906/SEL",
+            "narrator": "",
+            "text": "にゃボットの解説だけ聞く",
+            "zh": "只听喵Bot的解说",
+            "narrator_zh": ""
+        },
+        {
+            "location": "907/ACT",
+            "narrator": "",
+            "text": "はい",
+            "zh": "是",
+            "narrator_zh": ""
+        },
+        {
+            "location": "908/TALK",
+            "narrator": "千羽鶴",
+            "text": "わかった。",
+            "zh": "好。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "910/ACT",
+            "narrator": "",
+            "text": "いいえ",
+            "zh": "否",
+            "narrator_zh": ""
+        },
+        {
+            "location": "911/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう。",
+            "zh": "是的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "913/ACT",
+            "narrator": "",
+            "text": "にゃボットの解説だけ聞く",
+            "zh": "只听喵Bot的解说",
+            "narrator_zh": ""
+        },
+        {
+            "location": "914/TALK",
+            "narrator": "千羽鶴",
+            "text": "わかった。",
+            "zh": "好。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "921/TALK",
+            "narrator": "千羽鶴",
+            "text": "今回は別に\n来る必要も無いところ。",
+            "zh": "这次其实\n根本没必要来这里。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "922/TALK",
+            "narrator": "千羽鶴",
+            "text": "これから\nちょっとしたゲームを\nする予定だけど――",
+            "zh": "我接下来\n打算玩个小游戏\n来着——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "923/TALK",
+            "narrator": "千羽鶴",
+            "text": "貴方を不快に\nさせるだけだし、\n帰った方がいいと思う。",
+            "zh": "只会让你感到\n不愉快，\n我觉得还是回去的好。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "924/SEL",
+            "narrator": "",
+            "text": "帰ります",
+            "zh": "我回去了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "925/SEL",
+            "narrator": "",
+            "text": "やっていく",
+            "zh": "玩下去",
+            "narrator_zh": ""
+        },
+        {
+            "location": "926/ACT",
+            "narrator": "",
+            "text": "帰ります",
+            "zh": "我回去了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "928/TALK",
+            "narrator": "千羽鶴",
+            "text": "それがいいと思う。",
+            "zh": "这样最好。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "929/TALK",
+            "narrator": "千羽鶴",
+            "text": "このエピソードは\n見なくても次の\nエピソードに進めるから。",
+            "zh": "这一话就算不看，\n也能继续推进到\n下一话。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "930/TALK",
+            "narrator": "千羽鶴",
+            "text": "だから安心して\n次に進んで欲しい。",
+            "zh": "所以你大可放心\n继续往下走。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "932/ACT",
+            "narrator": "",
+            "text": "やっていく",
+            "zh": "玩下去",
+            "narrator_zh": ""
+        },
+        {
+            "location": "933/TALK",
+            "narrator": "千羽鶴",
+            "text": "もの凄く不快になると\n思うけど、いい？",
+            "zh": "我想会让你觉得\n非常不愉快哦，可以吗？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "934/TALK",
+            "narrator": "千羽鶴",
+            "text": "なぜなら、多分\n私の自制が効かなくて\nめちゃはしゃぐから。",
+            "zh": "因为我大概会\n控制不住自己，\n闹得非常欢。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "935/TALK",
+            "narrator": "千羽鶴",
+            "text": "それでもいいなら\nやっていくといい。",
+            "zh": "就算这样也行的话，\n那就玩吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "936/SEL",
+            "narrator": "",
+            "text": "帰ります",
+            "zh": "我回去了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "937/SEL",
+            "narrator": "",
+            "text": "やっていく",
+            "zh": "玩下去",
+            "narrator_zh": ""
+        },
+        {
+            "location": "938/ACT",
+            "narrator": "",
+            "text": "帰ります",
+            "zh": "我回去了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "940/ACT",
+            "narrator": "",
+            "text": "やっていく",
+            "zh": "玩下去",
+            "narrator_zh": ""
+        },
+        {
+            "location": "941/TALK",
+            "narrator": "千羽鶴",
+            "text": "……わかった。",
+            "zh": "……好吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "942/TALK",
+            "narrator": "千羽鶴",
+            "text": "どういう理由かは\nわからないけど、\nそこまで言うなら――",
+            "zh": "虽然不知道\n是什么理由，\n既然你都这么说了——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "943/TALK",
+            "narrator": "千羽鶴",
+            "text": "嫌悪感で気持ち悪く\nならないように、\nまずは気合いを入れて。",
+            "zh": "为了不让你因厌恶感\n而犯恶心，\n我先振作一下精神。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "944/TALK",
+            "narrator": "千羽鶴",
+            "text": "それじゃ――",
+            "zh": "那么——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "951/TALK",
+            "narrator": "千羽鶴",
+            "text": "<size=40>どーん！</size>",
+            "zh": "<size=40>咚！</size>",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "952/TALK",
+            "narrator": "千羽鶴",
+            "text": "というわけで、\n今回は特別回！",
+            "zh": "于是乎，\n这次是特别篇！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "953/SEL",
+            "narrator": "",
+            "text": "千羽鶴キター",
+            "zh": "千羽鹤来啦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "954/SEL",
+            "narrator": "",
+            "text": "何やるの？",
+            "zh": "要搞什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "955/ACT",
+            "narrator": "",
+            "text": "千羽鶴キター",
+            "zh": "千羽鹤来啦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "956/ACT",
+            "narrator": "",
+            "text": "何やるの？",
+            "zh": "要搞什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "962/TALK",
+            "narrator": "千羽鶴",
+            "text": "<size=35><color=red>トライナリー\nクイズ大会！</color></size>",
+            "zh": "<size=35><color=red>三重奏\n猜谜大会！</color></size>",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "963/SEL",
+            "narrator": "",
+            "text": "ドンドンパフパフ！",
+            "zh": "咚咚啪呼啪呼！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "964/SEL",
+            "narrator": "",
+            "text": "名前が直球すぎじゃね？",
+            "zh": "这名字也太直白了吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "965/SEL",
+            "narrator": "",
+            "text": "そんな事やってる暇あんの？",
+            "zh": "有工夫搞这种事吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "966/ACT",
+            "narrator": "",
+            "text": "ドンドンパフパフ！",
+            "zh": "咚咚啪呼啪呼！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "968/ACT",
+            "narrator": "",
+            "text": "名前が直球すぎじゃね？",
+            "zh": "这名字也太直白了吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "969/TALK",
+            "narrator": "千羽鶴",
+            "text": "黙れ。",
+            "zh": "闭嘴。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "970/ACT",
+            "narrator": "",
+            "text": "そんな事やってる暇あんの？",
+            "zh": "有工夫搞这种事吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "971/TALK",
+            "narrator": "千羽鶴",
+            "text": "今回はMV回。\nMV回はTRI-OSが\nガベコレする時間。",
+            "zh": "这次是MV回。\nMV回是TRI-OS\n进行GC的时间。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "972/SEL",
+            "narrator": "",
+            "text": "そうだったの！？",
+            "zh": "原来是这样吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "973/SEL",
+            "narrator": "",
+            "text": "ガベコレってなに？",
+            "zh": "GC是什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "974/ACT",
+            "narrator": "",
+            "text": "そうだったの！？",
+            "zh": "原来是这样吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "975/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう。",
+            "zh": "是的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "976/ACT",
+            "narrator": "",
+            "text": "ガベコレってなに？",
+            "zh": "GC是什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "977/TALK",
+            "narrator": "千羽鶴",
+            "text": "ガベージコレクション。\nシステムの最適化と\nゴミ捨てをする時間。",
+            "zh": "Garbage Collection（垃圾回收）。\n进行系统优化和\n清理垃圾的时间。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "979/TALK",
+            "narrator": "千羽鶴",
+            "text": "だから、ろくに何の機能も\n動かないし、未来に対して\nアプローチもできない。",
+            "zh": "所以什么功能都\n不太能运转，也无法\n对未来采取行动。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "983/TALK",
+            "narrator": "千羽鶴",
+            "text": "<color=red><size=40>遊ぶが吉！</size></color>",
+            "zh": "<color=red><size=40>玩耍为吉！</size></color>",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "984/TALK",
+            "narrator": "千羽鶴",
+            "text": "人生ゆとりもまた\n必要だと思う。",
+            "zh": "我觉得人生也是需要\n一点余地的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "985/TALK",
+            "narrator": "千羽鶴",
+            "text": "古人だって源平合戦の合間\nですら『扇の的』ゲームの\nような余興を楽しんだ程！",
+            "zh": "就连古人在源平合战的\n间隙，都还会享受『扇之的』\n那样的余兴游戏呢！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "986/SEL",
+            "narrator": "",
+            "text": "うむ、確かに",
+            "zh": "嗯，确实",
+            "narrator_zh": ""
+        },
+        {
+            "location": "987/SEL",
+            "narrator": "",
+            "text": "いや、あれ割とエグい話だよ？",
+            "zh": "不，那个故事其实挺狠的吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "988/ACT",
+            "narrator": "",
+            "text": "うむ、確かに",
+            "zh": "嗯，确实",
+            "narrator_zh": ""
+        },
+        {
+            "location": "989/ACT",
+            "narrator": "",
+            "text": "いや、あれ割とエグい話だよ？",
+            "zh": "不，那个故事其实挺狠的吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "991/TALK",
+            "narrator": "千羽鶴",
+            "text": "揚げ足とりめ。",
+            "zh": "真爱抬杠。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "992/TALK",
+            "narrator": "千羽鶴",
+            "text": "べーだ。",
+            "zh": "略。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "993/TALK",
+            "narrator": "千羽鶴",
+            "text": "そこは空気読んで\n同意するところだから。",
+            "zh": "那种时候该看气氛\n顺着点头才对。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "997/TALK",
+            "narrator": "千羽鶴",
+            "text": "というわけで、\n早速だけどルールと賞品の\n説明をする。",
+            "zh": "那么，\n事不宜迟，我来说明\n一下规则和奖品。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "998/TALK",
+            "narrator": "千羽鶴",
+            "text": "ルールは簡単。",
+            "zh": "规则很简单。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "999/TALK",
+            "narrator": "千羽鶴",
+            "text": "全部で１０問の問題に\n解答し、全問正解した\n方には賞品が出る。",
+            "zh": "回答总共10道题，\n全部答对的人\n可以获得奖品。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1000/SEL",
+            "narrator": "",
+            "text": "賞品ってなに？",
+            "zh": "奖品是什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1001/SEL",
+            "narrator": "",
+            "text": "賞品ってまさか……",
+            "zh": "奖品难道说是……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1002/ACT",
+            "narrator": "",
+            "text": "賞品ってなに？",
+            "zh": "奖品是什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1003/ACT",
+            "narrator": "",
+            "text": "賞品ってまさか……",
+            "zh": "奖品难道说是……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1004/TALK",
+            "narrator": "千羽鶴",
+            "text": "何か知っていそうな聡い\n貴方の反応を無視し、ドヤ\n顔で発表させてもらう。",
+            "zh": "无视似乎知道点什么\n的聪明你的反应，\n让我得意地宣布吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1006/TALK",
+            "narrator": "千羽鶴",
+            "text": "全問正解者には――",
+            "zh": "全部答对的人将获得——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1015/TALK",
+            "narrator": "千羽鶴",
+            "text": "鬼才國政領火博士制作、\n多足ロボットにゃボットが\n育てられる連載型クラン！",
+            "zh": "鬼才国政领火博士制作、\n可以培育多足机器人喵Bot的\n连载型库兰！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1016/TALK",
+            "narrator": "千羽鶴",
+            "text": "<color=green>定期刊クラン誌\n『にゃぼにゃすティー』\n第一巻</color>をプレゼント！",
+            "zh": "<color=green>定期刊库兰志\n『喵博尼亚斯蒂』\n第一卷</color>作为礼物！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1020/SEL",
+            "narrator": "",
+            "text": "にゃボットキター！",
+            "zh": "喵Bot来啦！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1021/SEL",
+            "narrator": "",
+            "text": "にゃボットってなに？",
+            "zh": "喵Bot是什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1022/ACT",
+            "narrator": "",
+            "text": "にゃボットキター！",
+            "zh": "喵Bot来啦！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1023/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう、来た。",
+            "zh": "是的，来了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1024/TALK",
+            "narrator": "千羽鶴",
+            "text": "にゃぼにゃすティーには\n１巻につき１体の\nにゃボットがついてくる。",
+            "zh": "喵博尼亚斯蒂\n每一卷都会附带\n1台喵Bot。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1025/TALK",
+            "narrator": "千羽鶴",
+            "text": "全5巻にわたるその全てを\nコンプリートすれば、\n４凸にゃボットになる！",
+            "zh": "只要集齐横跨全5卷的\n全部内容，就能变成\n4破喵Bot！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1026/TALK",
+            "narrator": "千羽鶴",
+            "text": "だから頑張って\nクイズに答えて、\n第一巻をゲットしてみて。",
+            "zh": "所以请加油\n回答猜谜，\n试着拿下第一卷吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1027/ACT",
+            "narrator": "",
+            "text": "にゃボットってなに？",
+            "zh": "喵Bot是什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1028/TALK",
+            "narrator": "千羽鶴",
+            "text": "にゃボットは\n國政領火が制作した\nネコ型ロボット。",
+            "zh": "喵Bot是\n国政领火制作的\n猫型机器人。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1029/TALK",
+            "narrator": "千羽鶴",
+            "text": "特徴は、\n足が８本あること。",
+            "zh": "特征是，\n长着8条腿。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1030/TALK",
+            "narrator": "千羽鶴",
+            "text": "本人曰く――",
+            "zh": "据本人所说——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1031/TALK",
+            "narrator": "千羽鶴",
+            "text": "『最も画期的かつ実用的で\n可愛さもギュッと詰まった\n多目的クモ型にゃボット』",
+            "zh": "『最具划时代意义又实用、\n可爱度也塞得满满的\n多用途蜘蛛型喵Bot』",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1032/TALK",
+            "narrator": "千羽鶴",
+            "text": "……とのこと。",
+            "zh": "……她是这么说的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1033/TALK",
+            "narrator": "千羽鶴",
+            "text": "制作に至る経緯は、\n実妹である國政綾水に\nプレゼントする為だとか。",
+            "zh": "至于制作的契机，\n据说是为了送给\n亲妹妹国政绫水。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1034/TALK",
+            "narrator": "千羽鶴",
+            "text": "國政綾水の\nココロスフィアを見ると、\nエピソードが見られる。",
+            "zh": "看国政绫水的\n心灵领域，就能\n看到这段剧情。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1036/TALK",
+            "narrator": "千羽鶴",
+            "text": "というわけだから、\nにゃボット目指し全問\n正解に挑戦して欲しい！",
+            "zh": "就是这么回事，\n请以喵Bot为目标，\n挑战全题答对吧！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1039/TALK",
+            "narrator": "千羽鶴",
+            "text": "それでは早速、\nクイズを開始する。",
+            "zh": "那么事不宜迟，\n猜谜开始。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1040/TALK",
+            "narrator": "千羽鶴",
+            "text": "問題は全部で１０問。\n何問正解したかは、\n終了時に点数で告知する。",
+            "zh": "题目一共有10道。\n答对了多少题，会在\n结束时以分数告知。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1041/TALK",
+            "narrator": "千羽鶴",
+            "text": "要するに、途中どこで\n間違えたかはわからない\n仕組みになっている。",
+            "zh": "也就是说，中途\n在哪里答错了，\n是不会知道的机制。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1044/TALK",
+            "narrator": "千羽鶴",
+            "text": "<size=40>鬼畜仕様！</size>",
+            "zh": "<size=40>鬼畜规格！</size>",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1045/SEL",
+            "narrator": "",
+            "text": "自分で言うな！",
+            "zh": "别自己吐槽啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1046/SEL",
+            "narrator": "",
+            "text": "お、おう",
+            "zh": "哦、哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1047/ACT",
+            "narrator": "",
+            "text": "自分で言うな！",
+            "zh": "别自己吐槽啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1048/TALK",
+            "narrator": "千羽鶴",
+            "text": "自分で言わねば\n誰が言う！！",
+            "zh": "我不自己说\n谁来说！！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1049/ACT",
+            "narrator": "",
+            "text": "お、おう",
+            "zh": "哦、哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1051/TALK",
+            "narrator": "千羽鶴",
+            "text": "というわけで――",
+            "zh": "于是乎——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1054/TALK",
+            "narrator": "千羽鶴",
+            "text": "第一問！",
+            "zh": "第一题！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1055/TALK",
+            "narrator": "千羽鶴",
+            "text": "トライナリーの\n正式名称は？",
+            "zh": "三重奏的\n正式名称是？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1056/SEL",
+            "narrator": "",
+            "text": "総務省情報管理庁管轄特殊戦略隊群拡張現実特別攻撃隊",
+            "zh": "总务省信息管理厅管辖特殊战略队群扩展现实特别攻击队",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1057/SEL",
+            "narrator": "",
+            "text": "総務省情報管理庁管轄拡張現実特殊戦略隊群ぷりちーぬ親衛隊",
+            "zh": "总务省信息管理厅管辖扩展现实特殊战略队群Pretty-nu亲卫队",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1058/SEL",
+            "narrator": "",
+            "text": "総務省情報管理庁管轄拡張現実特殊戦略隊群特別攻撃隊",
+            "zh": "总务省信息管理厅管辖扩展现实特殊战略队群特别攻击队",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1059/ACT",
+            "narrator": "",
+            "text": "総務省情報管理庁管轄特殊戦略隊群拡張現実特別攻撃隊",
+            "zh": "总务省信息管理厅管辖特殊战略队群扩展现实特别攻击队",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1060/ACT",
+            "narrator": "",
+            "text": "総務省情報管理庁管轄拡張現実特殊戦略隊群ぷりちーぬ親衛隊",
+            "zh": "总务省信息管理厅管辖扩展现实特殊战略队群Pretty-nu亲卫队",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1061/TALK",
+            "narrator": "千羽鶴",
+            "text": "あっ！",
+            "zh": "啊！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1062/TALK",
+            "narrator": "千羽鶴",
+            "text": "……なんでもない。",
+            "zh": "……没什么。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1063/ACT",
+            "narrator": "",
+            "text": "総務省情報管理庁管轄拡張現実特殊戦略隊群特別攻撃隊",
+            "zh": "总务省信息管理厅管辖扩展现实特殊战略队群特别攻击队",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1067/TALK",
+            "narrator": "千羽鶴",
+            "text": "第二問！",
+            "zh": "第二题！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1068/TALK",
+            "narrator": "千羽鶴",
+            "text": "逢瀬つばめの初上京、\n5/3 FreyMENOWライブ\n当日の交通手段は？",
+            "zh": "逢濑燕初次来东京，\n5/3 FreyMENOW演唱会\n当天的交通方式是？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1069/SEL",
+            "narrator": "",
+            "text": "東海道線鈍行掛川→熱海→（グリーン車）→品川→目黒→後楽園",
+            "zh": "东海道线慢车挂川→热海→（绿色车厢）→品川→目黑→后乐园",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1070/SEL",
+            "narrator": "",
+            "text": "東海道新幹線掛川→東京→後楽園",
+            "zh": "东海道新干线挂川→东京→后乐园",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1071/SEL",
+            "narrator": "",
+            "text": "東海道線鈍行掛川→名古屋→セントレア→羽田→品川→目黒→後楽園",
+            "zh": "东海道线慢车挂川→名古屋→新特丽亚→羽田→品川→目黑→后乐园",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1072/ACT",
+            "narrator": "",
+            "text": "東海道線鈍行掛川→熱海→（グリーン車）→品川→目黒→後楽園",
+            "zh": "东海道线慢车挂川→热海→（绿色车厢）→品川→目黑→后乐园",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1075/ACT",
+            "narrator": "",
+            "text": "東海道新幹線掛川→東京→後楽園",
+            "zh": "东海道新干线挂川→东京→后乐园",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1076/ACT",
+            "narrator": "",
+            "text": "東海道線鈍行掛川→名古屋→セントレア→羽田→品川→目黒→後楽園",
+            "zh": "东海道线慢车挂川→名古屋→新特丽亚→羽田→品川→目黑→后乐园",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1078/TALK",
+            "narrator": "千羽鶴",
+            "text": "第三問！",
+            "zh": "第三题！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1079/TALK",
+            "narrator": "千羽鶴",
+            "text": "國政綾水の剣道ジュニア\n世界選手権大会で優勝した\n時の開催地は？",
+            "zh": "国政绫水在剑道青少年\n世界锦标赛中夺冠时，\n举办地是？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1080/SEL",
+            "narrator": "",
+            "text": "NAGANO",
+            "zh": "NAGANO",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1081/SEL",
+            "narrator": "",
+            "text": "TOKYO",
+            "zh": "TOKYO",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1082/SEL",
+            "narrator": "",
+            "text": "WARSAW",
+            "zh": "WARSAW",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1089/TALK",
+            "narrator": "千羽鶴",
+            "text": "第四問！",
+            "zh": "第四题！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1090/TALK",
+            "narrator": "千羽鶴",
+            "text": "ガブリエラの大好きな\nカフェ「むぎまる」の\n大好きまんぢうは？",
+            "zh": "加布里埃拉最喜欢的\n咖啡馆「麦丸」里，\n她最爱的馒头是？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1091/SEL",
+            "narrator": "",
+            "text": "珈琲まん",
+            "zh": "咖啡馒头",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1092/SEL",
+            "narrator": "",
+            "text": "紅茶まん",
+            "zh": "红茶馒头",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1093/SEL",
+            "narrator": "",
+            "text": "緑茶まん",
+            "zh": "绿茶馒头",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1094/ACT",
+            "narrator": "",
+            "text": "珈琲まん",
+            "zh": "咖啡馒头",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1095/ACT",
+            "narrator": "",
+            "text": "紅茶まん",
+            "zh": "红茶馒头",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1098/ACT",
+            "narrator": "",
+            "text": "緑茶まん",
+            "zh": "绿茶馒头",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1100/TALK",
+            "narrator": "千羽鶴",
+            "text": "第五問！",
+            "zh": "第五题！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1101/TALK",
+            "narrator": "千羽鶴",
+            "text": "恋ヶ崎みやびが所有する\nスーパーコンピューターの\n名前は？",
+            "zh": "恋之崎雅拥有的\n超级计算机的\n名字是？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1102/SEL",
+            "narrator": "",
+            "text": "最愛棒",
+            "zh": "最爱档",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1103/SEL",
+            "narrator": "",
+            "text": "不思議ちゃん",
+            "zh": "奇思酱",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1104/SEL",
+            "narrator": "",
+            "text": "不可思議ちゃん",
+            "zh": "不可思议酱",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1105/ACT",
+            "narrator": "",
+            "text": "最愛棒",
+            "zh": "最爱档",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1106/ACT",
+            "narrator": "",
+            "text": "不思議ちゃん",
+            "zh": "奇思酱",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1107/ACT",
+            "narrator": "",
+            "text": "不可思議ちゃん",
+            "zh": "不可思议酱",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1111/TALK",
+            "narrator": "千羽鶴",
+            "text": "第六問！",
+            "zh": "第六题！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1112/TALK",
+            "narrator": "千羽鶴",
+            "text": "卯月神楽が大好きな\nラノベといえば！",
+            "zh": "要说卯月神乐最喜欢的\n轻小说，那就是！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1113/SEL",
+            "narrator": "",
+            "text": "お兄ちゃんがダダこねるから魔法学校落第しちゃったテヘペロ",
+            "zh": "哥哥撒娇撒过头害我从魔法学校落榜了tehepero",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1114/SEL",
+            "narrator": "",
+            "text": "妹がダダこねるから魔法学校落第しちゃったテヘペロ",
+            "zh": "妹妹撒娇撒过头害我从魔法学校落榜了tehepero",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1115/SEL",
+            "narrator": "",
+            "text": "お兄ちゃんが魔法学校落第したから妹がペロペロしたった",
+            "zh": "因为哥哥从魔法学校落榜了所以妹妹舔舔舔了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1116/ACT",
+            "narrator": "",
+            "text": "お兄ちゃんがダダこねるから魔法学校落第しちゃったテヘペロ",
+            "zh": "哥哥撒娇撒过头害我从魔法学校落榜了tehepero",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1117/ACT",
+            "narrator": "",
+            "text": "妹がダダこねるから魔法学校落第しちゃったテヘペロ",
+            "zh": "妹妹撒娇撒过头害我从魔法学校落榜了tehepero",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1120/ACT",
+            "narrator": "",
+            "text": "お兄ちゃんが魔法学校落第したから妹がペロペロしたった",
+            "zh": "因为哥哥从魔法学校落榜了所以妹妹舔舔舔了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1122/TALK",
+            "narrator": "千羽鶴",
+            "text": "第七問！",
+            "zh": "第七题！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1123/TALK",
+            "narrator": "千羽鶴",
+            "text": "逢瀬つばめの友人である\n繭と雛それぞれの趣味は？",
+            "zh": "逢濑燕的朋友\n茧和雏各自的兴趣是？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1124/SEL",
+            "narrator": "",
+            "text": "ゾンビと艦船",
+            "zh": "僵尸与舰船",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1125/SEL",
+            "narrator": "",
+            "text": "プログラムとダイヤグラム",
+            "zh": "编程与时刻表",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1126/SEL",
+            "narrator": "",
+            "text": "メイドカフェと鉄塔登り",
+            "zh": "女仆咖啡厅与爬铁塔",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1127/ACT",
+            "narrator": "",
+            "text": "ゾンビと艦船",
+            "zh": "僵尸与舰船",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1128/ACT",
+            "narrator": "",
+            "text": "プログラムとダイヤグラム",
+            "zh": "编程与时刻表",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1131/ACT",
+            "narrator": "",
+            "text": "メイドカフェと鉄塔登り",
+            "zh": "女仆咖啡厅与爬铁塔",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1133/TALK",
+            "narrator": "千羽鶴",
+            "text": "第八問！",
+            "zh": "第八题！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1134/TALK",
+            "narrator": "千羽鶴",
+            "text": "國政綾水の友人である\n倉沢小夜の、\n本人が認めない真実は？",
+            "zh": "国政绫水的朋友\n仓泽小夜，\n本人不肯承认的真相是？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1135/SEL",
+            "narrator": "",
+            "text": "寝起きが凶暴",
+            "zh": "起床气凶暴",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1136/SEL",
+            "narrator": "",
+            "text": "子供嫌い",
+            "zh": "讨厌小孩",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1137/SEL",
+            "narrator": "",
+            "text": "大食漢",
+            "zh": "大胃王",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1138/ACT",
+            "narrator": "",
+            "text": "寝起きが凶暴",
+            "zh": "起床气凶暴",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1139/ACT",
+            "narrator": "",
+            "text": "子供嫌い",
+            "zh": "讨厌小孩",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1140/ACT",
+            "narrator": "",
+            "text": "大食漢",
+            "zh": "大胃王",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1144/TALK",
+            "narrator": "千羽鶴",
+            "text": "第九問！",
+            "zh": "第九题！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1145/TALK",
+            "narrator": "千羽鶴",
+            "text": "隊長、東雲真幌の持つ\nプロ級の特技は？",
+            "zh": "队长东云真幌拥有的\n专业级特长是？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1146/SEL",
+            "narrator": "",
+            "text": "変装",
+            "zh": "变装",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1147/SEL",
+            "narrator": "",
+            "text": "催眠術",
+            "zh": "催眠术",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1148/SEL",
+            "narrator": "",
+            "text": "手品",
+            "zh": "魔术",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1149/ACT",
+            "narrator": "",
+            "text": "変装",
+            "zh": "变装",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1152/ACT",
+            "narrator": "",
+            "text": "催眠術",
+            "zh": "催眠术",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1153/ACT",
+            "narrator": "",
+            "text": "手品",
+            "zh": "魔术",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1155/TALK",
+            "narrator": "千羽鶴",
+            "text": "第十問！",
+            "zh": "第十题！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1156/TALK",
+            "narrator": "千羽鶴",
+            "text": "ちーの\nココロのペットといえば！",
+            "zh": "要说小千的\n心灵宠物，那就是！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1157/SEL",
+            "narrator": "",
+            "text": "ちー太郎",
+            "zh": "小千太郎",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1158/SEL",
+            "narrator": "",
+            "text": "ちーすけ",
+            "zh": "小千助",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1159/SEL",
+            "narrator": "",
+            "text": "ちーず",
+            "zh": "小千吱",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1160/ACT",
+            "narrator": "",
+            "text": "ちー太郎",
+            "zh": "小千太郎",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1161/ACT",
+            "narrator": "",
+            "text": "ちーすけ",
+            "zh": "小千助",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1164/ACT",
+            "narrator": "",
+            "text": "ちーず",
+            "zh": "小千吱",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1170/TALK",
+            "narrator": "千羽鶴",
+            "text": "<size=40>終了！</size>",
+            "zh": "<size=40>结束！</size>",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1171/TALK",
+            "narrator": "千羽鶴",
+            "text": "というわけで、\n１０問全て回答した\nわけだけど――",
+            "zh": "于是乎，\n10道题已经全部\n回答完了——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1172/TALK",
+            "narrator": "千羽鶴",
+            "text": "感触としてはどう？",
+            "zh": "自我感觉怎么样？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1173/SEL",
+            "narrator": "",
+            "text": "完璧！",
+            "zh": "完美！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1174/SEL",
+            "narrator": "",
+            "text": "一部自信ない",
+            "zh": "有一部分没把握",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1175/SEL",
+            "narrator": "",
+            "text": "わかるかこんなの！！",
+            "zh": "这谁知道啊！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1176/ACT",
+            "narrator": "",
+            "text": "完璧！",
+            "zh": "完美！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1177/TALK",
+            "narrator": "千羽鶴",
+            "text": "素敵。",
+            "zh": "太棒了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1178/TALK",
+            "narrator": "千羽鶴",
+            "text": "後に落胆に変わらない\nことを祈ってる。",
+            "zh": "祝你之后不会\n变成失望。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1179/ACT",
+            "narrator": "",
+            "text": "一部自信ない",
+            "zh": "有一部分没把握",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1180/TALK",
+            "narrator": "千羽鶴",
+            "text": "人間みんな\nそんなもの。",
+            "zh": "人都是\n这样的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1181/TALK",
+            "narrator": "千羽鶴",
+            "text": "そんな時でも、\n当たるときは当たる。",
+            "zh": "就算那样，\n蒙中的时候也会蒙中。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1182/ACT",
+            "narrator": "",
+            "text": "わかるかこんなの！！",
+            "zh": "这谁知道啊！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1183/TALK",
+            "narrator": "千羽鶴",
+            "text": "一応全部、アプリの\n記録映像かエピソードに\n出てきていた話だけど。",
+            "zh": "好歹全都是在App的\n记录影像或剧情里\n出现过的内容哦。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1185/TALK",
+            "narrator": "千羽鶴",
+            "text": "というわけで、\n早速貴方の得点を\n発表する。",
+            "zh": "那么，\n事不宜迟，这就公布\n你的得分。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1186/TALK",
+            "narrator": "千羽鶴",
+            "text": "貴方の得点は――",
+            "zh": "你的得分是——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1193/TALK",
+            "narrator": "千羽鶴",
+            "text": "<size=40>$qiiz_seikai$点！</size>",
+            "zh": "<size=40>$qiiz_seikai$分！</size>",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1194/TALK",
+            "narrator": "千羽鶴",
+            "text": "おめでとう！\n$handle$。",
+            "zh": "恭喜你！\n$handle$。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1195/TALK",
+            "narrator": "千羽鶴",
+            "text": "貴方は見事、第１回\nトライナリークイズの\n全問正解者になった！",
+            "zh": "你出色地成为了第1届\n三重奏猜谜大会的\n全题答对者！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1196/TALK",
+            "narrator": "千羽鶴",
+            "text": "というわけで、\n約束通りにゃボットを\n進呈するけど――",
+            "zh": "于是乎，\n照约定送上喵Bot，\n不过在那之前——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1197/TALK",
+            "narrator": "千羽鶴",
+            "text": "その前にCM。",
+            "zh": "先插播一段广告。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1200/TALK",
+            "narrator": "千羽鶴",
+            "text": "<size=40>$qiiz_seikai$点！</size>",
+            "zh": "<size=40>$qiiz_seikai$分！</size>",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1201/TALK",
+            "narrator": "千羽鶴",
+            "text": "惜しい！！！",
+            "zh": "好可惜！！！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1202/TALK",
+            "narrator": "千羽鶴",
+            "text": "あともう少しで\n全問正解だったのに！",
+            "zh": "明明就差一点点\n就能全部答对了！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1203/TALK",
+            "narrator": "千羽鶴",
+            "text": "冷め止まぬうちに、\nもう一度挑戦してみる？",
+            "zh": "趁着热乎劲还没过，\n要再挑战一次吗？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1205/SEL",
+            "narrator": "",
+            "text": "挑戦する！",
+            "zh": "挑战！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1206/SEL",
+            "narrator": "",
+            "text": "もういいです",
+            "zh": "算了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1207/ACT",
+            "narrator": "",
+            "text": "挑戦する！",
+            "zh": "挑战！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1208/TALK",
+            "narrator": "千羽鶴",
+            "text": "わかった。",
+            "zh": "好。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1209/TALK",
+            "narrator": "千羽鶴",
+            "text": "それではリトライを\n開始する！",
+            "zh": "那么开始\n重新挑战！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1212/ACT",
+            "narrator": "",
+            "text": "もういいです",
+            "zh": "算了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1213/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう。わかった。",
+            "zh": "这样。我知道了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1214/TALK",
+            "narrator": "千羽鶴",
+            "text": "気が向いたらまた\n遊びに来て。",
+            "zh": "有兴致了欢迎\n再来玩。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1215/TALK",
+            "narrator": "千羽鶴",
+            "text": "このクイズをクリアしなく\nても、先のエピソードには\n進めるから。",
+            "zh": "就算不通关这个猜谜，\n也能推进到后面的\n剧情。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1216/TALK",
+            "narrator": "千羽鶴",
+            "text": "安心して\nスルーして欲しい。",
+            "zh": "大可放心\n直接跳过。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1217/TALK",
+            "narrator": "千羽鶴",
+            "text": "それじゃ。",
+            "zh": "那就这样。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1222/TALK",
+            "narrator": "千羽鶴",
+            "text": "<size=40>$qiiz_seikai$点！</size>",
+            "zh": "<size=40>$qiiz_seikai$分！</size>",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1223/TALK",
+            "narrator": "千羽鶴",
+            "text": "あー。",
+            "zh": "啊——。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1224/TALK",
+            "narrator": "千羽鶴",
+            "text": "これは致命的。",
+            "zh": "这可真是致命。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1225/TALK",
+            "narrator": "千羽鶴",
+            "text": "わりと普通に\n関わっていれば\nわかる問題だと思うけど。",
+            "zh": "我觉得这都是些\n只要平平常常接触过\n就能答上来的题目呢。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1226/TALK",
+            "narrator": "千羽鶴",
+            "text": "まあ、何かの\n勘違いをしていたという\n事もあるかもしれない。",
+            "zh": "嘛，也有可能是\n搞错了什么\n吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1227/TALK",
+            "narrator": "千羽鶴",
+            "text": "とりあえず、\nもう一度やってみる？",
+            "zh": "总之，\n要再试一次吗？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1232/SEL",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【高画質/75MB 4:55】</color>",
+            "zh": "观看影像\n<color=green>【高画质/75MB 4:55】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1233/SEL",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【標準画質/24MB 4:55】</color>",
+            "zh": "观看影像\n<color=green>【标准画质/24MB 4:55】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1234/SEL",
+            "narrator": "",
+            "text": "あらすじレポートにする\n<color=green>【テキストまとめ】</color>",
+            "zh": "改为剧情梗概报告\n<color=green>【文字汇总】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1235/ACT",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【高画質/75MB 4:55】</color>",
+            "zh": "观看影像\n<color=green>【高画质/75MB 4:55】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1242/ACT",
+            "narrator": "",
+            "text": "映像を見る\n<color=green>【標準画質/24MB 4:55】</color>",
+            "zh": "观看影像\n<color=green>【标准画质/24MB 4:55】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1249/ACT",
+            "narrator": "",
+            "text": "あらすじレポートにする\n<color=green>【テキストまとめ】</color>",
+            "zh": "改为剧情梗概报告\n<color=green>【文字汇总】</color>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1283/TALK",
+            "narrator": "千羽鶴",
+            "text": "というわけで！",
+            "zh": "于是乎！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1286/TALK",
+            "narrator": "千羽鶴",
+            "text": "賞品授与式を\n執り行います！",
+            "zh": "现在举行\n奖品颁发仪式！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1287/TALK",
+            "narrator": "千羽鶴",
+            "text": "尚、賞品の授与は、\n世界的に著名な\n量子研究家であり――",
+            "zh": "另外，奖品的颁发\n我想请世界著名的\n量子研究家——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1288/TALK",
+            "narrator": "千羽鶴",
+            "text": "にゃボットの生みの親でも\nある、國政領火博士に\nお願いしたいと思います。",
+            "zh": "同时也是喵Bot生母的\n国政领火博士\n来负责。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1302/TALK",
+            "narrator": "エリカ",
+            "text": "コーンコン。\nみなさんこんにちは、\n國政領火です！",
+            "zh": "空——空。\n大家好呀，\n我是国政领火！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1308/TALK",
+            "narrator": "エリカ",
+            "text": "連載クラン\nにゃぼにゃすティー！\nゲットおめでとう！",
+            "zh": "恭喜你获得\n连载库兰\n喵博尼亚斯蒂！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1309/TALK",
+            "narrator": "エリカ",
+            "text": "これからも５回にわたり\nにゃボットをお届けする\n予定だよ。",
+            "zh": "今后我们预定\n分5期为大家送上\n喵Bot哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1310/TALK",
+            "narrator": "エリカ",
+            "text": "頑張って集めてね！",
+            "zh": "请加油集齐它们吧！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1314/TALK",
+            "narrator": "エリカ",
+            "text": "というわけで、\nこのコーナーが\n何なのかというと――",
+            "zh": "那么，\n这个栏目究竟\n是干什么的呢——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1315/TALK",
+            "narrator": "エリカ",
+            "text": "実は、連載クラン\nにゃぼにゃすティー！の\n本誌に当たる部分なの。",
+            "zh": "其实啊，这里相当于\n连载库兰喵博尼亚斯蒂！\n的正刊部分哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1316/SEL",
+            "narrator": "",
+            "text": "というと？",
+            "zh": "怎么说？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1317/ACT",
+            "narrator": "",
+            "text": "というと？",
+            "zh": "怎么说？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1319/TALK",
+            "narrator": "エリカ",
+            "text": "要するに！",
+            "zh": "简而言之！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1320/TALK",
+            "narrator": "エリカ",
+            "text": "にゃぼにゃすティー！\nバンドルのクラン、\nにゃボットについて――",
+            "zh": "就是用来解说\n喵博尼亚斯蒂！\n随刊附赠的库兰喵Bot的——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1321/TALK",
+            "narrator": "エリカ",
+            "text": "解説しちゃう\nコーナーなんです！",
+            "zh": "专门\n栏目啦！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1322/SEL",
+            "narrator": "",
+            "text": "わーい！",
+            "zh": "好耶！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1323/SEL",
+            "narrator": "",
+            "text": "結構です",
+            "zh": "不用了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1324/ACT",
+            "narrator": "",
+            "text": "わーい！",
+            "zh": "好耶！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1325/TALK",
+            "narrator": "エリカ",
+            "text": "良かった、\n喜んでくれて。",
+            "zh": "太好了，\n你这么开心。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1326/TALK",
+            "narrator": "エリカ",
+            "text": "やっぱりこれ系には\n解説冊子がなくちゃ\n片手落ちだもんね！",
+            "zh": "毕竟这类东西要是没有\n解说手册，那可就\n不够完整了嘛！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1331/TALK",
+            "narrator": "エリカ",
+            "text": "にゃボットは、\n実はもうかなり昔に\n作ったロボットなんだ。",
+            "zh": "喵Bot其实是\n我在相当久以前就\n做出来的机器人哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1332/TALK",
+            "narrator": "エリカ",
+            "text": "綾ちゃんが高校生だった\n頃だから、既に４～５年も\n前になるかな。",
+            "zh": "大概是小绫还是\n高中生的时候，算起来\n已经4～5年前了吧。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1333/TALK",
+            "narrator": "エリカ",
+            "text": "あの頃からずっと\nチューニングを繰り返して\n今の形になってるけど――",
+            "zh": "从那时候起就一直在\n反复调校，才变成现在\n这个样子——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1334/TALK",
+            "narrator": "エリカ",
+            "text": "当時とは比べものに\nならないくらい、\n高性能になったんだよ！",
+            "zh": "和当时相比，\n性能已经强到没法比\n了哦！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1335/TALK",
+            "narrator": "エリカ",
+            "text": "そんなにゃボットについて\n多角的に解説を\nしたいと思います！",
+            "zh": "我想从多个角度\n为大家解说一下\n这样的喵Bot！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1336/TALK",
+            "narrator": "エリカ",
+            "text": "興味有る項目を選んでね。",
+            "zh": "选择你感兴趣的项目吧。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1341/SEL",
+            "narrator": "",
+            "text": "歩行性能について",
+            "zh": "关于步行性能",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1342/SEL",
+            "narrator": "",
+            "text": "多脚機能について",
+            "zh": "关于多足功能",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1343/SEL",
+            "narrator": "",
+            "text": "ボイスについて",
+            "zh": "关于语音",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1344/SEL",
+            "narrator": "",
+            "text": "AIについて",
+            "zh": "关于AI",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1345/SEL",
+            "narrator": "",
+            "text": "尻尾について",
+            "zh": "关于尾巴",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1346/SEL",
+            "narrator": "",
+            "text": "猫の顔について",
+            "zh": "关于猫脸",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1347/SEL",
+            "narrator": "",
+            "text": "もういいです…",
+            "zh": "已经够了……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1348/ACT",
+            "narrator": "",
+            "text": "歩行性能について",
+            "zh": "关于步行性能",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1353/TALK",
+            "narrator": "エリカ",
+            "text": "当初は時速1km/hにも\n満たなかったけど、\n今では最高３５km/h！",
+            "zh": "当初时速还不到\n1km/h，现在最高\n已经能跑35km/h啦！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1354/TALK",
+            "narrator": "エリカ",
+            "text": "もちろんこれは、\n傾斜の無い舗装道路での\n実測値だけど――",
+            "zh": "当然这是在\n没有坡度的铺装路面\n上的实测值——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1355/TALK",
+            "narrator": "エリカ",
+            "text": "今は、瓦礫の上でも\n時速４０km/hをキープ\n出来るよう改良中だよ。",
+            "zh": "现在正在改良，争取\n就算在碎石瓦砾上也能\n保持时速40km/h哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1356/TALK",
+            "narrator": "エリカ",
+            "text": "これだけ早く走ることが\nできれば、活躍のシーンは\n飛躍的に増大するよね。",
+            "zh": "要是能跑这么快的话，\n活跃的场合就会\n飞跃性地增加呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1357/TALK",
+            "narrator": "エリカ",
+            "text": "小型特殊自動車として\n普通に道路を走れるように\nなれば更に活躍できるね！",
+            "zh": "如果能作为小型特殊\n车辆正常在马路上跑，\n就更能派上用场啦！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1358/TALK",
+            "narrator": "エリカ",
+            "text": "あっ、でも小型特殊って\n時速３５km/hまでだから、\nそれ超えるとどうなる？",
+            "zh": "啊，不过小型特殊车辆\n限速是到35km/h为止，\n超过那个会怎么样？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1359/TALK",
+            "narrator": "エリカ",
+            "text": "誰か詳しい人、教えて！",
+            "zh": "有没有懂行的人告诉我！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1360/TALK",
+            "narrator": "エリカ",
+            "text": "他は？",
+            "zh": "还有别的吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1362/ACT",
+            "narrator": "",
+            "text": "多脚機能について",
+            "zh": "关于多足功能",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1367/TALK",
+            "narrator": "エリカ",
+            "text": "にゃボットには\n８足モードと\n４足モードがあるの。",
+            "zh": "喵Bot有\n8足模式和\n4足模式哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1368/TALK",
+            "narrator": "エリカ",
+            "text": "４足モードの時は、\n真ん中の４足だけで\n歩行をするよ。",
+            "zh": "在4足模式的时候，\n只用中间的4条腿\n来步行哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1369/TALK",
+            "narrator": "エリカ",
+            "text": "前後の４足は、腕のように\n物を掴んだり操作したり\n出来るんだよ。",
+            "zh": "前后的4条腿，就能像\n手臂一样抓取或者\n操作物品了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1370/TALK",
+            "narrator": "エリカ",
+            "text": "これらはプログラムで\nいくらでも機能拡張\nできるから――",
+            "zh": "这些通过程序\n都能无限扩展功能\n呢——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1371/TALK",
+            "narrator": "エリカ",
+            "text": "組み方では右足４本で\n歩行して左足４本は\n腕にするとか――",
+            "zh": "只要编排一下，就能\n用右边的4条腿走路，\n左边的4条腿当手臂——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1372/TALK",
+            "narrator": "エリカ",
+            "text": "後ろ足２本で歩いて\n前足６本は腕にするとか。\nそういうのも出来るよ。",
+            "zh": "或者用后2条腿走路，\n前6条腿当手臂之类的。\n这些全都能做到哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1373/TALK",
+            "narrator": "エリカ",
+            "text": "みやびちゃんあたりが\nバリエーション増やして\nくれると嬉しいな。",
+            "zh": "要是雅能帮忙\n增加点花样的话，\n我会很开心的。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1374/TALK",
+            "narrator": "エリカ",
+            "text": "他は？",
+            "zh": "还有别的吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1376/ACT",
+            "narrator": "",
+            "text": "ボイスについて",
+            "zh": "关于语音",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1381/TALK",
+            "narrator": "エリカ",
+            "text": "にゃボットは普通に\n喋ることができるよ。",
+            "zh": "喵Bot平时也能\n正常说话哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1382/TALK",
+            "narrator": "エリカ",
+            "text": "音声合成だから、\nあまり自然には\n喋れないけど――",
+            "zh": "因为是语音合成，\n说话还不太\n自然——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1383/TALK",
+            "narrator": "エリカ",
+            "text": "でも実は、知られざる\n機能として、猫の鳴き声は\n沢山収録してあるんだ。",
+            "zh": "不过其实作为鲜为人知的\n功能，里面收录了\n超多猫叫声哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1384/TALK",
+            "narrator": "エリカ",
+            "text": "96Khzサンプリングで\n32GBフラッシュメモリに\nみっちり入ってるよ。",
+            "zh": "以96Khz采样率，\n满满当当地塞进了\n32GB闪存里呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1385/TALK",
+            "narrator": "エリカ",
+            "text": "このフラッシュメモリは\n音声専用のメモリで、\n付替可能になってるの。",
+            "zh": "这个闪存是语音专用的\n存储器，设计成了\n可更换式的哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1386/TALK",
+            "narrator": "エリカ",
+            "text": "フォーマットを合わせて\n録音すれば、声色を変える\nことも出来るよ！",
+            "zh": "只要按格式录音，\n连音色也能\n更换哦！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1387/TALK",
+            "narrator": "エリカ",
+            "text": "頑張れば、あなたの声で\n喋るにゃボットも\n作ることができるかも。",
+            "zh": "努力一下的话，说不定\n还能做出用你的声音\n说话的喵Bot呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1388/TALK",
+            "narrator": "エリカ",
+            "text": "他は？",
+            "zh": "还有别的吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1390/ACT",
+            "narrator": "",
+            "text": "AIについて",
+            "zh": "关于AI",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1395/TALK",
+            "narrator": "エリカ",
+            "text": "にゃボットには\n量子AIが入ってるよ。",
+            "zh": "喵Bot里装了\n量子AI哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1396/TALK",
+            "narrator": "エリカ",
+            "text": "昔は学習型AIだったから\n無駄に重くてヘンなこと\nばかりしてたけど――",
+            "zh": "以前是学习型AI，\n所以又笨重又净做些\n奇怪的举动——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1397/TALK",
+            "narrator": "エリカ",
+            "text": "最新はそれなりに\nお利口になったんだ。",
+            "zh": "最新的这一版已经\n变得相当聪明了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1398/TALK",
+            "narrator": "エリカ",
+            "text": "コタツの中で\nゴロゴロしないでって\n言えば従うし――",
+            "zh": "跟它说别在被炉里\n打滚它就会\n听话——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1399/TALK",
+            "narrator": "エリカ",
+            "text": "液漏れしたら砂場に\n行くように指示したのを、\n今でも守ってくれてるよ。",
+            "zh": "以前指示它如果漏液了\n就去沙坑里，这件事它\n到现在也还遵守着呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1400/TALK",
+            "narrator": "エリカ",
+            "text": "他は？",
+            "zh": "还有别的吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1402/ACT",
+            "narrator": "",
+            "text": "尻尾について",
+            "zh": "关于尾巴",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1407/TALK",
+            "narrator": "エリカ",
+            "text": "尻尾は確か24節の\nフレキシブルアーム\nだったかな。",
+            "zh": "尾巴好像是\n24节的柔性机械臂\n来着。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1408/TALK",
+            "narrator": "エリカ",
+            "text": "先っぽには多機能\nレーザー出力装置が\nついているよ。",
+            "zh": "尖端装有\n多功能激光输出装置\n哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1409/TALK",
+            "narrator": "エリカ",
+            "text": "これはレーザーの出力と\n指向性を自由に変える\nことができるから――",
+            "zh": "这个可以自由改变\n激光的输出功率\n和指向性——",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1410/TALK",
+            "narrator": "エリカ",
+            "text": "ライトにできたり\nレーザーナイフにできたり\n色々使い道があるの。",
+            "zh": "能当手电筒，也能当\n激光小刀，用途可\n多着呢。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1411/TALK",
+            "narrator": "エリカ",
+            "text": "もっと出力を上げれば\nレーザー銃にもなるけど、\nリミッタを掛けてあるよ。",
+            "zh": "再提高输出功率的话\n还能当激光枪，不过我\n给它装了限制器哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1412/TALK",
+            "narrator": "エリカ",
+            "text": "他は？",
+            "zh": "还有别的吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1414/ACT",
+            "narrator": "",
+            "text": "猫の顔について",
+            "zh": "关于猫脸",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1419/TALK",
+            "narrator": "エリカ",
+            "text": "残念だけど、猫の顔は\n取り外しできないの。",
+            "zh": "遗憾的是，猫脸是\n没办法拆下来的哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1420/TALK",
+            "narrator": "エリカ",
+            "text": "いろんなセンサーが\nいっぱいついてるからね。",
+            "zh": "因为上面装满了\n各种各样的传感器嘛。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1421/TALK",
+            "narrator": "エリカ",
+            "text": "他は？",
+            "zh": "还有别的吗？",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1423/ACT",
+            "narrator": "",
+            "text": "もういいです…",
+            "zh": "已经够了……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1424/TALK",
+            "narrator": "エリカ",
+            "text": "うん。\nわかったよ。",
+            "zh": "嗯。\n我知道了。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1426/TALK",
+            "narrator": "エリカ",
+            "text": "他にも聞きたいことが\nあれば、いつでも\n質問してね。",
+            "zh": "如果还有其他想听的，\n随时都可以\n来问我哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1427/ACT",
+            "narrator": "",
+            "text": "結構です",
+            "zh": "不用了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1428/TALK",
+            "narrator": "エリカ",
+            "text": "あらら…。",
+            "zh": "哎呀呀……。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1429/TALK",
+            "narrator": "エリカ",
+            "text": "聞きたいことが\nあれば、いつでも\n質問してね。",
+            "zh": "如果有想听的事情，\n随时都可以\n来问我哦。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1431/TALK",
+            "narrator": "エリカ",
+            "text": "話せることは\nお話するから。",
+            "zh": "能说的事情\n我都会告诉你的。",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1432/TALK",
+            "narrator": "エリカ",
+            "text": "それじゃ、改めまして。\n今回はにゃボットの\nゲットおめでとう！",
+            "zh": "那么，重新说一次。\n恭喜你这次拿到了\n喵Bot！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1433/TALK",
+            "narrator": "エリカ",
+            "text": "色んな場面で活用して、\n可愛がってあげてね！",
+            "zh": "请在各种场合活用它，\n好好疼爱它哦！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1434/TALK",
+            "narrator": "エリカ",
+            "text": "それじゃ、またね！",
+            "zh": "那么，拜拜啦！",
+            "narrator_zh": "领火"
+        },
+        {
+            "location": "1443/TALK",
+            "narrator": "千羽鶴",
+            "text": "……おかえり。",
+            "zh": "……欢迎回来。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1444/TALK",
+            "narrator": "千羽鶴",
+            "text": "というわけで、\n今回のクイズ大会は\nこれでお終い。",
+            "zh": "于是乎，\n这次的猜谜大会\n就到此结束了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1445/TALK",
+            "narrator": "千羽鶴",
+            "text": "次回はまた\n次のMV回になる。",
+            "zh": "下次又会是\n下一个MV回。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1446/TALK",
+            "narrator": "千羽鶴",
+            "text": "お楽しみに。",
+            "zh": "敬请期待。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "1260/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime1",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime1"
+        },
+        {
+            "location": "1262/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime2",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime2"
+        },
+        {
+            "location": "1264/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime3",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime3"
+        },
+        {
+            "location": "1266/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime4",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime4"
+        },
+        {
+            "location": "1268/DIALOG",
+            "narrator": "Tutorial/Dialog_Anime5",
+            "text": "$dialog_word$",
+            "zh": "$dialog_word$",
+            "narrator_zh": "Tutorial/Dialog_Anime5"
+        },
+        {
+            "location": "1329/DIALOG",
+            "narrator": "Event/Dialog_EventPic",
+            "text": "クモ型にゃボット\nNB-01A",
+            "zh": "蜘蛛型喵Bot\nNB-01A",
+            "narrator_zh": "Event/Dialog_EventPic"
+        },
+        {
+            "location": "1351/DIALOG",
+            "narrator": "Event/Dialog_EventPic",
+            "text": "クモ型にゃボット\nNB-01A",
+            "zh": "蜘蛛型喵Bot\nNB-01A",
+            "narrator_zh": "Event/Dialog_EventPic"
+        },
+        {
+            "location": "1365/DIALOG",
+            "narrator": "Event/Dialog_EventPic",
+            "text": "クモ型にゃボット\nNB-01A",
+            "zh": "蜘蛛型喵Bot\nNB-01A",
+            "narrator_zh": "Event/Dialog_EventPic"
+        },
+        {
+            "location": "1379/DIALOG",
+            "narrator": "Event/Dialog_EventPic",
+            "text": "クモ型にゃボット\nNB-01A",
+            "zh": "蜘蛛型喵Bot\nNB-01A",
+            "narrator_zh": "Event/Dialog_EventPic"
+        },
+        {
+            "location": "1393/DIALOG",
+            "narrator": "Event/Dialog_EventPic",
+            "text": "クモ型にゃボット\nNB-01A",
+            "zh": "蜘蛛型喵Bot\nNB-01A",
+            "narrator_zh": "Event/Dialog_EventPic"
+        },
+        {
+            "location": "1405/DIALOG",
+            "narrator": "Event/Dialog_EventPic",
+            "text": "クモ型にゃボット\nNB-01A",
+            "zh": "蜘蛛型喵Bot\nNB-01A",
+            "narrator_zh": "Event/Dialog_EventPic"
+        },
+        {
+            "location": "1417/DIALOG",
+            "narrator": "Event/Dialog_EventPic",
+            "text": "クモ型にゃボット\nNB-01A",
+            "zh": "蜘蛛型喵Bot\nNB-01A",
+            "narrator_zh": "Event/Dialog_EventPic"
+        }
+    ]
+}
