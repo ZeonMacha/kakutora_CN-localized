@@ -17,6 +17,7 @@ from pipeline.common import (
     ROOT,
     SSOT_PATH,
     TAG_RE,
+    TERM_GUARDS,
     TR_ROOT,
     URL_RE,
     read_json,
@@ -33,6 +34,21 @@ class Issue:
     index: int | None
     code: str
     message: str
+
+
+def _check_term_guards(src: str, zh: str, idx: int | None, issues: list[Issue]) -> None:
+    """定译必须在译文中连续出现。原文按去掉换行后匹配，避免专名被断行拆开后漏检。"""
+    if not src or not zh.strip():
+        return
+    flat = src.replace("\n", "").replace("\r", "")
+    for jp, canon in TERM_GUARDS:
+        if jp in flat and canon not in zh:
+            issues.append(Issue(
+                "ERROR",
+                idx,
+                "TERM_GUARD",
+                f"`{jp}` must appear contiguously as `{canon}`",
+            ))
 
 
 def lint_file(src_path: Path, out_path: Path, ssot: dict) -> list[Issue]:
@@ -52,6 +68,8 @@ def lint_file(src_path: Path, out_path: Path, ssot: dict) -> list[Issue]:
         issues.append(Issue("WARN", None, "MISSING_TITLE_ZH", "info.title_zh is empty"))
     if s_info.get("sub_title") and not o_info.get("sub_title_zh"):
         issues.append(Issue("WARN", None, "MISSING_SUBTITLE_ZH", "info.sub_title_zh is empty"))
+    _check_term_guards(str(s_info.get("title", "") or ""), str(o_info.get("title_zh", "") or ""), None, issues)
+    _check_term_guards(str(s_info.get("sub_title", "") or ""), str(o_info.get("sub_title_zh", "") or ""), None, issues)
 
     s_entries = src.get("entry", [])
     o_entries = out.get("entry", [])
@@ -71,6 +89,8 @@ def lint_file(src_path: Path, out_path: Path, ssot: dict) -> list[Issue]:
         zh = str(b.get("zh", ""))
         nar = str(a.get("narrator", ""))
         nar_zh = str(b.get("narrator_zh", ""))
+        _check_term_guards(text, zh, idx, issues)
+        _check_term_guards(nar, nar_zh, idx, issues)
 
         # 3. narrator_zh 一致性
         if nar == "" and nar_zh != "":

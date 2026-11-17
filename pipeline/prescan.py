@@ -14,6 +14,7 @@ from pipeline.common import (
     NARRATOR_TO_CARD,
     ROOT,
     SSOT_PATH,
+    TERM_GUARDS,
     WORK_DIR,
     read_json,
     resolve_src_and_out,
@@ -43,14 +44,15 @@ def prescan_file(src_path: Path, ssot: dict, out_md: Path | None = None) -> Path
         *(str(e.get("text", "")) for e in entries),
         *(str(e.get("narrator", "")) for e in entries),
     ]
-    joined = "\n".join(all_texts)
+    # 每条文本先去掉换行再拼接，专名被文本框断行拆开时仍能命中
+    flat_joined = "\n".join(t.replace("\n", "").replace("\r", "") for t in all_texts)
 
     # 1. 命中的专名（限制在合理数量内，只保留本话真正用到的）
     hit_terms: list[tuple[str, str, str]] = []
     for jp in sorted(terms.keys(), key=len, reverse=True):
         if len(jp) <= 1:
             continue
-        if jp in joined:
+        if jp in flat_joined:
             t = terms[jp]
             hit_terms.append((jp, t["zh"], t["source"]))
 
@@ -62,7 +64,7 @@ def prescan_file(src_path: Path, ssot: dict, out_md: Path | None = None) -> Path
     unregistered_links = sorted(b for b in bracket_links if b not in terms)
 
     # 3. 命中的歧义词
-    hit_ambiguous = [(k, v) for k, v in AMBIGUOUS_TERMS.items() if k in joined]
+    hit_ambiguous = [(k, v) for k, v in AMBIGUOUS_TERMS.items() if k in flat_joined]
 
     # 4. 出场说话人 & 角色卡裁剪
     alias_narr_re = re.compile(r"(？|\?|新司書|新司书|謎の|正体|誰か|黒衣|覆面)")
@@ -149,6 +151,36 @@ def prescan_file(src_path: Path, ssot: dict, out_md: Path | None = None) -> Path
     if unregistered_links:
         lines.append("## 🆕 未收录的 `[专名]` 方括号链接（需人工确认或打 `[?]`）")
         lines.append(", ".join(f"`[{u}]`" for u in unregistered_links))
+        lines.append("")
+
+    guard_hits: list[tuple[str, str, list[int]]] = []
+    for jp, canon in TERM_GUARDS:
+        locs: list[int] = []
+        title_bits = [
+            str(info.get(k, "") or "").replace("\n", "").replace("\r", "")
+            for k in ("title", "sub_title")
+        ]
+        if any(jp in bit for bit in title_bits):
+            locs.append(-1)
+        for idx, e in enumerate(entries):
+            bits = [
+                str(e.get("text", "") or "").replace("\n", "").replace("\r", ""),
+                str(e.get("narrator", "") or "").replace("\n", "").replace("\r", ""),
+            ]
+            if any(jp in bit for bit in bits):
+                locs.append(idx)
+        if locs:
+            guard_hits.append((jp, canon, locs))
+    if guard_hits:
+        lines.extend([
+            "## 专名结构防护",
+            "> 下列专名以去掉换行为准定位。译文必须连续写出定译，不要拆开，也不要改写成别的词。",
+            "",
+        ])
+        for jp, canon, locs in guard_hits:
+            shown = ", ".join("标题" if i < 0 else f"#{i}" for i in locs[:12])
+            extra = f" 等 {len(locs)} 处" if len(locs) > 12 else ""
+            lines.append(f"- `{jp}` → {canon}（{shown}{extra}）")
         lines.append("")
 
     lines.append(f"## 📖 本话迷你专名表（共命中 {len(hit_terms)} 条）")

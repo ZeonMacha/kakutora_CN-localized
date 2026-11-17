@@ -44,7 +44,7 @@ python -m pipeline.apply_pack path/to/pack.json
 python -m pipeline.lint "【翻译】/stories/dd_ch02_*.json"
 python -m pipeline.lint "【翻译】/stories/*.json" --errors-only
 ```
-检查：原文字段完整性、换行符一致、`<color>`/`$me$`/`<meta>` 标记匹配、`[专名]` 词表一致、假名残留、雅桂柳话禁用词、神乐 `pyon` 滥用、`なう/now` 残留、`[?]` 待校对汇总。
+检查：原文字段完整性、换行符一致、`<color>`/`$me$`/`<meta>` 标记匹配、`[专名]` 词表一致、假名残留、雅桂柳话禁用词、神乐 `pyon` 滥用、`なう/now` 残留、`[?]` 待校对汇总、专名结构防护（`TERM_GUARDS`：去掉换行后命中原文，则译文必须连续出现定译）。
 - 门槛要求：`ERROR` 必须为 `0`；若出现 `POLITE_NIN`（对话中出现 `您`）等 `WARN`，须人工复核确认是否为角色对父母/尊长（如 `お父様`）的敬语独白而非对玩家使用。
 
 ## 5. 随读笔记模板（单角色全线共有：`【翻译】/随读笔记/chXX_<角色>.md`）
