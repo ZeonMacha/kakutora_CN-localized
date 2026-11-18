@@ -49,6 +49,19 @@ def _check_term_guards(src: str, zh: str, idx: int | None, issues: list[Issue]) 
                 "TERM_GUARD",
                 f"`{jp}` must appear contiguously as `{canon}`",
             ))
+    # 条件防护：非卡莲全名/弟子拆解语境的「イシュリール」必须统一作 Ishreal
+    karen_markers = (
+        "カレン・ディサイプロブ・イシュリール",
+        "カレンディサイプロブイシュリール",
+        "イシュリールの弟子",
+    )
+    if "イシュリール" in flat and not any(m in flat for m in karen_markers) and "Ishreal" not in zh:
+        issues.append(Issue(
+            "ERROR",
+            idx,
+            "TERM_GUARD",
+            "`イシュリール` (non-Karen title) must appear as `Ishreal`",
+        ))
 
 
 def lint_file(src_path: Path, out_path: Path, ssot: dict) -> list[Issue]:
