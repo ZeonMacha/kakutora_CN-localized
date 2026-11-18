@@ -1,0 +1,784 @@
+{
+    "dir": "chap21/daydra/dd_ch01_21_010.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "21152",
+        "cid": "tsubame",
+        "title": "Extra002 プレミアムストーリー",
+        "sub_title": "楽しまなくちゃ",
+        "title_zh": "Extra002 额外剧情",
+        "sub_title_zh": "不玩可不行"
+    },
+    "entry": [
+        {
+            "location": "7/SCENARIO",
+            "narrator": "",
+            "text": "楽しまなくちゃ",
+            "zh": "不玩可不行",
+            "narrator_zh": ""
+        },
+        {
+            "location": "21/TALK",
+            "narrator": "つばめ",
+            "text": "ふぅ…疲れたぁ…。",
+            "zh": "呼……好累呀……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "22/TALK",
+            "narrator": "アーヤ",
+            "text": "楽しんでるみたいね。",
+            "zh": "看起来玩得很开心。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "24/TALK",
+            "narrator": "つばめ",
+            "text": "はい！　海ってこんなに\n楽しいんですね。",
+            "zh": "是！大海原来这么\n好玩呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "25/TALK",
+            "narrator": "ガブリエラ",
+            "text": "まるで海を知らない人\nみたいな言い方ね。",
+            "zh": "说得简直像\n没见过大海的人。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "28/TALK",
+            "narrator": "つばめ",
+            "text": "海くらい知ってるよ。",
+            "zh": "大海我还是知道的啦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "30/TALK",
+            "narrator": "つばめ",
+            "text": "わたしの実家も、\n結構海から近いんだよ？",
+            "zh": "我老家也是，\n离海挺近的哦？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "神楽",
+            "text": "そういえば、\n静岡でしたよね？",
+            "zh": "这么说来，\n是静冈对吧？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "ガブリエラ",
+            "text": "なんだ、それじゃあ\n結構遊び慣れてるんだ？",
+            "zh": "什么，那你\n应该玩得很熟了？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "つばめ",
+            "text": "見慣れてはいるけど、\n遊び慣れてはいないよ。",
+            "zh": "看是看惯了，\n玩可没玩惯呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "34/TALK",
+            "narrator": "つばめ",
+            "text": "海を見に行くことは\nあっても、入ったことは\nなかったんじゃないかな？",
+            "zh": "去看海的时候\n倒是有，下水\n好像一次都没有？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "36/TALK",
+            "narrator": "神楽",
+            "text": "一回も無いんですか！？",
+            "zh": "一次都没有吗！？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "37/TALK",
+            "narrator": "つばめ",
+            "text": "多分ね。\n波打ち際くらいまでなら\n入ったことあるけど…。",
+            "zh": "大概吧。\n走到浪边那种\n倒是有过……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "40/TALK",
+            "narrator": "つばめ",
+            "text": "だから、今ちょっとだけ\n感動してるんだ。",
+            "zh": "所以，现在有一点\n感动呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "42/TALK",
+            "narrator": "アーヤ",
+            "text": "そっか…。\nそれじゃはしゃぐのも\n当然ね。",
+            "zh": "这样啊……。\n那兴奋起来\n也正常。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "44/TALK",
+            "narrator": "つばめ",
+            "text": "えっ、そんなに\nはしゃいでましたか？",
+            "zh": "欸，我有那么\n兴奋吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "45/TALK",
+            "narrator": "アーヤ",
+            "text": "ふふっ、凄く楽しそう\nだったわ。",
+            "zh": "呵呵，看起来\n非常开心。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "46/TALK",
+            "narrator": "ガブリエラ",
+            "text": "っていうか、自分で\n気づかなかったの？",
+            "zh": "话说，你自己\n没发现吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "48/TALK",
+            "narrator": "つばめ",
+            "text": "え、えーっと…。",
+            "zh": "欸，那个……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "49/SEL",
+            "narrator": "",
+            "text": "楽しまないと勿体ない",
+            "zh": "不玩就太可惜了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "50/SEL",
+            "narrator": "",
+            "text": "砂浜で遊ぼう",
+            "zh": "在沙滩上玩吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "52/TALK",
+            "narrator": "つばめ",
+            "text": "全然気づかなかったけど、\nわたし、そんなにはしゃい\nじゃってたんだ…。",
+            "zh": "完全没发现，\n我居然兴奋成\n那样了……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "53/TALK",
+            "narrator": "つばめ",
+            "text": "ちょっと恥ずかしいかも。\n少し落ち着かないと。",
+            "zh": "有点不好意思。\n得稍微冷静一下。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…気付いてなかった\nみたいね。",
+            "zh": "……好像真的\n没发现。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "58/TALK",
+            "narrator": "つばめ",
+            "text": "え、えへへ…。\n楽しくて、つい…。",
+            "zh": "诶，诶嘿嘿……。\n太开心了，不知不觉……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "つばめ",
+            "text": "休憩はもういいかな、\nって思ったけど――",
+            "zh": "休息差不多了吧，\n我本来这么想——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "つばめ",
+            "text": "もう少し休んで、\nちょっと落ち着いてから\n遊ぼう…。",
+            "zh": "再歇一会儿，\n稍微冷静下来\n再玩……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "62/ACT",
+            "narrator": "",
+            "text": "楽しまないと勿体ない",
+            "zh": "不玩就太可惜了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "80/TALK",
+            "narrator": "つばめ",
+            "text": "そうだよね",
+            "zh": "是呀",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "81/TALK",
+            "narrator": "つばめ",
+            "text": "せっかく海に来てるんだもん！",
+            "zh": "难得来海边了呀！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…気付いてなかった\nみたいね。",
+            "zh": "……好像真的\n没发现。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "94/TALK",
+            "narrator": "つばめ",
+            "text": "いいの、うんと楽しむって\n決めたから。",
+            "zh": "没关系，我决定了\n要尽情玩。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "96/TALK",
+            "narrator": "つばめ",
+            "text": "さてと、休憩おしまい！\nわたし、ちょっと沖の方\nまで泳いでくるね。",
+            "zh": "好了，休息结束！\n我去游到\n离岸远一点哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "98/TALK",
+            "narrator": "アーヤ",
+            "text": "元気ねぇ。\nちょっとしか休憩して\nないのに…。",
+            "zh": "真有精神。\n才休息了一小会儿\n而已……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "ガブリエラ",
+            "text": "どうせなら、競争しない？",
+            "zh": "既然这样，要比一场吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "101/TALK",
+            "narrator": "つばめ",
+            "text": "あ、それ楽しそう。\n卯月さんもどう？",
+            "zh": "啊，好像很好玩。\n卯月也一起来吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "神楽",
+            "text": "私は遠慮します。\nもう少し休憩したいし…。",
+            "zh": "我就不参加了。\n还想再休息一会儿……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "つばめ",
+            "text": "そっか…。",
+            "zh": "这样啊……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "ガブリエラ",
+            "text": "先に行ってるわ。\n競争はもう始まってるん\nだから！",
+            "zh": "我先走了。\n比赛已经\n开始了！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "107/TALK",
+            "narrator": "つばめ",
+            "text": "あっ、ガブちゃんズルい！",
+            "zh": "啊，加布赖皮！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "110/TALK",
+            "narrator": "アーヤ",
+            "text": "…本当、はしゃいでる\nわね。",
+            "zh": "……真是，兴奋得\n不行。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "122/TALK",
+            "narrator": "つばめ",
+            "text": "はぁ、はぁ…。",
+            "zh": "哈啊，哈啊……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "125/TALK",
+            "narrator": "つばめ",
+            "text": "よ、よかったぁ。\nやっと戻れたよ…。",
+            "zh": "太、太好了。\n终于回来了……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "126/TALK",
+            "narrator": "ガブリエラ",
+            "text": "はぁ、はぁ…。\nだ、誰のおかげで、\n戻って、来れたと――",
+            "zh": "哈啊，哈啊……。\n你、你能回来，\n是靠了谁——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "127/TALK",
+            "narrator": "ガブリエラ",
+            "text": "お、思って…。",
+            "zh": "以、以为的啊……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "128/TALK",
+            "narrator": "つばめ",
+            "text": "む、無理しないで！",
+            "zh": "别、别勉强！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "129/TALK",
+            "narrator": "つばめ",
+            "text": "ごめんね。\nわたしのせいで、\n無理させちゃって…。",
+            "zh": "对不起。\n都是我的错，\n让你勉强了……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "130/TALK",
+            "narrator": "ガブリエラ",
+            "text": "まったくよ…。",
+            "zh": "真是的……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "131/TALK",
+            "narrator": "ガブリエラ",
+            "text": "調子に乗って、\n凄い沖の方まで\n泳いでおきながら――",
+            "zh": "一时兴起，\n游到那么\n远的地方——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "132/TALK",
+            "narrator": "ガブリエラ",
+            "text": "戻るときのことを\n考えてなかったとか、\nありえないでしょ？",
+            "zh": "回来的事\n根本没想过，\n这也太离谱了吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "つばめ",
+            "text": "そ、そうだよね。",
+            "zh": "是、是呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "134/TALK",
+            "narrator": "つばめ",
+            "text": "ガブちゃんが\n一緒にいてくれな\nかったら――",
+            "zh": "要是加布\n没有一起\n在的话——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "135/TALK",
+            "narrator": "つばめ",
+            "text": "今頃、もっと沖まで\n流されてたよ。",
+            "zh": "这会儿，已经被冲到\n更远的地方了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "137/TALK",
+            "narrator": "つばめ",
+            "text": "ありがと、\nガブちゃん。",
+            "zh": "谢谢你，\n加布。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "つばめ",
+            "text": "わたしのこと、\nずっと引っ張って\n泳いでくれて…。",
+            "zh": "一直拉着我，\n游了回来\n……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "141/TALK",
+            "narrator": "ガブリエラ",
+            "text": "べ、別にいいわよ。\nお礼言われるほどの\nことでもないし…。",
+            "zh": "没、没什么。\n也用不着\n道谢……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "ガブリエラ",
+            "text": "それに、あの状況じゃ\n放っておけないわ。",
+            "zh": "而且，那种情况\n也不能放着不管。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "143/TALK",
+            "narrator": "つばめ",
+            "text": "ガブちゃんは\n優しいね。",
+            "zh": "加布人\n真好呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "145/TALK",
+            "narrator": "ガブリエラ",
+            "text": "も、もういいってば！\nちょっと休むから、\n静かにしてて！",
+            "zh": "行、行了啦！\n我要休息一下，\n安静点！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "162/ACT",
+            "narrator": "",
+            "text": "砂浜で遊ぼう",
+            "zh": "在沙滩上玩吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "182/TALK",
+            "narrator": "つばめ",
+            "text": "そういえば、やってみたかった遊びがあるの！",
+            "zh": "说起来，有个一直想试的玩法！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "193/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…気付いてなかった\nみたいね。",
+            "zh": "……好像真的\n没发现。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "197/TALK",
+            "narrator": "つばめ",
+            "text": "そ、それよりガブちゃん。\nこの後って、まだ海に\n入る？",
+            "zh": "那、那个，加布。\n接下来，还要\n下海吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "198/TALK",
+            "narrator": "ガブリエラ",
+            "text": "う～ん…どうかしら？\nもう十分遊んだ気も\nするし…。",
+            "zh": "嗯～……怎么说？\n感觉已经玩\n够了……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "200/TALK",
+            "narrator": "つばめ",
+            "text": "もしよければ、\n砂のお城を作るの\n手伝ってほしいの。",
+            "zh": "如果可以的话，\n堆沙堡这事，\n想请你帮忙。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "201/TALK",
+            "narrator": "ガブリエラ",
+            "text": "砂の城って、どうやって\n作ればいいのかしら？",
+            "zh": "沙堡的话，要怎么\n堆才好？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "203/TALK",
+            "narrator": "神楽",
+            "text": "さあ？　私も作ったこと\n無いからわかりません\nけど――",
+            "zh": "谁知道？　我也没\n堆过，所以不太\n清楚——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "204/TALK",
+            "narrator": "神楽",
+            "text": "簡単じゃないとは\n思いますよ？",
+            "zh": "应该不会\n很简单吧？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "206/TALK",
+            "narrator": "ガブリエラ",
+            "text": "つばめ、あんたそんなに\n砂の城作りたいの？",
+            "zh": "燕，你就那么\n想堆沙堡吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "207/TALK",
+            "narrator": "つばめ",
+            "text": "わたし達の他には\n誰もいないんだよ？",
+            "zh": "除了我们，\n没有别人呀？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "208/TALK",
+            "narrator": "つばめ",
+            "text": "邪魔にならないように、\nとか気にしないで、\n大きいの作れそうだし。",
+            "zh": "不用在意会不会\n妨碍到别人，\n可以堆个大的。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "210/TALK",
+            "narrator": "ガブリエラ",
+            "text": "なるほど…それは確かに\nチャンスよね…。",
+            "zh": "原来如此……这确实\n是个机会……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "211/TALK",
+            "narrator": "ガブリエラ",
+            "text": "よし、決めた！\nあたしもお城作り手伝う！",
+            "zh": "好，决定了！\n我也来帮忙堆城堡！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "214/TALK",
+            "narrator": "つばめ",
+            "text": "えっ、いいの！？",
+            "zh": "欸，可以吗！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "216/TALK",
+            "narrator": "ガブリエラ",
+            "text": "こんなチャンス、\n滅多にないもの。",
+            "zh": "这样的机会，\n可不多。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "219/TALK",
+            "narrator": "ガブリエラ",
+            "text": "神楽も手伝ってよ？\nどうせなら人数多い方が\n早く作れるし。",
+            "zh": "神乐也来帮忙？\n反正人多\n做得更快。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "221/TALK",
+            "narrator": "神楽",
+            "text": "わかりました。",
+            "zh": "知道了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "224/TALK",
+            "narrator": "つばめ",
+            "text": "よろしくね、卯月さん。",
+            "zh": "拜托啦，卯月。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "225/TALK",
+            "narrator": "神楽",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "228/TALK",
+            "narrator": "ガブリエラ",
+            "text": "さっさと始めるわよ。\n暗くなるまえに、\nどうにか形にしたいし！",
+            "zh": "赶紧开始。\n天黑之前，\n好歹要做出个形！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "245/TALK",
+            "narrator": "つばめ",
+            "text": "やった、完成－！",
+            "zh": "太好了，完成——！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "246/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ふぅ…どうにか日没までに\n間に合ったわね。",
+            "zh": "呼……好歹在日落前\n赶上了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "247/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…ちょっと、小ぢんまりと\nしたお城になっちゃった\nけど。",
+            "zh": "……结果变成\n一座小小的\n城堡了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "249/TALK",
+            "narrator": "神楽",
+            "text": "初心者なんだから、\nそれは仕方ないですよ。",
+            "zh": "我们是初学者，\n那也没办法。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "250/TALK",
+            "narrator": "つばめ",
+            "text": "小さくてもいいの。\n三人で作った自慢の\nお城だもん。",
+            "zh": "小也没关系。\n这是三个人做的\n值得骄傲的城堡呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "254/TALK",
+            "narrator": "真幌",
+            "text": "おまえら、\nまだ遊んでるのか？",
+            "zh": "你们几个，\n还在玩吗？",
+            "narrator_zh": "真幌"
+        },
+        {
+            "location": "256/TALK",
+            "narrator": "つばめ",
+            "text": "あ、真幌さん。",
+            "zh": "啊，真幌。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "257/TALK",
+            "narrator": "真幌",
+            "text": "遅くなると明日に\n疲れが残るぞ。\n暗くなる前に家に戻れ。",
+            "zh": "太晚的话明天\n会留下疲劳。\n天黑前回去。",
+            "narrator_zh": "真幌"
+        },
+        {
+            "location": "259/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そんなことより、\nちょっとこれ見てよ！",
+            "zh": "先别说那个，\n你看这个！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "260/TALK",
+            "narrator": "真幌",
+            "text": "ん…？\nこれは、砂の城か？",
+            "zh": "嗯……？\n这是，沙堡吗？",
+            "narrator_zh": "真幌"
+        },
+        {
+            "location": "262/TALK",
+            "narrator": "つばめ",
+            "text": "はい。三人で力を合わせて\n作ったんです！",
+            "zh": "是的。三个人一起\n做出来的！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "265/TALK",
+            "narrator": "神楽",
+            "text": "思ったより大変でした\nけど、楽しかったですね。",
+            "zh": "比想的更费劲，\n不过很开心。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "266/TALK",
+            "narrator": "つばめ",
+            "text": "うん！",
+            "zh": "嗯！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "267/TALK",
+            "narrator": "真幌",
+            "text": "…おまえら、まさかずっと\nこれを作ってたのか？",
+            "zh": "……你们几个，难道一直\n在做这个？",
+            "narrator_zh": "真幌"
+        },
+        {
+            "location": "268/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうよ。\n中々砂が固まらなくて\n苦労したんだから。",
+            "zh": "就是。\n沙子老是不成形，\n可费了劲。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "269/TALK",
+            "narrator": "真幌",
+            "text": "それはわかるが――",
+            "zh": "这我明白——",
+            "narrator_zh": "真幌"
+        },
+        {
+            "location": "270/TALK",
+            "narrator": "真幌",
+            "text": "年頃の女子中高生が、\n海に来て砂の城作りに\n夢中になるってのは――",
+            "zh": "这个年纪的\n女学生来到海边，\n却埋头堆沙堡——",
+            "narrator_zh": "真幌"
+        },
+        {
+            "location": "271/TALK",
+            "narrator": "真幌",
+            "text": "正直、どうなんだ？",
+            "zh": "老实说，这合适吗？",
+            "narrator_zh": "真幌"
+        },
+        {
+            "location": "273/TALK",
+            "narrator": "つばめ",
+            "text": "えっ？",
+            "zh": "欸？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "274/TALK",
+            "narrator": "真幌",
+            "text": "いや、まあおまえらが\n楽しかったというなら、\n別に良いんだがな。",
+            "zh": "不，嘛，你们要是\n觉得开心，\n那也没什么。",
+            "narrator_zh": "真幌"
+        },
+        {
+            "location": "275/TALK",
+            "narrator": "真幌",
+            "text": "ほら、とにかくもう戻れ。\n夕飯に遅れるぞ。",
+            "zh": "好了，总之快回去。\n晚饭要迟到了。",
+            "narrator_zh": "真幌"
+        },
+        {
+            "location": "280/TALK",
+            "narrator": "つばめ",
+            "text": "…なんか、呆れられ\nちゃったかな？",
+            "zh": "……她是不是\n有点无语呀？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "281/TALK",
+            "narrator": "神楽",
+            "text": "仕方ないですよ。\n私も、つい夢中になって\nしまいましたけど――",
+            "zh": "也没办法。\n我也一下子\n入迷了——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "282/TALK",
+            "narrator": "神楽",
+            "text": "どうして半日もかけて、\n砂のお城づくりしてたのか\nわからないですし…。",
+            "zh": "为什么要花上半天，\n来堆一座沙堡，\n我自己也不明白……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "283/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あたしも、正直一時間\nくらいでやめようかな、\nって思ってたのに。",
+            "zh": "我老实说，本来想\n一个小时左右\n就停手的。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "286/TALK",
+            "narrator": "つばめ",
+            "text": "ご、ごめんね。\nわたしがお城作りたい、\nなんて言ったから…。",
+            "zh": "对、对不起。\n都是我说想\n堆城堡……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "288/TALK",
+            "narrator": "神楽",
+            "text": "…いえ、良いんです。",
+            "zh": "……不，没关系。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "289/TALK",
+            "narrator": "神楽",
+            "text": "それに、こういうのって\n初めてだったから、\n結構楽しかったです。",
+            "zh": "而且这种事\n是第一次，\n还挺开心的。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "20/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>8月21日　 2:16 PM</color>\n合宿中、みやびの実家付近の砂浜でのこと",
+            "zh": "<color=green>8月21日　 2:16 PM</color>\n合宿期间，雅的老家附近的沙滩上",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "156/DIALOG",
+            "narrator": "Dialog_GEThimegoto_ch01",
+            "text": "【畳水練準4級】",
+            "zh": "【榻榻米游泳准四级】[?]",
+            "narrator_zh": "Dialog_GEThimegoto_ch01"
+        }
+    ]
+}

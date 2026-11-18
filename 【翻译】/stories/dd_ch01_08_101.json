@@ -1,0 +1,917 @@
+{
+    "dir": "chap08/daydra/dd_ch01_08_101.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "8102",
+        "cid": "tsubame",
+        "title": "002 メインストーリー",
+        "sub_title": "大胆勝負～Case1～＜前編＞",
+        "title_zh": "002 主线剧情",
+        "sub_title_zh": "大胆对决～Case1～＜前篇＞"
+    },
+    "entry": [
+        {
+            "location": "8/SCENARIO",
+            "narrator": "",
+            "text": "大胆勝負",
+            "zh": "大胆对决",
+            "narrator_zh": ""
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "つばめ",
+            "text": "はふぅ、\n少しのぼせちゃった\nかも…。",
+            "zh": "哈啊，\n好像有点\n泡晕了……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "神楽",
+            "text": "あっ、本当ですね。\n少し顔が赤いですよ？",
+            "zh": "啊，是真的。\n脸有点红哦？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "34/TALK",
+            "narrator": "神楽",
+            "text": "熱かったなら、\n先に上がってても\nよかったのに…。",
+            "zh": "要是太热，\n先上去也\n没关系的……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "36/TALK",
+            "narrator": "つばめ",
+            "text": "えへへ、卯月さんと\n一緒に入ってるのが、\n何だか嬉しくて――",
+            "zh": "诶嘿嘿，和卯月\n一起泡着，\n不知为什么好高兴——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "37/TALK",
+            "narrator": "つばめ",
+            "text": "今まで熱かったの\n気付かなかった\nみたい。",
+            "zh": "热成这样，\n我好像都\n没注意到。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "42/TALK",
+            "narrator": "神楽",
+            "text": "ふふっ、つばめさん\nったら…。",
+            "zh": "呵呵，燕\n真是的……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "44/TALK",
+            "narrator": "神楽",
+            "text": "…さっきの言葉、\n本心だったんですね？",
+            "zh": "……刚才那些话，\n是真心的吧？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "46/TALK",
+            "narrator": "つばめ",
+            "text": "え？",
+            "zh": "诶？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "50/TALK",
+            "narrator": "神楽",
+            "text": "お風呂で言ってたじゃ\nないですか。",
+            "zh": "在浴室里\n说过的呀。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "51/TALK",
+            "narrator": "神楽",
+            "text": "私となら、上手く\nやっていける気が\nする、って…。",
+            "zh": "和我的话，感觉\n能好好相处下去，\n这样……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "52/TALK",
+            "narrator": "神楽",
+            "text": "突然だったから、\n社交辞令かな、って\n思ってたんです。",
+            "zh": "太突然了，\n我还以为是\n客套话。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "54/TALK",
+            "narrator": "つばめ",
+            "text": "あ、あはは…、\nビックリさせちゃった\nかな？",
+            "zh": "啊、啊哈哈……，\n吓到你了\n吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "55/TALK",
+            "narrator": "神楽",
+            "text": "ええ、ちょっとだけ。",
+            "zh": "嗯，有一点点。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "57/TALK",
+            "narrator": "神楽",
+            "text": "でも、どうして\nそんな風に思って\nくれたんですか？",
+            "zh": "不过，为什么\n会这么\n觉得？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "つばめ",
+            "text": "え、えーっと…。",
+            "zh": "诶、那个……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "61/TALK",
+            "narrator": "つばめ",
+            "text": "…どうしてかな？\nもしかして、友達が\nいなかったから――",
+            "zh": "……为什么呀？\n说不定，是因为\n没有朋友——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "63/TALK",
+            "narrator": "つばめ",
+            "text": "ちょっと仲良くして\nもらって、そんな風に\n思っちゃった、とか？",
+            "zh": "稍微对我好一点，\n我就这么\n想了，之类的？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "つばめ",
+            "text": "…どうしてなんだろ？",
+            "zh": "……到底为什么呀？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "65/SEL",
+            "narrator": "",
+            "text": "何も言わずただ見つめろ",
+            "zh": "什么都别说，只管看着",
+            "narrator_zh": ""
+        },
+        {
+            "location": "66/SEL",
+            "narrator": "",
+            "text": "初めて会ったあの日からずっと愛してる、と言え",
+            "zh": "说，从第一次见面那天起我就一直爱着你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "67/ACT",
+            "narrator": "",
+            "text": "何も言わずただ見つめろ",
+            "zh": "什么都别说，只管看着",
+            "narrator_zh": ""
+        },
+        {
+            "location": "87/TALK",
+            "narrator": "つばめ",
+            "text": "それで伝わるかな？(´･ω･｀) ",
+            "zh": "这样能传达吗？(´･ω･｀) ",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "88/TALK",
+            "narrator": "つばめ",
+            "text": "言葉にできないけど",
+            "zh": "说不出口",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "89/TALK",
+            "narrator": "つばめ",
+            "text": "本気で思ったから言った",
+            "zh": "因为是认真想的才说的",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "90/TALK",
+            "narrator": "つばめ",
+            "text": "わたしの気持ちが(´ω｀*)",
+            "zh": "我的心情(´ω｀*)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "つばめ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "神楽",
+            "text": "…？",
+            "zh": "……？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "つばめ",
+            "text": "じぃーっ。",
+            "zh": "盯——。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "107/TALK",
+            "narrator": "神楽",
+            "text": "え、えぇっと…。",
+            "zh": "诶、那个……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "108/TALK",
+            "narrator": "つばめ",
+            "text": "じぃーーーーーっ。",
+            "zh": "盯——————。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "109/TALK",
+            "narrator": "神楽",
+            "text": "…いいんですか？",
+            "zh": "……可以吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "111/TALK",
+            "narrator": "神楽",
+            "text": "そんなに熱い視線を\n向けられたら、私――",
+            "zh": "被这么热的视线\n看着，我——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "114/TALK",
+            "narrator": "神楽",
+            "text": "襲っちゃいますよ？",
+            "zh": "会扑上去的哦？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "115/TALK",
+            "narrator": "つばめ",
+            "text": "えぇっ！？\nそんなに攻撃的な\n視線だった！？",
+            "zh": "诶诶！？\n视线有那么\n强的攻击性吗！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "117/TALK",
+            "narrator": "神楽",
+            "text": "…攻撃的？",
+            "zh": "……攻击性？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "120/TALK",
+            "narrator": "つばめ",
+            "text": "ごめんね。\n別に、睨んだりしてた\nわけじゃないの。",
+            "zh": "对不起呀。\n我又不是\n在瞪你。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "121/TALK",
+            "narrator": "つばめ",
+            "text": "ただ、卯月さんのこと\n見つめてたつもり\nだったのに…。",
+            "zh": "只是，本来想\n看着卯月\n的……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "125/TALK",
+            "narrator": "神楽",
+            "text": "はぁ…なるほど。",
+            "zh": "哈啊……原来如此。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "126/TALK",
+            "narrator": "神楽",
+            "text": "つばめさんって、\nそういうのに\n疎いんですね？",
+            "zh": "燕对这种事，\n很不懂\n吧？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "127/TALK",
+            "narrator": "つばめ",
+            "text": "そ、そうかな？\n確かに天然とは\n言われるけど…。",
+            "zh": "是、是吗？\n确实有人说我\n天然呆……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "128/TALK",
+            "narrator": "神楽",
+            "text": "そういう意味でも\nないんですけどね。",
+            "zh": "也不是\n那个意思。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "130/TALK",
+            "narrator": "神楽",
+            "text": "でも、つばめさんの\nそういうところ、\n本当に可愛いですね。",
+            "zh": "不过，燕这样的地方，\n真的很\n可爱。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "つばめ",
+            "text": "か、可愛い？\nうーん、そうなの\nかなぁ？　うーん…。",
+            "zh": "可、可爱？\n嗯——，是\n这样吗？嗯……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "134/TALK",
+            "narrator": "神楽",
+            "text": "そうやって困ってる\nところも、とっても\n可愛いですよ。",
+            "zh": "这么困扰的样子，\n也非常\n可爱哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "137/TALK",
+            "narrator": "神楽",
+            "text": "本当…我慢できなくて\n襲っちゃうかもしれま\nせん…。",
+            "zh": "真是……忍不住\n可能会扑上去\n……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "140/TALK",
+            "narrator": "つばめ",
+            "text": "わたし、そんなに\n攻撃的な困り方\nしてるのかな？",
+            "zh": "我困扰的样子，\n有那么强的\n攻击性吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "141/ACT",
+            "narrator": "",
+            "text": "初めて会ったあの日からずっと愛してる、と言え",
+            "zh": "说，从第一次见面那天起我就一直爱着你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "160/TALK",
+            "narrator": "つばめ",
+            "text": "えっと(･Д･｀)",
+            "zh": "那个(･Д･｀)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "161/TALK",
+            "narrator": "つばめ",
+            "text": "あの日っていうか",
+            "zh": "说是那天",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "162/TALK",
+            "narrator": "つばめ",
+            "text": "卯月さんに会ったの",
+            "zh": "见到卯月",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "163/TALK",
+            "narrator": "つばめ",
+            "text": "今日が初めてだよ？(´･ω･｀) ",
+            "zh": "今天才是第一次呀？(´･ω･｀) ",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "165/SEL",
+            "narrator": "",
+            "text": "ですよねー",
+            "zh": "对吧——",
+            "narrator_zh": ""
+        },
+        {
+            "location": "166/SEL",
+            "narrator": "",
+            "text": "忘れたの？　$me$は未来を見通せるんだよ。つまり",
+            "zh": "忘了吗？$me$能看透未来。也就是说",
+            "narrator_zh": ""
+        },
+        {
+            "location": "167/ACT",
+            "narrator": "",
+            "text": "ですよねー",
+            "zh": "对吧——",
+            "narrator_zh": ""
+        },
+        {
+            "location": "168/TALK",
+            "narrator": "つばめ",
+            "text": "そうだよー",
+            "zh": "就是这样哦——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "169/TALK",
+            "narrator": "つばめ",
+            "text": "わかってたの？",
+            "zh": "你早就知道了？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "180/TALK",
+            "narrator": "つばめ",
+            "text": "…今のって、\n何だったんだろ？",
+            "zh": "……刚才那个，\n到底是什么呀？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "181/TALK",
+            "narrator": "つばめ",
+            "text": "まあ、いっか。",
+            "zh": "算了，不管了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "182/ACT",
+            "narrator": "",
+            "text": "忘れたの？　$me$は未来を見通せるんだよ。つまり",
+            "zh": "忘了吗？$me$能看透未来。也就是说",
+            "narrator_zh": ""
+        },
+        {
+            "location": "183/TALK",
+            "narrator": "つばめ",
+            "text": "言わないと",
+            "zh": "不说的话",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "184/TALK",
+            "narrator": "つばめ",
+            "text": "大変なことになっちゃうの？Σ(ﾟдﾟlll)",
+            "zh": "会变成很严重的事吗？Σ(ﾟдﾟlll)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "186/SEL",
+            "narrator": "",
+            "text": "言わないと、卯月と絶交の危機だと知っているのだ",
+            "zh": "我可知道，不说的话就会和卯月绝交",
+            "narrator_zh": ""
+        },
+        {
+            "location": "187/ACT",
+            "narrator": "",
+            "text": "言わないと、卯月と絶交の危機だと知っているのだ",
+            "zh": "我可知道，不说的话就会和卯月绝交",
+            "narrator_zh": ""
+        },
+        {
+            "location": "190/TALK",
+            "narrator": "つばめ",
+            "text": "そんなのダメ！・゜・(ノД`)・゜・",
+            "zh": "那可不行！・゜・(ノД`)・゜・",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "191/TALK",
+            "narrator": "つばめ",
+            "text": "わかったよ",
+            "zh": "知道了",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "192/TALK",
+            "narrator": "つばめ",
+            "text": "わたし、言うよ！(๑･ㅂ･)و☆",
+            "zh": "我说！(๑･ㅂ･)و☆",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "203/TALK",
+            "narrator": "つばめ",
+            "text": "言わないと絶交だ\nなんて――",
+            "zh": "不说就要绝交\n什么的——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "205/TALK",
+            "narrator": "つばめ",
+            "text": "きっと、卯月さんが\nそれだけ望んでる、\nってことだよね。",
+            "zh": "一定是卯月\n就那么想听，\n对吧。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "207/TALK",
+            "narrator": "つばめ",
+            "text": "それなら…。",
+            "zh": "那就……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "210/TALK",
+            "narrator": "神楽",
+            "text": "どうしたんですか？\n真剣そうな表情に\nなってますけど…。",
+            "zh": "怎么了？\n表情变得\n好认真……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "212/TALK",
+            "narrator": "つばめ",
+            "text": "…してます。",
+            "zh": "……爱着。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "213/TALK",
+            "narrator": "神楽",
+            "text": "……は？",
+            "zh": "……哈？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "215/TALK",
+            "narrator": "つばめ",
+            "text": "初めて見た時から、\n愛してます！",
+            "zh": "从第一次见到的时候起，\n就爱着！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "216/TALK",
+            "narrator": "神楽",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "217/TALK",
+            "narrator": "つばめ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "220/TALK",
+            "narrator": "神楽",
+            "text": "…ぷっ、ぶふぅっ！！",
+            "zh": "……噗，噗哈！！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "223/TALK",
+            "narrator": "つばめ",
+            "text": "え、えぇっ！？",
+            "zh": "诶、诶诶！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "224/TALK",
+            "narrator": "神楽",
+            "text": "あは、あはははは！！\nだ、ダメ、限界！",
+            "zh": "啊哈，啊哈哈哈哈！！\n不、不行，到极限了！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "225/TALK",
+            "narrator": "つばめ",
+            "text": "何で笑うの！？",
+            "zh": "笑什么呀！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "226/TALK",
+            "narrator": "神楽",
+            "text": "だってつばめさん、\n演技下手過ぎですし。",
+            "zh": "因为燕，\n演技也太差了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "227/TALK",
+            "narrator": "つばめ",
+            "text": "え、演技じゃない！\n本気だよ。",
+            "zh": "诶，不是演技！\n是认真的呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "229/TALK",
+            "narrator": "神楽",
+            "text": "いや、本気って…。",
+            "zh": "不是，认真是指……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "230/TALK",
+            "narrator": "つばめ",
+            "text": "本気だよ！　本気で\n卯月さんのこと\n愛してるよ！",
+            "zh": "是认真的呀！认真地\n爱着\n卯月！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "231/TALK",
+            "narrator": "神楽",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "234/TALK",
+            "narrator": "神楽",
+            "text": "つばめさん…、\nもっとノーマルに\n生きましょ？",
+            "zh": "燕……，\n活得正常一点\n吧？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "235/TALK",
+            "narrator": "つばめ",
+            "text": "え？",
+            "zh": "诶？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "236/TALK",
+            "narrator": "神楽",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "240/TALK",
+            "narrator": "つばめ",
+            "text": "うーん…どうすれば\n本気って信じて\nもらえるかなぁ？",
+            "zh": "嗯……要怎么样\n才能让你相信\n是认真的呀？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "242/TALK",
+            "narrator": "つばめ",
+            "text": "……っていうか、\nあれ？",
+            "zh": "……话说，\n咦？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "243/TALK",
+            "narrator": "つばめ",
+            "text": "わたし、どうして\n卯月さんとなら――",
+            "zh": "我为什么觉得，\n和卯月的话——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "244/TALK",
+            "narrator": "つばめ",
+            "text": "上手くやっていける、\nって思ったんだろ？",
+            "zh": "能好好相处下去\n呀？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "288/TALK",
+            "narrator": "つばめ",
+            "text": "ようこそ\n[ココロゲート]へ。",
+            "zh": "欢迎来到\n[心之扉]。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "289/TALK",
+            "narrator": "つばめ",
+            "text": "どうやら今回は\n少しだけ状況が\n違うみたいですね。",
+            "zh": "看来这次\n情况稍微\n不一样。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "290/TALK",
+            "narrator": "つばめ",
+            "text": "何にしても、\nまずは【問題の扉】の\nコールから始めましょか！",
+            "zh": "不管怎样，\n先从呼叫【问题之扉】\n开始吧！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "298/TALK",
+            "narrator": "つばめ",
+            "text": "オープンプロセス、\n0x814番地から\n0x337番地へ。",
+            "zh": "开放进程，\n从0x814地址\n到0x337地址。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "313/TALK",
+            "narrator": "つばめ",
+            "text": "シーク完了しました。",
+            "zh": "搜索完成。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "314/SEL",
+            "narrator": "",
+            "text": "で、何が違うの？",
+            "zh": "所以，哪里不一样？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "315/ACT",
+            "narrator": "",
+            "text": "で、何が違うの？",
+            "zh": "所以，哪里不一样？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "319/TALK",
+            "narrator": "つばめ",
+            "text": "えっとですねー…",
+            "zh": "这么说吧……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "321/TALK",
+            "narrator": "つばめ",
+            "text": "今回の場合、何らかの\n悩みや恐れが扉を閉ざして\nいるわけではないんです。",
+            "zh": "这次并不是\n什么烦恼或恐惧把扉\n关上了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "322/TALK",
+            "narrator": "つばめ",
+            "text": "ココロファイルナンバー\n01-845-65によれば――",
+            "zh": "根据心之档案编号\n01-845-65——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "323/TALK",
+            "narrator": "つばめ",
+            "text": "この件については、\nどういうわけか【参照元\n不明】なんだそうです。",
+            "zh": "这件事，\n不知怎么是【参照源不明】\n。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "324/SEL",
+            "narrator": "",
+            "text": "不明？　何それ？？",
+            "zh": "不明？那是什么？？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "325/ACT",
+            "narrator": "",
+            "text": "不明？　何それ？？",
+            "zh": "不明？那是什么？？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "327/TALK",
+            "narrator": "つばめ",
+            "text": "現実のつばめが今回\n引っかかっている問題の\n原因が判らないんですよ。",
+            "zh": "现实里的燕这次\n卡住的问题，\n原因搞不清。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "328/TALK",
+            "narrator": "つばめ",
+            "text": "『どうして上手くやって\nいけるのか』の解にあたる\nデータベースが無いんです",
+            "zh": "『为什么能好好\n相处下去』对应的\n数据库不存在",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "329/SEL",
+            "narrator": "",
+            "text": "そんなことってあるの？",
+            "zh": "还有这种事？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "330/ACT",
+            "narrator": "",
+            "text": "そんなことってあるの？",
+            "zh": "还有这种事？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "333/TALK",
+            "narrator": "つばめ",
+            "text": "さあ……。\n少なくともわたしには\n初の体験ですね。",
+            "zh": "谁知道……。\n至少对我来说\n是头一回。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "334/TALK",
+            "narrator": "つばめ",
+            "text": "とにかく、その原因は\nこちらの方で探るとして\n問題は現実のわたしです。",
+            "zh": "总之，原因\n这边来查。\n问题是现实里的我。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "335/TALK",
+            "narrator": "つばめ",
+            "text": "解のない疑問をずっと\n気にして、日常生活に\n響く危険性があります。",
+            "zh": "一个没有答案的疑问\n一直放在心上，\n可能会影响日常生活。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "336/TALK",
+            "narrator": "つばめ",
+            "text": "授業中やバイト中、\n寝る前にも悶々と\n考えちゃいますからね。",
+            "zh": "上课的时候、打工的时候，\n连睡觉前都会\n闷着想。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "337/TALK",
+            "narrator": "つばめ",
+            "text": "ですから今回は、この\n問題に執着するクランを\n叩くことにしましょう！",
+            "zh": "所以这次，\n把执着于这个问题的库兰\n打掉吧！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "338/SEL",
+            "narrator": "",
+            "text": "そんな軽くミッション変えちゃっていいの！？",
+            "zh": "这么随便就改任务，可以吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "339/ACT",
+            "narrator": "",
+            "text": "そんな軽くミッション変えちゃっていいの！？",
+            "zh": "这么随便就改任务，可以吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "342/TALK",
+            "narrator": "つばめ",
+            "text": "大丈夫ですよ！\n結果オーライ。",
+            "zh": "没问题！\n结果好就行。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "343/TALK",
+            "narrator": "つばめ",
+            "text": "一旦気が逸れれば\n万事解決ですから。",
+            "zh": "只要先把心思岔开，\n就万事解决了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "344/SEL",
+            "narrator": "",
+            "text": "最近性格変わってきてない？",
+            "zh": "最近性格没变吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "345/ACT",
+            "narrator": "",
+            "text": "最近性格変わってきてない？",
+            "zh": "最近性格没变吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "347/TALK",
+            "narrator": "つばめ",
+            "text": "そ、そんなこと\nありませんよ？",
+            "zh": "才、才没有\n那种事。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "350/TALK",
+            "narrator": "つばめ",
+            "text": "それでは、\n再検索します！",
+            "zh": "那么，\n重新搜索！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "355/TALK",
+            "narrator": "つばめ",
+            "text": "オープンプロセス、\n0x337番地から\n0x11F番地へ。",
+            "zh": "开放进程，\n从0x337地址\n到0x11F地址。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "370/TALK",
+            "narrator": "つばめ",
+            "text": "シーク完了しました。",
+            "zh": "搜索完成。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "372/TALK",
+            "narrator": "つばめ",
+            "text": "さあ、この扉に\n今回のことをずっと\n気にするクランがいます。",
+            "zh": "来，这扇扉里\n有一直在意这件事的\n库兰。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "373/TALK",
+            "narrator": "つばめ",
+            "text": "除去してわたしを\nスッキリさせて\nくださいね！",
+            "zh": "除掉，\n让我爽快\n起来！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "375/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんと\nわたしに、\n素敵なココロの旅を！",
+            "zh": "献给$handle$和\n我的，\n美妙的心灵之旅！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "28/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>5月9日　7:22 PM</color>\n高校でのフェノメノン戦の後、劇場横の銭湯にて。",
+            "zh": "<color=green>5月9日　7:22 PM</color>\n高中的PhenoMENON战之后，剧场旁边的澡堂。",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "256/DIALOG",
+            "narrator": "BattleInit/Dialog_BATTLE_ch01",
+            "text": "<color=black><size=50><b>逢瀬つばめのココロの中で\nバトルが始まりました。</b></size></color>\n\n\n\n\n\n彼女のココロの中に、\n大きな葛藤が生まれています。\n\nココロスフィアにダイブして\n逢瀬つばめの心の葛藤を解消してください。\n\n\n\n",
+            "zh": "<color=black><size=50><b>逢濑燕的心中\n战斗开始了。</b></size></color>\n\n\n\n\n\n她的心中，\n产生了很大的挣扎。\n\n请潜入心灵领域，\n化解逢濑燕心中的挣扎。\n\n\n\n",
+            "narrator_zh": "BattleInit/Dialog_BATTLE_ch01"
+        }
+    ]
+}

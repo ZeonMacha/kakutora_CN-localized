@@ -1,0 +1,2485 @@
+{
+    "dir": "chap29/daydra/dd_ch05_29_102.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "29505",
+        "cid": "kagura",
+        "title": "005 メインストーリー",
+        "sub_title": "ロックアウト作戦＜後編＞",
+        "title_zh": "005 主线剧情",
+        "sub_title_zh": "锁定作战＜后篇＞[?]"
+    },
+    "entry": [
+        {
+            "location": "2782/TALK",
+            "narrator": "神楽",
+            "text": "…決めた。\n私は、これを使う！",
+            "zh": "……决定了。\n我，要用这个！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2789/TALK",
+            "narrator": "神楽",
+            "text": "どうか、\nなにもありません\nように…。",
+            "zh": "拜托了，\n千万别出什么事\n啊……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2790/SEL",
+            "narrator": "",
+            "text": "神楽！",
+            "zh": "神乐！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2791/ACT",
+            "narrator": "",
+            "text": "神楽！",
+            "zh": "神乐！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2798/TALK",
+            "narrator": "神楽",
+            "text": "ッ！？",
+            "zh": "！？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2799/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さん！？",
+            "zh": "$handle$！？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2800/TALK",
+            "narrator": "神楽",
+            "text": "どうして心の中に\n声が聞こえて…。",
+            "zh": "为什么心里\n能听见声音……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2801/TALK",
+            "narrator": "神楽",
+            "text": "あ、そうか。\nこっちに声を聞かせる\nことができたんだ。",
+            "zh": "啊，对了。\n你原本就能把声音\n传到我这边来着。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2802/TALK",
+            "narrator": "神楽",
+            "text": "…でも、スマホが\n使えないことには…。",
+            "zh": "……不过，手机\n不能用的话……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2803/TALK",
+            "narrator": "神楽",
+            "text": "私の声を伝えること\nできないし。",
+            "zh": "我的声音也\n传不过去啊。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2804/SEL",
+            "narrator": "",
+            "text": "安心していいよ、心の中見えてるから",
+            "zh": "放心吧，你心里的想法我都看得到哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2805/ACT",
+            "narrator": "",
+            "text": "安心していいよ、心の中見えてるから",
+            "zh": "放心吧，你心里的想法我都看得到哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2808/TALK",
+            "narrator": "神楽",
+            "text": "なるほど。\nそれなら――",
+            "zh": "原来如此。\n那样的话——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2812/TALK",
+            "narrator": "神楽",
+            "text": "ちょ、マジで！？\n私の心の中\n丸見えなんですか！？",
+            "zh": "等、真的假的！？\n我心里想什么\n全被你看光了吗！？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2813/SEL",
+            "narrator": "",
+            "text": "だから話せてる",
+            "zh": "所以才能说话呀",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2814/SEL",
+            "narrator": "",
+            "text": "丸見えじゃないよ",
+            "zh": "没有全看光啦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2815/ACT",
+            "narrator": "",
+            "text": "だから話せてる",
+            "zh": "所以才能说话呀",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2816/ACT",
+            "narrator": "",
+            "text": "丸見えじゃないよ",
+            "zh": "没有全看光啦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2817/TALK",
+            "narrator": "神楽",
+            "text": "見えてるから\n私と話せてるんじゃ\nないですか！",
+            "zh": "不就是因为看得见\n才跟我说得上话的\n吗！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2820/TALK",
+            "narrator": "神楽",
+            "text": "ああもう、\n$handle$さんの\nバカバカ！！",
+            "zh": "啊真是的，\n$handle$是大笨蛋\n笨蛋！！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2821/TALK",
+            "narrator": "神楽",
+            "text": "私、女子高生ですよ？\n乙女なんですよ！？",
+            "zh": "我可是女高中生哦？\n是纯情少女哦！？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2823/TALK",
+            "narrator": "神楽",
+            "text": "なのに、心の中を\n覗けるだなんて、\nサイテーですよ！！",
+            "zh": "结果你居然能\n偷窥别人的内心，\n太差劲了！！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2824/SEL",
+            "narrator": "",
+            "text": "そういうシステムだから仕方ないの",
+            "zh": "因为系统就是这样，没办法嘛",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2825/SEL",
+            "narrator": "",
+            "text": "うーん、やっぱりそっちの声は見えづらいな",
+            "zh": "嗯——，果然那边的声音还是不太好看到啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2826/SEL",
+            "narrator": "",
+            "text": "プライバシーに関わるところは見ないよ",
+            "zh": "涉及隐私的地方我不会看的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2827/ACT",
+            "narrator": "",
+            "text": "そういうシステムだから仕方ないの",
+            "zh": "因为系统就是这样，没办法嘛",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2828/TALK",
+            "narrator": "神楽",
+            "text": "仕方ないで\n納得できるような\nことじゃないから！",
+            "zh": "这可不是一句\n没办法就能\n让人接受的事！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2829/ACT",
+            "narrator": "",
+            "text": "うーん、やっぱりそっちの声は見えづらいな",
+            "zh": "嗯——，果然那边的声音还是不太好看到啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2830/TALK",
+            "narrator": "神楽",
+            "text": "それ、すっごい\nウソっぽいですから！",
+            "zh": "你这话，听起来\n超级像在撒谎！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2831/TALK",
+            "narrator": "神楽",
+            "text": "ウソつくなら\nもっと上手なウソ\nついてくださいよ…。",
+            "zh": "要撒谎的话，\n请撒个更高明一点的谎\n好吗……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2832/ACT",
+            "narrator": "",
+            "text": "プライバシーに関わるところは見ないよ",
+            "zh": "涉及隐私的地方我不会看的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2833/TALK",
+            "narrator": "神楽",
+            "text": "つまり、見ようと\n思えば見ることは\n可能なんですか…。",
+            "zh": "也就是说，\n只要你想看，\n还是能看到的吗……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2834/TALK",
+            "narrator": "神楽",
+            "text": "…エッチ。",
+            "zh": "……大色狼。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2836/TALK",
+            "narrator": "神楽",
+            "text": "…もういいです。",
+            "zh": "……算了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2837/TALK",
+            "narrator": "神楽",
+            "text": "今はこんなこと\n言ってる場合じゃ\nありませんし。",
+            "zh": "现在也不是\n说这种话的\n时候。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2838/TALK",
+            "narrator": "神楽",
+            "text": "でも、落ち着いたら\n$handle$さんの\n心の内も…。",
+            "zh": "不过，等安顿下来后，\n$handle$的\n心里话也……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2839/TALK",
+            "narrator": "神楽",
+            "text": "全部晒して\nもらいますからね。",
+            "zh": "我可要让你\n全都坦白出来哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2840/SEL",
+            "narrator": "",
+            "text": "$me$の心を見るの！？",
+            "zh": "你要看$me$的内心！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2841/ACT",
+            "narrator": "",
+            "text": "$me$の心を見るの！？",
+            "zh": "你要看$me$的内心！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2843/TALK",
+            "narrator": "神楽",
+            "text": "そうじゃないと\n対等じゃありません。",
+            "zh": "不那样的话\n就不公平了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2845/TALK",
+            "narrator": "神楽",
+            "text": "ふふふ～、自白剤とか\n用意しておいた方が\nいいですかねー？",
+            "zh": "呵呵呵～，我是不是\n该事先准备点\n吐真剂之类的好呢～？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2846/SEL",
+            "narrator": "",
+            "text": "あの、怖いんですけど？",
+            "zh": "那个，你这样很吓人好吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2847/ACT",
+            "narrator": "",
+            "text": "あの、怖いんですけど？",
+            "zh": "那个，你这样很吓人好吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2849/TALK",
+            "narrator": "神楽",
+            "text": "怖いでしょ？\n私、もっと怖いこと\n考えちゃいますよ！",
+            "zh": "很吓人吧？\n我可是还会想\n更吓人的事哦！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2850/TALK",
+            "narrator": "神楽",
+            "text": "でも、全部筒抜け\nちゃうから…。",
+            "zh": "不过，反正都会\n被你听得一清二楚就是了……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2851/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さんは\n多分拒絶できないん\nですよね？",
+            "zh": "$handle$\n大概也没法拒绝\n吧？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2852/TALK",
+            "narrator": "神楽",
+            "text": "あ、そうだ！",
+            "zh": "啊，对了！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2853/TALK",
+            "narrator": "神楽",
+            "text": "逃げようとして\n暴れられたら\n困りますし…。",
+            "zh": "万一你想逃跑\n闹腾起来的话\n会很麻烦……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2854/TALK",
+            "narrator": "神楽",
+            "text": "拘束用の椅子とか\n目隠しなんかも\n必要かも。",
+            "zh": "拘束用的椅子还有\n眼罩之类的，\n说不定也需要呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2855/TALK",
+            "narrator": "神楽",
+            "text": "ああいうのって、\n高いんですかね？",
+            "zh": "那种东西，\n贵不贵呢？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2856/SEL",
+            "narrator": "",
+            "text": "マジで勘弁してください",
+            "zh": "真的请放过我吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2857/SEL",
+            "narrator": "",
+            "text": "拘束されるのはご褒美だね",
+            "zh": "被拘束可是奖励呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2858/SEL",
+            "narrator": "",
+            "text": "ＤＩＹしましょう",
+            "zh": "自己动手DIY吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2859/ACT",
+            "narrator": "",
+            "text": "マジで勘弁してください",
+            "zh": "真的请放过我吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2860/TALK",
+            "narrator": "神楽",
+            "text": "んー、\nどうしましょう\nかねー？",
+            "zh": "嗯——，\n那要怎么办\n才好呢——？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2861/ACT",
+            "narrator": "",
+            "text": "拘束されるのはご褒美だね",
+            "zh": "被拘束可是奖励呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2863/TALK",
+            "narrator": "神楽",
+            "text": "うわ、ヘンタイ…。\nそういう趣味\nあったの？",
+            "zh": "哇，变态……。\n原来你有\n这种嗜好吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2864/ACT",
+            "narrator": "",
+            "text": "ＤＩＹしましょう",
+            "zh": "自己动手DIY吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2865/TALK",
+            "narrator": "神楽",
+            "text": "ＤＩＹは楽しいかも\nって思いますけど…。",
+            "zh": "虽然我觉得DIY\n或许挺好玩的……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2867/TALK",
+            "narrator": "神楽",
+            "text": "どうせだったら\nもっと可愛いモノ\n作りたいんですけど？",
+            "zh": "既然要做，\n我倒想做些\n更可爱的东西呢？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2869/TALK",
+            "narrator": "神楽",
+            "text": "…なんて、\n冗談ですよ、\n冗談です。",
+            "zh": "……开玩笑的啦，\n只是开玩笑，\n开玩笑而已。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2870/TALK",
+            "narrator": "神楽",
+            "text": "ずっと逢いたくて、\nっていうか逢っては\nいませんけど…。",
+            "zh": "一直很想见你，\n虽然说其实也\n还没见过面……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2871/TALK",
+            "narrator": "神楽",
+            "text": "話せてとっても\n嬉しくて、\nえーっと…。",
+            "zh": "能说上话真的\n好开心，\n那个……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2873/TALK",
+            "narrator": "神楽",
+            "text": "…嬉し過ぎて\n頭が働かなくて…、\n変なこと言ってます？",
+            "zh": "……高兴过头了\n脑子转不动了……，\n我是不是说了很奇怪的话？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2874/TALK",
+            "narrator": "神楽",
+            "text": "でもそれくらい\n嬉しいんです！\nわかってくれました？",
+            "zh": "可是我真的就是\n这么开心！\n你能明白吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2876/SEL",
+            "narrator": "",
+            "text": "よくわかった。ところで、落ち着いた？",
+            "zh": "我非常明白。对了，冷静下来了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2877/ACT",
+            "narrator": "",
+            "text": "よくわかった。ところで、落ち着いた？",
+            "zh": "我非常明白。对了，冷静下来了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2882/TALK",
+            "narrator": "神楽",
+            "text": "なんとか…。",
+            "zh": "总算是……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2883/SEL",
+            "narrator": "",
+            "text": "これからの事を話すから、よく聞いて",
+            "zh": "接下来要说今后的事，仔细听好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2884/ACT",
+            "narrator": "",
+            "text": "これからの事を話すから、よく聞いて",
+            "zh": "接下来要说今后的事，仔细听好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2886/TALK",
+            "narrator": "神楽",
+            "text": "お願いします。",
+            "zh": "拜托了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2887/SEL",
+            "narrator": "",
+            "text": "このSIMは、繭が作ったものだけど中身は$me$が用意したもの",
+            "zh": "这张SIM卡虽然是茧做的，但里面的东西是$me$准备的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2888/ACT",
+            "narrator": "",
+            "text": "このSIMは、繭が作ったものだけど中身は$me$が用意したもの",
+            "zh": "这张SIM卡虽然是茧做的，但里面的东西是$me$准备的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2891/SEL",
+            "narrator": "",
+            "text": "ある意味トロイの木馬だったけど、それは$me$の木馬だったのです！",
+            "zh": "某种意义上确实是特洛伊木马，但那是$me$的木马！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2892/ACT",
+            "narrator": "",
+            "text": "ある意味トロイの木馬だったけど、それは$me$の木馬だったのです！",
+            "zh": "某种意义上确实是特洛伊木马，但那是$me$的木马！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2895/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さんの\n木馬！？",
+            "zh": "$handle$的\n木马！？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2896/TALK",
+            "narrator": "神楽",
+            "text": "その言い方だと、\n色々とよからぬ妄想が\n膨らみそうです…。",
+            "zh": "你这么一说，\n我脑子里快要冒出\n各种不太妙的妄想了……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2897/SEL",
+            "narrator": "",
+            "text": "というと？",
+            "zh": "什么意思？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2898/SEL",
+            "narrator": "",
+            "text": "それは宝物だから渡せない",
+            "zh": "那可是宝物，不能交出去",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2899/ACT",
+            "narrator": "",
+            "text": "というと？",
+            "zh": "什么意思？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2900/TALK",
+            "narrator": "神楽",
+            "text": "なんでもありません！",
+            "zh": "没什么！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2901/TALK",
+            "narrator": "神楽",
+            "text": "いいから話の続きを\nお願いします。",
+            "zh": "行了，请继续\n说正事吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2902/ACT",
+            "narrator": "",
+            "text": "それは宝物だから渡せない",
+            "zh": "那可是宝物，不能交出去",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2903/TALK",
+            "narrator": "神楽",
+            "text": "あー持ってるんですか\nそうですかー。",
+            "zh": "啊——原来你真有啊，\n这样啊——。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2904/TALK",
+            "narrator": "神楽",
+            "text": "そういう趣味は\n程々にしないと\nダメですよ。",
+            "zh": "那种嗜好\n不适可而止\n可不行哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2905/TALK",
+            "narrator": "神楽",
+            "text": "私以外の人に\nそんな話したら、\nどん引きですよ？",
+            "zh": "你要是跟除我以外的人\n说这种话，\n人家会被吓跑的哦？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2906/TALK",
+            "narrator": "神楽",
+            "text": "…話がズレました。\n続きをお願いします。",
+            "zh": "……跑题了。\n请继续说吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2908/SEL",
+            "narrator": "",
+            "text": "まず、自分のスマホを使わずつばめのを借りて、神楽のトライガジェットとペアリングして",
+            "zh": "首先，别用自己的手机，借燕的手机来和神乐的Tri-Gadget配对",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2909/ACT",
+            "narrator": "",
+            "text": "まず、自分のスマホを使わずつばめのを借りて、神楽のトライガジェットとペアリングして",
+            "zh": "首先，别用自己的手机，借燕的手机来和神乐的Tri-Gadget配对",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2911/TALK",
+            "narrator": "神楽",
+            "text": "どうして？\n私のじゃ\nダメなんですか？",
+            "zh": "为什么？\n用我的\n不行吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2912/SEL",
+            "narrator": "",
+            "text": "神楽のはエンタングルの支給品でしょ？",
+            "zh": "神乐那台是纠缠配发的吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2913/ACT",
+            "narrator": "",
+            "text": "神楽のはエンタングルの支給品でしょ？",
+            "zh": "神乐那台是纠缠配发的吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2915/TALK",
+            "narrator": "神楽",
+            "text": "そうですけど…。",
+            "zh": "是这样没错……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2916/SEL",
+            "narrator": "",
+            "text": "危ないからダメ、つばめのを借りて",
+            "zh": "太危险了不行，去借燕的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2917/ACT",
+            "narrator": "",
+            "text": "危ないからダメ、つばめのを借りて",
+            "zh": "太危险了不行，去借燕的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2919/TALK",
+            "narrator": "神楽",
+            "text": "理由はわかりました。",
+            "zh": "理由我明白了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2920/TALK",
+            "narrator": "神楽",
+            "text": "けど、いきなり\nスマホ貸してって\n言うのは変ですよ。",
+            "zh": "不过，突然跟她说\n“把手机借我”\n也太奇怪了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2921/SEL",
+            "narrator": "",
+            "text": "つばめを見れば、$me$と繋がりたがってるのわかるでしょ？",
+            "zh": "你看燕就知道，她很想和$me$连上线对吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2922/ACT",
+            "narrator": "",
+            "text": "つばめを見れば、$me$と繋がりたがってるのわかるでしょ？",
+            "zh": "你看燕就知道，她很想和$me$连上线对吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2925/SEL",
+            "narrator": "",
+            "text": "神楽なら繋げてあげることができる",
+            "zh": "神乐的话，可以帮她连上去",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2926/ACT",
+            "narrator": "",
+            "text": "神楽なら繋げてあげることができる",
+            "zh": "神乐的话，可以帮她连上去",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2929/TALK",
+            "narrator": "神楽",
+            "text": "あー、なるほど。\n交換条件ですね。",
+            "zh": "啊——原来如此。\n交换条件呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2930/TALK",
+            "narrator": "神楽",
+            "text": "でも、つばめさんを\n危険に晒すことなんて\nできません…。",
+            "zh": "可是，我不能\n把燕置于\n危险之中……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2931/SEL",
+            "narrator": "",
+            "text": "多分大丈夫。問題有っても$me$が何とかする",
+            "zh": "大概没问题。真出了问题$me$也会想办法解决",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2932/ACT",
+            "narrator": "",
+            "text": "多分大丈夫。問題有っても$me$が何とかする",
+            "zh": "大概没问题。真出了问题$me$也会想办法解决",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2934/TALK",
+            "narrator": "神楽",
+            "text": "多分って…、\n本当に信用して\n大丈夫なんだか…。",
+            "zh": "你说大概……，\n真的可以\n放心相信你吗……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2935/TALK",
+            "narrator": "神楽",
+            "text": "…やっぱり、\n最低限つばめさんの\n同意はとりたいです。",
+            "zh": "……果然，\n最起码我也想\n征得燕的同意。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2936/SEL",
+            "narrator": "",
+            "text": "構わないよ",
+            "zh": "没关系哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2937/ACT",
+            "narrator": "",
+            "text": "構わないよ",
+            "zh": "没关系哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2940/SEL",
+            "narrator": "",
+            "text": "ペアリングしたら、今宵はどのような物語をお望みでしょう？と言って",
+            "zh": "配对完之后，就说“今夜，你想要怎样的故事？”",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2941/ACT",
+            "narrator": "",
+            "text": "ペアリングしたら、今宵はどのような物語をお望みでしょう？と言って",
+            "zh": "配对完之后，就说“今夜，你想要怎样的故事？”",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2944/SEL",
+            "narrator": "",
+            "text": "そしたら$me$は「夜神楽して」と言う",
+            "zh": "然后$me$就说「来段夜神乐」[?]",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2945/ACT",
+            "narrator": "",
+            "text": "そしたら$me$は「夜神楽して」と言う",
+            "zh": "然后$me$就说「来段夜神乐」[?]",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2948/SEL",
+            "narrator": "",
+            "text": "その後、この前の「高い塔に住む少女の物語」の話をして欲しい",
+            "zh": "那之后，想请你讲上次那个「住在高塔上的少女的故事」",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2949/ACT",
+            "narrator": "",
+            "text": "その後、この前の「高い塔に住む少女の物語」の話をして欲しい",
+            "zh": "那之后，想请你讲上次那个「住在高塔上的少女的故事」",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2951/TALK",
+            "narrator": "神楽",
+            "text": "はい？\nなんでですか？",
+            "zh": "嗯？\n为什么？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2952/SEL",
+            "narrator": "",
+            "text": "量子暗号鍵ってやつです。$me$のなりすましを排除する",
+            "zh": "这就是所谓的量子密钥。用来排除冒充$me$的人",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2953/ACT",
+            "narrator": "",
+            "text": "量子暗号鍵ってやつです。$me$のなりすましを排除する",
+            "zh": "这就是所谓的量子密钥。用来排除冒充$me$的人",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2955/TALK",
+            "narrator": "神楽",
+            "text": "なるほど、\n要するに…。",
+            "zh": "原来如此，\n简而言之……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2956/TALK",
+            "narrator": "神楽",
+            "text": "チャットで出てくる\n$handle$さんは…。",
+            "zh": "聊天里出现的\n$handle$……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2957/TALK",
+            "narrator": "神楽",
+            "text": "今こうして話してる\nあなたではない\n可能性がある、と？",
+            "zh": "有可能不是现在\n这样和我说话的\n你，对吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2958/SEL",
+            "narrator": "",
+            "text": "そういうこと",
+            "zh": "就是这么回事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2959/ACT",
+            "narrator": "",
+            "text": "そういうこと",
+            "zh": "就是这么回事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2961/TALK",
+            "narrator": "神楽",
+            "text": "うーん…、でも、\nそうなった時は\n私の頭の中に――",
+            "zh": "嗯——……可是，\n真到那种时候，\n直接在我的脑海里——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2962/TALK",
+            "narrator": "神楽",
+            "text": "違う、って\n言ってくれれば\nいいのでは？",
+            "zh": "跟我说一声“不对”\n不就\n行了吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2963/SEL",
+            "narrator": "",
+            "text": "その瞬間に回線が切断されて言えない状況だったら？",
+            "zh": "要是在那一瞬间线路被切断、处于没法开口提醒的状况呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2964/ACT",
+            "narrator": "",
+            "text": "その瞬間に回線が切断されて言えない状況だったら？",
+            "zh": "要是在那一瞬间线路被切断、处于没法开口提醒的状况呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2966/TALK",
+            "narrator": "神楽",
+            "text": "あ、頼もしい返答！\nちょっとドキッと\nしたかも。",
+            "zh": "啊，好可靠的回答！\n稍微有点\n心动了呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2967/TALK",
+            "narrator": "神楽",
+            "text": "それ聞けて、\n全て納得しました。\nらじゃーです！",
+            "zh": "听到你这么说，\n我全都明白了。\n收到！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2973/TALK",
+            "narrator": "つばめ",
+            "text": "はあ…。",
+            "zh": "哈啊……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "2975/TALK",
+            "narrator": "神楽",
+            "text": "つながらない\nみたいですね。",
+            "zh": "好像\n连不上呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2977/TALK",
+            "narrator": "つばめ",
+            "text": "え？",
+            "zh": "诶？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "2978/TALK",
+            "narrator": "つばめ",
+            "text": "あ、そうなのかな。",
+            "zh": "啊，是这样吗。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "2979/TALK",
+            "narrator": "つばめ",
+            "text": "忙しいだけかも\nしれないけど。",
+            "zh": "也许只是因为\n太忙了吧。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "2980/TALK",
+            "narrator": "神楽",
+            "text": "…異なる\n可能性セカイの存在。",
+            "zh": "……不同的\n可能性世界的存在。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2982/TALK",
+            "narrator": "つばめ",
+            "text": "え？　何？",
+            "zh": "诶？什么？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "2984/TALK",
+            "narrator": "神楽",
+            "text": "いえ別に。\nそれより、つなげ方\n知ってますよ。",
+            "zh": "不，没什么。\n比起这个，我倒是知道\n连上的办法哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2985/TALK",
+            "narrator": "つばめ",
+            "text": "ほんと？",
+            "zh": "真的吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "2986/TALK",
+            "narrator": "神楽",
+            "text": "ですが、ひとつ\n覚悟してください。",
+            "zh": "但是，有一件事\n请你做好觉悟。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2987/TALK",
+            "narrator": "神楽",
+            "text": "繋げたら間違いなく\n気づかれます。",
+            "zh": "一旦连上，毫无疑问\n会被察觉。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2988/TALK",
+            "narrator": "神楽",
+            "text": "最悪、死期が早まるかも\nしれません。",
+            "zh": "最坏的情况下，说不定\n死期会提前。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2989/TALK",
+            "narrator": "神楽",
+            "text": "それでも\n繋げたいですか？",
+            "zh": "即便如此，\n你还是想连吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2990/TALK",
+            "narrator": "つばめ",
+            "text": "え……。",
+            "zh": "诶……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "2992/TALK",
+            "narrator": "つばめ",
+            "text": "でも、単に忙しくて\n出れないだけかも\nしれないし……。",
+            "zh": "可是，也许只是\n太忙了才没法\n回消息吧……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "2993/TALK",
+            "narrator": "神楽",
+            "text": "…そう思うなら\nその方がいいですよ。",
+            "zh": "……如果你这么想，\n那还是这样比较好。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2994/TALK",
+            "narrator": "神楽",
+            "text": "平和で平凡な\n幸せな世界に\n生きている方が。",
+            "zh": "还是活在和平、\n平凡又幸福的世界里\n更好呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2996/TALK",
+            "narrator": "つばめ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "2997/TALK",
+            "narrator": "つばめ",
+            "text": "決めた。",
+            "zh": "决定了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "2998/TALK",
+            "narrator": "つばめ",
+            "text": "神楽ちゃんの言うこと\n試すことにする。",
+            "zh": "神乐说的，\n我要试试。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "2999/TALK",
+            "narrator": "つばめ",
+            "text": "お願いします。\n繋げてください。",
+            "zh": "拜托了。\n请帮我连上。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3000/TALK",
+            "narrator": "神楽",
+            "text": "…いいんですか？",
+            "zh": "……可以吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "3001/TALK",
+            "narrator": "つばめ",
+            "text": "うん。",
+            "zh": "嗯。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3002/TALK",
+            "narrator": "つばめ",
+            "text": "神楽ちゃんがそこまで\n言うんだから\n本当なんでしょ？",
+            "zh": "神乐都\n说到这份上了，\n是真的吧？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3003/TALK",
+            "narrator": "つばめ",
+            "text": "だったらわたし\n$handle$さんと\nお話ししときたい。",
+            "zh": "那样的话我\n想和$handle$\n说上话。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3004/TALK",
+            "narrator": "つばめ",
+            "text": "お話しできないまま\n死んじゃうのは\nイヤだから。",
+            "zh": "还没说上话\n就死掉，\n我不愿意。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3007/TALK",
+            "narrator": "神楽",
+            "text": "そう、ですか……。",
+            "zh": "这样，吗……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "3008/TALK",
+            "narrator": "つばめ",
+            "text": "うん。",
+            "zh": "嗯。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3011/TALK",
+            "narrator": "神楽",
+            "text": "…ではひとつ交換条件。",
+            "zh": "……那就一个交换条件。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "3012/TALK",
+            "narrator": "神楽",
+            "text": "話し終わったら\n切らないでそのまま\nスマホを貸してください。",
+            "zh": "说完之后\n别挂断，把手机\n借给我。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "3013/TALK",
+            "narrator": "つばめ",
+            "text": "わかった。",
+            "zh": "知道了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3024/TALK",
+            "narrator": "神楽",
+            "text": "……。\n完了です。",
+            "zh": "……。\n完成了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "3034/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さん？",
+            "zh": "$handle$？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3036/SEL",
+            "narrator": "",
+            "text": "やっと繋がった！",
+            "zh": "终于连上了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3037/SEL",
+            "narrator": "",
+            "text": "ずっとメッセージ送ってたのに",
+            "zh": "我一直在发消息",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3038/SEL",
+            "narrator": "",
+            "text": "つばめは大丈夫？",
+            "zh": "燕没事吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3039/ACT",
+            "narrator": "",
+            "text": "やっと繋がった！",
+            "zh": "终于连上了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3040/TALK",
+            "narrator": "つばめ",
+            "text": "え",
+            "zh": "诶",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3041/TALK",
+            "narrator": "つばめ",
+            "text": "やっぱりそうなの",
+            "zh": "果然是这样啊",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3042/ACT",
+            "narrator": "",
+            "text": "ずっとメッセージ送ってたのに",
+            "zh": "我一直在发消息",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3043/TALK",
+            "narrator": "つばめ",
+            "text": "そんなの",
+            "zh": "那种消息",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3045/TALK",
+            "narrator": "つばめ",
+            "text": "全然届いてないよ",
+            "zh": "一条都没到哦",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3046/ACT",
+            "narrator": "",
+            "text": "つばめは大丈夫？",
+            "zh": "燕没事吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3047/TALK",
+            "narrator": "つばめ",
+            "text": "平気だよ",
+            "zh": "没事的",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3048/TALK",
+            "narrator": "つばめ",
+            "text": "一応ね",
+            "zh": "算是啦",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3053/SEL",
+            "narrator": "",
+            "text": "大変みたいだけど",
+            "zh": "看起来很严重",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3054/SEL",
+            "narrator": "",
+            "text": "話できてよかった",
+            "zh": "能说上话太好了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3055/SEL",
+            "narrator": "",
+            "text": "うれしくて泣きそう",
+            "zh": "高兴得快哭了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3056/ACT",
+            "narrator": "",
+            "text": "大変みたいだけど",
+            "zh": "看起来很严重",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3057/TALK",
+            "narrator": "つばめ",
+            "text": "大変だけど",
+            "zh": "是很严重",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3059/TALK",
+            "narrator": "つばめ",
+            "text": "神楽ちゃんもいるし",
+            "zh": "不过神乐也在",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3060/ACT",
+            "narrator": "",
+            "text": "話できてよかった",
+            "zh": "能说上话太好了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3061/TALK",
+            "narrator": "つばめ",
+            "text": "うん",
+            "zh": "嗯",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3063/TALK",
+            "narrator": "つばめ",
+            "text": "ぁたしも",
+            "zh": "我、我也是呀",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3064/ACT",
+            "narrator": "",
+            "text": "うれしくて泣きそう",
+            "zh": "高兴得快哭了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3065/TALK",
+            "narrator": "つばめ",
+            "text": "そんなこと言わないで",
+            "zh": "别说这种话",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3066/TALK",
+            "narrator": "つばめ",
+            "text": "ぁたしも泣いちゃう",
+            "zh": "我、我也会哭的呀",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3068/TALK",
+            "narrator": "つばめ",
+            "text": "それでね",
+            "zh": "那个呀",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3069/TALK",
+            "narrator": "つばめ",
+            "text": "もしかしたら",
+            "zh": "说不定",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3070/TALK",
+            "narrator": "つばめ",
+            "text": "これが最後のお話になるかもしれないの",
+            "zh": "这也许会是最后一次说话了",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3072/SEL",
+            "narrator": "",
+            "text": "そんなことはさせない",
+            "zh": "不会让那种事发生",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3073/SEL",
+            "narrator": "",
+            "text": "$me$が助けるから",
+            "zh": "$me$会救你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3074/SEL",
+            "narrator": "",
+            "text": "それはいやだな…",
+            "zh": "那我可不愿意……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3075/ACT",
+            "narrator": "",
+            "text": "そんなことはさせない",
+            "zh": "不会让那种事发生",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3076/TALK",
+            "narrator": "つばめ",
+            "text": "うん",
+            "zh": "嗯",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3077/TALK",
+            "narrator": "つばめ",
+            "text": "ありがとう",
+            "zh": "谢谢",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3078/ACT",
+            "narrator": "",
+            "text": "$me$が助けるから",
+            "zh": "$me$会救你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3079/TALK",
+            "narrator": "つばめ",
+            "text": "絶対だよ？",
+            "zh": "绝对的哦？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3080/TALK",
+            "narrator": "つばめ",
+            "text": "信じてるから",
+            "zh": "我相信你",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3081/ACT",
+            "narrator": "",
+            "text": "それはいやだな…",
+            "zh": "那我可不愿意……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3082/TALK",
+            "narrator": "つばめ",
+            "text": "そうだよね",
+            "zh": "是啊",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3083/TALK",
+            "narrator": "つばめ",
+            "text": "わたしもいやだよ",
+            "zh": "我也不愿意",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3085/TALK",
+            "narrator": "つばめ",
+            "text": "こうやって",
+            "zh": "能这样",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3086/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんと",
+            "zh": "和$handle$",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3087/TALK",
+            "narrator": "つばめ",
+            "text": "お話しできて",
+            "zh": "说上话",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3088/TALK",
+            "narrator": "つばめ",
+            "text": "うれしい",
+            "zh": "好高兴",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3090/SEL",
+            "narrator": "",
+            "text": "また話そう",
+            "zh": "再聊吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3091/SEL",
+            "narrator": "",
+            "text": "いつだって話せるようになるよ",
+            "zh": "会变得随时都能聊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3092/SEL",
+            "narrator": "",
+            "text": "$me$もうれしい",
+            "zh": "$me$也很高兴",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3093/ACT",
+            "narrator": "",
+            "text": "また話そう",
+            "zh": "再聊吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3094/TALK",
+            "narrator": "つばめ",
+            "text": "うん",
+            "zh": "嗯",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3095/TALK",
+            "narrator": "つばめ",
+            "text": "またね",
+            "zh": "回头见啦",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3097/TALK",
+            "narrator": "つばめ",
+            "text": "絶対だよ",
+            "zh": "绝对哦",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3098/ACT",
+            "narrator": "",
+            "text": "いつだって話せるようになるよ",
+            "zh": "会变得随时都能聊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3099/TALK",
+            "narrator": "つばめ",
+            "text": "そうだね",
+            "zh": "说得是呀",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3100/TALK",
+            "narrator": "つばめ",
+            "text": "いつも",
+            "zh": "一直",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3102/TALK",
+            "narrator": "つばめ",
+            "text": "お話ししようね",
+            "zh": "都说说话吧",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3103/ACT",
+            "narrator": "",
+            "text": "$me$もうれしい",
+            "zh": "$me$也很高兴",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3104/TALK",
+            "narrator": "つばめ",
+            "text": "よかった",
+            "zh": "太好啦",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3105/TALK",
+            "narrator": "つばめ",
+            "text": "でもわたしのほうが",
+            "zh": "可是我",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3107/TALK",
+            "narrator": "つばめ",
+            "text": "絶対うれしいからね",
+            "zh": "绝对更高兴",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3109/TALK",
+            "narrator": "つばめ",
+            "text": "あ",
+            "zh": "啊",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3111/TALK",
+            "narrator": "つばめ",
+            "text": "神楽ちゃんに",
+            "zh": "换给神乐",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3112/TALK",
+            "narrator": "つばめ",
+            "text": "代わるね",
+            "zh": "换一下哦",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3119/TALK",
+            "narrator": "つばめ",
+            "text": "今宵はどのような物語をお望みでしょう？",
+            "zh": "今夜，你想要怎样的故事？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3121/SEL",
+            "narrator": "",
+            "text": "は？",
+            "zh": "哈？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3122/SEL",
+            "narrator": "",
+            "text": "夜神楽して",
+            "zh": "来段夜神乐[?]",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3123/ACT",
+            "narrator": "",
+            "text": "は？",
+            "zh": "哈？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3125/TALK",
+            "narrator": "つばめ",
+            "text": "わからないなら",
+            "zh": "不明白的话",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3126/TALK",
+            "narrator": "つばめ",
+            "text": "それでいいです",
+            "zh": "那样就好",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3128/SEL",
+            "narrator": "",
+            "text": "何の話？",
+            "zh": "在说什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3129/SEL",
+            "narrator": "",
+            "text": "解説して",
+            "zh": "解说一下",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3130/SEL",
+            "narrator": "",
+            "text": "卯月って電波なの？",
+            "zh": "卯月是电波系的吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3131/ACT",
+            "narrator": "",
+            "text": "何の話？",
+            "zh": "在说什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3133/TALK",
+            "narrator": "つばめ",
+            "text": "そのうちわかる話です",
+            "zh": "那是迟早会明白的",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3134/ACT",
+            "narrator": "",
+            "text": "解説して",
+            "zh": "解说一下",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3136/TALK",
+            "narrator": "つばめ",
+            "text": "まさか",
+            "zh": "怎么会",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3137/TALK",
+            "narrator": "つばめ",
+            "text": "それは無理です",
+            "zh": "那可做不到",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3138/ACT",
+            "narrator": "",
+            "text": "卯月って電波なの？",
+            "zh": "卯月是电波系的吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3140/TALK",
+            "narrator": "つばめ",
+            "text": "そう思うなら",
+            "zh": "你要是这么想",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3141/TALK",
+            "narrator": "つばめ",
+            "text": "そうなんでしょうね",
+            "zh": "那就当是这样吧",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3143/ACT",
+            "narrator": "",
+            "text": "夜神楽して",
+            "zh": "来段夜神乐[?]",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3145/TALK",
+            "narrator": "つばめ",
+            "text": "なるほど",
+            "zh": "原来如此",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3146/TALK",
+            "narrator": "つばめ",
+            "text": "そういうことですか",
+            "zh": "是这么回事吗",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3148/SEL",
+            "narrator": "",
+            "text": "何の話？",
+            "zh": "在说什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3149/SEL",
+            "narrator": "",
+            "text": "解説して",
+            "zh": "解说一下",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3150/SEL",
+            "narrator": "",
+            "text": "卯月って電波なの？",
+            "zh": "卯月是电波系的吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3151/SEL",
+            "narrator": "",
+            "text": "月神楽の話の続きが聞きたい",
+            "zh": "我想听月神乐继续讲那个故事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3152/ACT",
+            "narrator": "",
+            "text": "何の話？",
+            "zh": "在说什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3154/TALK",
+            "narrator": "つばめ",
+            "text": "そのうちわかる話です",
+            "zh": "那是迟早会明白的",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3155/ACT",
+            "narrator": "",
+            "text": "解説して",
+            "zh": "解说一下",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3157/TALK",
+            "narrator": "つばめ",
+            "text": "まさか",
+            "zh": "怎么会",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3158/TALK",
+            "narrator": "つばめ",
+            "text": "それは無理です",
+            "zh": "那可做不到",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3159/ACT",
+            "narrator": "",
+            "text": "卯月って電波なの？",
+            "zh": "卯月是电波系的吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3161/TALK",
+            "narrator": "つばめ",
+            "text": "そう思うなら",
+            "zh": "你要是这么想",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3162/TALK",
+            "narrator": "つばめ",
+            "text": "そうなんでしょうね",
+            "zh": "那就当是这样吧",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3163/ACT",
+            "narrator": "",
+            "text": "月神楽の話の続きが聞きたい",
+            "zh": "我想听月神乐继续讲那个故事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3166/TALK",
+            "narrator": "つばめ",
+            "text": "わかりました",
+            "zh": "明白了",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3167/TALK",
+            "narrator": "つばめ",
+            "text": "それはどんなお話しでしたか？",
+            "zh": "那是一个怎样的故事来着？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3169/SEL",
+            "narrator": "",
+            "text": "つばめとメルティーズする妄想ＳＳ",
+            "zh": "和燕一起当融化组的妄想同人文",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3170/SEL",
+            "narrator": "",
+            "text": "高い塔に住む少女の物語",
+            "zh": "住在高塔上的少女的故事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3171/ACT",
+            "narrator": "",
+            "text": "つばめとメルティーズする妄想ＳＳ",
+            "zh": "和燕一起当融化组的妄想同人文",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3174/TALK",
+            "narrator": "つばめ",
+            "text": "え",
+            "zh": "诶",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3175/TALK",
+            "narrator": "つばめ",
+            "text": "まあいいです！その手の話ならこのぴょんこにお任せください！",
+            "zh": "嘛算了！那种故事就交给我蹦子吧！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3177/TALK",
+            "narrator": "つばめ",
+            "text": "では今日はオリジナルメルティーストーリーの第36話を語りましょう",
+            "zh": "那么今天就来讲原创融化故事的第36话吧",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3179/TALK",
+            "narrator": "つばめ",
+            "text": "タイトルは「つばめ、神楽、愛の巣にて」です",
+            "zh": "标题是「燕，神乐，在爱巢之中」",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3181/SEL",
+            "narrator": "",
+            "text": "36話って！？",
+            "zh": "都第36话了！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3182/ACT",
+            "narrator": "",
+            "text": "36話って！？",
+            "zh": "都第36话了！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3185/TALK",
+            "narrator": "つばめ",
+            "text": "え！？　オリジナルアニメの妄想設定とかするの普通じゃないですか？",
+            "zh": "诶！？给原创动画妄想设定什么的，不是很正常吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3187/SEL",
+            "narrator": "",
+            "text": "さすが神楽！",
+            "zh": "不愧是神乐！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3188/SEL",
+            "narrator": "",
+            "text": "ふ、ふつう…？",
+            "zh": "很、很正常……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3189/ACT",
+            "narrator": "",
+            "text": "さすが神楽！",
+            "zh": "不愧是神乐！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3191/TALK",
+            "narrator": "つばめ",
+            "text": "ふふーん",
+            "zh": "哼哼——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3194/ACT",
+            "narrator": "",
+            "text": "ふ、ふつう…？",
+            "zh": "很、很正常……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3196/TALK",
+            "narrator": "つばめ",
+            "text": "ノーマルです！！",
+            "zh": "正常得很！！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3199/TALK",
+            "narrator": "つばめ",
+            "text": "ちなみにこの回のあらすじを簡単に説明すると",
+            "zh": "顺便简单说明一下这集的剧情简介",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3200/TALK",
+            "narrator": "つばめ",
+            "text": "メルティーに変身できなくなった私を心配したつばめさんが",
+            "zh": "担心变得无法变身成融化的我的燕",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3202/TALK",
+            "narrator": "つばめ",
+            "text": "私の愛の力を神楽ちゃんにあ・げ・る",
+            "zh": "说着「把我爱的力量分・给・神乐哦」",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3203/TALK",
+            "narrator": "つばめ",
+            "text": "って、私の部屋にやってきて",
+            "zh": "就这样来到了我的房间",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3207/SEL",
+            "narrator": "",
+            "text": "続きをどうぞ",
+            "zh": "请继续",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3208/ACT",
+            "narrator": "",
+            "text": "続きをどうぞ",
+            "zh": "请继续",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3211/TALK",
+            "narrator": "つばめ",
+            "text": "いえ、ちょっと待ってください、目的変わってないですか？",
+            "zh": "不，请等一下，目的是不是变了？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3213/TALK",
+            "narrator": "つばめ",
+            "text": "そろそろ認証とやらは終わったんでしょうか？",
+            "zh": "那个叫认证的流程，是不是差不多该结束了？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3214/TALK",
+            "narrator": "つばめ",
+            "text": "なりすましじゃないって",
+            "zh": "应该已经确认不是冒充的了吧",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3215/ACT",
+            "narrator": "",
+            "text": "高い塔に住む少女の物語",
+            "zh": "住在高塔上的少女的故事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3218/TALK",
+            "narrator": "つばめ",
+            "text": "わかりました",
+            "zh": "明白了",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3219/TALK",
+            "narrator": "つばめ",
+            "text": "それでは、$handlek$の御希望通りに致しましょう",
+            "zh": "那么，就照$handlek$所期望的那样吧",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3223/TALK",
+            "narrator": "つばめ",
+            "text": "高い塔の上に、その少女はたったひとり、暮らしていました",
+            "zh": "高塔之上，那位少女孤身一人生活着",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3224/TALK",
+            "narrator": "つばめ",
+            "text": "その塔はあまりに高いため",
+            "zh": "因为那座塔实在太高",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3225/TALK",
+            "narrator": "つばめ",
+            "text": "少女の元へは、誰も来ることはありませんでした",
+            "zh": "没有任何人来到少女身边",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3231/SEL",
+            "narrator": "",
+            "text": "もういいよ",
+            "zh": "已经够了哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3233/TALK",
+            "narrator": "つばめ",
+            "text": "「あーあ、今日もヒマだなー」",
+            "zh": "「啊——啊，今天也好闲啊——」",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3235/TALK",
+            "narrator": "つばめ",
+            "text": "少女はその塔にただ１つだけある小さな窓から空を見て、そうつぶやきました。",
+            "zh": "少女透过那座塔上唯一一扇小窗望向天空，这样喃喃自语着。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3236/TALK",
+            "narrator": "つばめ",
+            "text": "すると、突然まどの外側から、小さな猫が顔を出しました。少女はビックリして、窓際から後ずさります。",
+            "zh": "就在这时，突然从窗户外面，探出了一只小猫的脸。少女吓了一跳，从窗边往后退去。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3237/TALK",
+            "narrator": "つばめ",
+            "text": "それを見て、猫はふふっと意地悪そうに笑うと、こう言いました。",
+            "zh": "看到少女的反应，小猫“呵呵”地露出坏笑，这样说道。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3239/TALK",
+            "narrator": "つばめ",
+            "text": "「心配はいらないよ。$me$は$handle$。君をここから連れ出しに来たんだ」",
+            "zh": "「用不着担心哦。$me$是$handle$。是来带你离开这里的」",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3244/TALK",
+            "narrator": "つばめ",
+            "text": "どうですか？",
+            "zh": "怎么样？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3245/TALK",
+            "narrator": "つばめ",
+            "text": "これくらいで大丈夫ですか？",
+            "zh": "讲到这里就可以了吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3247/SEL",
+            "narrator": "",
+            "text": "ごめん、聴き入っちゃった。もう大丈夫です、ありがとう",
+            "zh": "抱歉，一不小心听入迷了。已经没问题了，谢谢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3248/ACT",
+            "narrator": "",
+            "text": "ごめん、聴き入っちゃった。もう大丈夫です、ありがとう",
+            "zh": "抱歉，一不小心听入迷了。已经没问题了，谢谢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3251/TALK",
+            "narrator": "つばめ",
+            "text": "よかった",
+            "zh": "太好了",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3252/TALK",
+            "narrator": "つばめ",
+            "text": "即興でしたけど、楽しんでいただけたなら",
+            "zh": "虽然是即兴编的，你能喜欢就好",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3253/ACT",
+            "narrator": "",
+            "text": "もういいよ",
+            "zh": "已经够了哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3256/TALK",
+            "narrator": "つばめ",
+            "text": "そうですか？",
+            "zh": "这样吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3258/TALK",
+            "narrator": "つばめ",
+            "text": "せっかくラストまで",
+            "zh": "明明难得还想",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3259/TALK",
+            "narrator": "つばめ",
+            "text": "ちゃんと話そうと思ったのに、、、",
+            "zh": "好好讲到结局来着……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3261/TALK",
+            "narrator": "つばめ",
+            "text": "全部終わったら",
+            "zh": "等一切都结束后",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3262/TALK",
+            "narrator": "つばめ",
+            "text": "改めてまた聞いてくださいね",
+            "zh": "请一定要重新再听一遍哦",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3265/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さん",
+            "zh": "$handle$",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3266/TALK",
+            "narrator": "つばめ",
+            "text": "今の私は$handle$さんに",
+            "zh": "现在的我，可以说是对$handle$",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3267/TALK",
+            "narrator": "つばめ",
+            "text": "命の全てを預けている状態です",
+            "zh": "托付了全部性命的状态",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3269/TALK",
+            "narrator": "つばめ",
+            "text": "でも",
+            "zh": "不过",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3270/TALK",
+            "narrator": "つばめ",
+            "text": "それが$handle$さんでよかった",
+            "zh": "那个人是$handle$真是太好了",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3272/TALK",
+            "narrator": "つばめ",
+            "text": "もう何度も死ぬような目にあってきました",
+            "zh": "我已经好几次险些丧命了",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3274/TALK",
+            "narrator": "つばめ",
+            "text": "私の残機はゼロ",
+            "zh": "我的残机为零",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3276/TALK",
+            "narrator": "つばめ",
+            "text": "今の私は、次が最後だと思って生きているんです",
+            "zh": "现在的我，是抱着下一次就是最后一次的觉悟活着的",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3277/TALK",
+            "narrator": "つばめ",
+            "text": "でも",
+            "zh": "但是",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3279/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんが一緒なら",
+            "zh": "只要有$handle$在身边",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3280/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんが一緒に歩んでくれる未来なら",
+            "zh": "只要是$handle$愿意陪我一起走下去的未来",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3281/TALK",
+            "narrator": "つばめ",
+            "text": "その先が例えゲームオーバーだったとしても",
+            "zh": "哪怕前方等待着的是Game Over",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3282/TALK",
+            "narrator": "つばめ",
+            "text": "私にとっては",
+            "zh": "对我来说",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3283/TALK",
+            "narrator": "つばめ",
+            "text": "トゥルーエンドだと思ってるから",
+            "zh": "也已经是True End了",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3287/TALK",
+            "narrator": "つばめ",
+            "text": "いつも一緒にいてくれてありがとう",
+            "zh": "谢谢你一直陪在我身边",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3299/TALK",
+            "narrator": "神楽",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "3300/TALK",
+            "narrator": "つばめ",
+            "text": "神楽…ちゃん？",
+            "zh": "神乐……？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3301/TALK",
+            "narrator": "神楽",
+            "text": "あっ、ごめんなさい。\n大丈夫です。\nそれより――",
+            "zh": "啊，对不起。\n我没事。\n比起这个——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "3304/TALK",
+            "narrator": "神楽",
+            "text": "先につばめさんに\n謝っておかなくては\nいけないことがあります。",
+            "zh": "有件事，我必须\n先向燕\n道个歉才行。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "3305/TALK",
+            "narrator": "つばめ",
+            "text": "え？",
+            "zh": "诶？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3310/TALK",
+            "narrator": "つばめ",
+            "text": "通信終了",
+            "zh": "通信结束",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3311/TALK",
+            "narrator": "つばめ",
+            "text": "切断します",
+            "zh": "我切断了",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3324/TALK",
+            "narrator": "つばめ",
+            "text": "ありがとう\n神楽ちゃん。",
+            "zh": "谢谢\n神乐。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3326/TALK",
+            "narrator": "神楽",
+            "text": "いいえ。",
+            "zh": "没什么。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "3330/TALK",
+            "narrator": "神楽",
+            "text": "それより、\n先につばめさんに\n謝っておきますね。",
+            "zh": "比起这个，\n我先向燕\n道歉。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "3331/TALK",
+            "narrator": "つばめ",
+            "text": "え？",
+            "zh": "诶？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "3344/TALK",
+            "narrator": "透明神楽",
+            "text": "ごめんなさい。",
+            "zh": "对不起。",
+            "narrator_zh": "透明神乐"
+        },
+        {
+            "location": "3345/TALK",
+            "narrator": "透明神楽",
+            "text": "私はきっと、あなたを\n殺してしまう。",
+            "zh": "我一定会\n杀掉你。",
+            "narrator_zh": "透明神乐"
+        },
+        {
+            "location": "3347/TALK",
+            "narrator": "透明神楽",
+            "text": "正確には\n「殺させられてしまう」。",
+            "zh": "准确地说，\n是「会被逼着去杀」。",
+            "narrator_zh": "透明神乐"
+        },
+        {
+            "location": "3348/TALK",
+            "narrator": "透明神楽",
+            "text": "ごめんなさい。\nこれを止めることは\nできないんです。",
+            "zh": "对不起。\n这件事\n我阻止不了。",
+            "narrator_zh": "透明神乐"
+        },
+        {
+            "location": "3349/TALK",
+            "narrator": "透明神楽",
+            "text": "私がどう頑張っても\n止められないんです。",
+            "zh": "无论我怎么努力，\n都阻止不了。",
+            "narrator_zh": "透明神乐"
+        },
+        {
+            "location": "3350/TALK",
+            "narrator": "透明つばめ",
+            "text": "えと……。\n神楽…ちゃん…？",
+            "zh": "那个……。\n神乐……？",
+            "narrator_zh": "透明燕"
+        },
+        {
+            "location": "3351/TALK",
+            "narrator": "透明神楽",
+            "text": "おかしいことを\n言っているのは\nわかっています。",
+            "zh": "我知道\n自己在说\n奇怪的话。",
+            "narrator_zh": "透明神乐"
+        },
+        {
+            "location": "3352/TALK",
+            "narrator": "透明神楽",
+            "text": "本当にごめんなさい。",
+            "zh": "真的对不起。",
+            "narrator_zh": "透明神乐"
+        },
+        {
+            "location": "3353/TALK",
+            "narrator": "透明神楽",
+            "text": "だけど。",
+            "zh": "但是。",
+            "narrator_zh": "透明神乐"
+        },
+        {
+            "location": "3354/TALK",
+            "narrator": "透明神楽",
+            "text": "私はあなたのことが\n大好きです。",
+            "zh": "我\n最喜欢你了。",
+            "narrator_zh": "透明神乐"
+        },
+        {
+            "location": "3355/TALK",
+            "narrator": "透明神楽",
+            "text": "つばめさんのことが\n大好きなんです。",
+            "zh": "最喜欢\n燕了。",
+            "narrator_zh": "透明神乐"
+        },
+        {
+            "location": "3356/TALK",
+            "narrator": "透明つばめ",
+            "text": "わたしも。",
+            "zh": "我也是。",
+            "narrator_zh": "透明燕"
+        },
+        {
+            "location": "3357/TALK",
+            "narrator": "透明つばめ",
+            "text": "神楽ちゃんのことが\n大好きだよ。",
+            "zh": "我也最喜欢\n神乐了哦。",
+            "narrator_zh": "透明燕"
+        },
+        {
+            "location": "3358/TALK",
+            "narrator": "透明つばめ",
+            "text": "だから――",
+            "zh": "所以——",
+            "narrator_zh": "透明燕"
+        },
+        {
+            "location": "3363/TALK",
+            "narrator": "透明神楽",
+            "text": "！",
+            "zh": "！",
+            "narrator_zh": "透明神乐"
+        },
+        {
+            "location": "3230/DIALOG",
+            "narrator": "INFO",
+            "text": "<color=green>Q-LOCKが認証されました。</color>\n\n<color=red><< C5:000 0x000 >></color>\n卯月神楽のココロスフィアと\nトライガジェットが\n<color=blue>SIM:mayuhina001</color>\nにて再接続されました。",
+            "zh": "<color=green>Q-LOCK已认证。</color>\n\n<color=red><< C5:000 0x000 >></color>\n卯月神乐的心灵领域与\nTri-Gadget\n已通过<color=blue>SIM:mayuhina001</color>\n重新连接。",
+            "narrator_zh": "INFO"
+        },
+        {
+            "location": "3373/DIALOG",
+            "narrator": "Dialog_chapter_ch05",
+            "text": "【Mv EXE_MiYABi】",
+            "zh": "【Mv EXE_MiYABi】",
+            "narrator_zh": "Dialog_chapter_ch05"
+        },
+        {
+            "location": "3385/DIALOG",
+            "narrator": "Dialog_chapter_ch05",
+            "text": "【Mv EXE_MiYABi】",
+            "zh": "【Mv EXE_MiYABi】",
+            "narrator_zh": "Dialog_chapter_ch05"
+        },
+        {
+            "location": "3406/DIALOG",
+            "narrator": "Dialog_chapter_ch05",
+            "text": "【24 K<size=10>　</size>THE<size=10>　</size>METAL<size=10>　</size>IDOL】",
+            "zh": "【24 K<size=10>　</size>THE<size=10>　</size>METAL<size=10>　</size>IDOL】",
+            "narrator_zh": "Dialog_chapter_ch05"
+        },
+        {
+            "location": "3418/DIALOG",
+            "narrator": "Dialog_chapter_ch05",
+            "text": "【24 K<size=10>　</size>THE<size=10>　</size>METAL<size=10>　</size>IDOL】",
+            "zh": "【24 K<size=10>　</size>THE<size=10>　</size>METAL<size=10>　</size>IDOL】",
+            "narrator_zh": "Dialog_chapter_ch05"
+        }
+    ]
+}

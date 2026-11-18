@@ -1,0 +1,959 @@
+{
+    "dir": "chap28/daydra/dd_ch01_28_010.js",
+    "type": "",
+    "info": {
+        "story_id": "50007",
+        "cid": "",
+        "title": "SideStory007 ストーリー",
+        "sub_title": "FILE05.彼人",
+        "title_zh": "SideStory007 剧情",
+        "sub_title_zh": "FILE05.那人"
+    },
+    "entry": [
+        {
+            "location": "7/SCENARIO",
+            "narrator": "",
+            "text": "東京編５話",
+            "zh": "东京篇 第5话",
+            "narrator_zh": ""
+        },
+        {
+            "location": "21/TALK",
+            "narrator": "雛",
+            "text": "――でね、\nやっぱりあたしもさ、\n恋人に憧れてるんだよー。",
+            "zh": "――然后呀，\n其实我也一样嘛，\n很向往有个恋人呀——。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "23/TALK",
+            "narrator": "つばめ",
+            "text": "ひなこちゃんなら、\n恋人くらいすぐに\nできると思うよ？",
+            "zh": "如果是小雏的话，\n想找个恋人应该\n很快就能找到吧？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "24/TALK",
+            "narrator": "雛",
+            "text": "すぐってどれくらい？\n明日？　来週？",
+            "zh": "很快是有多快？\n明天？　还是下周？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "25/TALK",
+            "narrator": "つばめ",
+            "text": "うん、きっとできるよ！",
+            "zh": "嗯，肯定可以的呀！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "27/TALK",
+            "narrator": "繭",
+            "text": "…相手を選ばなければ。",
+            "zh": "……只要不挑对象的话。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "28/TALK",
+            "narrator": "雛",
+            "text": "ちょっと、まゆちん！\n嫌なこと言わないでよー！",
+            "zh": "喂，小茧！\n别净说这种扫兴的话呀——！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "30/TALK",
+            "narrator": "雛",
+            "text": "あたしにだって\n好きなタイプは\nちゃんとあるんだよ？",
+            "zh": "我好歹也是\n有自己喜欢的\n类型的好不好？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "つばめ",
+            "text": "例えばどんな人？",
+            "zh": "比如什么样的人？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "34/TALK",
+            "narrator": "雛",
+            "text": "ん～…明るくて元気で、\n行動力もあって…。",
+            "zh": "嗯～……开朗又有精神，\n还要有行动力……。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "36/TALK",
+            "narrator": "雛",
+            "text": "あ、そうそう。\n友達を大切にする人！",
+            "zh": "啊，对了。\n还要是重视朋友的人！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "37/TALK",
+            "narrator": "つばめ",
+            "text": "それなら、キリトくんや\nヒカルくんもそうだね。",
+            "zh": "那样的话，圣翔还有\n光也是这样呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "38/TALK",
+            "narrator": "雛",
+            "text": "えっ！？　いやいや、\nあの二人は友達だし…。",
+            "zh": "哎！？　不是不是，\n那两个人是朋友嘛……。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "40/TALK",
+            "narrator": "雛",
+            "text": "そうだ！\nまゆちんはどうなの？",
+            "zh": "对了！\n小茧怎么样呀？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "42/TALK",
+            "narrator": "繭",
+            "text": "私を巻き込まないで。",
+            "zh": "别把我牵扯进去。",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "43/TALK",
+            "narrator": "雛",
+            "text": "えー、たまにはまゆちんも\n恋バナ混ざろうよー。",
+            "zh": "哎——，小茧偶尔也\n掺和进来聊聊恋爱嘛——。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "44/SEL",
+            "narrator": "（選択肢）",
+            "text": "盛り上がってるみたいだね",
+            "zh": "聊得很起劲的样子嘛",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "45/ACT",
+            "narrator": "",
+            "text": "盛り上がってるみたいだね",
+            "zh": "聊得很起劲的样子嘛",
+            "narrator_zh": ""
+        },
+        {
+            "location": "61/TALK",
+            "narrator": "つばめ",
+            "text": "昨日ね",
+            "zh": "昨天呀",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "62/TALK",
+            "narrator": "つばめ",
+            "text": "恋愛モノのドラマやってて",
+            "zh": "电视上演了恋爱剧",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "63/TALK",
+            "narrator": "つばめ",
+            "text": "その話してたら",
+            "zh": "一聊起那个",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "つばめ",
+            "text": "恋バナになっちゃった(≧艸≦*)",
+            "zh": "就变成聊恋爱话题了(≧艸≦*)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "66/SEL",
+            "narrator": "（選択肢）",
+            "text": "普通の女の子みたい",
+            "zh": "像个普通女孩子一样",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "67/SEL",
+            "narrator": "（選択肢）",
+            "text": "$me$のことを話してもいいよ",
+            "zh": "也可以说说$me$的事哦",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "68/ACT",
+            "narrator": "",
+            "text": "普通の女の子みたい",
+            "zh": "像个普通女孩子一样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "69/TALK",
+            "narrator": "つばめ",
+            "text": "どぅぃぅこと？(´･ω･｀) ",
+            "zh": "什么意思呀？(´･ω･｀)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "70/TALK",
+            "narrator": "つばめ",
+            "text": "わたし",
+            "zh": "我",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "71/TALK",
+            "narrator": "つばめ",
+            "text": "女の子だけど(･Д･｀)",
+            "zh": "本来就是女孩子呀(･Д･｀)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "73/TALK",
+            "narrator": "つばめ",
+            "text": "時々難しぃこと言ぅよねヾ(｡>﹏<｡)ﾉﾞ",
+            "zh": "你时不时就说些好难懂的话呀ヾ(｡>﹏<｡)ﾉﾞ",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "74/ACT",
+            "narrator": "",
+            "text": "$me$のことを話してもいいよ",
+            "zh": "也可以说说$me$的事哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "75/TALK",
+            "narrator": "つばめ",
+            "text": "それは",
+            "zh": "那个",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "つばめ",
+            "text": "ちょっと",
+            "zh": "稍微",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "77/TALK",
+            "narrator": "つばめ",
+            "text": "恥ずかしぃから(/ω＼)",
+            "zh": "有点不好意思啦(/ω＼)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "80/TALK",
+            "narrator": "つばめ",
+            "text": "$handle1$のことは",
+            "zh": "$handle1$的事",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "81/TALK",
+            "narrator": "つばめ",
+            "text": "もぅちょっと",
+            "zh": "我打算再稍微",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "つばめ",
+            "text": "整理できてから話すつもり(*´︶`*)",
+            "zh": "理清楚一点再跟她们说(*´︶`*)",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "つばめ",
+            "text": "ごめんね？",
+            "zh": "对不起呀？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "95/TALK",
+            "narrator": "つばめ",
+            "text": "えへへ…。",
+            "zh": "诶嘿嘿……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "98/TALK",
+            "narrator": "雛",
+            "text": "つばめちゃん、\n誰とお話してたの？",
+            "zh": "燕，\n你在和谁说话呀？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "つばめ",
+            "text": "えっ？",
+            "zh": "哎？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "繭",
+            "text": "…すごく幸せそう。\nもしかして、恋人？",
+            "zh": "……看着好幸福的样子。\n难道是，恋人？",
+            "narrator_zh": "茧"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "つばめ",
+            "text": "そ、それは、えっと…。",
+            "zh": "那、那个，呃……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "106/TALK",
+            "narrator": "つばめ",
+            "text": "…えへへ、秘密。\nでも、とっても特別で、\n大切な人なんだ。",
+            "zh": "……诶嘿嘿，秘密。\n不过，是很特别、\n很重要的人哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "125/DIALOG",
+            "narrator": "",
+            "text": "<color=green>9月5日　 3:53 PM</color>\nとある平日の放課後、付属学園、雛の教室にて",
+            "zh": "<color=green>9月5日　 3:53 PM</color>\n某个平日的放学后，于附属学园，雏的教室",
+            "narrator_zh": ""
+        },
+        {
+            "location": "127/TALK",
+            "narrator": "キリト",
+            "text": "…おい、ひなこ。\n授業終わったぞ？",
+            "zh": "……喂，雏子。\n下课了哦？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "128/TALK",
+            "narrator": "雛",
+            "text": "くー…。",
+            "zh": "呼——……。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "129/TALK",
+            "narrator": "キリト",
+            "text": "しょうがねぇな…。\nおい、ひなこ。\nいい加減起きろっての！",
+            "zh": "真拿你没办法……。\n喂，雏子。\n差不多该醒了吧！",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "130/TALK",
+            "narrator": "雛",
+            "text": "ん…あれ？\nあたし…どうしたの？",
+            "zh": "嗯……咦？\n我……怎么了？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "131/TALK",
+            "narrator": "キリト",
+            "text": "居眠りしてたんだよ。\nほら、もう放課後だぞ？",
+            "zh": "你刚才在打瞌睡哦。\n喏，都已经放学了啊？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "132/TALK",
+            "narrator": "雛",
+            "text": "…わっ、ヤバい！\n超爆睡しちゃってたー！",
+            "zh": "……哇，糟糕！\n我竟然睡死过去了——！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "144/TALK",
+            "narrator": "キリト",
+            "text": "みたいだな…。\nおまえさ、夜はちゃんと\n寝てんのか？",
+            "zh": "看样子是呢……。\n我说你啊，晚上到底\n有没有好好睡觉？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "雛",
+            "text": "…寝てるよー。",
+            "zh": "……我有睡啦——。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "147/TALK",
+            "narrator": "キリト",
+            "text": "…寝てないだろ？",
+            "zh": "……根本没睡吧？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "150/TALK",
+            "narrator": "雛",
+            "text": "…だって、つばめちゃんが\n心配で…。",
+            "zh": "……因为，我很担心\n燕嘛……。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "151/TALK",
+            "narrator": "キリト",
+            "text": "あのなぁ…そんなんじゃ\nひなこが身体壊すだろ？",
+            "zh": "我说你啊……再这样下去\n雏子会把身体熬垮的吧？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "152/TALK",
+            "narrator": "キリト",
+            "text": "気持ちはわかるけど、\nちょっとは自分のことも\n考えろって…。",
+            "zh": "你的心情我理解，\n但好歹也为自己\n多想想啊……。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "154/TALK",
+            "narrator": "雛",
+            "text": "でも、寝てても\nつばめちゃんの夢\n見ちゃうんだもん…。",
+            "zh": "可是，就算睡着了\n也还是会梦到\n燕嘛……。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "155/TALK",
+            "narrator": "雛",
+            "text": "今だって、つばめちゃんと\n恋バナしてる夢見てて…。",
+            "zh": "刚才也一样，梦到在和\n燕聊恋爱话题……。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "157/TALK",
+            "narrator": "雛",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "159/TALK",
+            "narrator": "キリト",
+            "text": "…なんだ？\nおい、どうした？",
+            "zh": "……干嘛？\n喂，怎么了？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "164/TALK",
+            "narrator": "雛",
+            "text": "あ、あぁーっ！！！",
+            "zh": "啊、啊啊——！！！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "165/TALK",
+            "narrator": "キリト",
+            "text": "うわっ！！\nな、なんだぁ！？",
+            "zh": "哇啊！！\n怎、怎么了！？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "167/TALK",
+            "narrator": "雛",
+            "text": "そうだよ！！\nいたじゃん！！\nもう一人すごい協力者が！",
+            "zh": "对呀！！\n不是还有个人吗！！\n还有一位超厉害的帮手！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "168/TALK",
+            "narrator": "キリト",
+            "text": "いや、ひなこ？\nおまえなに考えて…。",
+            "zh": "不是，雏子？\n你在想什么……。",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "171/TALK",
+            "narrator": "雛",
+            "text": "ちょっとだけ待って！\nもし、あたしの考えが\n正しければ…。",
+            "zh": "稍微等一下！\n如果，我的想法\n没错的话……。",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "184/TALK",
+            "narrator": "つばめ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "188/TALK",
+            "narrator": "つばめ",
+            "text": "あっ…今のって、\nＷＡＶＥかな？",
+            "zh": "啊……刚才那是，\nWAVE吧？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "189/TALK",
+            "narrator": "つばめ",
+            "text": "誰からだろう…。\nでも、縛られてるから\n見れないし…。",
+            "zh": "会是谁发来的呀……。\n可是，被绑着\n看不了嘛……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "191/TALK",
+            "narrator": "つばめ",
+            "text": "はぁ…。",
+            "zh": "唉……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "193/TALK",
+            "narrator": "雛",
+            "text": "あのー！！",
+            "zh": "那个——！！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "194/TALK",
+            "narrator": "雛",
+            "text": "いますかー！？",
+            "zh": "在吗——！？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "195/TALK",
+            "narrator": "雛",
+            "text": "つばめちゃんが大切っていう人",
+            "zh": "燕说很重要的那个人",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "196/TALK",
+            "narrator": "雛",
+            "text": "いたら返事ください！！",
+            "zh": "在的话请回个信！！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "197/SEL",
+            "narrator": "（選択肢）",
+            "text": "なんでしょう？",
+            "zh": "什么事？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "198/SEL",
+            "narrator": "（選択肢）",
+            "text": "呼んだ？",
+            "zh": "叫我吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "199/ACT",
+            "narrator": "",
+            "text": "なんでしょう？",
+            "zh": "什么事？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "201/TALK",
+            "narrator": "雛",
+            "text": "いた！！",
+            "zh": "在！！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "202/TALK",
+            "narrator": "雛",
+            "text": "やっぱり！！",
+            "zh": "果然！！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "203/ACT",
+            "narrator": "",
+            "text": "呼んだ？",
+            "zh": "叫我吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "205/TALK",
+            "narrator": "雛",
+            "text": "いた！！",
+            "zh": "在！！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "206/TALK",
+            "narrator": "雛",
+            "text": "呼びました！",
+            "zh": "叫了！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "207/TALK",
+            "narrator": "雛",
+            "text": "あなたと話したかったんです！",
+            "zh": "我有话想跟你说！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "209/TALK",
+            "narrator": "雛",
+            "text": "つばめちゃんのＷＡＶＥに話しかけたら",
+            "zh": "我就想着朝燕的WAVE搭话的话",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "210/TALK",
+            "narrator": "雛",
+            "text": "連絡取れるかもって",
+            "zh": "说不定能联系上",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "212/TALK",
+            "narrator": "雛",
+            "text": "よかったー",
+            "zh": "太好了——",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "213/SEL",
+            "narrator": "（選択肢）",
+            "text": "$me$に用事？",
+            "zh": "找$me$有事？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "214/ACT",
+            "narrator": "",
+            "text": "$me$に用事？",
+            "zh": "找$me$有事？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "216/TALK",
+            "narrator": "雛",
+            "text": "もちろん",
+            "zh": "当然了",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "217/TALK",
+            "narrator": "雛",
+            "text": "それで呼んだんです",
+            "zh": "我就是为此才叫你的",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "219/TALK",
+            "narrator": "雛",
+            "text": "あたし達",
+            "zh": "我们几个",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "220/TALK",
+            "narrator": "雛",
+            "text": "つばめちゃんの友達で",
+            "zh": "都是燕的朋友",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "221/TALK",
+            "narrator": "雛",
+            "text": "今",
+            "zh": "现在",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "222/TALK",
+            "narrator": "雛",
+            "text": "つばめちゃん大変なことになってて",
+            "zh": "燕遇上天大的麻烦了",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "223/TALK",
+            "narrator": "雛",
+            "text": "知ってますか？",
+            "zh": "你知道吗？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "224/SEL",
+            "narrator": "（選択肢）",
+            "text": "最近連絡取れない",
+            "zh": "最近联系不上她",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "225/SEL",
+            "narrator": "（選択肢）",
+            "text": "管理庁に捕まってる",
+            "zh": "她被管理厅抓起来了",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "226/ACT",
+            "narrator": "",
+            "text": "最近連絡取れない",
+            "zh": "最近联系不上她",
+            "narrator_zh": ""
+        },
+        {
+            "location": "227/TALK",
+            "narrator": "雛",
+            "text": "知らなかったんですか？",
+            "zh": "你不知道吗？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "228/TALK",
+            "narrator": "雛",
+            "text": "つばめちゃん",
+            "zh": "燕她",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "229/TALK",
+            "narrator": "雛",
+            "text": "管理庁に捕まっちゃってて",
+            "zh": "被管理厅抓起来了",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "230/TALK",
+            "narrator": "雛",
+            "text": "大変なんです",
+            "zh": "情况特别糟糕",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "231/ACT",
+            "narrator": "",
+            "text": "管理庁に捕まってる",
+            "zh": "她被管理厅抓起来了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "232/TALK",
+            "narrator": "雛",
+            "text": "やっぱり",
+            "zh": "果然",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "233/TALK",
+            "narrator": "雛",
+            "text": "さすがはつばめちゃんの大切な人！",
+            "zh": "不愧是燕重要的人！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "235/TALK",
+            "narrator": "雛",
+            "text": "それで",
+            "zh": "所以呀",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "236/TALK",
+            "narrator": "雛",
+            "text": "あたし達はつばめちゃんを",
+            "zh": "我们想把燕",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "237/TALK",
+            "narrator": "雛",
+            "text": "助けたいんです",
+            "zh": "救出来",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "238/TALK",
+            "narrator": "雛",
+            "text": "でも",
+            "zh": "可是",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "239/TALK",
+            "narrator": "雛",
+            "text": "どうすればいいかわからなくて",
+            "zh": "不知道该怎么做才好",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "240/TALK",
+            "narrator": "雛",
+            "text": "綾水様達とも連絡取れなくて",
+            "zh": "也联系不上绫水大人她们",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "242/TALK",
+            "narrator": "雛",
+            "text": "だからお願いです",
+            "zh": "所以拜托了",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "243/TALK",
+            "narrator": "雛",
+            "text": "つばめちゃんの大切な人である",
+            "zh": "作为燕珍视的人",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "244/TALK",
+            "narrator": "雛",
+            "text": "あなたに手伝ってほしいんです！",
+            "zh": "我希望你也能来帮忙！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "245/TALK",
+            "narrator": "雛",
+            "text": "お願いします！",
+            "zh": "拜托了！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "246/SEL",
+            "narrator": "（選択肢）",
+            "text": "一緒につばめを助けてくれ",
+            "zh": "一起去救燕吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "247/SEL",
+            "narrator": "（選択肢）",
+            "text": "助言くらいしかできないけど…",
+            "zh": "虽然我也只能出出主意……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "248/ACT",
+            "narrator": "",
+            "text": "一緒につばめを助けてくれ",
+            "zh": "一起去救燕吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "249/TALK",
+            "narrator": "雛",
+            "text": "やっぱり",
+            "zh": "果然",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "250/TALK",
+            "narrator": "雛",
+            "text": "あなたも同じ気持ちなんですね？",
+            "zh": "你也是一样的心情对吧？",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "251/TALK",
+            "narrator": "雛",
+            "text": "安心しました",
+            "zh": "我放心了",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "252/TALK",
+            "narrator": "雛",
+            "text": "さすがはつばめちゃんの大切な人！",
+            "zh": "不愧是燕重要的人！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "253/ACT",
+            "narrator": "",
+            "text": "助言くらいしかできないけど…",
+            "zh": "虽然我也只能出出主意……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "254/TALK",
+            "narrator": "雛",
+            "text": "構いません！",
+            "zh": "没关系！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "255/TALK",
+            "narrator": "雛",
+            "text": "今のあたし達には",
+            "zh": "现在的我们",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "256/TALK",
+            "narrator": "雛",
+            "text": "一人でも仲間が必要なんです",
+            "zh": "哪怕多一个同伴也是好的",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "257/TALK",
+            "narrator": "雛",
+            "text": "それにあなたは",
+            "zh": "而且你",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "258/TALK",
+            "narrator": "雛",
+            "text": "いつもつばめちゃんを元気にしてきた",
+            "zh": "一直以来都让燕打起精神",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "259/TALK",
+            "narrator": "雛",
+            "text": "だから",
+            "zh": "所以",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "260/TALK",
+            "narrator": "雛",
+            "text": "とっても心強いです",
+            "zh": "有你在就让人安心多了",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "262/TALK",
+            "narrator": "雛",
+            "text": "このこと",
+            "zh": "这件事",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "263/TALK",
+            "narrator": "雛",
+            "text": "みんなに話して来ます！",
+            "zh": "我这就去告诉大家！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "277/TALK",
+            "narrator": "雛",
+            "text": "やった、やったよ！！\n思った通り！！",
+            "zh": "成了，成了呀！！\n果然跟我想的一样！！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "279/TALK",
+            "narrator": "キリト",
+            "text": "なにがだよ？\n誰と話してたんだ？",
+            "zh": "什么成了啊？\n你刚在跟谁说话呢？",
+            "narrator_zh": "圣翔"
+        },
+        {
+            "location": "281/TALK",
+            "narrator": "雛",
+            "text": "説明するから、\nとりあえずまゆちんと\nヒカルくんを呼ぼう！",
+            "zh": "等下再解释，\n总之先把小茧和\n光叫来吧！",
+            "narrator_zh": "雏"
+        },
+        {
+            "location": "282/TALK",
+            "narrator": "キリト",
+            "text": "…ひなこのやつ、\nなにを企んでんだか…。",
+            "zh": "……雏子这家伙，\n到底在盘算什么呢……。",
+            "narrator_zh": "圣翔"
+        }
+    ]
+}

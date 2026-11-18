@@ -1,0 +1,2527 @@
+{
+    "dir": "chap36/daydra/dd_ch01_36_101.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "36102",
+        "cid": "tsubame",
+        "title": "002 メインストーリー",
+        "sub_title": "聖女＜前編＞",
+        "title_zh": "002 主线剧情",
+        "sub_title_zh": "圣女＜前篇＞"
+    },
+    "entry": [
+        {
+            "location": "8/SCENARIO",
+            "narrator": "",
+            "text": "改めての自己紹介",
+            "zh": "再次自我介绍",
+            "narrator_zh": ""
+        },
+        {
+            "location": "24/TALK",
+            "narrator": "聖女つばめ",
+            "text": "ここはどこ？",
+            "zh": "这里是哪里？",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "25/TALK",
+            "narrator": "聖女つばめ",
+            "text": "どこまでも白い…。",
+            "zh": "白得没有尽头……。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "26/TALK",
+            "narrator": "聖女つばめ",
+            "text": "わたしまで真っ白……。\nどうしてこんな姿に？",
+            "zh": "连我都变得雪白……。\n为什么会变成这副样子？",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "27/SEL",
+            "narrator": "",
+            "text": "なんで千羽鶴がいるの？",
+            "zh": "为什么千羽鹤会在？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "28/ACT",
+            "narrator": "",
+            "text": "なんで千羽鶴がいるの？",
+            "zh": "为什么千羽鹤会在？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "聖女つばめ",
+            "text": "それは誰？",
+            "zh": "那是谁？",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "聖女つばめ",
+            "text": "わたしはつばめ。\n逢瀬つばめ。",
+            "zh": "我是燕。\n逢濑燕。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "33/SEL",
+            "narrator": "",
+            "text": "本当につばめなの？",
+            "zh": "真的是燕吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "34/SEL",
+            "narrator": "",
+            "text": "つばめじゃないでしょ？",
+            "zh": "不是燕吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "35/SEL",
+            "narrator": "",
+            "text": "これどうすればいいの…",
+            "zh": "这要怎么办……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "36/ACT",
+            "narrator": "",
+            "text": "本当につばめなの？",
+            "zh": "真的是燕吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "38/TALK",
+            "narrator": "聖女つばめ",
+            "text": "それ以外の\n何物でもない。",
+            "zh": "不是\n别的什么。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "39/ACT",
+            "narrator": "",
+            "text": "つばめじゃないでしょ？",
+            "zh": "不是燕吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "40/TALK",
+            "narrator": "聖女つばめ",
+            "text": "つばめだよ。\n逢瀬つばめだよ。",
+            "zh": "是燕哦。\n是逢濑燕哦。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "41/ACT",
+            "narrator": "",
+            "text": "これどうすればいいの…",
+            "zh": "这要怎么办……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "42/TALK",
+            "narrator": "聖女つばめ",
+            "text": "なんで困るの？",
+            "zh": "为什么为难？",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "44/SEL",
+            "narrator": "",
+            "text": "えーと",
+            "zh": "那个",
+            "narrator_zh": ""
+        },
+        {
+            "location": "45/ACT",
+            "narrator": "",
+            "text": "えーと",
+            "zh": "那个",
+            "narrator_zh": ""
+        },
+        {
+            "location": "47/TALK",
+            "narrator": "聖女つばめ",
+            "text": "はい。",
+            "zh": "嗯。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "48/SEL",
+            "narrator": "",
+            "text": "あなたは死にました",
+            "zh": "你已经死了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "49/ACT",
+            "narrator": "",
+            "text": "あなたは死にました",
+            "zh": "你已经死了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "51/TALK",
+            "narrator": "聖女つばめ",
+            "text": "そういうあなたは？",
+            "zh": "那么你又是？",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "52/SEL",
+            "narrator": "",
+            "text": "$me$だよ",
+            "zh": "是$me$哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "53/SEL",
+            "narrator": "",
+            "text": "$handle$",
+            "zh": "$handle$",
+            "narrator_zh": ""
+        },
+        {
+            "location": "54/SEL",
+            "narrator": "",
+            "text": "わからない？",
+            "zh": "不知道吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "55/ACT",
+            "narrator": "",
+            "text": "$me$だよ",
+            "zh": "是$me$哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "聖女つばめ",
+            "text": "…ごめんなさい。",
+            "zh": "……对不起。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "58/TALK",
+            "narrator": "聖女つばめ",
+            "text": "そういう名前なの。",
+            "zh": "原来是这个名字。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "59/ACT",
+            "narrator": "",
+            "text": "わからない？",
+            "zh": "不知道吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "聖女つばめ",
+            "text": "ええと…。",
+            "zh": "那个……。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "62/TALK",
+            "narrator": "聖女つばめ",
+            "text": "やっぱりわからない。\nごめんなさい。",
+            "zh": "果然还是不知道。\n对不起。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "聖女つばめ",
+            "text": "聞いていいかな…？",
+            "zh": "可以问一句吗……？",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "聖女つばめ",
+            "text": "どうしてあなたは\nわたしが死んだって\n言い切れるの？",
+            "zh": "为什么你能\n那么肯定地说\n我死了？",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "66/SEL",
+            "narrator": "",
+            "text": "選択肢に出たから",
+            "zh": "因为出现在选项里",
+            "narrator_zh": ""
+        },
+        {
+            "location": "67/SEL",
+            "narrator": "",
+            "text": "それは秘密",
+            "zh": "那是秘密",
+            "narrator_zh": ""
+        },
+        {
+            "location": "68/SEL",
+            "narrator": "",
+            "text": "そういうもんでしょ",
+            "zh": "就是这么回事吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "69/ACT",
+            "narrator": "",
+            "text": "選択肢に出たから",
+            "zh": "因为出现在选项里",
+            "narrator_zh": ""
+        },
+        {
+            "location": "70/TALK",
+            "narrator": "聖女つばめ",
+            "text": "選択肢…？",
+            "zh": "选项……？",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "71/TALK",
+            "narrator": "聖女つばめ",
+            "text": "よくわからないけど…。",
+            "zh": "虽然不太明白……。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "72/ACT",
+            "narrator": "",
+            "text": "それは秘密",
+            "zh": "那是秘密",
+            "narrator_zh": ""
+        },
+        {
+            "location": "73/TALK",
+            "narrator": "聖女つばめ",
+            "text": "そうなの…？",
+            "zh": "是吗……？",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "74/TALK",
+            "narrator": "聖女つばめ",
+            "text": "じゃあ仕方ないね…。",
+            "zh": "那就没办法了……。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "75/ACT",
+            "narrator": "",
+            "text": "そういうもんでしょ",
+            "zh": "就是这么回事吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "聖女つばめ",
+            "text": "えっと…。",
+            "zh": "那个……。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "77/TALK",
+            "narrator": "聖女つばめ",
+            "text": "それじゃ\nわかんないよ…。",
+            "zh": "那样的话\n我就不知道了……。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "79/TALK",
+            "narrator": "聖女つばめ",
+            "text": "…たぶんわたしは\n失敗したんだね。",
+            "zh": "……大概，我\n失败了。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "80/TALK",
+            "narrator": "聖女つばめ",
+            "text": "理想の社会を\n作ることに。",
+            "zh": "在创造\n理想的社会这件事上。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "81/TALK",
+            "narrator": "聖女つばめ",
+            "text": "人々に安寧を\nもたらすことに。",
+            "zh": "在给人们\n带来安宁这件事上。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "82/SEL",
+            "narrator": "",
+            "text": "つばめが難しいこと話してる！",
+            "zh": "燕在说难懂的话！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "83/SEL",
+            "narrator": "",
+            "text": "そんなことできなくていいんだ",
+            "zh": "做不到那种事也没关系",
+            "narrator_zh": ""
+        },
+        {
+            "location": "84/SEL",
+            "narrator": "",
+            "text": "それは洗脳だよ",
+            "zh": "那是洗脑",
+            "narrator_zh": ""
+        },
+        {
+            "location": "85/ACT",
+            "narrator": "",
+            "text": "つばめが難しいこと話してる！",
+            "zh": "燕在说难懂的话！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "86/TALK",
+            "narrator": "聖女つばめ",
+            "text": "聖女としての\n役割を果たすことが\nわたしの使命だから。",
+            "zh": "作为圣女\n履行职责，\n就是我的使命。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "87/ACT",
+            "narrator": "",
+            "text": "そんなことできなくていいんだ",
+            "zh": "做不到那种事也没关系",
+            "narrator_zh": ""
+        },
+        {
+            "location": "88/TALK",
+            "narrator": "聖女つばめ",
+            "text": "そんなわけない。",
+            "zh": "不可能有那种事。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "89/TALK",
+            "narrator": "聖女つばめ",
+            "text": "失敗したから\nなぐさめてくれてる\nだけでしょ？",
+            "zh": "因为我失败了，\n你才来安慰我\n而已吧？",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "90/ACT",
+            "narrator": "",
+            "text": "それは洗脳だよ",
+            "zh": "那是洗脑",
+            "narrator_zh": ""
+        },
+        {
+            "location": "91/TALK",
+            "narrator": "聖女つばめ",
+            "text": "違う。",
+            "zh": "不对。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "聖女つばめ",
+            "text": "それは絶対に違う。",
+            "zh": "那绝对不对。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "94/SEL",
+            "narrator": "",
+            "text": "千羽鶴が嘘をついてた",
+            "zh": "千羽鹤撒了谎",
+            "narrator_zh": ""
+        },
+        {
+            "location": "95/SEL",
+            "narrator": "",
+            "text": "$me$は千羽鶴に騙された",
+            "zh": "$me$被千羽鹤骗了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "96/SEL",
+            "narrator": "",
+            "text": "千羽鶴って憶えてる？",
+            "zh": "你记得千羽鹤吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "97/ACT",
+            "narrator": "",
+            "text": "千羽鶴が嘘をついてた",
+            "zh": "千羽鹤撒了谎",
+            "narrator_zh": ""
+        },
+        {
+            "location": "98/TALK",
+            "narrator": "聖女つばめ",
+            "text": "ええと…誰それ？",
+            "zh": "那个……是谁？",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "99/ACT",
+            "narrator": "",
+            "text": "$me$は千羽鶴に騙された",
+            "zh": "$me$被千羽鹤骗了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "聖女つばめ",
+            "text": "ひどいことする人が\nいるんだね。",
+            "zh": "还有人会做\n这么过分的事啊。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "101/ACT",
+            "narrator": "",
+            "text": "千羽鶴って憶えてる？",
+            "zh": "你记得千羽鹤吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "聖女つばめ",
+            "text": "…ごめんね。\nわからないや。",
+            "zh": "……对不起。\n我不知道呀。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "104/SEL",
+            "narrator": "",
+            "text": "千羽鶴はつばめのクラン",
+            "zh": "千羽鹤是燕的库兰",
+            "narrator_zh": ""
+        },
+        {
+            "location": "105/SEL",
+            "narrator": "",
+            "text": "自分のクランを忘れたの？",
+            "zh": "把自己的库兰忘了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "106/SEL",
+            "narrator": "",
+            "text": "つばめから生まれたクランだよ",
+            "zh": "是从燕身上诞生的库兰哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "107/ACT",
+            "narrator": "",
+            "text": "千羽鶴はつばめのクラン",
+            "zh": "千羽鹤是燕的库兰",
+            "narrator_zh": ""
+        },
+        {
+            "location": "108/TALK",
+            "narrator": "聖女つばめ",
+            "text": "そういうことなんだ。",
+            "zh": "原来是这样。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "109/ACT",
+            "narrator": "",
+            "text": "自分のクランを忘れたの？",
+            "zh": "把自己的库兰忘了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "110/TALK",
+            "narrator": "聖女つばめ",
+            "text": "…名前なんて\n聞いたことないし。",
+            "zh": "……这种名字\n我听都没听过。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "111/ACT",
+            "narrator": "",
+            "text": "つばめから生まれたクランだよ",
+            "zh": "是从燕身上诞生的库兰哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "112/TALK",
+            "narrator": "聖女つばめ",
+            "text": "わたしから？",
+            "zh": "从我身上？",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "115/TALK",
+            "narrator": "聖女つばめ",
+            "text": "わたしのクランは、\n千羽鶴っていうんだね。",
+            "zh": "我的库兰，\n叫做千羽鹤啊。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "117/TALK",
+            "narrator": "聖女つばめ",
+            "text": "そしてあなたは\nどういう人なの？",
+            "zh": "那么你\n是什么样的人？",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "118/SEL",
+            "narrator": "",
+            "text": "つばめの協力者",
+            "zh": "燕的协助者",
+            "narrator_zh": ""
+        },
+        {
+            "location": "119/SEL",
+            "narrator": "",
+            "text": "保護者かな",
+            "zh": "算是监护人吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "120/SEL",
+            "narrator": "",
+            "text": "恋人だよ！？",
+            "zh": "是恋人吧！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "121/ACT",
+            "narrator": "",
+            "text": "つばめの協力者",
+            "zh": "燕的协助者",
+            "narrator_zh": ""
+        },
+        {
+            "location": "122/TALK",
+            "narrator": "聖女つばめ",
+            "text": "なんだか\nそんな気がしてた。",
+            "zh": "总觉得\n就是那种感觉。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "123/ACT",
+            "narrator": "",
+            "text": "保護者かな",
+            "zh": "算是监护人吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "124/TALK",
+            "narrator": "聖女つばめ",
+            "text": "聖女の保護者って\nことなのかな？",
+            "zh": "是圣女的\n监护人吗？",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "125/ACT",
+            "narrator": "",
+            "text": "恋人だよ！？",
+            "zh": "是恋人吧！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "126/TALK",
+            "narrator": "聖女つばめ",
+            "text": "…ごめんね。\n憶えてなくて。",
+            "zh": "……对不起。\n我不记得了。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "128/TALK",
+            "narrator": "聖女つばめ",
+            "text": "ええとね。",
+            "zh": "那个呀。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "129/TALK",
+            "narrator": "聖女つばめ",
+            "text": "改めて自己紹介\nしてもいいかな。",
+            "zh": "我可以\n重新自我介绍吗。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "130/SEL",
+            "narrator": "",
+            "text": "はい",
+            "zh": "好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "131/SEL",
+            "narrator": "",
+            "text": "むしろ待ってた",
+            "zh": "我倒是一直在等",
+            "narrator_zh": ""
+        },
+        {
+            "location": "132/SEL",
+            "narrator": "",
+            "text": "予想はついてるけど",
+            "zh": "虽然猜到了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "133/ACT",
+            "narrator": "",
+            "text": "はい",
+            "zh": "好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "134/TALK",
+            "narrator": "聖女つばめ",
+            "text": "よかった…。",
+            "zh": "太好了……。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "135/ACT",
+            "narrator": "",
+            "text": "むしろ待ってた",
+            "zh": "我倒是一直在等",
+            "narrator_zh": ""
+        },
+        {
+            "location": "136/TALK",
+            "narrator": "聖女つばめ",
+            "text": "そうだったの？\nごめんね。",
+            "zh": "是这样吗？\n对不起哦。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "137/ACT",
+            "narrator": "",
+            "text": "予想はついてるけど",
+            "zh": "虽然猜到了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "聖女つばめ",
+            "text": "そうなの…？\nでも、聞いてね。",
+            "zh": "是吗……？\n不过，请听我说。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "140/TALK",
+            "narrator": "聖女つばめ",
+            "text": "わたし逢瀬つばめは、\n２０１６年６月７日に\n生を受けました。",
+            "zh": "我逢濑燕，\n于2016年6月7日\n诞生。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "141/TALK",
+            "narrator": "聖女つばめ",
+            "text": "この頃はインプラント端末\nレディネスの黎明期\nでした。",
+            "zh": "那时候，是植入终端\nReadiness的\n黎明期。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "聖女つばめ",
+            "text": "レディネスは松果体に\n付着することで仮想現実を\n機器なしで実現できます。",
+            "zh": "Readiness附着在松果体上，\n就能不靠机器\n实现虚拟现实。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "143/TALK",
+            "narrator": "聖女つばめ",
+            "text": "それは革命と言える\nものでした。",
+            "zh": "那可以说是\n一场革命。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "144/TALK",
+            "narrator": "聖女つばめ",
+            "text": "同時に個人の\n管理が容易になりました。",
+            "zh": "同时，对个人的\n管理也变得容易了。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "145/TALK",
+            "narrator": "聖女つばめ",
+            "text": "そして２０２８年。\nレディネスの義務化が\n始まります。",
+            "zh": "然后是2028年。\nReadiness开始\n成为义务。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "聖女つばめ",
+            "text": "それにより人々は革新的な\n利便性を手に入れました。",
+            "zh": "人们由此得到了\n革新性的便利。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "147/TALK",
+            "narrator": "聖女つばめ",
+            "text": "それと同時にこれまでとは\n比較にならないほどの\n管理社会となったのです。",
+            "zh": "与此同时，这里也成了\n至今无法相比的\n管理社会。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "148/TALK",
+            "narrator": "聖女つばめ",
+            "text": "レディネスが義務化され、\n全ての人が繋がることに\nよってわかったこと。",
+            "zh": "Readiness成为义务，\n所有人连在一起\n之后才明白的事。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "149/TALK",
+            "narrator": "聖女つばめ",
+            "text": "レディネスは特定の\n個体との相性により\n爆発的な力を持つ。",
+            "zh": "Readiness会因与\n特定个体的相性，\n拥有爆发性的力量。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "150/TALK",
+            "narrator": "聖女つばめ",
+            "text": "その確率は一億分の\n一ともいわれる\nごくわずかなものです。",
+            "zh": "那个概率据说是\n一亿分之一，\n极其微小。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "151/TALK",
+            "narrator": "聖女つばめ",
+            "text": "しかしとても有用と\n見なされました。",
+            "zh": "然而它被视为\n非常有用。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "152/TALK",
+            "narrator": "聖女つばめ",
+            "text": "なぜならその力は\n他人の心を自然に変化\nさせることができたから。",
+            "zh": "因为那份力量，\n能够自然地\n改变他人的心。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "153/TALK",
+            "narrator": "聖女つばめ",
+            "text": "物理的かつ無血で\n誰も認識しないほど\n自然に世界を変える力。",
+            "zh": "以物理的、不流血的方式，\n自然到谁也意识不到地\n改变世界的力量。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "154/TALK",
+            "narrator": "聖女つばめ",
+            "text": "それを持っていたうちの\n一人がわたし、\n逢瀬つばめです。",
+            "zh": "拥有它的人当中，\n有一个就是我，\n逢濑燕。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "155/SEL",
+            "narrator": "",
+            "text": "…そうだったんだ…",
+            "zh": "……原来是这样……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "156/SEL",
+            "narrator": "",
+            "text": "重い話だ",
+            "zh": "好沉重的话",
+            "narrator_zh": ""
+        },
+        {
+            "location": "157/SEL",
+            "narrator": "",
+            "text": "そんな力、人類に必要ない",
+            "zh": "那种力量，人类不需要",
+            "narrator_zh": ""
+        },
+        {
+            "location": "158/ACT",
+            "narrator": "",
+            "text": "…そうだったんだ…",
+            "zh": "……原来是这样……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "159/TALK",
+            "narrator": "聖女つばめ",
+            "text": "わかってくれた？",
+            "zh": "你明白了吗？",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "160/ACT",
+            "narrator": "",
+            "text": "重い話だ",
+            "zh": "好沉重的话",
+            "narrator_zh": ""
+        },
+        {
+            "location": "161/TALK",
+            "narrator": "聖女つばめ",
+            "text": "全人類に関係する\n話だから。",
+            "zh": "因为这是关系到\n全人类的事。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "162/ACT",
+            "narrator": "",
+            "text": "そんな力、人類に必要ない",
+            "zh": "那种力量，人类不需要",
+            "narrator_zh": ""
+        },
+        {
+            "location": "163/TALK",
+            "narrator": "聖女つばめ",
+            "text": "そんなことない！",
+            "zh": "才没有那种事！",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "165/TALK",
+            "narrator": "聖女つばめ",
+            "text": "科学者の方々はそれを\nアカシックレコードに\n繋がる力と言いました。",
+            "zh": "科学家们说，\n那是连上\n阿卡夏纪录的力量。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "166/TALK",
+            "narrator": "聖女つばめ",
+            "text": "そして突然変異体、\nわたしたちの能力の\n研究を開始しました。　",
+            "zh": "于是开始研究\n突变体，\n也就是我们的能力。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "167/TALK",
+            "narrator": "聖女つばめ",
+            "text": "最終目標は世界平和。\nその計画の名を\nフェノム計画と言います。",
+            "zh": "最终目标是世界和平。\n那个计划的名字\n叫做Phenom计划。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "168/SEL",
+            "narrator": "",
+            "text": "モルモットじゃないか",
+            "zh": "这不就是小白鼠吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "169/SEL",
+            "narrator": "",
+            "text": "信じてたんだ",
+            "zh": "我相信过的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "170/SEL",
+            "narrator": "",
+            "text": "ひどいことをされたね",
+            "zh": "你被做了过分的事啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "171/ACT",
+            "narrator": "",
+            "text": "モルモットじゃないか",
+            "zh": "这不就是小白鼠吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "172/TALK",
+            "narrator": "聖女つばめ",
+            "text": "人類の進歩のための\n研究です。\nそんな言い方しないで。",
+            "zh": "这是为了人类进步的\n研究。\n请别那么说。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "173/ACT",
+            "narrator": "",
+            "text": "信じてたんだ",
+            "zh": "我相信过的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "174/TALK",
+            "narrator": "聖女つばめ",
+            "text": "世界平和は実現\nできないとでも\n言うんですか？",
+            "zh": "你是要说\n世界和平\n无法实现吗？",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "175/ACT",
+            "narrator": "",
+            "text": "ひどいことをされたね",
+            "zh": "你被做了过分的事啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "176/TALK",
+            "narrator": "聖女つばめ",
+            "text": "……そんなこと…\nないよ……。",
+            "zh": "……才没有\n那种事……。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "178/TALK",
+            "narrator": "聖女つばめ",
+            "text": "そしてこれから、\nわたしつばめの\n思い出を。",
+            "zh": "然后接下来，\n是我，燕的\n回忆。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "179/TALK",
+            "narrator": "聖女つばめ",
+            "text": "あなたと少し\n共有したいと\n思います。",
+            "zh": "我想稍微\n和你共享\n一下。",
+            "narrator_zh": "圣女燕"
+        },
+        {
+            "location": "212/TALK",
+            "narrator": "カレン",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "213/SEL",
+            "narrator": "",
+            "text": "どうしたの！？",
+            "zh": "怎么了！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "214/ACT",
+            "narrator": "",
+            "text": "どうしたの！？",
+            "zh": "怎么了！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "216/TALK",
+            "narrator": "カレン",
+            "text": "はぁぁぁ……",
+            "zh": "哈啊啊……",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "217/TALK",
+            "narrator": "カレン",
+            "text": "やっぱり\nすごく緊張します…！！",
+            "zh": "果然\n还是非常紧张……！！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "218/SEL",
+            "narrator": "",
+            "text": "これから戦うわけだしね",
+            "zh": "接下来要战斗，也难怪会紧张",
+            "narrator_zh": ""
+        },
+        {
+            "location": "219/SEL",
+            "narrator": "",
+            "text": "無理しなくていいんだよ？",
+            "zh": "不用勉强自己哦？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "220/ACT",
+            "narrator": "",
+            "text": "これから戦うわけだしね",
+            "zh": "接下来要战斗，也难怪会紧张",
+            "narrator_zh": ""
+        },
+        {
+            "location": "221/TALK",
+            "narrator": "カレン",
+            "text": "ち、ちがうんですよ…\n緊張するのは――",
+            "zh": "不、不是的……\n会紧张，是因为——",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "222/TALK",
+            "narrator": "カレン",
+            "text": "$handle$さんに\nわたしの真の姿を\n見られちゃうことです！",
+            "zh": "要被$handle$\n看到\n我真正的样子！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "223/SEL",
+            "narrator": "",
+            "text": "きっとカワイイから大丈夫",
+            "zh": "一定很可爱，没关系的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "224/SEL",
+            "narrator": "",
+            "text": "もしかして百鶴みたいに…",
+            "zh": "难道会变得像百鹤一样……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "225/ACT",
+            "narrator": "",
+            "text": "きっとカワイイから大丈夫",
+            "zh": "一定很可爱，没关系的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "226/TALK",
+            "narrator": "カレン",
+            "text": "うぅ……どうでしょうか。",
+            "zh": "呜……怎么样啊。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "227/ACT",
+            "narrator": "",
+            "text": "もしかして百鶴みたいに…",
+            "zh": "难道会变得像百鹤一样……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "228/TALK",
+            "narrator": "カレン",
+            "text": "あっ、えっと、\nそれはないと\n思いますけど……",
+            "zh": "啊，那个，\n我想\n不会是那样……",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "229/TALK",
+            "narrator": "カレン",
+            "text": "うーん、でもなんだろ、\n似てるような\n似てないような……",
+            "zh": "嗯——该怎么说，\n好像像，\n又好像不像……",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "231/ACT",
+            "narrator": "",
+            "text": "無理しなくていいんだよ？",
+            "zh": "不用勉强自己哦？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "232/TALK",
+            "narrator": "カレン",
+            "text": "いえ、\n無理なんかじゃ\nありません！",
+            "zh": "不，\n才没有\n勉强！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "233/TALK",
+            "narrator": "カレン",
+            "text": "$handle$さんに\n見られることは\n嫌じゃありませんから。",
+            "zh": "被$handle$\n看到，\n我并不讨厌。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "234/SEL",
+            "narrator": "",
+            "text": "見られる…？？",
+            "zh": "被看到……？？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "235/SEL",
+            "narrator": "",
+            "text": "もしかして全裸に！？",
+            "zh": "难道会变成全裸！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "236/ACT",
+            "narrator": "",
+            "text": "見られる…？？",
+            "zh": "被看到……？？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "237/TALK",
+            "narrator": "カレン",
+            "text": "あ、はい。わたしの\n本当の姿を見られるのが\n恥ずかしくて……。",
+            "zh": "啊，是的。要被看到\n我真正的样子，\n好害羞……。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "238/ACT",
+            "narrator": "",
+            "text": "もしかして全裸に！？",
+            "zh": "难道会变成全裸！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "239/TALK",
+            "narrator": "カレン",
+            "text": "え、えええええっ！？\nななななりませんよう！",
+            "zh": "诶、诶诶诶诶！？\n才、才不会变成那样！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "240/TALK",
+            "narrator": "カレン",
+            "text": "だいたい、\nそんなことなら\n別に緊張しませんし！",
+            "zh": "再说，\n要是那种事，\n我才不会紧张！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "241/TALK",
+            "narrator": "カレン",
+            "text": "わたしの\n本当の姿を見られるのが\n緊張するんです！",
+            "zh": "会紧张的是\n要被看到\n我真正的样子！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "244/SEL",
+            "narrator": "",
+            "text": "そんなことより、戦う事に緊張はないの？",
+            "zh": "比起那个，对要战斗就不紧张吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "245/ACT",
+            "narrator": "",
+            "text": "そんなことより、戦う事に緊張はないの？",
+            "zh": "比起那个，对要战斗就不紧张吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "247/TALK",
+            "narrator": "カレン",
+            "text": "え？\nそれはないですよ。",
+            "zh": "诶？\n那个倒没有。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "248/TALK",
+            "narrator": "カレン",
+            "text": "だってお相手は\n$handle$さん\nですから。",
+            "zh": "因为对手是\n$handle$\n啊。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "249/TALK",
+            "narrator": "カレン",
+            "text": "絶対、良い結果に\nしてくれるって\n思ってますし。",
+            "zh": "我相信\n一定会变成\n好的结果。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "250/SEL",
+            "narrator": "",
+            "text": "信じていてくれてありがとう",
+            "zh": "谢谢你相信我",
+            "narrator_zh": ""
+        },
+        {
+            "location": "251/SEL",
+            "narrator": "",
+            "text": "それってめちゃ責任重大やん！",
+            "zh": "那责任也太重大了吧！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "252/ACT",
+            "narrator": "",
+            "text": "信じていてくれてありがとう",
+            "zh": "谢谢你相信我",
+            "narrator_zh": ""
+        },
+        {
+            "location": "253/TALK",
+            "narrator": "カレン",
+            "text": "えへへ。",
+            "zh": "诶嘿嘿。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "254/ACT",
+            "narrator": "",
+            "text": "それってめちゃ責任重大やん！",
+            "zh": "那责任也太重大了吧！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "255/TALK",
+            "narrator": "カレン",
+            "text": "え？\nそうですか？",
+            "zh": "诶？\n是吗？",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "256/TALK",
+            "narrator": "カレン",
+            "text": "気楽にやってくれれば\nそれでいいんですよ？",
+            "zh": "你轻松去做，\n那样就好哦？",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "257/SEL",
+            "narrator": "",
+            "text": "わかったよ",
+            "zh": "知道了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "258/SEL",
+            "narrator": "",
+            "text": "やっぱりカレンは天然ドSですね",
+            "zh": "果然卡莲是天然抖S啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "259/ACT",
+            "narrator": "",
+            "text": "わかったよ",
+            "zh": "知道了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "260/ACT",
+            "narrator": "",
+            "text": "やっぱりカレンは天然ドSですね",
+            "zh": "果然卡莲是天然抖S啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "261/TALK",
+            "narrator": "カレン",
+            "text": "てんねんどえす？",
+            "zh": "天然抖S？",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "262/TALK",
+            "narrator": "カレン",
+            "text": "よくわかりませんけど、\nとにかく、スコーン！と\n気楽にやってください！",
+            "zh": "虽然不太明白，\n总之请轻巧地、\n放松去做就好！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "263/SEL",
+            "narrator": "",
+            "text": "あ、はい",
+            "zh": "啊，好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "264/ACT",
+            "narrator": "",
+            "text": "あ、はい",
+            "zh": "啊，好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "269/TALK",
+            "narrator": "カレン",
+            "text": "あの！\n$handle$さん！",
+            "zh": "那个！\n$handle$！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "279/TALK",
+            "narrator": "カレン",
+            "text": "……ふぅ……",
+            "zh": "……呼……",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "280/SEL",
+            "narrator": "",
+            "text": "カレン！？",
+            "zh": "卡莲！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "282/ACT",
+            "narrator": "",
+            "text": "カレン！？",
+            "zh": "卡莲！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "284/TALK",
+            "narrator": "カレン",
+            "text": "え",
+            "zh": "诶",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "285/TALK",
+            "narrator": "カレン",
+            "text": "ひゃああああ！！\n$handle$さん！！",
+            "zh": "呀啊啊啊！！\n$handle$！！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "286/SEL",
+            "narrator": "",
+            "text": "なにビビってるの？",
+            "zh": "你在怕什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "287/SEL",
+            "narrator": "",
+            "text": "なに勝手に発症しようとしてるの？",
+            "zh": "你怎么擅自要发症？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "288/ACT",
+            "narrator": "",
+            "text": "なにビビってるの？",
+            "zh": "你在怕什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "289/TALK",
+            "narrator": "カレン",
+            "text": "いいいいいえ！\n全然ビビってなんて\nいませんよ？",
+            "zh": "不、不是！\n我一点也\n没有在怕哦？",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "290/TALK",
+            "narrator": "カレン",
+            "text": "ただ、\n$handle$さんが\n来るより前に――",
+            "zh": "只是在\n$handle$\n到来之前——",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "291/TALK",
+            "narrator": "カレン",
+            "text": "いえ、すみません！\nすっかりココロが\n動転してますっ！！",
+            "zh": "不，对不起！\n我的心\n完全乱掉了！！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "292/ACT",
+            "narrator": "",
+            "text": "なに勝手に発症しようとしてるの？",
+            "zh": "你怎么擅自要发症？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "293/TALK",
+            "narrator": "カレン",
+            "text": "かかかか勝手に\n発症なんて企んで\nいませんよう！！",
+            "zh": "才、才没有\n盘算着擅自\n发症！！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "294/TALK",
+            "narrator": "カレン",
+            "text": "ただ単に、\n$handle$さんが\n来る前に準備をと思って！",
+            "zh": "只是，\n想在$handle$\n来之前做好准备！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "295/TALK",
+            "narrator": "カレン",
+            "text": "勝手に発症しようと\nしたんじゃなくて、発症を\nしようとしてただけです！",
+            "zh": "不是擅自要发症，\n只是打算\n去发症而已！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "297/SEL",
+            "narrator": "",
+            "text": "おちつけおちつけ！",
+            "zh": "冷静、冷静！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "298/ACT",
+            "narrator": "",
+            "text": "おちつけおちつけ！",
+            "zh": "冷静、冷静！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "300/TALK",
+            "narrator": "カレン",
+            "text": "ふええええ……\nごめんなさい……。",
+            "zh": "呜诶诶……\n对不起……。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "301/SEL",
+            "narrator": "",
+            "text": "そんなじゃ、$me$が阻止して終わりだね",
+            "zh": "这样的话，就由$me$阻止，然后结束了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "302/SEL",
+            "narrator": "",
+            "text": "そんなだから憎めないんだよなぁ",
+            "zh": "所以才让人讨厌不起来啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "303/ACT",
+            "narrator": "",
+            "text": "そんなじゃ、$me$が阻止して終わりだね",
+            "zh": "这样的话，就由$me$阻止，然后结束了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "304/TALK",
+            "narrator": "カレン",
+            "text": "そ、そうですよね……。\nごめんなさい。",
+            "zh": "是、是这样啊……。\n对不起。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "305/ACT",
+            "narrator": "",
+            "text": "そんなだから憎めないんだよなぁ",
+            "zh": "所以才让人讨厌不起来啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "306/TALK",
+            "narrator": "カレン",
+            "text": "あ…ははは……\nごめんなさい。",
+            "zh": "啊……哈哈哈……\n对不起。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "308/TALK",
+            "narrator": "カレン",
+            "text": "$handle$さんが\n来る前に、発症しちゃおう\nと思ったんですけど――",
+            "zh": "我想在$handle$\n到来之前就发症\n了事——",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "309/TALK",
+            "narrator": "カレン",
+            "text": "当たり前ですけど\n無理ですよね。",
+            "zh": "当然，\n那是做不到的。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "310/TALK",
+            "narrator": "カレン",
+            "text": "$handle$さんは\nいつも的確に“その刻”に\nアクセスできますし。",
+            "zh": "$handle$\n总能在“那个时刻”\n准确接入。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "311/TALK",
+            "narrator": "カレン",
+            "text": "あっ、でも！\n気にしないでください！",
+            "zh": "啊，不过！\n请别在意！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "312/SEL",
+            "narrator": "",
+            "text": "何が…？",
+            "zh": "什么……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "313/ACT",
+            "narrator": "",
+            "text": "何が…？",
+            "zh": "什么……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "315/TALK",
+            "narrator": "カレン",
+            "text": "あ、えっと、\nわたしと戦う時は、\n気兼ねなくお願いします！",
+            "zh": "啊，那个，\n和我战斗的时候，\n请不必顾虑！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "316/TALK",
+            "narrator": "カレン",
+            "text": "今回の戦いは、\nわたしとあなたの想いの\nぶつけ合いです！",
+            "zh": "这次的战斗，\n是我和你的心意\n彼此碰撞！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "317/TALK",
+            "narrator": "カレン",
+            "text": "お互い、お互いの想いを\n大事にしてるなら、当然\n本気で戦いたいですよね。",
+            "zh": "如果都珍惜\n彼此的心意，当然\n会想认真战斗。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "318/TALK",
+            "narrator": "カレン",
+            "text": "だから、わたしに\n同情するとか、手加減とか\nしないでください！",
+            "zh": "所以请不要\n同情我，也不要\n手下留情！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "320/TALK",
+            "narrator": "カレン",
+            "text": "$handle$さんは…",
+            "zh": "$handle$是……",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "321/TALK",
+            "narrator": "カレン",
+            "text": "$handle$さんは、\nわたしが本当に信頼してる\n唯一人の人ですから。",
+            "zh": "$handle$，\n是我真正信任的\n唯一一个人。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "322/TALK",
+            "narrator": "カレン",
+            "text": "そして、\nわたしが本当に大好きな、\n唯一人のひとなんです。",
+            "zh": "而且，\n是我真正喜欢的、\n唯一一个人。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "323/TALK",
+            "narrator": "カレン",
+            "text": "だから、最後の最後まで\nお互い気持ちを偽ったり\nしたくないんです。",
+            "zh": "所以直到最后，\n我不想对彼此的心意\n有任何掩饰。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "324/SEL",
+            "narrator": "",
+            "text": "わかった",
+            "zh": "知道了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "325/SEL",
+            "narrator": "",
+            "text": "無理しないで",
+            "zh": "别勉强",
+            "narrator_zh": ""
+        },
+        {
+            "location": "326/ACT",
+            "narrator": "",
+            "text": "わかった",
+            "zh": "知道了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "327/TALK",
+            "narrator": "カレン",
+            "text": "…よかったです。",
+            "zh": "……太好了。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "328/ACT",
+            "narrator": "",
+            "text": "無理しないで",
+            "zh": "别勉强",
+            "narrator_zh": ""
+        },
+        {
+            "location": "329/TALK",
+            "narrator": "カレン",
+            "text": "無理なんてしてません！",
+            "zh": "我才没有勉强！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "330/TALK",
+            "narrator": "カレン",
+            "text": "わたしはただ、\nあなたとの思い出を――",
+            "zh": "我只是想，\n把和你的回忆——",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "331/TALK",
+            "narrator": "カレン",
+            "text": "ずっと宝石のような\n宝物のままにしておきたい\nだけなんです。",
+            "zh": "一直当成\n宝石一样的宝物\n留存下去。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "332/SEL",
+            "narrator": "",
+            "text": "ありがとう",
+            "zh": "谢谢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "333/ACT",
+            "narrator": "",
+            "text": "ありがとう",
+            "zh": "谢谢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "336/TALK",
+            "narrator": "カレン",
+            "text": "あ……あの！！",
+            "zh": "啊……那个！！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "338/SEL",
+            "narrator": "",
+            "text": "どうしたの？",
+            "zh": "怎么了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "339/ACT",
+            "narrator": "",
+            "text": "どうしたの？",
+            "zh": "怎么了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "341/TALK",
+            "narrator": "カレン",
+            "text": "今まで本当に、\nありがとうございました！",
+            "zh": "一直以来，\n真的谢谢你！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "342/TALK",
+            "narrator": "カレン",
+            "text": "初めて\n$handle$さんと\n出逢ったときのこと――",
+            "zh": "第一次\n和$handle$\n相遇的时候——",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "343/TALK",
+            "narrator": "カレン",
+            "text": "今でも、\n昨日のことのように\n覚えてます。",
+            "zh": "到现在，\n还像昨天的事一样\n记得清楚。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "344/TALK",
+            "narrator": "カレン",
+            "text": "実はすごい緊張してて、\nロボットみたいなことしか\n話せませんでしたけど。",
+            "zh": "其实紧张得不行，\n只能说些\n像机器人一样的话。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "345/TALK",
+            "narrator": "カレン",
+            "text": "でも$handle$さんは\n凄くフレンドリーで、\nすぐ安心できました。",
+            "zh": "可是$handle$\n非常亲切，\n我马上就安心了。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "347/TALK",
+            "narrator": "カレン",
+            "text": "一番ビックリしたのは、\n$handle$さんが\n司書やるって言った時です。",
+            "zh": "最吃惊的是\n$handle$\n说要当司书的时候。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "348/TALK",
+            "narrator": "カレン",
+            "text": "冗談だったのかも\nしれませんけど、私には\nとっても衝撃でした。",
+            "zh": "也许只是玩笑，\n可对我\n冲击非常大。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "350/TALK",
+            "narrator": "カレン",
+            "text": "まだ出逢ってすぐなのに、\nわたしのダメな所を\n叱ってくれたり――",
+            "zh": "明明才刚遇见，\n就会指出\n我不好的地方——",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "351/TALK",
+            "narrator": "カレン",
+            "text": "いいって思った所を\nいっぱい褒めてくれたり\nしましたよね？",
+            "zh": "觉得好的地方，\n也会好好夸奖我，\n对吧？",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "352/TALK",
+            "narrator": "カレン",
+            "text": "実家に帰らないことを\n指摘されたのは\nビックリしましたけど。",
+            "zh": "被说不回老家的时候，\n我吓了一跳。\n不过。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "353/TALK",
+            "narrator": "カレン",
+            "text": "でもお陰で、\nお父さんに関して改めて\n考えることができました。",
+            "zh": "可也因此，\n我重新想了想\n关于爸爸的事。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "354/TALK",
+            "narrator": "カレン",
+            "text": "でも、その後すぐに\n呼出があって、そして\nあの事件が……。",
+            "zh": "可那之后马上\n就来了召集，然后\n发生了那件事……。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "355/TALK",
+            "narrator": "カレン",
+            "text": "司書の更迭の\nことですけどね、\nでも実はそんなことより！",
+            "zh": "说的是司书被撤换\n的事。\n可实际上，比起那个！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "358/TALK",
+            "narrator": "カレン",
+            "text": "お腹出てるの\n気にしてるところを\n見られたり――",
+            "zh": "在意肚子露出来、\n正在在意的样子\n被看见了——",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "362/TALK",
+            "narrator": "カレン",
+            "text": "実はエッチな子だったの？\nとか聞かれたり――",
+            "zh": "还被问\n其实是个色色的孩子吗？——",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "366/TALK",
+            "narrator": "カレン",
+            "text": "$handle$さんが、\n有給休暇の時に、\n私のココロを任せても――",
+            "zh": "$handle$在\n带薪休假的时候，\n就算把我的心交给你——",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "367/TALK",
+            "narrator": "カレン",
+            "text": "何一つ、心の秘密を\n覗かなかったことに\n感動したんです！",
+            "zh": "也完全没有窥探\n任何心的秘密，\n我好感动！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "369/TALK",
+            "narrator": "カレン",
+            "text": "心の中を\n色々覗かれたことが\n衝撃的でした！",
+            "zh": "心里被\n东看西看，\n我受到了冲击！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "370/SEL",
+            "narrator": "",
+            "text": "すみません……",
+            "zh": "对不起……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "371/ACT",
+            "narrator": "",
+            "text": "すみません……",
+            "zh": "对不起……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "373/TALK",
+            "narrator": "カレン",
+            "text": "あ、違うんです。\n嫌だったわけじゃ\nありませんから。",
+            "zh": "啊，不是的。\n并不是\n因为讨厌。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "375/TALK",
+            "narrator": "カレン",
+            "text": "そういったこともあって、\nわたし、名前を言おうって\n決意したんですよ？",
+            "zh": "也正因为这些，\n我才下决心\n要说出名字。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "376/TALK",
+            "narrator": "カレン",
+            "text": "人格が自分の名前を伝える\nのは、その人格の全てを\n支配されるも同義。",
+            "zh": "人格说出自己的名字，\n就等于那个人格的一切\n任人支配。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "377/TALK",
+            "narrator": "カレン",
+            "text": "それを分かった上で、\nわたしは名前を\nお伝えしました。",
+            "zh": "我知道这一点，\n还是把名字\n告诉了你。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "378/TALK",
+            "narrator": "カレン",
+            "text": "でも$handle$さん\nご存知でしたか？",
+            "zh": "不过，$handle$\n知道这件事吗？",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "379/TALK",
+            "narrator": "カレン",
+            "text": "みんな一様に、\n名前を伝えるデメリット\nしか言いませんけど。",
+            "zh": "大家一律\n只讲说出名字的\n坏处。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "380/TALK",
+            "narrator": "カレン",
+            "text": "メリットがあること。",
+            "zh": "其实也有好处。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "381/SEL",
+            "narrator": "",
+            "text": "わからない",
+            "zh": "不知道",
+            "narrator_zh": ""
+        },
+        {
+            "location": "382/SEL",
+            "narrator": "",
+            "text": "結婚したことになるってこと？",
+            "zh": "是说这就算结婚了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "383/ACT",
+            "narrator": "",
+            "text": "わからない",
+            "zh": "不知道",
+            "narrator_zh": ""
+        },
+        {
+            "location": "384/ACT",
+            "narrator": "",
+            "text": "結婚したことになるってこと？",
+            "zh": "是说这就算结婚了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "386/TALK",
+            "narrator": "カレン",
+            "text": "ち、違いますよう！",
+            "zh": "不、不是的！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "387/TALK",
+            "narrator": "カレン",
+            "text": "それはそれで\n魅力的ですけど！",
+            "zh": "那个本身\n也很有魅力！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "389/TALK",
+            "narrator": "カレン",
+            "text": "正解は、わたしに何か\nあったとき、助けて\nもらえるってことです。",
+            "zh": "正确答案是，我若\n出了什么事，\n就能得到帮助。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "390/TALK",
+            "narrator": "カレン",
+            "text": "私の全てを知ることは、\n私をどうにでも\nできるということ。",
+            "zh": "知晓我的一切，\n就意味着可以\n任意处置我。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "391/TALK",
+            "narrator": "カレン",
+            "text": "別の場所に転移させたり、\n発症させたり、人格改変も\n簡単にできますから。",
+            "zh": "把我转移到别处、\n让我发症、改写人格，\n都会变得很简单。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "392/TALK",
+            "narrator": "カレン",
+            "text": "わたしは、\n$handle$さんを\n信頼していました。",
+            "zh": "我\n信任着\n$handle$。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "393/TALK",
+            "narrator": "カレン",
+            "text": "だから、わたしが万一の\n事態に陥ったときにも、\nきっと助けてくれるって。",
+            "zh": "所以就算我陷入\n万一的境地，\n也一定会来帮我。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "394/TALK",
+            "narrator": "カレン",
+            "text": "そう信じて、\nわたしの名前を\n託したんです。",
+            "zh": "我抱着这个信念，\n把我的名字\n托付了出去。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "395/TALK",
+            "narrator": "カレン",
+            "text": "そして、\nそれは正解でした。",
+            "zh": "而那\n是对的。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "396/TALK",
+            "narrator": "カレン",
+            "text": "$handle$さんが\nわたしに逢いに1xまで\n来てくれたとき――",
+            "zh": "当$handle$\n来到1x见我\n的时候——",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "397/TALK",
+            "narrator": "カレン",
+            "text": "生まれて初めての気持ちを\n体験したんです！",
+            "zh": "我体会到了\n有生以来第一次的心情！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "398/TALK",
+            "narrator": "カレン",
+            "text": "ココロが高揚して、\nあまりの気持ちの高鳴りに\n失神しそうでした。",
+            "zh": "心高高扬起，\n跳得那么厉害，\n几乎要晕过去。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "399/SEL",
+            "narrator": "",
+            "text": "大げさでは？",
+            "zh": "会不会太夸张了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "400/ACT",
+            "narrator": "",
+            "text": "大げさでは？",
+            "zh": "会不会太夸张了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "402/TALK",
+            "narrator": "カレン",
+            "text": "そんな事ありませんよ！",
+            "zh": "才没有那种事！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "403/TALK",
+            "narrator": "カレン",
+            "text": "それに、今わたしが\nこうやってセルフクランを\n目指せること――",
+            "zh": "而且，我现在\n能像这样以自身库兰\n为目标——",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "404/TALK",
+            "narrator": "カレン",
+            "text": "それだって、\n$handle$さんの\nお陰ですから。",
+            "zh": "那也是\n多亏了\n$handle$。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "405/SEL",
+            "narrator": "",
+            "text": "どういう関係が？",
+            "zh": "这有什么关系？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "406/ACT",
+            "narrator": "",
+            "text": "どういう関係が？",
+            "zh": "这有什么关系？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "408/TALK",
+            "narrator": "カレン",
+            "text": "前にもお話したことが\nあったかもしれませんが、\nわたしは弱小人格でした。",
+            "zh": "也许以前\n说过，\n我曾是弱小的人格。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "409/TALK",
+            "narrator": "カレン",
+            "text": "影響力も大きい方では\nありませんでしたし。",
+            "zh": "影响力\n也不算大。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "410/TALK",
+            "narrator": "カレン",
+            "text": "ですが、\n司書という役割になって、\nあなたと出逢って。",
+            "zh": "可是，\n我成了司书，\n遇见了你。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "411/TALK",
+            "narrator": "カレン",
+            "text": "色んな事を学んで、\n経験して、そして\nあなたを好きになって。",
+            "zh": "学了很多，\n经历了很多，然后\n喜欢上了你。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "412/TALK",
+            "narrator": "カレン",
+            "text": "神楽ちゃんのこと、\n千羽鶴のこと、\nみんなの想いのこと――",
+            "zh": "神乐的事，\n千羽鹤的事，\n大家的心意——",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "413/TALK",
+            "narrator": "カレン",
+            "text": "そういったことを\n知って、共感して、私は\n少しずつ強くなりました。",
+            "zh": "知道了这些，有了共鸣，\n我就\n一点一点变强了。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "414/TALK",
+            "narrator": "カレン",
+            "text": "百鶴さんの言う事が\n本当なら。",
+            "zh": "如果百鹤说的\n是真的。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "415/TALK",
+            "narrator": "カレン",
+            "text": "監禁洗脳した時と今とでは\n別人格のようだそうです。",
+            "zh": "听说监禁洗脑的时候和现在，\n简直像另一个人格。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "416/TALK",
+            "narrator": "カレン",
+            "text": "そしてそれを是とするなら\n$handle$さんに\n感謝せねばならないと。",
+            "zh": "若要肯定这一点，\n就必须感谢\n$handle$。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "417/TALK",
+            "narrator": "カレン",
+            "text": "ですから、\nお礼を言わせてください。",
+            "zh": "所以，\n请让我道谢。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "418/TALK",
+            "narrator": "カレン",
+            "text": "本当に……\nありがとうございました！",
+            "zh": "真的……\n谢谢你！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "419/TALK",
+            "narrator": "カレン",
+            "text": "わたしは、\n今から旅立ちます。",
+            "zh": "我\n现在要出发了。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "420/TALK",
+            "narrator": "カレン",
+            "text": "発症とは、\n“ココロの旅”なんです。",
+            "zh": "发症，\n就是“心灵之旅”。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "421/TALK",
+            "narrator": "カレン",
+            "text": "今とは違うわたしに\n出逢う為の旅です……。",
+            "zh": "是一场为了遇见\n另一个自己的旅行……。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "423/TALK",
+            "narrator": "カレン",
+            "text": "そんな旅の門出に、\n$handle$さんが\n導いてくれること――",
+            "zh": "在这样出发的时候，\n能由$handle$\n来引导我——",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "424/TALK",
+            "narrator": "カレン",
+            "text": "本当に嬉しいです。",
+            "zh": "我真的很高兴。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "425/TALK",
+            "narrator": "カレン",
+            "text": "あの！\nお願いがあるんです！",
+            "zh": "那个！\n我有个请求！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "426/TALK",
+            "narrator": "カレン",
+            "text": "嫌かもしれませんけど、\nその――",
+            "zh": "也许你会不愿意，\n那个——",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "427/TALK",
+            "narrator": "カレン",
+            "text": "どうか、わたしと\nキスしてください！！",
+            "zh": "请和我\n接吻！！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "428/TALK",
+            "narrator": "カレン",
+            "text": "わたしにとって、\n大切な思い出に\nなるはずなんです……。",
+            "zh": "这对我来说，\n应该会成为\n重要的回忆……。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "429/TALK",
+            "narrator": "カレン",
+            "text": "だから、\nどうかお願いします！",
+            "zh": "所以，\n拜托你了！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "447/TALK",
+            "narrator": "カレン",
+            "text": "はあっ！",
+            "zh": "哈啊！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "450/TALK",
+            "narrator": "カレン",
+            "text": "はあっ！",
+            "zh": "哈啊！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "456/TALK",
+            "narrator": "カレン",
+            "text": "とっても優しくて\n暖かい想い……。",
+            "zh": "非常温柔、\n温暖的心意……。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "457/TALK",
+            "narrator": "カレン",
+            "text": "ありがとうございます。\nきっと、ずっと残る\n思い出になります。",
+            "zh": "谢谢你。\n这一定会成为\n长久留下的回忆。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "458/SEL",
+            "narrator": "",
+            "text": "$me$もきっとそうなる",
+            "zh": "$me$也一定会这样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "459/SEL",
+            "narrator": "",
+            "text": "そんな終わりみたいなこと言わないで",
+            "zh": "别说得像是结束了一样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "460/ACT",
+            "narrator": "",
+            "text": "$me$もきっとそうなる",
+            "zh": "$me$也一定会这样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "461/TALK",
+            "narrator": "カレン",
+            "text": "はい！",
+            "zh": "好！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "462/ACT",
+            "narrator": "",
+            "text": "そんな終わりみたいなこと言わないで",
+            "zh": "别说得像是结束了一样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "463/TALK",
+            "narrator": "カレン",
+            "text": "そうですよね！\nまだこれからも、\nずっと一緒です！",
+            "zh": "说得对！\n今后也\n会一直在一起！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "465/TALK",
+            "narrator": "カレン",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "466/TALK",
+            "narrator": "カレン",
+            "text": "それじゃ…そろそろ、\n昇華しますね。",
+            "zh": "那么……差不多\n要升华了。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "467/TALK",
+            "narrator": "カレン",
+            "text": "どうか、しっかりと\n見届けてください。",
+            "zh": "请好好\n看着我。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "469/TALK",
+            "narrator": "カレン",
+            "text": "$handle$さんには\n反対されちゃい\nましたけど。",
+            "zh": "虽然被\n$handle$\n反对了。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "470/TALK",
+            "narrator": "カレン",
+            "text": "わたしがここまで\n物事をちゃんと考えられる\nようになったのは――",
+            "zh": "我能把事情\n好好考虑到\n这个地步——",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "471/TALK",
+            "narrator": "カレン",
+            "text": "$handle$さんの\nお陰なんです。迷惑な\n話かもしれませんけど。",
+            "zh": "都是$handle$的\n功劳。也许\n是在给你添麻烦。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "472/TALK",
+            "narrator": "カレン",
+            "text": "でも、わたしは\n感謝しています。",
+            "zh": "可是我\n心怀感激。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "473/TALK",
+            "narrator": "カレン",
+            "text": "ですから……\nどうか、しっかりと\n見届けてください。",
+            "zh": "所以……\n请好好\n看着我。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "476/TALK",
+            "narrator": "カレン",
+            "text": "わたしの\n旅立ちの姿を――！！",
+            "zh": "看着我\n出发的样子——！！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "487/TALK",
+            "narrator": "昇華カレン",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "488/TALK",
+            "narrator": "昇華カレン",
+            "text": "$handle$さん……",
+            "zh": "$handle$……",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "489/SEL",
+            "narrator": "",
+            "text": "かっこいい！",
+            "zh": "好帅！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "490/SEL",
+            "narrator": "",
+            "text": "尊い……",
+            "zh": "太尊了……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "491/SEL",
+            "narrator": "",
+            "text": "大したことなさそうだな",
+            "zh": "看起来也没什么大不了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "492/ACT",
+            "narrator": "",
+            "text": "かっこいい！",
+            "zh": "好帅！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "493/TALK",
+            "narrator": "昇華カレン",
+            "text": "…ありがとうございます。",
+            "zh": "……谢谢你。",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "495/ACT",
+            "narrator": "",
+            "text": "尊い……",
+            "zh": "太尊了……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "497/TALK",
+            "narrator": "昇華カレン",
+            "text": "そんな…\n尊いなんて言われるほど\n凄くありません。",
+            "zh": "哪有……\n还没到被人说太尊了\n那么厉害的程度。",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "498/TALK",
+            "narrator": "昇華カレン",
+            "text": "でも、\nとっても嬉しいです。",
+            "zh": "不过，\n我非常高兴。",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "499/ACT",
+            "narrator": "",
+            "text": "大したことなさそうだな",
+            "zh": "看起来也没什么大不了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "500/TALK",
+            "narrator": "昇華カレン",
+            "text": "そうですよね。",
+            "zh": "是啊。",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "502/TALK",
+            "narrator": "昇華カレン",
+            "text": "でも、それでも\n$handle$さんの為に\n精一杯頑張りますから！",
+            "zh": "可即便如此，\n我也会为了$handle$\n拼尽全力！",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "504/TALK",
+            "narrator": "昇華カレン",
+            "text": "でも、それでも\n想いはだれよりも\n強いですから！",
+            "zh": "可即便如此，\n这份心意也比谁都\n强烈！",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "509/TALK",
+            "narrator": "昇華カレン",
+            "text": "掛け替えのない\n$handle$さん。",
+            "zh": "无可替代的\n$handle$。",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "510/TALK",
+            "narrator": "昇華カレン",
+            "text": "どうか、\nわたしのこと――",
+            "zh": "请你，\n把我——",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "511/TALK",
+            "narrator": "昇華カレン",
+            "text": "よろしくお願いします！！",
+            "zh": "交给你了！！",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "513/TALK",
+            "narrator": "昇華カレン",
+            "text": "さっきはすごいビックリ\nしちゃいましたけど。",
+            "zh": "刚才真是\n吓了一大跳。",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "514/TALK",
+            "narrator": "昇華カレン",
+            "text": "戦う前に、\n$handle$さんと\nお話できて良かったです。",
+            "zh": "能在战斗之前\n和$handle$\n说上话，太好了。",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "515/TALK",
+            "narrator": "昇華カレン",
+            "text": "あのまま先に\n昇華しちゃってたら、",
+            "zh": "要是就那样\n先升华了的话，",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "516/TALK",
+            "narrator": "昇華カレン",
+            "text": "$handle$さんと\n想いを伝えたりできずに\n後悔していたと思います。",
+            "zh": "就不能和$handle$\n传达心意，\n我想我会后悔的。",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "517/TALK",
+            "narrator": "昇華カレン",
+            "text": "……それじゃ…",
+            "zh": "……那么……",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "518/TALK",
+            "narrator": "昇華カレン",
+            "text": "今まで本当に、\nありがとうございました。",
+            "zh": "一直以来，\n真的谢谢你。",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "519/TALK",
+            "narrator": "昇華カレン",
+            "text": "誠心誠意、\n本気の勝負で――",
+            "zh": "诚心诚意，\n来一场认真的较量——",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "520/TALK",
+            "narrator": "昇華カレン",
+            "text": "どうかお願いします！！",
+            "zh": "拜托你了！！",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "522/TALK",
+            "narrator": "昇華カレン",
+            "text": "あなたとわたしに、\n一生の思い出に残る\n素敵なココロの旅を！",
+            "zh": "愿你与我，\n留下一生难忘的\n美妙心灵之旅！",
+            "narrator_zh": "升华卡莲"
+        },
+        {
+            "location": "18/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:Interrupt】</color>\nSystem Interrupted.\n\n必須選択肢が選ばれていません。\n\n<color=green>『STORY27：シン・カグラ』</color>\nにて、選択を行ってから\n再度アクセスしてください。\n",
+            "zh": "<color=green>【TRI-OS Plug-in:Interrupt】</color>\nSystem Interrupted.\n\n尚未选择必须选项。\n\n<color=green>『STORY27：新·神乐』</color>\n请在其中做出选择后\n再次访问。\n",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "22/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>-月--日　 -:-- --</color>\nNull",
+            "zh": "<color=green>-月--日　 -:-- --</color>\nNull",
+            "narrator_zh": "Dialog_EventData"
+        },
+        {
+            "location": "182/DIALOG",
+            "narrator": "Dialog_InfoOS",
+            "text": "\n\nSystem Interrupted.\n\nMODE : DI\nRESTART : SPHERE_MODE.\nMODE : EI\nSET_ADDR: 1x052\nRUN/.",
+            "zh": "\n\nSystem Interrupted.\n\nMODE : DI\nRESTART : SPHERE_MODE.\nMODE : EI\nSET_ADDR: 1x052\nRUN/.",
+            "narrator_zh": "Dialog_InfoOS"
+        },
+        {
+            "location": "435/DIALOG",
+            "narrator": "INFO",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n接続されました。\n\n画面をタップして相手に\n感覚を伝えましょう。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流已\n连接。\n\n点击屏幕向对方\n传达感觉吧。",
+            "narrator_zh": "INFO"
+        },
+        {
+            "location": "454/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n切断されました。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流已\n断开。",
+            "narrator_zh": "NOTICE"
+        }
+    ]
+}

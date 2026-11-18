@@ -1,0 +1,2513 @@
+{
+    "dir": "chap35/daydra/dd_ch05_35_101.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "35502",
+        "cid": "kagura",
+        "title": "002 メインストーリー",
+        "sub_title": "Developer＜前編＞",
+        "title_zh": "002 主线剧情",
+        "sub_title_zh": "Developer＜前篇＞"
+    },
+    "entry": [
+        {
+            "location": "1037/TALK",
+            "narrator": "みやび",
+            "text": "…ちゅうわけやき。",
+            "zh": "……事情就是这样啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1038/TALK",
+            "narrator": "みやび",
+            "text": "うちらがなにを\n目指しちゅうかは、\n全部語ったわけや。",
+            "zh": "我们究竟\n追求着什么，\n全都讲明白咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1039/TALK",
+            "narrator": "アーヤ",
+            "text": "その上で、\n$handle$さんが\n貴方に質問してるのは――",
+            "zh": "在此之上，\n$handle$\n想问你的是——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1040/SEL",
+            "narrator": "",
+            "text": "$me$が$me$に？？",
+            "zh": "$me$问$me$？？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1041/ACT",
+            "narrator": "",
+            "text": "$me$が$me$に？？",
+            "zh": "$me$问$me$？？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1043/TALK",
+            "narrator": "アーヤ",
+            "text": "ごめんなさい。こちらの\n$handle$さんが\n貴方に質問してるのは――",
+            "zh": "抱歉。是这边的\n$handle$\n在问你——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1044/TALK",
+            "narrator": "アーヤ",
+            "text": "この計画に\n協力してくれるかどうか。",
+            "zh": "愿不愿意\n协助这个计划。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1045/SEL",
+            "narrator": "",
+            "text": "する",
+            "zh": "协助",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1046/SEL",
+            "narrator": "",
+            "text": "しない",
+            "zh": "不协助",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1047/SEL",
+            "narrator": "",
+            "text": "3人とも絶対に洗脳を解いて助けてあげるから！",
+            "zh": "我一定会解开你们三个人的洗脑，救你们出去的！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1048/ACT",
+            "narrator": "",
+            "text": "する",
+            "zh": "协助",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1049/TALK",
+            "narrator": "アーヤ",
+            "text": "ありがとう。",
+            "zh": "谢谢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1051/ACT",
+            "narrator": "",
+            "text": "しない",
+            "zh": "不协助",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1054/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…だそうよ？",
+            "zh": "……说是这样哦？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "1055/TALK",
+            "narrator": "みやび",
+            "text": "うちらの役目は、\nこれで終了かね？",
+            "zh": "我们的差事，\n这就结束咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1058/TALK",
+            "narrator": "アーヤ",
+            "text": "あちらの人に、\nミレニアム計画を\n説明する――",
+            "zh": "向那边的人\n说明千禧年\n计划——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1059/TALK",
+            "narrator": "アーヤ",
+            "text": "それしか聞いてないから\nこれでお終いじゃない？",
+            "zh": "我只听说了这一件事，\n到这就结束了吧？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1061/TALK",
+            "narrator": "プレイヤー",
+            "text": "というわけで、彼女らの過去の記憶に説明してもらいました",
+            "zh": "总而言之，我请她们过去的记忆说明了一下",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1062/SEL",
+            "narrator": "",
+            "text": "もしかしてヤラセ？",
+            "zh": "该不会是演出来的吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1063/SEL",
+            "narrator": "",
+            "text": "思い入れが無いからって、彼女達を道具のように使わないで！",
+            "zh": "别因为没有感情，就把她们当成道具一样使唤！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1064/ACT",
+            "narrator": "",
+            "text": "もしかしてヤラセ？",
+            "zh": "该不会是演出来的吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1065/TALK",
+            "narrator": "プレイヤー",
+            "text": "記憶だから、もちろん彼女達の本心です。日本に入る前の、だけど",
+            "zh": "因为是记忆，当然是她们的真心话。虽说是在进入日本之前就是了",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1066/ACT",
+            "narrator": "",
+            "text": "思い入れが無いからって、彼女達を道具のように使わないで！",
+            "zh": "别因为没有感情，就把她们当成道具一样使唤！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1067/TALK",
+            "narrator": "プレイヤー",
+            "text": "思い入れあるよ、$me$は彼女らが日本に入る前までのナビだったんだから",
+            "zh": "我有感情的啊，因为在她们进入日本之前，$me$一直都是她们的导航呢",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1068/TALK",
+            "narrator": "プレイヤー",
+            "text": "もちろん、名前だって$handle$じゃないよ、ちゃんと自分のアカがある",
+            "zh": "当然，名字也不是$handle$啦，我好歹有自己的账号",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1070/TALK",
+            "narrator": "プレイヤー",
+            "text": "それで早速本題に戻すんだけど、ミレニアム計画には協力できない感じ？",
+            "zh": "那言归正传，看样子你是没法协助千禧年计划了对吧？",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1071/SEL",
+            "narrator": "",
+            "text": "さっき言ったとおり。出来るわけがない",
+            "zh": "就跟刚才说的一样。怎么可能答应",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1072/ACT",
+            "narrator": "",
+            "text": "さっき言ったとおり。出来るわけがない",
+            "zh": "就跟刚才说的一样。怎么可能答应",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1074/TALK",
+            "narrator": "プレイヤー",
+            "text": "じゃあ申し訳ないけど、前にした取引、今こそ使わせてもらう",
+            "zh": "那抱歉了，之前做的交易，现在就让我用一下吧",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1075/SEL",
+            "narrator": "",
+            "text": "本気か？",
+            "zh": "你是认真的？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1076/SEL",
+            "narrator": "",
+            "text": "なんのことやら？",
+            "zh": "你在说什么呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1077/ACT",
+            "narrator": "",
+            "text": "本気か？",
+            "zh": "你是认真的？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1078/ACT",
+            "narrator": "",
+            "text": "なんのことやら？",
+            "zh": "你在说什么呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1079/TALK",
+            "narrator": "プレイヤー",
+            "text": "とぼけても無駄だって",
+            "zh": "装傻也没用啦",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1080/SEL",
+            "narrator": "",
+            "text": "何が望みだ？",
+            "zh": "你想要什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1081/ACT",
+            "narrator": "",
+            "text": "何が望みだ？",
+            "zh": "你想要什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1084/TALK",
+            "narrator": "プレイヤー",
+            "text": "今回は、君の方が譲歩して欲しい",
+            "zh": "这次，希望是你这边做出让步",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1085/SEL",
+            "narrator": "",
+            "text": "譲歩する",
+            "zh": "让步",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1086/SEL",
+            "narrator": "",
+            "text": "譲歩しない",
+            "zh": "不让步",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1087/ACT",
+            "narrator": "",
+            "text": "譲歩する",
+            "zh": "让步",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1089/ACT",
+            "narrator": "",
+            "text": "譲歩しない",
+            "zh": "不让步",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1090/TALK",
+            "narrator": "プレイヤー",
+            "text": "約束が違うし！！",
+            "zh": "这跟说好的不一样啊！！",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1091/SEL",
+            "narrator": "",
+            "text": "無理なモノは無理だ",
+            "zh": "做不到的事就是做不到",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1092/ACT",
+            "narrator": "",
+            "text": "無理なモノは無理だ",
+            "zh": "做不到的事就是做不到",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1095/TALK",
+            "narrator": "プレイヤー",
+            "text": "確かに、$me$達の利害は相反する",
+            "zh": "确实，$me$们的利害是相反的",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1097/TALK",
+            "narrator": "プレイヤー",
+            "text": "けれども、約束したことを破るというのは正直倫理に反すると思うよ",
+            "zh": "但是，违背约定好的事，老实说我觉得有违伦理啊",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1099/TALK",
+            "narrator": "プレイヤー",
+            "text": "$me$達はお互い大事な人がいて、その人のために頑張っている",
+            "zh": "$me$们彼此都有重要的人，都是为了那个人在努力",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1101/TALK",
+            "narrator": "プレイヤー",
+            "text": "そこがお互いの類似点だということは共有できた",
+            "zh": "这一点是我们之间的共同之处，之前也达成共识了",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1102/SEL",
+            "narrator": "",
+            "text": "同感だ",
+            "zh": "同感",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1103/SEL",
+            "narrator": "",
+            "text": "いや、してないけど？",
+            "zh": "不，并没有吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1104/ACT",
+            "narrator": "",
+            "text": "同感だ",
+            "zh": "同感",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1105/ACT",
+            "narrator": "",
+            "text": "いや、してないけど？",
+            "zh": "不，并没有吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1106/TALK",
+            "narrator": "プレイヤー",
+            "text": "冗談を言うような状況じゃないから",
+            "zh": "现在可不是开玩笑的状况",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1109/TALK",
+            "narrator": "プレイヤー",
+            "text": "なりふり構わないというなら、それは$me$だって同じだよ",
+            "zh": "要是不顾体面乱来的话，$me$这边也一样哦",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1111/TALK",
+            "narrator": "プレイヤー",
+            "text": "その中でもフェアにやるのが紳士的な交渉だと思うんだけど",
+            "zh": "不过我觉得即便如此也要公平行事，才叫有风度的谈判嘛",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1112/SEL",
+            "narrator": "",
+            "text": "同感だ",
+            "zh": "同感",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1113/ACT",
+            "narrator": "",
+            "text": "同感だ",
+            "zh": "同感",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1115/TALK",
+            "narrator": "プレイヤー",
+            "text": "じゃあどうして君は、一方的に約束を破るの？",
+            "zh": "那你为什么还要单方面违背约定？",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1117/TALK",
+            "narrator": "プレイヤー",
+            "text": "攻撃ボタン問題でいうなら、$me$はボタンを押さなかったわけで",
+            "zh": "拿攻击按钮问题来说，$me$可是没有按下按钮的那一边",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1119/TALK",
+            "narrator": "プレイヤー",
+            "text": "それを見届けた後に、君がボタンを押した状態だと言えば、わかるかな",
+            "zh": "亲眼确认了这一点之后，相当于反倒是你把按钮按了下去，这样说你能明白吗",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1120/SEL",
+            "narrator": "",
+            "text": "戦争なんてのは奪ったもの勝ちなんだよ",
+            "zh": "所谓战争，本来就是先下手抢到的人赢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1121/SEL",
+            "narrator": "",
+            "text": "それくらい本気なんだよ",
+            "zh": "我就是这么认真",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1122/ACT",
+            "narrator": "",
+            "text": "戦争なんてのは奪ったもの勝ちなんだよ",
+            "zh": "所谓战争，本来就是先下手抢到的人赢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1123/TALK",
+            "narrator": "プレイヤー",
+            "text": "本気か！？",
+            "zh": "你是认真的！？",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1125/ACT",
+            "narrator": "",
+            "text": "それくらい本気なんだよ",
+            "zh": "我就是这么认真",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1127/TALK",
+            "narrator": "プレイヤー",
+            "text": "確かに彼女たちが大事なのはわかる",
+            "zh": "确实，我能理解她们对你很重要",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1129/TALK",
+            "narrator": "プレイヤー",
+            "text": "なりふり構ってられないのもわかる",
+            "zh": "也理解你顾不上那么多了",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1130/SEL",
+            "narrator": "",
+            "text": "わかってもらえて嬉しい",
+            "zh": "你能理解真是太好了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1131/SEL",
+            "narrator": "",
+            "text": "問題ある行為だというのは理解はしている",
+            "zh": "我理解这是有问题的行为",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1132/ACT",
+            "narrator": "",
+            "text": "わかってもらえて嬉しい",
+            "zh": "你能理解真是太好了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1133/TALK",
+            "narrator": "プレイヤー",
+            "text": "受け入れたわけじゃないからお礼はいらない",
+            "zh": "我又不是接受了，不用道谢",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1135/ACT",
+            "narrator": "",
+            "text": "問題ある行為だというのは理解している",
+            "zh": "我理解这是有问题的行为",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1136/TALK",
+            "narrator": "プレイヤー",
+            "text": "理解しているとは思えない",
+            "zh": "我可看不出你有理解",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1139/TALK",
+            "narrator": "プレイヤー",
+            "text": "無理を通せば道理が引っ込むんだけどなぁ",
+            "zh": "硬要蛮干的话，道理可就讲不通了啊",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1141/TALK",
+            "narrator": "プレイヤー",
+            "text": "まあ、君が邪魔するって言っても$me$は推し進めるだけなんだけど",
+            "zh": "嘛，不过就算你说要妨碍，$me$也只会继续推进而已",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1142/SEL",
+            "narrator": "",
+            "text": "どうするつもりなの？",
+            "zh": "你打算怎么办？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1143/SEL",
+            "narrator": "",
+            "text": "和解は無理なんだね？",
+            "zh": "和解是不可能的吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1144/ACT",
+            "narrator": "",
+            "text": "そっちはどうするつもりなの？",
+            "zh": "你那边打算怎么办？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1145/TALK",
+            "narrator": "プレイヤー",
+            "text": "君と同じことをするだけ",
+            "zh": "我也只是做和你一样的事而已",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1147/ACT",
+            "narrator": "",
+            "text": "和解は無理なんだね？",
+            "zh": "和解是不可能的吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1148/TALK",
+            "narrator": "プレイヤー",
+            "text": "その機会を逃したのはそっちだってば",
+            "zh": "错过那个机会的明明是你那边吧",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1151/TALK",
+            "narrator": "プレイヤー",
+            "text": "$me$は$me$のできる限りの最善を尽くすことにする",
+            "zh": "$me$决定竭尽$me$所能去做到最好",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1153/ACT",
+            "narrator": "",
+            "text": "3人とも絶対に洗脳を解いて助けてあげるから！",
+            "zh": "我一定会解开你们三个人的洗脑，救你们出去的！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1155/TALK",
+            "narrator": "ガブリエラ",
+            "text": "洗脳なんて\nされてないわよ！",
+            "zh": "我们才没有\n被洗脑呢！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "1156/TALK",
+            "narrator": "みやび",
+            "text": "あーなるほどね。\nもしかするとお前さん、\n少々勘違いしちゅうやも。",
+            "zh": "啊——原来如此。\n搞不好你，\n是稍微有点误会咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1159/TALK",
+            "narrator": "ガブリエラ",
+            "text": "どういうこと？",
+            "zh": "什么意思？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "1160/TALK",
+            "narrator": "アーヤ",
+            "text": "ちゃんと説明して\nちょうだい？",
+            "zh": "好好跟人家\n解释清楚吧？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1162/TALK",
+            "narrator": "みやび",
+            "text": "簡単に言うと、\n「助けてあげる」ちゅう\n言葉の部分やよ。",
+            "zh": "简单讲就是，\n「救你们」\n这句词的问题咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1163/TALK",
+            "narrator": "みやび",
+            "text": "助けるゆうんは、\n現状が進行形で、かつ\n未来を変えられる場合。",
+            "zh": "所谓救人，\n是指现状还在进行中，\n而且未来还能改变的时候。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1164/TALK",
+            "narrator": "みやび",
+            "text": "すなわち、時間軸の\n最先端にいる場合にのみ\n有効なことや。",
+            "zh": "也就是说，只在\n身处时间轴最前端时\n才有效咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1165/TALK",
+            "narrator": "アーヤ",
+            "text": "なるほど。\nけど、私達は過去の記憶\nそのものだから――",
+            "zh": "原来如此。\n不过，我们本身就是\n过去的记忆——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1166/TALK",
+            "narrator": "アーヤ",
+            "text": "助けるっていうのは\nなんていうか、\nお門違いってこと？",
+            "zh": "所以说“救我们”什么的，\n该怎么讲呢，\n算是找错对象了？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1167/TALK",
+            "narrator": "みやび",
+            "text": "まあ、そうゆうことやね。",
+            "zh": "嘛，就是这么回事咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1168/TALK",
+            "narrator": "みやび",
+            "text": "お前さんは今、テープ\nレコーダーに向かって\n助ける言うてる感じやよ？",
+            "zh": "你现在这架势，\n就跟对着录音机\n喊救你们差不多咯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1169/TALK",
+            "narrator": "アーヤ",
+            "text": "だから、貴方がここで\n出来ることは――",
+            "zh": "所以，你在这里\n能做的事——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1170/TALK",
+            "narrator": "ガブリエラ",
+            "text": "説明を聞いて、それに\n回答することだけ。\nどうする？",
+            "zh": "就只有听完说明，\n然后回答而已。\n你打算怎么选？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "1171/SEL",
+            "narrator": "",
+            "text": "協力する",
+            "zh": "协助",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1172/SEL",
+            "narrator": "",
+            "text": "協力しない",
+            "zh": "不协助",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1173/ACT",
+            "narrator": "",
+            "text": "協力する",
+            "zh": "协助",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1175/ACT",
+            "narrator": "",
+            "text": "協力しない",
+            "zh": "不协助",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1182/TALK",
+            "narrator": "アーヤ",
+            "text": "外はもう、\n準備が整ってるのね。",
+            "zh": "外面已经\n准备就绪了吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1183/SEL",
+            "narrator": "",
+            "text": "準備って？",
+            "zh": "准备是指？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1184/ACT",
+            "narrator": "",
+            "text": "準備って？",
+            "zh": "准备是指？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1186/TALK",
+            "narrator": "みやび",
+            "text": "うちら３人が死に、\nつばめちゃんは\n歌で浄化される。",
+            "zh": "我们三个死去，\n燕则会\n被歌声净化。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1187/TALK",
+            "narrator": "みやび",
+            "text": "特につばめちゃんは\n卯月神楽の歌で、完全に\n統一された意識を得る。",
+            "zh": "尤其是燕，会在\n卯月神乐的歌声里，\n获得完全统一的意识。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1188/TALK",
+            "narrator": "みやび",
+            "text": "純粋なる無私の\n“世界”になるんよ。",
+            "zh": "变成纯粹无私的\n“世界”哦。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1189/TALK",
+            "narrator": "みやび",
+            "text": "その準備が整った、\nっちゅうことや。",
+            "zh": "就是说那些准备，\n都已经妥当咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1190/TALK",
+            "narrator": "アーヤ",
+            "text": "私達は、逢瀬さんが\nフェノメノンを発症する\n前に約束した。",
+            "zh": "我们在逢濑\n引发PhenoMENON之前\n约定好了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1191/TALK",
+            "narrator": "アーヤ",
+            "text": "皆でそれぞれ“世界”に\nなり、この世に安寧を\nもたらそう…って。",
+            "zh": "大家各自成为“世界”，\n为这个世间带来\n安宁……这样。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1192/TALK",
+            "narrator": "ガブリエラ",
+            "text": "まずはつばめだったから\nあたし達は応援と調査で\n中に入ったってわけ。",
+            "zh": "因为打头阵的是燕，\n我们才作为支援和调查\n进了里面。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "1193/TALK",
+            "narrator": "ガブリエラ",
+            "text": "中で何があったかは\n良くわからないけど、\nそれでもここまで来れた。",
+            "zh": "里面发生了什么\n不太清楚，\n不过好歹也走到这一步了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "1194/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あとは、つばめ自身が\n蒸着をするだけって\nいうところまで来たのよ。",
+            "zh": "接下来就只差\n燕自己\n进行蒸镀这一步了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "1195/TALK",
+            "narrator": "ガブリエラ",
+            "text": "蒸着が完了すれば、\nミレニアム計画の\n第一段階は終了。",
+            "zh": "只要蒸镀完成，\n千禧年计划的\n第一阶段就结束了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "1196/SEL",
+            "narrator": "",
+            "text": "そんなことしてなんになる？",
+            "zh": "做那种事又能怎样？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1197/ACT",
+            "narrator": "",
+            "text": "そんなことしてなんになる？",
+            "zh": "做那种事又能怎样？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1199/TALK",
+            "narrator": "ガブリエラ",
+            "text": "わからない？\n世界全体が\n安寧が訪れるのよ。",
+            "zh": "这都不懂吗？\n整个世界都会\n迎来安宁哦。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "1200/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そもそも、\n現代社会が上手く\nいかないのって…。",
+            "zh": "说到底，\n现代社会之所以\n运转不顺……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "1201/TALK",
+            "narrator": "ガブリエラ",
+            "text": "誰もが現実に\n絶望しているからなのよ？",
+            "zh": "还不是因为所有人都对现实\n感到绝望吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "1203/TALK",
+            "narrator": "アーヤ",
+            "text": "努力しても報われない\nことを、みんなは\nわかっている。",
+            "zh": "大家都很清楚，\n就算努力也\n得不到回报。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1204/TALK",
+            "narrator": "アーヤ",
+            "text": "だから、世界は\n負のスパイラルに\n陥る。",
+            "zh": "所以，世界才会\n陷入负面的\n恶性循环。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1205/TALK",
+            "narrator": "アーヤ",
+            "text": "けど、望むべく\n輝かしい世界が\nこの日本に登場し…。",
+            "zh": "可是，如果人们期盼的\n光辉世界\n在这个日本登场……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1206/TALK",
+            "narrator": "アーヤ",
+            "text": "後に世界中が\nこの恩恵を被れると\nわかったとしたら？",
+            "zh": "而且之后全世界\n都会明白自己也能\n蒙受这份恩泽的话呢？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1208/TALK",
+            "narrator": "ガブリエラ",
+            "text": "みんな、それを無心に\n求めて、最終的には\n争いは減るわ。",
+            "zh": "大家都会纯粹地\n去追求它，最终\n争端就会减少。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "1209/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ゼロになる、とまでは\n言わないけど。",
+            "zh": "虽说还不至于\n变成零就是了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "1210/TALK",
+            "narrator": "みやび",
+            "text": "神の国のような\n幻想を語っちゅう\nわけやない。",
+            "zh": "我可不是在讲什么\n神之国度那样的\n幻想啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1211/TALK",
+            "narrator": "みやび",
+            "text": "けんど、生まれ\n変わって世界に姿を\n現す日本のような…。",
+            "zh": "但是，像是\n脱胎换骨重新展现在\n世界面前的日本那样……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1212/TALK",
+            "narrator": "みやび",
+            "text": "それに限りなく近い\n奇跡が起これば…。",
+            "zh": "要是能发生无限接近于此的\n奇迹……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1214/TALK",
+            "narrator": "みやび",
+            "text": "世界は、間違いなく\n大きく変わるぞね。",
+            "zh": "世界毫无疑问\n会大变样咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1215/TALK",
+            "narrator": "アーヤ",
+            "text": "本当は私達が\n自分の意識を持って\nフェノメノンで活動し――",
+            "zh": "本来我们是应该\n带着自己的意识\n在PhenoMENON里活动——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1216/TALK",
+            "narrator": "ガブリエラ",
+            "text": "今の状況を作り出す\n筈だったのよね。",
+            "zh": "原本就应该由我们来\n造就现在的局面才对吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "1217/TALK",
+            "narrator": "みやび",
+            "text": "それが出来んかったのが\n心残りっちゃあ\n心残りやけんど――",
+            "zh": "没能做到这一点，\n要说遗憾\n倒也确实遗憾，但是——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1218/TALK",
+            "narrator": "みやび",
+            "text": "うちらが機能して\nいなくても、今それが\n実現するちゅうことは。",
+            "zh": "就算我们没起作用，\n现在它还是实现了，\n这说明嘛——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1219/TALK",
+            "narrator": "アーヤ",
+            "text": "ちょっと複雑では\nあるけど、本当に\n良かったと思う。",
+            "zh": "虽然心情有点复杂，\n但我觉得\n真是太好了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "1220/SEL",
+            "narrator": "",
+            "text": "具体的には、これからどうなるの…？",
+            "zh": "具体来说，接下来会怎样……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1221/ACT",
+            "narrator": "",
+            "text": "具体的には、これからどうなるの…？",
+            "zh": "具体来说，接下来会怎样……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1223/TALK",
+            "narrator": "ガブリエラ",
+            "text": "今、繭の中で唄われている\n神楽の歌が\n終わる迄の間に――",
+            "zh": "就在现在茧里面唱着的\n神乐的歌声\n结束之前——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "1224/TALK",
+            "narrator": "ガブリエラ",
+            "text": "つばめを蒸着させて、\nあたし達も昇華する。",
+            "zh": "让燕完成蒸镀，\n我们也一起升华。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "1225/SEL",
+            "narrator": "",
+            "text": "そんなの無理でしょ、記録映像通り進むなら、このまま神楽の歌は終わるよ",
+            "zh": "那不可能吧，如果照记录影像那样发展，神乐的歌就这么结束了哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1226/ACT",
+            "narrator": "",
+            "text": "そんなの無理でしょ、記録映像通り進むなら、このまま神楽の歌は終わるよ",
+            "zh": "那不可能吧，如果照记录影像那样发展，神乐的歌就这么结束了哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1228/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だから、あのナビが\nリプレイスしに\n来てるんでしょ？",
+            "zh": "所以，那个导航\n才会过来进行\n替换的吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "1229/TALK",
+            "narrator": "みやび",
+            "text": "あやつは、\nコンソール使って\n発症制御が出来るきね。",
+            "zh": "那家伙，\n能用控制台\n控制发症啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1230/TALK",
+            "narrator": "みやび",
+            "text": "つばめちゃんと\nうちらを\n導いてくれるちや。",
+            "zh": "会引领\n燕还有\n我们滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "1232/TALK",
+            "narrator": "プレイヤー",
+            "text": "そういうことです",
+            "zh": "就是这么回事",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1233/SEL",
+            "narrator": "",
+            "text": "なるほど、わかった",
+            "zh": "原来如此，明白了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1234/SEL",
+            "narrator": "",
+            "text": "いや、わからないし",
+            "zh": "不，完全不明白",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1235/ACT",
+            "narrator": "",
+            "text": "なるほど、わかった",
+            "zh": "原来如此，明白了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1236/ACT",
+            "narrator": "",
+            "text": "いや、わからないし",
+            "zh": "不，完全不明白",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1237/TALK",
+            "narrator": "プレイヤー",
+            "text": "わかろうとしてないだけじゃ…",
+            "zh": "只是你不想去理解吧……",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1240/TALK",
+            "narrator": "プレイヤー",
+            "text": "だから、今回は$me$達にとって重大な局面なんだ",
+            "zh": "所以，这次对$me$们来说是重大的局面",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1242/TALK",
+            "narrator": "プレイヤー",
+            "text": "本当に、頼むから邪魔しないでほしい",
+            "zh": "真的，拜托别来妨碍我",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1244/TALK",
+            "narrator": "プレイヤー",
+            "text": "発症ボタンキャンセルとか、ホント勘弁だからね？",
+            "zh": "取消发症按钮什么的，真的饶了我吧？",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1246/SEL",
+            "narrator": "",
+            "text": "いや、発症ボタンとかどこにもないし",
+            "zh": "不是，发症按钮什么的哪儿也没有啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1247/ACT",
+            "narrator": "",
+            "text": "いや、発症ボタンとかどこにもないし",
+            "zh": "不是，发症按钮什么的哪儿也没有啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1249/TALK",
+            "narrator": "プレイヤー",
+            "text": "「戻る」と「情報」の間にあるじゃん",
+            "zh": "不就在“返回”和“信息”中间嘛",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1250/SEL",
+            "narrator": "",
+            "text": "ないってば！！",
+            "zh": "都说了没有啊！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1251/ACT",
+            "narrator": "",
+            "text": "ないってば！！",
+            "zh": "都说了没有啊！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1254/TALK",
+            "narrator": "プレイヤー",
+            "text": "え、マジで？",
+            "zh": "诶，真的假的？",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1256/TALK",
+            "narrator": "プレイヤー",
+            "text": "ＯＳの設定の違いかな？",
+            "zh": "难道是OS的设定不同吗？",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1257/SEL",
+            "narrator": "",
+            "text": "そっちにはあるの？",
+            "zh": "你那边有吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1258/ACT",
+            "narrator": "",
+            "text": "そっちにはあるの？",
+            "zh": "你那边有吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1260/TALK",
+            "narrator": "プレイヤー",
+            "text": "いや、ごめん、今の話忘れてくれていいから",
+            "zh": "不，抱歉，刚才的话就当忘了吧",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1261/SEL",
+            "narrator": "",
+            "text": "そんなの無理だから！",
+            "zh": "怎么可能忘掉啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1262/ACT",
+            "narrator": "",
+            "text": "そんなの無理だから！",
+            "zh": "怎么可能忘掉啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1264/TALK",
+            "narrator": "プレイヤー",
+            "text": "黙認してくれるだけでいいから",
+            "zh": "只要你肯默许就行了",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1265/SEL",
+            "narrator": "",
+            "text": "発症ボタン押さないでよ！？",
+            "zh": "别按发症按钮啊！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1266/SEL",
+            "narrator": "",
+            "text": "$me$も押したかった！",
+            "zh": "$me$也想按啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1267/ACT",
+            "narrator": "",
+            "text": "発症ボタン押さないでよ！？",
+            "zh": "别按发症按钮啊！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1268/TALK",
+            "narrator": "プレイヤー",
+            "text": "君は同情するけど、こればかりはごめんね",
+            "zh": "我很同情你，但这事实在抱歉啦",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1269/ACT",
+            "narrator": "",
+            "text": "$me$も押したかった！",
+            "zh": "$me$也想按啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1270/TALK",
+            "narrator": "プレイヤー",
+            "text": "なら、押せる$me$を応援してて！",
+            "zh": "那就为能按的$me$加油吧！",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1273/TALK",
+            "narrator": "プレイヤー",
+            "text": "君の世界に、素敵な心の旅を！",
+            "zh": "愿你的世界，拥有一段美好的心灵之旅！",
+            "narrator_zh": "玩家"
+        },
+        {
+            "location": "1318/SEL",
+            "narrator": "",
+            "text": "月神楽！！",
+            "zh": "月神乐！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1319/ACT",
+            "narrator": "",
+            "text": "月神楽！！",
+            "zh": "月神乐！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1322/TALK",
+            "narrator": "月神楽",
+            "text": "えっ！？",
+            "zh": "诶！？",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1323/TALK",
+            "narrator": "月神楽",
+            "text": "ちょっと、\n早すぎですっ！！",
+            "zh": "那个、\n也太快了吧！！",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1324/SEL",
+            "narrator": "",
+            "text": "思い止まって！",
+            "zh": "快住手！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1325/SEL",
+            "narrator": "",
+            "text": "倒すよ！",
+            "zh": "我要打倒你！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1326/ACT",
+            "narrator": "",
+            "text": "思い止まって！",
+            "zh": "快住手！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1327/TALK",
+            "narrator": "月神楽",
+            "text": "無理ですよ！\nもう時間も無いんです！",
+            "zh": "不可能哦！\n已经没有时间了！",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1328/SEL",
+            "narrator": "",
+            "text": "$me$がライフギャザーをちゃんと護るから、$me$に任せて！",
+            "zh": "$me$会好好守护生命聚合器的，交给$me$吧！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1329/SEL",
+            "narrator": "",
+            "text": "$me$が神楽をちゃんと護るから、$me$に任せて！",
+            "zh": "$me$会好好守护神乐的，交给$me$吧！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1330/ACT",
+            "narrator": "",
+            "text": "$me$がライフギャザーをちゃんと護るから、$me$に任せて！",
+            "zh": "$me$会好好守护生命聚合器的，交给$me$吧！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1331/ACT",
+            "narrator": "",
+            "text": "$me$が神楽をちゃんと護るから、$me$に任せて！",
+            "zh": "$me$会好好守护神乐的，交给$me$吧！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1333/TALK",
+            "narrator": "月神楽",
+            "text": "どうしてそんなに\n楽観的に\nなれるんですか？",
+            "zh": "为什么你\n能乐观到\n这种地步呢？",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1334/TALK",
+            "narrator": "月神楽",
+            "text": "ライフギャザーがある以上\n“彼ら”は私を\n付け狙うんですよ？",
+            "zh": "只要生命聚合器还在，\n“他们”就会\n紧盯着我不放哦？",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1335/TALK",
+            "narrator": "月神楽",
+            "text": "もし彼らがいなくなっても\nそれに代わる何かが\n私のところにやってくる。",
+            "zh": "就算他们不在了，\n也会有别的什么东西\n找上我来。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1336/TALK",
+            "narrator": "月神楽",
+            "text": "そうじゃありませんか？",
+            "zh": "难道不是吗？",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1337/TALK",
+            "narrator": "月神楽",
+            "text": "網膜認証の金庫を持てば\n目玉をくり抜かれ、",
+            "zh": "拿着视网膜认证的金库\n就会被挖掉眼珠，",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1338/TALK",
+            "narrator": "月神楽",
+            "text": "指紋認証の金庫を持てば\n指を切られるんです。",
+            "zh": "拿着指纹认证的金库\n就会被砍断手指。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1339/TALK",
+            "narrator": "月神楽",
+            "text": "自分とは切っても\n切り離せないものに、\n世界中が注目してる。",
+            "zh": "全世界都在紧盯着\n和自己密不可分\n的东西。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1340/TALK",
+            "narrator": "月神楽",
+            "text": "果たして1年後…いえ、\n数ヶ月後に私は\n生きているでしょうか？",
+            "zh": "究竟1年后……不，\n几个月后，我还能\n活着吗？",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1341/TALK",
+            "narrator": "月神楽",
+            "text": "いえ、生きてますよね。\n脳の記憶野だけは絶対に\n死なせないでしょうから。",
+            "zh": "不，大概还活着吧。\n因为他们绝对不会让大脑的\n记忆区死掉的。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1342/TALK",
+            "narrator": "月神楽",
+            "text": "じゃあ、\nどうすればいい？",
+            "zh": "那么，\n该怎么办？",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1343/TALK",
+            "narrator": "月神楽",
+            "text": "答えは簡単です。\n金庫の方を\n破壊すればいいんです。",
+            "zh": "答案很简单。\n只要把金库这边\n毁掉就行了。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1344/TALK",
+            "narrator": "月神楽",
+            "text": "価値がゼロになるまで\n破壊すれば、私の価値も\nゼロになりますから。",
+            "zh": "只要毁到价值归零，\n我的价值也就\n跟着归零了。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1345/SEL",
+            "narrator": "",
+            "text": "$me$が護ってやるから！",
+            "zh": "$me$会保护你的！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1346/SEL",
+            "narrator": "",
+            "text": "返す言葉もない。同情するよ",
+            "zh": "无言以对。我同情你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1347/ACT",
+            "narrator": "",
+            "text": "$me$が護ってやるから！",
+            "zh": "$me$会保护你的！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1348/TALK",
+            "narrator": "月神楽",
+            "text": "は？",
+            "zh": "哈？",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1349/TALK",
+            "narrator": "月神楽",
+            "text": "どうやって？\n具体的に言ってみてよ。",
+            "zh": "怎么保护？\n具体说说看啊。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1350/TALK",
+            "narrator": "月神楽",
+            "text": "硝子の向こうから？\nノックでもしてくれるの？",
+            "zh": "隔着玻璃吗？\n帮我敲敲玻璃吗？",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1351/TALK",
+            "narrator": "月神楽",
+            "text": "自分の立場\n弁えて言えよな。",
+            "zh": "掂量清楚自己的立场\n再开口啊。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1352/SEL",
+            "narrator": "",
+            "text": "ごめんなさい",
+            "zh": "对不起",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1353/SEL",
+            "narrator": "",
+            "text": "キレそう",
+            "zh": "快要火大了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1354/ACT",
+            "narrator": "",
+            "text": "ごめんなさい",
+            "zh": "对不起",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1355/TALK",
+            "narrator": "月神楽",
+            "text": "私は本気で今、\n命の危機を\n感じているんです。",
+            "zh": "我现在是真的\n感受到了\n性命的危机。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1356/TALK",
+            "narrator": "月神楽",
+            "text": "だから、軽く\n言わないでください。",
+            "zh": "所以，请不要\n轻飘飘地说出口。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1357/TALK",
+            "narrator": "月神楽",
+            "text": "……でも、ごめんなさい。",
+            "zh": "……不过，对不起。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1358/TALK",
+            "narrator": "月神楽",
+            "text": "ちょっと言い過ぎました。",
+            "zh": "我刚才话有点说重了。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1359/TALK",
+            "narrator": "月神楽",
+            "text": "貴方だって、私の力に\nなりたいって思って\nくれているんですよね。",
+            "zh": "我也知道，你也是\n真心想帮我的忙\n才这么说的。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1360/TALK",
+            "narrator": "月神楽",
+            "text": "私も出来ることなら\n貴方に守って欲しい。",
+            "zh": "要是可以的话，\n我也想让你来保护我。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1361/TALK",
+            "narrator": "月神楽",
+            "text": "それは、\nいつも思ってました。",
+            "zh": "这件事，\n我一直都这么想。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1362/TALK",
+            "narrator": "月神楽",
+            "text": "いえ、むしろそれは\n思いよりも、願いに\n近いものでした。",
+            "zh": "不，倒不如说那与其说是想法，\n更接近于\n愿望了。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1363/TALK",
+            "narrator": "月神楽",
+            "text": "けど、それは\n色んな意味で\n無理なんです。",
+            "zh": "可是，那无论从\n各种意义上\n都做不到。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1364/SEL",
+            "narrator": "",
+            "text": "異世界の住人だから？",
+            "zh": "因为是异世界的居民？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1365/ACT",
+            "narrator": "",
+            "text": "異世界の住人だから？",
+            "zh": "因为是异世界的居民？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1367/TALK",
+            "narrator": "月神楽",
+            "text": "もちろんそれも\nありますけど、仮にそれが\n解決出来たとしても――",
+            "zh": "当然也有那个原因，\n但就算那个问题\n能够解决——",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1368/TALK",
+            "narrator": "月神楽",
+            "text": "貴方に護ってもらうことは\nできないんです。",
+            "zh": "我也还是\n不能让你来保护我。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1369/TALK",
+            "narrator": "月神楽",
+            "text": "本当に、どんな目に遭うか\nわからないんですよ？",
+            "zh": "真的不知道\n会遭遇什么下场哦？",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1370/TALK",
+            "narrator": "月神楽",
+            "text": "そんな事に、\n貴方を巻き込めるわけが\nないじゃないですか。",
+            "zh": "怎么可能\n把你卷进那种事\n里面去呢。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1371/SEL",
+            "narrator": "",
+            "text": "月神楽は優しいね",
+            "zh": "月神乐真温柔呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1372/SEL",
+            "narrator": "",
+            "text": "失望した",
+            "zh": "真让人失望",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1373/ACT",
+            "narrator": "",
+            "text": "月神楽は優しいね",
+            "zh": "月神乐真温柔呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1374/TALK",
+            "narrator": "月神楽",
+            "text": "だって、\n$handle$さんは\n私にとって大切な人です。",
+            "zh": "因为，\n$handle$\n对我来说是重要的人。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1375/TALK",
+            "narrator": "月神楽",
+            "text": "だから、私なんかに\n関わらずに、幸せに\n生きていて欲しい。",
+            "zh": "所以，我不希望你\n牵扯进我这种人，\n只希望你能幸福地活下去。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1376/TALK",
+            "narrator": "月神楽",
+            "text": "そう思うんです。",
+            "zh": "我是这么想的。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1377/ACT",
+            "narrator": "",
+            "text": "失望した",
+            "zh": "真让人失望",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1378/TALK",
+            "narrator": "月神楽",
+            "text": "え？",
+            "zh": "诶？",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1379/SEL",
+            "narrator": "",
+            "text": "あんたの$me$への気持ちなんて所詮そんなモノか",
+            "zh": "你对$me$的心意说到底也就这点分量吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1380/ACT",
+            "narrator": "",
+            "text": "あんたの$me$への気持ちなんて所詮そんなモノか",
+            "zh": "你对$me$的心意说到底也就这点分量吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1382/TALK",
+            "narrator": "月神楽",
+            "text": "な、何言ってるんですか！",
+            "zh": "你、你在说什么啊！",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1383/TALK",
+            "narrator": "月神楽",
+            "text": "大事だからこそ\nこんなに悩んでるのに！",
+            "zh": "正因为重要\n我才会这么苦恼啊！",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1384/SEL",
+            "narrator": "",
+            "text": "お前、$me$が護ってやるって言ったときクソ呼ばわりしたよな",
+            "zh": "你刚才在$me$说要护着你的时候，不是把它骂得跟屎一样吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1385/ACT",
+            "narrator": "",
+            "text": "お前、$me$が護ってやるって言ったときクソ呼ばわりしたよな",
+            "zh": "你刚才在$me$说要护着你的时候，不是把它骂得跟屎一样吗",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1387/TALK",
+            "narrator": "月神楽",
+            "text": "…それが何ですか。",
+            "zh": "……那又怎样。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1388/SEL",
+            "narrator": "",
+            "text": "$me$は神楽が$me$よりも大事だから、本気で言ってるんだよ",
+            "zh": "因为对$me$来说神乐比$me$自己更重要，所以我才是认真的啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1389/ACT",
+            "narrator": "",
+            "text": "$me$は神楽が$me$よりも大事だから、本気で言ってるんだよ",
+            "zh": "因为对$me$来说神乐比$me$自己更重要，所以我才是认真的啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1391/SEL",
+            "narrator": "",
+            "text": "確かにどうやって助けるか解らないけど、それより護りたい想いが強いんだよ",
+            "zh": "确实我也不知道该怎么救，但比起那个，想保护你的心情更强烈啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1392/ACT",
+            "narrator": "",
+            "text": "確かにどうやって助けるか解らないけど、それより護りたい想いが強いんだよ",
+            "zh": "确实我也不知道该怎么救，但比起那个，想保护你的心情更强烈啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1394/SEL",
+            "narrator": "",
+            "text": "それじゃダメなの！？",
+            "zh": "那样不行吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1395/SEL",
+            "narrator": "",
+            "text": "それをクソ呼ばわりするなら、お前だってクソだよ！軽くなんてないんだよ！",
+            "zh": "连这个都要当屎一样骂的话，你才是屎呢！才不是随口说说的啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1396/ACT",
+            "narrator": "",
+            "text": "それじゃダメなの！？",
+            "zh": "那样不行吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1398/TALK",
+            "narrator": "月神楽",
+            "text": "ダメなの！！",
+            "zh": "不行！！",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1399/TALK",
+            "narrator": "月神楽",
+            "text": "それじゃダメなの！！",
+            "zh": "那样不行！！",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1400/TALK",
+            "narrator": "月神楽",
+            "text": "貴方が私を想って\n言ってくれてるのなんて\n解ってるから！",
+            "zh": "正因为我明白\n你是为我着想\n才这么说的！",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1401/ACT",
+            "narrator": "",
+            "text": "それをクソ呼ばわりするなら、お前だってクソだよ！軽くなんてないんだよ！",
+            "zh": "连这个都要当屎一样骂的话，你才是屎呢！才不是随口说说的啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1403/TALK",
+            "narrator": "月神楽",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1404/TALK",
+            "narrator": "月神楽",
+            "text": "わかってるって……",
+            "zh": "我知道的……",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1405/TALK",
+            "narrator": "月神楽",
+            "text": "そんなこと、\n解ってるんだよ！",
+            "zh": "那种事，\n我都知道啊！",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1407/TALK",
+            "narrator": "月神楽",
+            "text": "だから、こんなに\n辛いんじゃない…っ！",
+            "zh": "正因为这样，\n才会这么难受啊……！",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1408/TALK",
+            "narrator": "月神楽",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1409/TALK",
+            "narrator": "月神楽",
+            "text": "わかってるけど、\nもうこれは\n避けられない事なんです。",
+            "zh": "我知道，\n但这已经是\n无法回避的事了。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1410/TALK",
+            "narrator": "月神楽",
+            "text": "これ以外に、\n貴方と私が2人とも\n幸せになれる道は、",
+            "zh": "除此之外，\n能让你和我两个人\n都得到幸福的道路，",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1411/TALK",
+            "narrator": "月神楽",
+            "text": "私には\n見つけられないから。",
+            "zh": "我已经\n找不到了。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1413/ACT",
+            "narrator": "",
+            "text": "キレそう",
+            "zh": "快要火大了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1415/TALK",
+            "narrator": "月神楽",
+            "text": "いいですよ、\nキレてください。",
+            "zh": "可以呀，\n你发火吧。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1416/TALK",
+            "narrator": "月神楽",
+            "text": "私を\n“助けてやりたかった”\nんですよね。",
+            "zh": "你本来就是\n“想帮我一把”\n对吧。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1417/TALK",
+            "narrator": "月神楽",
+            "text": "でも、それを\n拒否られたから、\n自尊心傷つきました？",
+            "zh": "可是却被拒绝了，\n所以自尊心\n受伤了吗？",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1418/SEL",
+            "narrator": "",
+            "text": "そういう事じゃないんだよ、なんで人の善意を仇で返すわけ！？",
+            "zh": "不是那样的啊，你干嘛恩将仇报啊！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1419/SEL",
+            "narrator": "",
+            "text": "傷ついた！！",
+            "zh": "我受伤了！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1420/ACT",
+            "narrator": "",
+            "text": "そういう事じゃないんだよ、なんで人の善意を仇で返すわけ！？",
+            "zh": "不是那样的啊，你干嘛恩将仇报啊！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1422/TALK",
+            "narrator": "月神楽",
+            "text": "だから偽善なんですよ。",
+            "zh": "所以我才说那是伪善。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1423/ACT",
+            "narrator": "",
+            "text": "傷ついた！！",
+            "zh": "我受伤了！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1425/TALK",
+            "narrator": "月神楽",
+            "text": "正直すぎ！！",
+            "zh": "太老实了吧！！",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1426/TALK",
+            "narrator": "月神楽",
+            "text": "そういう素直なところ、\n好きですよ？",
+            "zh": "你这种坦率的地方，\n我还挺喜欢的哦？",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1428/TALK",
+            "narrator": "月神楽",
+            "text": "でも、私と\n$handle$さんは…",
+            "zh": "不过，我和\n$handle$……",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1429/TALK",
+            "narrator": "月神楽",
+            "text": "あまり相性が良くないかも\nしれませんね。",
+            "zh": "也许不太\n合得来呢。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1430/TALK",
+            "narrator": "月神楽",
+            "text": "お付き合いの初期には\nお互い気づかないかも\nしれませんが。",
+            "zh": "在交往初期，\n也许彼此还\n察觉不到。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1431/TALK",
+            "narrator": "月神楽",
+            "text": "結婚して、ずっと\n一緒にいると、いずれ\nとても歪むと思います。",
+            "zh": "等结婚后一直\n待在一起，迟早会\n变得非常扭曲吧。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1432/TALK",
+            "narrator": "月神楽",
+            "text": "ですからきっと、\n他の方とお付き合いした\n方がいいと思います。",
+            "zh": "所以我想，\n你还是和其他人\n交往比较好。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1433/SEL",
+            "narrator": "",
+            "text": "当然そのつもり",
+            "zh": "我本来就打算这样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1434/SEL",
+            "narrator": "",
+            "text": "つき合ってみなくちゃわからないでしょ？",
+            "zh": "不交往看看怎么会知道嘛？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1435/ACT",
+            "narrator": "",
+            "text": "当然そのつもり",
+            "zh": "我本来就打算这样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1436/TALK",
+            "narrator": "月神楽",
+            "text": "良かったです♪",
+            "zh": "太好了♪",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1437/ACT",
+            "narrator": "",
+            "text": "つき合ってみなくちゃわからないでしょ？",
+            "zh": "不交往看看怎么会知道嘛？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1438/TALK",
+            "narrator": "月神楽",
+            "text": "まあ、もちろん\nそうなんですけど……。",
+            "zh": "嘛，话当然\n是这么说……。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1439/TALK",
+            "narrator": "月神楽",
+            "text": "私は、\n$me$の背中についてこい\n系の人って苦手なんで。",
+            "zh": "因为我不太应付得来\n“跟在$me$身后就行”\n那类型的人。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1440/TALK",
+            "narrator": "月神楽",
+            "text": "もしかすると、\nいつの間にか後ろから\n消えてるかもしれません。",
+            "zh": "搞不好，\n不知什么时候就会从你身后\n消失哦。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1443/ACT",
+            "narrator": "",
+            "text": "返す言葉もない。同情するよ",
+            "zh": "无言以对。我同情你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1444/TALK",
+            "narrator": "月神楽",
+            "text": "…ありがとうございます。",
+            "zh": "……谢谢你。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1445/TALK",
+            "narrator": "月神楽",
+            "text": "それだけでも、\n幾分か救われます。",
+            "zh": "光是这样，\n心里也稍微舒坦了些。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1447/TALK",
+            "narrator": "月神楽",
+            "text": "というわけで、\nライフギャザーを\n破壊しに行きます。",
+            "zh": "那么，\n我要去把\n生命聚合器毁掉了。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1448/SEL",
+            "narrator": "",
+            "text": "月神楽…",
+            "zh": "月神乐……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1449/ACT",
+            "narrator": "",
+            "text": "月神楽…",
+            "zh": "月神乐……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1452/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "ちょっと\n待ったあああっ！",
+            "zh": "给我\n等一下啊啊啊！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1454/TALK",
+            "narrator": "月神楽",
+            "text": "えっ！？",
+            "zh": "诶！？",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1455/SEL",
+            "narrator": "",
+            "text": "ぴょんこ！？",
+            "zh": "蹦子！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1456/ACT",
+            "narrator": "",
+            "text": "ぴょんこ！？",
+            "zh": "蹦子！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1467/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "空気を読まず\n颯爽とぴょんこ参上\nですっ！！",
+            "zh": "不看气氛\n蹦子飒爽登场\n啦！！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1468/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "月ちゃん！\nライフギャザーを\n壊すんですかっ！？",
+            "zh": "月！\n你要毁掉\n生命聚合器吗！？",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1469/TALK",
+            "narrator": "月神楽",
+            "text": "そ、それがなにか…？",
+            "zh": "那、那又怎么了……？",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1470/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "例えオテント様から\n逃げられても！",
+            "zh": "就算逃得过\n老天爷的眼睛！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1471/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "ぴょんこの目が\n黒い限りはっ！",
+            "zh": "只要蹦子的眼珠\n还是黑的！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1472/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "そんなこと\n許しませんよっ！！",
+            "zh": "绝不允许\n那种事！！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1474/TALK",
+            "narrator": "月神楽",
+            "text": "チョキ。",
+            "zh": "剪刀。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1481/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "ギャあああっ！\n目がああああ！\n目がああああああっ！",
+            "zh": "嘎啊啊啊！\n我的眼睛啊啊啊！\n眼睛啊啊啊啊啊！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1482/SEL",
+            "narrator": "",
+            "text": "…つ、月？",
+            "zh": "……月、月？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1483/SEL",
+            "narrator": "",
+            "text": "…ぴょんこ……？",
+            "zh": "……蹦子……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1484/ACT",
+            "narrator": "",
+            "text": "…つ、月？",
+            "zh": "……月、月？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1485/ACT",
+            "narrator": "",
+            "text": "…ぴょんこ……？",
+            "zh": "……蹦子……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1487/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "月ちゃんあんた、\n私の眼を潰す気ですかっ！",
+            "zh": "月你这家伙，\n打算戳瞎我的眼睛吗！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1488/TALK",
+            "narrator": "月神楽",
+            "text": "目が黒いうちはダメだと\n言うので。",
+            "zh": "因为你说眼珠还是黑的\n就不行嘛。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1490/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "だからって！\n今潰さなくてもっ！！",
+            "zh": "就算那样！\n也不用现在就戳瞎吧！！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1492/TALK",
+            "narrator": "月神楽",
+            "text": "それくらい\n本気だって事です。",
+            "zh": "这说明我\n就是这么认真。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1494/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1495/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "わかりました。\n月ちゃんが本気なら、私も\n本気モードになります。",
+            "zh": "我明白了。\n既然月是认真的，我也\n要进入认真模式了。",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1498/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "$handle$さんっ！",
+            "zh": "$handle$！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1499/SEL",
+            "narrator": "",
+            "text": "はい！？",
+            "zh": "在！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1500/ACT",
+            "narrator": "",
+            "text": "はい！？",
+            "zh": "在！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1502/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "ぴょんこが\n月ちゃんを食い止めます。",
+            "zh": "蹦子会\n拖住月的。",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1503/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "そのうちに、\n鍵をゲットしてください！",
+            "zh": "趁这期间，\n请去把钥匙拿到手！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1504/SEL",
+            "narrator": "",
+            "text": "わかった！",
+            "zh": "知道了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1505/SEL",
+            "narrator": "",
+            "text": "大丈夫！？",
+            "zh": "不要紧吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1506/ACT",
+            "narrator": "",
+            "text": "わかった！",
+            "zh": "知道了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1507/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "ありがとうございますっ！",
+            "zh": "谢谢你！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1508/ACT",
+            "narrator": "",
+            "text": "大丈夫！？",
+            "zh": "不要紧吗！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1509/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "ぴょんこの心配は\n無用です！",
+            "zh": "不必担心\n蹦子！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1511/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "それと、\n最後に１つ、お話を\n聞いていってください！",
+            "zh": "还有，\n最后有一句话，\n请听完再走！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1512/SEL",
+            "narrator": "",
+            "text": "うん",
+            "zh": "嗯",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1513/ACT",
+            "narrator": "",
+            "text": "うん",
+            "zh": "嗯",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1515/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "ぴょんこは、\n$handle$さんが\n大好きですっ！",
+            "zh": "蹦子，\n最喜欢\n$handle$了！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1516/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "月ちゃんも、\nこんなですけどっ！",
+            "zh": "月虽然\n表面这副样子！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1517/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "内心別れたくなくて\n壊したくなくて、\n泣いてるの知ってるです！",
+            "zh": "其实心里不想分开、\n不想毁掉，\n偷偷在哭，我都知道的！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1518/TALK",
+            "narrator": "月神楽",
+            "text": "いらんこと言うなっ！",
+            "zh": "别多嘴！",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1519/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "すぐにガブちゃんが\n応援に来てくれるから\nここは大丈夫――",
+            "zh": "马上加布\n就会来支援了，\n这里没问题的——",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1520/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "だと思いますっ！！",
+            "zh": "我想应该是这样！！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1521/SEL",
+            "narrator": "",
+            "text": "そういえば、ぴょんこ弱かったんだっけ…？",
+            "zh": "说起来，蹦子以前是不是很弱来着……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1522/SEL",
+            "narrator": "",
+            "text": "ぴょんこ、信じてるから！",
+            "zh": "蹦子，我相信你！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1523/ACT",
+            "narrator": "",
+            "text": "そういえば、ぴょんこ弱かったんだっけ…？",
+            "zh": "说起来，蹦子以前是不是很弱来着……？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1525/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "前よりはっ！\n少しだけ強く\nなりましたっ！！",
+            "zh": "比以前！\n稍微变强\n了一点哦！！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1527/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "更に$handle$さんの\n為なら加算ボーナス\n100万っ！",
+            "zh": "而且为了$handle$，\n还有加成奖励\n100万！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1528/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "だから平気ですっ！",
+            "zh": "所以没问题的！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1529/ACT",
+            "narrator": "",
+            "text": "ぴょんこ、信じてるから！",
+            "zh": "蹦子，我相信你！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1530/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "ありがとうございますっ！",
+            "zh": "谢谢你！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1531/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "$handle$さんに\n応援されれば、加算\nボーナス1000万ですっ！",
+            "zh": "只要得到$handle$的\n应援，加成\n奖励就是1000万！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1533/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "最後に、ぴょんこから\n$handle$さんに\nプレゼントがありますっ！",
+            "zh": "最后，蹦子还有一份\n礼物要送给\n$handle$！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1534/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "ぴょんこ、さっき、\nミサミサの鍵を\nゲットしてきましたっ！",
+            "zh": "蹦子刚才，\n去把美佐美佐的钥匙\n拿到手啦！[?]",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1535/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "絶対に後で\n必要になりますから\n渡しておきますねっ！",
+            "zh": "之后绝对\n会用得上的，\n现在就交给你吧！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1536/SEL",
+            "narrator": "",
+            "text": "ミサミサの鍵って！？",
+            "zh": "美佐美佐的钥匙是！？[?]",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1537/ACT",
+            "narrator": "",
+            "text": "ミサミサの鍵って！？",
+            "zh": "美佐美佐的钥匙是！？[?]",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1541/TALK",
+            "narrator": "ぴょんこ　",
+            "text": "$handle$さんに\n素敵な心の旅をっ！！",
+            "zh": "祝$handle$\n拥有一场美好的心灵之旅！！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "1565/TALK",
+            "narrator": "神楽",
+            "text": "えーっと、\nえーーっと……",
+            "zh": "那个——、\n那个————……",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1566/TALK",
+            "narrator": "神楽",
+            "text": "……あっ！！",
+            "zh": "……啊！！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1568/TALK",
+            "narrator": "神楽",
+            "text": "おとうさま！\n決まりましたっ！",
+            "zh": "父亲大人！\n我决定好了！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1569/TALK",
+            "narrator": "文雄",
+            "text": "何にしたんだ？",
+            "zh": "选了什么呀？",
+            "narrator_zh": "文雄"
+        },
+        {
+            "location": "1570/TALK",
+            "narrator": "神楽",
+            "text": "わたし――",
+            "zh": "我——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1571/TALK",
+            "narrator": "神楽",
+            "text": "いちごの\nミルフィーユに\nするですっ！！",
+            "zh": "我要选\n草莓千层酥\n的说！！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1588/SEL",
+            "narrator": "",
+            "text": "ソイルトンに、ライフギャザー量子鍵を取得したことをメールする",
+            "zh": "给索伊尔顿发邮件，告知已取得生命聚合器量子密钥",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1589/SEL",
+            "narrator": "",
+            "text": "ソイルトンにメールしない",
+            "zh": "不给索伊尔顿发邮件",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1590/ACT",
+            "narrator": "",
+            "text": "ソイルトンに、ライフギャザー量子鍵を取得したことをメールする",
+            "zh": "给索伊尔顿发邮件，告知已取得生命聚合器量子密钥",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1594/ACT",
+            "narrator": "",
+            "text": "ソイルトンにメールしない",
+            "zh": "不给索伊尔顿发邮件",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1596/ACT",
+            "narrator": "",
+            "text": "倒すよ！",
+            "zh": "我要打倒你！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1597/TALK",
+            "narrator": "月神楽",
+            "text": "望むところです！\n行きますよっ！！",
+            "zh": "求之不得！\n我要上了！！",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "1278/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:Interrupt】</color>\nSystem Interrupted.\n\nMODE : DI\nRESTART : Lifegather.\nMODE : EI\nSET_ADDR: N/A \nRUN/.",
+            "zh": "<color=green>【TRI-OS Plug-in:Interrupt】</color>\nSystem Interrupted.\n\nMODE : DI\nRESTART : Lifegather.\nMODE : EI\nSET_ADDR: N/A \nRUN/.",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "1540/DIALOG",
+            "narrator": "INFO",
+            "text": "<color=green>Q-LOCKが委譲されました。</color>\n\n<color=red>e5b096e699b6e79fb3</color>\n<color=blue>USER:pyonko\nCORE:misako_uzuki</color>\n",
+            "zh": "<color=green>Q-LOCK已移交。</color>\n\n<color=red>e5b096e699b6e79fb3</color>\n<color=blue>USER:pyonko\nCORE:misako_uzuki</color>\n",
+            "narrator_zh": "INFO"
+        },
+        {
+            "location": "1573/DIALOG",
+            "narrator": "INFO",
+            "text": "<color=green>Q-LOCKが認証されました。</color>\n\n<color=red><< PermitClassChanged. >></color><color=blue>\nUSER:$handle$\nPermitLevel： N → SX\nPermitRange： All.\n</color>\n\n適用のため、再起動します。\n",
+            "zh": "<color=green>Q-LOCK已认证。</color>\n\n<color=red><< PermitClassChanged. >></color><color=blue>\nUSER:$handle$\nPermitLevel： N → SX\nPermitRange： All.\n</color>\n\n为应用更改，即将重新启动。\n",
+            "narrator_zh": "INFO"
+        },
+        {
+            "location": "1592/DIALOG",
+            "narrator": "INFO",
+            "text": "<color=green>【TRI-OS Plug-in:Mailer】</color>\n\n正常に送信しました。\n",
+            "zh": "<color=green>【TRI-OS Plug-in:Mailer】</color>\n\n已正常发送。\n",
+            "narrator_zh": "INFO"
+        }
+    ]
+}

@@ -1,0 +1,756 @@
+{
+    "dir": "chap37/daydra/dd_ch01_37_102.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "37105",
+        "cid": "tsubame",
+        "title": "005 メインストーリー",
+        "sub_title": "そして、わたしも＜後編＞",
+        "title_zh": "005 主线剧情",
+        "sub_title_zh": "然后，我也＜后篇＞"
+    },
+    "entry": [
+        {
+            "location": "776/TALK",
+            "narrator": "つばめ",
+            "text": "…ここはわたしが\n創った世界だけど。",
+            "zh": "……虽然这里是我\n创造的世界。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "777/TALK",
+            "narrator": "つばめ",
+            "text": "色んな人が\n育てた世界なんだ…。",
+            "zh": "也是各种各样的人\n培育出来的世界呀……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "778/SEL",
+            "narrator": "",
+            "text": "元気？",
+            "zh": "还好吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "779/SEL",
+            "narrator": "",
+            "text": "少し話せる？",
+            "zh": "能稍微聊聊吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "780/SEL",
+            "narrator": "",
+            "text": "$me$を恨んでる？",
+            "zh": "你恨$me$吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "781/ACT",
+            "narrator": "",
+            "text": "元気？",
+            "zh": "还好吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "783/TALK",
+            "narrator": "つばめ",
+            "text": "うん。\n平気だよ。",
+            "zh": "嗯。\n我没事哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "784/ACT",
+            "narrator": "",
+            "text": "少し話せる？",
+            "zh": "能稍微聊聊吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "786/TALK",
+            "narrator": "つばめ",
+            "text": "はい。\n大丈夫。",
+            "zh": "嗯。\n没问题的。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "787/ACT",
+            "narrator": "",
+            "text": "$me$を恨んでる？",
+            "zh": "你恨$me$吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "788/TALK",
+            "narrator": "つばめ",
+            "text": "なんで？\nそんなわけないよ。",
+            "zh": "怎么会？\n不可能有那种事呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "790/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さん、\nあのね。",
+            "zh": "$handle$，\n那个呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "791/TALK",
+            "narrator": "つばめ",
+            "text": "わたし、この世界を\n続けたい。",
+            "zh": "我，想让这个世界\n继续下去。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "792/TALK",
+            "narrator": "つばめ",
+            "text": "みんなが幸せに暮らせる\n平凡で普通な、\n退屈だけど平和な世界を。",
+            "zh": "一个大家都能幸福生活的\n平凡又普通、\n虽然无聊却很和平的世界。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "793/SEL",
+            "narrator": "",
+            "text": "そっか",
+            "zh": "这样啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "794/SEL",
+            "narrator": "",
+            "text": "決めたんだね",
+            "zh": "已经决定了啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "795/SEL",
+            "narrator": "",
+            "text": "いいことだと思うよ",
+            "zh": "我觉得这是件好事哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "796/ACT",
+            "narrator": "",
+            "text": "そっか",
+            "zh": "这样啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "797/TALK",
+            "narrator": "つばめ",
+            "text": "うん。\n今のみんなと\n一緒にいたい。",
+            "zh": "嗯。\n我想和现在的大家\n待在一起。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "798/ACT",
+            "narrator": "",
+            "text": "決めたんだね",
+            "zh": "已经决定了啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "799/TALK",
+            "narrator": "つばめ",
+            "text": "そう。\n決めたんだ。",
+            "zh": "对。\n我已经决定了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "800/ACT",
+            "narrator": "",
+            "text": "いいことだと思うよ",
+            "zh": "我觉得这是件好事哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "801/TALK",
+            "narrator": "つばめ",
+            "text": "本当にそう\n思ってくれる…？",
+            "zh": "你真的也是\n这么觉得的吗……？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "803/TALK",
+            "narrator": "つばめ",
+            "text": "でもね。",
+            "zh": "可是呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "805/TALK",
+            "narrator": "つばめ",
+            "text": "わたしがそう思うだけで\n本当に実現\nするのかな？",
+            "zh": "光是我这么想，\n真的能够\n实现吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "806/SEL",
+            "narrator": "",
+            "text": "$me$を信じて",
+            "zh": "相信$me$",
+            "narrator_zh": ""
+        },
+        {
+            "location": "807/SEL",
+            "narrator": "",
+            "text": "$me$が言うこと信用できない？",
+            "zh": "你不相信$me$说的话吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "808/SEL",
+            "narrator": "",
+            "text": "だってつばめの世界だよ！",
+            "zh": "这可是燕的世界呀！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "809/ACT",
+            "narrator": "",
+            "text": "$me$を信じて",
+            "zh": "相信$me$",
+            "narrator_zh": ""
+        },
+        {
+            "location": "810/TALK",
+            "narrator": "つばめ",
+            "text": "…うん。\nそうだね。",
+            "zh": "……嗯。\n说得对呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "811/ACT",
+            "narrator": "",
+            "text": "$me$が言うこと信用できない？",
+            "zh": "你不相信$me$说的话吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "812/TALK",
+            "narrator": "つばめ",
+            "text": "そんなわけないよ！",
+            "zh": "怎么可能不信呀！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "813/ACT",
+            "narrator": "",
+            "text": "だってつばめの世界だよ！",
+            "zh": "这可是燕的世界呀！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "814/TALK",
+            "narrator": "つばめ",
+            "text": "わたしの、世界…。",
+            "zh": "我的，世界……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "816/TALK",
+            "narrator": "つばめ",
+            "text": "…わたしね。",
+            "zh": "……我呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "817/TALK",
+            "narrator": "つばめ",
+            "text": "ずっと今まで\n何をするにも\n自信がなくて。",
+            "zh": "一直以来，\n不管做什么\n都没有自信。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "818/TALK",
+            "narrator": "つばめ",
+            "text": "辛かったの。\n何かをするのが。",
+            "zh": "好难受。\n做什么都很难受。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "819/TALK",
+            "narrator": "つばめ",
+            "text": "でもね。\n$handle$さんが\nわたしに自信をくれた。",
+            "zh": "可是呀。\n$handle$\n给了我自信。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "820/TALK",
+            "narrator": "つばめ",
+            "text": "側にいてくれて、\n励ましてくれて、\n頑張ってくれたから。",
+            "zh": "因为你陪在我身边，\n鼓励着我，\n一直为我努力。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "821/TALK",
+            "narrator": "つばめ",
+            "text": "わたしは少し\n変わることができた。",
+            "zh": "我才得以\n稍微有所改变。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "822/TALK",
+            "narrator": "つばめ",
+            "text": "この世界を続けたいって\n決心ができたのも。",
+            "zh": "能下定决心\n想让这个世界继续下去，",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "823/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんが\nいてくれたからだよ。",
+            "zh": "也全都是因为有\n$handle$在哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "824/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんは\nこの日本も護って\nくれてたんだね。",
+            "zh": "$handle$\n也一直在守护着\n这个日本啊。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "826/TALK",
+            "narrator": "つばめ",
+            "text": "この先も、この世界を\n護ってくれるんだね。",
+            "zh": "今后，你也会继续\n守护这个世界的吧。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "827/SEL",
+            "narrator": "",
+            "text": "まだわからないけど",
+            "zh": "虽然还不知道",
+            "narrator_zh": ""
+        },
+        {
+            "location": "828/SEL",
+            "narrator": "",
+            "text": "そういうことになるのかな",
+            "zh": "大概会变成那样吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "829/SEL",
+            "narrator": "",
+            "text": "努力するよ",
+            "zh": "我会努力的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "830/ACT",
+            "narrator": "",
+            "text": "まだわからないけど",
+            "zh": "虽然还不知道",
+            "narrator_zh": ""
+        },
+        {
+            "location": "831/TALK",
+            "narrator": "つばめ",
+            "text": "…そうだね。\nでもきっと\nそうなるんだよね。",
+            "zh": "……是呀。\n不过一定\n会变成那样的吧。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "832/ACT",
+            "narrator": "",
+            "text": "そういうことになるのかな",
+            "zh": "大概会变成那样吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "833/TALK",
+            "narrator": "つばめ",
+            "text": "そうでしょ？\n…違うかな？",
+            "zh": "对吧？\n……难道不是吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "834/ACT",
+            "narrator": "",
+            "text": "努力するよ",
+            "zh": "我会努力的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "835/TALK",
+            "narrator": "つばめ",
+            "text": "…うん。\nありがとう。",
+            "zh": "……嗯。\n谢谢你。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "837/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんは\nいつもわたしのために\n頑張ってくれたよね。",
+            "zh": "$handle$\n一直以来都为了我\n努力过来的对吧。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "838/TALK",
+            "narrator": "つばめ",
+            "text": "大変なことも\nあったはずなのに。",
+            "zh": "明明肯定也经历过\n很多辛苦的事。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "839/TALK",
+            "narrator": "つばめ",
+            "text": "だから今度は\nわたしが頑張らなきゃ。",
+            "zh": "所以这次，\n该换我来努力啦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "840/TALK",
+            "narrator": "つばめ",
+            "text": "もし辛いことがあっても\nそれって必要な\nことだと思ってる。",
+            "zh": "就算遇到什么痛苦的事，\n我也觉得那是\n必要的经历。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "841/TALK",
+            "narrator": "つばめ",
+            "text": "わたしの中で\n$handle$さんは\n世界そのものなんだ。",
+            "zh": "在我的心里，\n$handle$\n就是世界本身呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "845/TALK",
+            "narrator": "つばめ",
+            "text": "…わたし、\n$handle$さんに\n会いたい。",
+            "zh": "……我，\n好想见\n$handle$。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "846/TALK",
+            "narrator": "つばめ",
+            "text": "だって\n$handle$さんは\n特別な人だから。",
+            "zh": "因为\n$handle$\n是特别的人嘛。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "847/TALK",
+            "narrator": "つばめ",
+            "text": "もっと近くにいたい。\nそれからお話だって。",
+            "zh": "想待在更近的地方。\n还有好多话想说。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "848/SEL",
+            "narrator": "",
+            "text": "いつもしてるよね？",
+            "zh": "我们不是一直都在聊吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "849/SEL",
+            "narrator": "",
+            "text": "急にどうしたの",
+            "zh": "怎么突然这样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "850/SEL",
+            "narrator": "",
+            "text": "今までとは違うの？",
+            "zh": "和至今为止的不一样吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "851/ACT",
+            "narrator": "",
+            "text": "いつもしてるよね？",
+            "zh": "我们不是一直都在聊吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "852/TALK",
+            "narrator": "つばめ",
+            "text": "してるけど。\nしてたけど。\nこんなんじゃなくて。",
+            "zh": "是在聊。\n是一直都在聊。\n可不是这种。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "853/TALK",
+            "narrator": "つばめ",
+            "text": "もっと全然\n近くなりたいの。",
+            "zh": "我想变得比现在\n近得多、近得多。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "854/ACT",
+            "narrator": "",
+            "text": "急にどうしたの",
+            "zh": "怎么突然这样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "855/TALK",
+            "narrator": "つばめ",
+            "text": "わかんない。\n自分でもびっくり\nしてる。",
+            "zh": "不知道。\n连我自己也吓了\n一跳。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "856/TALK",
+            "narrator": "つばめ",
+            "text": "でもこの気持ちは\n本当だから。",
+            "zh": "可是这份心意\n是真的。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "857/ACT",
+            "narrator": "",
+            "text": "今までとは違うの？",
+            "zh": "和至今为止的不一样吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "858/TALK",
+            "narrator": "つばめ",
+            "text": "全然違うよ！",
+            "zh": "完全不一样啦！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "859/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんって\n思っただけで\nドキドキするの。",
+            "zh": "光是想到\n$handle$，\n心就会怦怦直跳。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "861/SEL",
+            "narrator": "",
+            "text": "$me$に恋したんだね",
+            "zh": "你恋上$me$了吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "862/SEL",
+            "narrator": "",
+            "text": "$me$はずっとそう思ってたよ",
+            "zh": "$me$一直都是这么想的哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "863/SEL",
+            "narrator": "",
+            "text": "つばめ愛してる",
+            "zh": "燕我爱你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "864/ACT",
+            "narrator": "",
+            "text": "$me$に恋したんだね",
+            "zh": "你恋上$me$了吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "865/TALK",
+            "narrator": "つばめ",
+            "text": "恋！？",
+            "zh": "恋爱！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "866/TALK",
+            "narrator": "つばめ",
+            "text": "でもこれは\n恋よりもっと\n大事な気持ちだよ。",
+            "zh": "可这是\n比恋爱更加\n重要的心情哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "867/ACT",
+            "narrator": "",
+            "text": "$me$はずっとそう思ってたよ",
+            "zh": "$me$一直都是这么想的哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "868/TALK",
+            "narrator": "つばめ",
+            "text": "そうだったの！？",
+            "zh": "原来是这样吗！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "869/TALK",
+            "narrator": "つばめ",
+            "text": "でもそうだよね…。\nそんな気がしてた。",
+            "zh": "不过也是呀……。\n我也有这种感觉。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "870/ACT",
+            "narrator": "",
+            "text": "つばめ愛してる",
+            "zh": "燕我爱你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "871/TALK",
+            "narrator": "つばめ",
+            "text": "…わたしも。\n$handle$さんを\n愛してる。",
+            "zh": "……我也是。\n我爱着\n$handle$。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "872/TALK",
+            "narrator": "つばめ",
+            "text": "でもそれよりうんと\n大事なものなの。\nこの気持ちは。",
+            "zh": "可这份心情，\n是比那还要重要得多\n的东西哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "874/TALK",
+            "narrator": "つばめ",
+            "text": "なんでだろう。",
+            "zh": "为什么呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "875/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんとは\nずっと一緒にいたのに。",
+            "zh": "明明和$handle$\n一直待在一起的。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "876/TALK",
+            "narrator": "つばめ",
+            "text": "今急にすごく\n$handle$さんへの\n気持ちが溢れてる。",
+            "zh": "现在突然对\n$handle$的感情\n满溢出来了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "878/TALK",
+            "narrator": "つばめ",
+            "text": "不思議……。",
+            "zh": "好不可思议……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "880/TALK",
+            "narrator": "つばめ",
+            "text": "この先がどうなるかは\nまだわからないけど。",
+            "zh": "虽然还不知道\n今后会变成怎样。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "881/TALK",
+            "narrator": "つばめ",
+            "text": "わたしは今とても\n幸せだよ。",
+            "zh": "但我现在\n觉得好幸福哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "882/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんが\n色々考えて\n決めてくれたから。",
+            "zh": "因为$handle$\n想了这么多，\n为我做出了决定。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "884/TALK",
+            "narrator": "つばめ",
+            "text": "…変かな？\nそんなことないよね。",
+            "zh": "……很奇怪吗？\n不会的吧。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "885/TALK",
+            "narrator": "つばめ",
+            "text": "だってわたしのことを\n一番考えてくれた\n$handle$さんが。",
+            "zh": "因为是将我的事\n想得最多、考虑得最细的\n$handle$，",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "886/TALK",
+            "narrator": "つばめ",
+            "text": "うんと考えて\n決めてくれたんだもん。",
+            "zh": "认认真真思考之后\n替我决定的嘛。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "887/TALK",
+            "narrator": "つばめ",
+            "text": "それって幸せな\nことだよね。",
+            "zh": "那可是件\n很幸福的事呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "888/TALK",
+            "narrator": "つばめ",
+            "text": "それでね、わたし、\nそのことが嬉しいの。",
+            "zh": "而且呀，我，\n就是为这件事而高兴。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "889/TALK",
+            "narrator": "つばめ",
+            "text": "だから、この先に\n何があっても。",
+            "zh": "所以，不管前面\n还有什么等着，",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "890/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんを\n信じて生きてく。",
+            "zh": "我都会相信着\n$handle$活下去。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "891/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんは\nわたしの希望だから。",
+            "zh": "因为$handle$\n就是我的希望。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "892/TALK",
+            "narrator": "つばめ",
+            "text": "ありがとう。",
+            "zh": "谢谢你。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "893/TALK",
+            "narrator": "つばめ",
+            "text": "そんな言葉じゃ\n足りないけど。\n他に思いつかなくて。",
+            "zh": "虽然光是这句话\n远远不够。\n可我想不出别的词了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "895/TALK",
+            "narrator": "つばめ",
+            "text": "ありがとう。\n本当にありがとう。",
+            "zh": "谢谢你。\n真的谢谢你。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "896/TALK",
+            "narrator": "つばめ",
+            "text": "大好き。",
+            "zh": "最喜欢你了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "772/DIALOG",
+            "narrator": "NOTICE",
+            "text": "<color=green>【TRI-OS Plug-in:Interrupt】</color>\nSystem Interrupted.\n\n必須選択肢が選ばれていません。\n\n<color=green>『STORY27：シン・カグラ』</color>\nにて、選択を行ってから\n再度アクセスしてください。\n",
+            "zh": "<color=green>【TRI-OS Plug-in:Interrupt】</color>\nSystem Interrupted.\n\n尚未选择必须选项。\n\n<color=green>『STORY27：新·神乐』</color>\n请在其中做出选择后\n再次访问。\n",
+            "narrator_zh": "NOTICE"
+        },
+        {
+            "location": "907/DIALOG",
+            "narrator": "Dialog_chapter_ch01",
+            "text": "【MV EXE_TSuBaMe】",
+            "zh": "【MV EXE_TSuBaMe】",
+            "narrator_zh": "Dialog_chapter_ch01"
+        }
+    ]
+}

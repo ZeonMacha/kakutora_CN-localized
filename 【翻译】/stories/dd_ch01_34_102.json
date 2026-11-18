@@ -1,0 +1,798 @@
+{
+    "dir": "chap34/daydra/dd_ch01_34_102.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "34105",
+        "cid": "tsubame",
+        "title": "005 メインストーリー",
+        "sub_title": "ウタノチカラ＜後編＞",
+        "title_zh": "005 主线剧情",
+        "sub_title_zh": "歌之力量＜后篇＞"
+    },
+    "entry": [
+        {
+            "location": "637/TALK",
+            "narrator": "つばめ",
+            "text": "……あれ…？\nわたし……",
+            "zh": "……咦……？\n我……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "638/SEL",
+            "narrator": "",
+            "text": "つばめ、大丈夫だった？",
+            "zh": "燕，没事吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "639/ACT",
+            "narrator": "",
+            "text": "つばめ、大丈夫だった？",
+            "zh": "燕，没事吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "642/TALK",
+            "narrator": "つばめ",
+            "text": "うん。",
+            "zh": "嗯。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "643/TALK",
+            "narrator": "音羽",
+            "text": "ありがとう、\n$handle$。",
+            "zh": "谢谢你，\n$handle$。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "644/TALK",
+            "narrator": "音羽",
+            "text": "お陰で逢瀬さんと\n神楽を助ける事ができる。",
+            "zh": "多亏了你，\n才能救下逢濑和神乐。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "645/SEL",
+            "narrator": "",
+            "text": "頑張ってくれ、ほんとに……",
+            "zh": "加油啊，真的……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "646/ACT",
+            "narrator": "",
+            "text": "頑張ってくれ、ほんとに……",
+            "zh": "加油啊，真的……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "648/TALK",
+            "narrator": "音羽",
+            "text": "ええ。\nもちろんよ。",
+            "zh": "嗯。\n那当然。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "649/TALK",
+            "narrator": "音羽",
+            "text": "ふたりとも\n大切な友だちだもの。",
+            "zh": "毕竟两个人\n都是我重要的朋友嘛。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "650/TALK",
+            "narrator": "音羽",
+            "text": "逢瀬さん……\nいえ、これからは\nつばめちゃんって呼ぶ。",
+            "zh": "逢濑……\n不，从今往后\n我就叫你燕吧。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "652/TALK",
+            "narrator": "つばめ",
+            "text": "は、はい！",
+            "zh": "好、好的！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "653/TALK",
+            "narrator": "音羽",
+            "text": "つばめちゃん。\n歌って。",
+            "zh": "燕。\n唱吧。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "654/TALK",
+            "narrator": "つばめ",
+            "text": "わたしが？",
+            "zh": "我来唱吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "655/TALK",
+            "narrator": "音羽",
+            "text": "そう。\n神楽の歌は\nイシュリールを否定する。",
+            "zh": "对。\n神乐的歌，\n在否定Ishreal。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "656/TALK",
+            "narrator": "音羽",
+            "text": "それに対抗できるのは\nつばめちゃんの\n歌しかない。",
+            "zh": "能与之抗衡的，\n就只有\n燕的歌了。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "657/SEL",
+            "narrator": "",
+            "text": "そうだよ！",
+            "zh": "就是这样！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "658/SEL",
+            "narrator": "",
+            "text": "そうなんだ…",
+            "zh": "是这样啊……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "659/SEL",
+            "narrator": "",
+            "text": "そういうことか",
+            "zh": "原来如此",
+            "narrator_zh": ""
+        },
+        {
+            "location": "660/ACT",
+            "narrator": "",
+            "text": "そうだよ！",
+            "zh": "就是这样！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "662/TALK",
+            "narrator": "つばめ",
+            "text": "そうなの！？",
+            "zh": "是这样吗！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "663/ACT",
+            "narrator": "",
+            "text": "そうなんだ…",
+            "zh": "是这样啊……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "664/TALK",
+            "narrator": "つばめ",
+            "text": "え……。",
+            "zh": "诶……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "665/ACT",
+            "narrator": "",
+            "text": "そういうことか",
+            "zh": "原来如此",
+            "narrator_zh": ""
+        },
+        {
+            "location": "667/TALK",
+            "narrator": "つばめ",
+            "text": "どういうことなの？",
+            "zh": "是什么意思呀？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "670/TALK",
+            "narrator": "つばめ",
+            "text": "わたしが神楽ちゃんに\n対抗する歌を歌う？",
+            "zh": "要我来唱\n对抗神乐的歌吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "671/TALK",
+            "narrator": "音羽",
+            "text": "そう。つばめちゃんの\n気持ちを歌詞に乗せた\n旋律で。",
+            "zh": "对。用把燕的心情\n写进歌词里的\n旋律来唱。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "674/TALK",
+            "narrator": "つばめ",
+            "text": "え、と？",
+            "zh": "诶、那个？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "675/TALK",
+            "narrator": "音羽",
+            "text": "つばめちゃんが作った\nイシュリールを、そして\n神楽を護る歌を歌うの。",
+            "zh": "去唱出守护\n燕所创造的Ishreal、\n以及守护神乐的歌。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "676/TALK",
+            "narrator": "音羽",
+            "text": "イシュリールを\n否定する歌を\n打ち消すために。",
+            "zh": "为了把否定\nIshreal的歌声\n抵消掉。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "677/TALK",
+            "narrator": "つばめ",
+            "text": "！！！！",
+            "zh": "！！！！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "680/TALK",
+            "narrator": "つばめ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "682/TALK",
+            "narrator": "つばめ",
+            "text": "……そんなの……\n……無理だよ……。",
+            "zh": "……那种事……\n……我做不到呀……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "683/TALK",
+            "narrator": "音羽",
+            "text": "できる。\n絶対にできる。\nつばめちゃんなら。",
+            "zh": "你能做到。\n绝对能做到。\n如果是燕的话。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "684/TALK",
+            "narrator": "音羽",
+            "text": "だってつばめちゃんは\nイシュリールのことを\n愛しているから。",
+            "zh": "因为燕\n深爱着\nIshreal。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "685/TALK",
+            "narrator": "音羽",
+            "text": "そして神楽のことも。",
+            "zh": "还有神乐也是。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "687/TALK",
+            "narrator": "つばめ",
+            "text": "…でも…。",
+            "zh": "……可是……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "688/TALK",
+            "narrator": "音羽",
+            "text": "カレンはお母さんの\n病気を治すために\nどうしたっけ？",
+            "zh": "卡莲为了治好\n妈妈的病，\n是怎么做的来着？",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "690/TALK",
+            "narrator": "つばめ",
+            "text": "………歌った。",
+            "zh": "………她唱了歌。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "691/TALK",
+            "narrator": "音羽",
+            "text": "でしょ？",
+            "zh": "对吧？",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "692/TALK",
+            "narrator": "つばめ",
+            "text": "でもあれは、\nお話だから…。",
+            "zh": "可那只是\n故事里的事……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "693/TALK",
+            "narrator": "音羽",
+            "text": "お話だから？",
+            "zh": "只是故事？",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "695/TALK",
+            "narrator": "つばめ",
+            "text": "わたしはカレンちゃん\nみたいには……。",
+            "zh": "我没办法像\n卡莲那样……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "696/TALK",
+            "narrator": "音羽",
+            "text": "そうだね。\nつばめちゃんは\nカレンじゃない。",
+            "zh": "是啊。\n燕并不是\n卡莲。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "697/TALK",
+            "narrator": "つばめ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "698/TALK",
+            "narrator": "音羽",
+            "text": "つばめちゃんは\nカレンよりずっとすごい\nことができる。",
+            "zh": "燕能做到\n比卡莲厉害得多的\n事哦。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "701/TALK",
+            "narrator": "つばめ",
+            "text": "！？",
+            "zh": "！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "702/TALK",
+            "narrator": "音羽",
+            "text": "つばめちゃんは\nとても強くて純粋で\n優しいから。",
+            "zh": "因为燕\n非常坚强、纯粹\n又温柔啊。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "703/TALK",
+            "narrator": "音羽",
+            "text": "つばめちゃんに\n足りてないのは\n自分を信じる心だけ。",
+            "zh": "燕所欠缺的，\n就只有相信自己的\n心而已。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "704/TALK",
+            "narrator": "音羽",
+            "text": "そうでしょ？\n$handle$。",
+            "zh": "没错吧？\n$handle$。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "705/SEL",
+            "narrator": "",
+            "text": "$me$もそう思う",
+            "zh": "$me$也这么认为",
+            "narrator_zh": ""
+        },
+        {
+            "location": "706/SEL",
+            "narrator": "",
+            "text": "自分を信じて、つばめ！",
+            "zh": "相信自己，燕！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "707/SEL",
+            "narrator": "",
+            "text": "そこもかわいいんだけどね",
+            "zh": "不过那样也很可爱就是了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "708/ACT",
+            "narrator": "",
+            "text": "$me$もそう思う",
+            "zh": "$me$也这么认为",
+            "narrator_zh": ""
+        },
+        {
+            "location": "712/TALK",
+            "narrator": "つばめ",
+            "text": "本当に？",
+            "zh": "真的吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "713/ACT",
+            "narrator": "",
+            "text": "自分を信じて、つばめ！",
+            "zh": "相信自己，燕！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "717/TALK",
+            "narrator": "つばめ",
+            "text": "わたし自身を？",
+            "zh": "相信我自己吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "718/ACT",
+            "narrator": "",
+            "text": "そこもかわいいんだけどね",
+            "zh": "不过那样也很可爱就是了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "722/TALK",
+            "narrator": "つばめ",
+            "text": "もう！\nこんな時に！",
+            "zh": "真是的！\n都什么时候了！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "724/TALK",
+            "narrator": "音羽",
+            "text": "ここにはつばめちゃんを\n信じてる人が\n二人もいる。",
+            "zh": "这里可是有\n两个人都相信着\n燕哦。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "725/TALK",
+            "narrator": "音羽",
+            "text": "当の本人が自分を\n信じられないなんて\nおかしくない？",
+            "zh": "偏偏本人自己\n不相信自己，\n不觉得奇怪吗？",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "726/SEL",
+            "narrator": "",
+            "text": "そうだそうだ",
+            "zh": "就是就是",
+            "narrator_zh": ""
+        },
+        {
+            "location": "727/SEL",
+            "narrator": "",
+            "text": "$me$を信用して",
+            "zh": "相信$me$吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "728/SEL",
+            "narrator": "",
+            "text": "つばめならできるよ",
+            "zh": "燕的话一定可以的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "729/ACT",
+            "narrator": "",
+            "text": "そうだそうだ",
+            "zh": "就是就是",
+            "narrator_zh": ""
+        },
+        {
+            "location": "730/TALK",
+            "narrator": "つばめ",
+            "text": "そ、そうかな…。",
+            "zh": "是、是这样吗……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "731/ACT",
+            "narrator": "",
+            "text": "$me$を信用して",
+            "zh": "相信$me$吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "733/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんの\n言うことなら\n信じられる気がする。",
+            "zh": "如果是$handle$\n说的话，总觉得\n我就能相信。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "734/ACT",
+            "narrator": "",
+            "text": "つばめならできるよ",
+            "zh": "燕的话一定可以的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "735/TALK",
+            "narrator": "つばめ",
+            "text": "……うん。\nがんばる。",
+            "zh": "……嗯。\n我会加油。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "739/TALK",
+            "narrator": "つばめ",
+            "text": "でもわたし、\n死んでる、よね…？",
+            "zh": "可是我，\n已经死了，对吧……？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "740/TALK",
+            "narrator": "音羽",
+            "text": "死んでなんかないから。",
+            "zh": "你根本就没有死。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "741/TALK",
+            "narrator": "音羽",
+            "text": "ここはつばめちゃんの\nフェノメノンの中でしょ。",
+            "zh": "这里是在燕的\nPhenoMENON里面吧。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "742/TALK",
+            "narrator": "音羽",
+            "text": "本人が死んでないと\n思ったら死んでない。",
+            "zh": "只要本人觉得没死，\n那就没有死。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "744/TALK",
+            "narrator": "つばめ",
+            "text": "あ、あれ？",
+            "zh": "啊、咦？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "745/TALK",
+            "narrator": "音羽",
+            "text": "今つばめちゃんが\n考えなきゃいけないことは\nひとつだけ。",
+            "zh": "现在燕\n需要去想的事，\n只有这一件。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "746/TALK",
+            "narrator": "音羽",
+            "text": "神楽を助ける。\nそのために歌う。\nただそれだけ。",
+            "zh": "救下神乐。\n为了这个而唱。\n就只有这样。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "747/TALK",
+            "narrator": "つばめ",
+            "text": "神楽ちゃんを、\n助ける……。",
+            "zh": "把神乐，\n救下来……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "748/SEL",
+            "narrator": "",
+            "text": "助けよう！",
+            "zh": "去救她吧！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "749/SEL",
+            "narrator": "",
+            "text": "つばめにしかできないことだよ",
+            "zh": "这是只有燕才能做到的事哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "750/SEL",
+            "narrator": "",
+            "text": "$me$も応援するから",
+            "zh": "$me$也会为你加油的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "751/ACT",
+            "narrator": "",
+            "text": "助けよう！",
+            "zh": "去救她吧！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "756/TALK",
+            "narrator": "つばめ",
+            "text": "…うん。",
+            "zh": "……嗯。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "757/ACT",
+            "narrator": "",
+            "text": "つばめにしかできないことだよ",
+            "zh": "这是只有燕才能做到的事哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "762/TALK",
+            "narrator": "つばめ",
+            "text": "わたしにしか\nできないこと…。",
+            "zh": "只有我\n才能做到的事……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "763/ACT",
+            "narrator": "",
+            "text": "$me$も応援するから",
+            "zh": "$me$也会为你加油的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "769/TALK",
+            "narrator": "つばめ",
+            "text": "…ありがとう。",
+            "zh": "……谢谢你。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "771/TALK",
+            "narrator": "音羽",
+            "text": "私は、千羽鶴が\n私や神楽にしたことを\n本気で怒ってる。",
+            "zh": "千羽鹤对我和神乐\n做的那些事，\n我是真的非常生气。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "772/TALK",
+            "narrator": "音羽",
+            "text": "だから借りは全部返す。",
+            "zh": "所以这笔账我会全数讨回来。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "774/TALK",
+            "narrator": "つばめ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "775/TALK",
+            "narrator": "音羽",
+            "text": "因果応報。",
+            "zh": "因果报应。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "776/TALK",
+            "narrator": "音羽",
+            "text": "今の状態は神の采配って\nものだと思うの。\nこの世に神がいるのなら。",
+            "zh": "我觉得现在这个状况，\n正是神的安排。\n如果这世上真有神的话。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "778/TALK",
+            "narrator": "つばめ",
+            "text": "…わたし…。",
+            "zh": "……我……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "779/SEL",
+            "narrator": "",
+            "text": "そろそろ急いで！",
+            "zh": "差不多该抓紧了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "780/SEL",
+            "narrator": "",
+            "text": "歌の準備を始めないと",
+            "zh": "得开始准备唱歌了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "781/SEL",
+            "narrator": "",
+            "text": "このままだとタイムリミットになるよ",
+            "zh": "再这样下去就要到时限了哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "782/ACT",
+            "narrator": "",
+            "text": "そろそろ急いで！",
+            "zh": "差不多该抓紧了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "784/TALK",
+            "narrator": "つばめ",
+            "text": "あ、うん！",
+            "zh": "啊，嗯！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "785/ACT",
+            "narrator": "",
+            "text": "歌の準備を始めないと",
+            "zh": "得开始准备唱歌了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "787/TALK",
+            "narrator": "つばめ",
+            "text": "そ、そうだね。",
+            "zh": "对、对呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "788/ACT",
+            "narrator": "",
+            "text": "このままだとタイムリミットになるよ",
+            "zh": "再这样下去就要到时限了哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "790/TALK",
+            "narrator": "つばめ",
+            "text": "え、急がないと！",
+            "zh": "诶，得快点才行！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "792/TALK",
+            "narrator": "音羽",
+            "text": "ごめんね。\n自分の話をしすぎた\nみたい。",
+            "zh": "抱歉。\n我好像说太多\n自己的事了。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "793/TALK",
+            "narrator": "音羽",
+            "text": "神楽が歌い終わる前に\nつばめちゃんは\n歌わなきゃいけないのに。",
+            "zh": "明明在神乐唱完之前，\n燕就必须\n唱起来才行的。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "795/TALK",
+            "narrator": "つばめ",
+            "text": "もしわたしが\n歌えなかったら…？",
+            "zh": "要是我\n没唱出来的话……？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "796/TALK",
+            "narrator": "音羽",
+            "text": "…言っていい？",
+            "zh": "……可以说吗？",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "797/TALK",
+            "narrator": "音羽",
+            "text": "そうなったら本当に\nつばめちゃんは死ぬの。",
+            "zh": "那样的话，\n燕真的会死的。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "798/TALK",
+            "narrator": "つばめ",
+            "text": "！！！！",
+            "zh": "！！！！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "799/TALK",
+            "narrator": "音羽",
+            "text": "でもそんなことには\nならないって信じてる。",
+            "zh": "不过我相信，\n绝不会变成那样的。",
+            "narrator_zh": "音羽"
+        },
+        {
+            "location": "801/TALK",
+            "narrator": "つばめ",
+            "text": "…ありがとう。",
+            "zh": "……谢谢。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "802/TALK",
+            "narrator": "つばめ",
+            "text": "神楽ちゃん…！\nわたしの歌を聞いて…！",
+            "zh": "神乐……！\n听听我的歌……！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "813/DIALOG",
+            "narrator": "Dialog_chapter_ch01",
+            "text": "【28 時計じかけのイチゴ】",
+            "zh": "【28 发条草莓】",
+            "narrator_zh": "Dialog_chapter_ch01"
+        }
+    ]
+}
