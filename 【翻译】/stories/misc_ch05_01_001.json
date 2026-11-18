@@ -1,0 +1,903 @@
+{
+    "dir": "chap01/himegoto/misc_ch05_01_001.js",
+    "type": "MainStory",
+    "info": {
+        "story_id": "1505",
+        "cid": "kagura",
+        "title": "005 メインストーリー",
+        "sub_title": "残業申請していいですか？",
+        "title_zh": "005 主线剧情",
+        "sub_title_zh": "可以申请加班吗？"
+    },
+    "entry": [
+        {
+            "location": "1139/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さん",
+            "zh": "$handle$",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1140/TALK",
+            "narrator": "神楽",
+            "text": "夜分遅くにすみません。少しお付き合いいただけませんか？",
+            "zh": "这么晚了，抱歉。能稍微陪我一会儿吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1143/SEL",
+            "narrator": "",
+            "text": "もちろん",
+            "zh": "当然",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1144/SEL",
+            "narrator": "",
+            "text": "まあいいけど",
+            "zh": "也行吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1145/SEL",
+            "narrator": "",
+            "text": "恋人同士になるの！？喜んで！",
+            "zh": "要变成恋人了！？我愿意！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1146/ACT",
+            "narrator": "",
+            "text": "もちろん",
+            "zh": "当然",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1147/TALK",
+            "narrator": "神楽",
+            "text": "ありがとうございます。仕事熱心なんですね",
+            "zh": "谢谢。你工作还挺热心的",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1148/ACT",
+            "narrator": "",
+            "text": "まあいいけど",
+            "zh": "也行吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1149/TALK",
+            "narrator": "神楽",
+            "text": "非常識ですみません",
+            "zh": "这么不懂分寸，抱歉",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1150/ACT",
+            "narrator": "",
+            "text": "恋人同士になるの！？喜んで！",
+            "zh": "要变成恋人了！？我愿意！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1151/TALK",
+            "narrator": "神楽",
+            "text": "えっと、すみません",
+            "zh": "那个，抱歉",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1152/TALK",
+            "narrator": "神楽",
+            "text": "誤爆",
+            "zh": "发错了",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1153/TALK",
+            "narrator": "神楽",
+            "text": "誤送信してませんか？",
+            "zh": "你没发错吧？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1155/TALK",
+            "narrator": "神楽",
+            "text": "今日は色々ありがとうございました。",
+            "zh": "今天帮了不少忙，谢谢你。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1156/TALK",
+            "narrator": "神楽",
+            "text": "一応スタンスを聞いておきたいのですが、$handle$さんは私に何をどこまでサポートするように命じられているのでしょうか？",
+            "zh": "想先确认一下立场。$handle$被吩咐，要怎样支持我、支持到哪一步？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1157/TALK",
+            "narrator": "神楽",
+            "text": "いわゆるユーザーサポート的なものだと思うのですが、サービス上限を超える依頼などをして後で取り返しつかなくなると困るので",
+            "zh": "我想应该是所谓用户支持那一类。要是提了超出服务上限的请求，事后收不了场就麻烦了",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1159/SEL",
+            "narrator": "",
+            "text": "文字ベースで回答出来る範囲かな",
+            "zh": "大概是能用文字回答的范围吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1160/SEL",
+            "narrator": "",
+            "text": "神楽への愛は無制限だよ",
+            "zh": "对神乐的爱是无限的哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1161/ACT",
+            "narrator": "",
+            "text": "文字ベースで回答出来る範囲かな",
+            "zh": "大概是能用文字回答的范围吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1162/TALK",
+            "narrator": "神楽",
+            "text": "まあ、そうですよね",
+            "zh": "嗯，也是啊",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1163/TALK",
+            "narrator": "神楽",
+            "text": "でもその内容ですよ、例えば唐突に恋愛の悩みなんて打ち明けられても困るじゃないですか",
+            "zh": "可内容就是问题了。比如突然跟我倒恋爱的苦水，我会很为难的",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1164/ACT",
+            "narrator": "",
+            "text": "神楽への愛は無制限だよ",
+            "zh": "对神乐的爱是无限的哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1166/TALK",
+            "narrator": "神楽",
+            "text": "深夜テンションですか？",
+            "zh": "深夜上头了？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1167/TALK",
+            "narrator": "神楽",
+            "text": "そんなこと言ってると明日の朝後悔しますよ？",
+            "zh": "再说这种话，明天早上会后悔的哦？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1168/TALK",
+            "narrator": "神楽",
+            "text": "私が「じゃあつき合って」とか言い出したら困りますよね？？",
+            "zh": "要是我来一句「那就交往吧」，你会为难的吧？？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1171/SEL",
+            "narrator": "",
+            "text": "確かに",
+            "zh": "确实",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1172/SEL",
+            "narrator": "",
+            "text": "何言ってるのバッチオッケーっす！！",
+            "zh": "你在说什么，完全OK的！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1173/ACT",
+            "narrator": "",
+            "text": "確かに",
+            "zh": "确实",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1174/TALK",
+            "narrator": "神楽",
+            "text": "ですから、その辺りを明確にしたいと思いまして",
+            "zh": "所以我想把这块说清楚",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1175/TALK",
+            "narrator": "神楽",
+            "text": "ナビとしての業務範囲をお教えいただけますと幸いです",
+            "zh": "要是能告诉我，作为导航的业务范围，就再好不过了",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1176/ACT",
+            "narrator": "",
+            "text": "何言ってるのバッチオッケーっす！！",
+            "zh": "你在说什么，完全OK的！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1178/TALK",
+            "narrator": "神楽",
+            "text": "いや、冗談はいいんで。あまり公私混同するようなら担当変えてもらいますよ",
+            "zh": "别开玩笑了。再这样公私不分，我就要求换人了",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1179/TALK",
+            "narrator": "神楽",
+            "text": "あーでも、外との回線が止められてるのか",
+            "zh": "啊，不过，跟外面的线路是不是被掐了",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1180/TALK",
+            "narrator": "神楽",
+            "text": "ていうか、あなたは本当にただのナビですか？",
+            "zh": "话说回来，你真的只是个导航吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1183/SEL",
+            "narrator": "",
+            "text": "ナビもするけど、神楽を支えるためにいるんだよ",
+            "zh": "导航也会做，不过我是为了支撑神乐才在的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1184/ACT",
+            "narrator": "",
+            "text": "ナビもするけど、神楽を支えるためにいるんだよ",
+            "zh": "导航也会做，不过我是为了支撑神乐才在的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1186/TALK",
+            "narrator": "神楽",
+            "text": "支えるですか？",
+            "zh": "支撑？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1188/TALK",
+            "narrator": "神楽",
+            "text": "例えば？",
+            "zh": "比如说？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1190/SEL",
+            "narrator": "",
+            "text": "辛いときに支えるよ",
+            "zh": "难过的时候会撑住你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1191/SEL",
+            "narrator": "",
+            "text": "選択に困ったとき一緒に考えるよ",
+            "zh": "拿不定主意的时候，会一起想",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1192/ACT",
+            "narrator": "",
+            "text": "辛いときに支えるよ",
+            "zh": "难过的时候会撑住你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1193/TALK",
+            "narrator": "神楽",
+            "text": "ならば無能ですね",
+            "zh": "那就是没用了",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1194/TALK",
+            "narrator": "神楽",
+            "text": "既に辛いです",
+            "zh": "我已经很难过了",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1196/SEL",
+            "narrator": "",
+            "text": "ごめんね…",
+            "zh": "抱歉……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1197/SEL",
+            "narrator": "",
+            "text": "まだ初日だしね、最初なんてそんなモノでしょ？",
+            "zh": "才第一天嘛，开头不都这样吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1198/ACT",
+            "narrator": "",
+            "text": "ごめんね…",
+            "zh": "抱歉……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1199/TALK",
+            "narrator": "神楽",
+            "text": "そこで凹まれても",
+            "zh": "你在这时候泄气",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1200/TALK",
+            "narrator": "神楽",
+            "text": "どっちが支える立場なんですか",
+            "zh": "到底谁才是该撑着的那一边",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1201/ACT",
+            "narrator": "",
+            "text": "まだ初日だしね、最初なんてそんなモノでしょ？",
+            "zh": "才第一天嘛，开头不都这样吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1202/TALK",
+            "narrator": "神楽",
+            "text": "まあ、確かにそうですね",
+            "zh": "嗯，说得也是",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1203/TALK",
+            "narrator": "神楽",
+            "text": "そもそも私に危害を加えるようなものを彼らが",
+            "zh": "本来他们也不会把会对我造成伤害的东西",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1205/TALK",
+            "narrator": "神楽",
+            "text": "それはわからないか",
+            "zh": "这我也说不好",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1206/TALK",
+            "narrator": "神楽",
+            "text": "では当面よろしくお願いします",
+            "zh": "那就暂时拜托你了",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1209/SEL",
+            "narrator": "",
+            "text": "頑張ります",
+            "zh": "我会努力的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1210/ACT",
+            "narrator": "",
+            "text": "頑張ります",
+            "zh": "我会努力的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1212/TALK",
+            "narrator": "神楽",
+            "text": "でも、何となくですけど、あまり話すのには抵抗なさそうなので",
+            "zh": "不过，总觉得你好像不太抗拒说话",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1213/TALK",
+            "narrator": "神楽",
+            "text": "異世界間じゃ、何かに発展することも無いでしょうし",
+            "zh": "异世界之间，也不会发展成什么吧",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1214/TALK",
+            "narrator": "神楽",
+            "text": "お試し期間で気楽にやってみようかと思いました",
+            "zh": "我想先当试用期，轻松地试试",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1215/TALK",
+            "narrator": "神楽",
+            "text": "というわけで、お試しで今の悩みを解決してもらってもいいですか？",
+            "zh": "所以，能先用试用的名义，帮我解决现在的烦恼吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1216/ACT",
+            "narrator": "",
+            "text": "選択に困ったとき一緒に考えるよ",
+            "zh": "拿不定主意的时候，会一起想",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1218/TALK",
+            "narrator": "神楽",
+            "text": "では早速ですけど、今悩んでる事があるんです。解決してください。",
+            "zh": "那就马上说。我现在有件烦心事。请解决它。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1221/SEL",
+            "narrator": "",
+            "text": "何でも言って！",
+            "zh": "尽管说！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1222/SEL",
+            "narrator": "",
+            "text": "まあ、出来ることなら",
+            "zh": "嗯，能做到的话",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1223/ACT",
+            "narrator": "",
+            "text": "何でも言って！",
+            "zh": "尽管说！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1224/TALK",
+            "narrator": "神楽",
+            "text": "軽いですね",
+            "zh": "真轻松啊",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1225/ACT",
+            "narrator": "",
+            "text": "まあ、出来ることなら",
+            "zh": "嗯，能做到的话",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1226/TALK",
+            "narrator": "神楽",
+            "text": "現実主義なんですか？",
+            "zh": "你是现实主义者吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1228/TALK",
+            "narrator": "神楽",
+            "text": "まあ、大した事じゃないんですけど",
+            "zh": "嗯，也不是什么大事",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1229/TALK",
+            "narrator": "神楽",
+            "text": "この世界のハイティ",
+            "zh": "这个世界的High-T",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1230/TALK",
+            "narrator": "神楽",
+            "text": "女子高生のこと、全然わからないんですけど、ひとつだけわかってることがあって",
+            "zh": "女高中生的事我完全不懂，不过有一件事我是知道的",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1231/TALK",
+            "narrator": "神楽",
+            "text": "こんな風な事務的な会話はしないですよね",
+            "zh": "她们不会像这样谈公务吧",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1232/TALK",
+            "narrator": "神楽",
+            "text": "どんな会話をすればいいのか、教えてもらえませんか？",
+            "zh": "该聊什么样的话，能教教我吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1234/SEL",
+            "narrator": "",
+            "text": "好きな食べ物とか、服とかの会話だよ",
+            "zh": "就是喜欢的食物啊、衣服之类的话题",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1235/SEL",
+            "narrator": "",
+            "text": "会話そのものが遊びになってるよ",
+            "zh": "聊天本身就变成了一种玩",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1236/ACT",
+            "narrator": "",
+            "text": "好きな食べ物とか、服とかの会話だよ",
+            "zh": "就是喜欢的食物啊、衣服之类的话题",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1237/TALK",
+            "narrator": "神楽",
+            "text": "普通ですよね",
+            "zh": "很普通吧",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1238/TALK",
+            "narrator": "神楽",
+            "text": "そんなのメモパッドでやりとりすればいいのに",
+            "zh": "那种事用备忘录交换不就好了",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1240/SEL",
+            "narrator": "",
+            "text": "それじゃ楽しくないじゃん",
+            "zh": "那样多没意思",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1241/ACT",
+            "narrator": "",
+            "text": "それじゃ楽しくないじゃん",
+            "zh": "那样多没意思",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1243/TALK",
+            "narrator": "神楽",
+            "text": "ではWAVEで楽しく食べ物や服の会話をするには？",
+            "zh": "那要在WAVE上开心地聊食物和衣服，该怎么做？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1244/ACT",
+            "narrator": "",
+            "text": "会話そのものが遊びになってるよ",
+            "zh": "聊天本身就变成了一种玩",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1245/TALK",
+            "narrator": "神楽",
+            "text": "どんな？",
+            "zh": "怎么个玩法？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1248/SEL",
+            "narrator": "",
+            "text": "キャラを作ったりするよ",
+            "zh": "会立个人设之类的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1249/SEL",
+            "narrator": "",
+            "text": "語尾をヘンな風にしたりする",
+            "zh": "会把句尾弄得很怪",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1250/ACT",
+            "narrator": "",
+            "text": "キャラを作ったりするよ",
+            "zh": "会立个人设之类的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1251/TALK",
+            "narrator": "神楽",
+            "text": "なるほど",
+            "zh": "原来如此",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1252/TALK",
+            "narrator": "神楽",
+            "text": "もしかして「にゃんにゃんはにゃんにゃんしちゃうにゃー」みたいなヤツですか？",
+            "zh": "难道是「喵喵就要喵喵起来了喵」这种？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1254/SEL",
+            "narrator": "",
+            "text": "だいたい合ってる",
+            "zh": "差不多就是这样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1255/SEL",
+            "narrator": "",
+            "text": "ちょっと古い気がするけど",
+            "zh": "感觉有点过时了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1256/ACT",
+            "narrator": "",
+            "text": "だいたい合ってる",
+            "zh": "差不多就是这样",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1257/TALK",
+            "narrator": "神楽",
+            "text": "なるほど",
+            "zh": "原来如此",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1258/ACT",
+            "narrator": "",
+            "text": "ちょっと古い気がするけど",
+            "zh": "感觉有点过时了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1259/TALK",
+            "narrator": "神楽",
+            "text": "時代考証は後でちゃんと調べます。何となくの方向性でいいんです",
+            "zh": "时代考证我之后会好好查。现在有个大概方向就行",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1260/TALK",
+            "narrator": "神楽",
+            "text": "まあ、間違ってはいないということですよね",
+            "zh": "也就是说，方向没错，对吧",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1262/ACT",
+            "narrator": "",
+            "text": "語尾をヘンな風にしたりする",
+            "zh": "会把句尾弄得很怪",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1263/TALK",
+            "narrator": "神楽",
+            "text": "「そうだょ」とか「そうだお！」みたいなやつですよね",
+            "zh": "就是「是呀」或者「是的哦！」这种，对吧",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1264/TALK",
+            "narrator": "神楽",
+            "text": "なるほど",
+            "zh": "原来如此",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1265/TALK",
+            "narrator": "神楽",
+            "text": "割とキャラを作る感じなんですね、流行としては",
+            "zh": "就流行来说，还挺讲究立人设的",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1267/TALK",
+            "narrator": "神楽",
+            "text": "何となくですが、感覚が掴めてきた気がします。",
+            "zh": "虽然只是感觉，我好像抓住一点了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1268/TALK",
+            "narrator": "神楽",
+            "text": "ちょっとキャラの方向で考えてみますね",
+            "zh": "我试着往人设那个方向想想",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1269/TALK",
+            "narrator": "神楽",
+            "text": "夜遅いのに、真摯に答えてくれてありがとうございました！",
+            "zh": "这么晚了还认真回答我，谢谢你！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1271/SEL",
+            "narrator": "",
+            "text": "どう致しまして",
+            "zh": "不客气",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1272/SEL",
+            "narrator": "",
+            "text": "$me$は24時間体制だから気にしないで！",
+            "zh": "$me$是二十四小时制的，别在意！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1273/ACT",
+            "narrator": "",
+            "text": "どう致しまして",
+            "zh": "不客气",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1274/TALK",
+            "narrator": "神楽",
+            "text": "それじゃ、おやすみなさい",
+            "zh": "那，晚安",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1275/ACT",
+            "narrator": "",
+            "text": "$me$は24時間体制だから気にしないで！",
+            "zh": "$me$是二十四小时制的，别在意！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1277/TALK",
+            "narrator": "神楽",
+            "text": "仕事熱心なんですね",
+            "zh": "你工作还挺热心的",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1278/TALK",
+            "narrator": "神楽",
+            "text": "って、私もそういう意味では24時間体制ですよね、これ",
+            "zh": "这么说，这意义上我也是二十四小时制呢",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1279/TALK",
+            "narrator": "神楽",
+            "text": "お互い大変ですね",
+            "zh": "彼此都不容易啊",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1280/TALK",
+            "narrator": "神楽",
+            "text": "(ﾟ∀ﾟ)人(ﾟ∀ﾟ)ﾅｶｰﾏ",
+            "zh": "(ﾟ∀ﾟ)人(ﾟ∀ﾟ)伙伴",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1281/TALK",
+            "narrator": "神楽",
+            "text": "こんなの見つけました。使い方合ってます？",
+            "zh": "我找到了这个。用法对吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1283/SEL",
+            "narrator": "",
+            "text": "合ってるよ！",
+            "zh": "对的！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1284/SEL",
+            "narrator": "",
+            "text": "ちょっと古いかな！",
+            "zh": "有点过时了吧！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1285/ACT",
+            "narrator": "",
+            "text": "合ってるよ！",
+            "zh": "对的！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1286/TALK",
+            "narrator": "神楽",
+            "text": "よかった♪",
+            "zh": "太好了♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1287/ACT",
+            "narrator": "",
+            "text": "ちょっと古いかな！",
+            "zh": "有点过时了吧！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1288/TALK",
+            "narrator": "神楽",
+            "text": "あらら",
+            "zh": "哎呀",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1289/TALK",
+            "narrator": "神楽",
+            "text": "参考になります♪",
+            "zh": "有参考价值♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1291/TALK",
+            "narrator": "神楽",
+            "text": "それじゃこの辺で失礼します",
+            "zh": "那我先告辞了",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1292/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さんも、お仕事は程々にして休んでくださいね",
+            "zh": "$handle$也别工作太过，好好休息哦",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1294/SEL",
+            "narrator": "",
+            "text": "ありがとう",
+            "zh": "谢谢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1295/SEL",
+            "narrator": "",
+            "text": "神楽優しい！",
+            "zh": "神乐好温柔！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1296/ACT",
+            "narrator": "",
+            "text": "ありがとう",
+            "zh": "谢谢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1297/ACT",
+            "narrator": "",
+            "text": "神楽優しい！",
+            "zh": "神乐好温柔！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "1299/TALK",
+            "narrator": "神楽",
+            "text": "また相談乗ってください♪",
+            "zh": "再帮我参谋参谋哦♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "1322/DIALOG",
+            "narrator": "Dialog_chapter_ch05",
+            "text": "【02 PrisMATRIX.】",
+            "zh": "【02 PrisMATRIX.】",
+            "narrator_zh": "Dialog_chapter_ch05"
+        },
+        {
+            "location": "1333/DIALOG",
+            "narrator": "Dialog_chapter_ch05",
+            "text": "【02 PrisMATRIX.】",
+            "zh": "【02 PrisMATRIX.】",
+            "narrator_zh": "Dialog_chapter_ch05"
+        }
+    ]
+}
