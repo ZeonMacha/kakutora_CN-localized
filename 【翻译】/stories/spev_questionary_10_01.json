@@ -1,0 +1,1253 @@
+{
+    "dir": "chap00/daydra/spev_questionary_10_01.js",
+    "type": "",
+    "info": {
+        "story_id": "91060",
+        "cid": "",
+        "title": "アンケート",
+        "sub_title": "思い出のチャームを作ろう！",
+        "title_zh": "问卷调查",
+        "sub_title_zh": "制作回忆挂饰吧！"
+    },
+    "entry": [
+        {
+            "location": "19/DIALOG",
+            "narrator": "",
+            "text": "イベントをスキップして\nアンケートの回答だけしますか？",
+            "zh": "要跳过活动剧情，\n直接填写问卷吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "つばめ",
+            "text": "こんにちは、\n逢瀬つばめです！",
+            "zh": "你好，\n我是逢濑燕！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "34/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ガブリエラよ。",
+            "zh": "我是加布里埃拉。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "37/TALK",
+            "narrator": "神楽",
+            "text": "ぴょんこですよ～♪",
+            "zh": "我是蹦子哦～♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "38/TALK",
+            "narrator": "つばめ",
+            "text": "今日は、\n$handle$さんに\nお話があって。",
+            "zh": "今天呀，\n有件事想跟\n$handle$说。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "39/TALK",
+            "narrator": "ガブリエラ",
+            "text": "お話っていうか、\n手伝って欲しいことって\nいう感じかしらね。",
+            "zh": "与其说是谈事，\n不如说是希望你\n帮个忙的感觉吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "40/TALK",
+            "narrator": "神楽",
+            "text": "その話をするよりまず、\n前提を知ってるかどうか\n聞かないと！",
+            "zh": "在谈那件事之前，\n得先问问知不知道\n大前提才行！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "42/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ああ、そうね。",
+            "zh": "啊，说得对。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "45/DIALOG",
+            "narrator": "",
+            "text": "逢瀬つばめ(15)\n逆さまに吊られる",
+            "zh": "逢濑燕(15)\n被倒吊起来",
+            "narrator_zh": ""
+        },
+        {
+            "location": "50/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんは、\nチャームっていうのを\n知ってますか？",
+            "zh": "$handle$，\n你听说过\n挂饰这种东西吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "52/TALK",
+            "narrator": "ガブリエラ",
+            "text": "つばめが吊されたのなら\n前に見たことあるわね。",
+            "zh": "要是把燕吊起来的那种，\n我之前倒是见过呢。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "55/TALK",
+            "narrator": "つばめ",
+            "text": "人聞き悪い事\n言わないでください！",
+            "zh": "请不要说得\n那么吓人啦！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "神楽",
+            "text": "人聞き悪くなんて\nありませんよ？",
+            "zh": "哪有说得那么\n吓人呀？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "57/TALK",
+            "narrator": "神楽",
+            "text": "わたしなんて、吊られた\nつばめさんチャームを\n見ながらいつも――",
+            "zh": "像我啊，总是看着\n被吊起来的燕挂饰\n一边——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "58/TALK",
+            "narrator": "つばめ",
+            "text": "意味が分かりません。",
+            "zh": "我听不懂你在说什么。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "神楽",
+            "text": "まだ何も\n言ってませんーっ！",
+            "zh": "我还什么都\n没说呢——！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "つばめ",
+            "text": "言わなくてもわかります。",
+            "zh": "你不说我也知道。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "61/TALK",
+            "narrator": "神楽",
+            "text": "えーなんですかー？\nじゃあ言ってください♪",
+            "zh": "诶——是什么呀——？\n那你倒是说出来听听嘛♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "62/TALK",
+            "narrator": "ガブリエラ",
+            "text": "このふたりの会話、\nだんだん夫婦漫才みたいに\nなってきたわね。",
+            "zh": "这两个人的对话，\n越来越像在说夫妻\n相声了呢。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "67/TALK",
+            "narrator": "つばめ",
+            "text": "と、とにかく！",
+            "zh": "总、总之！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "68/TALK",
+            "narrator": "つばめ",
+            "text": "そのチャームに\nちょっとした事件が\nありまして！",
+            "zh": "关于那个挂饰，\n发生了点小事件\n哦！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "70/TALK",
+            "narrator": "ガブリエラ",
+            "text": "事件…？\nっていう程のこと…？",
+            "zh": "事件……？\n有严重到那地步吗……？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "72/TALK",
+            "narrator": "神楽",
+            "text": "いえ、これは事件です！",
+            "zh": "不，这就是事件！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "73/TALK",
+            "narrator": "つばめ",
+            "text": "なんと、次回の\n$handle$さんの\n世界のイベントに！",
+            "zh": "居然，在下一次\n$handle$那边的\n世界的活动上！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "75/TALK",
+            "narrator": "神楽",
+            "text": "いわゆる夏の、\n東京は有明での\n一大イベントに！",
+            "zh": "也就是俗称的夏天、\n在东京有明举办的\n一大盛会上！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "77/TALK",
+            "narrator": "ガブリエラ",
+            "text": "つばめ、アーヤ、あたし、\nみやび、神楽、千羽鶴の\nチャームが出るらしいの。",
+            "zh": "听说要推出燕、绫水、我、\n雅、神乐，还有千羽鹤的\n挂饰呢。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "78/TALK",
+            "narrator": "つばめ",
+            "text": "それも、\n思い出のワンシーン\nチャームなんだよー！",
+            "zh": "而且还是\n回忆那一幕主题的\n挂饰哟——！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "79/TALK",
+            "narrator": "神楽",
+            "text": "まあ$handlek$には\n私たちの生活を普段悉く\n監視されてるわけですが。",
+            "zh": "嘛，虽说我们的日常\n平时都被$handlek$\n全天候监视着就是了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "81/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だいぶ\nたまってそうね…。",
+            "zh": "看来积攒得\n可真不少呢……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "神楽",
+            "text": "実は$handlek$、\n割と私達が立って話してる\n所しか見てないですよね。",
+            "zh": "其实$handlek$\n平时也就只看到过我们\n站着说话的样子吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あと、あたしたちの\n会話にしか出てこなかった\nオモシロ話もあるでしょ？",
+            "zh": "还有，有些只出现在\n我们闲聊里的\n有趣段子对吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "85/TALK",
+            "narrator": "つばめ",
+            "text": "そういう、実際には\n見られなかった楽しそうな\nシーンとか！",
+            "zh": "就像那种，实际上\n没能看见的、看起来很\n开心的场景呀！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "86/TALK",
+            "narrator": "神楽",
+            "text": "絶対に後世まで残して、\n辱め続けたいシーンとか。",
+            "zh": "绝对想留存到后世、\n让人一直丢脸羞耻的场景呀。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "87/TALK",
+            "narrator": "つばめ",
+            "text": "そういうのをチャームに\nするんだって～――",
+            "zh": "听说就是要把那些\n做成挂饰的呢～——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "89/TALK",
+            "narrator": "つばめ",
+            "text": "…って、辱め！？！？",
+            "zh": "……等等，丢脸！？！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "91/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ということは、つばめが\n騙されまくっていた学園\n生活がチャームになると。",
+            "zh": "也就是说，燕被骗得\n团团转的学园生活\n要做成挂饰了咯。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "つばめ",
+            "text": "えっ、そこなの！？",
+            "zh": "诶，是那里吗！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "94/TALK",
+            "narrator": "神楽",
+            "text": "違いますよね！\nもちろん、つばめさんが\n壁ドンされてる所ですよ！",
+            "zh": "不对吧！\n当然是燕被我\n壁咚的那一幕啦！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "96/TALK",
+            "narrator": "つばめ",
+            "text": "そっち！？",
+            "zh": "是那一幕！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "97/TALK",
+            "narrator": "ガブリエラ",
+            "text": "神楽はもう、レジストリー\nクリンナープで\n決まりでしょ？",
+            "zh": "神乐的话，肯定非\n“注册表清理”\n莫属了吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "101/TALK",
+            "narrator": "神楽",
+            "text": "呪いますよ。\nていうか、なんでそれ\n知ってるんですか？",
+            "zh": "我会诅咒你的哦。\n话说回来，你为什么\n会知道那个啊？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あたしの情報網を\nなめない方がいいわよ？",
+            "zh": "你最好别小瞧\n我的情报网哦？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "神楽",
+            "text": "まあ、そういう\nガブちゃんも……。",
+            "zh": "嘛，这么说的\n加布也是……",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "105/TALK",
+            "narrator": "ガブリエラ",
+            "text": "……何よ。",
+            "zh": "……干嘛啦。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "106/TALK",
+            "narrator": "神楽",
+            "text": "あのシーンで\n決まりですけどね。",
+            "zh": "肯定也非那个\n场景莫属了吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "108/TALK",
+            "narrator": "つばめ",
+            "text": "そうだよね！\nあのシーンしかないよ。",
+            "zh": "就是呀！\n只有那个场景了嘛。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "109/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ちょ、ちょっと何よ！\nちゃんと口に出して\n言いなさいよね！",
+            "zh": "等、等下什么嘛！\n给我好好说出口\n讲清楚啊！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "110/TALK",
+            "narrator": "神楽",
+            "text": "やだっ、そんな。\n口に出すなんて、\n恥ずかし過ぎちゃって♪",
+            "zh": "讨厌，哪能这样。\n要说出口什么的，\n太让人害羞了嘛♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "111/TALK",
+            "narrator": "つばめ",
+            "text": "えへへ～♪",
+            "zh": "诶嘿嘿～♪",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "112/TALK",
+            "narrator": "ガブリエラ",
+            "text": "はぁ！？\nな、なによそれ！",
+            "zh": "哈啊！？\n那、那是什么鬼啊！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "113/TALK",
+            "narrator": "ガブリエラ",
+            "text": "えっ、なに？",
+            "zh": "诶，什么呀？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "114/TALK",
+            "narrator": "ガブリエラ",
+            "text": "もしかしてあの、一人で\nいたときに～…～してたの\nバレてる？",
+            "zh": "难道说我一个人在的时候\n在做～……～的那件事\n暴露了吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "116/TALK",
+            "narrator": "つばめ",
+            "text": "…で。\nノリで合わせちゃったけど\n何のことなんだろう？",
+            "zh": "……话说。\n我刚才顺着气氛搭了腔，\n其实是在说什么呀？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "131/TALK",
+            "narrator": "みやび",
+            "text": "毎度思うことやけんど。",
+            "zh": "每回都这么觉得咯，但是。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "アーヤ",
+            "text": "なに？",
+            "zh": "什么？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "134/TALK",
+            "narrator": "みやび",
+            "text": "５人でわちゃわちゃやると\n収拾つかなくなるのは\nわかる。",
+            "zh": "5个人凑一块吵吵闹闹\n就收不了场，这个\n我懂。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "135/TALK",
+            "narrator": "みやび",
+            "text": "けんど、なんで毎回\nこの組み合わせぞね。",
+            "zh": "但是，怎么每次都是\n这个组合咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "136/TALK",
+            "narrator": "アーヤ",
+            "text": "毎回っていう程でも…。",
+            "zh": "也没有每次吧……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "137/TALK",
+            "narrator": "みやび",
+            "text": "うちが壮年組というのは\nどうにも納得いかんちや。",
+            "zh": "把我归进壮年组这回事，\n怎么想都服不了滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "アーヤ",
+            "text": "そ、壮年！？",
+            "zh": "壮、壮年！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "139/TALK",
+            "narrator": "アーヤ",
+            "text": "私って壮年なの…？",
+            "zh": "我算壮年吗……？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "140/TALK",
+            "narrator": "みやび",
+            "text": "まあ、あの３人組の\n血気盛んな様は、みやび\n婆にはついて行けんが。",
+            "zh": "嘛，那三个人\n精力旺盛成那个样子，\n雅老婆婆我是跟不上咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "141/TALK",
+            "narrator": "アーヤ",
+            "text": "どっちなのよ。",
+            "zh": "你到底站哪边啊。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "みやび",
+            "text": "ところで、３人組が\n話をしゆうアレ、アーヤは\n何を思い出にしたい？",
+            "zh": "说起来，那三个人\n正在聊的那个，绫水你\n想拿什么当回忆？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "143/TALK",
+            "narrator": "アーヤ",
+            "text": "うーん、そうね。せっかく\n$handle$さんの\n世界に届くのだから――",
+            "zh": "嗯——我想想。难得\n能送到$handle$\n那边的世界去——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "144/TALK",
+            "narrator": "アーヤ",
+            "text": "やっぱりこう、\nちょっといいシーンが\nいいんじゃないかしら。",
+            "zh": "果然还是挑个\n稍微美好一点的场景\n比较好吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "145/TALK",
+            "narrator": "みやび",
+            "text": "例えば――",
+            "zh": "譬如说——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "みやび",
+            "text": "アーヤが湯上がりに\n巻いてたバスタオルが、\n落ちてもた時の事とか？",
+            "zh": "绫水刚洗完澡\n围着的浴巾，结果\n掉下来的那回咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "147/TALK",
+            "narrator": "アーヤ",
+            "text": "それのどこが\nいいシーンなわけ？",
+            "zh": "那种事哪里\n美好了啊？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "148/TALK",
+            "narrator": "アーヤ",
+            "text": "それに、思い出のシーン\nなんだから、過去に実際に\nあった事限定でしょ？",
+            "zh": "再说了，既然叫回忆场景，\n肯定仅限于过去\n实际发生过的事吧？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "149/TALK",
+            "narrator": "みやび",
+            "text": "なるほど。\nならば今夜あたり\n既成事実を……。",
+            "zh": "原来如此。\n那么今晚左右就来制造\n既成事实……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "150/TALK",
+            "narrator": "アーヤ",
+            "text": "やめて！\n返り討ちにするわよ。",
+            "zh": "别乱来！\n小心我反杀你哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "151/TALK",
+            "narrator": "みやび",
+            "text": "いかん、アーヤのこの顔は\n実家パンツ事件の再来を\n予見するに十分……。",
+            "zh": "不妙，绫水这表情\n足以预见老家内裤事件\n要重演了……[?]",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "152/TALK",
+            "narrator": "みやび",
+            "text": "ま、まあそんな冗談は\n置いておいて、やよ！",
+            "zh": "好、好了，那种玩笑话\n先放一边咯！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "153/TALK",
+            "narrator": "アーヤ",
+            "text": "とても冗談とは\n思えない目をしてたけど。",
+            "zh": "你刚才的眼神可一点都不像\n在开玩笑就是了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "154/TALK",
+            "narrator": "みやび",
+            "text": "そういったシーンを、\n$handle$に選んで\nもらうのが今回の主旨ぞね",
+            "zh": "让$handle$来挑出\n那一类的场景，\n就是这回的主旨咧",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "155/TALK",
+            "narrator": "アーヤ",
+            "text": "ああ、\nそういうことだったの。",
+            "zh": "啊，\n原来是这么回事。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "156/TALK",
+            "narrator": "みやび",
+            "text": "そうゆうことやよ。",
+            "zh": "就是这么回事咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "157/TALK",
+            "narrator": "アーヤ",
+            "text": "それはそれで、\nちょっとドキドキ\nするわね。",
+            "zh": "话是这么说，\n倒也让人觉得\n有点小鹿乱撞呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "159/TALK",
+            "narrator": "アーヤ",
+            "text": "甘くて切なくて、\n素敵な思い出のシーンを\n選んでくださいね？",
+            "zh": "还请挑一个既甜蜜\n又带点苦涩的\n美妙回忆场景哦？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "161/TALK",
+            "narrator": "みやび",
+            "text": "うちは適当でえいよ。",
+            "zh": "我的话随便点就得。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "191/DIALOG",
+            "narrator": "",
+            "text": "<color=red>【CAUTION!】</color>\n\n以降、貴方にとっての\nシナリオ上の\nネタバレがあります。\n\nその部分を飛ばしますか？\n",
+            "zh": "<color=red>【CAUTION!】</color>\n\n以下内容包含\n对你而言的\n主线剧情剧透。\n\n要跳过这部分吗？\n",
+            "narrator_zh": ""
+        },
+        {
+            "location": "201/DIALOG",
+            "narrator": "",
+            "text": "一方その頃、\nココロゲートでは――",
+            "zh": "与此同时，\n在心之扉里——",
+            "narrator_zh": ""
+        },
+        {
+            "location": "242/TALK",
+            "narrator": "カレン",
+            "text": "百鶴さん！\nわたしたちも、チャームに\nなれるみたいですよ！",
+            "zh": "百鹤！\n好像我们也能\n做成挂饰哦！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "244/TALK",
+            "narrator": "百鶴　",
+            "text": "ぶっちゃけ\n興味ありませんね。",
+            "zh": "老实说，\n没什么兴趣。",
+            "narrator_zh": "百鹤"
+        },
+        {
+            "location": "245/TALK",
+            "narrator": "カレン",
+            "text": "そうですか、残念です。",
+            "zh": "是这样啊，真遗憾。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "246/TALK",
+            "narrator": "カレン",
+            "text": "でも百鶴さん、\n今回の企画は乗った方が\nいいと思うんです！",
+            "zh": "不过百鹤，\n我觉得这次的企划\n还是参加比较好！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "247/TALK",
+            "narrator": "カレン",
+            "text": "百鶴さんって、コンビニで\nスイーツ買ったり、\nコタツで蜜柑食べてたり―",
+            "zh": "像是百鹤在便利店\n买甜品啦，\n钻在被炉里吃橘子啦——",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "248/TALK",
+            "narrator": "カレン",
+            "text": "そういう謎な情報が\n言葉でだけ出回って\nいるじゃないですか。",
+            "zh": "不是只有这类谜之情报\n光靠口头在外面\n流传嘛。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "249/TALK",
+            "narrator": "百鶴　",
+            "text": "それはあなたが勝手に\n吹聴しているんじゃ\nありませんか。",
+            "zh": "那难道不是你\n自己擅自在外面\n四处宣扬的吗。",
+            "narrator_zh": "百鹤"
+        },
+        {
+            "location": "250/TALK",
+            "narrator": "カレン",
+            "text": "確かにそうですけど、\n嘘は言ってませんよ！",
+            "zh": "确实是这样没错，\n但我可没有说谎哦！",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "251/TALK",
+            "narrator": "百鶴　",
+            "text": "それはわかってますよ。\nですが――",
+            "zh": "这点我清楚。\n不过——",
+            "narrator_zh": "百鹤"
+        },
+        {
+            "location": "252/TALK",
+            "narrator": "カレン",
+            "text": "でも$handle$さんは\n実際にそれを\n見たことありませんよね。",
+            "zh": "可是$handle$\n实际上还没有亲眼\n见过那些吧。",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "253/TALK",
+            "narrator": "百鶴　",
+            "text": "当然ですよ。",
+            "zh": "那当然了。",
+            "narrator_zh": "百鹤"
+        },
+        {
+            "location": "254/TALK",
+            "narrator": "百鶴　",
+            "text": "わざわざ乙女の■■を\n晒すようなことをするわけ\n無いじゃありませんか。",
+            "zh": "怎么可能会特意做\n把少女的■■晒出去\n那种事嘛。",
+            "narrator_zh": "百鹤"
+        },
+        {
+            "location": "255/TALK",
+            "narrator": "カレン",
+            "text": "でも、商品化されたら\n$handle$さんが\n百鶴さんのを一杯買うと―",
+            "zh": "可是，一旦商品化了，\n$handle$就会把\n百鹤那款买一大堆——",
+            "narrator_zh": "卡莲"
+        },
+        {
+            "location": "257/TALK",
+            "narrator": "百鶴　",
+            "text": "蜜柑食ってる\n場合じゃねえ！！",
+            "zh": "还吃个鬼的\n橘子啊！！",
+            "narrator_zh": "百鹤"
+        },
+        {
+            "location": "288/TALK",
+            "narrator": "エヴェレット",
+            "text": "――ということ\nらしいんだけど。",
+            "zh": "——听说情况\n大概就是这样。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "290/TALK",
+            "narrator": "白烏　",
+            "text": "安心して、\nエヴェレット。",
+            "zh": "放心吧，\n艾弗雷特。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "291/TALK",
+            "narrator": "白烏　",
+            "text": "考えるまでも無く、\n私たちにそんな華々しい\n思い出は無いから。",
+            "zh": "用不着多想，\n我们可没有那种\n光鲜亮丽的回忆。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "292/TALK",
+            "narrator": "エヴェレット",
+            "text": "またそういう事を……。",
+            "zh": "怎么又说这种话……",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "293/TALK",
+            "narrator": "白烏　",
+            "text": "じゃあ、何がある？\n言ってみて？",
+            "zh": "那，能有什么？\n你说说看？",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "294/TALK",
+            "narrator": "エヴェレット",
+            "text": "えっと、そうね～…",
+            "zh": "那个，我想想～……",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "295/TALK",
+            "narrator": "エヴェレット",
+            "text": "正義のために\n邁進する姿を――！",
+            "zh": "为了正义而\n勇往直前的身姿——！",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "296/TALK",
+            "narrator": "白烏　",
+            "text": "真面目すぎて\nあまり売れなさそうね。",
+            "zh": "太正经了，\n感觉不太会好卖呢。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "297/TALK",
+            "narrator": "エヴェレット",
+            "text": "そ、そうかしら！？",
+            "zh": "是、是这样吗！？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "299/TALK",
+            "narrator": "白烏　",
+            "text": "あ、それより、\nよさそうなものを\n思いついたわよ？",
+            "zh": "啊，比起那个，\n我倒是想到个不错的\n画面哦？",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "300/TALK",
+            "narrator": "エヴェレット",
+            "text": "え？\nなになに？",
+            "zh": "诶？\n什么什么？",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "301/TALK",
+            "narrator": "白烏　",
+            "text": "エヴェレットと\n$handle$さんが、\n$ayami_33_chu$回キスしてるとこ。",
+            "zh": "艾弗雷特和\n$handle$，\n亲了$ayami_33_chu$次的场景。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "303/TALK",
+            "narrator": "エヴェレット",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "305/TALK",
+            "narrator": "白烏　",
+            "text": "まあ、心配しないで。\n私たちが日陰者なのは\nいつものことだから。",
+            "zh": "嘛，不用担心。\n反正我们一直都是\n活在暗处的人了。",
+            "narrator_zh": "白鸦"
+        },
+        {
+            "location": "306/TALK",
+            "narrator": "エヴェレット",
+            "text": "一緒にしないで。",
+            "zh": "别把我也算进去。",
+            "narrator_zh": "艾弗雷特"
+        },
+        {
+            "location": "339/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "で、なに？　あたしが\n豚に襲われてるシーンを\n記念チャームにするわけ？",
+            "zh": "所以呢，怎样？要把我\n被猪扑倒袭击的场景\n做成纪念挂饰吗？",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "340/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "ほんと、これだから豚は\n万年豚なのよ！",
+            "zh": "真是的，就因为这样，\n猪永远都只能是万年猪！",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "341/TALK",
+            "narrator": "マルザンナ",
+            "text": "えっと、リヴォルカ？\nわざわざ悲しい思い出を\nチャームにしなくても…。",
+            "zh": "那个，莉沃尔卡？\n也不用特意把悲伤的回忆\n做成挂饰吧……",
+            "narrator_zh": "玛尔赞娜"
+        },
+        {
+            "location": "343/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "か、悲しくない思い出\nなんてないわよ！\nあんただってそうでしょ？",
+            "zh": "没、没有不悲伤的\n回忆啦！\n你不也是一样吗？",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "344/TALK",
+            "narrator": "マルザンナ",
+            "text": "そんなことないわ。",
+            "zh": "才没有那种事呢。",
+            "narrator_zh": "玛尔赞娜"
+        },
+        {
+            "location": "345/TALK",
+            "narrator": "マルザンナ",
+            "text": "例えば、あたしなら、\n$handle$と一緒に\n司書の仕事に逆らったり、",
+            "zh": "比如我的话，就有\n和$handle$一起\n违抗司书的职责啦，",
+            "narrator_zh": "玛尔赞娜"
+        },
+        {
+            "location": "346/TALK",
+            "narrator": "マルザンナ",
+            "text": "ゲートが壊れてても\n全然気づかなかったりとか\nいろいろあるもの。",
+            "zh": "或者门扉早就坏了\n却完全没察觉到之类的，\n还是有很多回忆的嘛。",
+            "narrator_zh": "玛尔赞娜"
+        },
+        {
+            "location": "347/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "それって、\nやっぱ悲しくない？",
+            "zh": "那些事，\n不也照样很悲惨吗？",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "348/TALK",
+            "narrator": "マルザンナ",
+            "text": "うーん……\n見ようによっては…。",
+            "zh": "嗯——……\n就看怎么看待了……",
+            "narrator_zh": "玛尔赞娜"
+        },
+        {
+            "location": "349/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "まあいいわ。\nそういうのを考える事こそ\n豚の得意分野だと思うし。",
+            "zh": "算了随你吧。\n毕竟去想这种点子\n才正是猪的拿手好戏呢。",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "350/TALK",
+            "narrator": "マルザンナ",
+            "text": "あ、そっか！　今回は、\n$handle$が\n考えてくれるのよね！",
+            "zh": "啊，对哦！这次是\n$handle$来帮我们\n出点子的对吧！",
+            "narrator_zh": "玛尔赞娜"
+        },
+        {
+            "location": "351/TALK",
+            "narrator": "マルザンナ",
+            "text": "どんな思い出を\n楽しみにしているのか\n見るのが楽しみね♪",
+            "zh": "真期待能看到\n你都盼着什么样的\n回忆呢♪",
+            "narrator_zh": "玛尔赞娜"
+        },
+        {
+            "location": "352/TALK",
+            "narrator": "リヴォルカ　",
+            "text": "あたしのは、絶対に\n豚引き連れてる絵の案\nばかり来そうだわね……。",
+            "zh": "我那份，绝对\n只会涌来一堆牵着猪\n的构图提案吧……。",
+            "narrator_zh": "莉沃尔卡"
+        },
+        {
+            "location": "383/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "うちは毎回\nドツキ起こして\nいただいた件かね。",
+            "zh": "我就是每回都要\n劳驾被人敲醒\n那码事咯。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "385/TALK",
+            "narrator": "四十九夜　",
+            "text": "うちは毎回\n容赦なく切断した件ぞね。",
+            "zh": "我就是每回都\n毫不留情切断线路那码事咧。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "386/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "お互い\nろくな思い出がないね。",
+            "zh": "我们俩彼此都\n没得什么正经回忆咯。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "387/TALK",
+            "narrator": "四十九夜　",
+            "text": "いや、お前さんは\n色々暗躍しちゅうろう？",
+            "zh": "不，你不是暗地里\n搞了不少小动作咩？",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "388/TALK",
+            "narrator": "四十九夜　",
+            "text": "颯爽とつばめちゃんの\nココロスフィアに潜入する\n絵でも所望すればえいろう",
+            "zh": "干脆许愿画一张你\n潇洒潜入燕心灵领域的\n图不就得了啵",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "389/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "それゆうなら、お前さんも\nなごちゃんを愛でちゅう\nシーン大公開なぞどうや。",
+            "zh": "要这么讲的话，你把\n宠爱七五的那一幕\n大公开又如何咧。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "390/TALK",
+            "narrator": "四十九夜　",
+            "text": "却下。なごちゃんを\n愛でるシーンは\n最重要機密ぞね。",
+            "zh": "驳回。宠爱七五的\n场景可是最核心机密\n咧。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "391/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "そうなんか。\nまあ事実はどうであれ――",
+            "zh": "是这样咩。\n嘛，不管事实如何——",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "392/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "相棒がそのシーンを\n所望すれば、捏造やろが\n何やろが描かれるのだが。",
+            "zh": "只要搭档点名要看\n那一幕，管它是捏造的\n还是驷马，都会画出来咯。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "393/TALK",
+            "narrator": "四十九夜　",
+            "text": "…世知辛い世の中やね。",
+            "zh": "……世道真是不易咯。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "394/TALK",
+            "narrator": "シンギュラリティ",
+            "text": "まあ、なんだ。\n枯れた会話しちゅうね、\nうちら。",
+            "zh": "嘛，怎么说呢。\n我们俩聊得\n可真是老气横秋咯。",
+            "narrator_zh": "奇点"
+        },
+        {
+            "location": "395/TALK",
+            "narrator": "四十九夜　",
+            "text": "ピチピチやけんど\n88歳やきね。",
+            "zh": "虽然水灵紧致，但是\n已经88岁了嘛。",
+            "narrator_zh": "四十九夜"
+        },
+        {
+            "location": "426/TALK",
+            "narrator": "ぴょんこ",
+            "text": "ぴょ～～～～～ん♪\n遂に来ましたよっ！",
+            "zh": "蹦～～～～～♪\n终于轮到我们啦！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "429/TALK",
+            "narrator": "ぴょんこ",
+            "text": "ぴょんこと\n$handle$さんの\n為の企画！",
+            "zh": "专门为了蹦子和\n$handle$而准备的\n企划！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "430/TALK",
+            "narrator": "ぴょんこ",
+            "text": "もちろん\n$handle$さんはっ！",
+            "zh": "当然\n$handle$肯定！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "433/TALK",
+            "narrator": "ぴょんこ",
+            "text": "ぴょんことの×××で\n×××なあのシーンに\n決まってますよねっ！",
+            "zh": "肯定会选和蹦子一起\n做×××又×××的\n那一幕对吧！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "434/TALK",
+            "narrator": "ぴょんこ",
+            "text": "きゃーーー！\n恥ずかしいです～～っ！",
+            "zh": "呀———！\n好害羞呀～～！",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "467/TALK",
+            "narrator": "月神楽　",
+            "text": "いや、どう考えても\nこのシーン一択だろ。",
+            "zh": "不对，不管怎么想\n都只有这一个场景吧。",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "468/TALK",
+            "narrator": "月神楽　",
+            "text": "そう思いませんか？\nねえ、ねえ！",
+            "zh": "你不这么觉得吗？\n喂，喂！",
+            "narrator_zh": "月神乐"
+        },
+        {
+            "location": "469/TALK",
+            "narrator": "ぴょんこ",
+            "text": "あ、あい…\nそうです…ね……♪",
+            "zh": "是、是的……\n就是这样……吧……♪",
+            "narrator_zh": "蹦子"
+        },
+        {
+            "location": "484/TALK",
+            "narrator": "千羽鶴",
+            "text": "というわけで。",
+            "zh": "总而言之。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "485/TALK",
+            "narrator": "千羽鶴",
+            "text": "彼女たちの説明では\n何がなんだか\n解らなかったと思うので。",
+            "zh": "我想光听她们的说明，\n你大概还是搞不懂\n到底是怎么回事。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "486/TALK",
+            "narrator": "千羽鶴",
+            "text": "私が最後に\nまとめることにする。",
+            "zh": "所以最后由我\n来做个总结。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "489/DIALOG",
+            "narrator": "",
+            "text": "彼女との思い出が、チャームになる企画。",
+            "zh": "将与她的回忆做成挂饰的企划。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "491/TALK",
+            "narrator": "千羽鶴",
+            "text": "あなたの世界の\nガストショップで、新しい\nチャームが販売される。",
+            "zh": "在你的世界的\nGUST商店，将会发售\n全新的挂饰。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "492/TALK",
+            "narrator": "千羽鶴",
+            "text": "それは、次の\n夏に開催されるイベントで\n初お披露目するらしい。",
+            "zh": "听说那会在下个\n夏天举办的活动上\n首次公开亮相。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "493/TALK",
+            "narrator": "千羽鶴",
+            "text": "そして今回のポイントと\nしては――",
+            "zh": "而这次的重点\n在于——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "494/TALK",
+            "narrator": "千羽鶴",
+            "text": "逢瀬つばめ、國政綾水、\nガブリエラ、恋ヶ崎みやび\n卯月神楽――",
+            "zh": "逢濑燕、国政绫水、\n加布里埃拉、恋之崎雅、\n卯月神乐——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "495/TALK",
+            "narrator": "千羽鶴",
+            "text": "そして私、千羽鶴に\n１つずつ割り当てがあり、\n６種類リリースされる点。",
+            "zh": "以及我——千羽鹤，\n每人各分配1个名额，\n共发售6种。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "496/TALK",
+            "narrator": "千羽鶴",
+            "text": "そして更にポイントと\nなるのが、その絵柄。",
+            "zh": "而更进一步的重点，\n则是挂饰的图案。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "497/TALK",
+            "narrator": "千羽鶴",
+            "text": "貴方と彼女が今まで\n実際にデイドラ等でふれ\n合ってきたシーンになる。",
+            "zh": "将会选取你与她至今\n在每日剧场等处实际\n互动交流过的场景。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "498/TALK",
+            "narrator": "千羽鶴",
+            "text": "それも、例えば「語られて\nはいるけど、そんなシーン\n見たこと無い」とか――",
+            "zh": "而且，比如像“虽然嘴上\n提过，但根本没见过\n那种场景”啦——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "499/TALK",
+            "narrator": "千羽鶴",
+            "text": "「本当は派手に立ち回って\nいるはずなのに、立って\n会話していたシーン」とか",
+            "zh": "“明明本该打得热火朝天，\n结果只是站着\n聊天的场景”之类的",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "500/TALK",
+            "narrator": "千羽鶴",
+            "text": "そういう、見たかったのに\n見られなかったシーンを\n絵にしていく点。",
+            "zh": "就是把那种你想看却没能\n看到的场景，重新\n绘制成图画。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "507/DIALOG",
+            "narrator": "",
+            "text": "可能な限り、このEpのこのシーン\nみたいな応募をして欲しい。",
+            "zh": "请尽可能以“这一话的这个场景”\n这种形式进行投稿。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "509/TALK",
+            "narrator": "千羽鶴",
+            "text": "例えば、",
+            "zh": "举个例子，",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "510/TALK",
+            "narrator": "千羽鶴",
+            "text": "卯月神楽が「レジストリー\nクリンナップ」とポーズを\nつけて叫ぶシーンがある。",
+            "zh": "有卯月神乐摆好姿势\n大喊“注册表·清理”的\n那一幕。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "511/TALK",
+            "narrator": "千羽鶴",
+            "text": "実際のシーンは、\n普通に立っている\nだけだけど――",
+            "zh": "实际画面里，她只是\n平平淡淡地站在\n那里而已——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "512/TALK",
+            "narrator": "千羽鶴",
+            "text": "今回、採用されれば\n実際にポーズを付けた\n彼女がチャームになる。",
+            "zh": "这次，一旦方案被采用，\n真正摆出姿势的她\n就会被做成挂饰。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "517/TALK",
+            "narrator": "千羽鶴",
+            "text": "それは、ココロの司書でも\n構わないことになってる。",
+            "zh": "这方面，选择心之司书\n也是可以的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "518/TALK",
+            "narrator": "千羽鶴",
+            "text": "ただし、司書は現実の\n彼女と同じ枠になるから、",
+            "zh": "不过，由于司书和现实的\n她共用同一个名额，",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "519/TALK",
+            "narrator": "千羽鶴",
+            "text": "現実、ココロあわせて\n採用されるのは、彼女一人\nにつき１案だけ。",
+            "zh": "现实和心灵加起来，\n每位少女最终被采用的\n只有1个方案。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "520/TALK",
+            "narrator": "千羽鶴",
+            "text": "チャームの個数的な制約で\nなかなか難しいところでは\nあると思うけど――",
+            "zh": "受限于挂饰的种类数量，\n确实挺难取舍\n的——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "521/TALK",
+            "narrator": "千羽鶴",
+            "text": "もしよければ、\n貴方のベストシーンや\n見たいシーンを投稿して。",
+            "zh": "如果方便的话，\n请把你的最佳场景或\n想看的场景投稿过来。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "522/TALK",
+            "narrator": "千羽鶴",
+            "text": "最終的には、向こうの\n世界の然るべき存在が、\n検討委員会を開き、",
+            "zh": "最终，对面世界的\n有关部门会专门\n召开评审委员会，",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "523/TALK",
+            "narrator": "千羽鶴",
+            "text": "どの思い出こそがベストか\n貴方の投稿を元に、彼女\n一人ずつ厳選する。",
+            "zh": "依据你的投稿，替每位少女\n逐一严格甄选出\n究竟哪段回忆才是最佳。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "524/TALK",
+            "narrator": "千羽鶴",
+            "text": "そんな、貴方が作る\n貴方と彼女との\n思い出のチャーム――",
+            "zh": "由你亲自打造、\n属于你和她的\n回忆挂饰——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "527/TALK",
+            "narrator": "千羽鶴",
+            "text": "今回は私も含む。",
+            "zh": "这次也包括我在内。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "529/TALK",
+            "narrator": "千羽鶴",
+            "text": "――に、是非！\nこぞって参加して欲しい！",
+            "zh": "——请务必！\n踊跃参加！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "540/DIALOG",
+            "narrator": "",
+            "text": "投稿フォームを\n開きますか？",
+            "zh": "要打开投稿\n表单吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "546/DIALOG",
+            "narrator": "",
+            "text": "投稿文書が未記入です。\nもう一度記入しますか？",
+            "zh": "投稿内容尚未填写。\n要重新填写吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "555/DIALOG",
+            "narrator": "",
+            "text": "<size=35><color=blue>【投稿送信所】</color></size>\n\n<color=green>あなたの投稿は\n正常に投函されました。\n</color>\n\nご提案ありがとうございました！\n",
+            "zh": "<size=35><color=blue>【投稿发送处】</color></size>\n\n<color=green>你的投稿已\n成功投递。\n</color>\n\n感谢你的宝贵提案！\n",
+            "narrator_zh": ""
+        }
+    ]
+}

@@ -1,0 +1,581 @@
+{
+    "dir": "chap00/daydra/spev_ch05_001.js",
+    "type": "EventQuest",
+    "info": {
+        "story_id": "91015",
+        "cid": "kagura",
+        "title": "【期間限定】誕生日イベント",
+        "sub_title": "神楽の誕生日",
+        "title_zh": "【限时】生日活动",
+        "sub_title_zh": "神乐的生日"
+    },
+    "entry": [
+        {
+            "location": "8/SCENARIO",
+            "narrator": "",
+            "text": "神楽の誕生日（復元）",
+            "zh": "神乐的生日（复原）",
+            "narrator_zh": ""
+        },
+        {
+            "location": "20/TALK",
+            "narrator": "神楽",
+            "text": "？\nどうしたんですか？",
+            "zh": "？\n怎么了吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "21/SEL",
+            "narrator": "",
+            "text": "お誕生日おめでとう！",
+            "zh": "生日快乐！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "22/ACT",
+            "narrator": "",
+            "text": "お誕生日おめでとう！",
+            "zh": "生日快乐！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "24/TALK",
+            "narrator": "神楽",
+            "text": "えええええっ！！\n私の誕生日ですかっ！？",
+            "zh": "诶诶诶诶诶！！\n是我的生日吗！？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "25/TALK",
+            "narrator": "神楽",
+            "text": "ビックリしちゃいました！\nまさか私の誕生日をお祝\nいしてくれるなんて…",
+            "zh": "吓了我一跳！\n真没想到你会来帮我\n庆祝生日……",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "26/TALK",
+            "narrator": "神楽",
+            "text": "とっても嬉しいです♪",
+            "zh": "我非常开心♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "27/SEL",
+            "narrator": "",
+            "text": "プレゼントあるよ",
+            "zh": "有礼物哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "28/ACT",
+            "narrator": "",
+            "text": "プレゼントあるよ",
+            "zh": "有礼物哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "神楽",
+            "text": "えっ！？\nほんとですか？\nすごーい！",
+            "zh": "诶！？\n真的吗？\n好厉害——！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "神楽",
+            "text": "至れり尽くせりですねっ！",
+            "zh": "这也太周到了吧！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "34/TALK",
+            "narrator": "神楽",
+            "text": "わあっ！\nとっても楽しみです♪",
+            "zh": "哇！\n好期待呀♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "35/TALK",
+            "narrator": "神楽",
+            "text": "今すぐ開けてもいいです\nかっ！？",
+            "zh": "现在就可以打开\n吗！？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "36/SEL",
+            "narrator": "",
+            "text": "もちろんあけて",
+            "zh": "当然，打开吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "37/SEL",
+            "narrator": "",
+            "text": "嫌な予感がする",
+            "zh": "有种不好的预感",
+            "narrator_zh": ""
+        },
+        {
+            "location": "38/ACT",
+            "narrator": "",
+            "text": "もちろんあけて",
+            "zh": "当然，打开吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "39/ACT",
+            "narrator": "",
+            "text": "嫌な予感がする",
+            "zh": "有种不好的预感",
+            "narrator_zh": ""
+        },
+        {
+            "location": "40/TALK",
+            "narrator": "神楽",
+            "text": "またそんな事言って！\n脅かそうったってそうは\nいきませんよ？",
+            "zh": "又说这种话！\n想吓唬我，我可不会\n上当哦？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "42/TALK",
+            "narrator": "神楽",
+            "text": "開けまーす♪",
+            "zh": "我开啦——♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "48/DIALOG",
+            "narrator": "",
+            "text": "神楽のコスチューム\n<size=40><color=red><b>Dimention Error. 0x01</b></color></size>\nをゲットしました！",
+            "zh": "神乐的服装\n<size=40><color=red><b>Dimention Error. 0x01</b></color></size>\n拿到了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "57/DIALOG",
+            "narrator": "",
+            "text": "\n\nこれよりTRI-OSは、\n”パラメトリック理論に基づく\n世界選択法”による、未来選択\nモードに移行します。\n\n未来は一時的に不確定性となり\nおよそ7日間の期間を経て再創造\nされることになります。",
+            "zh": "\n\n接下来TRI-OS将切换至\n依托“基于参数化理论的\n世界选择法”的未来选择\n模式。\n\n未来将暂时处于不确定状态，\n并在经过约7天的时间后重新\n创造。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "58/SEL",
+            "narrator": "",
+            "text": "は！？",
+            "zh": "哈！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "59/ACT",
+            "narrator": "",
+            "text": "は！？",
+            "zh": "哈！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "63/TALK",
+            "narrator": "ソイルトン",
+            "text": "こんにちは、こんばんは、ソイルトンです。",
+            "zh": "你好，晚上好，我是索伊尔顿。",
+            "narrator_zh": "索伊尔顿"
+        },
+        {
+            "location": "64/SEL",
+            "narrator": "",
+            "text": "ちょっとｗｗｗなんでソイルトンちゃんがここにｗｗ",
+            "zh": "等等哈哈哈，为什么小索伊尔顿会在这里啊哈哈",
+            "narrator_zh": ""
+        },
+        {
+            "location": "65/ACT",
+            "narrator": "",
+            "text": "ちょっとｗｗｗなんでソイルトンちゃんがここにｗｗ",
+            "zh": "等等哈哈哈，为什么小索伊尔顿会在这里啊哈哈",
+            "narrator_zh": ""
+        },
+        {
+            "location": "67/TALK",
+            "narrator": "ソイルトン",
+            "text": "極小範囲ではあり、世界の一部が不確定性となりましたので、私の出番がやってきたようです。",
+            "zh": "虽然只是极小范围，但由于世界的一部分陷入了不确定状态，似乎轮到我登场了呢。",
+            "narrator_zh": "索伊尔顿"
+        },
+        {
+            "location": "68/SEL",
+            "narrator": "",
+            "text": "何が起こってるの？",
+            "zh": "发生什么事了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "69/ACT",
+            "narrator": "",
+            "text": "何が起こってるの？",
+            "zh": "发生什么事了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "71/TALK",
+            "narrator": "ソイルトン",
+            "text": "卯月神楽の誕生日にあたり、$handle$は彼女にプレゼントボックスを贈りました。",
+            "zh": "值此卯月神乐生日之际，$handle$送给了她一个礼盒。",
+            "narrator_zh": "索伊尔顿"
+        },
+        {
+            "location": "72/TALK",
+            "narrator": "ソイルトン",
+            "text": "そして彼女はそれを開けました。",
+            "zh": "然后她打开了这个礼盒。",
+            "narrator_zh": "索伊尔顿"
+        },
+        {
+            "location": "73/TALK",
+            "narrator": "ソイルトン",
+            "text": "ところが、このプレゼントボックスには問題がありました。",
+            "zh": "然而，这个礼盒存在一个问题。",
+            "narrator_zh": "索伊尔顿"
+        },
+        {
+            "location": "74/TALK",
+            "narrator": "ソイルトン",
+            "text": "このプレゼントボックスの中身はまだ一度も\"観測\"されておらず、よって不確定性を保持しているのです。",
+            "zh": "这个礼盒里面的东西至今尚未被“观测”过一次，因此保持着不确定性。",
+            "narrator_zh": "索伊尔顿"
+        },
+        {
+            "location": "75/TALK",
+            "narrator": "ソイルトン",
+            "text": "その為この事象に関しては、皆さんの\"総意\"によってプレゼントボックスの観測と確定をしなければなりません。",
+            "zh": "因此针对这一事象，必须通过各位的“总意”来对礼盒进行观测与确定。",
+            "narrator_zh": "索伊尔顿"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "ソイルトン",
+            "text": "さて、プレゼントボックスに入っている可能性があるアイテムは、次の3種類です。",
+            "zh": "那么，礼盒中可能装着的物品共有以下3种。",
+            "narrator_zh": "索伊尔顿"
+        },
+        {
+            "location": "77/TALK",
+            "narrator": "ソイルトン",
+            "text": "この中で、$handle$が\"どのプレゼントを実現したいか\"を選択して下さい。",
+            "zh": "请在这之中选择$handle$“想要实现哪一件礼物”。",
+            "narrator_zh": "索伊尔顿"
+        },
+        {
+            "location": "78/TALK",
+            "narrator": "ソイルトン",
+            "text": "それが\"総意\"として収束し、現実に反映されることになります。",
+            "zh": "该选择会作为“总意”收束，并反映在现实之中。",
+            "narrator_zh": "索伊尔顿"
+        },
+        {
+            "location": "79/SEL",
+            "narrator": "",
+            "text": "要するに多数決でしょ？",
+            "zh": "说白了就是少数服从多数吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "80/ACT",
+            "narrator": "",
+            "text": "要するに多数決でしょ？",
+            "zh": "说白了就是少数服从多数吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "ソイルトン",
+            "text": "観測による不確定性の確定であり量子の収束です。",
+            "zh": "这是通过观测使不确定性得以确定，也就是量子的收束。",
+            "narrator_zh": "索伊尔顿"
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "ソイルトン",
+            "text": "多数決などという、ユメもキボーもない単語を乱用していると、貴方自身もユメを失ってしまいますよ？",
+            "zh": "如果总是滥用“少数服从多数”这种既没梦想又没希望的词，连你自身也会失去梦想哦？",
+            "narrator_zh": "索伊尔顿"
+        },
+        {
+            "location": "85/SEL",
+            "narrator": "",
+            "text": "スポーツウェア",
+            "zh": "运动服",
+            "narrator_zh": ""
+        },
+        {
+            "location": "86/SEL",
+            "narrator": "",
+            "text": "Wishpobia(ライブ衣装)",
+            "zh": "Wishphobia(演出服)",
+            "narrator_zh": ""
+        },
+        {
+            "location": "87/SEL",
+            "narrator": "",
+            "text": "ふたりはラブラブTシャツ",
+            "zh": "二人恩爱T恤",
+            "narrator_zh": ""
+        },
+        {
+            "location": "88/ACT",
+            "narrator": "",
+            "text": "スポーツウェア",
+            "zh": "运动服",
+            "narrator_zh": ""
+        },
+        {
+            "location": "95/DIALOG",
+            "narrator": "",
+            "text": "コスチューム\n<color=red><b>【スポーツウェア】</b></color>\nに投票しました！",
+            "zh": "已为服装\n<color=red><b>【运动服】</b></color>\n投出一票！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "96/ACT",
+            "narrator": "",
+            "text": "Wishpobia(ライブ衣装)",
+            "zh": "Wishphobia(演出服)",
+            "narrator_zh": ""
+        },
+        {
+            "location": "103/DIALOG",
+            "narrator": "",
+            "text": "コスチューム\n<color=red><b>【Wishphobia】</b></color>\nに投票しました！",
+            "zh": "已为服装\n<color=red><b>【Wishphobia】</b></color>\n投出一票！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "104/ACT",
+            "narrator": "",
+            "text": "ふたりはラブラブTシャツ",
+            "zh": "二人恩爱T恤",
+            "narrator_zh": ""
+        },
+        {
+            "location": "111/DIALOG",
+            "narrator": "",
+            "text": "コスチューム\n<color=red><b>【ふたりはラブラブTシャツ】</b></color>\nに投票しました！",
+            "zh": "已为服装\n<color=red><b>【二人恩爱T恤】</b></color>\n投出一票！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "119/TALK",
+            "narrator": "神楽",
+            "text": "わあっ！\nとっても素敵なプレゼン\nトですっ！",
+            "zh": "哇！\n真是太棒的礼物\n啦！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "120/SEL",
+            "narrator": "",
+            "text": "まだ何もあげてないよ？",
+            "zh": "我还什么都没送给你呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "121/ACT",
+            "narrator": "",
+            "text": "まだ何もあげてないよ？",
+            "zh": "我还什么都没送给你呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "123/TALK",
+            "narrator": "神楽",
+            "text": "そうかもしれませんね。",
+            "zh": "也许是这样呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "124/TALK",
+            "narrator": "神楽",
+            "text": "でも、私からすればもう\n戴いているようなものな\nんです。",
+            "zh": "不过，对我而言，\n就已经像是收到\n了一样。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "125/TALK",
+            "narrator": "神楽",
+            "text": "それに――",
+            "zh": "而且——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "126/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さんのプレゼ\nントしてくれる物が嬉し\nくないわけないです。",
+            "zh": "$handle$送给我的\n东西，我怎么可能\n不开心呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "127/TALK",
+            "narrator": "神楽",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "128/TALK",
+            "narrator": "神楽",
+            "text": "あ、そうです！\nちょっとだけ、ふたりで\nゲームをしませんか？",
+            "zh": "啊，对了！\n要不要就我们两个人，\n玩个小游戏呢？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "129/SEL",
+            "narrator": "",
+            "text": "ゲーム？",
+            "zh": "玩游戏？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "130/ACT",
+            "narrator": "",
+            "text": "ゲーム？",
+            "zh": "玩游戏？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "132/TALK",
+            "narrator": "神楽",
+            "text": "そうです！",
+            "zh": "是的！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "神楽",
+            "text": "ジャンケンして\n$handle$さんが勝った\nら――",
+            "zh": "我们来猜拳，\n要是$handle$赢了\n的话——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "134/TALK",
+            "narrator": "神楽",
+            "text": "私にナデナデする権利を\n差し上げます♪",
+            "zh": "我就把摸摸我的\n权利送给你哦♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "135/SEL",
+            "narrator": "",
+            "text": "私が負けたら？",
+            "zh": "那要是我输了呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "136/ACT",
+            "narrator": "",
+            "text": "私が負けたら？",
+            "zh": "那要是我输了呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "神楽",
+            "text": "そのままサヨナラに決まっ\nてるじゃないですか。",
+            "zh": "那当然是直接\n拜拜啦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "139/TALK",
+            "narrator": "神楽",
+            "text": "それじゃ、いきますよ？",
+            "zh": "那么，开始了哦？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "143/TALK",
+            "narrator": "神楽",
+            "text": "それじゃ約束ですし、ナ\nデナデしてください。",
+            "zh": "既然说好了，\n那就请摸摸吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "144/TALK",
+            "narrator": "神楽",
+            "text": "でも、変なところ撫でた\nら呪いますからね？",
+            "zh": "不过，要是敢摸奇怪的\n地方，我会诅咒你的哦？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "150/DIALOG",
+            "narrator": "",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n接続されました。\n\n画面をタップして相手に\n感覚を伝えましょう。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已连接。\n\n请点击画面，向对方\n传达感觉吧。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "170/DIALOG",
+            "narrator": "",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n切断されました。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已断开。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "171/TALK",
+            "narrator": "神楽",
+            "text": "ふふっ…。こういうのっ\nて、なんだか興奮しちゃ\nいませんか？",
+            "zh": "呵呵……像这样的事，\n总觉得莫名会让人\n兴奋起来呢？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "172/TALK",
+            "narrator": "神楽",
+            "text": "今回は、$handle$さん\nと遊べて楽しかったです♪",
+            "zh": "这次能和$handle$\n一起玩，好开心呀♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "173/TALK",
+            "narrator": "神楽",
+            "text": "また一緒に遊びましょう\nね？",
+            "zh": "下次再一起\n玩吧？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "174/TALK",
+            "narrator": "神楽",
+            "text": "それと――",
+            "zh": "还有就是——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "175/TALK",
+            "narrator": "神楽",
+            "text": "お誕生日お祝いしてくれ\nてありがとうございます。",
+            "zh": "谢谢你来帮我\n庆祝生日。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "176/TALK",
+            "narrator": "神楽",
+            "text": "最近、あまり誰かにお祝\nいされること無かったか\nら――",
+            "zh": "最近，都没怎么\n被人这样庆祝过\n——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "177/TALK",
+            "narrator": "神楽",
+            "text": "ちょっとだけ嬉しかった\nですよ♪",
+            "zh": "其实有一点点\n开心哦♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "178/TALK",
+            "narrator": "神楽",
+            "text": "それじゃ、$handle$さ\nん。またです♪",
+            "zh": "那么，$handle$。\n回头见咯♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "189/DIALOG",
+            "narrator": "",
+            "text": "<color=green>【TRI-OS Plug-in:navigator】</color>\n\n誕生日プレゼントの決定は、\n神楽チャンネル解禁時に行います。\n\nまた、そのコスチュームは\n神楽チャンネルをプレイする方\n全員に配布されます。\n\nどうぞお楽しみに！",
+            "zh": "<color=green>【TRI-OS Plug-in:navigator】</color>\n\n生日礼物的最终确定，\n将在神乐频道解禁时进行。\n\n另外，该服装将发放给\n所有游玩神乐频道的\n玩家。\n\n敬请期待！",
+            "narrator_zh": ""
+        }
+    ]
+}

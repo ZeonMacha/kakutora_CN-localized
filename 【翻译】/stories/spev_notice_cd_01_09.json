@@ -1,0 +1,714 @@
+{
+    "dir": "chap00/daydra/spev_notice_cd_01_09.js",
+    "type": "",
+    "info": {
+        "story_id": "91059",
+        "cid": "",
+        "title": "009 アフターストーリー",
+        "sub_title": "【番外】アーヤのひみつサプライズ",
+        "title_zh": "009 后日谈",
+        "sub_title_zh": "【番外】绫水的秘密惊喜"
+    },
+    "entry": [
+        {
+            "location": "2604/DIALOG",
+            "narrator": "",
+            "text": "<color=green>某月某日　1:26 PM</color>\nとある休日、神楽坂トライナリー楽屋にて。",
+            "zh": "<color=green>某月某日　1:26 PM</color>\n某个休息日，在神乐坂三重奏后台。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2605/TALK",
+            "narrator": "神楽",
+            "text": "――じゃあ、カフェの\nメニューはこれで\n決定としますね。",
+            "zh": "——那么，咖啡馆的\n菜单就这样\n定下来了哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2606/TALK",
+            "narrator": "アーヤ",
+            "text": "ええ、わかったわ。",
+            "zh": "嗯，知道了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2607/TALK",
+            "narrator": "みやび",
+            "text": "ふぅ…、思うてたより\n長い道のりやったなぁ…。",
+            "zh": "呼……比我想的\n还要折腾好久呐……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "2609/TALK",
+            "narrator": "神楽",
+            "text": "二人とも、本当に\nお疲れ様でした。",
+            "zh": "两位，真是\n辛苦啦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2610/TALK",
+            "narrator": "神楽",
+            "text": "メニュー表は私の方で\n作成しておきますので、\nあとは任せてください。",
+            "zh": "菜单牌就由我\n这边来制作吧，\n剩下的交给我好了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2611/TALK",
+            "narrator": "みやび",
+            "text": "よろしゅうな。",
+            "zh": "那就麻烦你咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "2612/TALK",
+            "narrator": "アーヤ",
+            "text": "さてと、それじゃ私は\n先に上がらせてもらうわ。",
+            "zh": "好啦，那我就\n先走一步了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2613/TALK",
+            "narrator": "神楽",
+            "text": "珍しいですね。\nアーヤさんが先に\n上がるなんて…。",
+            "zh": "真难得呢。\n绫水居然会\n先一步收工……",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2616/TALK",
+            "narrator": "みやび",
+            "text": "わかった、デートやろ？",
+            "zh": "我懂，是去约会咯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "2617/TALK",
+            "narrator": "アーヤ",
+            "text": "そんなわけないでしょ。\nちょっとやることがある\nだけよ。",
+            "zh": "怎么可能呢。\n只不过有点事\n要做罢了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2618/TALK",
+            "narrator": "みやび",
+            "text": "…そんなわけない\nっちゅう返しは、\nちくっと寂しいがよ。",
+            "zh": "……直接回一句\n“怎么可能”，\n听着有点冷清咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "2619/TALK",
+            "narrator": "神楽",
+            "text": "そうですね…。",
+            "zh": "就是啊……",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2620/TALK",
+            "narrator": "アーヤ",
+            "text": "お、大きなお世話よ。\nそういうわけだから、\nお先にね。",
+            "zh": "多、多管闲事。\n总之就是这么回事，\n我先走啦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2637/TALK",
+            "narrator": "アーヤ",
+            "text": "よし…できた！",
+            "zh": "好……做好了！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2638/TALK",
+            "narrator": "アーヤ",
+            "text": "思ったより時間が\n掛かっちゃったけど…。",
+            "zh": "虽然比预想中\n多花了些时间……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2639/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$、\n喜んでくれるかしら？",
+            "zh": "$handle$，\n会喜欢吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2652/TALK",
+            "narrator": "アーヤ",
+            "text": "見てほしいものがあるの(*^o^*)",
+            "zh": "我有东西想给你看(*^o^*)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2655/SEL",
+            "narrator": "（選択肢）",
+            "text": "かわいい靴下だ！",
+            "zh": "好可爱的袜子！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "2656/ACT",
+            "narrator": "",
+            "text": "かわいい靴下だ！",
+            "zh": "好可爱的袜子！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2658/TALK",
+            "narrator": "アーヤ",
+            "text": "ありがとう(^^",
+            "zh": "谢谢(^^",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2662/SEL",
+            "narrator": "（選択肢）",
+            "text": "前に話してくれた靴下だよね？",
+            "zh": "是之前说过的那双袜子对吧？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "2663/ACT",
+            "narrator": "",
+            "text": "前に話してくれた靴下だよね？",
+            "zh": "是之前说过的那双袜子对吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2665/TALK",
+            "narrator": "アーヤ",
+            "text": "そう",
+            "zh": "是啊",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2666/TALK",
+            "narrator": "アーヤ",
+            "text": "覚えててくれたんだ？(*^^*)",
+            "zh": "你还记得呀？(*^^*)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2667/TALK",
+            "narrator": "アーヤ",
+            "text": "あの靴下がね",
+            "zh": "那双袜子呀",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2669/TALK",
+            "narrator": "アーヤ",
+            "text": "やっと完成したの＼(^O^)／",
+            "zh": "终于做好了＼(^O^)／",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2672/SEL",
+            "narrator": "（選択肢）",
+            "text": "自分で作ったんだ？",
+            "zh": "原来是你自己做的啊？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "2673/ACT",
+            "narrator": "",
+            "text": "自分で作ったんだ？",
+            "zh": "原来是你自己做的啊？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2675/TALK",
+            "narrator": "アーヤ",
+            "text": "そうなの(^^",
+            "zh": "是这样哦(^^",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2676/TALK",
+            "narrator": "アーヤ",
+            "text": "実はね",
+            "zh": "其实呀",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2677/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$にプレゼントしたくて(・・。)ゞ",
+            "zh": "想送给$handle$当礼物(・・。)ゞ",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2678/TALK",
+            "narrator": "アーヤ",
+            "text": "こっそり作ってたの(*^^*)",
+            "zh": "一直偷偷在做着来着(*^^*)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2680/SEL",
+            "narrator": "（選択肢）",
+            "text": "えっ！？　気づかなかった！",
+            "zh": "诶！？　我完全没发现！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "2681/ACT",
+            "narrator": "",
+            "text": "えっ！？　気づかなかった！",
+            "zh": "诶！？　我完全没发现！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2683/TALK",
+            "narrator": "アーヤ",
+            "text": "でしょ？(￣∇￣)",
+            "zh": "是吧？(￣∇￣)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2684/TALK",
+            "narrator": "アーヤ",
+            "text": "隠れて作るの",
+            "zh": "瞒着你偷偷做",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2685/TALK",
+            "narrator": "アーヤ",
+            "text": "大変だったんだから(;^_^A",
+            "zh": "可把我折腾坏了(;^_^A",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2686/TALK",
+            "narrator": "アーヤ",
+            "text": "でも",
+            "zh": "不过",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2688/TALK",
+            "narrator": "アーヤ",
+            "text": "やっと完成したわ＼(^O^)／",
+            "zh": "总算是做完了＼(^O^)／",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2691/TALK",
+            "narrator": "アーヤ",
+            "text": "自分としては",
+            "zh": "我自己觉得",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2692/TALK",
+            "narrator": "アーヤ",
+            "text": "結構いい完成度(￣∇￣)",
+            "zh": "完成度还挺高的(￣∇￣)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2693/TALK",
+            "narrator": "アーヤ",
+            "text": "なんて",
+            "zh": "我也就",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2694/TALK",
+            "narrator": "アーヤ",
+            "text": "自画自賛してみたり(￣∇￣*)ゞ",
+            "zh": "稍微自卖自夸一下(￣∇￣*)ゞ",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2695/TALK",
+            "narrator": "アーヤ",
+            "text": "しっかり作ったから",
+            "zh": "做得很结实",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2696/TALK",
+            "narrator": "アーヤ",
+            "text": "簡単に伸びたり",
+            "zh": "应该不会轻易松垮",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2697/TALK",
+            "narrator": "アーヤ",
+            "text": "破れたりしないはず(=^0^=)",
+            "zh": "或者穿破才对(=^0^=)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2698/TALK",
+            "narrator": "アーヤ",
+            "text": "ただ",
+            "zh": "只不过",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2699/TALK",
+            "narrator": "アーヤ",
+            "text": "デザインが心配かも(｡-_-｡)",
+            "zh": "有点担心款式(｡-_-｡)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2700/TALK",
+            "narrator": "アーヤ",
+            "text": "私の趣味だから",
+            "zh": "毕竟是按我自己的喜好来的",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2701/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$が気に入るか",
+            "zh": "不知道$handle$喜不喜欢",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2702/TALK",
+            "narrator": "アーヤ",
+            "text": "ちょっと不安かも(-ω-;)",
+            "zh": "稍微有点忐忑(-ω-;)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2704/SEL",
+            "narrator": "（選択肢）",
+            "text": "とってもかわいいよ",
+            "zh": "非常可爱哦",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "2705/SEL",
+            "narrator": "（選択肢）",
+            "text": "最高に嬉しいよ",
+            "zh": "开心到极点啦",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "2706/SEL",
+            "narrator": "（選択肢）",
+            "text": "嬉しいけど、ちょっと恥ずかしいかも",
+            "zh": "虽然很开心，但总觉得有点不好意思",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "2707/ACT",
+            "narrator": "",
+            "text": "とってもかわいいよ",
+            "zh": "非常可爱哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2708/TALK",
+            "narrator": "アーヤ",
+            "text": "ありがとう(*^o^*)",
+            "zh": "谢谢(*^o^*)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2709/TALK",
+            "narrator": "アーヤ",
+            "text": "可愛さ重視にしたの",
+            "zh": "我特意偏重了可爱感呢",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2710/TALK",
+            "narrator": "アーヤ",
+            "text": "そっちの方が",
+            "zh": "想着那样的话",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2711/TALK",
+            "narrator": "アーヤ",
+            "text": "いいかなって(・・。)ゞ",
+            "zh": "说不定会更好(・・。)ゞ",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2712/ACT",
+            "narrator": "",
+            "text": "最高に嬉しいよ",
+            "zh": "开心到极点啦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2713/TALK",
+            "narrator": "アーヤ",
+            "text": "本当に？",
+            "zh": "真的吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2714/TALK",
+            "narrator": "アーヤ",
+            "text": "そう言ってもらえると",
+            "zh": "听你这么说",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2715/TALK",
+            "narrator": "アーヤ",
+            "text": "私も嬉しい(^ε^)-☆!!",
+            "zh": "我也很开心(^ε^)-☆!!",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2716/ACT",
+            "narrator": "",
+            "text": "嬉しいけど、ちょっと恥ずかしいかも",
+            "zh": "虽然很开心，但总觉得有点不好意思",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2717/TALK",
+            "narrator": "アーヤ",
+            "text": "やっぱり",
+            "zh": "果然",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2719/TALK",
+            "narrator": "アーヤ",
+            "text": "ちょっと子供っぽかった？(>_<)",
+            "zh": "是稍微有点孩子气了吗？(>_<)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2720/TALK",
+            "narrator": "アーヤ",
+            "text": "人前で靴を脱ぐ日は",
+            "zh": "要在人前脱鞋的日子",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2721/TALK",
+            "narrator": "アーヤ",
+            "text": "履かない方がいいかも(T_T)",
+            "zh": "还是别穿比较好吧(T_T)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2723/SEL",
+            "narrator": "（選択肢）",
+            "text": "でも、すごく嬉しい",
+            "zh": "不过，我真的很开心",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "2724/ACT",
+            "narrator": "",
+            "text": "でも、すごく嬉しい",
+            "zh": "不过，我真的很开心",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2726/TALK",
+            "narrator": "アーヤ",
+            "text": "ありがとう(; ;)",
+            "zh": "谢谢(; ;)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2728/TALK",
+            "narrator": "アーヤ",
+            "text": "喜んでもらえたなら",
+            "zh": "能让你开心的话",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2730/TALK",
+            "narrator": "アーヤ",
+            "text": "作ってよかったわ(^^",
+            "zh": "那这活儿就算没白干(^^",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2731/TALK",
+            "narrator": "アーヤ",
+            "text": "でも",
+            "zh": "不过",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2732/TALK",
+            "narrator": "アーヤ",
+            "text": "本当子供っぽいデザインだから",
+            "zh": "款式确实挺孩子气的",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2733/TALK",
+            "narrator": "アーヤ",
+            "text": "恥ずかしいと思ったら",
+            "zh": "要是觉得不好意思的话",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2734/TALK",
+            "narrator": "アーヤ",
+            "text": "履かないでいいから(;^_^A",
+            "zh": "不穿也没关系的(;^_^A",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2735/TALK",
+            "narrator": "アーヤ",
+            "text": "ただ",
+            "zh": "只是",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2736/TALK",
+            "narrator": "アーヤ",
+            "text": "これを$handle$が持ってくれてたら",
+            "zh": "只要$handle$愿意留着它",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2737/TALK",
+            "narrator": "アーヤ",
+            "text": "それだけで幸せだから(*^^*)",
+            "zh": "光那样我就已经很幸福了(*^^*)",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2740/TALK",
+            "narrator": "アーヤ",
+            "text": "あれ？",
+            "zh": "咦？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2741/TALK",
+            "narrator": "アーヤ",
+            "text": "なんか重い発言？(￣Д￣ )",
+            "zh": "这话是不是听着有点沉重？(￣Д￣ )",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2743/SEL",
+            "narrator": "（選択肢）",
+            "text": "いや、愛を感じる",
+            "zh": "不会，能感受到你的爱",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "2744/SEL",
+            "narrator": "（選択肢）",
+            "text": "ちょっとだけね",
+            "zh": "有那么一点点吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "2745/ACT",
+            "narrator": "",
+            "text": "いや、愛を感じる",
+            "zh": "不会，能感受到你的爱",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2747/TALK",
+            "narrator": "アーヤ",
+            "text": "恥ずかしい",
+            "zh": "好害羞",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2748/ACT",
+            "narrator": "",
+            "text": "ちょっとだけね",
+            "zh": "有那么一点点吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2750/TALK",
+            "narrator": "アーヤ",
+            "text": "でも",
+            "zh": "可是",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2751/TALK",
+            "narrator": "アーヤ",
+            "text": "本当のことだから( ・_・)σﾞ",
+            "zh": "说的可都是真心话哦( ・_・)σﾞ",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2753/TALK",
+            "narrator": "アーヤ",
+            "text": "とにかく",
+            "zh": "总之",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2754/TALK",
+            "narrator": "アーヤ",
+            "text": "完成したことの報告(^^",
+            "zh": "先向你汇报一下已经做好了(^^",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2755/TALK",
+            "narrator": "アーヤ",
+            "text": "今度送るから",
+            "zh": "过阵子寄给你",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2756/TALK",
+            "narrator": "アーヤ",
+            "text": "楽しみにしててね(^з^)-☆",
+            "zh": "敬请期待哦(^з^)-☆",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2767/TALK",
+            "narrator": "アーヤ",
+            "text": "…喜んでもらえて\nよかった。",
+            "zh": "……幸好能让你\n喜欢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2768/TALK",
+            "narrator": "アーヤ",
+            "text": "それじゃ、\n早速ラッピングして…。",
+            "zh": "那么，\n赶紧打包好……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2769/TALK",
+            "narrator": "アーヤ",
+            "text": "…あっ！",
+            "zh": "……啊！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2771/TALK",
+            "narrator": "アーヤ",
+            "text": "そう見せかけて、\n食器と一緒に送ったら…。",
+            "zh": "先佯装过阵子才寄，\n悄悄和餐具一起发过去的话……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2772/TALK",
+            "narrator": "アーヤ",
+            "text": "きっと、\n$handle$驚くわ。",
+            "zh": "一定能让\n$handle$大吃一惊的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "2773/TALK",
+            "narrator": "アーヤ",
+            "text": "ふふっ…決めた。\n食器と一緒に送っちゃお。",
+            "zh": "呵呵……就这么定了。\n和餐具一起寄出去吧。",
+            "narrator_zh": "绫水"
+        }
+    ]
+}

@@ -1,0 +1,686 @@
+{
+    "dir": "chap00/daydra/spev_ch03_015.js",
+    "type": "",
+    "info": {
+        "story_id": "3015",
+        "cid": "",
+        "title": "スペシャルエピソード",
+        "sub_title": "ガブッとズッキュン★",
+        "title_zh": "特别篇",
+        "sub_title_zh": "一口咬下，正中红心★"
+    },
+    "entry": [
+        {
+            "location": "29/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ふう、一時は\nどうなるかと\n思ったけど…",
+            "zh": "呼，刚才一度\n还担心会变成\n什么样呢……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "ガブリエラ",
+            "text": "取り返した材料の\nおかげで\nチョコが作れたわ。",
+            "zh": "多亏拿回了\n材料，总算把\n巧克力做好了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "ガブリエラ",
+            "text": "我ながら\nなかなかの出来ね。",
+            "zh": "连我自己都觉得\n做得相当不错呢。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "頑張って作っていた\nようだけど――",
+            "zh": "看你刚刚那么努力地\n做着巧克力——",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "34/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "一体誰に渡すつもり\nなんだい？",
+            "zh": "到底打算\n送给谁呀？",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "35/TALK",
+            "narrator": "ガブリエラ",
+            "text": "えっと…\nそれは…。",
+            "zh": "那个……\n这个嘛……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "36/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ハッキリと相手を\n言うのもちょっと\n恥ずかしいわね…。",
+            "zh": "要我明明白白\n把对方是谁说出口，\n还真有点不好意思呢……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "37/SEL",
+            "narrator": "（選択肢）",
+            "text": "$me$が欲しい！！",
+            "zh": "$me$想要！！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "38/ACT",
+            "narrator": "",
+            "text": "$me$が欲しい！！",
+            "zh": "$me$想要！！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "53/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そんなにがっついてこなくても",
+            "zh": "用不着这么急吼吼地扑上来",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "55/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ちゃんとあげるわよ",
+            "zh": "我肯定会给你的啦",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "ガブリエラ",
+            "text": "$marzanna$の為に作ったんだから",
+            "zh": "本来就是为了$marzanna$才做的嘛",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "57/TALK",
+            "narrator": "ガブリエラ",
+            "text": "色々なドライフルーツを入れてみたの",
+            "zh": "我还试着放了各种各样的果干进去",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "58/TALK",
+            "narrator": "ガブリエラ",
+            "text": "気に入ってもらえると嬉しいわ",
+            "zh": "你若能喜欢就太好了",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "60/SEL",
+            "narrator": "（選択肢）",
+            "text": "ガブリエラの作ったものなら何でも",
+            "zh": "只要是加布里埃拉做的什么都好",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "61/SEL",
+            "narrator": "（選択肢）",
+            "text": "美味しそう！",
+            "zh": "看起来好好吃！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "62/ACT",
+            "narrator": "",
+            "text": "ガブリエラの作ったものなら何でも",
+            "zh": "只要是加布里埃拉做的什么都好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "63/TALK",
+            "narrator": "ガブリエラ",
+            "text": "まあ！",
+            "zh": "哎呀！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そう言ってくれるのは嬉しいけど",
+            "zh": "你这么说我是挺开心的",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "ガブリエラ",
+            "text": "それはそれで作り甲斐がない気もするわ",
+            "zh": "可总觉得那样一来又少了点做它的干劲了",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "66/ACT",
+            "narrator": "",
+            "text": "美味しそう！",
+            "zh": "看起来好好吃！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "67/TALK",
+            "narrator": "ガブリエラ",
+            "text": "もちろん美味しいに決まっているわ",
+            "zh": "那还用说，肯定好吃啊",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "68/TALK",
+            "narrator": "ガブリエラ",
+            "text": "レシピを自分なりにアレンジしてみたの",
+            "zh": "我按自己的想法稍微改良了下食谱",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "70/TALK",
+            "narrator": "ガブリエラ",
+            "text": "入れるドライフルーツの種類に",
+            "zh": "放进去的果干种类",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "71/TALK",
+            "narrator": "ガブリエラ",
+            "text": "こだわったの",
+            "zh": "我可是下了一番工夫的",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "72/TALK",
+            "narrator": "ガブリエラ",
+            "text": "$marzanna$の好きなフルーツが入ってればいいんだけど",
+            "zh": "要是里面有$marzanna$喜欢的水果就好了",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "73/TALK",
+            "narrator": "ガブリエラ",
+            "text": "楽しみにしててね",
+            "zh": "敬请期待吧",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "86/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ひ…秘密よ！",
+            "zh": "是……秘密！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "87/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "えー、いいじゃーん。\n教えてよー。",
+            "zh": "诶——，说说嘛——。\n告诉我呗——。",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "89/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だーめっ！絶対に\n教えないんだから。",
+            "zh": "不——行！绝对\n不会告诉你的。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "90/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "よっぽど大事な\n相手なんだね…。",
+            "zh": "看来是个相当重要的\n对象呢……",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "91/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "よし！",
+            "zh": "好！",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "それならその相手に\n渡す時は、とびっきり\n気合入れて渡さないと。",
+            "zh": "既然如此，送给那位\n对象的时候，可必须\n拿出十足的干劲才行。",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "93/TALK",
+            "narrator": "ガブリエラ",
+            "text": "気合…？",
+            "zh": "干劲……？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "94/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "そう！\n可愛さを追求すれば\n効果バツグンだよ！",
+            "zh": "没错！\n只要把可爱追求到极致，\n效果就绝对拔群哦！",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "95/TALK",
+            "narrator": "ガブリエラ",
+            "text": "バツグンって…\n何の効果よ。",
+            "zh": "拔群什么的……\n是什么的效果啊。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "96/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "日本式のバレンタインは\n女の子にとって\n特別な儀式なんだよ。",
+            "zh": "日式情人节\n对女孩子来说，可是\n一场特别的仪式哦。",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "97/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "とびっきり可愛い\nキメ顔で渡さないと！",
+            "zh": "必须摆出最可爱的\n招牌表情送出去才行！",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "99/TALK",
+            "narrator": "ガブリエラ",
+            "text": "キ…キメ顔…？",
+            "zh": "招……招牌表情……？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "ガブリエラ",
+            "text": "べ、別にそんなこと\nしなくたって\n渡せればいいのよ！",
+            "zh": "才、才不用搞那种\n花样，能好好交到\n对方手上不就行了吗！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "101/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "ダメダメ！！\n他の女の子はもっと\n全力だよ！",
+            "zh": "不行不行！！\n其他女孩子可都是\n更加全神贯注的哦！",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "そのために私も普段の\n天狗の衣装から\nこの恰好になったのさ",
+            "zh": "为了这天，我才特地\n从平时的天狗装扮\n换成了这身打扮嘛",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そ、そうなの…。",
+            "zh": "是、是这样啊……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "105/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "さあ、ガブリエラも\n今できる最大の\nカワイイ渡し方を――",
+            "zh": "来，加布里埃拉你也\n把眼下能使出的最厉害的\n可爱送礼法——",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "107/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "今ここで\n練習するんだよ！\nさあ、これを持って！",
+            "zh": "就在这里\n好好练习吧！\n来，把这个拿着！",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "119/TALK",
+            "narrator": "透明ガブリエラ",
+            "text": "う、う～ん…。",
+            "zh": "唔、嗯～……",
+            "narrator_zh": "透明加布里埃拉"
+        },
+        {
+            "location": "120/SEL",
+            "narrator": "（選択肢）",
+            "text": "$me$もカワイイガブリエラが見たい！",
+            "zh": "$me$也想看可爱的加布里埃拉！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "121/ACT",
+            "narrator": "",
+            "text": "$me$もカワイイガブリエラが見たい！",
+            "zh": "$me$也想看可爱的加布里埃拉！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "126/TALK",
+            "narrator": "ガブリエラ",
+            "text": "もう！$marzanna$まで何言ってるのよ！",
+            "zh": "真是的！连$marzanna$都在说些什么啊！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "129/SEL",
+            "narrator": "（選択肢）",
+            "text": "ごめん…",
+            "zh": "抱歉……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "130/SEL",
+            "narrator": "（選択肢）",
+            "text": "カワイイキメ顔見たかったからつい…",
+            "zh": "因为想看可爱的招牌表情，不小心就……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "131/ACT",
+            "narrator": "",
+            "text": "ごめん…",
+            "zh": "抱歉……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "132/TALK",
+            "narrator": "ガブリエラ",
+            "text": "怒ってるわけじゃないのよ",
+            "zh": "我倒也不是在生气啦",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "133/ACT",
+            "narrator": "",
+            "text": "カワイイキメ顔見たかったからつい…",
+            "zh": "因为想看可爱的招牌表情，不小心就……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "134/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ついじゃないわよ",
+            "zh": "什么叫不小心啊",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "136/TALK",
+            "narrator": "ガブリエラ",
+            "text": "でも",
+            "zh": "不过",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "137/TALK",
+            "narrator": "ガブリエラ",
+            "text": "$marzanna$が喜んでくれるなら",
+            "zh": "要是$marzanna$会开心的话",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "ガブリエラ",
+            "text": "頑張ってみようかしら…",
+            "zh": "我就试着加油看看吧……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "140/TALK",
+            "narrator": "透明ガブリエラ",
+            "text": "わ、わかったわ。",
+            "zh": "好、好吧，我知道了。",
+            "narrator_zh": "透明加布里埃拉"
+        },
+        {
+            "location": "141/TALK",
+            "narrator": "透明ガブリエラ",
+            "text": "やってみるから\nアドバイスを頂戴ね。",
+            "zh": "我会试着做做看，\n你就给我点建议吧。",
+            "narrator_zh": "透明加布里埃拉"
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "フッフッフ…。\n天狗の私に任せれば\n間違いはないよ。",
+            "zh": "哼哼哼……。\n交给身为天狗的我，\n绝不会出错的。",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "144/TALK",
+            "narrator": "透明ガブリエラ",
+            "text": "天狗は関係ないと\n思うけど…",
+            "zh": "我觉得跟天狗\n没什么关系吧……",
+            "narrator_zh": "透明加布里埃拉"
+        },
+        {
+            "location": "145/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "大事なのはチョコの\n構え方と――",
+            "zh": "重要的是拿着\n巧克力的架势，还有——",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "手、足、首の角度！\nそして表情！",
+            "zh": "手、脚、脖子的角度！\n以及表情！",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "147/TALK",
+            "narrator": "透明ガブリエラ",
+            "text": "こ、こう…？",
+            "zh": "这、这样……？",
+            "narrator_zh": "透明加布里埃拉"
+        },
+        {
+            "location": "148/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "表情が硬いよ！",
+            "zh": "表情太僵硬啦！",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "149/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "もっと笑顔！\nそして恥ずかしがらない\nことが大事！",
+            "zh": "再笑开一点！\n还有，不要害羞\n才是最重要的！",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "150/TALK",
+            "narrator": "透明ガブリエラ",
+            "text": "むむむ…。",
+            "zh": "唔唔唔……",
+            "narrator_zh": "透明加布里埃拉"
+        },
+        {
+            "location": "151/TALK",
+            "narrator": "透明ガブリエラ",
+            "text": "えいっ！",
+            "zh": "嘿呀！",
+            "narrator_zh": "透明加布里埃拉"
+        },
+        {
+            "location": "152/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "まだ！\nもう一押し！",
+            "zh": "还差一点！\n再加把劲！",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "153/TALK",
+            "narrator": "透明ガブリエラ",
+            "text": "う、うぅ～。",
+            "zh": "唔、唔呜～",
+            "narrator_zh": "透明加布里埃拉"
+        },
+        {
+            "location": "154/SEL",
+            "narrator": "（選択肢）",
+            "text": "頑張って！",
+            "zh": "加油！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "155/ACT",
+            "narrator": "",
+            "text": "頑張って！",
+            "zh": "加油！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "160/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ちょっと！",
+            "zh": "喂！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "161/TALK",
+            "narrator": "ガブリエラ",
+            "text": "恥ずかしいから見ないでよ！",
+            "zh": "太丢人了你别看啊！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "162/TALK",
+            "narrator": "ガブリエラ",
+            "text": "全然できてないみたいだし…",
+            "zh": "而且我好像根本没摆好……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "163/SEL",
+            "narrator": "（選択肢）",
+            "text": "ガブリエラらしくやれば問題ないよ",
+            "zh": "按加布里埃拉自己的风格来就没问题了",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "164/SEL",
+            "narrator": "（選択肢）",
+            "text": "十分可愛いよ",
+            "zh": "已经很可爱了",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "165/ACT",
+            "narrator": "",
+            "text": "ガブリエラらしくやれば問題ないよ",
+            "zh": "按加布里埃拉自己的风格来就没问题了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "166/TALK",
+            "narrator": "ガブリエラ",
+            "text": "私らしく…ね",
+            "zh": "按我自己的风格……是吗",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "167/TALK",
+            "narrator": "ガブリエラ",
+            "text": "私は普段こんなことしないから",
+            "zh": "我平时才不做这种事呢",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "168/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そもそも私らしくないと思うけど…",
+            "zh": "本来就觉得一点也不像我的风格……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "169/ACT",
+            "narrator": "",
+            "text": "十分可愛いよ",
+            "zh": "已经很可爱了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "170/TALK",
+            "narrator": "ガブリエラ",
+            "text": "もう！からかってるの？",
+            "zh": "真是的！你是在逗我吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "172/TALK",
+            "narrator": "ガブリエラ",
+            "text": "いつまでも続けるのも辛いし次で最後にするわ",
+            "zh": "一直这么练下去也太难受了，下一次就当最后一次吧",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "174/TALK",
+            "narrator": "透明ガブリエラ",
+            "text": "よし、これでキメるわ！",
+            "zh": "好，就靠这一下定胜负了！",
+            "narrator_zh": "透明加布里埃拉"
+        },
+        {
+            "location": "175/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "おおっ！\nその意気だよ！",
+            "zh": "哦哦！\n就是这股气势！",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "178/TALK",
+            "narrator": "透明ガブリエラ",
+            "text": "ぐぬぬ…えいっ！",
+            "zh": "唔唔唔……嘿呀！",
+            "narrator_zh": "透明加布里埃拉"
+        },
+        {
+            "location": "180/TALK",
+            "narrator": "透明ガブリエラ",
+            "text": "ど、どうかしら…。",
+            "zh": "怎、怎么样……",
+            "narrator_zh": "透明加布里埃拉"
+        },
+        {
+            "location": "181/TALK",
+            "narrator": "透明天原真希詩",
+            "text": "良い！\n凄く良いよ！完璧！",
+            "zh": "太好了！\n非常好哦！完美！",
+            "narrator_zh": "透明天原真希诗"
+        },
+        {
+            "location": "182/SEL",
+            "narrator": "（選択肢）",
+            "text": "カワイイーー！",
+            "zh": "好可爱——！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "183/ACT",
+            "narrator": "",
+            "text": "カワイイーー！",
+            "zh": "好可爱——！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "188/TALK",
+            "narrator": "ガブリエラ",
+            "text": "よ、喜んでもらえたようでよかったけど",
+            "zh": "你、你能开心就好，不过",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "189/TALK",
+            "narrator": "ガブリエラ",
+            "text": "恥ずかしい…",
+            "zh": "好丢脸……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "191/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ここまでやったんだから",
+            "zh": "我都做到这份上了",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "192/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ありがたく受け取りなさいよ！",
+            "zh": "给我心怀感激地收下吧！",
+            "narrator_zh": "加布里埃拉"
+        }
+    ]
+}
