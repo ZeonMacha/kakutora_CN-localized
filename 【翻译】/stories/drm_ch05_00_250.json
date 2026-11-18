@@ -1,402 +1,462 @@
 {
- "dir": "dramatics/daydra/drm_ch05_00_250.js",
- "type": "Episode",
- "info": {
-  "story_id": "5025",
-  "cid": "kagura",
-  "title": "らぶとーく 第25話",
-  "sub_title": "ネットスラングバトル"
- },
- "entry": [
-  {
-   "location": "2208/SCENARIO",
-   "narrator": "",
-   "text": "ネットスラングバトル"
-  },
-  {
-   "location": "2223/TALK",
-   "narrator": "みやび",
-   "text": "…卯月、\nあれ見てみい。",
-   "zh": "……卯月，\n你来看看那个。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "2224/TALK",
-   "narrator": "神楽",
-   "text": "死んだ目をした\nサラリーマンが\n優先席に座ってますね。"
-  },
-  {
-   "location": "2225/TALK",
-   "narrator": "みやび",
-   "text": "今は席も空いちゅう。\nけんどこの先は\n乗換駅や。"
-  },
-  {
-   "location": "2226/TALK",
-   "narrator": "みやび",
-   "text": "満席になり\n目の前に優先すべき\n人が立った時。"
-  },
-  {
-   "location": "2229/TALK",
-   "narrator": "みやび",
-   "text": "あのサラリーマンは\nどうするか\n予想してみんか？"
-  },
-  {
-   "location": "2230/SEL",
-   "narrator": "",
-   "text": "$me$も参加する～！",
-   "zh": "$me$也参加～！",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2231/ACT",
-   "narrator": "",
-   "text": "$me$も参加する～！",
-   "zh": "$me$也参加～！",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2248/TALK",
-   "narrator": "神楽",
-   "text": "それなら直接みやびさんにﾄﾞｿﾞｰ",
-   "zh": "那就直接找雅小姐吧",
-   "narrator_zh": "神乐"
-  },
-  {
-   "location": "2250/SEL",
-   "narrator": "",
-   "text": "神楽と話したいんだよ",
-   "zh": "我想和神乐说话",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2251/SEL",
-   "narrator": "",
-   "text": "実際そうしたら妬くくせに",
-   "zh": "真那样你又要吃醋了",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2252/SEL",
-   "narrator": "",
-   "text": "それじゃ意味ないんだよ",
-   "zh": "那样就没意义了",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2253/ACT",
-   "narrator": "",
-   "text": "神楽と話したいんだよ",
-   "zh": "我想和神乐说话",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2254/TALK",
-   "narrator": "神楽",
-   "text": "ぴょんことか～"
-  },
-  {
-   "location": "2255/TALK",
-   "narrator": "神楽",
-   "text": "また後でね♪",
-   "zh": "回头再聊♪",
-   "narrator_zh": "神乐"
-  },
-  {
-   "location": "2257/ACT",
-   "narrator": "",
-   "text": "実際そうしたら妬くくせに",
-   "zh": "真那样你又要吃醋了",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2259/TALK",
-   "narrator": "神楽",
-   "text": "はぁぁぁぁぁぁぁぁぁぁぁぁぁぁ！？",
-   "zh": "唉————————————————！？",
-   "narrator_zh": "神乐"
-  },
-  {
-   "location": "2260/TALK",
-   "narrator": "神楽",
-   "text": "べ、別にそんなわけないじゃない！！！！"
-  },
-  {
-   "location": "2261/TALK",
-   "narrator": "神楽",
-   "text": "うぬぼれないでよねっ！"
-  },
-  {
-   "location": "2266/ACT",
-   "narrator": "",
-   "text": "それじゃ意味ないんだよ",
-   "zh": "那样就没意义了",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2267/TALK",
-   "narrator": "神楽",
-   "text": "ほんとうにそうかな？"
-  },
-  {
-   "location": "2268/TALK",
-   "narrator": "神楽",
-   "text": "証明できないでしょ♪"
-  },
-  {
-   "location": "2282/TALK",
-   "narrator": "神楽",
-   "text": "…相当疲れた顔を\nしていますからね…。",
-   "zh": "……毕竟你一脸\n相当疲惫的样子……。",
-   "narrator_zh": "神乐"
-  },
-  {
-   "location": "2283/TALK",
-   "narrator": "神楽",
-   "text": "寝たふり、ですかね…。"
-  },
-  {
-   "location": "2285/TALK",
-   "narrator": "みやび",
-   "text": "なかなかえい線やと\n思うぞね。",
-   "zh": "我觉得是相当\n好的路线咯。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "2286/TALK",
-   "narrator": "みやび",
-   "text": "一番確実かつ\n簡単な方法やし。"
-  },
-  {
-   "location": "2289/TALK",
-   "narrator": "神楽",
-   "text": "ＤＱＮ扱いも\nされにくい\nですしね。"
-  },
-  {
-   "location": "2290/TALK",
-   "narrator": "みやび",
-   "text": "ＤＱＮ……。"
-  },
-  {
-   "location": "2291/TALK",
-   "narrator": "神楽",
-   "text": "…私、何か変なこと\n言いました？",
-   "zh": "……我说了什么\n奇怪的话吗？",
-   "narrator_zh": "神乐"
-  },
-  {
-   "location": "2292/TALK",
-   "narrator": "みやび",
-   "text": "そうでのうて…\nちっくと古い表現\nするねえと思うて。",
-   "zh": "不是那样啦……\n我觉得这说法\n有点老气咯。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "2294/TALK",
-   "narrator": "みやび",
-   "text": "香ばしい、並みに\n懐かしい\nネットスラングやき。"
-  },
-  {
-   "location": "2308/TALK",
-   "narrator": "神楽",
-   "text": "ちょ",
-   "zh": "等等",
-   "narrator_zh": "神乐"
-  },
-  {
-   "location": "2309/TALK",
-   "narrator": "神楽",
-   "text": "香ばしいって何？"
-  },
-  {
-   "location": "2311/SEL",
-   "narrator": "",
-   "text": "焙煎時のかぐわしい香りとか",
-   "zh": "还有烘焙时的香气",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2312/SEL",
-   "narrator": "",
-   "text": "ヤバい人の比喩表現",
-   "zh": "形容危险人物的说法",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2313/SEL",
-   "narrator": "",
-   "text": "ネットスラングには疎くて",
-   "zh": "我对网络用语不太熟",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2314/ACT",
-   "narrator": "",
-   "text": "焙煎時のかぐわしい香りとか",
-   "zh": "还有烘焙时的香气",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2315/TALK",
-   "narrator": "神楽",
-   "text": "あ゛あ゛あ゛あ゛あ゛あ゛"
-  },
-  {
-   "location": "2316/TALK",
-   "narrator": "神楽",
-   "text": "絶対違うし"
-  },
-  {
-   "location": "2318/ACT",
-   "narrator": "",
-   "text": "ヤバい人の比喩表現",
-   "zh": "形容危险人物的说法",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2319/TALK",
-   "narrator": "神楽",
-   "text": "なる",
-   "zh": "会",
-   "narrator_zh": "神乐"
-  },
-  {
-   "location": "2320/TALK",
-   "narrator": "神楽",
-   "text": "理解"
-  },
-  {
-   "location": "2322/ACT",
-   "narrator": "",
-   "text": "ネットスラングには疎くて",
-   "zh": "我对网络用语不太熟",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2323/TALK",
-   "narrator": "神楽",
-   "text": "頃す"
-  },
-  {
-   "location": "2326/SEL",
-   "narrator": "",
-   "text": "最近言葉遣い乱暴だよね？",
-   "zh": "你最近说话很粗鲁吧？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2327/SEL",
-   "narrator": "",
-   "text": "素の神楽いただきました！",
-   "zh": "原味的神乐，我收下了！",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2328/SEL",
-   "narrator": "",
-   "text": "現代っ子のふりがんばって",
-   "zh": "努力装成现代小孩",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2329/ACT",
-   "narrator": "",
-   "text": "最近言葉遣い乱暴だよね？",
-   "zh": "你最近说话很粗鲁吧？",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2330/TALK",
-   "narrator": "神楽",
-   "text": "気のせいですよ♪"
-  },
-  {
-   "location": "2332/ACT",
-   "narrator": "",
-   "text": "素の神楽いただきました！",
-   "zh": "原味的神乐，我收下了！",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2333/TALK",
-   "narrator": "神楽",
-   "text": "違いますよ～～～？"
-  },
-  {
-   "location": "2334/TALK",
-   "narrator": "神楽",
-   "text": "でもそうかもぴょん♪",
-   "zh": "不过也许是这样pyon♪",
-   "narrator_zh": "神乐"
-  },
-  {
-   "location": "2336/ACT",
-   "narrator": "",
-   "text": "現代っ子のふりがんばって",
-   "zh": "努力装成现代小孩",
-   "narrator_zh": ""
-  },
-  {
-   "location": "2337/TALK",
-   "narrator": "神楽",
-   "text": "言われなくてもやってるし！"
-  },
-  {
-   "location": "2353/TALK",
-   "narrator": "神楽",
-   "text": "…その方がわかり\nやすいかなって\n思ってですね。"
-  },
-  {
-   "location": "2355/TALK",
-   "narrator": "みやび",
-   "text": "確かに。\nうちにはこじゃんと\n伝わったき。"
-  },
-  {
-   "location": "2356/TALK",
-   "narrator": "みやび",
-   "text": "それに懐かしい\n気持ちにも\nなれたしねえ。",
-   "zh": "而且也能唤回\n怀念的\n心情呢。",
-   "narrator_zh": "雅"
-  },
-  {
-   "location": "2358/TALK",
-   "narrator": "神楽",
-   "text": "…年はほとんど\n変わらないじゃ\nないですか。",
-   "zh": "……年纪不是几乎\n没差多少\n吗。",
-   "narrator_zh": "神乐"
-  },
-  {
-   "location": "2361/TALK",
-   "narrator": "神楽",
-   "text": "なのにそんな\nおばあちゃんと\n話すみたいな。",
-   "zh": "可这样就像在跟\n奶奶\n说话一样。",
-   "narrator_zh": "神乐"
-  },
-  {
-   "location": "2362/TALK",
-   "narrator": "みやび",
-   "text": "いやいや\nそういうつもりや\nのうて……。"
-  },
-  {
-   "location": "2364/TALK",
-   "narrator": "神楽",
-   "text": "別に怒ってる\nつもりはない\nですけど…。"
-  },
-  {
-   "location": "2367/TALK",
-   "narrator": "神楽",
-   "text": "あ。\n駅に着きましたね。"
-  },
-  {
-   "location": "2368/TALK",
-   "narrator": "神楽",
-   "text": "どうするかちょっと\n観察しましょうか…？",
-   "zh": "稍微观察一下\n该怎么办……？",
-   "narrator_zh": "神乐"
-  },
-  {
-   "location": "2222/DIALOG",
-   "narrator": "Dialog_EventData",
-   "text": "<color=green>某月某日　5:37 PM</color>\nとある平日の放課後のこと"
-  }
- ]
+    "dir": "dramatics/daydra/drm_ch05_00_250.js",
+    "type": "Episode",
+    "info": {
+        "story_id": "5025",
+        "cid": "kagura",
+        "title": "らぶとーく 第25話",
+        "sub_title": "ネットスラングバトル",
+        "title_zh": "恋爱漫谈 第25话",
+        "sub_title_zh": "网络黑话对决"
+    },
+    "entry": [
+        {
+            "location": "2208/SCENARIO",
+            "narrator": "",
+            "text": "ネットスラングバトル",
+            "zh": "网络黑话对决",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2223/TALK",
+            "narrator": "みやび",
+            "text": "…卯月、\nあれ見てみい。",
+            "zh": "……卯月，\n你来看看那个。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "2224/TALK",
+            "narrator": "神楽",
+            "text": "死んだ目をした\nサラリーマンが\n優先席に座ってますね。",
+            "zh": "有个死鱼眼的\n上班族\n坐在优先席上呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2225/TALK",
+            "narrator": "みやび",
+            "text": "今は席も空いちゅう。\nけんどこの先は\n乗換駅や。",
+            "zh": "现在座位也还空着咯。\n但是前面就是\n换乘站了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "2226/TALK",
+            "narrator": "みやび",
+            "text": "満席になり\n目の前に優先すべき\n人が立った時。",
+            "zh": "等到坐满了，\n眼前站着需要让座的\n人时。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "2229/TALK",
+            "narrator": "みやび",
+            "text": "あのサラリーマンは\nどうするか\n予想してみんか？",
+            "zh": "那个上班族\n会怎么应对，\n来猜猜看咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "2230/SEL",
+            "narrator": "",
+            "text": "$me$も参加する～！",
+            "zh": "$me$也参加～！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2231/ACT",
+            "narrator": "",
+            "text": "$me$も参加する～！",
+            "zh": "$me$也参加～！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2248/TALK",
+            "narrator": "神楽",
+            "text": "それなら直接みやびさんにﾄﾞｿﾞｰ",
+            "zh": "那就直接找雅小姐吧",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2250/SEL",
+            "narrator": "",
+            "text": "神楽と話したいんだよ",
+            "zh": "我想和神乐说话",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2251/SEL",
+            "narrator": "",
+            "text": "実際そうしたら妬くくせに",
+            "zh": "真那样你又要吃醋了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2252/SEL",
+            "narrator": "",
+            "text": "それじゃ意味ないんだよ",
+            "zh": "那样就没意义了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2253/ACT",
+            "narrator": "",
+            "text": "神楽と話したいんだよ",
+            "zh": "我想和神乐说话",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2254/TALK",
+            "narrator": "神楽",
+            "text": "ぴょんことか～",
+            "zh": "比如蹦子呀～",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2255/TALK",
+            "narrator": "神楽",
+            "text": "また後でね♪",
+            "zh": "回头再聊♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2257/ACT",
+            "narrator": "",
+            "text": "実際そうしたら妬くくせに",
+            "zh": "真那样你又要吃醋了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2259/TALK",
+            "narrator": "神楽",
+            "text": "はぁぁぁぁぁぁぁぁぁぁぁぁぁぁ！？",
+            "zh": "唉————————————————！？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2260/TALK",
+            "narrator": "神楽",
+            "text": "べ、別にそんなわけないじゃない！！！！",
+            "zh": "才、才没有那种事好吧！！！！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2261/TALK",
+            "narrator": "神楽",
+            "text": "うぬぼれないでよねっ！",
+            "zh": "别自作多情了！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2266/ACT",
+            "narrator": "",
+            "text": "それじゃ意味ないんだよ",
+            "zh": "那样就没意义了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2267/TALK",
+            "narrator": "神楽",
+            "text": "ほんとうにそうかな？",
+            "zh": "真的吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2268/TALK",
+            "narrator": "神楽",
+            "text": "証明できないでしょ♪",
+            "zh": "你可证明不了吧♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2282/TALK",
+            "narrator": "神楽",
+            "text": "…相当疲れた顔を\nしていますからね…。",
+            "zh": "……毕竟你一脸\n相当疲惫的样子……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2283/TALK",
+            "narrator": "神楽",
+            "text": "寝たふり、ですかね…。",
+            "zh": "大概是……装睡吧……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2285/TALK",
+            "narrator": "みやび",
+            "text": "なかなかえい線やと\n思うぞね。",
+            "zh": "我觉得是相当\n好的路线咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "2286/TALK",
+            "narrator": "みやび",
+            "text": "一番確実かつ\n簡単な方法やし。",
+            "zh": "也是最稳妥又\n省事的办法嘛。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "2289/TALK",
+            "narrator": "神楽",
+            "text": "ＤＱＮ扱いも\nされにくい\nですしね。",
+            "zh": "也不太容易\n被当成DQN\n看待嘛。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2290/TALK",
+            "narrator": "みやび",
+            "text": "ＤＱＮ……。",
+            "zh": "DQN……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "2291/TALK",
+            "narrator": "神楽",
+            "text": "…私、何か変なこと\n言いました？",
+            "zh": "……我说了什么\n奇怪的话吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2292/TALK",
+            "narrator": "みやび",
+            "text": "そうでのうて…\nちっくと古い表現\nするねえと思うて。",
+            "zh": "不是那样啦……\n我觉得这说法\n有点老气咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "2294/TALK",
+            "narrator": "みやび",
+            "text": "香ばしい、並みに\n懐かしい\nネットスラングやき。",
+            "zh": "简直跟“焦香”一样，\n都是挺怀念的\n网络黑话啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "2308/TALK",
+            "narrator": "神楽",
+            "text": "ちょ",
+            "zh": "等等",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2309/TALK",
+            "narrator": "神楽",
+            "text": "香ばしいって何？",
+            "zh": "“焦香”是什么意思？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2311/SEL",
+            "narrator": "",
+            "text": "焙煎時のかぐわしい香りとか",
+            "zh": "还有烘焙时的香气",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2312/SEL",
+            "narrator": "",
+            "text": "ヤバい人の比喩表現",
+            "zh": "形容危险人物的说法",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2313/SEL",
+            "narrator": "",
+            "text": "ネットスラングには疎くて",
+            "zh": "我对网络用语不太熟",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2314/ACT",
+            "narrator": "",
+            "text": "焙煎時のかぐわしい香りとか",
+            "zh": "还有烘焙时的香气",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2315/TALK",
+            "narrator": "神楽",
+            "text": "あ゛あ゛あ゛あ゛あ゛あ゛",
+            "zh": "呃啊啊啊啊啊",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2316/TALK",
+            "narrator": "神楽",
+            "text": "絶対違うし",
+            "zh": "绝对不是那个意思",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2318/ACT",
+            "narrator": "",
+            "text": "ヤバい人の比喩表現",
+            "zh": "形容危险人物的说法",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2319/TALK",
+            "narrator": "神楽",
+            "text": "なる",
+            "zh": "会",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2320/TALK",
+            "narrator": "神楽",
+            "text": "理解",
+            "zh": "理解",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2322/ACT",
+            "narrator": "",
+            "text": "ネットスラングには疎くて",
+            "zh": "我对网络用语不太熟",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2323/TALK",
+            "narrator": "神楽",
+            "text": "頃す",
+            "zh": "宰了你",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2326/SEL",
+            "narrator": "",
+            "text": "最近言葉遣い乱暴だよね？",
+            "zh": "你最近说话很粗鲁吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2327/SEL",
+            "narrator": "",
+            "text": "素の神楽いただきました！",
+            "zh": "原味的神乐，我收下了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2328/SEL",
+            "narrator": "",
+            "text": "現代っ子のふりがんばって",
+            "zh": "努力装成现代小孩",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2329/ACT",
+            "narrator": "",
+            "text": "最近言葉遣い乱暴だよね？",
+            "zh": "你最近说话很粗鲁吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2330/TALK",
+            "narrator": "神楽",
+            "text": "気のせいですよ♪",
+            "zh": "是你的错觉哦♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2332/ACT",
+            "narrator": "",
+            "text": "素の神楽いただきました！",
+            "zh": "原味的神乐，我收下了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2333/TALK",
+            "narrator": "神楽",
+            "text": "違いますよ～～～？",
+            "zh": "才不是呢～～～？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2334/TALK",
+            "narrator": "神楽",
+            "text": "でもそうかもぴょん♪",
+            "zh": "不过也许是这样pyon♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2336/ACT",
+            "narrator": "",
+            "text": "現代っ子のふりがんばって",
+            "zh": "努力装成现代小孩",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2337/TALK",
+            "narrator": "神楽",
+            "text": "言われなくてもやってるし！",
+            "zh": "不用你说我也一直在装好吗！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2353/TALK",
+            "narrator": "神楽",
+            "text": "…その方がわかり\nやすいかなって\n思ってですね。",
+            "zh": "……我就想着那样\n比较容易明白\n嘛。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2355/TALK",
+            "narrator": "みやび",
+            "text": "確かに。\nうちにはこじゃんと\n伝わったき。",
+            "zh": "确实。\n我这边真是充分\n领会到了啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "2356/TALK",
+            "narrator": "みやび",
+            "text": "それに懐かしい\n気持ちにも\nなれたしねえ。",
+            "zh": "而且也能唤回\n怀念的\n心情呢。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "2358/TALK",
+            "narrator": "神楽",
+            "text": "…年はほとんど\n変わらないじゃ\nないですか。",
+            "zh": "……年纪不是几乎\n没差多少\n吗。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2361/TALK",
+            "narrator": "神楽",
+            "text": "なのにそんな\nおばあちゃんと\n話すみたいな。",
+            "zh": "可这样就像在跟\n奶奶\n说话一样。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2362/TALK",
+            "narrator": "みやび",
+            "text": "いやいや\nそういうつもりや\nのうて……。",
+            "zh": "没有没有，\n我也不是那个\n意思……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "2364/TALK",
+            "narrator": "神楽",
+            "text": "別に怒ってる\nつもりはない\nですけど…。",
+            "zh": "虽然我也没打算\n生气\n就是了……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2367/TALK",
+            "narrator": "神楽",
+            "text": "あ。\n駅に着きましたね。",
+            "zh": "啊。\n到站了呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2368/TALK",
+            "narrator": "神楽",
+            "text": "どうするかちょっと\n観察しましょうか…？",
+            "zh": "稍微观察一下\n该怎么办……？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "2222/DIALOG",
+            "narrator": "Dialog_EventData",
+            "text": "<color=green>某月某日　5:37 PM</color>\nとある平日の放課後のこと",
+            "zh": "<color=green>某月某日　5:37 PM</color>\n某个平日放学后的事",
+            "narrator_zh": "Dialog_EventData"
+        }
+    ]
 }

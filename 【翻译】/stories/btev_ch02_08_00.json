@@ -1,0 +1,1561 @@
+{
+    "dir": "chap08/battle/btev_ch02_08_00.js",
+    "type": "",
+    "info": {
+        "story_id": "22013",
+        "cid": "",
+        "title": "013 ココロスフィアストーリー【Lv05】",
+        "sub_title": "転落人生＜提起＞",
+        "title_zh": "013 心灵领域故事【Lv05】",
+        "sub_title_zh": "坠落的人生＜提起＞"
+    },
+    "entry": [
+        {
+            "location": "7/SCENARIO",
+            "narrator": "",
+            "text": "転落人生",
+            "zh": "坠落的人生",
+            "narrator_zh": ""
+        },
+        {
+            "location": "13/DIALOG",
+            "narrator": "",
+            "text": "<size=40>KOKORO-Lv. 05</size>\nAYAMI - KUNIMASA\n\n<size=45>転落人生</size>\n<size=30>～私が地の底まで落ちる予定の経緯～</size>",
+            "zh": "<size=40>KOKORO-Lv. 05</size>\n国政绫水\n\n<size=45>坠落的人生</size>\n<size=30>～我预定跌落谷底的原委～</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "31/SEL",
+            "narrator": "（選択肢）",
+            "text": "！？",
+            "zh": "！？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "32/ACT",
+            "narrator": "",
+            "text": "！？",
+            "zh": "！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "37/TALK",
+            "narrator": "つばめ",
+            "text": "おはようー！",
+            "zh": "早上好——！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "38/TALK",
+            "narrator": "つばめ",
+            "text": "ふー。\n今日は遅刻しないで\n来れたよ！",
+            "zh": "呼——。\n今天没迟到，\n赶上了呀！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "39/SEL",
+            "narrator": "（選択肢）",
+            "text": "お、おう……",
+            "zh": "哦、哦……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "40/SEL",
+            "narrator": "（選択肢）",
+            "text": "えらいえらい",
+            "zh": "真棒真棒",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "41/ACT",
+            "narrator": "",
+            "text": "お、おう……",
+            "zh": "哦、哦……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "42/TALK",
+            "narrator": "つばめ",
+            "text": "…？\nどうしたの？",
+            "zh": "……？\n怎么了呀？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "43/ACT",
+            "narrator": "",
+            "text": "えらいえらい",
+            "zh": "真棒真棒",
+            "narrator_zh": ""
+        },
+        {
+            "location": "45/TALK",
+            "narrator": "つばめ",
+            "text": "えへへ。\n$handle$に\n褒められちゃった。",
+            "zh": "诶嘿嘿。\n被$handle$\n夸奖了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "52/TALK",
+            "narrator": "神楽",
+            "text": "つばめさん、\n$handle$さん、\nおはようございます！",
+            "zh": "燕，\n$handle$，\n早上好！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "54/TALK",
+            "narrator": "つばめ",
+            "text": "おはよう、\n卯月さん！",
+            "zh": "早上好，\n卯月！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "おはよう、\n３人とも。",
+            "zh": "早上好，\n你们三个。",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "62/TALK",
+            "narrator": "つばめ",
+            "text": "あ、アーヤちん\nおはよう！",
+            "zh": "啊，小绫水\n早上好！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "神楽",
+            "text": "アーヤちゃん\nおはようございます！",
+            "zh": "绫水\n早上好！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "65/SEL",
+            "narrator": "（選択肢）",
+            "text": "アーヤちん！？",
+            "zh": "小绫水！？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "66/ACT",
+            "narrator": "",
+            "text": "アーヤちん！？",
+            "zh": "小绫水！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "73/TALK",
+            "narrator": "つばめ",
+            "text": "えっ！？\nわたし、何か\n変な事言った？",
+            "zh": "诶！？\n我说了什么\n奇怪的话吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "74/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "どうしたの？\n$handle$、まだ\n寝ぼけてるでしょ。",
+            "zh": "怎么了？\n$handle$，你还没\n睡醒吧。",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "75/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "もう１時間早く起きて\n走り込みすると、朝の\n調子が良くなるわよ？",
+            "zh": "早起一小时去跑步，\n早上的状态\n会变好哦？",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "それよりみんな、\nもう貼り出されてる\nみたいよ。",
+            "zh": "不说那个，大家，\n好像已经\n张贴出来了哦。",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "先週の期末テストの\n順位。",
+            "zh": "上周期末考试的\n排名。",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "85/TALK",
+            "narrator": "つばめ",
+            "text": "ええええええっ！！\nもう結果\n出ちゃってるの？",
+            "zh": "诶诶诶诶诶！！\n结果已经\n出来了吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "86/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "逢瀬さん、\n今回のテストの\n自信のほどは？",
+            "zh": "逢濑，\n这次考试\n有几成把握？",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "88/TALK",
+            "narrator": "つばめ",
+            "text": "うーん…\nあんま無いかな。",
+            "zh": "嗯——……\n大概没什么把握呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "90/TALK",
+            "narrator": "つばめ",
+            "text": "転校して初めてのテスト\nだったけど、前の学校\nより難しかったし…。",
+            "zh": "毕竟是转学后的第一次\n考试，而且也比\n以前的学校难……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "91/TALK",
+            "narrator": "つばめ",
+            "text": "結構わかんないとこ\n多くて、勘でマーク\nしたりしてたよ…。",
+            "zh": "好多地方我都不会，\n涂答题卡都是靠蒙的\n呀……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "卯月さんは\nどうだった？",
+            "zh": "卯月\n考得怎么样？",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "93/TALK",
+            "narrator": "神楽",
+            "text": "私も…どうでしょう。",
+            "zh": "我也……不好说呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "94/TALK",
+            "narrator": "神楽",
+            "text": "つばめさんと同じく、\n転校して初めてなので\n何とも言えませんけど。",
+            "zh": "我也和燕一样，\n毕竟是转学后头一次，\n不好说呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "95/TALK",
+            "narrator": "神楽",
+            "text": "正直なところ、\nつばめさんと同じで\nかなり苦戦しました。",
+            "zh": "说实话，\n我和燕一样，\n考得相当吃力。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "97/TALK",
+            "narrator": "つばめ",
+            "text": "アーヤちゃんは\nいつも１０番以内\nなんでしょ？",
+            "zh": "绫水\n每次都是前10名\n对吧？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "98/TALK",
+            "narrator": "神楽",
+            "text": "そうですよ！\n噂聞きましたよ？\n羨ましいです！",
+            "zh": "就是说呀！\n我听说传闻了哦？\n好羡慕啊！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "そ、それは\n言い過ぎよ？",
+            "zh": "这、这就\n说得太夸张了吧？",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "まあ、身を削って勉強\nしてるし、そうでないと\n困るんだけど……。",
+            "zh": "不过，我确实是拼命在\n学习，要是不在前列\n也说不过去就是了……。",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "さあ、空いてる今の\nうちに見に行きましょ。",
+            "zh": "好了，趁现在人少，\n我们过去看看吧。",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "107/TALK",
+            "narrator": "つばめ",
+            "text": "あっ、待って\nアーヤちゃん！",
+            "zh": "啊，等等，\n绫水！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "114/TALK",
+            "narrator": "千羽鶴",
+            "text": "さあ、早く行かないと\n彼女達を見失うわよ。",
+            "zh": "快点，再不走\n就要跟丢她们了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "え……うそ……",
+            "zh": "诶……不会吧……",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "136/TALK",
+            "narrator": "つばめ",
+            "text": "すごーい！！\n卯月さん１番だよ！",
+            "zh": "好厉害——！！\n卯月是第1名呀！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "139/TALK",
+            "narrator": "神楽",
+            "text": "始めてでしたし、何を\n勉強すればいいかわかり\nませんでしたけど――",
+            "zh": "因为是第一次，\n也不知道该复习\n什么才好——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "140/TALK",
+            "narrator": "神楽",
+            "text": "良い結果がでて\n良かったです！",
+            "zh": "能考出好成绩，\n真是太好了！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "つばめ",
+            "text": "卯月さんって、すごい\n頭よかったんだね！\nびっくりだよ。",
+            "zh": "原来卯月这么\n聪明呀！\n吓了一跳呢。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "144/TALK",
+            "narrator": "神楽",
+            "text": "つばめさんこそ、\n３位なんて\nすごいじゃないですか。",
+            "zh": "燕才是，\n考到第3名\n不是很厉害吗。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "つばめ",
+            "text": "わ、わたしは本当に\nマークシートを適当に\n埋めただけだし……",
+            "zh": "我、我真的只是\n把答题卡随便\n涂满而已……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "147/TALK",
+            "narrator": "つばめ",
+            "text": "卯月さんとは\n全然ちがうよ……。",
+            "zh": "和卯月\n完全不一样呀……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "149/TALK",
+            "narrator": "神楽",
+            "text": "そんなこと\nありません！",
+            "zh": "才没有\n这种事！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "150/TALK",
+            "narrator": "神楽",
+            "text": "適当にやって３位なら\n頑張ったら1位余裕\nですよ？",
+            "zh": "随便做做就能第3名，\n要是认真起来，\n拿第1还不是轻轻松松？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "151/TALK",
+            "narrator": "つばめ",
+            "text": "えへへ。\nそうかなぁ。",
+            "zh": "诶嘿嘿。\n是这样吗。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "153/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "155/TALK",
+            "narrator": "つばめ",
+            "text": "アーヤちゃんも\n９番なんてすごいね！",
+            "zh": "绫水也\n拿了第9名，好厉害呀！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "157/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "…え？\nあ、ああ、ありがと…",
+            "zh": "……诶？\n啊、啊啊，谢谢……",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "168/TALK",
+            "narrator": "真幌",
+            "text": "卯月、逢瀬。\n今回は頑張ったな。",
+            "zh": "卯月、逢濑。\n这次表现不错啊。",
+            "narrator_zh": "真幌"
+        },
+        {
+            "location": "169/TALK",
+            "narrator": "つばめ",
+            "text": "あ、先生！\nおはようございます！",
+            "zh": "啊，老师！\n早上好！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "170/TALK",
+            "narrator": "神楽",
+            "text": "おはようございます！",
+            "zh": "早上好！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "172/TALK",
+            "narrator": "真幌",
+            "text": "まさか転校早々、\n学年トップになるとは\n思いもしなかったよ。",
+            "zh": "真没想到刚转学过来，\n就拿了\n年级第一名啊。",
+            "narrator_zh": "真幌"
+        },
+        {
+            "location": "173/TALK",
+            "narrator": "真幌",
+            "text": "これは今後に\n期待大だな。",
+            "zh": "这下可让人\n对你们今后大为期待了。",
+            "narrator_zh": "真幌"
+        },
+        {
+            "location": "175/TALK",
+            "narrator": "神楽",
+            "text": "ありがとう\nございます！",
+            "zh": "谢谢\n老师！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "176/TALK",
+            "narrator": "真幌",
+            "text": "ゆくゆくは生徒会長に\nなって、この学校を\nリードしてくれ。",
+            "zh": "将来就由你们当上\n学生会长，来带领\n这所学校吧。",
+            "narrator_zh": "真幌"
+        },
+        {
+            "location": "178/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "えっ！？！？",
+            "zh": "诶！？！？",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "179/TALK",
+            "narrator": "神楽",
+            "text": "はいっ！\nがんばりますっ！",
+            "zh": "是！\n我会加油的！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "181/TALK",
+            "narrator": "真幌",
+            "text": "さて、お前たち。\nそろそろ１時間目の\n体育が始まるぞ。",
+            "zh": "好了，你们几个。\n第一节课的体育\n快开始了哦。",
+            "narrator_zh": "真幌"
+        },
+        {
+            "location": "182/TALK",
+            "narrator": "真幌",
+            "text": "遅れずに校庭に\n集合しろよ。",
+            "zh": "别迟到，去操场\n集合啊。",
+            "narrator_zh": "真幌"
+        },
+        {
+            "location": "183/TALK",
+            "narrator": "つばめ",
+            "text": "は、はいっ！",
+            "zh": "好、好的！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "185/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "卯月さんと逢瀬さんが\n生徒会長候補！？",
+            "zh": "卯月和逢濑\n成了学生会长候选人！？",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "187/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "そんな……\n私は！？\n今までの努力は？？",
+            "zh": "怎么这样……\n那我呢！？\n我迄今为止的努力算什么？？",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "190/TALK",
+            "narrator": "神楽",
+            "text": "今日は長距離走\nだそうですよ？\nとっても憂鬱です…。",
+            "zh": "听说今天要跑\n长跑哦？\n好郁闷啊……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "192/TALK",
+            "narrator": "つばめ",
+            "text": "えー…\nわたしも長距離走は\n苦手だよ。",
+            "zh": "诶——……\n我也不擅长\n长跑呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "198/TALK",
+            "narrator": "神楽",
+            "text": "アーヤさんは何年も\n長距離走の代表選手\nだったんですよね？",
+            "zh": "绫水你连续好几年\n都是长跑的代表选手，\n对吧？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "200/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "えっ！？",
+            "zh": "诶！？",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "203/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "え、ええ、そうね。\n県大会とかにも出た\nことあるくらいには。",
+            "zh": "啊、嗯，算是吧。\n好歹也是参加过\n县大赛之类的水平。",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "204/TALK",
+            "narrator": "つばめ",
+            "text": "すごーい！！\nいいなぁ……。",
+            "zh": "好厉害——！！\n真好呀……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "206/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "そ、そうよね。\n勉強では負けても、\nスポーツなら……",
+            "zh": "也、也是呢。\n就算学习输了，\n只要在体育上……",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "207/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "剣道だって世界選手権\nに出場したりしてるん\nだから……。",
+            "zh": "毕竟我连剑道\n世界锦标赛都\n参加过……。",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "210/TALK",
+            "narrator": "高校生アーヤ",
+            "text": "さあ、早く着替えて\n行きましょ。",
+            "zh": "好了，快点去换衣服\n出发吧。",
+            "narrator_zh": "高中生绫水"
+        },
+        {
+            "location": "249/TALK",
+            "narrator": "透明つばめ",
+            "text": "はぁ……はぁ…\nもうだめー…限界！",
+            "zh": "哈啊……哈啊……\n不行了——……到极限了！",
+            "narrator_zh": "透明燕"
+        },
+        {
+            "location": "250/TALK",
+            "narrator": "透明神楽",
+            "text": "あともう少しですよっ！\n頑張りましょう！",
+            "zh": "就差一点点了！\n加油吧！",
+            "narrator_zh": "透明神乐"
+        },
+        {
+            "location": "252/TALK",
+            "narrator": "透明つばめ",
+            "text": "卯月さんすごいよ。\n速すぎー！",
+            "zh": "卯月好厉害呀。\n跑太快了——！",
+            "narrator_zh": "透明燕"
+        },
+        {
+            "location": "254/TALK",
+            "narrator": "透明神楽",
+            "text": "つばめさんこそ\n十分速いですよ？",
+            "zh": "燕你才\n已经够快了呢？",
+            "narrator_zh": "透明神乐"
+        },
+        {
+            "location": "256/TALK",
+            "narrator": "透明神楽",
+            "text": "途中迷子になったときは\nどうしようかと\n思いましたけど。",
+            "zh": "中途你迷路的时候，\n我还想着\n这下可怎么办呢。",
+            "narrator_zh": "透明神乐"
+        },
+        {
+            "location": "258/TALK",
+            "narrator": "透明つばめ",
+            "text": "わたしももう、\n戻って来れないかと\n思ってたよ……",
+            "zh": "我也以为自己\n再也回不来了\n呀……",
+            "narrator_zh": "透明燕"
+        },
+        {
+            "location": "260/TALK",
+            "narrator": "透明アーヤ",
+            "text": "う、うそでしょ！？",
+            "zh": "不、不会吧！？",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "261/TALK",
+            "narrator": "透明アーヤ",
+            "text": "なんであの二人の方が\n私より速いわけ！？",
+            "zh": "为什么那两个人\n跑得比我还快啊！？",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "263/TALK",
+            "narrator": "透明アーヤ",
+            "text": "…はぁ、はぁ……\nもうダメ…",
+            "zh": "……哈啊、哈啊……\n不行了……",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "264/TALK",
+            "narrator": "透明アーヤ",
+            "text": "これでも今まで\n長距離で負けたことは\nなかったのに…っ",
+            "zh": "我好歹至今为止\n长跑从没输过\n的啊……！",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "266/TALK",
+            "narrator": "透明アーヤ",
+            "text": "つばめは後ろにいたと\n思ったらいつの間にか\n前にいるし……",
+            "zh": "刚以为燕在后面，\n一眨眼功夫\n就跑到前面去了……",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "267/TALK",
+            "narrator": "透明アーヤ",
+            "text": "卯月なんて\n息も上がって\nないし……！",
+            "zh": "至于卯月，\n连气都没喘\n一下……！",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "270/TALK",
+            "narrator": "透明アーヤ",
+            "text": "何よあれ！\nバケモノ！？",
+            "zh": "那是什么啊！\n怪物吗！？",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "271/SEL",
+            "narrator": "（選択肢）",
+            "text": "バケモノは酷すぎじゃない？",
+            "zh": "说她们是怪物太过分了吧？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "272/ACT",
+            "narrator": "",
+            "text": "バケモノは酷すぎじゃない？",
+            "zh": "说她们是怪物太过分了吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "277/TALK",
+            "narrator": "透明アーヤ",
+            "text": "何よ！",
+            "zh": "干嘛啊！",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "279/TALK",
+            "narrator": "透明アーヤ",
+            "text": "$handle$は\n走ってもいないんだから\n黙ってて！",
+            "zh": "$handle$\n你连跑都没跑，\n给我闭嘴！",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "280/SEL",
+            "narrator": "（選択肢）",
+            "text": "$me$ってここではどういう存在なの？",
+            "zh": "$me$在这里算是什么样的存在呀？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "281/ACT",
+            "narrator": "",
+            "text": "$me$ってここではどういう存在なの？",
+            "zh": "$me$在这里算是什么样的存在呀？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "284/TALK",
+            "narrator": "透明アーヤ",
+            "text": "さあね…っ…\n私にもわからないわよ。\nハァ…ハァ…",
+            "zh": "鬼知道……！\n我也不清楚啊。\n哈啊……哈啊……",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "286/TALK",
+            "narrator": "透明アーヤ",
+            "text": "なんか、空飛ぶ\nマスコットみたいな…\nそんなんじゃないの？",
+            "zh": "总觉得，像是飞在空中的\n吉祥物之类的……\n不就是那种东西吗？",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "287/SEL",
+            "narrator": "（選択肢）",
+            "text": "見えてないんだ…",
+            "zh": "原来看不见我啊……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "288/ACT",
+            "narrator": "",
+            "text": "見えてないんだ…",
+            "zh": "原来看不见我啊……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "293/TALK",
+            "narrator": "透明アーヤ",
+            "text": "そんなことより…っ…\nあの二人よ！",
+            "zh": "先别管那个了……！\n你看那两个人！",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "294/TALK",
+            "narrator": "透明アーヤ",
+            "text": "あの二人は絶対に\nおかしいわよ…っ！",
+            "zh": "那两个人绝对\n有问题……！",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "297/TALK",
+            "narrator": "透明アーヤ",
+            "text": "きっと何か、\n裏があるわ…っ！",
+            "zh": "背后一定\n有什么猫腻……！",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "299/TALK",
+            "narrator": "透明アーヤ",
+            "text": "でなければ、\nいきなり成績トップに\nなったり――",
+            "zh": "不然的话，\n怎么会突然考到\n年级第一——",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "300/TALK",
+            "narrator": "透明アーヤ",
+            "text": "あんな平気な顔して\n走れたりなんて\nしないもの…っ……",
+            "zh": "怎么可能一脸轻松地\n跑成那样\n啊……！",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "306/TALK",
+            "narrator": "透明アーヤ",
+            "text": "お願いっ…\nあの二人を\nここから排除して！",
+            "zh": "拜托了……\n把那两个人\n从这里排除掉！",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "307/SEL",
+            "narrator": "（選択肢）",
+            "text": "はい",
+            "zh": "好",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "308/SEL",
+            "narrator": "（選択肢）",
+            "text": "それは無理だと思う",
+            "zh": "我觉得这办不到",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "309/SEL",
+            "narrator": "（選択肢）",
+            "text": "アーヤのダイナミックな揺れで話に集中できません",
+            "zh": "因为绫水这充满动感的晃动，没法集中精神听你说话",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "310/ACT",
+            "narrator": "",
+            "text": "はい",
+            "zh": "好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "313/TALK",
+            "narrator": "透明アーヤ",
+            "text": "心強くて助かるわ！",
+            "zh": "有你撑腰真是太好了！",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "315/TALK",
+            "narrator": "透明アーヤ",
+            "text": "よろしく！",
+            "zh": "拜托你了！",
+            "narrator_zh": "透明绫水"
+        },
+        {
+            "location": "317/SEL",
+            "narrator": "（選択肢）",
+            "text": "ごめんね、排除させてもらうよ",
+            "zh": "抱歉了，我要把你们排除掉哦",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "318/ACT",
+            "narrator": "",
+            "text": "ごめんね、排除させてもらうよ",
+            "zh": "抱歉了，我要把你们排除掉哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "323/TALK",
+            "narrator": "透明神楽",
+            "text": "え？",
+            "zh": "诶？",
+            "narrator_zh": "透明神乐"
+        },
+        {
+            "location": "324/TALK",
+            "narrator": "透明神楽",
+            "text": "それ、本気で\n言ってるんですか？",
+            "zh": "你那是\n认真的吗？",
+            "narrator_zh": "透明神乐"
+        },
+        {
+            "location": "349/TALK",
+            "narrator": "つばめ",
+            "text": "どうしたの？\n卯月さん。",
+            "zh": "怎么了？\n卯月。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "352/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さんが\n私を排除するって\n言うんですよ？",
+            "zh": "$handle$\n说要把我\n排除掉哦？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "354/TALK",
+            "narrator": "つばめ",
+            "text": "ええっ！？\nそれは……",
+            "zh": "诶诶！？\n那……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "357/TALK",
+            "narrator": "つばめ",
+            "text": "絶対無理だよね！",
+            "zh": "绝对办不到呀！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "360/TALK",
+            "narrator": "神楽",
+            "text": "やっぱりつばめさんも\nそう思いますよね？",
+            "zh": "果然燕\n也是这么想的吧？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "361/SEL",
+            "narrator": "（選択肢）",
+            "text": "なんでそう言い切れる？",
+            "zh": "为什么能这么肯定？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "362/ACT",
+            "narrator": "",
+            "text": "なんでそう言い切れる？",
+            "zh": "为什么能这么肯定？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "365/TALK",
+            "narrator": "神楽",
+            "text": "考えても\nみてくださいね。",
+            "zh": "你不妨\n想一想嘛。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "366/TALK",
+            "narrator": "神楽",
+            "text": "この世界で私たちは\nアーヤちゃんを越える\n存在なんです。",
+            "zh": "在这个世界里，我们可是\n超越了绫水的\n存在呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "368/TALK",
+            "narrator": "つばめ",
+            "text": "そうなんだよね。\n無敵なんだよー。",
+            "zh": "就是呀。\n我们可是无敌的哦——。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "369/TALK",
+            "narrator": "神楽",
+            "text": "そんな私たちが\n倒されるところなんて\n想像すると思います？",
+            "zh": "你觉得她会去想象\n这样的我们\n被打倒的画面吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "370/SEL",
+            "narrator": "（選択肢）",
+            "text": "どういう意味？",
+            "zh": "什么意思？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "371/ACT",
+            "narrator": "",
+            "text": "どういう意味？",
+            "zh": "什么意思？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "373/TALK",
+            "narrator": "つばめ",
+            "text": "うーん、一度やって\nみればわかるよ。\nねえ、卯月さん。",
+            "zh": "嗯，试一次\n就知道了呀。\n对吧，卯月。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "374/TALK",
+            "narrator": "神楽",
+            "text": "そうですね。\n是非排除してみて\nください。",
+            "zh": "是啊。\n请务必试着\n排除我们看看。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "375/SEL",
+            "narrator": "（選択肢）",
+            "text": "神楽を排除する",
+            "zh": "排除神乐",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "376/ACT",
+            "narrator": "",
+            "text": "神楽を排除する",
+            "zh": "排除神乐",
+            "narrator_zh": ""
+        },
+        {
+            "location": "386/TALK",
+            "narrator": "神楽",
+            "text": "あら？\n今何かやりましたか？",
+            "zh": "哎呀？\n刚才你做什么了吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "387/SEL",
+            "narrator": "（選択肢）",
+            "text": "つばめを排除する",
+            "zh": "排除燕",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "388/ACT",
+            "narrator": "",
+            "text": "つばめを排除する",
+            "zh": "排除燕",
+            "narrator_zh": ""
+        },
+        {
+            "location": "398/TALK",
+            "narrator": "つばめ",
+            "text": "うーん、そよ風が\n吹いたかな？",
+            "zh": "嗯——，是刚才\n吹过一阵微风吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "399/SEL",
+            "narrator": "（選択肢）",
+            "text": "！？",
+            "zh": "！？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "400/ACT",
+            "narrator": "",
+            "text": "！？",
+            "zh": "！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "402/TALK",
+            "narrator": "つばめ",
+            "text": "だから言ってるじゃん。",
+            "zh": "所以我才说嘛。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "403/TALK",
+            "narrator": "神楽",
+            "text": "この世界では私たちは\n無敵なんです。",
+            "zh": "在这个世界里，\n我们是无敌的。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "404/TALK",
+            "narrator": "神楽",
+            "text": "何とかしたいなら、\nまずは私たちを無敵に\nしてる存在を……",
+            "zh": "想要解决我们的话，\n首先得把让我们无敌的\n那个存在……",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "405/TALK",
+            "narrator": "つばめ",
+            "text": "何とかするか、\n倒すかした方が\nいいんじゃないかなぁ。",
+            "zh": "想办法处理掉，\n或者打倒，\n才比较好吧。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "406/TALK",
+            "narrator": "神楽",
+            "text": "まあでも……",
+            "zh": "不过话又说回来……",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "407/TALK",
+            "narrator": "つばめ",
+            "text": "わたしたちを排除する\nような危険なひとは…",
+            "zh": "像你这样想要排除我们的\n危险人物……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "408/TALK",
+            "narrator": "神楽",
+            "text": "野放しにしては\nおけないですよね♪",
+            "zh": "可不能\n放任不管呢♪",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "409/TALK",
+            "narrator": "つばめ",
+            "text": "だよね～！",
+            "zh": "就是呀～！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "410/TALK",
+            "narrator": "神楽",
+            "text": "私たちが平和に\n過ごせるためにも\nここはひとつ…",
+            "zh": "为了让我们能\n和平地度日，\n这里干脆就……",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "411/TALK",
+            "narrator": "つばめ",
+            "text": "消えてもらおうね！",
+            "zh": "请你消失吧！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "412/SEL",
+            "narrator": "（選択肢）",
+            "text": "ちょっと待って！",
+            "zh": "等一下！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "413/ACT",
+            "narrator": "",
+            "text": "ちょっと待って！",
+            "zh": "等一下！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "416/TALK",
+            "narrator": "神楽",
+            "text": "いいえ！\nもうダメですっ！",
+            "zh": "不行！\n已经没得商量了！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "417/TALK",
+            "narrator": "つばめ",
+            "text": "いっくよーっ！！",
+            "zh": "要上咯——！！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "431/TALK",
+            "narrator": "千羽鶴",
+            "text": "残念。",
+            "zh": "真遗憾。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "432/SEL",
+            "narrator": "（選択肢）",
+            "text": "どういうこと？",
+            "zh": "这是怎么回事？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "433/ACT",
+            "narrator": "",
+            "text": "どういうこと？",
+            "zh": "这是怎么回事？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "435/TALK",
+            "narrator": "千羽鶴",
+            "text": "ここは國政綾水の\n心の中。",
+            "zh": "这里是国政绫水的\n心灵之中。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "436/TALK",
+            "narrator": "千羽鶴",
+            "text": "だから、卯月神楽や\n逢瀬つばめを作って\nいるのは――",
+            "zh": "所以，造出卯月神乐\n和逢濑燕的\n——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "437/TALK",
+            "narrator": "千羽鶴",
+            "text": "あくまでこの世界の\n國政綾水のココロ。",
+            "zh": "归根结底，是这个世界里\n国政绫水的心。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "438/TALK",
+            "narrator": "千羽鶴",
+            "text": "國政綾水が卯月神楽\nたちを倒せないと\n思っている内は――",
+            "zh": "只要国政绫水还认为\n打不赢卯月神乐\n她们——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "439/TALK",
+            "narrator": "千羽鶴",
+            "text": "絶対に倒す事は\nできない。",
+            "zh": "就绝对\n不可能打倒。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "440/SEL",
+            "narrator": "（選択肢）",
+            "text": "何故倒せないと思ってるの？",
+            "zh": "为什么她会觉得打不赢？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "441/ACT",
+            "narrator": "",
+            "text": "何故倒せないと思ってるの？",
+            "zh": "为什么她会觉得打不赢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "443/TALK",
+            "narrator": "千羽鶴",
+            "text": "さあ？\nそれは國政綾水本人に\n聞いてみたら？",
+            "zh": "谁知道？\n这种事去问国政绫水\n本人不就好了？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "444/TALK",
+            "narrator": "千羽鶴",
+            "text": "もう一度、\n挑戦してみるといい。",
+            "zh": "再去试着\n挑战一次吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "480/ACT",
+            "narrator": "",
+            "text": "それは無理だと思う",
+            "zh": "我觉得这办不到",
+            "narrator_zh": ""
+        },
+        {
+            "location": "484/TALK",
+            "narrator": "アーヤ",
+            "text": "どうして！？",
+            "zh": "为什么！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "485/SEL",
+            "narrator": "（選択肢）",
+            "text": "えっと、ここって心の中だよね？",
+            "zh": "那个，这里是你心里对吧？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "486/ACT",
+            "narrator": "",
+            "text": "えっと、ここって心の中だよね？",
+            "zh": "那个，这里是你心里对吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "488/TALK",
+            "narrator": "アーヤ",
+            "text": "だから何！？",
+            "zh": "那又怎样！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "489/SEL",
+            "narrator": "（選択肢）",
+            "text": "あの二人はアーヤの妄想だよね？",
+            "zh": "那两个人是绫水的妄想对吧？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "490/ACT",
+            "narrator": "",
+            "text": "あの二人はアーヤの妄想だよね？",
+            "zh": "那两个人是绫水的妄想对吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "492/TALK",
+            "narrator": "アーヤ",
+            "text": "それで！？",
+            "zh": "然后呢！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "493/SEL",
+            "narrator": "（選択肢）",
+            "text": "アーヤが無理だと思ってるものは覆せないのでは？",
+            "zh": "绫水自己都觉得不可能的事，岂不是没法推翻吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "494/ACT",
+            "narrator": "",
+            "text": "アーヤが無理だと思ってるものは覆せないのでは？",
+            "zh": "绫水自己都觉得不可能的事，岂不是没法推翻吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "497/TALK",
+            "narrator": "アーヤ",
+            "text": "そんなこと――",
+            "zh": "那种事——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "498/TALK",
+            "narrator": "分身アーヤ",
+            "text": "そのとおり。\n$handle$が正解。",
+            "zh": "说得没错。\n$handle$答对了。",
+            "narrator_zh": "分身绫水"
+        },
+        {
+            "location": "501/TALK",
+            "narrator": "アーヤ",
+            "text": "誰！？",
+            "zh": "谁！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "518/TALK",
+            "narrator": "分身アーヤ",
+            "text": "やっと出てこれた。",
+            "zh": "总算能出来了。",
+            "narrator_zh": "分身绫水"
+        },
+        {
+            "location": "520/TALK",
+            "narrator": "分身アーヤ",
+            "text": "ありがとう、\n$handle$。\n貴方のお陰。",
+            "zh": "谢谢，\n$handle$。\n多亏了你。",
+            "narrator_zh": "分身绫水"
+        },
+        {
+            "location": "521/TALK",
+            "narrator": "分身アーヤ",
+            "text": "貴方が彼女に僅かな\n気の迷いを起こさせて\nくれたから。",
+            "zh": "因为你让她\n产生了\n一丝动摇。",
+            "narrator_zh": "分身绫水"
+        },
+        {
+            "location": "522/SEL",
+            "narrator": "（選択肢）",
+            "text": "どういたしまして",
+            "zh": "不客气",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "523/ACT",
+            "narrator": "",
+            "text": "どういたしまして",
+            "zh": "不客气",
+            "narrator_zh": ""
+        },
+        {
+            "location": "525/TALK",
+            "narrator": "アーヤ",
+            "text": "気の迷いなんて\n全く無いわよ。",
+            "zh": "我才没有\n什么动摇呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "529/TALK",
+            "narrator": "アーヤ",
+            "text": "貴方も見てたでしょ？\nこの前のチャット世界\nでのフェノメノン戦。",
+            "zh": "你不也看到了吗？\n前阵子在聊天世界\n的那场PhenoMENON战。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "530/TALK",
+            "narrator": "アーヤ",
+            "text": "卯月は初参戦なのに、\nあんなにしっかりと\n立ち回れたり――",
+            "zh": "卯月明明是初次参战，\n却能发挥得\n那么稳当——",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "531/TALK",
+            "narrator": "アーヤ",
+            "text": "つばめなんてクランを\n一発で壊せる力を\n持っていたりする。",
+            "zh": "至于燕，甚至拥有\n一击击溃库兰的\n力量。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "533/TALK",
+            "narrator": "アーヤ",
+            "text": "慣れてくれば、今より\nもっと活躍するように\nなってくる。",
+            "zh": "等她们习惯之后，\n肯定会比现在\n更加活跃。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "534/TALK",
+            "narrator": "アーヤ",
+            "text": "そうなったら私なんて\nお払い箱よ！？",
+            "zh": "真到那时候，我岂不是\n要被踢出局了！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "535/TALK",
+            "narrator": "分身アーヤ",
+            "text": "まだそんなの\nわからないでしょ？",
+            "zh": "那种事现在\n还说不准吧？",
+            "narrator_zh": "分身绫水"
+        },
+        {
+            "location": "536/TALK",
+            "narrator": "アーヤ",
+            "text": "分かるわよ！\nいずれリーダーだって\n二人に奪われちゃう。",
+            "zh": "怎么说不准！\n迟早连队长的位置\n也会被她们抢走的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "537/TALK",
+            "narrator": "アーヤ",
+            "text": "私なんて、いても\nいなくても変わらない\n存在になるから。",
+            "zh": "像我这种人，\n就会变成在不在都一样的\n存在了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "540/TALK",
+            "narrator": "分身アーヤ",
+            "text": "はぁ……。",
+            "zh": "唉……。",
+            "narrator_zh": "分身绫水"
+        },
+        {
+            "location": "542/TALK",
+            "narrator": "分身アーヤ",
+            "text": "$handle$、\n申し訳無いけど、\n手伝ってくれる？",
+            "zh": "$handle$，\n不好意思，\n能帮个忙吗？",
+            "narrator_zh": "分身绫水"
+        },
+        {
+            "location": "543/TALK",
+            "narrator": "分身アーヤ",
+            "text": "この子を追い出すの。",
+            "zh": "把这个孩子赶出去。",
+            "narrator_zh": "分身绫水"
+        },
+        {
+            "location": "544/SEL",
+            "narrator": "（選択肢）",
+            "text": "いいよ",
+            "zh": "好啊",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "545/ACT",
+            "narrator": "",
+            "text": "いいよ",
+            "zh": "好啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "549/TALK",
+            "narrator": "アーヤ",
+            "text": "追い出される\nもんですか！",
+            "zh": "我才不会\n被赶出去呢！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "550/TALK",
+            "narrator": "アーヤ",
+            "text": "貴方のような脳天気な\n私の方が、私にとって\n有害な存在よ！",
+            "zh": "像你这样没心没肺的\n我，才更是对我而言\n有害的存在吧！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "551/TALK",
+            "narrator": "分身アーヤ",
+            "text": "悲観的過ぎる方が\nよっぽど有害。",
+            "zh": "太过悲观的这边\n才更有害得多。",
+            "narrator_zh": "分身绫水"
+        },
+        {
+            "location": "552/TALK",
+            "narrator": "アーヤ",
+            "text": "もういいわ。\nどっちがより有害か、\n戦えばすぐにわかる。",
+            "zh": "够了。\n哪边更有害，\n打过就立刻见分晓。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "553/TALK",
+            "narrator": "分身アーヤ",
+            "text": "そうね。\n私もそう思ってた\nところよ。",
+            "zh": "是啊。\n我正有此意\n呢。",
+            "narrator_zh": "分身绫水"
+        },
+        {
+            "location": "554/TALK",
+            "narrator": "アーヤ",
+            "text": "意見が一致して\n良かった。\nそれじゃ、いくわよ！",
+            "zh": "意见能一致\n再好不过了。\n那就，来吧！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "555/TALK",
+            "narrator": "分身アーヤ",
+            "text": "臨むところよ！",
+            "zh": "求之不得！",
+            "narrator_zh": "分身绫水"
+        },
+        {
+            "location": "567/DIALOG",
+            "narrator": "",
+            "text": "<color=black><size=50><b>自分を卑下する\n悲観的なアーヤを倒せ！</b></size></color>\n\n\n\n\n確かに新人たちはとても能力が高い。\nでもだからといって、\n今までの蓄積が全て無くなるわけじゃない。\n\n悲観的になりすぎている\nアーヤを倒して、\n彼女の自信を取り戻させよう。",
+            "zh": "<color=black><size=50><b>打倒妄自菲薄的\n悲观绫水！</b></size></color>\n\n\n\n\n新人们确实能力很强。\n但即便如此，\n也不代表过去的积累就会化为乌有。\n\n打倒过于悲观的\n绫水，\n让她找回自信吧。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "570/ACT",
+            "narrator": "",
+            "text": "アーヤのダイナミックな揺れで話に集中できません",
+            "zh": "因为绫水这充满动感的晃动，没法集中精神听你说话",
+            "narrator_zh": ""
+        },
+        {
+            "location": "574/TALK",
+            "narrator": "アーヤ",
+            "text": "は！？",
+            "zh": "哈！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "575/TALK",
+            "narrator": "アーヤ",
+            "text": "人が真面目に\n悩んでるのに\n何言ってるの！？",
+            "zh": "我这边正认真\n烦恼呢，\n你在说什么啊！？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "576/TALK",
+            "narrator": "アーヤ",
+            "text": "もういいです！\n出ていって！",
+            "zh": "够了！\n请出去！",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "590/TALK",
+            "narrator": "千羽鶴",
+            "text": "…強者ね。",
+            "zh": "……真是强者啊。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "591/SEL",
+            "narrator": "（選択肢）",
+            "text": "眼福でした",
+            "zh": "大饱眼福了",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "592/SEL",
+            "narrator": "（選択肢）",
+            "text": "息抜きも大切",
+            "zh": "放松一下也很重要",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "593/ACT",
+            "narrator": "",
+            "text": "眼福でした",
+            "zh": "大饱眼福了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "594/ACT",
+            "narrator": "",
+            "text": "息抜きも大切",
+            "zh": "放松一下也很重要",
+            "narrator_zh": ""
+        },
+        {
+            "location": "596/TALK",
+            "narrator": "千羽鶴",
+            "text": "そうね。",
+            "zh": "是啊。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "597/TALK",
+            "narrator": "千羽鶴",
+            "text": "まあ、何度でも\nやり直せるし。",
+            "zh": "反正，无论多少次\n都能重来。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "598/TALK",
+            "narrator": "千羽鶴",
+            "text": "$handle$が\nヒマなら何度\nやっても大丈夫。",
+            "zh": "要是$handle$\n很闲的话，重来多少次\n都行。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "599/TALK",
+            "narrator": "千羽鶴",
+            "text": "けど、國政綾水と\nより強い絆を育みたい\nのなら――",
+            "zh": "不过，如果你想和\n国政绫水培养\n更深的羁绊——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "600/TALK",
+            "narrator": "千羽鶴",
+            "text": "TPOをわきまえた\n選択もまた重要。",
+            "zh": "懂得看场合做选择\n同样很重要。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "601/TALK",
+            "narrator": "千羽鶴",
+            "text": "まあ、小姑の説教は\nこれくらいにしておく。",
+            "zh": "算了，婆婆妈妈的说教\n就到此为止。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "602/TALK",
+            "narrator": "千羽鶴",
+            "text": "最終的な判断は\n貴方がすることだから。",
+            "zh": "毕竟最终做判断的人，\n是你。",
+            "narrator_zh": "千羽鹤"
+        }
+    ]
+}

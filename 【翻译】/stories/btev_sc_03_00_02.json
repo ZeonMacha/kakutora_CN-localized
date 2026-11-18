@@ -1,0 +1,518 @@
+{
+    "dir": "chap00/battle/btev_sc_03_00_02.js",
+    "type": "",
+    "info": {
+        "story_id": "35",
+        "cid": "",
+        "title": "【EXストーリー】音無の花",
+        "sub_title": "シンクロストーリー",
+        "title_zh": "【EX剧情】音无之花[?]",
+        "sub_title_zh": "同步剧情"
+    },
+    "entry": [
+        {
+            "location": "192/SCENARIO",
+            "narrator": "",
+            "text": "【結果】銀葉樹",
+            "zh": "【结果】银叶树",
+            "narrator_zh": ""
+        },
+        {
+            "location": "208/TALK",
+            "narrator": "つばめ",
+            "text": "お疲れさまでした。",
+            "zh": "辛苦你啦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "209/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんが\n頑張ってくれたお陰で\n『コネクト』は完了です。",
+            "zh": "多亏了$handle$\n一直这么努力，\n『连接』完成了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "210/TALK",
+            "narrator": "つばめ",
+            "text": "これによって、銀葉樹\nちゃんのココロの中の\n抵抗は消えました。",
+            "zh": "这么一来，\n银叶树心中的抵抗\n也就消失啦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "211/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんと\n繋がる準備ができた、\nということです。",
+            "zh": "也就是说，已经做好了\n与$handle$相连的\n准备呢。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "212/SEL",
+            "narrator": "（選択肢）",
+            "text": "で、『シンクロ』ってわけ？",
+            "zh": "那接下来就是『同步』对吧？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "213/ACT",
+            "narrator": "",
+            "text": "で、『シンクロ』ってわけ？",
+            "zh": "那接下来就是『同步』对吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "215/TALK",
+            "narrator": "つばめ",
+            "text": "そうです！",
+            "zh": "是的！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "216/TALK",
+            "narrator": "つばめ",
+            "text": "シンクロをすると、\n銀葉樹ちゃんの想いが\n流れ込みます。",
+            "zh": "进行同步之后，\n银叶树的心念\n就会涌进来哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "217/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんは、\nどうかそれを受け入れて\nあげてください。",
+            "zh": "$handle$，\n还请你温柔地\n接纳它呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "218/TALK",
+            "narrator": "つばめ",
+            "text": "準備はいいですか？",
+            "zh": "准备好了吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "219/SEL",
+            "narrator": "（選択肢）",
+            "text": "はい",
+            "zh": "是",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "220/SEL",
+            "narrator": "（選択肢）",
+            "text": "いいえ",
+            "zh": "否",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "221/ACT",
+            "narrator": "",
+            "text": "はい",
+            "zh": "是",
+            "narrator_zh": ""
+        },
+        {
+            "location": "222/TALK",
+            "narrator": "つばめ",
+            "text": "わかりました。\nそれではココロを\n繋げます。",
+            "zh": "明白了。\n那么就把心\n连接起来吧。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "223/ACT",
+            "narrator": "",
+            "text": "いいえ",
+            "zh": "否",
+            "narrator_zh": ""
+        },
+        {
+            "location": "225/TALK",
+            "narrator": "つばめ",
+            "text": "ええっ！\nそうなんですか？",
+            "zh": "诶诶！\n是这样吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "226/TALK",
+            "narrator": "つばめ",
+            "text": "それでは一旦ここで\nお別れですね。",
+            "zh": "那我们就先在这里\n暂时道别吧。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "227/TALK",
+            "narrator": "つばめ",
+            "text": "準備ができたら\nまた来てくださいね。",
+            "zh": "做好准备之后\n随时再来哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "235/TALK",
+            "narrator": "つばめ",
+            "text": "EXEC_SYNC_SPHERE/.",
+            "zh": "EXEC_SYNC_SPHERE/.",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "248/DIALOG",
+            "narrator": "",
+            "text": "もしも次に生まれ変われるなら\n私は花に生まれ変わりたい――",
+            "zh": "如果还能有来生，\n我想转生成一朵花——",
+            "narrator_zh": ""
+        },
+        {
+            "location": "255/DIALOG",
+            "narrator": "",
+            "text": "クランイラスト先読み",
+            "zh": "库兰插画预加载",
+            "narrator_zh": ""
+        },
+        {
+            "location": "266/DIALOG",
+            "narrator": "",
+            "text": "相澤亜紀（あいざわあき）\n16歳。多摩ニュータウン在住。家族構成は両親と弟。\n\n幼い頃から内気な性格で、大団地に住むにはストレスが大きかった模様。自ら積極的に声を掛けることの無い彼女は、昔から友だちも少なかった。",
+            "zh": "相泽亚纪\n16岁。居住于多摩新城。家庭成员有父母和弟弟。\n\n她从小性格内向，住在大型住宅小区里似乎给了她很大压力。从不主动搭话的她，自幼便没什么朋友。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "267/DIALOG",
+            "narrator": "",
+            "text": "そんな亜紀が大切にしていたものは植物、そして綺麗な鉱石の結晶。彼女の部屋の内外には様々な植物や鉱石があり、植物の世話は彼女にとって最大の楽しみだったという。",
+            "zh": "这样的亚纪珍视的事物，是植物以及美丽的矿石结晶。她的房间内外摆着各种各样的植物和矿石，照料植物对她而言就是最大的乐趣。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "268/DIALOG",
+            "narrator": "",
+            "text": "高校生になり、人見知りな亜紀もいよいよ恋をした。亜紀と同じく草木をこよなく愛する木訥な少年。お互い理解し合える相手が殆どいなかったことも相まって、二人はすぐに親しくなった。二人は特に宣言することもなく、しかし自然とつき合うようになり、二人にとって最高に幸せな時間が訪れた。",
+            "zh": "升上高中后，怕生认生的亚纪也终于恋爱了。对方是个和亚纪一样酷爱草木的木讷少年。加上彼此几乎都没有其他能够互相理解的人，两人很快就亲近起来。他们并没有特地告白确立关系，却顺理成章地开始交往，属于两人的最幸福时光降临了。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "273/DIALOG",
+            "narrator": "",
+            "text": "だがその幸せは儚く終わりを告げることになった。家から少し離れた所にある山野。とある晴れた日、二人はトレッキングへと向かう。そしてそこで不幸にも不良グループが隠れ違法行為をしているところへ遭遇してしまった。すぐさま取り囲まれる二人。彼は果敢に亜紀を守るが勢い余った相手に殺されてしまう。",
+            "zh": "然而那份幸福却转瞬迎来了终结。在离家不远的山野间，某个晴朗的日子，两人一同去徒步登山。不巧的是，他们在那里撞见了不良团伙暗中进行违法勾当的现场。两人立刻被团团围住。少年奋不顾身地保护亚纪，却被下手过重的对方杀害。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "274/DIALOG",
+            "narrator": "",
+            "text": "亜紀もまた襲われかけた。相手は男5人。奇跡が起きるはずも無い。絶望に打ち震える亜紀。彼女は願った。この汚れた理不尽な世界に災いを。そして発症した。",
+            "zh": "亚纪也险些遭到侵犯。对方是5名男子。奇迹绝无可能发生。在绝望中颤抖的亚纪祈求着：让这污浊而荒唐的世界降下灾祸吧。于是她发症了。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "279/DIALOG",
+            "narrator": "",
+            "text": "彼女が展開した世界は青木ヶ原のような世界。そこに囚われた人々は皆、疑心暗鬼となり、出会う人と裏切り裏切られ、誰もが孤立してしまう。",
+            "zh": "她所展开的世界，宛如青木原树海那样的世界。被囚禁在其中的人们全都疑神疑鬼，遇见彼此便互相背叛、彼此提防，人人都陷入孤立。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "280/DIALOG",
+            "narrator": "",
+            "text": "亜紀のこのやるせない気持ちを、ただ皆に共感して欲しい、そんな想いが生み出した世界だった。",
+            "zh": "希望所有人都能体会到亚纪这份无处排解的心情——正是这样的念头生出了这个世界。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "297/TALK",
+            "narrator": "つばめ",
+            "text": "どうでしたか？\n銀葉樹ちゃんの想いは。",
+            "zh": "感觉怎么样？\n银叶树的心念。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "298/SEL",
+            "narrator": "（選択肢）",
+            "text": "切ないね",
+            "zh": "好难受啊",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "299/SEL",
+            "narrator": "（選択肢）",
+            "text": "無口っ子萌える",
+            "zh": "无口女孩真萌啊",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "300/SEL",
+            "narrator": "（選択肢）",
+            "text": "不良は返り討ちだ",
+            "zh": "不良少年就该被反杀",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "301/ACT",
+            "narrator": "",
+            "text": "切ないね",
+            "zh": "好难受啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "302/TALK",
+            "narrator": "つばめ",
+            "text": "そうですよね。",
+            "zh": "是呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "303/TALK",
+            "narrator": "つばめ",
+            "text": "やっと自分の気持ちを\nわかってくれる人を\n見つけたのに。",
+            "zh": "好不容易才找到了\n一个能够理解自己\n心意的人。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "304/TALK",
+            "narrator": "つばめ",
+            "text": "あっという間に\nその幸せが\n奪われて……。",
+            "zh": "转眼之间\n那份幸福\n就被夺走了……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "305/ACT",
+            "narrator": "",
+            "text": "無口っ子萌える",
+            "zh": "无口女孩真萌啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "306/TALK",
+            "narrator": "つばめ",
+            "text": "…あ。",
+            "zh": "……啊。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "307/TALK",
+            "narrator": "つばめ",
+            "text": "はい。",
+            "zh": "是的。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "308/TALK",
+            "narrator": "つばめ",
+            "text": "そうですね。",
+            "zh": "确实是呢。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "309/ACT",
+            "narrator": "",
+            "text": "不良は返り討ちだ",
+            "zh": "不良少年就该被反杀",
+            "narrator_zh": ""
+        },
+        {
+            "location": "310/TALK",
+            "narrator": "つばめ",
+            "text": "ええっ！",
+            "zh": "诶诶！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "311/TALK",
+            "narrator": "つばめ",
+            "text": "暴力は\nいけません、\n暴力は！",
+            "zh": "暴力是\n不对的，\n暴力可不行！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "316/TALK",
+            "narrator": "つばめ",
+            "text": "わたしは……。",
+            "zh": "我呀……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "317/TALK",
+            "narrator": "つばめ",
+            "text": "銀葉樹ちゃんの気持ち\nよくわかります。",
+            "zh": "很理解\n银叶树的心情哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "318/TALK",
+            "narrator": "つばめ",
+            "text": "お友達を作るのが\n上手な人は同級生が\n怖くないんです。",
+            "zh": "擅长交朋友的人，\n是不会害怕\n同班同学的。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "319/TALK",
+            "narrator": "つばめ",
+            "text": "でも、わたしも\n銀葉樹ちゃんも\nそう思うのは難しくて。",
+            "zh": "但是，对我和\n银叶树来说，\n那样想很难呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "321/TALK",
+            "narrator": "つばめ",
+            "text": "でも、銀葉樹ちゃんは\n言ってくれました。",
+            "zh": "不过，银叶树\n她对我说了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "322/TALK",
+            "narrator": "つばめ",
+            "text": "あなたはそれでも\n頑張ってる。\nだから私も頑張るって。",
+            "zh": "就算那样，\n你也还是在努力呀。\n所以我也要加油。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "323/TALK",
+            "narrator": "つばめ",
+            "text": "そう言ってもらえて\nわたしはとても\n嬉しかったです。",
+            "zh": "听她这么一说，\n我真的\n特别开心。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "324/SEL",
+            "narrator": "（選択肢）",
+            "text": "似たもの同士だったんだ",
+            "zh": "你们两个原来很像呀",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "325/ACT",
+            "narrator": "",
+            "text": "似たもの同士だったんだ",
+            "zh": "你们两个原来很像呀",
+            "narrator_zh": ""
+        },
+        {
+            "location": "327/TALK",
+            "narrator": "つばめ",
+            "text": "そういうこと\nなんでしょうね。",
+            "zh": "大概就是这么\n回事吧。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "329/TALK",
+            "narrator": "つばめ",
+            "text": "クランの子も、人の子。\n一緒に戦うなら、自分が\n好きな子がいいんです。",
+            "zh": "库兰的孩子，也是人的孩子。\n要是一起战斗，还是想跟\n自己喜欢的孩子一起呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "330/TALK",
+            "narrator": "つばめ",
+            "text": "でも、他の子はまた別の\n理由で一緒に戦ってる子も\nいるんです。",
+            "zh": "不过，其他成员也有\n因为别的理由而一起\n战斗的库兰就是了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "331/TALK",
+            "narrator": "つばめ",
+            "text": "何にしても、そんな理由で\n銀葉樹ちゃんとわたしは\n繋がりました。",
+            "zh": "不管怎么说，就是因为这样，\n银叶树和我才\n连结在了一起。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "332/TALK",
+            "narrator": "つばめ",
+            "text": "…ここだけの話。",
+            "zh": "……只跟你一个人说哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "333/TALK",
+            "narrator": "つばめ",
+            "text": "ずっと銀葉樹ちゃんは\n誰もコネクト\nできなかったんですよ。",
+            "zh": "其实以前一直都没人能\n和银叶树完成\n连接呢。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "334/TALK",
+            "narrator": "つばめ",
+            "text": "だからわたし、\nちょっと自慢なんです。",
+            "zh": "所以我还有点\n小骄傲啦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "335/TALK",
+            "narrator": "つばめ",
+            "text": "銀葉樹ちゃんが\nわたしを選んで\nくれたこと。",
+            "zh": "银叶树\n愿意选择\n我这件事。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "336/TALK",
+            "narrator": "つばめ",
+            "text": "銀葉樹ちゃんが\n頑張る気になって\nくれたこと。",
+            "zh": "银叶树\n愿意鼓起\n干劲这件事。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "337/TALK",
+            "narrator": "つばめ",
+            "text": "そして今日からは、\n$handle$さんとも\nつながったんです！",
+            "zh": "而且从今天起，\n她也和$handle$\n连在一起啦！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "338/TALK",
+            "narrator": "つばめ",
+            "text": "……と、いうわけで、\nわたしと銀葉樹ちゃんの\nお話はこれでお終いです。",
+            "zh": "……于是乎，\n我和银叶树的\n故事就到这里结束啦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "339/TALK",
+            "narrator": "つばめ",
+            "text": "下手な語りでしたけど、\n最後まで聞いてくれて\nありがとうございました。",
+            "zh": "虽然讲得不太好，\n还是谢谢你一直\n听到最后。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "340/SEL",
+            "narrator": "（選択肢）",
+            "text": "こちらこそ",
+            "zh": "我才要谢谢你",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "341/SEL",
+            "narrator": "（選択肢）",
+            "text": "これからもがんばろうね",
+            "zh": "今后也一起加油吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "342/ACT",
+            "narrator": "",
+            "text": "こちらこそ",
+            "zh": "我才要谢谢你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "344/TALK",
+            "narrator": "つばめ",
+            "text": "ううん、こちらこそです！\nどうぞよろしく\nお願いします。",
+            "zh": "不不，是我该谢谢你！\n今后也请\n多多指教呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "345/ACT",
+            "narrator": "",
+            "text": "これからもがんばろうね",
+            "zh": "今后也一起加油吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "347/TALK",
+            "narrator": "つばめ",
+            "text": "はい！\nよろしく\nお願いします！",
+            "zh": "嗯！\n请多\n指教！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "350/TALK",
+            "narrator": "つばめ",
+            "text": "どうかこれからも\nわたしたちのサポートを\nしてくださいね。",
+            "zh": "以后也请\n一直一直\n支持我们哦。",
+            "narrator_zh": "燕"
+        }
+    ]
+}

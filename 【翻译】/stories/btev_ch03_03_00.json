@@ -1,0 +1,532 @@
+{
+    "dir": "chap03/battle/btev_ch03_03_00.js",
+    "type": "",
+    "info": {
+        "story_id": "23001",
+        "cid": "",
+        "title": "001 ココロスフィアストーリー【Lv01】",
+        "sub_title": "明晰記憶喪失＜提起＞",
+        "title_zh": "001 心灵领域故事【Lv01】",
+        "sub_title_zh": "明确性记忆丧失＜提起＞"
+    },
+    "entry": [
+        {
+            "location": "5/SCENARIO",
+            "narrator": "",
+            "text": "バトル導入",
+            "zh": "战斗导入",
+            "narrator_zh": ""
+        },
+        {
+            "location": "29/TALK",
+            "narrator": "千羽鶴",
+            "text": "ようこそ。\nここはガブリエラの\n精神世界――",
+            "zh": "欢迎。\n这里是加布里埃拉的\n精神世界——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "30/TALK",
+            "narrator": "千羽鶴",
+            "text": "通称<color=red>【[ココロスフィア]】</color>\nと呼ばれている場所。",
+            "zh": "通称为<color=red>【[心灵领域]】</color>\n的地方。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "千羽鶴",
+            "text": "ここでは彼女は\nあなたと普通に\n対話できる。",
+            "zh": "在这里，她可以\n和你正常地\n对话。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "千羽鶴",
+            "text": "彼女の心に直接\n語りかけることで、\n心を動かすの。",
+            "zh": "直接向她的心\n诉说，\n就能打动她。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "千羽鶴",
+            "text": "早速、彼女を呼んで\n対話をしてみましょ。",
+            "zh": "那就马上把她叫来，\n试着对话吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "42/DIALOG",
+            "narrator": "",
+            "text": "<size=40>KOKORO-Lv. 01</size>\nGABRIELLA\n\n<size=45>明晰記憶喪失</size>\n<size=35>～時間が止まったココロ～</size>",
+            "zh": "<size=40>KOKORO-Lv. 01</size>\n加布里埃拉\n\n<size=45>明确性记忆丧失</size>\n<size=35>～时间停止的心～</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "53/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "あら、\nこんなところに\nお客さん？",
+            "zh": "哎呀，\n这种地方居然\n有客人？",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "54/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "って、まあ！\n誰かと思えば\nマルザンナじゃない！",
+            "zh": "啊呀，天哪！\n我当是谁呢，\n这不是玛尔赞娜嘛！",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "55/SEL",
+            "narrator": "（選択肢）",
+            "text": "いや、$me$は$handle$ですが",
+            "zh": "不是，$me$是$handle$",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "56/ACT",
+            "narrator": "",
+            "text": "いや、$me$は$handle$ですが",
+            "zh": "不是，$me$是$handle$",
+            "narrator_zh": ""
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "何を訳の分からない\nことを言ってるの？",
+            "zh": "你在说什么\n莫名其妙的话呀？",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "それより、私の\n心の部屋に来てくれる\nなんて嬉しいわ。",
+            "zh": "不说那个了，你能来\n我的心之房间，\n我真是好开心。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "61/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "今日はどうして？\n何かサプライズでも\nあるのかしら！",
+            "zh": "今天怎么过来了？\n难道有什么\n惊喜吗！",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "62/SEL",
+            "narrator": "（選択肢）",
+            "text": "あなたのココロを落ち着かせに来ました",
+            "zh": "我是来让你的心平静下来的",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "63/ACT",
+            "narrator": "",
+            "text": "あなたのココロを落ち着かせに来ました",
+            "zh": "我是来让你的心平静下来的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "67/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "まあ、そうなの？\nとっても嬉しいわ♪",
+            "zh": "哎呀，是吗？\n我好高兴哦♪",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "68/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "でもね、マルザンナ。\nあたし今、悩んでること\nなんて特に無いのよ？",
+            "zh": "不过呢，玛尔赞娜。\n我现在，并没有什么\n特别烦恼的事哦？",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "69/SEL",
+            "narrator": "（選択肢）",
+            "text": "え、本当に？例えばドーム戦の時とか、銃が撃てなくて悩んでたよね？",
+            "zh": "诶，真的吗？比如穹顶战的时候，不是因为开不了枪而烦恼吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "70/ACT",
+            "narrator": "",
+            "text": "え、本当に？例えばドーム戦の時とか、銃が撃てなくて悩んでたよね？",
+            "zh": "诶，真的吗？比如穹顶战的时候，不是因为开不了枪而烦恼吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "72/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "……そうね。",
+            "zh": "……是啊。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "73/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "でも、本当のところ\nそんなことは\nどうでもいいの。",
+            "zh": "不过，说实在的，\n那种事\n怎样都好啦。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "74/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "銃なんて、撃てなきゃ\n撃たなければいいだけ\nなんだから。",
+            "zh": "枪这种东西，打不出来\n那就别开枪\n不就好了嘛。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "75/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "それより、せっかく\n来たんだから遊びま\nしょマルザンナ。",
+            "zh": "不说那个了，难得\n来一趟，我们一起\n玩吧，玛尔赞娜。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "お茶もお茶菓子も、\n用意してるわよ。",
+            "zh": "茶和茶点，\n我都准备好啦。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "77/SEL",
+            "narrator": "（選択肢）",
+            "text": "昔、何かあったの？",
+            "zh": "以前发生过什么吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "78/ACT",
+            "narrator": "",
+            "text": "昔、何かあったの？",
+            "zh": "以前发生过什么吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "81/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "何も無いわよ！",
+            "zh": "什么都没有！",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "そんな詮索する\nマルザンナなんて嫌い。",
+            "zh": "这么爱打探的\n玛尔赞娜，我最讨厌了。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "あたしも興味\nあるんだけど。",
+            "zh": "我倒是也\n挺感兴趣的。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "86/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "あんたは！？",
+            "zh": "你是！？",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "87/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "あたし？\n戦いを重んじる人格。",
+            "zh": "我？\n重视战斗的人格。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "88/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "あんたね、あたしの\n心を引っかき回して\nいるのは。",
+            "zh": "原来就是你，\n把我的心\n搅得一团糟啊。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "89/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "何もしてないわよ。",
+            "zh": "我什么都没做呀。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "90/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "してる。　　　　",
+            "zh": "你做了。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "91/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "だってあんた、\nあたしが銃を棄てる\nよう働きかけてるし。",
+            "zh": "因为你一直在\n唆使我把枪\n丢掉嘛。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "当たり前よ！\n銃なんて何も生まない。\n傷つけるだけよ。",
+            "zh": "那当然！\n枪这种东西什么也创造不出来。\n只会伤害别人而已。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "93/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "自分も……\n周りの人たちも……。",
+            "zh": "不管是自己……\n还是身边的人……。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "94/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "……まあ。\nあんたが言いたい\nことはわかる。",
+            "zh": "……嘛。\n你想说的意思\n我明白。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "95/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "でも私はソルジャーよ。\n銃が撃てないと、もっと\n不幸なことになるわ。",
+            "zh": "可我是战士。\n要是没法开枪，\n只会招来更大的不幸。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "96/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "それでも嫌！\n銃は絶対に嫌！！",
+            "zh": "那我也不要！\n枪是绝对不要！！",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "98/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "ならば、\n徹底抗戦あるのみね。",
+            "zh": "那就，\n只有奉陪到底了。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "99/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "いいわよ。\nでも、あたしは\n絶対に倒せない。",
+            "zh": "好啊。\n不过，你绝对\n打不倒我。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "101/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "あたしの大切なお人形\nさんたちが、あたしを\n守ってくれるもの。",
+            "zh": "因为我重要的人偶们\n会好好保护\n我的。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "銃よりも、\nよっぽど強いし\n頼りになるわ。",
+            "zh": "它们比枪\n可强得多，\n也可靠得多哦。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "なにより、\n誰も傷つけることが\nないもの。",
+            "zh": "最重要的是，\n不会伤害到\n任何人嘛。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "104/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "それでも倒すって\nいうならいらっしゃい。",
+            "zh": "即便如此你还说\n要打倒我，那就过来吧。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "105/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "お人形さんたちに\nやっつけてもらうから。",
+            "zh": "我这就让\n人偶们收拾你。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "109/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "110/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "ねえ、あんた。",
+            "zh": "我说，你。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "111/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "手伝ってくれる？",
+            "zh": "能帮我个忙吗？",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "112/SEL",
+            "narrator": "（選択肢）",
+            "text": "何があったか教えてくれるなら",
+            "zh": "只要你肯告诉我发生过什么",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "113/SEL",
+            "narrator": "（選択肢）",
+            "text": "デートしてくれるなら",
+            "zh": "只要你肯和我约会",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "114/ACT",
+            "narrator": "",
+            "text": "何があったか教えてくれるなら",
+            "zh": "只要你肯告诉我发生过什么",
+            "narrator_zh": ""
+        },
+        {
+            "location": "121/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "ふーん、\n交渉するんだ。",
+            "zh": "哼嗯，\n还跟我谈起条件了。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "122/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "いいわ。勝てたらね。\nあたしがわかる\n範囲で、だけど。",
+            "zh": "行啊。要是能赢的话。\n不过只限于我\n知道的范围内。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "123/ACT",
+            "narrator": "",
+            "text": "デートしてくれるなら",
+            "zh": "只要你肯和我约会",
+            "narrator_zh": ""
+        },
+        {
+            "location": "135/DIALOG",
+            "narrator": "",
+            "text": "ゴキゲンポイントが\n<size=40><color=red><b>300pt.</b></color></size>\nアップしました！",
+            "zh": "心情点数\n<size=40><color=red><b>300pt.</b></color></size>\n增加了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "141/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "はぁ！？\n何言ってるの！？",
+            "zh": "哈啊！？\n你在胡说什么啊！？",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "ま、まあ、そんなこと\nで手伝ってくれるなら、\n全然いいけど？",
+            "zh": "那、那个，如果这样\n你就肯帮忙的话，\n也不是不行啦？",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "それじゃ行きましょ。\n彼女の可愛いお人形\nさんたちと戦いに。",
+            "zh": "那就走吧。\n去和她那些可爱的\n人偶们打一场。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "161/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "162/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "本当に来ちゃったのね\nマルザンナ……。",
+            "zh": "你真的过来了呀，\n玛尔赞娜……。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "164/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "あたしの生死が\nかかってるからね。",
+            "zh": "这可是事关我生死\n的大事嘛。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "165/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "あんたも含めてだけど。",
+            "zh": "虽说也把你算在里面就是了。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "167/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "あんたはそうね。\nでも、マルザンナは\n関係無いでしょう？",
+            "zh": "你是这样没错。\n可玛尔赞娜\n又没关系吧？",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "168/SEL",
+            "narrator": "（選択肢）",
+            "text": "ガブリエラを助けたいから",
+            "zh": "因为我想帮加布里埃拉",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "169/ACT",
+            "narrator": "",
+            "text": "ガブリエラを助けたいから",
+            "zh": "因为我想帮加布里埃拉",
+            "narrator_zh": ""
+        },
+        {
+            "location": "173/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "はぁ……。\nもういい。\n失望したわ。",
+            "zh": "哈啊……。\n算了。\n我对你太失望了。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "174/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "あなたは私の\nお人形さんじゃ\nなかった。",
+            "zh": "你原来不是\n我的\n人偶呀。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "176/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "いいこと？\nこれより奥へは\n絶対に行かせない。",
+            "zh": "听好了？\n比这里更深的地方\n绝对不准你过去。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "177/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "あたしの大切な\nお人形さんたちが\nあんたを倒す。",
+            "zh": "我最珍爱的\n人偶们\n会把你打倒的。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "178/TALK",
+            "narrator": "潜在ガブリエラ",
+            "text": "覚悟しなさいね。",
+            "zh": "做好觉悟吧。",
+            "narrator_zh": "潜在加布里埃拉"
+        },
+        {
+            "location": "190/DIALOG",
+            "narrator": "",
+            "text": "<color=black><size=50><b>銃を捨てさせようとする\nガブリエラを排除せよ！</b></size></color>\n\n\n銃を撃つことに対し、\nとあるトラウマを持つガブリエラ。\nそれをダシにして\nここぞとばかりに銃を捨てさせようとする\n人格が現れた。\n\n彼女がここで銃を諦めたら、\nトライナリーの戦力は格段に落ちてしまう。\n\nココロとトライナリーの安寧のためにも\n銃を捨てさせようとするガブリエラを排除しよう。",
+            "zh": "<color=black><size=50><b>排除企图让她放弃枪械的\n加布里埃拉！</b></size></color>\n\n\n对开枪这件事，\n加布里埃拉怀有某种心理创伤。\n趁机以此为借口、\n企图逼她舍弃枪械的人格\n出现了。\n\n要是她在这里放弃了枪，\n三重奏的战力就会大幅下降。\n\n为了心灵与三重奏的安宁，\n去排除企图让她放弃枪械的加布里埃拉吧。",
+            "narrator_zh": ""
+        }
+    ]
+}

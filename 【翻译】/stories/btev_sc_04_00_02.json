@@ -1,0 +1,616 @@
+{
+    "dir": "chap00/battle/btev_sc_04_00_02.js",
+    "type": "",
+    "info": {
+        "story_id": "45",
+        "cid": "",
+        "title": "【EXストーリー】熱血オヤジ",
+        "sub_title": "シンクロストーリー",
+        "title_zh": "【EX剧情】热血老爸",
+        "sub_title_zh": "同步剧情"
+    },
+    "entry": [
+        {
+            "location": "180/SCENARIO",
+            "narrator": "",
+            "text": "【結果】播磨屋藤治郎",
+            "zh": "【结果】播磨屋藤治郎",
+            "narrator_zh": ""
+        },
+        {
+            "location": "196/TALK",
+            "narrator": "みやび",
+            "text": "お疲れ。\n無事に完了した\nみたいやねえ。",
+            "zh": "辛苦咯。\n看来是顺顺当当\n搞定了嘛。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "197/TALK",
+            "narrator": "みやび",
+            "text": "これでとうちゃんの\nココロの中の\n抵抗は消えた、と。",
+            "zh": "这么一来，老爸\n心里的抵抗也算是\n消掉咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "198/TALK",
+            "narrator": "みやび",
+            "text": "つまり$handle$と\n繋がる準備ができた、\nちうわけや。",
+            "zh": "也就是说，已经准备好\n跟$handle$连上，\n就是这回事咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "199/SEL",
+            "narrator": "（選択肢）",
+            "text": "とうちゃんと『シンクロ』するのか…",
+            "zh": "要和老爸『同步』吗……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "200/ACT",
+            "narrator": "",
+            "text": "とうちゃんと『シンクロ』するのか…",
+            "zh": "要和老爸『同步』吗……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "202/TALK",
+            "narrator": "みやび",
+            "text": "他に誰と\nする思うとる？",
+            "zh": "你还指望着跟\n谁同步咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "203/SEL",
+            "narrator": "（選択肢）",
+            "text": "みやび",
+            "zh": "雅",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "204/SEL",
+            "narrator": "（選択肢）",
+            "text": "$me$自身",
+            "zh": "$me$自己",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "205/SEL",
+            "narrator": "（選択肢）",
+            "text": "とうちゃんしかないけど…",
+            "zh": "虽然也就只有老爸了……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "206/ACT",
+            "narrator": "",
+            "text": "みやび",
+            "zh": "雅",
+            "narrator_zh": ""
+        },
+        {
+            "location": "207/TALK",
+            "narrator": "みやび",
+            "text": "なるほど。\n冗談が上手いねえ\n$handle$は。",
+            "zh": "原来如此。\n还蛮会开玩笑的嘛，\n$handle$。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "208/TALK",
+            "narrator": "みやび",
+            "text": "しかし今回は\nとうちゃん以外の\n選択肢はないぞね。",
+            "zh": "不过这一次嘛，\n除开老爸以外\n没得别的选择咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "209/ACT",
+            "narrator": "",
+            "text": "$me$自身",
+            "zh": "$me$自己",
+            "narrator_zh": ""
+        },
+        {
+            "location": "210/TALK",
+            "narrator": "みやび",
+            "text": "…ははあ。\n$handle$自身が\nクランやったぞね。",
+            "zh": "……哈哈。\n原来$handle$自己\n就是库兰咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "211/TALK",
+            "narrator": "みやび",
+            "text": "しかしそれでは\n話が続かんき。\nとうちゃんにしとき。",
+            "zh": "不过那样的话\n故事没法往下接啵。\n还是乖乖选老爸咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "212/ACT",
+            "narrator": "",
+            "text": "とうちゃんしかないけど…",
+            "zh": "虽然也就只有老爸了……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "213/TALK",
+            "narrator": "みやび",
+            "text": "そうでないと\nおかしいろう？",
+            "zh": "不然的话\n才奇怪咯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "214/TALK",
+            "narrator": "みやび",
+            "text": "覚悟決めて\nとうちゃんと\nシンクロしい。",
+            "zh": "下定决心，\n跟老爸\n同步吧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "216/TALK",
+            "narrator": "みやび",
+            "text": "シンクロしたら、\nとうちゃんの想いが\n流れ込むき。",
+            "zh": "同步之后，\n老爸的心念就会\n涌过来啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "217/TALK",
+            "narrator": "みやび",
+            "text": "$handle$は、\nそれを受け入れる\nちう寸法や。",
+            "zh": "$handle$要做的，\n就是把它接纳下来，\n这么个路数咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "218/TALK",
+            "narrator": "みやび",
+            "text": "準備はえいかね？",
+            "zh": "准备得当了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "219/SEL",
+            "narrator": "（選択肢）",
+            "text": "はい",
+            "zh": "是",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "220/SEL",
+            "narrator": "（選択肢）",
+            "text": "いいえ",
+            "zh": "否",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "221/ACT",
+            "narrator": "",
+            "text": "はい",
+            "zh": "是",
+            "narrator_zh": ""
+        },
+        {
+            "location": "222/TALK",
+            "narrator": "みやび",
+            "text": "ええ返事やね。\nほいたらココロを\n繋げるきね。",
+            "zh": "这回答才对味。\n那就把心给\n连上去啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "223/ACT",
+            "narrator": "",
+            "text": "いいえ",
+            "zh": "否",
+            "narrator_zh": ""
+        },
+        {
+            "location": "225/TALK",
+            "narrator": "みやび",
+            "text": "なんで\nここまできて…。",
+            "zh": "咋都走到\n这一步了……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "226/TALK",
+            "narrator": "みやび",
+            "text": "まあえい。\n今回はここまでや。",
+            "zh": "算了得吧。\n这次就到这儿咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "227/TALK",
+            "narrator": "みやび",
+            "text": "準備ができたら\nまた来たらえい。",
+            "zh": "啥时候准备好了\n再来就得咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "235/TALK",
+            "narrator": "みやび",
+            "text": "EXEC_SYNC_SPHERE/.",
+            "zh": "EXEC_SYNC_SPHERE/.",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "248/DIALOG",
+            "narrator": "",
+            "text": "この部品があるから\nロケットは宇宙まで飛べるんだ！",
+            "zh": "正是有了这个零件，\n火箭才能飞到宇宙去啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "255/DIALOG",
+            "narrator": "",
+            "text": "クランイラスト先読み",
+            "zh": "库兰插画预加载",
+            "narrator_zh": ""
+        },
+        {
+            "location": "265/DIALOG",
+            "narrator": "",
+            "text": "播磨藤治郎（はりまとうじろう）。５４歳男。子供４人を持つ一家の大黒柱。\n\n大田区蒲田で零細企業「播磨金属工業」を切り盛りしている。江戸時代には播磨屋という手工業の家だったが、戦前から金属工業に転身。\n職人気質の家系で品質にはこだわりがあり、衛星用のパーツを作ったこともある。",
+            "zh": "播磨藤治郎。54岁男性。养育着4个孩子的一家之主。\n\n他在大田区蒲田经营着小微企业“播磨金属工业”。江户时代他家曾是名为“播磨屋”的手工业门户，战前转型为金属加工业。\n出身匠人世家的他对品质极其执着，还曾制造过人造卫星用零件。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "266/DIALOG",
+            "narrator": "",
+            "text": "子供の中から誰か一人後継ぎを欲しがっていたが、４人とも拒否。頑固親父の藤治郎は、そんな子供達をよく叱責していたが、子供達は離れていくばかり。時代の波と、３K零細企業では仕方のないことではあると半ば諦めていた。",
+            "zh": "他一直盼着孩子们里能有一个人来继承家业，却遭到4人一致拒绝。作为顽固老爸的藤治郎虽然经常训斥这些孩子，可孩子们只是越走越远。面对时代的浪潮，加上又是苦脏险（3K）微型企业，他也半是认命地觉得这无可奈何。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "267/DIALOG",
+            "narrator": "",
+            "text": "そんな後継ぎ問題もある中、さらに大きな問題に直面する。下請法の改正と消費税増税の煽りを受け、一気に倒産寸前にまで追いやられてしまったのだ。\n\n下請法は、下請けを保護するための法律の筈が、逆に大企業が下請けを警戒して下請けにとっては大打撃な法律である。その為その年からの受注は減。それにプラスして消費増税により、国内産業である零細企業は、赤字になっても支払わなければならない税が増え、一気に借金地獄になってしまったのだ。",
+            "zh": "就在继承人问题悬而未决之时，他又直面了更大的危机。受《转包法》修订与消费税增税的冲击，工厂一下子被逼到了濒临倒闭的境地。\n\n《转包法》本该是为了保护转包方的法律，结果却反倒让大企业戒备转包方，成了给转包方造成重创的法律。因此自那年起订单便锐减。再加上消费税增税，作为国内产业的小微企业即便陷入亏损，必须缴纳的税额还是增加了，一口气沦落到了债务地狱。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "272/DIALOG",
+            "narrator": "",
+            "text": "子供4人中3人は高校と大学。私立に通う子供もいる中、養育費だけで年間数百万～一千万は飛んでいく状況で、もはや家庭崩壊寸前。\n\n大学に行けなくなりそうな子供がキレて、「いつまでもそんな儲からない仕事続けてるからだ」と言うものだから、血の気が多い藤治郎もキレて取っ組み合いのケンカに。先祖代々からのアイデンティティであり誇りでもある金属加工業を侮辱されたことで、遂に発症してしまう。",
+            "zh": "4个孩子中有3人正在上高中和大学。其中还有就读私立学校的，光靠抚养教育费每年就得花掉数百万至上千万日元，家里已然濒临崩溃。\n\n眼看快没法上大学的孩子发火爆发，口不择言地说出“都怪你一直守着这么个不赚钱的破活计”，血气方刚的藤治郎也跟着火起，双方大打出手。作为祖辈代代传承的立身之本与骄傲的金属加工业遭到侮辱，他终于就此发症。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "277/DIALOG",
+            "narrator": "",
+            "text": "発症後の世界では、ただひたすら巨大なロケットを作り続けていた藤治郎。\n\nそれは、息子達にこの仕事がいかに誇れるものなのか、どれだけ夢がある仕事なのかを伝えたいという想いの具現化だった。",
+            "zh": "在发症后的世界里，藤治郎只是一味地不停造着巨大的火箭。\n\n那正是他想向儿子们传达“这份工作是多么值得自豪、是多么怀抱梦想的工作”这一念头的具现化。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "294/TALK",
+            "narrator": "みやび",
+            "text": "どうやったかね。\nとうちゃんの想いは。",
+            "zh": "感觉咋样咩。\n老爸的这股心念。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "295/SEL",
+            "narrator": "（選択肢）",
+            "text": "時代に乗り遅れたんだね",
+            "zh": "是被时代甩在后面了呢",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "296/SEL",
+            "narrator": "（選択肢）",
+            "text": "頑固一徹って感じ",
+            "zh": "很有顽固老爹的感觉",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "297/SEL",
+            "narrator": "（選択肢）",
+            "text": "特許とか取ればよかったのに",
+            "zh": "要是申请个专利之类的就好了",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "298/ACT",
+            "narrator": "",
+            "text": "時代に乗り遅れたんだね",
+            "zh": "是被时代甩在后面了呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "299/TALK",
+            "narrator": "みやび",
+            "text": "身も蓋もない\n言い方を…。",
+            "zh": "这也太不留\n情面了……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "300/ACT",
+            "narrator": "",
+            "text": "頑固一徹って感じ",
+            "zh": "很有顽固老爹的感觉",
+            "narrator_zh": ""
+        },
+        {
+            "location": "301/TALK",
+            "narrator": "みやび",
+            "text": "確かに。\nその言葉を具現化したら\nとうちゃんになる。",
+            "zh": "确实。\n把这个词具现化出来，\n那就是老爸本人咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "302/ACT",
+            "narrator": "",
+            "text": "特許とか取ればよかったのに",
+            "zh": "要是申请个专利之类的就好了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "303/TALK",
+            "narrator": "みやび",
+            "text": "……かもねえ。\n今となっては\n遅いけんど。",
+            "zh": "……说不定咯。\n虽然事到如今\n也太晚了就是。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "305/TALK",
+            "narrator": "みやび",
+            "text": "普段は情報こそ命と\n言うとるうちやけんど。",
+            "zh": "平时总把“情报就是性命”\n挂在嘴边的我讲这话虽怪，不过。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "306/TALK",
+            "narrator": "みやび",
+            "text": "情報に振り回されるのが\n一番よくないとも\n思うとる。",
+            "zh": "我也觉得被情报牵着\n鼻子走，反倒是最\n要不得滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "307/TALK",
+            "narrator": "みやび",
+            "text": "その点とうちゃんは\n職人の技を極めて\nそれを仕事にしとった。",
+            "zh": "这点上老爸可是把\n手艺人的技术锤炼到极致，\n靠它吃饭的咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "308/TALK",
+            "narrator": "みやび",
+            "text": "はんかな技術では\n衛星部品など\n作れんろう。",
+            "zh": "半吊子的技术，\n可造不出卫星零件\n这种东西咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "309/TALK",
+            "narrator": "みやび",
+            "text": "うちはそれを大変に\n好ましいと\n思うたぞね。",
+            "zh": "我可是非常地\n欣赏这一点\n咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "310/SEL",
+            "narrator": "（選択肢）",
+            "text": "それはラブの意味で？",
+            "zh": "那是Love的意义上吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "311/SEL",
+            "narrator": "（選択肢）",
+            "text": "ハッカーに通じるものがあるね",
+            "zh": "跟黑客有相通之处呢",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "312/SEL",
+            "narrator": "（選択肢）",
+            "text": "職人気質って格好いい",
+            "zh": "匠人脾气真帅啊",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "313/ACT",
+            "narrator": "",
+            "text": "それはラブの意味で？",
+            "zh": "那是Love的意义上吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "314/TALK",
+            "narrator": "みやび",
+            "text": "うちは妻子のおる人に\n恋慕するほど\n浅はかではないき。",
+            "zh": "我还没浅薄到\n会去恋慕一个\n有妻有子的人啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "315/ACT",
+            "narrator": "",
+            "text": "ハッカーに通じるものがあるね",
+            "zh": "跟黑客有相通之处呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "316/TALK",
+            "narrator": "みやび",
+            "text": "そう。\nハッカーもある意味\n職人芸。",
+            "zh": "没错。\n黑客某种意义上\n也是手艺活。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "317/ACT",
+            "narrator": "",
+            "text": "職人気質って格好いい",
+            "zh": "匠人脾气真帅啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "318/TALK",
+            "narrator": "みやび",
+            "text": "そうやね。\n$handle$も\n職人を目指すとえい。",
+            "zh": "是咯。\n$handle$也去\n当个匠人得了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "320/TALK",
+            "narrator": "みやび",
+            "text": "とうちゃんはうちを\n認めてくれちゅう。",
+            "zh": "老爸可是很\n认可我滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "321/TALK",
+            "narrator": "みやび",
+            "text": "それは同世代の\n子供がおったせいも\nあるやろうけんど。",
+            "zh": "虽然里头也有他家娃\n跟我差不多大的缘故，\n不过嘛。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "322/TALK",
+            "narrator": "みやび",
+            "text": "職人気質という点で\n共鳴できたと\n思うちょる。",
+            "zh": "我觉得在匠人脾气\n这一点上，我们俩\n算产生共鸣咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "323/TALK",
+            "narrator": "みやび",
+            "text": "…もしかしたら\n単なるべらんめえの\n共鳴なのかもしれん。",
+            "zh": "……搞不好，\n单纯只是粗犷直脾气\n互相产生共鸣了也说不定。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "324/SEL",
+            "narrator": "（選択肢）",
+            "text": "むしろそっちじゃない？",
+            "zh": "倒不如说就是那个吧？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "325/SEL",
+            "narrator": "（選択肢）",
+            "text": "いや、外見はお淑やかだしみやび",
+            "zh": "不，雅外表还是很文静端庄的嘛",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "326/SEL",
+            "narrator": "（選択肢）",
+            "text": "仕事の姿勢ってことにしとこうよ",
+            "zh": "就当成是工作态度上的共鸣吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "327/ACT",
+            "narrator": "",
+            "text": "むしろそっちじゃない？",
+            "zh": "倒不如说就是那个吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "328/TALK",
+            "narrator": "みやび",
+            "text": "いや。\n冗談に本気で\n返すことはないろう。",
+            "zh": "喂。\n我开个玩笑而已，\n用不着这么一本正经接茬咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "329/ACT",
+            "narrator": "",
+            "text": "いや、外見はお淑やかだしみやび",
+            "zh": "不，雅外表还是很文静端庄的嘛",
+            "narrator_zh": ""
+        },
+        {
+            "location": "330/TALK",
+            "narrator": "みやび",
+            "text": "内面は？",
+            "zh": "那内在呢？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "331/ACT",
+            "narrator": "",
+            "text": "仕事の姿勢ってことにしとこうよ",
+            "zh": "就当成是工作态度上的共鸣吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "332/TALK",
+            "narrator": "みやび",
+            "text": "素直に\nそうとるべきやった。",
+            "zh": "本来就该老老实实\n往这方面理解嘛。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "334/TALK",
+            "narrator": "みやび",
+            "text": "それはさておき。",
+            "zh": "先不管那个了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "335/TALK",
+            "narrator": "みやび",
+            "text": "とうちゃんは今日から、\n$handle$とも\nつながったちうことで。",
+            "zh": "老爸从今天起，\n也算是跟$handle$\n连上线咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "336/TALK",
+            "narrator": "みやび",
+            "text": "適材適所。\nえい采配を\n頼むぞね。",
+            "zh": "适才适用。\n漂亮的调度就\n拜托你咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "337/SEL",
+            "narrator": "（選択肢）",
+            "text": "みやびがやって",
+            "zh": "雅来指挥吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "338/SEL",
+            "narrator": "（選択肢）",
+            "text": "これからもがんばろう！",
+            "zh": "今后也继续加油！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "339/ACT",
+            "narrator": "",
+            "text": "みやびがやって",
+            "zh": "雅来指挥吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "341/TALK",
+            "narrator": "みやび",
+            "text": "うちやと上手すぎて\nすぐに勝負が終わるが\nそれでえいかね。",
+            "zh": "换我上场的话技术太高，\n胜负一下子就分出结果了，\n那样也得咩。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "342/ACT",
+            "narrator": "",
+            "text": "これからもがんばろう！",
+            "zh": "今后也继续加油！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "344/TALK",
+            "narrator": "みやび",
+            "text": "熱血やねえ。\nもう少しテンション\n下げてもええろう。",
+            "zh": "真够热血的咯。\n稍微把情绪\n降一降也行嘛。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "346/TALK",
+            "narrator": "みやび",
+            "text": "またうちと相性のえい\nクランがおったら\n紹介するき。",
+            "zh": "以后要再有跟我\n合得来的库兰，\n再来介绍给你啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "347/TALK",
+            "narrator": "みやび",
+            "text": "その時を\n楽しみに待っちょき。",
+            "zh": "到时候就\n好好期待着啵。",
+            "narrator_zh": "雅"
+        }
+    ]
+}

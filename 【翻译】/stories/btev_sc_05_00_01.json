@@ -1,0 +1,644 @@
+{
+    "dir": "chap00/battle/btev_sc_05_00_01.js",
+    "type": "",
+    "info": {
+        "story_id": "56",
+        "cid": "",
+        "title": "【EXストーリー】粛清の刃",
+        "sub_title": "コネクトストーリー",
+        "title_zh": "【EX剧情】肃清之刃",
+        "sub_title_zh": "连结剧情"
+    },
+    "entry": [
+        {
+            "location": "6/SCENARIO",
+            "narrator": "",
+            "text": "【導入】ヒストンシャペロン",
+            "zh": "【导入】组蛋白伴侣",
+            "narrator_zh": ""
+        },
+        {
+            "location": "12/DIALOG",
+            "narrator": "",
+            "text": "<size=40>CURAN STORY. 03</size>\nAYAMI KUNIMASA\n\n<size=45>武島ちづる</size>\n<size=35>～美しい国～</size>",
+            "zh": "<size=40>CURAN STORY. 03</size>\nAYAMI KUNIMASA\n\n<size=45>武岛千鹤</size>\n<size=35>～美丽之国～</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "28/TALK",
+            "narrator": "アーヤ",
+            "text": "いらっしゃい。\n待ってたわ。\n$handle$さん。",
+            "zh": "欢迎。\n等你多时了。\n$handle$。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "29/TALK",
+            "narrator": "アーヤ",
+            "text": "ここは、私たち\nトライナリーと、\nクランたちとの交差点。",
+            "zh": "这里是，我们\n三重奏与\n库兰们的交汇点。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "30/TALK",
+            "narrator": "アーヤ",
+            "text": "ココロとココロが\n出逢い、共鳴し、\nそして繋がりあう場所。",
+            "zh": "心与心\n相遇、共鸣，\n并最终彼此相连的地方。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "38/SEL",
+            "narrator": "（選択肢）",
+            "text": "概要説明を飛ばす",
+            "zh": "跳过概要说明",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "39/SEL",
+            "narrator": "（選択肢）",
+            "text": "もう一度聞く",
+            "zh": "再听一遍",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "40/ACT",
+            "narrator": "",
+            "text": "概要説明を飛ばす",
+            "zh": "跳过概要说明",
+            "narrator_zh": ""
+        },
+        {
+            "location": "41/TALK",
+            "narrator": "アーヤ",
+            "text": "というわけで、\n早速今回のクランを\n紹介するわね。",
+            "zh": "既然这样，\n那就马上介绍这次的\n库兰了哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "43/ACT",
+            "narrator": "",
+            "text": "もう一度聞く",
+            "zh": "再听一遍",
+            "narrator_zh": ""
+        },
+        {
+            "location": "48/TALK",
+            "narrator": "アーヤ",
+            "text": "ここでは、普段私たちを\n助けてくれるサーバント\nクランを紹介するわね。",
+            "zh": "这里会介绍平日里\n帮助我们的\n从属库兰哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "49/TALK",
+            "narrator": "アーヤ",
+            "text": "それから貴方が直接\n彼女たちと繋がれる\nよう、手続きをするわ。",
+            "zh": "然后为了让你能直接\n和她们相连，\n在这里办理手续。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "50/SEL",
+            "narrator": "（選択肢）",
+            "text": "アニメのクランが使えるようになる？",
+            "zh": "动画里的库兰会变得能使用吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "51/ACT",
+            "narrator": "",
+            "text": "アニメのクランが使えるようになる？",
+            "zh": "动画里的库兰会变得能使用吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "53/TALK",
+            "narrator": "アーヤ",
+            "text": "そうね。\n手続きが無事に\n完了すればね。",
+            "zh": "是这样。\n前提是手续\n顺利办完哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "54/TALK",
+            "narrator": "アーヤ",
+            "text": "ここでは一度に一人だけ\nクランを紹介していくわ。",
+            "zh": "在这里，每次只会\n介绍一位库兰。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "55/TALK",
+            "narrator": "アーヤ",
+            "text": "そして彼女との【儀式】\nによって、貴方とココロを\n繋げるの。",
+            "zh": "然后通过与她的【仪式】，\n把你的心\n连接起来。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "アーヤ",
+            "text": "【儀式】は『コネクト』\nと『シンクロ』の２つ。",
+            "zh": "【仪式】有『连接』\n和『同步』这两种。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "58/TALK",
+            "narrator": "アーヤ",
+            "text": "『コネクト』は、貴方と\nクランが物理的に繋がる\nための儀式。",
+            "zh": "『连接』是为了让你与\n库兰在物理上相连的\n仪式。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "アーヤ",
+            "text": "バトルをして\n彼女と貴方の中にある、\n抵抗勢力を無力化するの。",
+            "zh": "通过战斗，\n将她与你心中的\n抵抗势力无效化。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "61/TALK",
+            "narrator": "アーヤ",
+            "text": "次の『シンクロ』では、\nクランの過去を知り、\n共感する必要があるわ。",
+            "zh": "在接下来的『同步』里，\n需要去了解库兰的过去，\n并与之产生共鸣。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "62/TALK",
+            "narrator": "アーヤ",
+            "text": "これは、クランの過去の\n物語をシェアすること。\n心が通じあうために必要。",
+            "zh": "也就是共享库兰过去的\n故事。这是让彼此心意相通\n所必需的步骤。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "アーヤ",
+            "text": "ここまで、\nわかったかな？",
+            "zh": "到这里，\n都明白了吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "アーヤ",
+            "text": "もし、入るセクターを\n間違えていたなら\n今からでも退場できるわ。",
+            "zh": "如果发现进错了\n扇区的话，\n现在也能退场哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "66/SEL",
+            "narrator": "（選択肢）",
+            "text": "ううん、先に進む",
+            "zh": "嗯嗯，继续往下走",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "67/SEL",
+            "narrator": "（選択肢）",
+            "text": "間違えた！　退場する！",
+            "zh": "进错了！我要退场！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "68/SEL",
+            "narrator": "（選択肢）",
+            "text": "お姉さん口調なのは何で？",
+            "zh": "怎么突然用起大姐姐口吻了？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "69/ACT",
+            "narrator": "",
+            "text": "ううん、先に進む",
+            "zh": "嗯嗯，继续往下走",
+            "narrator_zh": ""
+        },
+        {
+            "location": "70/TALK",
+            "narrator": "アーヤ",
+            "text": "わかったわ。\nじゃあ早速、今回の\nクランを紹介するわね。",
+            "zh": "我知道了。\n那我这就来介绍\n这次的库兰吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "71/ACT",
+            "narrator": "",
+            "text": "間違えた！　退場する！",
+            "zh": "进错了！我要退场！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "72/TALK",
+            "narrator": "アーヤ",
+            "text": "あら。\nおっちょこちょいね。",
+            "zh": "哎呀。\n真够迷糊的呀。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "73/TALK",
+            "narrator": "アーヤ",
+            "text": "じゃ、ここで\nお別れね。",
+            "zh": "那，就在这里\n道别了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "75/TALK",
+            "narrator": "アーヤ",
+            "text": "また気が向いたら\n来ればいいわ。",
+            "zh": "等以后又有兴致了\n再来就好。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$さんと\nわたしに、\n素敵なココロの旅を。",
+            "zh": "愿$handle$与\n我，\n拥有美好的心灵之旅。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "78/ACT",
+            "narrator": "",
+            "text": "お姉さん口調なのは何で？",
+            "zh": "怎么突然用起大姐姐口吻了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "80/TALK",
+            "narrator": "アーヤ",
+            "text": "そういうつもりでも\nなかったんだけど…。",
+            "zh": "我也没打算\n故意那样啊……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "81/TALK",
+            "narrator": "アーヤ",
+            "text": "ナビゲーター\nらしくしようと\n思ったのよ。",
+            "zh": "只是想着要表现得\n像个导航员\n一点而已。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "アーヤ",
+            "text": "デリケートな\n話なんかもあるから\nこんな感じで行くわね。",
+            "zh": "毕竟要谈一些比较\n敏感的话题，\n我就用这种口吻继续了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "アーヤ",
+            "text": "それでは早速、今回の\nクランを紹介するわ。",
+            "zh": "那么这就开始\n介绍这次的库兰了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "アーヤ",
+            "text": "オープンプロセス、\n0x227番地から\n0xFFF番地へ。",
+            "zh": "开放进程，\n从0x227地址\n到0xFFF地址。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "93/TALK",
+            "narrator": "アーヤ",
+            "text": "共通意識野を経由、\n外部スフィアへ接続。",
+            "zh": "经由共通意识野，\n连接至外部领域。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "94/TALK",
+            "narrator": "アーヤ",
+            "text": "EXEC_SEEK_SECTOR\n=>Link() EXT_SPHERE/.",
+            "zh": "EXEC_SEEK_SECTOR\n=>Link() EXT_SPHERE/.",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "119/TALK",
+            "narrator": "アーヤ",
+            "text": "シーク完了。",
+            "zh": "搜索完毕。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "120/TALK",
+            "narrator": "アーヤ",
+            "text": "さて――。",
+            "zh": "那么——。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "122/TALK",
+            "narrator": "アーヤ",
+            "text": "今回、貴方に\n紹介するクランは\n<color=red>【ヒストンシャペロン】</color>。",
+            "zh": "这次要向你\n介绍的库兰是\n<color=red>【组蛋白伴侣】</color>。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "124/TALK",
+            "narrator": "アーヤ",
+            "text": "千代田区永田町にて\n発症。",
+            "zh": "在千代田区永田町\n发症。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "125/TALK",
+            "narrator": "アーヤ",
+            "text": "発症した人の名前は、\n武島ちづる、当時\n３４歳。",
+            "zh": "发症者的名字是\n武岛千鹤，当时\n34岁。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "126/TALK",
+            "narrator": "アーヤ",
+            "text": "ココロファイルナンバー\nE02-350-82によれば、\n発症の原因は……",
+            "zh": "根据心之档案编号\nE02-350-82，\n发症的原因是……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "127/TALK",
+            "narrator": "アーヤ",
+            "text": "『真実を日本国民に、\nそして全世界に\n告げるため』。",
+            "zh": "『为了向日本国民，\n乃至向全世界\n揭露真相』。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "128/TALK",
+            "narrator": "アーヤ",
+            "text": "なんて言うと\n抽象的すぎて\nわからないわね。",
+            "zh": "光这么说\n太过抽象，\n让人摸不着头脑吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "129/TALK",
+            "narrator": "アーヤ",
+            "text": "自分が秘書をしていた\n代議士の死が\n仕組まれたものだった。",
+            "zh": "她担任秘书的那位\n议员的死，\n其实是被人设计的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "130/TALK",
+            "narrator": "アーヤ",
+            "text": "そして自分自身も\n謂われのない汚職疑惑で\n逮捕された。",
+            "zh": "而她自己也因\n莫须有的贪腐嫌疑\n遭到了逮捕。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "131/TALK",
+            "narrator": "アーヤ",
+            "text": "このままでは真実が\n闇に葬られてしまう\nという焦りと無念。",
+            "zh": "再这样下去真相就要\n被彻底埋没于黑暗中——\n怀着这份焦急与不甘，",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "132/TALK",
+            "narrator": "アーヤ",
+            "text": "ならばこの身に\n代えてでも――と\n思ったのね。",
+            "zh": "即便豁出这条性命\n也在所不惜——\n她是这么想的吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "アーヤ",
+            "text": "その気持ち、よくわかる。",
+            "zh": "她的心情，我很理解。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "134/SEL",
+            "narrator": "（選択肢）",
+            "text": "アーヤらしいというか",
+            "zh": "很有绫水的风格呀",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "135/SEL",
+            "narrator": "（選択肢）",
+            "text": "ひょっとして担当がアーヤなのって",
+            "zh": "难道这次由绫水负责是因为……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "136/ACT",
+            "narrator": "",
+            "text": "アーヤらしいというか",
+            "zh": "很有绫水的风格呀",
+            "narrator_zh": ""
+        },
+        {
+            "location": "137/ACT",
+            "narrator": "",
+            "text": "ひょっとして担当がアーヤなのって",
+            "zh": "难道这次由绫水负责是因为……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "139/TALK",
+            "narrator": "アーヤ",
+            "text": "ええ。\nご推察通り。",
+            "zh": "嗯。\n正如你猜的那样。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "140/TALK",
+            "narrator": "アーヤ",
+            "text": "このセクタでは、クランと\n一番相性がいい\nトライナリーが語るの。",
+            "zh": "在这个扇区，由与库兰\n最投缘的三重奏\n成员来讲述。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "141/TALK",
+            "narrator": "アーヤ",
+            "text": "シャペロンの語り手が\n私なのは、私が一番\nシャペロンに近いから。",
+            "zh": "沙佩隆的讲述者\n之所以是我，是因为我\n最接近沙佩隆。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "アーヤ",
+            "text": "だから他の子は\n他のトライナリーが\n担当するわ。",
+            "zh": "所以其他孩子，\n会由其他的三重奏\n成员来负责哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "143/SEL",
+            "narrator": "（選択肢）",
+            "text": "シャペロンについてもっと教えて",
+            "zh": "再多告诉我一些关于沙佩隆的事吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "144/ACT",
+            "narrator": "",
+            "text": "シャペロンについてもっと教えて",
+            "zh": "再多告诉我一些关于沙佩隆的事吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "アーヤ",
+            "text": "今はまだちょっと\n難しいわね。",
+            "zh": "现在还有点\n不太好说呀。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "147/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$さんが、\nシャペロンと精神を\n共有できたら。",
+            "zh": "等$handle$\n能够与沙佩隆\n共享精神之后，",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "148/TALK",
+            "narrator": "アーヤ",
+            "text": "もう少し\n話せることも\nあるけれど。",
+            "zh": "倒也不是\n不能多谈\n一点。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "149/SEL",
+            "narrator": "（選択肢）",
+            "text": "わかった",
+            "zh": "我知道了",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "150/SEL",
+            "narrator": "（選択肢）",
+            "text": "ケチだなー",
+            "zh": "真小气啊——",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "151/SEL",
+            "narrator": "（選択肢）",
+            "text": "共有しないとダメ？",
+            "zh": "非要共享不可吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "152/ACT",
+            "narrator": "",
+            "text": "わかった",
+            "zh": "我知道了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "153/TALK",
+            "narrator": "アーヤ",
+            "text": "よかった。\n$handle$さんは\nいいひとね。",
+            "zh": "太好了。\n$handle$真是个\n善解人意的人。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "154/ACT",
+            "narrator": "",
+            "text": "ケチだなー",
+            "zh": "真小气啊——",
+            "narrator_zh": ""
+        },
+        {
+            "location": "155/TALK",
+            "narrator": "アーヤ",
+            "text": "違うわ。\n必要な過程\nだからよ。",
+            "zh": "不是的。\n因为这是必须经历的\n过程。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "156/ACT",
+            "narrator": "",
+            "text": "共有しないとダメ？",
+            "zh": "非要共享不可吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "157/TALK",
+            "narrator": "アーヤ",
+            "text": "そうね。\nそうじゃないと\n意味がないから。",
+            "zh": "是啊。\n不那样做的话，\n就失去意义了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "159/TALK",
+            "narrator": "アーヤ",
+            "text": "じゃあ復習ね。",
+            "zh": "那来复习一下吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "160/TALK",
+            "narrator": "アーヤ",
+            "text": "まずは『コネクト』の\nプロセスから。",
+            "zh": "首先从『连接』的\n进程开始。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "161/TALK",
+            "narrator": "アーヤ",
+            "text": "具体的には、\n彼女の抵抗する意志と\n戦うこと。",
+            "zh": "具体来说，\n就是要与她抵抗的\n意志战斗。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "162/TALK",
+            "narrator": "アーヤ",
+            "text": "それが終われば、\n彼女は貴方に色々\n教えてくれるはず。",
+            "zh": "战斗结束之后，\n她应该就会告诉你\n各种各样的事。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "163/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$さんが\nそれを共有すれば、\n『シンクロ』は完了。",
+            "zh": "只要$handle$\n把那些共享下来，\n『同步』就算完成了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "164/TALK",
+            "narrator": "アーヤ",
+            "text": "『コネクト』『シンクロ』\n両方完了することで、\n貴方と彼女は繋がるの。",
+            "zh": "『连接』与『同步』\n两者全部完成，\n你就能与她相连了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "165/SEL",
+            "narrator": "（選択肢）",
+            "text": "晴れて【シャペロン】が使えるってこと？",
+            "zh": "然后就能正式使用【沙佩隆】了对吧？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "166/ACT",
+            "narrator": "",
+            "text": "晴れて【シャペロン】が使えるってこと？",
+            "zh": "然后就能正式使用【沙佩隆】了对吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "168/TALK",
+            "narrator": "アーヤ",
+            "text": "そう。",
+            "zh": "对。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "169/TALK",
+            "narrator": "アーヤ",
+            "text": "その時には私の話も\n少しだけ聞いて欲しい。",
+            "zh": "到了那时候，也希望能\n稍微听我讲讲我的事。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "170/TALK",
+            "narrator": "アーヤ",
+            "text": "でもまずは『シンクロ』\nまで完了させること。\nそれが目標ね。",
+            "zh": "不过眼下要先完成到\n『同步』这一步。\n这就是我们的目标。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "171/TALK",
+            "narrator": "アーヤ",
+            "text": "それでは早速、\nシャペロンの世界に\nアクセスしましょう。",
+            "zh": "那么事不宜迟，\n这就接入沙佩隆的\n世界吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "173/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$さんと\n私とシャペロンに、\n素敵なココロの旅を！",
+            "zh": "愿$handle$与\n我与沙佩隆，\n拥有美好的心灵之旅！",
+            "narrator_zh": "绫水"
+        }
+    ]
+}

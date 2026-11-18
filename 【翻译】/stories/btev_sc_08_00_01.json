@@ -1,0 +1,588 @@
+{
+    "dir": "chap00/battle/btev_sc_08_00_01.js",
+    "type": "",
+    "info": {
+        "story_id": "86",
+        "cid": "",
+        "title": "【EXストーリー】友愛の復讐者",
+        "sub_title": "コネクトストーリー",
+        "title_zh": "【EX剧情】友爱的复仇者",
+        "sub_title_zh": "连结剧情"
+    },
+    "entry": [
+        {
+            "location": "356/SCENARIO",
+            "narrator": "",
+            "text": "【導入】ちとせ",
+            "zh": "【导入】千岁",
+            "narrator_zh": ""
+        },
+        {
+            "location": "362/DIALOG",
+            "narrator": "",
+            "text": "<size=40>CURAN STORY. 01</size>\nTSUBAME OHSE\n\n<size=45>赤城ちとせ</size>\n<size=35>～情報時代の犠牲者～</size>",
+            "zh": "<size=40>CURAN STORY. 01</size>\nTSUBAME OHSE\n\n<size=45>赤城千岁</size>\n<size=35>～信息时代的牺牲者～</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "384/TALK",
+            "narrator": "つばめ",
+            "text": "ようこそ\nいらっしゃいました、\n$handle$さん。",
+            "zh": "欢迎\n光临，\n$handle$。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "385/TALK",
+            "narrator": "つばめ",
+            "text": "ここは、私たち\nトライナリーと、\nクランたちとの交差点。",
+            "zh": "这里是，我们\n三重奏与\n库兰们的交汇点。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "386/TALK",
+            "narrator": "つばめ",
+            "text": "ココロとココロが\n出逢い、共鳴し、\nそして繋がりあう場所。",
+            "zh": "心与心\n相遇、共鸣，\n进而相互连接的地方。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "388/SEL",
+            "narrator": "（選択肢）",
+            "text": "概要説明を飛ばす",
+            "zh": "跳过概要说明",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "389/SEL",
+            "narrator": "（選択肢）",
+            "text": "もう一度聞く",
+            "zh": "再听一遍",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "390/ACT",
+            "narrator": "",
+            "text": "概要説明を飛ばす",
+            "zh": "跳过概要说明",
+            "narrator_zh": ""
+        },
+        {
+            "location": "391/TALK",
+            "narrator": "つばめ",
+            "text": "それでは早速、今回の\nクランを紹介しますね。",
+            "zh": "那么事不宜迟，来介绍\n这次的库兰哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "393/ACT",
+            "narrator": "",
+            "text": "もう一度聞く",
+            "zh": "再听一遍",
+            "narrator_zh": ""
+        },
+        {
+            "location": "398/TALK",
+            "narrator": "つばめ",
+            "text": "ここでは、普段私たちを\n助けてくれるサーバント\nクランを紹介します。",
+            "zh": "在这里，要介绍平时\n帮助我们的\n从属库兰。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "399/TALK",
+            "narrator": "つばめ",
+            "text": "そして、貴方が直接\n彼女たちと繋がれる\nよう、手続きをします。",
+            "zh": "并且，为了让你能直接\n和她们连接上，\n会在这里办理手续。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "400/SEL",
+            "narrator": "（選択肢）",
+            "text": "直接繋がるって、クランと？",
+            "zh": "直接连接，和库兰吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "401/ACT",
+            "narrator": "",
+            "text": "直接繋がるって、クランと？",
+            "zh": "直接连接，和库兰吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "403/TALK",
+            "narrator": "つばめ",
+            "text": "はい、そうです。",
+            "zh": "是的，没错。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "404/TALK",
+            "narrator": "つばめ",
+            "text": "このセクターでは、\nクラン一人にスポットを\n当てて紹介します。",
+            "zh": "在这个区域里，\n会重点聚焦介绍\n一位库兰。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "405/TALK",
+            "narrator": "つばめ",
+            "text": "そして彼女との【儀式】\nによって、貴方とココロを\n繋げます。",
+            "zh": "然后通过与她的【仪式】，\n把你的心和她\n连接起来。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "406/TALK",
+            "narrator": "つばめ",
+            "text": "【儀式】には『コネクト』\nと『シンクロ』の２つが\nあります。",
+            "zh": "【仪式】分为『连接』\n和『同步』\n这两个步骤。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "408/TALK",
+            "narrator": "つばめ",
+            "text": "『コネクト』は、貴方と\nクランが物理的に繋がる\nための儀式。",
+            "zh": "『连接』，是让你和\n库兰在物理层面上\n连接起来的仪式。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "409/TALK",
+            "narrator": "つばめ",
+            "text": "これは、バトルをする事で\n彼女と貴方の中にある、\n抵抗勢力を無力化します。",
+            "zh": "这会通过战斗，\n让存在于她与你体内的\n抵抗势力失效。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "411/TALK",
+            "narrator": "つばめ",
+            "text": "次の『シンクロ』では、\nクランの過去を知り、\n共感していただきます。",
+            "zh": "接下来的『同步』，\n则是了解库兰的过去，\n并与之共情。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "412/TALK",
+            "narrator": "つばめ",
+            "text": "これは、クランの過去の\n物語をシェアすることで、\n心が通えるようにします。",
+            "zh": "这是通过分享库兰\n过去的经历，\n让彼此心意相通。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "414/TALK",
+            "narrator": "つばめ",
+            "text": "ここまで、\nわかりましたか？",
+            "zh": "说到这里，\n你明白了吗？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "415/TALK",
+            "narrator": "つばめ",
+            "text": "もし、入るセクターを\n間違えた、という方は\n今からでも退場できます。",
+            "zh": "如果觉得进错了\n区域的话，\n现在也可以退场哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "416/SEL",
+            "narrator": "（選択肢）",
+            "text": "オッケー、先に進んで",
+            "zh": "好的，继续往下说吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "417/SEL",
+            "narrator": "（選択肢）",
+            "text": "間違えたので退場します",
+            "zh": "我进错了，先退场",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "418/SEL",
+            "narrator": "（選択肢）",
+            "text": "なんでそんなフォーマルな感じなの？",
+            "zh": "你怎么突然这么一本正经的？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "419/ACT",
+            "narrator": "",
+            "text": "オッケー、先に進んで",
+            "zh": "好的，继续往下说吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "420/TALK",
+            "narrator": "つばめ",
+            "text": "承知しました。\nそれでは早速、今回の\nクランを紹介しますね。",
+            "zh": "我明白了。\n那么事不宜迟，来介绍\n这次的库兰哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "421/ACT",
+            "narrator": "",
+            "text": "間違えたので退場します",
+            "zh": "我进错了，先退场",
+            "narrator_zh": ""
+        },
+        {
+            "location": "422/TALK",
+            "narrator": "つばめ",
+            "text": "あれ、\nそうだったんですね。",
+            "zh": "咦，\n原来是这样啊。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "423/TALK",
+            "narrator": "つばめ",
+            "text": "それじゃ、ここで\nさようならですね。",
+            "zh": "那就在这里\n说再见了呢。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "425/TALK",
+            "narrator": "つばめ",
+            "text": "また気が向いたら\n来てください。",
+            "zh": "等以后哪天想来了，\n欢迎再来哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "426/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんと\nわたしに、\n素敵なココロの旅を。",
+            "zh": "祝$handle$和\n我，\n有一场美好的心灵之旅。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "428/ACT",
+            "narrator": "",
+            "text": "なんでそんなフォーマルな感じなの？",
+            "zh": "你怎么突然这么一本正经的？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "429/TALK",
+            "narrator": "つばめ",
+            "text": "え？\nえっと、そうですね…",
+            "zh": "诶？\n那个，是啊……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "431/TALK",
+            "narrator": "つばめ",
+            "text": "やはり、他人のココロを\n語るわけですから、\nヘラヘラできませんし。",
+            "zh": "毕竟是在讲\n别人的心事嘛，\n没法嘻嘻哈哈的呀。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "432/TALK",
+            "narrator": "つばめ",
+            "text": "でもやっぱり、\nあまりいつものわたし\nらしくないですよね。",
+            "zh": "不过果然，\n不太像平时的我\n对吧。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "433/TALK",
+            "narrator": "つばめ",
+            "text": "ちょっと堅苦しいかも\nしれませんが、我慢して\nお付き合いください。",
+            "zh": "虽然可能有点太拘谨，\n还是请你包涵一下，\n听我讲完吧。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "434/TALK",
+            "narrator": "つばめ",
+            "text": "それでは早速、今回の\nクランを紹介しますね。",
+            "zh": "那么事不宜迟，来介绍\n这次的库兰哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "443/TALK",
+            "narrator": "つばめ",
+            "text": "オープンプロセス、\n0x191番地から\n0xFFF番地へ。",
+            "zh": "开放进程，\n从0x191地址\n到0xFFF地址。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "444/TALK",
+            "narrator": "つばめ",
+            "text": "共通意識野を経由、\n外部スフィアへ接続。",
+            "zh": "经由共通意识野，\n连接至外部领域。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "445/TALK",
+            "narrator": "つばめ",
+            "text": "EXEC_SEEK_SECTOR\n=>Link() EXT_SPHERE/.",
+            "zh": "EXEC_SEEK_SECTOR\n=>Link() EXT_SPHERE/.",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "470/TALK",
+            "narrator": "つばめ",
+            "text": "シーク完了しました。",
+            "zh": "搜索完成。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "471/TALK",
+            "narrator": "つばめ",
+            "text": "さて――。",
+            "zh": "那么——。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "473/TALK",
+            "narrator": "つばめ",
+            "text": "今回、貴方に\n紹介するクランは\n<color=red>【ちとせ】</color>。",
+            "zh": "这次要向你\n介绍的库兰是\n<color=red>【千岁】</color>。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "475/TALK",
+            "narrator": "つばめ",
+            "text": "2016年5月9日発症。\n場所は東京都世田谷区\nにある高等学校。",
+            "zh": "2016年5月9日发症。\n地点在东京都世田谷区\n的一所高中。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "476/TALK",
+            "narrator": "つばめ",
+            "text": "発症した人の名前は、\n赤城さやか、１７歳。\nみやびさんと同い年です。",
+            "zh": "发症者的名字叫\n赤城沙耶香，17岁。\n和雅同岁哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "477/TALK",
+            "narrator": "つばめ",
+            "text": "ココロファイルナンバー\nE01-012-88によれば、\n今回の発症の原因は……",
+            "zh": "根据心之档案编号\nE01-012-88的记载，\n这次发症的原因似乎是……",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "478/TALK",
+            "narrator": "つばめ",
+            "text": "『SNSによるいじめが\n原因で、親友が自殺、\nそのショックで発症』",
+            "zh": "『因SNS上的霸凌，\n挚友自杀身亡，\n受此打击而发症』",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "479/TALK",
+            "narrator": "つばめ",
+            "text": "『彼女の加害者、そして\n守らなかった人達に同じ\n気持ちを味わってもらう』",
+            "zh": "『要让伤害她的人，\n以及没有保护她的人，\n都尝尝同样的滋味』",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "480/TALK",
+            "narrator": "つばめ",
+            "text": "『そして、みんな\nその辛い気持ちを抱えて\n自殺すればいい』",
+            "zh": "『然后，大家都抱着\n那份痛苦的心情\n去死就好了』",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "481/TALK",
+            "narrator": "つばめ",
+            "text": "――という\n想いのようです。",
+            "zh": "——似乎就是\n怀着这样的心意。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "482/TALK",
+            "narrator": "つばめ",
+            "text": "わたしも過去に色々\nありましたから、共感\nできるところもあります。",
+            "zh": "我过去也经历过\n不少事，所以也有\n能够共情的地方。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "483/TALK",
+            "narrator": "つばめ",
+            "text": "だからこそ、\nここにいるのですけど。",
+            "zh": "正因为如此，\n我才会在这里。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "484/SEL",
+            "narrator": "（選択肢）",
+            "text": "関係あるんだ",
+            "zh": "原来有关系啊",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "485/SEL",
+            "narrator": "（選択肢）",
+            "text": "そういえば、つばめが仕切ってる理由って…",
+            "zh": "说起来，由燕来主持的理由是……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "486/ACT",
+            "narrator": "",
+            "text": "関係あるんだ",
+            "zh": "原来有关系啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "487/ACT",
+            "narrator": "",
+            "text": "そういえば、つばめが仕切ってる理由って…",
+            "zh": "说起来，由燕来主持的理由是……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "489/TALK",
+            "narrator": "つばめ",
+            "text": "そうです。",
+            "zh": "是的。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "490/TALK",
+            "narrator": "つばめ",
+            "text": "このセクタでは、クランの\n子と一番相性がいい\nトライナリーが語ります。",
+            "zh": "在这个区域里，是由和\n这位库兰最投缘的\n三重奏队员来讲述。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "491/TALK",
+            "narrator": "つばめ",
+            "text": "今回の「ちとせ」ちゃんは\nわたしが一番共感できた子\nということですね。",
+            "zh": "也就是说，这次的「千岁」\n就是我最能共情的\n孩子啦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "492/TALK",
+            "narrator": "つばめ",
+            "text": "ですから他のクランの子は\n他の人がやることに\nなると思います。",
+            "zh": "所以其他库兰的事，\n我想大概就会由\n其他人来担任主持了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "493/SEL",
+            "narrator": "（選択肢）",
+            "text": "ちとせの何に共感したの？",
+            "zh": "你和千岁在哪一点上共情了？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "494/ACT",
+            "narrator": "",
+            "text": "ちとせの何に共感したの？",
+            "zh": "你和千岁在哪一点上共情了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "496/TALK",
+            "narrator": "つばめ",
+            "text": "えっと、\nそれはですね……。",
+            "zh": "那个，\n关于这个嘛……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "497/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんが、\nちとせちゃんと精神を\n共有できたらお話します。",
+            "zh": "等$handle$能和\n千岁在精神上\n共享之后，我再告诉你。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "498/TALK",
+            "narrator": "つばめ",
+            "text": "ですから、まずは\nちとせちゃんとの精神\n共有を頑張ってください。",
+            "zh": "所以，还请你先在\n与千岁的精神共享上\n多多加油哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "499/SEL",
+            "narrator": "（選択肢）",
+            "text": "どうやって精神を共有するの？",
+            "zh": "要怎么共享精神？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "500/ACT",
+            "narrator": "",
+            "text": "どうやって精神を共有するの？",
+            "zh": "要怎么共享精神？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "502/TALK",
+            "narrator": "つばめ",
+            "text": "先ほどお伝えした通り、\nまずは『コネクト』の\nプロセスを行います。",
+            "zh": "正如刚才所说，\n首先要进行的\n是『连接』流程。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "503/TALK",
+            "narrator": "つばめ",
+            "text": "具体的には、\n彼女の抵抗する意志と\n戦うんです。",
+            "zh": "具体来说，\n就是要和她那股\n抗拒的意志战斗。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "504/TALK",
+            "narrator": "つばめ",
+            "text": "それが終われば、\n彼女は貴方に色々\n教えてくれるでしょう。",
+            "zh": "战斗结束之后，\n她就会告诉你\n各种各样的事了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "505/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんが\nそれを共有すれば、\n『シンクロ』完了です。",
+            "zh": "只要$handle$把那些\n接收共享过来，\n『同步』就算完成了。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "506/TALK",
+            "narrator": "つばめ",
+            "text": "『コネクト』『シンクロ』\n両方完了することで、\n貴方と彼女は繋がれます。",
+            "zh": "『连接』和『同步』\n两项都完成之后，\n你就能和她连结在一起。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "507/SEL",
+            "narrator": "（選択肢）",
+            "text": "そして【ちとせ】を使うことができるようになる、と",
+            "zh": "然后就能使用【千岁】了，是吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "508/ACT",
+            "narrator": "",
+            "text": "そして【ちとせ】を使うことができるようになる、と",
+            "zh": "然后就能使用【千岁】了，是吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "510/TALK",
+            "narrator": "つばめ",
+            "text": "そうです！\nその通りです！",
+            "zh": "没错！\n就是这样！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "511/TALK",
+            "narrator": "つばめ",
+            "text": "その時には、わたしの\nこともちょっとだけ\n教えますね。",
+            "zh": "到那个时候，关于我的事\n我也会稍微告诉你\n一点哦。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "512/TALK",
+            "narrator": "つばめ",
+            "text": "ですから、『シンクロ』\nまで完了できるように\n頑張ってください！",
+            "zh": "所以，为了能顺利\n一路完成到『同步』，\n请加油哦！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "513/TALK",
+            "narrator": "つばめ",
+            "text": "それでは早速、\nちとせちゃんの世界に\nアクセスしますよ。",
+            "zh": "那么事不宜迟，\n这就接入\n千岁的世界吧。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "515/TALK",
+            "narrator": "つばめ",
+            "text": "$handle$さんと\nわたしとちとせちゃんに、\n素敵なココロの旅を！",
+            "zh": "祝$handle$、\n我和千岁，\n有一场美好的心灵之旅！",
+            "narrator_zh": "燕"
+        }
+    ]
+}

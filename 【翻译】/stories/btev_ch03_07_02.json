@@ -1,0 +1,917 @@
+{
+    "dir": "chap07/battle/btev_ch03_07_02.js",
+    "type": "",
+    "info": {
+        "story_id": "23012",
+        "cid": "",
+        "title": "012 ココロスフィアストーリー【Lv04】",
+        "sub_title": "オールニーズユー＜帰結＞",
+        "title_zh": "012 心灵领域故事【Lv04】",
+        "sub_title_zh": "大家都需要你＜归结＞"
+    },
+    "entry": [
+        {
+            "location": "508/SCENARIO",
+            "narrator": "",
+            "text": "オールニーズユー",
+            "zh": "大家都需要你",
+            "narrator_zh": ""
+        },
+        {
+            "location": "521/TALK",
+            "narrator": "アーヤ",
+            "text": "まさか、私が\n負けるなんて…っ…",
+            "zh": "没想到，我竟然\n会输……唔……",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "522/TALK",
+            "narrator": "ガブリエラ",
+            "text": "！？",
+            "zh": "！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "529/TALK",
+            "narrator": "ガブリエラ",
+            "text": "えええっ！？\nあんたは、\nあたしだったの？",
+            "zh": "诶诶诶！？\n你原来也是\n我自己吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "531/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "そうよ。\nあんたよりも建設的な\nあたし。",
+            "zh": "是啊。\n比你更有建设性的\n我。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "532/TALK",
+            "narrator": "ガブリエラ",
+            "text": "騙してたのね！？",
+            "zh": "你骗了我！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "533/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "人聞きが悪い。\nあたしは自分の道を\n正そうとしただけ。",
+            "zh": "说得可真难听。\n我只是想纠正\n自己的道路而已。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "535/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "自分の力が認められて\nいない環境にいたら、\nいずれ心が折れる。",
+            "zh": "待在自己的实力\n得不到认可的环境里，\n迟早心都会折断。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "536/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "そうなる前に、\n防護策をとっただけよ。",
+            "zh": "在那之前，\n我只是采取了防护措施罢了。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "538/TALK",
+            "narrator": "ガブリエラ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "540/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "でもそれも\n叶わなかった。",
+            "zh": "不过就连这个\n也没能实现。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "541/TALK",
+            "narrator": "表層ガブリエラ",
+            "text": "願わくば、あたしの\n心が自分の想像以上に\n強靱でありますように。",
+            "zh": "但愿我的心\n能比我自己想象的\n更加坚韧吧。",
+            "narrator_zh": "表层加布里埃拉"
+        },
+        {
+            "location": "551/TALK",
+            "narrator": "ガブリエラ",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "563/TALK",
+            "narrator": "ガブリエラ",
+            "text": "……あたしはまだ\n日本でやりたい\nことがあるの。",
+            "zh": "……我在日本\n还有想要做的\n事情。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "565/TALK",
+            "narrator": "ガブリエラ",
+            "text": "今はまだ、\nポーランドには\n帰りたくない。",
+            "zh": "现在，我还\n不想回波兰\n去。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "567/TALK",
+            "narrator": "ガブリエラ",
+            "text": "けど……\n自信もないの。",
+            "zh": "可是……\n我也没有自信。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "569/TALK",
+            "narrator": "ガブリエラ",
+            "text": "さっきまで思っていた\nトライナリーやめて\nやる！って感情――",
+            "zh": "刚才还想着\n“退出三重奏\n算了！”的那股情绪——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "570/TALK",
+            "narrator": "ガブリエラ",
+            "text": "それは消えて\n無くなったけど……。",
+            "zh": "虽然已经\n烟消云散了……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "571/TALK",
+            "narrator": "ガブリエラ",
+            "text": "正直、まだどうしたら\nいいかわからない。",
+            "zh": "老实说，我还是不知道\n该怎么办才好。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "572/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あたし、これからも\nトライナリーで\nやっていけるのかしら。",
+            "zh": "我今后，真的还能\n在三重奏里\n待下去吗。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "573/SEL",
+            "narrator": "（選択肢）",
+            "text": "大丈夫だよ",
+            "zh": "没问题的",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "574/SEL",
+            "narrator": "（選択肢）",
+            "text": "そんなに悩むこと？",
+            "zh": "有那么值得烦恼吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "575/ACT",
+            "narrator": "",
+            "text": "大丈夫だよ",
+            "zh": "没问题的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "576/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうかしら。",
+            "zh": "真的吗。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "577/TALK",
+            "narrator": "ガブリエラ",
+            "text": "でも、アーヤはここ\n最近、あたしに裏方\nばかり頼んでくるの。",
+            "zh": "可是，绫水这阵子\n老是把后勤之类的活\n派给我做。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "578/TALK",
+            "narrator": "ガブリエラ",
+            "text": "もっとあたしの価値を\nちゃんと見て\n欲しいのに。",
+            "zh": "明明我很希望她\n能好好看见我的\n价值才对。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "579/ACT",
+            "narrator": "",
+            "text": "そんなに悩むこと？",
+            "zh": "有那么值得烦恼吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "580/TALK",
+            "narrator": "ガブリエラ",
+            "text": "悩むわよ！！",
+            "zh": "当然会烦恼啊！！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "581/TALK",
+            "narrator": "ガブリエラ",
+            "text": "必要とされてない\n組織にいること以上の\n屈辱は無いわ！",
+            "zh": "没有比待在一个\n不需要自己的组织里\n更屈辱的事了！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "582/SEL",
+            "narrator": "（選択肢）",
+            "text": "必要とされてるよ",
+            "zh": "你可是被需要的哦",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "583/SEL",
+            "narrator": "（選択肢）",
+            "text": "どうしてそう思うの？",
+            "zh": "为什么会这么觉得？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "584/ACT",
+            "narrator": "",
+            "text": "必要とされてるよ",
+            "zh": "你可是被需要的哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "585/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ならどうしてアーヤは\nあたしにどうでもいい\n事ばかり任せるの？",
+            "zh": "那为什么绫水\n总是把无关紧要的\n事交给我做？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "586/ACT",
+            "narrator": "",
+            "text": "どうしてそう思うの？",
+            "zh": "为什么会这么觉得？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "587/TALK",
+            "narrator": "ガブリエラ",
+            "text": "アーヤがくだらない\nことばかり頼んでくる\nからよ。",
+            "zh": "因为绫水\n老是拜托我干些\n无聊的杂事啊。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "589/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あたしの力を認めて\nいたら、もっと違う\n事を頼むはずよ？",
+            "zh": "要是她认可我的实力，\n应该会拜托我做点\n不一样的事才对吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "591/SEL",
+            "narrator": "（選択肢）",
+            "text": "華々しく活躍したいんだね",
+            "zh": "是想光鲜亮丽地大展身手对吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "592/SEL",
+            "narrator": "（選択肢）",
+            "text": "やっぱりガブちゃんはまだ子供だなぁ",
+            "zh": "果然加布还是个小孩子呀",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "593/ACT",
+            "narrator": "",
+            "text": "華々しく活躍したいんだね",
+            "zh": "是想光鲜亮丽地大展身手对吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "595/TALK",
+            "narrator": "ガブリエラ",
+            "text": "別にそういう\nわけじゃ……。",
+            "zh": "我也不是\n那个意思……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "596/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ただ、あたしは\nアーヤに認めて\nもらいたいだけ。",
+            "zh": "只是，我希望\n能得到绫水的\n认可而已。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "597/ACT",
+            "narrator": "",
+            "text": "やっぱりガブちゃんはまだ子供だなぁ",
+            "zh": "果然加布还是个小孩子呀",
+            "narrator_zh": ""
+        },
+        {
+            "location": "598/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ちょっとそれ\nどういう意味よ！",
+            "zh": "喂，你这话\n是什么意思啊！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "599/SEL",
+            "narrator": "（選択肢）",
+            "text": "本当の格好良さは裏方にあるのさ",
+            "zh": "真正的帅气都藏在幕后工作里啊",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "600/ACT",
+            "narrator": "",
+            "text": "本当の格好良さは裏方にあるのさ",
+            "zh": "真正的帅气都藏在幕后工作里啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "602/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そ、そうなの？",
+            "zh": "是、是这样吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "603/SEL",
+            "narrator": "（選択肢）",
+            "text": "大人にならないと分からないからね",
+            "zh": "不到大人的年纪是不懂的嘛",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "604/ACT",
+            "narrator": "",
+            "text": "大人にならないと分からないからね",
+            "zh": "不到大人的年纪是不懂的嘛",
+            "narrator_zh": ""
+        },
+        {
+            "location": "607/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あ、あら。\nそんなことは\n分かってるのよ？",
+            "zh": "哎、哎呀。\n那种道理\n我当然懂好不好？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "608/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あたしが言いたいのは、\nアーヤがあたしを認め\nてくれないってことよ。",
+            "zh": "我想说的是，\n绫水她不肯认可\n我的事情啦。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "612/SEL",
+            "narrator": "（選択肢）",
+            "text": "アーヤに認めてもらいたいんだね",
+            "zh": "就是想让绫水认可你嘛",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "613/ACT",
+            "narrator": "",
+            "text": "アーヤに認めてもらいたいんだね",
+            "zh": "就是想让绫水认可你嘛",
+            "narrator_zh": ""
+        },
+        {
+            "location": "615/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ど、どうして\nそういう結論に\nなるのよ！！",
+            "zh": "怎、怎么会\n得出那种\n结论啊！！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "616/SEL",
+            "narrator": "（選択肢）",
+            "text": "それ以外の結論を導き出す方が難しいんだけど…",
+            "zh": "要得出除此之外的结论才比较难吧……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "617/ACT",
+            "narrator": "",
+            "text": "それ以外の結論を導き出す方が難しいんだけど…",
+            "zh": "要得出除此之外的结论才比较难吧……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "620/TALK",
+            "narrator": "ガブリエラ",
+            "text": "もういいわ。\n本当にデリカシーが\n無いんだから。",
+            "zh": "够了啦。\n真是一点眼力见\n都没有。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "622/SEL",
+            "narrator": "（選択肢）",
+            "text": "アーヤはガブリエラを信頼してるよ",
+            "zh": "绫水很信任加布里埃拉的哦",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "623/ACT",
+            "narrator": "",
+            "text": "アーヤはガブリエラを信頼してるよ",
+            "zh": "绫水很信任加布里埃拉的哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "626/TALK",
+            "narrator": "ガブリエラ",
+            "text": "どうしてそう\n言い切れるの？",
+            "zh": "你凭什么\n这么肯定？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "627/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そんなの……\n分からないじゃない。",
+            "zh": "那种事……\n根本无从知晓嘛。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "628/SEL",
+            "narrator": "（選択肢）",
+            "text": "言葉にするよう、アーヤに言っておく",
+            "zh": "我会跟绫水说，让她亲口表达出来的",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "629/ACT",
+            "narrator": "",
+            "text": "言葉にするよう、アーヤに言っておく",
+            "zh": "我会跟绫水说，让她亲口表达出来的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "631/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ほんと？",
+            "zh": "真的吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "632/TALK",
+            "narrator": "ガブリエラ",
+            "text": "あ、でも……",
+            "zh": "啊，不过……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "633/TALK",
+            "narrator": "ガブリエラ",
+            "text": "無理矢理言わせる\nとかはやめてよね。",
+            "zh": "逼着她说出来的\n那种事可免了哦。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "634/TALK",
+            "narrator": "ガブリエラ",
+            "text": "かえって傷つくから…。",
+            "zh": "那样反而会更受伤……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "635/SEL",
+            "narrator": "（選択肢）",
+            "text": "それはしないよ",
+            "zh": "那种事我不会做的",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "636/ACT",
+            "narrator": "",
+            "text": "それはしないよ",
+            "zh": "那种事我不会做的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "638/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ならいいけど。",
+            "zh": "那就好。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "639/SEL",
+            "narrator": "（選択肢）",
+            "text": "$me$も認めてるよ",
+            "zh": "$me$也很认可你哦",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "640/ACT",
+            "narrator": "",
+            "text": "$me$も認めてるよ",
+            "zh": "$me$也很认可你哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "642/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…べつに\n$handle$は\nどうでもいいのよ…。",
+            "zh": "……反正\n$handle$怎样\n都无所谓啦……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "647/DIALOG",
+            "narrator": "",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n接続されました。\n\n画面をタップして相手に\n感覚を伝えましょう。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已连接。\n\n轻点画面，\n把感觉传达给对方吧。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "659/TALK",
+            "narrator": "ガブリエラ",
+            "text": "えっ…！？",
+            "zh": "诶……！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "661/TALK",
+            "narrator": "ガブリエラ",
+            "text": "撫でてくれたの？",
+            "zh": "你在摸我的头吗？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "662/SEL",
+            "narrator": "（選択肢）",
+            "text": "応援してるよ",
+            "zh": "我在支持你哦",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "663/ACT",
+            "narrator": "",
+            "text": "応援してるよ",
+            "zh": "我在支持你哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "665/TALK",
+            "narrator": "ガブリエラ",
+            "text": "……あ…",
+            "zh": "……啊……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "666/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…ありがと。",
+            "zh": "……谢谢。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "667/TALK",
+            "narrator": "ガブリエラ",
+            "text": "嬉しいっていう\nわけじゃないけど――",
+            "zh": "虽然算不上\n特别高兴什么的——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "668/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ちょっと\n落ち着いたかも…。",
+            "zh": "好像稍微\n平静下来一点了……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "672/TALK",
+            "narrator": "ガブリエラ",
+            "text": "えっ…！？",
+            "zh": "诶……！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "673/SEL",
+            "narrator": "（選択肢）",
+            "text": "がんばれ！",
+            "zh": "加油！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "674/ACT",
+            "narrator": "",
+            "text": "がんばれ！",
+            "zh": "加油！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "676/TALK",
+            "narrator": "ガブリエラ",
+            "text": "……あ…",
+            "zh": "……啊……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "677/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…ありがと。",
+            "zh": "……谢谢。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "678/TALK",
+            "narrator": "ガブリエラ",
+            "text": "嬉しいっていう\nわけじゃないけど――",
+            "zh": "虽然算不上\n特别高兴什么的——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "679/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ちょっと\n落ち着いたかも…。",
+            "zh": "好像稍微\n平静下来一点了……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "683/TALK",
+            "narrator": "ガブリエラ",
+            "text": "きゃああっ！",
+            "zh": "呀啊啊！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "684/SEL",
+            "narrator": "（選択肢）",
+            "text": "応援してる（キラッ",
+            "zh": "在支持你哦（闪亮",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "685/ACT",
+            "narrator": "",
+            "text": "応援してる（キラッ",
+            "zh": "在支持你哦（闪亮",
+            "narrator_zh": ""
+        },
+        {
+            "location": "687/TALK",
+            "narrator": "ガブリエラ",
+            "text": "キラッ！\nじゃないでしょ！",
+            "zh": "闪亮！\n个头啊！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "688/TALK",
+            "narrator": "ガブリエラ",
+            "text": "普通頭撫でたり\nするものでしょ！？",
+            "zh": "这种时候一般\n不是该摸头吗！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "689/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ま、まあ、\n気持ちは……\n有り難いけど…。",
+            "zh": "那、那个，不过，\n心意……\n我还是挺领情的……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "690/TALK",
+            "narrator": "ガブリエラ",
+            "text": "で、でも！\n次は許さないから！",
+            "zh": "但、但是！\n下次可不原谅你了！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "694/TALK",
+            "narrator": "ガブリエラ",
+            "text": "きゃああっ！",
+            "zh": "呀啊啊！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "695/SEL",
+            "narrator": "（選択肢）",
+            "text": "がんばれっ（キラッ",
+            "zh": "加油啊（闪亮",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "696/ACT",
+            "narrator": "",
+            "text": "がんばれっ（キラッ",
+            "zh": "加油啊（闪亮",
+            "narrator_zh": ""
+        },
+        {
+            "location": "698/TALK",
+            "narrator": "ガブリエラ",
+            "text": "キラッ！\nじゃないでしょ！",
+            "zh": "闪亮！\n个头啊！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "699/TALK",
+            "narrator": "ガブリエラ",
+            "text": "普通頭撫でたり\nするものでしょ！？",
+            "zh": "这种时候一般\n不是该摸头吗！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "700/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ま、まあ、\n気持ちは……\n有り難いけど…。",
+            "zh": "那、那个，不过，\n心意……\n我还是挺领情的……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "701/TALK",
+            "narrator": "ガブリエラ",
+            "text": "で、でも！\n次は許さないから！",
+            "zh": "但、但是！\n下次可不原谅你了！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "705/DIALOG",
+            "narrator": "",
+            "text": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\nタッチコミュニケーションが\n切断されました。",
+            "zh": "<color=green>【TRI-OS Plug-in:TOUCH】</color>\n触摸交流\n已断开。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "707/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…っと、とにかく！",
+            "zh": "……总、总之！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "708/TALK",
+            "narrator": "ガブリエラ",
+            "text": "今回はあんたを\n信用して、かけてみる\nことにするわ。",
+            "zh": "这次我就姑且\n相信你，赌一把\n试试看吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "711/TALK",
+            "narrator": "ガブリエラ",
+            "text": "本当にアーヤが\nあたしのことを\n必要としてるか――",
+            "zh": "至于绫水是不是\n真的需要我\n——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "712/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ちゃんと\n証明して頂戴よね？",
+            "zh": "你可要好好\n证明给我看哦？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "713/SEL",
+            "narrator": "（選択肢）",
+            "text": "まかせとけ！",
+            "zh": "交给我吧！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "714/SEL",
+            "narrator": "（選択肢）",
+            "text": "でもどうしてそんなにアーヤに認められたいの？",
+            "zh": "不过，你为什么那么想得到绫水的认可？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "715/ACT",
+            "narrator": "",
+            "text": "まかせとけ！",
+            "zh": "交给我吧！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "717/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ほんとに、調子だけは\nいいんだから。",
+            "zh": "真拿你没办法，\n就嘴上说得好听。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "718/ACT",
+            "narrator": "",
+            "text": "でもどうしてそんなにアーヤに認められたいの？",
+            "zh": "不过，你为什么那么想得到绫水的认可？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "721/TALK",
+            "narrator": "ガブリエラ",
+            "text": "どうして、って！\nそんなの……",
+            "zh": "要说为什么，你问我！\n那种事……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "722/TALK",
+            "narrator": "ガブリエラ",
+            "text": "……あら…\nどうして…かしら。",
+            "zh": "……哎呀……\n是为什么……呢。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "723/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そういえば、なんで\nアーヤだけが\n気になるのか――",
+            "zh": "说起来，为什么\n我唯独这么在意\n绫水呢——",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "724/TALK",
+            "narrator": "ガブリエラ",
+            "text": "考えた事無かったわ。",
+            "zh": "我从来没想过这个问题。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "725/SEL",
+            "narrator": "（選択肢）",
+            "text": "アーヤラヴだからだ",
+            "zh": "因为你超爱绫水嘛",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "726/SEL",
+            "narrator": "（選択肢）",
+            "text": "過去に何かあった？",
+            "zh": "过去发生过什么吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "727/ACT",
+            "narrator": "",
+            "text": "アーヤラヴだからだ",
+            "zh": "因为你超爱绫水嘛",
+            "narrator_zh": ""
+        },
+        {
+            "location": "728/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ち！　違うわよ！",
+            "zh": "才！不是那样！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "729/TALK",
+            "narrator": "ガブリエラ",
+            "text": "さあ、もうお話は\n終わったでしょ？",
+            "zh": "好了，话已经\n说完了吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "730/TALK",
+            "narrator": "ガブリエラ",
+            "text": "早く現実に戻って\nアーヤの気持ちを\n確認してきて！",
+            "zh": "快点回到现实，\n去确认一下\n绫水的心意！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "731/ACT",
+            "narrator": "",
+            "text": "過去に何かあった？",
+            "zh": "过去发生过什么吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "732/TALK",
+            "narrator": "ガブリエラ",
+            "text": "うーん……\nわからない。",
+            "zh": "唔嗯……\n不知道。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "733/TALK",
+            "narrator": "ガブリエラ",
+            "text": "でもきっと、今の\nあたしではその\n本質は分からないかも。",
+            "zh": "不过，现在的我\n恐怕还不明白\n这背后的本质吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "734/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ごめんなさい。",
+            "zh": "对不起。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "735/TALK",
+            "narrator": "ガブリエラ",
+            "text": "とにかく。",
+            "zh": "总之。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "736/TALK",
+            "narrator": "ガブリエラ",
+            "text": "アーヤの本心の件は\nあんたに任せたから。",
+            "zh": "绫水真心那件事\n就交给你了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "739/TALK",
+            "narrator": "ガブリエラ",
+            "text": "よろしく頼むわね。",
+            "zh": "拜托你了哦。",
+            "narrator_zh": "加布里埃拉"
+        }
+    ]
+}

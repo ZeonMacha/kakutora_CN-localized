@@ -1,0 +1,931 @@
+{
+    "dir": "chap02/battle/btev_ch02_02_00.js",
+    "type": "",
+    "info": {
+        "story_id": "22001",
+        "cid": "",
+        "title": "001 ココロスフィアストーリー【Lv01】",
+        "sub_title": "己の敵は己＜提起＞",
+        "title_zh": "001 心灵领域故事【Lv01】",
+        "sub_title_zh": "自己的敌人就是自己＜提起＞"
+    },
+    "entry": [
+        {
+            "location": "5/SCENARIO",
+            "narrator": "",
+            "text": "バトル導入",
+            "zh": "战斗导入",
+            "narrator_zh": ""
+        },
+        {
+            "location": "29/TALK",
+            "narrator": "千羽鶴",
+            "text": "ようこそ。\nここは國政綾水の\n精神世界――",
+            "zh": "欢迎。\n这里是国政绫水的\n精神世界——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "30/TALK",
+            "narrator": "千羽鶴",
+            "text": "通称<color=red>【[ココロスフィア]】</color>\nと呼ばれている場所。",
+            "zh": "通称为<color=red>【[心灵领域]】</color>\n的地方。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "千羽鶴",
+            "text": "ここでは彼女は\nあなたと普通に\n対話できる。",
+            "zh": "在这里，她可以\n和你正常地\n对话。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "千羽鶴",
+            "text": "彼女の心に直接\n語りかけることで、\n心を動かすの。",
+            "zh": "直接向她的心\n诉说，\n就能打动她。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "千羽鶴",
+            "text": "早速、彼女を呼んで\n対話をしてみましょ。",
+            "zh": "那就马上把她叫来，\n试着对话吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "42/DIALOG",
+            "narrator": "",
+            "text": "<size=40>KOKORO-Lv. 01</size>\nAYAMI - KUNIMASA\n\n<size=45>己の敵は己</size>\n<size=35>～アンヴィバレンツ～</size>",
+            "zh": "<size=40>KOKORO-Lv. 01</size>\n国政绫水\n\n<size=45>自己的敌人就是自己</size>\n<size=35>～二律背反～</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "51/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "――だから、\n私はホントに\nそれでいいの？",
+            "zh": "——所以说，\n我真的\n这样就行了吗？",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "52/TALK",
+            "narrator": "表層アーヤ",
+            "text": "良くは無いけど、\nそんなこと言ってる\n場合じゃないでしょ！",
+            "zh": "是不太好，\n但现在不是说\n这种话的时候吧！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "53/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "はぁぁ、これは\n埒が明かないわ。",
+            "zh": "哈啊，这可真是\n谈不拢了。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "55/SEL",
+            "narrator": "（選択肢）",
+            "text": "あのー",
+            "zh": "那个——",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "表層アーヤ",
+            "text": "こればかりは\n絶対に折れないから。",
+            "zh": "唯独这件事\n我绝对不会退让。",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "57/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "ほんとに？\nめちゃダサイわよ？",
+            "zh": "真的吗？\n超土的哦？",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "58/TALK",
+            "narrator": "表層アーヤ",
+            "text": "…っ……",
+            "zh": "……！……",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "これからも同じ事を\n繰り返せば、社会的に\n抹消されることも……",
+            "zh": "要是以后还重复\n同样的事，搞不好会被\n社会性抹杀的……",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "表層アーヤ",
+            "text": "……それは…　…",
+            "zh": "……那是……",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "61/ACT",
+            "narrator": "",
+            "text": "あのー",
+            "zh": "那个——",
+            "narrator_zh": ""
+        },
+        {
+            "location": "68/TALK",
+            "narrator": "表層アーヤ",
+            "text": "え？",
+            "zh": "诶？",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "69/TALK",
+            "narrator": "表層アーヤ",
+            "text": "ちょっと貴方\nだれ！？",
+            "zh": "等一下，\n你是谁！？",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "70/TALK",
+            "narrator": "表層アーヤ",
+            "text": "勝手に人のココロの\n中に入ってこないで！",
+            "zh": "别随便闯进\n别人心里来啊！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "72/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "え？　いいじゃない。\n何か面白そうだし。\nそれに――",
+            "zh": "诶？　挺好的嘛。\n感觉挺有意思的。\n而且——",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "74/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "ちょっとだけ\n素敵な出逢いの\nオーラを感じない？",
+            "zh": "你不觉得隐约有股\n美好邂逅的\n气息吗？",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "表層アーヤ",
+            "text": "は？\n何言ってるの私！",
+            "zh": "哈？\n我在胡说什么啊！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "77/TALK",
+            "narrator": "表層アーヤ",
+            "text": "私たちにとって害悪\nかもしれないのよ？\nこの人！",
+            "zh": "说不定对我们来说\n是个祸害哦？\n这个人！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "80/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "え？　そうかしら。\n私はそうは思わないわ。",
+            "zh": "诶？　会吗。\n我倒不这么觉得。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "…えと、お名前、\n教えて頂けますか？",
+            "zh": "……那个，请问可以\n告诉我你的名字吗？",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "84/SEL",
+            "narrator": "（選択肢）",
+            "text": "$handle$です！（キリッ",
+            "zh": "我是$handle$！（严肃脸",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "85/SEL",
+            "narrator": "（選択肢）",
+            "text": "あ、$handle$です…けど……",
+            "zh": "啊，我是$handle$……不过……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "86/ACT",
+            "narrator": "",
+            "text": "$handle$です！（キリッ",
+            "zh": "我是$handle$！（严肃脸",
+            "narrator_zh": ""
+        },
+        {
+            "location": "92/DIALOG",
+            "narrator": "",
+            "text": "ゴキゲンポイントが\n<size=40><color=red><b>300pt.</b></color></size>\nアップしました！",
+            "zh": "心情点数\n<size=40><color=red><b>300pt.</b></color></size>\n增加了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "96/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "$handle$さんね。\n素敵な名前。",
+            "zh": "$handle$是吧。\n真是个好名字。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "97/ACT",
+            "narrator": "",
+            "text": "あ、$handle$です…けど……",
+            "zh": "啊，我是$handle$……不过……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "98/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "$handle$さんね。\nちょっと緊張してる？\n可愛い♪",
+            "zh": "$handle$是吧。\n有点紧张吗？\n真可爱♪",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "あの、良ければ\n今から一緒に\nお茶でもしませんか？",
+            "zh": "那个，方便的话，\n现在要不要一起\n去喝个茶什么的？",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "101/SEL",
+            "narrator": "（選択肢）",
+            "text": "是非！",
+            "zh": "求之不得！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "102/SEL",
+            "narrator": "（選択肢）",
+            "text": "いや、それよりも……",
+            "zh": "不，比起那个……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "103/ACT",
+            "narrator": "",
+            "text": "是非！",
+            "zh": "求之不得！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "104/ACT",
+            "narrator": "",
+            "text": "いや、それよりも……",
+            "zh": "不，比起那个……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "106/TALK",
+            "narrator": "表層アーヤ",
+            "text": "ちょっと！！\nそんなことやってる\n場合じゃないでしょ！",
+            "zh": "喂！！\n现在是做这种事的\n时候吗！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "109/TALK",
+            "narrator": "表層アーヤ",
+            "text": "だいたい\n貴方何者なのよ！",
+            "zh": "话说回来\n你到底是什么人啊！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "110/SEL",
+            "narrator": "（選択肢）",
+            "text": "アーヤのココロを助けに来た者です",
+            "zh": "我是来帮助绫水的心的人",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "111/ACT",
+            "narrator": "",
+            "text": "アーヤのココロを助けに来た者です",
+            "zh": "我是来帮助绫水的心的人",
+            "narrator_zh": ""
+        },
+        {
+            "location": "113/TALK",
+            "narrator": "表層アーヤ",
+            "text": "え？\nココロを助けに…？",
+            "zh": "诶？\n来帮我的心……？",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "114/SEL",
+            "narrator": "（選択肢）",
+            "text": "アーヤって、結構悩みが多いよね",
+            "zh": "绫水你的烦恼还真不少啊",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "115/ACT",
+            "narrator": "",
+            "text": "アーヤって、結構悩みが多いよね",
+            "zh": "绫水你的烦恼还真不少啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "117/TALK",
+            "narrator": "表層アーヤ",
+            "text": "そうなのよ！\n今、私と――",
+            "zh": "就是说啊！\n刚才我和——",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "119/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "―私が言い争ってるのも\nその一つだし。",
+            "zh": "——我吵架的这件事\n就是其中之一。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "120/SEL",
+            "narrator": "（選択肢）",
+            "text": "今は何を争ってるの？",
+            "zh": "现在是在争什么？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "121/ACT",
+            "narrator": "",
+            "text": "今は何を争ってるの？",
+            "zh": "现在是在争什么？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "123/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "任務のために、どんだけ\n自分が恥ずかしい思いを\nしなくちゃいけないのか。",
+            "zh": "为了任务，自己到底要\n受多少丢脸的\n折腾才行。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "124/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "この間だって、貴方も\n見てたでしょ？\n電車から飛び降りたの。",
+            "zh": "前几天也是，你也\n看见了吧？\n从电车里跳下去的事。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "125/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "あの時の乗客の白い目。\n今思い出しても\n自殺したくなるわ。",
+            "zh": "当时乘客看来的白眼。\n现在想起来\n都羞得想死了。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "126/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "いくら任務優先ったって\n私にだって\n人生があるんだから！",
+            "zh": "再怎么说任务优先，\n我也是有自己的\n人生的好吗！",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "128/TALK",
+            "narrator": "表層アーヤ",
+            "text": "そんな個人的なことと、\nトライナリーという社会的\n責務を天秤になんて――",
+            "zh": "把那种个人小事，\n和三重奏这项社会\n职责放在天平上比较——",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "130/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "天秤にかけて当然よ！\nトライナリー以前に\n普通の女なんだから！",
+            "zh": "放在天平上才正常吧！\n在成为三重奏之前，\n我首先是个普通女人啊！",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "131/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "だいたい、そこの私、\nあんなド田舎から上京した\n本当の理由、忘れたの？",
+            "zh": "再说了，那边的我，\n从那种偏僻乡下来东京的\n真正理由，你忘了吗？",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "132/TALK",
+            "narrator": "表層アーヤ",
+            "text": "は！？　何それ。\nそんなの日本を\n護る為に……",
+            "zh": "哈！？　那是什么。\n那种事当然是为了\n守护日本……",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "それ、建前じゃない。\n本当は――",
+            "zh": "那是场面话吧。\n其实你是——",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "134/TALK",
+            "narrator": "表層アーヤ",
+            "text": "やあああああああああ\nああああああああああ\nああああああああっ！",
+            "zh": "呀啊啊啊啊啊啊啊啊\n啊啊啊啊啊啊啊啊啊\n啊啊啊啊啊啊啊啊啊！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "135/TALK",
+            "narrator": "表層アーヤ",
+            "text": "倒す！\n消えて！！",
+            "zh": "打倒你！\n给我消失！！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "136/TALK",
+            "narrator": "表層アーヤ",
+            "text": "本音とか建て前とか\nどうでもいいの！",
+            "zh": "真心话还是场面话\n怎样都无所谓！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "137/TALK",
+            "narrator": "表層アーヤ",
+            "text": "それより私は、\nどんな事があろうとも、\n出動しなくちゃ――",
+            "zh": "比起那个，我无论\n发生什么事，\n都必须出动——",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "表層アーヤ",
+            "text": "他の子たちだけに\n任せておくなんて、\n私には出来ないもの！",
+            "zh": "只交给其他孩子们\n去应付什么的，\n我可做不到！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "139/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "大した責任感ね。",
+            "zh": "真是了不起的责任感呢。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "140/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "でも、その本質が\n何なのか知ったら\n泣いちゃうわよ。",
+            "zh": "不过，要是知道那份\n本质到底是什么，\n你可是会哭出来的哦。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "141/TALK",
+            "narrator": "表層アーヤ",
+            "text": "うるさいわね！\nで、どうするのよ。\n勝負するの？",
+            "zh": "啰嗦死了！\n那你想怎样。\n要分个胜负吗？",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "いいわよ。\n確かに決着つけて\nおいた方がいいかも。",
+            "zh": "好啊。\n确实趁现在做个了断\n会比较好。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "143/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "このままだと現実の私が\n一生この件で悩んで、\n人生を棒に振りそうだし。",
+            "zh": "再这样下去，现实的我\n会一辈子纠结这件事，\n把人生都搭进去的。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "144/TALK",
+            "narrator": "表層アーヤ",
+            "text": "……そうね。",
+            "zh": "……说得对。",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "145/TALK",
+            "narrator": "表層アーヤ",
+            "text": "貴方は……",
+            "zh": "你……",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "表層アーヤ",
+            "text": "助けに来たっていう\nけどどっちを助けて\nくれるのかしら？",
+            "zh": "虽说你是来帮忙的，\n但到底打算帮\n哪一边呢？",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "147/SEL",
+            "narrator": "（選択肢）",
+            "text": "責任感の強いアーヤ",
+            "zh": "责任感强的绫水",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "148/SEL",
+            "narrator": "（選択肢）",
+            "text": "自分を大事にするアーヤ",
+            "zh": "爱惜自己的绫水",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "149/ACT",
+            "narrator": "",
+            "text": "責任感の強いアーヤ",
+            "zh": "责任感强的绫水",
+            "narrator_zh": ""
+        },
+        {
+            "location": "152/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "あら、残念。\nそれじゃ私は敵ね。",
+            "zh": "哎呀，真遗憾。\n那我就是敌人了呢。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "153/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "でも……",
+            "zh": "不过……",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "156/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "もし私が勝ったら、\n今度一度、お食事\nご一緒してくれません？",
+            "zh": "如果我赢了的话，\n下次能不能赏光，\n和我一起吃顿饭呀？",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "159/TALK",
+            "narrator": "表層アーヤ",
+            "text": "こらああっ！",
+            "zh": "喂——！！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "162/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "あら、怖い怖い。",
+            "zh": "哎呀，好怕好怕。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "164/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "このままここにいると\n責任感の強い私に\n消されちゃうから――",
+            "zh": "再待在这里的话，\n就要被责任感强的我\n消灭掉了——",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "166/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "準備してくるわ。\n首を洗って\n待ってなさい。",
+            "zh": "我去准备一下。\n洗干净脖子\n等着吧。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "170/TALK",
+            "narrator": "表層アーヤ",
+            "text": "あ、あの！",
+            "zh": "那、那个！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "172/TALK",
+            "narrator": "表層アーヤ",
+            "text": "私に支援してくれて\nありがとう。",
+            "zh": "谢谢你愿意\n支援我。",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "173/TALK",
+            "narrator": "表層アーヤ",
+            "text": "バトルではどうか、\n宜しくお願いします。",
+            "zh": "战斗的时候，\n还请多多关照。",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "174/TALK",
+            "narrator": "表層アーヤ",
+            "text": "それと……",
+            "zh": "还有……",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "175/TALK",
+            "narrator": "表層アーヤ",
+            "text": "さっきあの私が\n言ったこと……",
+            "zh": "刚才那个我\n说的话……",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "176/TALK",
+            "narrator": "表層アーヤ",
+            "text": "全部、\n忘れてください！",
+            "zh": "请全部\n忘掉！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "178/TALK",
+            "narrator": "表層アーヤ",
+            "text": "あんなの！\n全部ウソだし！",
+            "zh": "那种话！\n全都是假的！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "179/SEL",
+            "narrator": "（選択肢）",
+            "text": "まあ、そういう事にしておきますね",
+            "zh": "嘛，就当是这样吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "180/ACT",
+            "narrator": "",
+            "text": "まあ、そういう事にしておきますね",
+            "zh": "嘛，就当是这样吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "182/TALK",
+            "narrator": "表層アーヤ",
+            "text": "ほ、ほんとに\nほんとだってば！",
+            "zh": "真、真的是\n真的啦！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "183/TALK",
+            "narrator": "表層アーヤ",
+            "text": "さあ、早く行って\nちゃっちゃと\n倒しちゃいましょ！",
+            "zh": "好了，快点过去，\n三下五除二\n把她打倒吧！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "193/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "ホントに\nいいのね？",
+            "zh": "真的\n可以吗？",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "195/TALK",
+            "narrator": "表層アーヤ",
+            "text": "ええ。　　　",
+            "zh": "嗯。",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "196/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "これからも、周りから\n白い目を受けながら\n生きていく事になる。",
+            "zh": "今后也会顶着\n周围投来的白眼\n继续活下去哦。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "197/TALK",
+            "narrator": "表層アーヤ",
+            "text": "それでも\nやらなくちゃ。",
+            "zh": "即便如此，\n我也必须去做。",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "198/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "はぁ。　　　　",
+            "zh": "哈啊。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "199/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "本当に不器用な私。",
+            "zh": "真是个笨拙的我。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "200/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "それもこれも\n全部全部ぜーんぶっ！",
+            "zh": "这全都是、\n全全全——部！",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "201/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "貴方のような\nバカ正直で真面目な\nカタブツがいるから！",
+            "zh": "全都是因为有你这种\n死心眼又一本正经的\n老顽固在！",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "202/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "いい機会だから、\n貴方を倒して\n力を弱めてあげるわ。",
+            "zh": "趁这个好机会，\n我就打倒你，\n好好削弱一下你的力量。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "203/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "そして、これからは\nもっともっと\n楽に生きるんだから！",
+            "zh": "然后，从今往后，\n我要活得\n更加更加轻松自在！",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "215/DIALOG",
+            "narrator": "",
+            "text": "<color=black><size=50><b>体裁を気にする\nアーヤを排除せよ！</b></size></color>\n\n\n\n東京を守る任務、トライナリー。\nそれを確実に遂行する為には\n個という自分を捨てる必要がある。\n\nそれができなければ、\nいずれその躊躇が重大な状況を\n生んでしまうかもしれない。\n\nトライナリーとしての責務を果たすため、\nちゃらちゃらしたアーヤを排除しよう！",
+            "zh": "<color=black><size=50><b>排除在意体面的\n绫水！</b></size></color>\n\n\n\n守护东京的任务，三重奏。\n为了切实完成它，\n必须舍弃名为“个人”的自我。\n\n倘若做不到这一点，\n那份犹豫迟早会\n酿成严重的局面。\n\n为了履行身为三重奏的职责，\n排除掉这个轻浮爱面子的绫水吧！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "216/ACT",
+            "narrator": "",
+            "text": "自分を大事にするアーヤ",
+            "zh": "爱惜自己的绫水",
+            "narrator_zh": ""
+        },
+        {
+            "location": "219/TALK",
+            "narrator": "表層アーヤ",
+            "text": "そんな！\nそれじゃ任務に対する\n責任が取れない！",
+            "zh": "怎么这样！\n那样就无法对任务\n负起责任了！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "221/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "別に任務をおろそかに\nするなんて、一言も\n言ってないでしょ？",
+            "zh": "我也没说过要把任务\n敷衍了事之类的，\n一句都没说过吧？",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "222/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "単に、いつも恥ずかしい\n思いをしてまで献身的に\n活動しなくてもってだけ。",
+            "zh": "只是觉得没必要总是\n做到让自己那么丢脸的\n地步去鞠躬尽瘁罢了。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "224/TALK",
+            "narrator": "表層アーヤ",
+            "text": "そんなんじゃ、全然\n任務を全うすること\nなんて――！！",
+            "zh": "那样的话，根本\n没法把任务\n贯彻到底啊——！！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "225/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "はいはい、そこまで。\n続きは拳で語りましょ。",
+            "zh": "好好好，到此为止。\n接下来的话用拳头说吧。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "226/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "心の中のバトルでは、\n想いが強い方が勝つ。\n文句ないはずよ？",
+            "zh": "在心灵内部的战斗里，\n心意更强的一方获胜。\n你应该没意见吧？",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "228/TALK",
+            "narrator": "表層アーヤ",
+            "text": "……わかりました。\nいいでしょう。\n準備してきます。",
+            "zh": "……明白了。\n好吧。\n我去准备一下。",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "230/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "ふふ。　　　　",
+            "zh": "呵呵。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "232/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "私に支援してくれて\nありがとう。",
+            "zh": "谢谢你愿意\n支援我。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "233/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "バトルではどうか、\n宜しくお願いね？",
+            "zh": "战斗的时候，\n就拜托你咯？",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "234/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "それと……",
+            "zh": "还有……",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "235/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "私たちが勝ったら、\n後で思いっきりデート\n楽しみましょうね♪",
+            "zh": "等我们赢了，\n之后就痛痛快快地\n享受一场约会吧♪",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "236/SEL",
+            "narrator": "（選択肢）",
+            "text": "頑張ります！",
+            "zh": "我会努力的！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "237/ACT",
+            "narrator": "",
+            "text": "頑張ります！",
+            "zh": "我会努力的！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "239/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "素敵♪　　　　",
+            "zh": "真棒♪",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "240/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "期待してるわね。",
+            "zh": "我很期待哦。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "251/TALK",
+            "narrator": "表層アーヤ",
+            "text": "ホントに\nいいのね？",
+            "zh": "真的\n可以吗？",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "253/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "もちろん。",
+            "zh": "当然。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "254/TALK",
+            "narrator": "表層アーヤ",
+            "text": "これでもし、私が妥協\nしたことで東京が大惨事に\n見舞われたりしたら――",
+            "zh": "万一因为我这一妥协，\n害得东京遭遇\n重大惨祸的话——",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "255/TALK",
+            "narrator": "表層アーヤ",
+            "text": "私たち、一生後悔\nする事になるわよ。",
+            "zh": "我们可是会\n后悔一辈子的哦。",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "256/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "公衆の面前で次はどんな\n羞恥プレイをするのか\n怯えて生きるよりマシよ。",
+            "zh": "总比整天提心吊胆地\n想着下次要在众目睽睽下\n玩什么羞耻Play强吧。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "257/TALK",
+            "narrator": "表層アーヤ",
+            "text": "意見が折り合わないわね。",
+            "zh": "看来意见谈不拢呢。",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "258/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "ほんとに。",
+            "zh": "真是的。",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "259/TALK",
+            "narrator": "表層アーヤ",
+            "text": "貴方を倒して、二度と\nそんなこと考えない\nようにしなくちゃ！",
+            "zh": "非得打倒你，让你\n再也别去想\n这种念头不可！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "260/TALK",
+            "narrator": "潜在アーヤ",
+            "text": "それはこっちも同じよ！",
+            "zh": "这句话我也原封不动还给你！",
+            "narrator_zh": "潜在绫水"
+        },
+        {
+            "location": "261/TALK",
+            "narrator": "表層アーヤ",
+            "text": "行きます！！",
+            "zh": "上了！！",
+            "narrator_zh": "表层绫水"
+        },
+        {
+            "location": "273/DIALOG",
+            "narrator": "",
+            "text": "<color=black><size=50><b>自分を捨てて任務に盲進する\nアーヤを排除せよ！</b></size></color>\n\n\n東京を守る任務、トライナリー。\nそれを確実に遂行する為には\n時に恥を忍んでもやらなければならない時がある。\n\nけどそれは、二十歳そこそこの\n女性にとっては、あまりに辛いこと。\n\nそこまで個を犠牲にして\n任務にあたらなければならないのか。\n行きすぎた正義感を持つアーヤを倒し、\n心のバランスを保とう。",
+            "zh": "<color=black><size=50><b>排除舍弃自我、盲目投身任务的\n绫水！</b></size></color>\n\n\n守护东京的任务，三重奏。\n为了切实完成它，\n有时确实需要忍辱负重去执行。\n\n但这对二十出头的\n女性而言，未免太过苛刻。\n\n难道非得如此牺牲自我\n去执行任务不可吗。\n打倒拥有过度正义感的绫水，\n保持内心的平衡吧。",
+            "narrator_zh": ""
+        }
+    ]
+}

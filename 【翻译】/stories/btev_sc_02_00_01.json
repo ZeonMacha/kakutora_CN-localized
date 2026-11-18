@@ -1,0 +1,630 @@
+{
+    "dir": "chap00/battle/btev_sc_02_00_01.js",
+    "type": "",
+    "info": {
+        "story_id": "26",
+        "cid": "",
+        "title": "【EXストーリー】秘めたる野望",
+        "sub_title": "コネクトストーリー",
+        "title_zh": "【EX剧情】隐秘野心",
+        "sub_title_zh": "连结剧情"
+    },
+    "entry": [
+        {
+            "location": "6/SCENARIO",
+            "narrator": "",
+            "text": "【導入】クワイエットコルト",
+            "zh": "【导入】寂静柯尔特",
+            "narrator_zh": ""
+        },
+        {
+            "location": "12/DIALOG",
+            "narrator": "",
+            "text": "<size=40>CURAN STORY. 02</size>\nGABRIELLA\n\n<size=45>北原成人</size>\n<size=35>～孤高にはなりきれず～</size>",
+            "zh": "<size=40>CURAN STORY. 02</size>\nGABRIELLA\n\n<size=45>北原成人</size>\n<size=35>～终究未能彻底孤高～</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "34/TALK",
+            "narrator": "ガブリエラ",
+            "text": "やっと来たわね。\n待ちくたびれたわ、\n$handle$。",
+            "zh": "总算来了呢。\n我都等累了，\n$handle$。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "35/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ここはね。私たち\nトライナリーと、\nクランたちとの交差点。",
+            "zh": "这里是，我们\n三重奏与\n库兰们的交汇点。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "36/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ココロとココロが\n出逢って、共鳴して、\n最後に繋がりあう場所。",
+            "zh": "心与心\n相遇、共鸣，\n最终彼此相连的地方。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "38/SEL",
+            "narrator": "（選択肢）",
+            "text": "概要説明を飛ばす",
+            "zh": "跳过概要说明",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "39/SEL",
+            "narrator": "（選択肢）",
+            "text": "もう一度聞く",
+            "zh": "再听一遍",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "40/ACT",
+            "narrator": "",
+            "text": "概要説明を飛ばす",
+            "zh": "跳过概要说明",
+            "narrator_zh": ""
+        },
+        {
+            "location": "41/TALK",
+            "narrator": "ガブリエラ",
+            "text": "というわけで、\n早速今回のクランを\n紹介するわ。",
+            "zh": "那么，\n我就立刻来介绍\n这次的库兰吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "43/ACT",
+            "narrator": "",
+            "text": "もう一度聞く",
+            "zh": "再听一遍",
+            "narrator_zh": ""
+        },
+        {
+            "location": "48/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ここでは、普段私たちを\n助けてくれるサーバント\nクランを紹介するの。",
+            "zh": "这里会介绍平日里\n帮助我们的\n从属库兰。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "49/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そして、貴方が直接\n彼女たちと繋がれる\nように手続きをする場所。",
+            "zh": "也是为你办理手续、\n让你能够直接与\n她们相连的地方。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "50/SEL",
+            "narrator": "（選択肢）",
+            "text": "直接繋がるとどうなるの？",
+            "zh": "直接相连会怎么样？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "51/ACT",
+            "narrator": "",
+            "text": "直接繋がるとどうなるの？",
+            "zh": "直接相连会怎么样？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "54/TALK",
+            "narrator": "ガブリエラ",
+            "text": "クランたちとの\n相互理解が深まるという\n感じかしらね。",
+            "zh": "大概就像是\n能和库兰们加深\n相互理解吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "55/TALK",
+            "narrator": "ガブリエラ",
+            "text": "このセクターでは、\nクラン一人にスポットを\n当てて紹介するわ。",
+            "zh": "在这个扇区里，\n我会聚焦于一位\n库兰来介绍。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そして彼女との【儀式】\nによって、貴方とココロを\n繋げるの。",
+            "zh": "然后通过与她的【仪式】，\n把你的心\n连接起来。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "57/TALK",
+            "narrator": "ガブリエラ",
+            "text": "【儀式】には『コネクト』\nと『シンクロ』の２つが\nあるわ。",
+            "zh": "【仪式】分为『连接』\n与『同步』\n这两种。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "ガブリエラ",
+            "text": "『コネクト』は、貴方と\nクランが物理的に繋がる\nための儀式なのよ。",
+            "zh": "『连接』是为了让你与\n库兰在物理上相连的\n仪式哦。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "ガブリエラ",
+            "text": "これは、バトルをする事で\n彼女と貴方の中にある、\n抵抗勢力を無力化する。",
+            "zh": "通过战斗，\n将她与你心中的\n抵抗势力无效化。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "62/TALK",
+            "narrator": "ガブリエラ",
+            "text": "次の『シンクロ』では、\nクランの過去を知り、\n共感しなさい。",
+            "zh": "在接下来的『同步』里，\n你要去了解库兰的过去，\n并与之产生共鸣。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "63/TALK",
+            "narrator": "ガブリエラ",
+            "text": "クランの過去の\n物語をシェアすることで、\n心が通うようになるわ。",
+            "zh": "通过共享库兰过去的\n故事，你们的心就能\n彼此相通了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ここまで、\n大丈夫かしら。",
+            "zh": "到这里，\n还听得明白吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "66/TALK",
+            "narrator": "ガブリエラ",
+            "text": "もし、入るセクターを\n間違えたならば\n今からでも退場できてよ。",
+            "zh": "要是你进错了\n扇区的话，\n现在退场也还来得及哦。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "67/SEL",
+            "narrator": "（選択肢）",
+            "text": "大丈夫、先に進んで",
+            "zh": "没关系，继续吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "68/SEL",
+            "narrator": "（選択肢）",
+            "text": "間違えたから退場する",
+            "zh": "进错了，我退场",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "69/SEL",
+            "narrator": "（選択肢）",
+            "text": "なんでそんな女王様っぽいの？",
+            "zh": "你怎么一副女王做派？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "70/ACT",
+            "narrator": "",
+            "text": "大丈夫、先に進んで",
+            "zh": "没关系，继续吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "71/TALK",
+            "narrator": "ガブリエラ",
+            "text": "いいのね？\nじゃあ、今回の\nクランを紹介するわ。",
+            "zh": "确定了是吧？\n那我就来介绍\n这次的库兰了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "72/ACT",
+            "narrator": "",
+            "text": "間違えたから退場する",
+            "zh": "进错了，我退场",
+            "narrator_zh": ""
+        },
+        {
+            "location": "74/TALK",
+            "narrator": "ガブリエラ",
+            "text": "え、\n何なのよそれ！？",
+            "zh": "诶，\n什么鬼啊这是！？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "75/TALK",
+            "narrator": "ガブリエラ",
+            "text": "じゃあさっさと\n出て行きなさい。",
+            "zh": "那你就赶紧\n给我出去。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "ガブリエラ",
+            "text": "でも、\n気が変わったら。",
+            "zh": "不过，\n要是改变了主意。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "78/TALK",
+            "narrator": "ガブリエラ",
+            "text": "$handle$と\nあたしに、\n素敵なココロの旅を。",
+            "zh": "祝$handle$与\n我，\n拥有美好的心灵之旅。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "80/ACT",
+            "narrator": "",
+            "text": "なんでそんな女王様っぽいの？",
+            "zh": "你怎么一副女王做派？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "81/TALK",
+            "narrator": "ガブリエラ",
+            "text": "別に。\n理由なんて\nなくてよ。",
+            "zh": "没什么。\n哪有什么\n理由呀。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "ガブリエラ",
+            "text": "でもクランとの\n【儀式】は友達に\nなるのとは違うもの。",
+            "zh": "不过和库兰的\n【仪式】又不像\n交朋友那么随便。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "ガブリエラ",
+            "text": "真面目にすれば\n自然とこうなる\nものでしょう？",
+            "zh": "认真对待的话，\n自然就会变成\n这样吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "ガブリエラ",
+            "text": "むしろ\n$handle$も\n改まるべきだわ。",
+            "zh": "倒不如说\n$handle$也该\n端正一下态度。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "85/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そんなことより。\n今回のクランを\n紹介してよ。",
+            "zh": "先不说那个。\n还是赶紧来介绍\n这次的库兰吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "94/TALK",
+            "narrator": "ガブリエラ",
+            "text": "オープンプロセス、\n0x53F番地から\n0xFFF番地へ。",
+            "zh": "开放进程，\n从0x53F地址\n到0xFFF地址。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "95/TALK",
+            "narrator": "ガブリエラ",
+            "text": "共通意識野を経由、\n外部スフィアへ接続。",
+            "zh": "经由共通意识野，\n连接至外部领域。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "96/TALK",
+            "narrator": "ガブリエラ",
+            "text": "EXEC_SEEK_SECTOR\n=>Link() EXT_SPHERE/.",
+            "zh": "EXEC_SEEK_SECTOR\n=>Link() EXT_SPHERE/.",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "121/TALK",
+            "narrator": "ガブリエラ",
+            "text": "シーク完了ね。",
+            "zh": "搜索完毕了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "122/TALK",
+            "narrator": "ガブリエラ",
+            "text": "さて――。",
+            "zh": "那么——。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "123/TALK",
+            "narrator": "ガブリエラ",
+            "text": "今回、貴方に\n紹介するクランは\n<color=red>【クワイエット・コルト】</color>",
+            "zh": "这次要向你\n介绍的库兰是\n<color=red>【寂静柯尔特】</color>",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "127/TALK",
+            "narrator": "ガブリエラ",
+            "text": "発症は2016年1月1日。\n自宅でしかも元旦になんて\nぞっとしないわ。",
+            "zh": "发症是在2016年1月1日。\n在自己家里还是元旦发症，\n想想都让人发怵。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "128/TALK",
+            "narrator": "ガブリエラ",
+            "text": "発症する前の名前は\n北原成人。\n年齢は24歳。",
+            "zh": "发症前的名字是\n北原成人。\n年龄24岁。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "129/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ココロファイルナンバー\nE03-153-51によると、\n発症の原因は……",
+            "zh": "根据心之档案编号\nE03-153-51，\n发症的原因是……",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "130/TALK",
+            "narrator": "ガブリエラ",
+            "text": "家族との\n意見の相違。",
+            "zh": "与家人的\n意见分歧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "131/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ニートな自分と\n官僚になった兄弟、\nそれを比較する親。",
+            "zh": "当家里蹲的自己、\n成为官僚的兄弟，\n还有拿两者比较的父母。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "132/TALK",
+            "narrator": "ガブリエラ",
+            "text": "それだけ聞くと\n成人が全面的に\n悪いみたいだわね。",
+            "zh": "光听这些的话，\n好像全是成人\n一个人的错呢。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうじゃないのよ。\n成人は理想が\n高すぎたのよ。",
+            "zh": "不是那样的。\n成人的理想\n实在太高了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "134/TALK",
+            "narrator": "ガブリエラ",
+            "text": "世間の理不尽が\n許せなかった。\n特に官僚の。",
+            "zh": "他无法容忍世间的\n不讲理之处。\n尤其是官僚的做派。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "135/TALK",
+            "narrator": "ガブリエラ",
+            "text": "なのに世間や親が\n認めるのは兄弟の方。",
+            "zh": "可世人和父母认可的\n却偏偏是他的兄弟。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "136/TALK",
+            "narrator": "ガブリエラ",
+            "text": "腐敗の温床を\n是正するという志を\n持つ自分はニート。",
+            "zh": "怀着纠正腐败温床的\n志向的自己，\n却偏偏是个家里蹲。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "137/TALK",
+            "narrator": "ガブリエラ",
+            "text": "自分に力さえあれば\nこんな理不尽を\n変えられる。",
+            "zh": "只要自己拥有力量，\n就能改变这样的\n荒唐世道。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そんな思いが\n【コルト】と弱肉強食の\n世界を生んだのよ。",
+            "zh": "正是那份念头，\n生出了【柯尔特】和那个\n弱肉强食的世界。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "139/SEL",
+            "narrator": "（選択肢）",
+            "text": "弱肉強食ねえ",
+            "zh": "弱肉强食啊",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "140/SEL",
+            "narrator": "（選択肢）",
+            "text": "コルトは負けないの？",
+            "zh": "柯尔特不会输吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "141/ACT",
+            "narrator": "",
+            "text": "弱肉強食ねえ",
+            "zh": "弱肉强食啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "ガブリエラ",
+            "text": "自分で生きる\n能力がないものに\n待つのは死のみ。",
+            "zh": "没有能力靠自己\n活下去的人，\n等待他们的唯有死亡。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "143/TALK",
+            "narrator": "ガブリエラ",
+            "text": "残酷すぎる\n世界だわよね。",
+            "zh": "真是过于残酷的\n世界啊。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "144/ACT",
+            "narrator": "",
+            "text": "コルトは負けないの？",
+            "zh": "柯尔特不会输吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "ガブリエラ",
+            "text": "というより、\n負ける気がない、と\n言うべきでしょうね。",
+            "zh": "与其说不会输，\n不如说他根本没打算\n认输吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "147/TALK",
+            "narrator": "ガブリエラ",
+            "text": "世界の創造主は\n全てを支配\nできるのだから。",
+            "zh": "因为世界的创造主\n可以支配\n一切嘛。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "149/TALK",
+            "narrator": "ガブリエラ",
+            "text": "その考え、\n全部が間違ってるとは\n思わなくてよ。",
+            "zh": "那种想法，\n我倒也不觉得\n全都错了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "150/SEL",
+            "narrator": "（選択肢）",
+            "text": "ガブリエラは\nそこに共感したんだ",
+            "zh": "加布里埃拉是\n对此产生了共鸣呀",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "151/SEL",
+            "narrator": "（選択肢）",
+            "text": "だからガブリエラが仕切ってるんだ",
+            "zh": "所以才由加布里埃拉来主持呀",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "152/ACT",
+            "narrator": "",
+            "text": "ガブリエラは\nそこに共感したんだ",
+            "zh": "加布里埃拉是\n对此产生了共鸣呀",
+            "narrator_zh": ""
+        },
+        {
+            "location": "153/TALK",
+            "narrator": "ガブリエラ",
+            "text": "それだけじゃないわ。\nあたしと相性が\nいい理由は。",
+            "zh": "才不止这点呢。\n我跟他相性好的\n理由啊。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "154/ACT",
+            "narrator": "",
+            "text": "だからガブリエラが仕切ってるんだ",
+            "zh": "所以才由加布里埃拉来主持呀",
+            "narrator_zh": ""
+        },
+        {
+            "location": "155/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうね。",
+            "zh": "是呀。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "156/TALK",
+            "narrator": "ガブリエラ",
+            "text": "結果的に一番\n相性のいい\nクランの一人だわね。",
+            "zh": "到头来算是我\n相性最好的\n库兰之一呢。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "158/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そして\n$handle$。",
+            "zh": "那么，\n$handle$。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "159/TALK",
+            "narrator": "ガブリエラ",
+            "text": "貴方は【コルト】と\n『コネクト』の\nプロセスを行いなさい。",
+            "zh": "你去和【柯尔特】\n执行『连接』的\n进程吧。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "160/TALK",
+            "narrator": "ガブリエラ",
+            "text": "コルトの抵抗する\n意思と戦って\n勝ちなさい。",
+            "zh": "迎战柯尔特那股\n抵抗的意志，\n给我赢下来。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "161/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうすれば【コルト】と\n『シンクロ』することが\nできるようになるわ。",
+            "zh": "这样一来，你就能\n和【柯尔特】进行\n『同步』了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "162/SEL",
+            "narrator": "（選択肢）",
+            "text": "とりあえずやってみる",
+            "zh": "姑且先试试看吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "163/SEL",
+            "narrator": "（選択肢）",
+            "text": "ガブリエラとはコネクトできないの？",
+            "zh": "不能和加布里埃拉连接吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "164/ACT",
+            "narrator": "",
+            "text": "とりあえずやってみる",
+            "zh": "姑且先试试看吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "165/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そうね。\n勝ちなさい、\n$handle$。",
+            "zh": "没错。\n给我赢下来，\n$handle$。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "166/TALK",
+            "narrator": "ガブリエラ",
+            "text": "アクセス開始。\n$handle$に\n素敵なココロの旅を！",
+            "zh": "开始接入。\n祝$handle$\n拥有美好的心灵之旅！",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "167/ACT",
+            "narrator": "",
+            "text": "ガブリエラとはコネクトできないの？",
+            "zh": "不能和加布里埃拉连接吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "168/TALK",
+            "narrator": "ガブリエラ",
+            "text": "そういう場所じゃ\nないわ。",
+            "zh": "这里可不是\n干那个的地方。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "169/TALK",
+            "narrator": "ガブリエラ",
+            "text": "でも勝つことが\nできたなら。",
+            "zh": "不过，要是你\n能赢下来的话。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "171/TALK",
+            "narrator": "ガブリエラ",
+            "text": "だから\n勝ちなさい、\n$handle$。",
+            "zh": "所以\n给我赢下来，\n$handle$。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "172/TALK",
+            "narrator": "ガブリエラ",
+            "text": "アクセス開始。\n$handle$に\n素敵なココロの旅を！",
+            "zh": "开始接入。\n祝$handle$\n拥有美好的心灵之旅！",
+            "narrator_zh": "加布里埃拉"
+        }
+    ]
+}

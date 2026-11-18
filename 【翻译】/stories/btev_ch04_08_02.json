@@ -1,0 +1,518 @@
+{
+    "dir": "chap08/battle/btev_ch04_08_02.js",
+    "type": "",
+    "info": {
+        "story_id": "24015",
+        "cid": "",
+        "title": "015 ココロスフィアストーリー【Lv05】",
+        "sub_title": "巧妙な罠＜帰結＞",
+        "title_zh": "015 心灵领域故事【Lv05】",
+        "sub_title_zh": "巧妙的陷阱＜归结＞"
+    },
+    "entry": [
+        {
+            "location": "238/SCENARIO",
+            "narrator": "",
+            "text": "巧妙な罠",
+            "zh": "巧妙的陷阱",
+            "narrator_zh": ""
+        },
+        {
+            "location": "250/TALK",
+            "narrator": "みやび",
+            "text": "はぁ…。",
+            "zh": "呼……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "251/TALK",
+            "narrator": "みやび",
+            "text": "毎度思うことや\nけんども――",
+            "zh": "每次都会这么觉得，\n但是啊——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "252/TALK",
+            "narrator": "みやび",
+            "text": "自分と戦うっちゅう\nのは、不思議な\n感覚やね。",
+            "zh": "跟自己打架这种事，\n还真是个奇妙的\n感觉咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "253/SEL",
+            "narrator": "（選択肢）",
+            "text": "それで、どうするか決まった？",
+            "zh": "那么，决定好怎么做了吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "254/ACT",
+            "narrator": "",
+            "text": "それで、どうするか決まった？",
+            "zh": "那么，决定好怎么做了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "257/TALK",
+            "narrator": "みやび",
+            "text": "そうやなぁ…。",
+            "zh": "这个嘛……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "258/TALK",
+            "narrator": "みやび",
+            "text": "…正直なとこ、\n引っかかる所は\nまだまだあるちや。",
+            "zh": "……说实话，\n让人起疑的地方\n还多着呢滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "259/TALK",
+            "narrator": "みやび",
+            "text": "けんど、そんな理由で\nいつまでも相手を\n疑っちょったら――",
+            "zh": "但是，光凭这种理由\n就一直去怀疑对方\n的话——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "260/TALK",
+            "narrator": "みやび",
+            "text": "今のみんなみたいな、\n嫌な奴になりかねん。",
+            "zh": "恐怕就要变成现在\n大家那样讨厌的家伙了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "262/TALK",
+            "narrator": "つばめ",
+            "text": "なんで…なんで誰も\n信じてくれないん\nですか！？",
+            "zh": "为什么……为什么谁都\n不肯相信我啊\n！？",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "264/TALK",
+            "narrator": "みやび",
+            "text": "っと、話は後や。\n今はみんなを説得に\n行かんと…。",
+            "zh": "哎呀，闲话待会再说。\n现在得先去劝住\n大家才行……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "283/TALK",
+            "narrator": "つばめ",
+            "text": "そんなに疑うなら、\n寮の部屋を調べても\n構いません！",
+            "zh": "既然这么怀疑我，\n搜查我宿舍的房间\n我也没意见！",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "284/TALK",
+            "narrator": "アーヤ",
+            "text": "つばめ…私達に\nそんなことを\nさせないで。",
+            "zh": "燕……别逼我们\n去做那种\n事。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "285/TALK",
+            "narrator": "アーヤ",
+            "text": "こっちも、楽しくて\nこんなことしてる\nわけじゃないのよ？",
+            "zh": "我们这边，也不是\n图开心才做这种事的\n哦？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "286/TALK",
+            "narrator": "つばめ",
+            "text": "で、でも…だって！\n無実の証拠なんて\nそれくらいしか――",
+            "zh": "可、可是……话虽如此！\n想要证明清白，\n也只有那个办法了——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "288/TALK",
+            "narrator": "ガブリエラ",
+            "text": "ていうか、劇場とか\n他のところに隠して\nるんじゃない？",
+            "zh": "话说回来，说不定早就\n藏到剧场之类的其他\n地方去了吧？",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "290/TALK",
+            "narrator": "神楽",
+            "text": "まあ、中身を抜けば\n財布くらい、簡単に\n隠せますよね。",
+            "zh": "不过，只要把里面\n拿空，一个钱包而已，\n很容易就能藏起来吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "291/TALK",
+            "narrator": "つばめ",
+            "text": "…酷い。\nこれじゃ、何しても\n証明できないよ…。",
+            "zh": "……太过分了。\n这样的话，我做什么\n都没法证明了呀……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "296/TALK",
+            "narrator": "みやび",
+            "text": "全員、そこまでや。",
+            "zh": "全员，到此为止。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "297/TALK",
+            "narrator": "神楽",
+            "text": "みやびさん。",
+            "zh": "雅。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "298/TALK",
+            "narrator": "みやび",
+            "text": "全員、とりあえず\n落ち着きぃ。",
+            "zh": "全员，先给我\n冷静下来。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "300/TALK",
+            "narrator": "ガブリエラ",
+            "text": "みやび、今は真面目な\n話をしてるんだから、\n邪魔しないで。",
+            "zh": "雅，我们现在正谈着\n严肃的事情呢，\n你别来搅局。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "302/TALK",
+            "narrator": "みやび",
+            "text": "真面目も何も、\n話になっちょるように\n思えんかったけんど？",
+            "zh": "还严肃呢，\n我看根本就没在好好\n谈事情吧，但是？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "303/TALK",
+            "narrator": "みやび",
+            "text": "怪しいから言うて、\n一方的に疑うて\n責めてるだけやろ。",
+            "zh": "光凭觉得可疑，\n就单方面去怀疑、\n去指责人家而已吧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "304/TALK",
+            "narrator": "ガブリエラ",
+            "text": "なっ！？べ、別に、\n責めてなんか…。",
+            "zh": "什！？才、才没有\n在指责她……。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "307/TALK",
+            "narrator": "アーヤ",
+            "text": "そうよ。\nただ、私達はつばめに\nお願いしてるの。",
+            "zh": "就是啊。\n我们只是在拜托\n燕而已。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "308/TALK",
+            "narrator": "アーヤ",
+            "text": "私達に、つばめを\n責めるようなことを\nさせないで、って。",
+            "zh": "拜托她别让我们\n去做那种像在指责\n她的事。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "309/TALK",
+            "narrator": "つばめ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "313/TALK",
+            "narrator": "みやび",
+            "text": "それは、\nつばめちゃんが\n落とし物の財布を――",
+            "zh": "那是在假设\n燕真的把\n失物钱包——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "314/TALK",
+            "narrator": "みやび",
+            "text": "盗んでると仮定した\n場合やろ？",
+            "zh": "给偷了的\n前提下吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "315/TALK",
+            "narrator": "みやび",
+            "text": "もしつばめちゃんは\n本当に何も知らん\nかったら――",
+            "zh": "万一燕她\n真的什么都不\n知情——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "316/TALK",
+            "narrator": "みやび",
+            "text": "どうすることも\nできんがよ。",
+            "zh": "那她可就\n百口莫辩咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "319/TALK",
+            "narrator": "神楽",
+            "text": "で、でもみやびさん！\n状況証拠から見て\n間違いなく――",
+            "zh": "可、可是雅！\n从间接证据来看\n毫无疑问——",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "322/TALK",
+            "narrator": "みやび",
+            "text": "決定的証拠が出ない\n限り、間違いなく\nなんて言えんちや。",
+            "zh": "只要决定性的证据一天\n没拿出来，就不能说\n毫无疑问滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "323/TALK",
+            "narrator": "みやび",
+            "text": "…つばめちゃん。\nつばめちゃんは、\n盗ってないんやろ？",
+            "zh": "……燕。\n燕，东西不是你\n拿的吧？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "325/TALK",
+            "narrator": "つばめ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "327/TALK",
+            "narrator": "みやび",
+            "text": "…一方的に疑わんき、\n正直に言ぃ。",
+            "zh": "……我不会单方面怀疑你，\n老实说吧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "328/TALK",
+            "narrator": "つばめ",
+            "text": "…盗ってません。",
+            "zh": "……我没有偷。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "331/TALK",
+            "narrator": "みやび",
+            "text": "うん…ちゅうことや。",
+            "zh": "嗯……就是这么回事。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "332/TALK",
+            "narrator": "みやび",
+            "text": "これで持ち物検査や\n部屋を調べて――",
+            "zh": "要是真去检查随身物品\n或者搜查房间——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "333/TALK",
+            "narrator": "みやび",
+            "text": "まっこと何も出て\nこんかったら…、\nどうするつもりや？",
+            "zh": "结果当真什么都\n没搜出来……，\n你们打算怎么收场？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "335/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "337/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "339/TALK",
+            "narrator": "神楽",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "340/TALK",
+            "narrator": "みやび",
+            "text": "怪しいゆうて\n疑う前に――",
+            "zh": "在开口说人家可疑、\n急着怀疑之前——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "341/TALK",
+            "narrator": "みやび",
+            "text": "まずは、みんなで\n探すぞね。",
+            "zh": "大伙先分头\n找找看咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "342/TALK",
+            "narrator": "アーヤ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "345/TALK",
+            "narrator": "アーヤ",
+            "text": "ごめんなさい、\nつばめ。\n嫌な想いさせて…。",
+            "zh": "对不起，\n燕。\n让你受委屈了……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "346/TALK",
+            "narrator": "アーヤ",
+            "text": "劇場でこんなことが\n起きたの初めてで、\n混乱しちゃって…。",
+            "zh": "剧场里头一次\n发生这种事，\n我也乱了阵脚……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "348/TALK",
+            "narrator": "つばめ",
+            "text": "アーヤさん…。",
+            "zh": "绫水……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "350/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…あ、あたしも、\nちょっと頭に熱が\n上ってたみたい。",
+            "zh": "……我、我也一样，\n刚才好像有点\n太上头了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "352/TALK",
+            "narrator": "ガブリエラ",
+            "text": "…わ、悪かったわ。",
+            "zh": "……抱、抱歉了。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "353/TALK",
+            "narrator": "つばめ",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "356/TALK",
+            "narrator": "神楽",
+            "text": "…それじゃあ、\nとりあえずみんな、\nこれで仲直りですね。",
+            "zh": "……那么，\n大家姑且就算\n和好了吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "357/TALK",
+            "narrator": "みやび",
+            "text": "つばめちゃんが\nそれでえい言うて\nくれるならな。",
+            "zh": "只要燕肯说\n这样就得\n的话。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "359/TALK",
+            "narrator": "つばめ",
+            "text": "わ、わたしは――",
+            "zh": "我、我只要——",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "360/TALK",
+            "narrator": "つばめ",
+            "text": "みんなが、信じて\nくれるなら…。",
+            "zh": "只要大家愿意\n相信我……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "362/TALK",
+            "narrator": "みやび",
+            "text": "…ん、ならこれで\nこの話はしまいや。",
+            "zh": "……嗯，那这件事\n就到此为止了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "363/TALK",
+            "narrator": "みやび",
+            "text": "全員、勝手に消えた\n財布探しを始める\nがよ！",
+            "zh": "所有人，自觉开始找\n那个不见了的\n钱包咯！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "364/TALK",
+            "narrator": "アーヤ",
+            "text": "ええ…私はもう一度、\n売店を見てみるわ。",
+            "zh": "嗯……我再去\n小卖部那边看看吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "366/TALK",
+            "narrator": "ガブリエラ",
+            "text": "じゃあ、あたしは\n廊下とか見てくる。",
+            "zh": "那，我就去\n走廊那带找找。",
+            "narrator_zh": "加布里埃拉"
+        },
+        {
+            "location": "368/TALK",
+            "narrator": "神楽",
+            "text": "私は、万が一のことを\n考えて劇場の外を\n見てきますね。",
+            "zh": "我为了以防万一，\n去剧场外面\n看看吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "384/TALK",
+            "narrator": "みやび",
+            "text": "…さてと、それじゃ\nうちは楽屋を――",
+            "zh": "……那么，我就\n去后台——",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "385/TALK",
+            "narrator": "つばめ",
+            "text": "…ありがとう。",
+            "zh": "……谢谢你。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "387/TALK",
+            "narrator": "みやび",
+            "text": "ん？",
+            "zh": "嗯？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "389/TALK",
+            "narrator": "つばめ",
+            "text": "ありがとう…、\nみやびさん。",
+            "zh": "谢谢你……，\n雅。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "391/TALK",
+            "narrator": "つばめ",
+            "text": "わたし…みんなに\n疑われて…悲しくて、\n辛くて…。",
+            "zh": "我……被大家\n怀疑的时候……好难过，\n好心痛……。",
+            "narrator_zh": "燕"
+        },
+        {
+            "location": "392/TALK",
+            "narrator": "みやび",
+            "text": "…………。",
+            "zh": "…………。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "393/TALK",
+            "narrator": "みやび",
+            "text": "ほれ、泣いちょらんで\nすっと探し始めんと。",
+            "zh": "行了，别光顾着哭，\n赶紧麻利点开始找咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "394/TALK",
+            "narrator": "みやび",
+            "text": "完全に疑い晴らす\nためにも、今はやる\nことやろうな。",
+            "zh": "为了彻底洗清嫌疑，\n现在就做好该做的\n事吧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "396/TALK",
+            "narrator": "つばめ",
+            "text": "…はい！",
+            "zh": "……是！",
+            "narrator_zh": "燕"
+        }
+    ]
+}

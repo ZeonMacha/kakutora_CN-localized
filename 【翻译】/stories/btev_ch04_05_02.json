@@ -1,0 +1,791 @@
+{
+    "dir": "chap05/battle/btev_ch04_05_02.js",
+    "type": "",
+    "info": {
+        "story_id": "24006",
+        "cid": "",
+        "title": "006 ココロスフィアストーリー【Lv02】",
+        "sub_title": "敵Ⅱ＜帰結＞",
+        "title_zh": "006 心灵领域故事【Lv02】",
+        "sub_title_zh": "敌人Ⅱ＜归结＞"
+    },
+    "entry": [
+        {
+            "location": "129/SCENARIO",
+            "narrator": "",
+            "text": "敵Ⅱ２",
+            "zh": "敌人Ⅱ2",
+            "narrator_zh": ""
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "みやび",
+            "text": "…というわけで\nうちが戦いに\n勝ったわけやけんど。",
+            "zh": "……就是这么回事，\n赢下这场战斗的\n是我，但是呢。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "143/SEL",
+            "narrator": "（選択肢）",
+            "text": "ってどっち！？",
+            "zh": "到底是哪一个！？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "144/ACT",
+            "narrator": "",
+            "text": "ってどっち！？",
+            "zh": "到底是哪一个！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "みやび",
+            "text": "あんたと一緒に\n戦った方に\n決まっちょるき。",
+            "zh": "那还用说，当然是\n跟你一块儿打的\n这边赢了啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "147/SEL",
+            "narrator": "（選択肢）",
+            "text": "名前も違うし！",
+            "zh": "连名字都不一样啊！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "148/ACT",
+            "narrator": "",
+            "text": "名前も違うし！",
+            "zh": "连名字都不一样啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "150/TALK",
+            "narrator": "みやび",
+            "text": "一緒やったら\nモロバレちや。",
+            "zh": "一样的话不就\n全露馅了滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "151/SEL",
+            "narrator": "（選択肢）",
+            "text": "負けた方が消えてくところも無し！？",
+            "zh": "输掉的那边消失的镜头都没有！？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "152/ACT",
+            "narrator": "",
+            "text": "負けた方が消えてくところも無し！？",
+            "zh": "输掉的那边消失的镜头都没有！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "154/TALK",
+            "narrator": "みやび",
+            "text": "工数削減にも貢献して\n一石二鳥やね。",
+            "zh": "还能顺便省工时，\n一石二鸟咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "155/SEL",
+            "narrator": "（選択肢）",
+            "text": "もういいです…",
+            "zh": "算了，我不问了……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "156/ACT",
+            "narrator": "",
+            "text": "もういいです…",
+            "zh": "算了，我不问了……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "158/TALK",
+            "narrator": "みやび",
+            "text": "うむ。\n世の中突っ込まん方が\nえいこともあるちや。",
+            "zh": "嗯。\n这世上有些事\n还是别深究更好滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "160/TALK",
+            "narrator": "みやび",
+            "text": "さて、うちは嘘偽り\n無く、お前さんを\n疑っちょるうちや。",
+            "zh": "好了，我是如假包换\n一直怀疑着\n你的那个我。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "161/TALK",
+            "narrator": "みやび",
+            "text": "情報管理庁の\n手駒じゃろと\n思っちょる。",
+            "zh": "觉得你多半就是\n情报管理厅的\n棋子。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "162/TALK",
+            "narrator": "みやび",
+            "text": "とはいえ、そんな\nお前さんにも\n恩がある。",
+            "zh": "话虽如此，对这样的你\n我也算欠了份\n人情。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "163/TALK",
+            "narrator": "みやび",
+            "text": "さっき反論するうちを\n倒してくれたきね。",
+            "zh": "因为刚才你帮我打倒了\n唱反调的那个我啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "164/TALK",
+            "narrator": "みやび",
+            "text": "お陰でうちは、\nお前さんを伸び伸びと\n疑えるようになった。",
+            "zh": "托你的福，我现在\n能舒舒服服地\n继续怀疑你了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "166/TALK",
+            "narrator": "みやび",
+            "text": "さて、敵ではあれ、\nうちはお前さんを\n疑っちょらん。",
+            "zh": "好了，虽说是敌人，\n我倒也没有\n怀疑你。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "167/TALK",
+            "narrator": "みやび",
+            "text": "そんで今回は更に、\nうちが勝てるように\n協力してくれたき。",
+            "zh": "而且这次你又\n特地帮我打赢了\n这一场啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "169/TALK",
+            "narrator": "みやび",
+            "text": "敵であっても恩は恩。",
+            "zh": "哪怕是敌人，恩就是恩。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "170/TALK",
+            "narrator": "みやび",
+            "text": "そこで、うちのヒミツ\n情報をなにか１つ\nやろうと思ってな。",
+            "zh": "于是我想着，\n干脆送你一条\n我的秘密情报。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "172/SEL",
+            "narrator": "（選択肢）",
+            "text": "みやびの恥ずかしい話",
+            "zh": "雅丢脸的事",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "173/SEL",
+            "narrator": "（選択肢）",
+            "text": "みやびのハッカー人生の話",
+            "zh": "雅的黑客人生故事",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "174/TALK",
+            "narrator": "みやび",
+            "text": "好きな方を\n選んでえいよ。",
+            "zh": "挑你喜欢的\n选一个就得。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "175/ACT",
+            "narrator": "",
+            "text": "みやびの恥ずかしい話",
+            "zh": "雅丢脸的事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "176/TALK",
+            "narrator": "みやび",
+            "text": "なんと！\nそんなもんで\nえいんか？",
+            "zh": "什么！\n那种东西就\n够了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "178/TALK",
+            "narrator": "みやび",
+            "text": "クーリングオフは\n無しやけんど、\n平気か？",
+            "zh": "可没得\n冷静期反悔的哦，\n确定咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "179/SEL",
+            "narrator": "（選択肢）",
+            "text": "はい",
+            "zh": "是",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "180/SEL",
+            "narrator": "（選択肢）",
+            "text": "いいえ",
+            "zh": "不是",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "181/ACT",
+            "narrator": "",
+            "text": "はい",
+            "zh": "是",
+            "narrator_zh": ""
+        },
+        {
+            "location": "182/ACT",
+            "narrator": "",
+            "text": "いいえ",
+            "zh": "不是",
+            "narrator_zh": ""
+        },
+        {
+            "location": "183/TALK",
+            "narrator": "みやび",
+            "text": "じゃあもう一度\n選び直しやね。",
+            "zh": "那你就再\n重新选一次咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "186/TALK",
+            "narrator": "みやび",
+            "text": "うーむ、そうか。\nわかった。",
+            "zh": "唔——，这样啊。\n知道了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "187/TALK",
+            "narrator": "みやび",
+            "text": "まっことくだらん\nことやのに……",
+            "zh": "明明真是蛮无聊的\n一件事……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "188/TALK",
+            "narrator": "みやび",
+            "text": "まあえいか。\n選択したのは\nうちやないきね。",
+            "zh": "算了得。\n反正做出选择的\n又不是我啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "191/TALK",
+            "narrator": "みやび",
+            "text": "ほんだら\nいくきね。",
+            "zh": "那就\n开始咯啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "214/DIALOG",
+            "narrator": "",
+            "text": "うちの\n恥ずかしいファイル\n\n①",
+            "zh": "我的\n羞耻档案\n\n①",
+            "narrator_zh": ""
+        },
+        {
+            "location": "225/TALK",
+            "narrator": "みやび",
+            "text": "うちはアーヤより\n身長が低いちや。",
+            "zh": "我比绫水\n矮滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "226/TALK",
+            "narrator": "みやび",
+            "text": "アーヤは164cm。\nうちは162cmやきね。",
+            "zh": "绫水164cm。\n我才162cm啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "227/TALK",
+            "narrator": "みやび",
+            "text": "けんど。",
+            "zh": "但是。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "230/TALK",
+            "narrator": "みやび",
+            "text": "胸は\nうちの方が\nでかい。",
+            "zh": "胸\n是我这边\n更大。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "234/TALK",
+            "narrator": "みやび",
+            "text": "ああ……\nなんという\n恥ずかしい…。",
+            "zh": "啊……\n这真是太\n丢人了……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "237/DIALOG",
+            "narrator": "",
+            "text": "終劇。",
+            "zh": "剧终。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "258/TALK",
+            "narrator": "みやび",
+            "text": "はぁ、\n恥ずかしかったちや。",
+            "zh": "呼，\n太丢脸了滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "259/SEL",
+            "narrator": "（選択肢）",
+            "text": "それ、恥ずかしい話なの？",
+            "zh": "那也算丢脸的事吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "260/ACT",
+            "narrator": "",
+            "text": "それ、恥ずかしい話なの？",
+            "zh": "那也算丢脸的事吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "263/TALK",
+            "narrator": "みやび",
+            "text": "当たり前や。\nいつも気にしちょる。",
+            "zh": "那还用说。\n我一直都在意着呢。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "264/TALK",
+            "narrator": "みやび",
+            "text": "身長が低いのに胸が\nあるっちゅうことは―",
+            "zh": "个子矮胸却\n那么大，这就意味着—",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "265/TALK",
+            "narrator": "みやび",
+            "text": "そんだけ脂肪分が\n多いっちゅうことやき。",
+            "zh": "身上的脂肪量\n平白多了那么多啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "266/TALK",
+            "narrator": "みやび",
+            "text": "すなわち、非効率な\n身体っちゅうことや。",
+            "zh": "换句话说，这具身体\n太不讲效率了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "267/TALK",
+            "narrator": "みやび",
+            "text": "最適化されてない\n身体っちゅうんは\n恥ずかしいやないか。",
+            "zh": "没有最优化的\n身体，难道\n不丢人咩。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "268/SEL",
+            "narrator": "（選択肢）",
+            "text": "でも世の中胸が大きいのは結構正義みたいな風潮があって",
+            "zh": "可是世上总有种风潮觉得胸大就是正义之类的",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "269/SEL",
+            "narrator": "（選択肢）",
+            "text": "いや、その通りですわ",
+            "zh": "不，你说得太对了",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "270/ACT",
+            "narrator": "",
+            "text": "でも世の中胸が大きいのは結構正義みたいな風潮があって",
+            "zh": "可是世上总有种风潮觉得胸大就是正义之类的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "271/TALK",
+            "narrator": "みやび",
+            "text": "胸なぞ飾りや。",
+            "zh": "胸那种东西只是装饰。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "272/TALK",
+            "narrator": "みやび",
+            "text": "世の中の老若男女は\nそれがわかっちょらん\nのですよ。",
+            "zh": "世上的男女老少\n可都没明白\n这个道理呀。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "273/ACT",
+            "narrator": "",
+            "text": "いや、その通りですわ",
+            "zh": "不，你说得太对了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "274/TALK",
+            "narrator": "みやび",
+            "text": "うむ。\n理解が早くて助かる。",
+            "zh": "嗯。\n理解得这么快，帮大忙了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "276/TALK",
+            "narrator": "みやび",
+            "text": "まあそんなわけで、\nせっかくの機会に\nくだらない話を……",
+            "zh": "嘛就是这样，\n难得的机会，\n尽聊些无聊的事……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "277/TALK",
+            "narrator": "みやび",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "278/SEL",
+            "narrator": "（選択肢）",
+            "text": "どうしたの？",
+            "zh": "怎么了？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "279/ACT",
+            "narrator": "",
+            "text": "どうしたの？",
+            "zh": "怎么了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "281/TALK",
+            "narrator": "みやび",
+            "text": "いや、なんでもない。",
+            "zh": "没什么，没事。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "282/ACT",
+            "narrator": "",
+            "text": "みやびのハッカー人生の話",
+            "zh": "雅的黑客人生故事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "283/TALK",
+            "narrator": "みやび",
+            "text": "ふむ。\nまあ普通はこっちを\n選ぶじゃろ。",
+            "zh": "唔。\n嘛，正常都会选\n这个吧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "284/TALK",
+            "narrator": "みやび",
+            "text": "とはゆうてもなぁ。\nうちのハッカー人生\nなんぞ、つまらんぞ。",
+            "zh": "话虽如此啦。\n我的黑客人生\n没驷马好听头咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "285/TALK",
+            "narrator": "みやび",
+            "text": "殆どが、うちが\nいじめられていた話に\nなってしまうきね。",
+            "zh": "几乎全是我\n以前被人欺负的\n事啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "286/SEL",
+            "narrator": "（選択肢）",
+            "text": "いじめられてたの！？",
+            "zh": "你被欺负过！？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "287/ACT",
+            "narrator": "",
+            "text": "いじめられてたの！？",
+            "zh": "你被欺负过！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "289/TALK",
+            "narrator": "みやび",
+            "text": "うむ。まあ……\n小学校の頃の\n話やけんどな。",
+            "zh": "嗯。嘛……\n也就是小学时候的\n事，但是呢。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "290/SEL",
+            "narrator": "（選択肢）",
+            "text": "小学生からハッカー！？",
+            "zh": "从小学生就开始当黑客！？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "291/ACT",
+            "narrator": "",
+            "text": "小学生からハッカー！？",
+            "zh": "从小学生就开始当黑客！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "293/TALK",
+            "narrator": "みやび",
+            "text": "そんなに驚く\nことかえ？",
+            "zh": "有这么值得\n吃惊咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "294/TALK",
+            "narrator": "みやび",
+            "text": "まあえい。\nちゃちゃっと\n済ませるちや。",
+            "zh": "算了得。\n麻利点\n讲完滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "307/DIALOG",
+            "narrator": "",
+            "text": "うちの\nハッカー人生物語\n\n①",
+            "zh": "我的\n黑客人生故事\n\n①",
+            "narrator_zh": ""
+        },
+        {
+            "location": "310/DIALOG",
+            "narrator": "",
+            "text": "恋ヶ崎みやび。\n遙か17年も昔のこと、\n高知県にて誕生する。",
+            "zh": "恋之崎雅。\n早在17年多以前，\n出生于高知县。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "311/DIALOG",
+            "narrator": "",
+            "text": "幼少期からマイペースすぎて\n周りの子供とは\n全くシンクロできんかったらしい。",
+            "zh": "据说从小就太过我行我素，\n和周围的孩子\n完全没法同步。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "314/DIALOG",
+            "narrator": "",
+            "text": "そうなれば当然、\n浮いた存在になるわけやき、\nいじめられやすくなるわな。\n\nうちは漏れなく\nその対象になったわけや。",
+            "zh": "那样一来当然\n就会显得格格不入，\n自然容易被欺负咯。\n\n我毫无例外地\n成了那个对象。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "315/DIALOG",
+            "narrator": "",
+            "text": "けんど、\nそこに一筋の光が\n降りてきた。\n\nそれこそが、\n当時社会現象にまでなった\n人気ゲーム\n\n『カプセル＆ドラゴン』\n\n通称・カプドラちや。",
+            "zh": "但是，\n一道光芒\n降临在了那里。\n\n那正是，\n当时甚至引发社会现象的\n人气游戏\n\n『胶囊＆龙』\n\n简称“卡普多拉”滴。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "334/DIALOG",
+            "narrator": "",
+            "text": "うちはカプドラを極めて\nクラスの人気者になろう\n大作戦を決行した。\n\nそして、近所の\nゲーマーの兄ちゃんに\nカプドラの必勝法を\n聞きに行った。",
+            "zh": "我决定执行\n玩透卡普多拉成为\n班里人气王大作战。\n\n于是，我去向\n附近爱打游戏的大哥哥\n打听了卡普多拉的\n必胜法。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "336/TALK",
+            "narrator": "男子高校生",
+            "text": "カプドラで\n強くなりたいって？",
+            "zh": "想在卡普多拉里\n变强吗？",
+            "narrator_zh": "男高中生"
+        },
+        {
+            "location": "338/TALK",
+            "narrator": "男子高校生",
+            "text": "いい方法\n教えてやるよ。",
+            "zh": "我教你一个\n好法子。",
+            "narrator_zh": "男高中生"
+        },
+        {
+            "location": "340/TALK",
+            "narrator": "みやび",
+            "text": "おお！\nまじか兄ちゃん！",
+            "zh": "哦哦！\n真的吗，大哥哥！",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "342/TALK",
+            "narrator": "男子高校生",
+            "text": "任せとけ。\n絶対にクラスの\n人気者になれるねや。",
+            "zh": "包在我身上。\n绝对能让你变成\n班里的大红人。",
+            "narrator_zh": "男高中生"
+        },
+        {
+            "location": "343/DIALOG",
+            "narrator": "",
+            "text": "その時に教えてもらったのが\nそう、『チート』やった。",
+            "zh": "那时他教我的，\n没错，就是“开挂”。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "356/DIALOG",
+            "narrator": "",
+            "text": "その後クラスでは、\n兄ちゃんが言ったとおり\nうちは人気者になった。\n\nその甘い蜜を\n知ってしまった事がきっかけで、\nうちはハッカーというものに\n目覚めてしまったのや。",
+            "zh": "之后在班里，\n果真如大哥哥所说，\n我成了人气王。\n\n因为尝到了\n那份甜头，\n我便彻底觉醒成\n所谓的黑客了。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "359/DIALOG",
+            "narrator": "",
+            "text": "終劇。",
+            "zh": "剧终。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "376/TALK",
+            "narrator": "みやび",
+            "text": "ま、こんなとこやね。",
+            "zh": "嘛，大概就是这么回事咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "377/TALK",
+            "narrator": "みやび",
+            "text": "感想は？",
+            "zh": "感想呢？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "378/SEL",
+            "narrator": "（選択肢）",
+            "text": "小さい頃から俗っぽかったんだなぁ",
+            "zh": "原来你从小就挺世俗的啊",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "379/SEL",
+            "narrator": "（選択肢）",
+            "text": "みやびらしい",
+            "zh": "很有雅的风格",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "380/SEL",
+            "narrator": "（選択肢）",
+            "text": "テロップばっかりだった…",
+            "zh": "全是字幕啊……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "381/ACT",
+            "narrator": "",
+            "text": "小さい頃から俗っぽかったんだなぁ",
+            "zh": "原来你从小就挺世俗的啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "382/TALK",
+            "narrator": "みやび",
+            "text": "余計なお世話やね。",
+            "zh": "要你管咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "383/ACT",
+            "narrator": "",
+            "text": "みやびらしい",
+            "zh": "很有雅的风格",
+            "narrator_zh": ""
+        },
+        {
+            "location": "384/TALK",
+            "narrator": "みやび",
+            "text": "それは褒め言葉か？",
+            "zh": "这算夸奖咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "385/ACT",
+            "narrator": "",
+            "text": "テロップばっかりだった…",
+            "zh": "全是字幕啊……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "386/TALK",
+            "narrator": "みやび",
+            "text": "うちに\nハイクオリティの\n労働を期待するのか？",
+            "zh": "你还指望我给你\n提供高质量的\n劳动咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "388/TALK",
+            "narrator": "みやび",
+            "text": "……いや、\nほらもっと他に\n聞くことがあるじゃろ。",
+            "zh": "……不是，\n你看，难道就没别的\n想问吗。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "389/TALK",
+            "narrator": "みやび",
+            "text": "あの兄ちゃんは～…\n…　…とか。",
+            "zh": "比如那个大哥哥后来～……\n……　…之类的。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "390/SEL",
+            "narrator": "（選択肢）",
+            "text": "ああっ！　みやびは、あの兄ちゃんが好きだったの？",
+            "zh": "啊啊！　雅，你以前喜欢过那个大哥哥啊？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "391/ACT",
+            "narrator": "",
+            "text": "ああっ！　みやびは、あの兄ちゃんが好きだったの？",
+            "zh": "啊啊！　雅，你以前喜欢过那个大哥哥啊？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "393/TALK",
+            "narrator": "みやび",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "394/TALK",
+            "narrator": "みやび",
+            "text": "もうえい。",
+            "zh": "算了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "395/TALK",
+            "narrator": "みやび",
+            "text": "やはし、うちの\n勘違いやったか。",
+            "zh": "果然，是我\n想多了咩。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "396/TALK",
+            "narrator": "みやび",
+            "text": "いやしかし、\nこれもまた罠……？",
+            "zh": "不对，但是，\n难道这也是陷阱……？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "397/TALK",
+            "narrator": "みやび",
+            "text": "うーん、わからん。\nまあえいか、そのうち\n尻尾を出すちや。",
+            "zh": "唔——，没懂啊。\n算了得，反正迟早会\n露出马脚滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "399/TALK",
+            "narrator": "みやび",
+            "text": "さ、お礼も済んだし、\n今回はこれで\nお終いや。",
+            "zh": "好了，谢礼也给过了，\n这次就到这儿\n结束咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "401/TALK",
+            "narrator": "みやび",
+            "text": "ほんだら、\nさいなら。",
+            "zh": "那就，\n再见咧。",
+            "narrator_zh": "雅"
+        }
+    ]
+}

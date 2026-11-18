@@ -1,0 +1,763 @@
+{
+    "dir": "chap04/battle/btev_ch04_04_00.js",
+    "type": "",
+    "info": {
+        "story_id": "24001",
+        "cid": "",
+        "title": "001 ココロスフィアストーリー【Lv01】",
+        "sub_title": "敵Ⅰ＜提起＞",
+        "title_zh": "001 心灵领域故事【Lv01】",
+        "sub_title_zh": "敌人Ⅰ＜提起＞"
+    },
+    "entry": [
+        {
+            "location": "5/SCENARIO",
+            "narrator": "",
+            "text": "バトル導入",
+            "zh": "战斗导入",
+            "narrator_zh": ""
+        },
+        {
+            "location": "29/TALK",
+            "narrator": "千羽鶴",
+            "text": "ようこそ。\nここは恋ヶ崎みやびの\n精神世界――",
+            "zh": "欢迎。\n这里是恋之崎雅的\n精神世界——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "30/TALK",
+            "narrator": "千羽鶴",
+            "text": "通称<color=red>【[ココロスフィア]】</color>\nと呼ばれている場所。",
+            "zh": "通称为<color=red>【[心灵领域]】</color>\n的地方。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "千羽鶴",
+            "text": "ここでは彼女は\nあなたと普通に\n対話できる。",
+            "zh": "在这里，她可以\n和你正常地\n对话。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "千羽鶴",
+            "text": "彼女の心に直接\n語りかけることで、\n心を動かすの。",
+            "zh": "直接向她的心\n诉说，\n就能打动她。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "33/TALK",
+            "narrator": "千羽鶴",
+            "text": "早速、彼女を呼んで\n対話をしてみましょ。",
+            "zh": "那就马上把她叫来，\n试着对话吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "42/DIALOG",
+            "narrator": "",
+            "text": "<size=40>KOKORO-Lv. 01</size>\nMIYABI - KOIGASAKI\n\n<size=45>敵Ⅰ</size>\n<size=35>～黎明編～</size>",
+            "zh": "<size=40>KOKORO-Lv. 01</size>\n恋之崎雅\n\n<size=45>敌人Ⅰ</size>\n<size=35>～黎明篇～</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "51/TALK",
+            "narrator": "潜在みやび",
+            "text": "ようこそ\nすとれんじゃー。",
+            "zh": "欢迎，\n异乡人。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "52/TALK",
+            "narrator": "表層みやび",
+            "text": "ようこそ\nあうぇい。",
+            "zh": "欢迎，\n外来客。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "53/SEL",
+            "narrator": "（選択肢）",
+            "text": "こんにちは",
+            "zh": "你好",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "54/ACT",
+            "narrator": "",
+            "text": "こんにちは",
+            "zh": "你好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "57/TALK",
+            "narrator": "潜在みやび",
+            "text": "いや、今は\n「おはよう」やき。",
+            "zh": "不对，现在是\n“早上好”啵。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "58/TALK",
+            "narrator": "表層みやび",
+            "text": "いやいや、今は\n「こんばんは」やね。",
+            "zh": "不不，现在是\n“晚上好”咯。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "潜在みやび",
+            "text": "それはそうと。",
+            "zh": "话又说回来。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "表層みやび",
+            "text": "なんぞ用かね？",
+            "zh": "有驷马事咩？",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "61/SEL",
+            "narrator": "（選択肢）",
+            "text": "単刀直入に言うと、みやびのココロを支えに来ました",
+            "zh": "开门见山地说，我是来支撑雅的心的",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "62/ACT",
+            "narrator": "",
+            "text": "単刀直入に言うと、みやびのココロを支えに来ました",
+            "zh": "开门见山地说，我是来支撑雅的心的",
+            "narrator_zh": ""
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "潜在みやび",
+            "text": "ココロを支える！\nなんぞ、そんなこと\nせんでも。",
+            "zh": "支撑我的心！\n做驷马，那种事\n不用麻烦了。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "表層みやび",
+            "text": "うちのココロは\n強力接着剤でバッチ\n固定されちゅうよ？",
+            "zh": "我的心可是\n用强力胶粘得\n死死的哦？",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "66/SEL",
+            "narrator": "（選択肢）",
+            "text": "（）",
+            "zh": "（）",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "67/SEL",
+            "narrator": "（選択肢）",
+            "text": "帰ります",
+            "zh": "我回去了",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "69/TALK",
+            "narrator": "潜在みやび",
+            "text": "反応に\n困っちょるね。",
+            "zh": "不知该怎么\n回应了咯。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "71/TALK",
+            "narrator": "表層みやび",
+            "text": "ふむ。\n案外ちょろいな。",
+            "zh": "唔。\n意外地好打发嘛。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "72/ACT",
+            "narrator": "",
+            "text": "帰ります",
+            "zh": "我回去了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "73/TALK",
+            "narrator": "潜在みやび",
+            "text": "いやいや、\nもう少しくつろいで\nいきや。",
+            "zh": "别急嘛，\n再多歇一会儿\n再走咯。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "74/TALK",
+            "narrator": "表層みやび",
+            "text": "まだ何も\n話しちょらんきね。",
+            "zh": "还什么都\n没聊呢啵。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "76/SEL",
+            "narrator": "（選択肢）",
+            "text": "二人は仲良しなの？それとも対立中？",
+            "zh": "你们两个关系很好吗？还是正在闹矛盾？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "77/ACT",
+            "narrator": "",
+            "text": "二人は仲良しなの？それとも対立中？",
+            "zh": "你们两个关系很好吗？还是正在闹矛盾？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "79/TALK",
+            "narrator": "潜在みやび",
+            "text": "ふむ。",
+            "zh": "唔。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "80/TALK",
+            "narrator": "表層みやび",
+            "text": "いい質問やね。",
+            "zh": "好问题咯。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "81/TALK",
+            "narrator": "潜在みやび",
+            "text": "もちろんうちらは\n全く意見が合わん。",
+            "zh": "当然，我们俩的\n意见完全合不来。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "表層みやび",
+            "text": "正直、今すぐにでも\n消してやりたいぞね。",
+            "zh": "老实说，我现在就想\n把她消掉咧。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "潜在みやび",
+            "text": "けんどな、なんで人間\nがここまで繁殖できた\nかしっちゅうか？",
+            "zh": "但是嘛，人类\n为什么能繁衍到\n这步，你知道咩？",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "表層みやび",
+            "text": "それは、より強烈な\n敵が出よった時には\n結託するからやね。",
+            "zh": "那是因为，更强硬的\n敌人冒出来时，\n就会联手起来咯。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "85/SEL",
+            "narrator": "（選択肢）",
+            "text": "敵って、もしかして……",
+            "zh": "敌人，难道是指……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "86/ACT",
+            "narrator": "",
+            "text": "敵って、もしかして……",
+            "zh": "敌人，难道是指……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "90/TALK",
+            "narrator": "潜在みやび",
+            "text": "まあ、あんたが敵とは\nいえ、うちかコイツの\nどっちかは――",
+            "zh": "嘛，虽说你是敌人，\n我和这家伙\n总有一个——",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "91/TALK",
+            "narrator": "表層みやび",
+            "text": "あんたを味方に付けて\n戦いたいと思っちゅう。",
+            "zh": "想着要拉你入伙\n一块打呢。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "潜在みやび",
+            "text": "当然ソイツは、\nうちのココロを支えて\n欲しいちゃんや。",
+            "zh": "当然，那家伙是\n想要你\n来撑我的心咯。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "93/TALK",
+            "narrator": "表層みやび",
+            "text": "さて、問題や。\nどっちやと思う？",
+            "zh": "那么，问题来了。\n你猜是哪边？",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "94/SEL",
+            "narrator": "（選択肢）",
+            "text": "伊号ちゃん",
+            "zh": "伊号",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "95/SEL",
+            "narrator": "（選択肢）",
+            "text": "呂号ちゃん",
+            "zh": "吕号",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "96/SEL",
+            "narrator": "（選択肢）",
+            "text": "だめ。この中にはいないよ！",
+            "zh": "不行。这里面没有啊！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "97/ACT",
+            "narrator": "",
+            "text": "伊号ちゃん",
+            "zh": "伊号",
+            "narrator_zh": ""
+        },
+        {
+            "location": "98/TALK",
+            "narrator": "表層みやび",
+            "text": "なるほど、\nそれがアンタの答えか。",
+            "zh": "原来如此，\n这就是你的答案咩。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "99/ACT",
+            "narrator": "",
+            "text": "呂号ちゃん",
+            "zh": "吕号",
+            "narrator_zh": ""
+        },
+        {
+            "location": "100/TALK",
+            "narrator": "潜在みやび",
+            "text": "なるほど、\nそれがアンタの答えか。",
+            "zh": "原来如此，\n这就是你的答案咩。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "101/ACT",
+            "narrator": "",
+            "text": "だめ。この中にはいないよ！",
+            "zh": "不行。这里面没有啊！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "107/DIALOG",
+            "narrator": "",
+            "text": "ゴキゲンポイントが\n<size=40><color=red><b>300pt.</b></color></size>\nアップしました！",
+            "zh": "心情点数\n<size=40><color=red><b>300pt.</b></color></size>\n增加了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "111/TALK",
+            "narrator": "表層みやび",
+            "text": "いない？\nそれがアンタの答えか。",
+            "zh": "没有？\n这就是你的答案咩。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "112/SEL",
+            "narrator": "（選択肢）",
+            "text": "うん！",
+            "zh": "嗯！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "113/ACT",
+            "narrator": "",
+            "text": "うん！",
+            "zh": "嗯！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "116/TALK",
+            "narrator": "表層みやび",
+            "text": "ひっ！！",
+            "zh": "噫！！",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "117/TALK",
+            "narrator": "潜在みやび",
+            "text": "大当た～～り～～！",
+            "zh": "答～～对～～了～～！",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "118/TALK",
+            "narrator": "表層みやび",
+            "text": "…なわけないぞね。",
+            "zh": "……怎么可能咧。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "120/TALK",
+            "narrator": "表層みやび",
+            "text": "まあ、こんなことして\n遊んでる暇は無いぞね。",
+            "zh": "嘛，也没闲工夫\n在这儿陪你闹了咧。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "121/TALK",
+            "narrator": "潜在みやび",
+            "text": "うむ。決着は早急に\nつけねばいかんきね。",
+            "zh": "嗯。必须得赶快\n分出个胜负啵。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "122/SEL",
+            "narrator": "（選択肢）",
+            "text": "全然ワケ分からないんですけど",
+            "zh": "我完全搞不懂是怎么回事啊",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "123/ACT",
+            "narrator": "",
+            "text": "全然ワケ分からないんですけど",
+            "zh": "我完全搞不懂是怎么回事啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "125/TALK",
+            "narrator": "表層みやび",
+            "text": "当たり前よや。",
+            "zh": "那还用说咯。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "126/TALK",
+            "narrator": "潜在みやび",
+            "text": "意図的に\nやっちょるきね。",
+            "zh": "就是故意\n这么搞的啵。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "127/TALK",
+            "narrator": "表層みやび",
+            "text": "まあこうやって\nアンタのやる気を\n削げば……",
+            "zh": "嘛，照这样子\n磨掉你的\n干劲的话……",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "128/TALK",
+            "narrator": "潜在みやび",
+            "text": "うちは大助かりや。",
+            "zh": "我就省大事了。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "129/TALK",
+            "narrator": "表層みやび",
+            "text": "とか言ってるコイツは\nフェイクやきね。\n大助かりはうちや。",
+            "zh": "讲这些话的这家伙\n是假货啵。\n省大事的是我。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "130/TALK",
+            "narrator": "潜在みやび",
+            "text": "まあ、こんなうちでも\n力貸してくれるゆう\nなら、戦い参加してや。",
+            "zh": "嘛，就算我这样子，\n你要还肯帮衬，\n就来参战咧。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "131/TALK",
+            "narrator": "表層みやび",
+            "text": "参加してくれるなら\nうちは大助かりやね。",
+            "zh": "肯参战的话，\n我可就省大事咯。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "132/TALK",
+            "narrator": "潜在みやび",
+            "text": "いや、それはうちや。",
+            "zh": "不对，那是我。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "133/SEL",
+            "narrator": "（選択肢）",
+            "text": "そのままの格好で戦うの？",
+            "zh": "就穿这身打扮战斗吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "134/ACT",
+            "narrator": "",
+            "text": "そのままの格好で戦うの？",
+            "zh": "就穿这身打扮战斗吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "136/TALK",
+            "narrator": "表層みやび",
+            "text": "まさか。",
+            "zh": "怎么可能。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "137/TALK",
+            "narrator": "潜在みやび",
+            "text": "アンタの見えない所で\nひとりは着替えて――",
+            "zh": "在你看不见的地方，\n一个人换衣服——",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "表層みやび",
+            "text": "もう一人は\n[クラン]を吐き出すぞね。",
+            "zh": "另一个人\n放出[库兰]咧。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "139/TALK",
+            "narrator": "潜在みやび",
+            "text": "まあ、そんな感じや\nけんど、気が向いたら\n戦いに参加しいや。",
+            "zh": "嘛，大概就是这样，\n但是，你要是有兴致\n就来参战咧。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "140/SEL",
+            "narrator": "（選択肢）",
+            "text": "望むところだ！",
+            "zh": "正合我意！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "141/SEL",
+            "narrator": "（選択肢）",
+            "text": "遠慮します",
+            "zh": "不了谢谢",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "142/ACT",
+            "narrator": "",
+            "text": "望むところ",
+            "zh": "正合我意",
+            "narrator_zh": ""
+        },
+        {
+            "location": "143/TALK",
+            "narrator": "表層みやび",
+            "text": "ふむ。\n物好きなやつも\nいたものやね。",
+            "zh": "唔。\n还真有这种\n爱凑热闹的家伙咯。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "144/TALK",
+            "narrator": "潜在みやび",
+            "text": "それにしてもあれやね、\nノリノリなアンタに\n内心焦っちょるに――",
+            "zh": "不过话说回来咯，\n对干劲满满的你，\n心里肯定正慌着——",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "145/ACT",
+            "narrator": "",
+            "text": "遠慮します",
+            "zh": "不了谢谢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "151/DIALOG",
+            "narrator": "",
+            "text": "ゴキゲンポイントが\n<size=40><color=red><b>300pt.</b></color></size>\nアップしました！",
+            "zh": "心情点数\n<size=40><color=red><b>300pt.</b></color></size>\n增加了！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "155/TALK",
+            "narrator": "表層みやび",
+            "text": "ふむ。\nまともな人間やね。",
+            "zh": "唔。\n算是个正常人咯。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "156/TALK",
+            "narrator": "潜在みやび",
+            "text": "こんなワケワカらん\n乙女の戦争に、首を\n突っ込まんわけやしね。",
+            "zh": "毕竟不会一头扎进\n这种莫名其妙的\n少女战争里来啵。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "157/TALK",
+            "narrator": "表層みやび",
+            "text": "だがしかし！",
+            "zh": "然而但是！",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "158/TALK",
+            "narrator": "潜在みやび",
+            "text": "駄菓子菓子！",
+            "zh": "但是话梅！",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "159/TALK",
+            "narrator": "表層みやび",
+            "text": "アンタはすでに\n戦いの渦に巻き\n込まれているちや！",
+            "zh": "你早就\n被卷进战斗的\n漩涡里了滴！",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "160/TALK",
+            "narrator": "潜在みやび",
+            "text": "残念やけど、\n運命は変えられんきね。",
+            "zh": "虽然遗憾，\n但是命运改不了啵。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "161/SEL",
+            "narrator": "（選択肢）",
+            "text": "え！？！？",
+            "zh": "诶！？！？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "162/ACT",
+            "narrator": "",
+            "text": "え！？！？",
+            "zh": "诶！？！？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "164/TALK",
+            "narrator": "表層みやび",
+            "text": "要するに、\nうちらの戦闘への\n参加は――",
+            "zh": "总而言之，\n参加我们的\n战斗这件事——",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "165/TALK",
+            "narrator": "潜在みやび",
+            "text": "生まれついたときから\n決まっていた、アンタ\nの定めやったきね。",
+            "zh": "从你出生起\n就已经注定，是你的\n宿命啵。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "166/SEL",
+            "narrator": "（選択肢）",
+            "text": "出来レースかよ",
+            "zh": "敢情是内定局啊",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "167/ACT",
+            "narrator": "",
+            "text": "出来レースかよ",
+            "zh": "敢情是内定局啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "169/TALK",
+            "narrator": "表層みやび",
+            "text": "それにしても、\nそんな過酷な定めが\n降りかかっていても―",
+            "zh": "不过话说回来，\n就算这么残酷的宿命\n降临到头上—",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "171/TALK",
+            "narrator": "潜在みやび",
+            "text": "ハードボイルド決めて\n余裕かましてるうちは\n主演女優賞ものやね。",
+            "zh": "还能装得这么硬汉派、\n一派从容的我，\n简直堪称最佳女主角咯。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "172/TALK",
+            "narrator": "表層みやび",
+            "text": "あっ、それってつまり、\nあんたが頑固系みやび\nさんってことか！",
+            "zh": "啊，那岂不是说，\n你就是那个\n顽固系雅小姐咩！",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "173/TALK",
+            "narrator": "表層みやび",
+            "text": "てっきりうちやと\n思っちょったが！\nここへ来て新発見が！",
+            "zh": "我还一直以为\n是我呢！\n到这儿竟有新发现！",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "175/TALK",
+            "narrator": "潜在みやび",
+            "text": "えっ！\nあんたやったんか！\nうちもビックリや！",
+            "zh": "诶！\n原来是你咩！\n我也吓一跳！",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "176/SEL",
+            "narrator": "（選択肢）",
+            "text": "もういいからバトルしませんか？",
+            "zh": "差不多行了，能开始战斗了吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "177/ACT",
+            "narrator": "",
+            "text": "もういいからバトルしませんか？",
+            "zh": "差不多行了，能开始战斗了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "179/TALK",
+            "narrator": "潜在みやび",
+            "text": "うむ。\nいいツッコミやね。",
+            "zh": "嗯。\n吐槽得好咯。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "180/TALK",
+            "narrator": "表層みやび",
+            "text": "このままいつまで\nボケ倒し続けるのか\nひやひやしてたぞね。",
+            "zh": "我还捏着把汗，\n不知这傻要装到\n几时才收场咧。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "181/TALK",
+            "narrator": "潜在みやび",
+            "text": "ほいたら一丁\n本気でやり合いますか。",
+            "zh": "那就来一局，\n认真干一场咩。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "182/TALK",
+            "narrator": "表層みやび",
+            "text": "うちかアンタ、\nどっちかは内心\nビビっちょるがよな。",
+            "zh": "我和你，\n总有一个心里\n正发怵咯。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "183/TALK",
+            "narrator": "潜在みやび",
+            "text": "うむ。\n自分でもどっちなのか\n全くわからんぞね。",
+            "zh": "嗯。\n连我自己都完全\n分不清是哪边咧。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "184/TALK",
+            "narrator": "表層みやび",
+            "text": "さあ、覚悟を決めて\n行くちや！",
+            "zh": "来，做好觉悟\n上滴！",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "185/TALK",
+            "narrator": "潜在みやび",
+            "text": "行くぞね！！",
+            "zh": "上咧！！",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "197/DIALOG",
+            "narrator": "",
+            "text": "<color=black><size=50><b>貴方を混乱させる\nみやび達を駆逐せよ！</b></size></color>\n\n\n\n貴方のことを不要だと言い、\n混乱させつつも排斥しようとするみやび。\n\nしかしそれは、本人すらも良く解っていない\n己の混乱故に出来上がった世界なのだ。\n\n自身がみやびのココロスフィアにいられるように、\nそしてみやびのココロの安定のために、\nこの戦いをくぐり抜けよう。",
+            "zh": "<color=black><size=50><b>驱逐让你陷入混乱的\n雅们吧！</b></size></color>\n\n\n\n嘴上说着不需要你，\n一边让你晕头转向一边又试图排斥你的雅。\n\n然而，那是连她自己都没太搞明白，\n因自身的混乱而构筑出的世界。\n\n为了让自己能留在雅的心灵领域，\n也为了雅内心的安定，\n闯过这场战斗吧。",
+            "narrator_zh": ""
+        }
+    ]
+}

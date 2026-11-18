@@ -1,0 +1,560 @@
+{
+    "dir": "chap00/battle/btev_sc_05_00_02.js",
+    "type": "",
+    "info": {
+        "story_id": "55",
+        "cid": "",
+        "title": "【EXストーリー】粛清の刃",
+        "sub_title": "シンクロストーリー",
+        "title_zh": "【EX剧情】肃清之刃",
+        "sub_title_zh": "同步剧情"
+    },
+    "entry": [
+        {
+            "location": "183/SCENARIO",
+            "narrator": "",
+            "text": "【結果】ヒストンシャペロン",
+            "zh": "【结果】组蛋白伴侣",
+            "narrator_zh": ""
+        },
+        {
+            "location": "199/TALK",
+            "narrator": "アーヤ",
+            "text": "お疲れさま。\n大変だったでしょう。\n疲れてない？",
+            "zh": "辛苦你了。\n刚刚一定很不容易吧。\n没累着吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "200/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$さんが\n頑張ってくれたお陰で\n『コネクト』は完了。",
+            "zh": "多亏了$handle$\n的努力，\n『连接』完成了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "201/TALK",
+            "narrator": "アーヤ",
+            "text": "シャペロンの\nココロの中の\n抵抗は消えたわ。",
+            "zh": "沙佩隆\n心中的抵抗\n已经消失了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "202/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$さんと\n繋がる準備ができた、\nってことね。",
+            "zh": "也就是说，已经做好了\n与$handle$相连的\n准备呢。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "203/SEL",
+            "narrator": "（選択肢）",
+            "text": "次は『シンクロ』だよね",
+            "zh": "接下来就是『同步』对吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "204/ACT",
+            "narrator": "",
+            "text": "次は『シンクロ』だよね",
+            "zh": "接下来就是『同步』对吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "206/TALK",
+            "narrator": "アーヤ",
+            "text": "はい。\nよくできました。",
+            "zh": "是的。\n答得很好。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "207/TALK",
+            "narrator": "アーヤ",
+            "text": "シンクロをすると、\nシャペロンの想いが\n流れ込むわ。",
+            "zh": "进行同步之后，\n沙佩隆的心念就会\n涌进来哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "208/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$さんは、\nそれを受けとめて\nあげてほしい。",
+            "zh": "$handle$，\n我希望你能\n接住它。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "209/TALK",
+            "narrator": "アーヤ",
+            "text": "準備はいい？",
+            "zh": "准备好了吗？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "210/SEL",
+            "narrator": "（選択肢）",
+            "text": "はい",
+            "zh": "是",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "211/SEL",
+            "narrator": "（選択肢）",
+            "text": "いいえ",
+            "zh": "否",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "212/ACT",
+            "narrator": "",
+            "text": "はい",
+            "zh": "是",
+            "narrator_zh": ""
+        },
+        {
+            "location": "213/TALK",
+            "narrator": "アーヤ",
+            "text": "じゃあココロを\n繋げるわね。",
+            "zh": "那就把心\n连接起来吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "214/ACT",
+            "narrator": "",
+            "text": "いいえ",
+            "zh": "否",
+            "narrator_zh": ""
+        },
+        {
+            "location": "216/TALK",
+            "narrator": "アーヤ",
+            "text": "え！？\nここまで来て？",
+            "zh": "诶！？\n都走到这一步了？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "217/TALK",
+            "narrator": "アーヤ",
+            "text": "でも$handle$さんの\n心の準備も\nいるものね。",
+            "zh": "不过，确实也还需要\n做好心理准备呀，\n$handle$。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "218/TALK",
+            "narrator": "アーヤ",
+            "text": "準備ができたら\nいつでも来て。\nじゃ、バイバイ。",
+            "zh": "准备好了的话\n随时过来。\n那，拜拜。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "226/TALK",
+            "narrator": "アーヤ",
+            "text": "EXEC_SYNC_SPHERE/.",
+            "zh": "EXEC_SYNC_SPHERE/.",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "239/DIALOG",
+            "narrator": "",
+            "text": "国を創るのが政治家なら\n国を潰すのもまた政治家――",
+            "zh": "若说缔造国家的是政治家，\n那么毁掉国家的也同样是政治家——",
+            "narrator_zh": ""
+        },
+        {
+            "location": "246/DIALOG",
+            "narrator": "",
+            "text": "クランイラスト先読み",
+            "zh": "库兰插画预加载",
+            "narrator_zh": ""
+        },
+        {
+            "location": "257/DIALOG",
+            "narrator": "",
+            "text": "武島ちづる（発症当時３４歳）石川県金沢市で生を受ける。独身。\n\n正義感が強く、一流大の法学部を卒業後国政にかかわるため上京。その学歴を買われて当時非常に影響力の強かった一人の代議士に秘書として迎えられる。",
+            "zh": "武岛千鹤（发症时34岁）生于石川县金泽市。未婚。\n\n她正义感极强，从一流大学法学部毕业后为投身国政而来到东京。凭借优秀学历，她被当时极具影响力的一位议员延揽为秘书。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "258/DIALOG",
+            "narrator": "",
+            "text": "代議士はちづるの信念と正義に共感し、徐々に彼女を認めていく。そして最終的には、国際政治に関する極秘事項をも共有するほどの信頼関係になっていた。",
+            "zh": "议员十分认同千鹤的信念与正义感，逐渐赏识并接纳了她。最终，两人的信赖关系已深厚到连涉及国际政治的绝密事项都会向她共享。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "259/DIALOG",
+            "narrator": "",
+            "text": "そんな彼女の華々しい人生も、非常に短い期間で終焉を迎えることとなる。彼女の代議士を良しとしないグローバリストたちによって、彼は亡き者にされたのである。急性心不全ということで片付けられた彼の死。そこに疑問を持ったちづるは、自らの全時間を捧げ、その真実に立ち向かった。",
+            "zh": "然而她那光鲜亮丽的人生，却在极短的时间内迎来了终局。对那位议员心怀不满的全球主义者们，暗中将他除掉了。他的死被草草定性为急性心力衰竭。对此抱有怀疑的千鹤，倾尽自己全部的时间，追查起了事件真相。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "260/DIALOG",
+            "narrator": "",
+            "text": "長きにわたる追求の末に、ちづるは代議士の死の真実とその裏付けを得ることに成功。それらの情報を世間にリークし、現与党とグローバリストの陰謀を赤裸々にすべく、行動に出る。だが、彼女は一歩、彼らより出遅れた。そしてちづるもまた、謂われのない汚職疑惑の罠にはまってしまうのである。",
+            "zh": "经过漫长的追查，千鹤成功掌握了议员之死的真相及其佐证。为了将这些情报公之于众、揭露现任执政党与全球主义者的阴谋，她采取了行动。然而，她还是比对方慢了一步。千鹤自己也落入了莫须有的受贿嫌疑陷阱之中。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "265/DIALOG",
+            "narrator": "",
+            "text": "謂われもない献金疑惑で逮捕されるちづる。このままでは日本が終わってしまう。自らはどうなってもよい、何としてもこの事を国民に伝えなければ。その想いが彼女を発症させた。",
+            "zh": "千鹤因莫须有的政治献金嫌疑遭到逮捕。再这样下去日本就完了。自己会怎样都无所谓，无论如何都必须把这件事告诉国民。这份念头促使她发症了。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "270/DIALOG",
+            "narrator": "",
+            "text": "ちづるの描いたシナリオは、発症した地・永田町に巨大な隕石を降らせるというものである。この国の腐敗しきった政治をリセットし、またゼロから始めるために。",
+            "zh": "千鹤所构想的剧本，是让巨大的陨石坠落到她发症之地——永田町。为了将这个国家腐败透顶的政治彻底重置，一切从零开始。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "271/DIALOG",
+            "narrator": "",
+            "text": "同時にそれは、この誠実そうなこの国の、どこまでもどす黒い真の姿を垣間見た彼女の悲痛な心の叫びを体現したものなのかもしれない。",
+            "zh": "或许那也是她窥见这个表面诚挚的国家背后那漆黑丑恶的真面目后，发自悲痛内心的呐喊的具现化吧。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "288/TALK",
+            "narrator": "アーヤ",
+            "text": "シャペロンの\n過去を知って\nどう思った？",
+            "zh": "知道了沙佩隆的\n过去之后，\n你有什么想法？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "289/SEL",
+            "narrator": "（選択肢）",
+            "text": "才女の末路？",
+            "zh": "才女的末路吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "290/SEL",
+            "narrator": "（選択肢）",
+            "text": "腐敗政治に鉄槌を！",
+            "zh": "向腐败政治挥下铁锤！",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "291/SEL",
+            "narrator": "（選択肢）",
+            "text": "永田町には鬼が住むって本当なんだ",
+            "zh": "永田町里住着恶鬼，看来是真的啊",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "292/ACT",
+            "narrator": "",
+            "text": "才女の末路？",
+            "zh": "才女的末路吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "293/TALK",
+            "narrator": "アーヤ",
+            "text": "シャペロンが\n男性だったら\n違う道があった？",
+            "zh": "如果沙佩隆\n是个男人的话，\n是不是会有另一条路？",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "294/TALK",
+            "narrator": "アーヤ",
+            "text": "そんなことは\n本人にも\nわからないと思うわ。",
+            "zh": "这种事，\n我想连她自己也\n不会知道吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "295/TALK",
+            "narrator": "アーヤ",
+            "text": "私にわかるのは\nシャペロンの正義が\n叶わなかった悔しさだけ。",
+            "zh": "我所明白的，\n只有沙佩隆的正义\n未能伸张的那份不甘。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "296/ACT",
+            "narrator": "",
+            "text": "腐敗政治に鉄槌を！",
+            "zh": "向腐败政治挥下铁锤！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "297/TALK",
+            "narrator": "アーヤ",
+            "text": "勇ましいわね。",
+            "zh": "真够勇武的。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "298/TALK",
+            "narrator": "アーヤ",
+            "text": "政治に関わるかどうかに\n関係なく、みんなが\nそう考えていたなら。",
+            "zh": "不论是否投身政治，\n要是大家都能\n这样去想的话，",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "299/TALK",
+            "narrator": "アーヤ",
+            "text": "こんな悲劇も\n起こらなかった\nでしょうね。",
+            "zh": "这样的悲剧\n也就不会\n发生了吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "300/ACT",
+            "narrator": "",
+            "text": "永田町には鬼が住むって本当なんだ",
+            "zh": "永田町里住着恶鬼，看来是真的啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "301/TALK",
+            "narrator": "アーヤ",
+            "text": "そうね。\nその通り。",
+            "zh": "是啊。\n正如你所说。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "302/TALK",
+            "narrator": "アーヤ",
+            "text": "鬼が何を指すかは\nあえて\n聞かないでおくわ。",
+            "zh": "至于这恶鬼指的是什么，\n我还是特意\n别去问了吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "305/TALK",
+            "narrator": "アーヤ",
+            "text": "そして私は……。",
+            "zh": "而我呢……。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "306/TALK",
+            "narrator": "アーヤ",
+            "text": "シャペロンほどの\n勇気はないかも\nしれない。",
+            "zh": "或许并没有像沙佩隆\n那样的\n勇气。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "307/TALK",
+            "narrator": "アーヤ",
+            "text": "シャペロンほど全力で\n人生を生きていない\nかもしれない。",
+            "zh": "或许也没有像沙佩隆\n那样全力以赴地\n活过人生。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "308/TALK",
+            "narrator": "アーヤ",
+            "text": "それでも。",
+            "zh": "即便如此。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "309/TALK",
+            "narrator": "アーヤ",
+            "text": "できるだけ全力で\n生きていきたい。",
+            "zh": "我还是想尽可能\n全力活下去。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "310/TALK",
+            "narrator": "アーヤ",
+            "text": "自分の正義を\n貫きたい。",
+            "zh": "想要贯彻\n自己的正义。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "311/TALK",
+            "narrator": "アーヤ",
+            "text": "そういう思いに\n共感したの。",
+            "zh": "我就是对这份心意\n产生了共鸣。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "312/SEL",
+            "narrator": "（選択肢）",
+            "text": "よくわからないな…",
+            "zh": "不太懂啊……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "313/SEL",
+            "narrator": "（選択肢）",
+            "text": "正義とは、強者の利益にほかならず",
+            "zh": "正义，无非就是强者的利益",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "314/SEL",
+            "narrator": "（選択肢）",
+            "text": "正しいことを正しいと言っていこう",
+            "zh": "把对的事情说成对的吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "315/ACT",
+            "narrator": "",
+            "text": "よくわからないな…",
+            "zh": "不太懂啊……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "316/TALK",
+            "narrator": "アーヤ",
+            "text": "考えは\n人それぞれ\nだものね。",
+            "zh": "想法这种东西，\n本就是\n因人而异的嘛。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "317/ACT",
+            "narrator": "",
+            "text": "正義とは、強者の利益にほかならず",
+            "zh": "正义，无非就是强者的利益",
+            "narrator_zh": ""
+        },
+        {
+            "location": "318/TALK",
+            "narrator": "アーヤ",
+            "text": "力だけではダメよね。\n理想論だけでも、\n自分のことばかりでも。",
+            "zh": "光靠力量是不行的。\n光讲理想论、\n或者只顾自己也不行。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "319/ACT",
+            "narrator": "",
+            "text": "正しいことを正しいと言っていこう",
+            "zh": "把对的事情说成对的吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "320/TALK",
+            "narrator": "アーヤ",
+            "text": "事なかれ主義で\n生きていきたくは\nないわ。",
+            "zh": "我也不想抱着\n息事宁人的态度\n活下去哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "323/TALK",
+            "narrator": "アーヤ",
+            "text": "シャペロンも\n私に好意を\n持ってくれてるはず。",
+            "zh": "沙佩隆应该也对\n我抱有\n好感吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "324/TALK",
+            "narrator": "アーヤ",
+            "text": "私を見ていると\n若い頃のことを\n思い出すらしいし。",
+            "zh": "看着我的时候，\n她好像会想起\n自己年轻时候的事。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "325/TALK",
+            "narrator": "アーヤ",
+            "text": "だから私、\n彼女の期待に\n応えたいと思ってる。",
+            "zh": "所以我呢，\n想要回应她的\n那份期待。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "326/TALK",
+            "narrator": "アーヤ",
+            "text": "彼女が私を\nフォローして\nくれてるみたいに。",
+            "zh": "就像她也一直在\n照应着我\n一样。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "327/TALK",
+            "narrator": "アーヤ",
+            "text": "…ところでね。",
+            "zh": "……话说回来。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "328/TALK",
+            "narrator": "アーヤ",
+            "text": "彼女は普段\nとっても無口なの。",
+            "zh": "她平时可是个\n非常沉默寡言的人。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "329/TALK",
+            "narrator": "アーヤ",
+            "text": "それから力も\nとても強いから\nちょっと怖がられてる。",
+            "zh": "而且力量又\n非常强，所以大家\n还有点怕她。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "330/TALK",
+            "narrator": "アーヤ",
+            "text": "でも$handle$さんも\n知ってるとおり\n本当は強くて優しいの。",
+            "zh": "不过就像$handle$\n也已经知道的那样，\n她其实既坚强又温柔。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "331/TALK",
+            "narrator": "アーヤ",
+            "text": "そんなところも\nちょっと格好いいと\n思うのよ。",
+            "zh": "我觉得她那样，\n还挺帅气的\n哦。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "333/TALK",
+            "narrator": "アーヤ",
+            "text": "だから末永く\n仲良くしてあげてね。",
+            "zh": "所以今后也要长长久久地\n和她好好相处吧。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "334/SEL",
+            "narrator": "（選択肢）",
+            "text": "大丈夫、心配しないで",
+            "zh": "放心吧，不用担心",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "335/SEL",
+            "narrator": "（選択肢）",
+            "text": "他の子に目移りするかも",
+            "zh": "说不定我会移情别恋看上别的孩子哦",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "336/ACT",
+            "narrator": "",
+            "text": "大丈夫、心配しないで",
+            "zh": "放心吧，不用担心",
+            "narrator_zh": ""
+        },
+        {
+            "location": "338/TALK",
+            "narrator": "アーヤ",
+            "text": "$handle$さんなら\n大丈夫よね。",
+            "zh": "如果是$handle$的话，\n肯定没问题了。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "339/ACT",
+            "narrator": "",
+            "text": "他の子に目移りするかも",
+            "zh": "说不定我会移情别恋看上别的孩子哦",
+            "narrator_zh": ""
+        },
+        {
+            "location": "341/TALK",
+            "narrator": "アーヤ",
+            "text": "そんな言い方…。\n彼女じゃないん\nだから。",
+            "zh": "怎么这么说话……。\n她又不是\n你女朋友。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "343/TALK",
+            "narrator": "アーヤ",
+            "text": "もちろん他の\nクランが気になったら。",
+            "zh": "当然，如果对其他\n库兰感兴趣的话。",
+            "narrator_zh": "绫水"
+        },
+        {
+            "location": "344/TALK",
+            "narrator": "アーヤ",
+            "text": "私か他の誰かが\nナビをするはず。\nその時はよろしくね。",
+            "zh": "应该会由我或者其他人\n来为你导航。\n到时候还请多关照了。",
+            "narrator_zh": "绫水"
+        }
+    ]
+}

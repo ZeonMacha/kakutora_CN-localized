@@ -1,0 +1,770 @@
+{
+    "dir": "chap00/battle/btev_sc_16_00_01.js",
+    "type": "",
+    "info": {
+        "story_id": "166",
+        "cid": "",
+        "title": "【EXストーリー】薔薇の魔術師",
+        "sub_title": "コネクトストーリー",
+        "title_zh": "【EX剧情】蔷薇的魔术师",
+        "sub_title_zh": "连结剧情"
+    },
+    "entry": [
+        {
+            "location": "706/SCENARIO",
+            "narrator": "",
+            "text": "【導入】ラピスラズリ（ラピスちゃん）",
+            "zh": "【导入】青金石（拉碧丝）",
+            "narrator_zh": ""
+        },
+        {
+            "location": "712/DIALOG",
+            "narrator": "",
+            "text": "<size=40>CURAN STORY. 01</size>\nKAGURA UZUKI\n\n<size=45>ラピスラズリ</size>\n<size=35>～セカイにはアイが必要でしょ？～</size>",
+            "zh": "<size=40>CURAN STORY. 01</size>\nKAGURA UZUKI\n\n<size=45>青金石</size>\n<size=35>～世界可少不了爱对吧？～</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "728/TALK",
+            "narrator": "神楽",
+            "text": "お帰りなさい、\n$handle$さま。",
+            "zh": "欢迎回来，\n$handle$大人。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "729/TALK",
+            "narrator": "神楽",
+            "text": "ここは、私たち\nトライナリーと、\nクランたちとの交差点。",
+            "zh": "这里是，我们\n三重奏与\n库兰们的交汇点。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "730/TALK",
+            "narrator": "神楽",
+            "text": "ココロとココロが\n出逢い、共鳴し、\nそして繋がりあう場所。",
+            "zh": "心与心\n相遇、共鸣，\n并最终连结到一起的地方。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "738/SEL",
+            "narrator": "（選択肢）",
+            "text": "概要説明を飛ばす",
+            "zh": "跳过概要说明",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "739/SEL",
+            "narrator": "（選択肢）",
+            "text": "もう一度聞く",
+            "zh": "再听一遍",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "740/ACT",
+            "narrator": "",
+            "text": "概要説明を飛ばす",
+            "zh": "跳过概要说明",
+            "narrator_zh": ""
+        },
+        {
+            "location": "741/TALK",
+            "narrator": "神楽",
+            "text": "というわけで、\n早速今回のクランを\n紹介しますね。",
+            "zh": "那么，\n这就马上介绍\n这次的库兰哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "743/ACT",
+            "narrator": "",
+            "text": "もう一度聞く",
+            "zh": "再听一遍",
+            "narrator_zh": ""
+        },
+        {
+            "location": "748/TALK",
+            "narrator": "神楽",
+            "text": "ここでは、普段私たちを\n助けてくれるサーバント\nクランを紹介いたします。",
+            "zh": "在这里，我将为你介绍\n平时帮助我们的\n从属库兰。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "749/TALK",
+            "narrator": "神楽",
+            "text": "そして、貴方が直接\n彼女たちと繋がれるよう、\n手続きをいたします。",
+            "zh": "同时，也会为你办理\n能直接与她们相连的\n手续。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "750/SEL",
+            "narrator": "（選択肢）",
+            "text": "ちょっと待って",
+            "zh": "等一下",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "751/ACT",
+            "narrator": "",
+            "text": "ちょっと待って",
+            "zh": "等一下",
+            "narrator_zh": ""
+        },
+        {
+            "location": "753/TALK",
+            "narrator": "神楽",
+            "text": "どうか\nなさいましたか。",
+            "zh": "请问\n怎么了吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "754/SEL",
+            "narrator": "（選択肢）",
+            "text": "お帰りなさいって？",
+            "zh": "“欢迎回来”是什么意思？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "755/SEL",
+            "narrator": "（選択肢）",
+            "text": "来たことないんだけど、ここ",
+            "zh": "我可没来过这儿啊",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "756/SEL",
+            "narrator": "（選択肢）",
+            "text": "どういう設定なの？",
+            "zh": "这算什么设定啊？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "757/ACT",
+            "narrator": "",
+            "text": "お帰りなさいって？",
+            "zh": "“欢迎回来”是什么意思？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "758/TALK",
+            "narrator": "神楽",
+            "text": "挨拶ですが、\nどうかなさいましたか？",
+            "zh": "只是打招呼罢了，\n请问有什么不妥吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "759/ACT",
+            "narrator": "",
+            "text": "来たことないんだけど、ここ",
+            "zh": "我可没来过这儿啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "760/TALK",
+            "narrator": "神楽",
+            "text": "まさか\n憶えてらっしゃらない？",
+            "zh": "莫非你\n已经不记得了吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "761/ACT",
+            "narrator": "",
+            "text": "どういう設定なの？",
+            "zh": "这算什么设定啊？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "762/TALK",
+            "narrator": "神楽",
+            "text": "設定とは\n不思議なことを\nおっしゃいますね。",
+            "zh": "设定什么的，\n你这话\n说得真奇怪呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "764/TALK",
+            "narrator": "神楽",
+            "text": "ここで私が\n$handle$さまに\n伝えたいことは。",
+            "zh": "此时此地我\n想对$handle$大人\n传达的是。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "765/TALK",
+            "narrator": "神楽",
+            "text": "クランとの【儀式】\nによって、貴方とココロを\n繋げられるということ。",
+            "zh": "通过与库兰的【仪式】，\n能够将你的心与她们\n连系到一起这件事。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "766/TALK",
+            "narrator": "神楽",
+            "text": "ここまでは\nご理解いただけ\nましたか？",
+            "zh": "讲到这里，\n不知你是否\n理解了呢？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "767/SEL",
+            "narrator": "（選択肢）",
+            "text": "それはわかったけど",
+            "zh": "那倒是懂了不过",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "768/SEL",
+            "narrator": "（選択肢）",
+            "text": "いや、そうじゃなくて",
+            "zh": "不，我不是那个意思",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "769/SEL",
+            "narrator": "（選択肢）",
+            "text": "もういいやそれで",
+            "zh": "算了就这样吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "770/ACT",
+            "narrator": "",
+            "text": "それはわかったけど",
+            "zh": "那倒是懂了不过",
+            "narrator_zh": ""
+        },
+        {
+            "location": "771/TALK",
+            "narrator": "神楽",
+            "text": "ならば何も\n問題はございませんね。",
+            "zh": "既然如此，那就\n没有任何问题了呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "772/ACT",
+            "narrator": "",
+            "text": "いや、そうじゃなくて",
+            "zh": "不，我不是那个意思",
+            "narrator_zh": ""
+        },
+        {
+            "location": "773/TALK",
+            "narrator": "神楽",
+            "text": "何が違うのか\nわかりかねます。",
+            "zh": "不太明白你说的\n究竟哪里不一样呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "774/ACT",
+            "narrator": "",
+            "text": "もういいやそれで",
+            "zh": "算了就这样吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "775/TALK",
+            "narrator": "神楽",
+            "text": "ご理解いただき\n感謝いたします。",
+            "zh": "非常感谢你的\n理解。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "778/TALK",
+            "narrator": "神楽",
+            "text": "ではお話を\n続けるとしましょう。",
+            "zh": "那么我们就\n继续往下讲吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "779/TALK",
+            "narrator": "神楽",
+            "text": "【儀式】には『コネクト』\nと『シンクロ』の２つが\nございます。",
+            "zh": "【仪式】分为『连结』\n和『同步』\n这两种。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "780/TALK",
+            "narrator": "神楽",
+            "text": "『コネクト』は、貴方と\nクランが物理的に繋がる\nための儀式となります。",
+            "zh": "『连结』是为了让你与\n库兰在物理层面上\n连系在一起的仪式。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "781/TALK",
+            "narrator": "神楽",
+            "text": "バトルをして彼女と貴方の\n中にある抵抗勢力を\n無力できれば完了です。",
+            "zh": "只要通过战斗，将她与\n你之间的抵抗势力\n无效化就算完成了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "782/TALK",
+            "narrator": "神楽",
+            "text": "次の『シンクロ』では、\nクランの過去を知り、\n共感していただきます。",
+            "zh": "在接下来的『同步』中，\n你需要去了解库兰的\n过去，并与之共鸣。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "783/TALK",
+            "narrator": "神楽",
+            "text": "クランの過去の\n物語をシェアすることで\n心を通わせるものです。",
+            "zh": "这是通过分享库兰\n过去的故事，来让彼此\n心意相通的步骤。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "785/TALK",
+            "narrator": "神楽",
+            "text": "ここまで、\nご理解いただけ\nましたでしょうか？",
+            "zh": "讲到这里，\n不知你是否\n已经明白了呢？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "786/TALK",
+            "narrator": "神楽",
+            "text": "もし、入るセクターを\n間違えたという場合\n退場も可能ですが。",
+            "zh": "如果说是进错了\n扇区的话，\n现在也可以退场哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "787/SEL",
+            "narrator": "（選択肢）",
+            "text": "大丈夫、次に行って",
+            "zh": "没事，往下走吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "788/SEL",
+            "narrator": "（選択肢）",
+            "text": "あ、退場する",
+            "zh": "啊，那我退场",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "789/SEL",
+            "narrator": "（選択肢）",
+            "text": "えーと、メイドなの？",
+            "zh": "那个，你是女仆吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "790/ACT",
+            "narrator": "",
+            "text": "大丈夫、次に行って",
+            "zh": "没事，往下走吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "791/TALK",
+            "narrator": "神楽",
+            "text": "承知いたしました。\nそれでは早速、今回の\nクランを紹介いたします。",
+            "zh": "明白了。\n那么这就立刻为你\n介绍这次的库兰。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "792/ACT",
+            "narrator": "",
+            "text": "あ、退場する",
+            "zh": "啊，那我退场",
+            "narrator_zh": ""
+        },
+        {
+            "location": "793/TALK",
+            "narrator": "神楽",
+            "text": "残念ですがここで\nお別れですね。",
+            "zh": "虽然很遗憾，但我们\n就在这里道别吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "795/TALK",
+            "narrator": "神楽",
+            "text": "お戻りになる日を\n心待ちに\nしております。",
+            "zh": "我衷心期盼着\n你再次归来的\n那一天。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "796/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さまと\n私に、\n素敵なココロの旅を。",
+            "zh": "祝$handle$大人\n与我，\n有一场美好的心灵之旅。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "798/ACT",
+            "narrator": "",
+            "text": "えーと、メイドなの？",
+            "zh": "那个，你是女仆吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "799/TALK",
+            "narrator": "神楽",
+            "text": "え？",
+            "zh": "诶？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "801/TALK",
+            "narrator": "神楽",
+            "text": "改めて聞かれると\n困ってしまいますね。",
+            "zh": "被你这么一本正经地问，\n我也很难办呀。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "802/TALK",
+            "narrator": "神楽",
+            "text": "お好きに解釈\nしていただいて\n構いません。",
+            "zh": "你大可以按照\n自己喜欢的方式\n来理解哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "803/TALK",
+            "narrator": "神楽",
+            "text": "それでは今回の\nクランを紹介\nいたしますね。",
+            "zh": "那么，下面为你\n介绍这次的\n库兰哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "812/TALK",
+            "narrator": "神楽",
+            "text": "オープンプロセス、\n0x486番地から\n0xFFF番地へ。",
+            "zh": "开放进程，\n从0x486号地址\n前往0xFFF号地址。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "813/TALK",
+            "narrator": "神楽",
+            "text": "共通意識野を経由、\n外部スフィアへ接続。",
+            "zh": "经由共通意识野，\n连接外部领域。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "814/TALK",
+            "narrator": "神楽",
+            "text": "EXEC_SEEK_SECTOR\n=>Link() EXT_SPHERE/.",
+            "zh": "EXEC_SEEK_SECTOR\n=>Link() EXT_SPHERE/.",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "839/TALK",
+            "narrator": "神楽",
+            "text": "シーク完了\nいたしました。",
+            "zh": "搜索\n已经完成了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "840/TALK",
+            "narrator": "神楽",
+            "text": "さて――。",
+            "zh": "那么——。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "842/TALK",
+            "narrator": "神楽",
+            "text": "今回、貴方に\n紹介するクランは\n<color=red>【ラピスラズリ】</color>。",
+            "zh": "这次要为你\n介绍的库兰是\n<color=red>【青金石】</color>。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "844/TALK",
+            "narrator": "神楽",
+            "text": "発症者は\n亜城クラウスナー聡美\n１８歳、帰国子女。",
+            "zh": "发症者是\n亚城克劳斯纳聪美，\n18岁，归国子女。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "845/TALK",
+            "narrator": "神楽",
+            "text": "ココロファイルナンバー\nE05-016-22によれば、\n今回の発症の原因は……",
+            "zh": "根据心之档案编号\nE05-016-22，\n这次发症的原因是……",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "846/TALK",
+            "narrator": "神楽",
+            "text": "趣味が警察および\n親に発覚したこと。",
+            "zh": "爱好被警察\n以及父母发现了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "847/TALK",
+            "narrator": "神楽",
+            "text": "これだけだと意味不明\nですよね。",
+            "zh": "光这么说根本莫名其妙\n对吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "850/TALK",
+            "narrator": "神楽",
+            "text": "個人的にはプライベートを\nどうこう言う\n趣味はありませんが。",
+            "zh": "我个人倒并没有\n对别人的私生活指手画脚的\n习惯。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "851/TALK",
+            "narrator": "神楽",
+            "text": "世間の目を考えると\n発症するのは\n必然かと。",
+            "zh": "不过考虑到世人的眼光，\n会发症也是\n必然的结果吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "852/SEL",
+            "narrator": "（選択肢）",
+            "text": "$me$は気にしないけど",
+            "zh": "$me$倒是不介意",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "853/SEL",
+            "narrator": "（選択肢）",
+            "text": "何で神楽が仕切ってるの？",
+            "zh": "为什么是神乐来主持？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "854/ACT",
+            "narrator": "",
+            "text": "$me$は気にしないけど",
+            "zh": "$me$倒是不介意",
+            "narrator_zh": ""
+        },
+        {
+            "location": "855/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さまの\nような方ばかりなら\n平和なのですけどね。",
+            "zh": "要是世上全都是像\n$handle$大人这样的人，\n那就太平了呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "856/ACT",
+            "narrator": "",
+            "text": "何で神楽が仕切ってるの？",
+            "zh": "为什么是神乐来主持？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "857/TALK",
+            "narrator": "神楽",
+            "text": "通じるものが\nあったからと\n言っておきます。",
+            "zh": "就姑且说是因为\n彼此有心意相通之处\n好了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "858/TALK",
+            "narrator": "神楽",
+            "text": "甘美な喜びは\n創作活動の\n糧になりますから。",
+            "zh": "毕竟那份甜美的喜悦\n会化作创作活动的\n食粮嘛。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "859/SEL",
+            "narrator": "（選択肢）",
+            "text": "ま、まさか……",
+            "zh": "难、难道说……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "860/ACT",
+            "narrator": "",
+            "text": "ま、まさか……",
+            "zh": "难、难道说……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "862/TALK",
+            "narrator": "神楽",
+            "text": "どうか\nなさいましたか？",
+            "zh": "请问\n怎么了吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "863/SEL",
+            "narrator": "（選択肢）",
+            "text": "…いやなんでもない",
+            "zh": "……不，没什么",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "864/SEL",
+            "narrator": "（選択肢）",
+            "text": "聞いちゃダメな気がする",
+            "zh": "感觉还是别问为好",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "865/SEL",
+            "narrator": "（選択肢）",
+            "text": "詳しく聞きたいけど",
+            "zh": "虽然很想听个详细",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "866/ACT",
+            "narrator": "",
+            "text": "…いやなんでもない",
+            "zh": "……不，没什么",
+            "narrator_zh": ""
+        },
+        {
+            "location": "867/TALK",
+            "narrator": "神楽",
+            "text": "ならよいのですけれど。",
+            "zh": "那样的话就好。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "868/ACT",
+            "narrator": "",
+            "text": "聞いちゃダメな気がする",
+            "zh": "感觉还是别问为好",
+            "narrator_zh": ""
+        },
+        {
+            "location": "869/TALK",
+            "narrator": "神楽",
+            "text": "何でも聞いてくれて\nいいんですよ。",
+            "zh": "什么都可以问的\n哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "870/ACT",
+            "narrator": "",
+            "text": "詳しく聞きたいけど",
+            "zh": "虽然很想听个详细",
+            "narrator_zh": ""
+        },
+        {
+            "location": "871/TALK",
+            "narrator": "神楽",
+            "text": "では別の機会に\nじっくりと。",
+            "zh": "那就找个别的场合\n慢慢细说吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "874/TALK",
+            "narrator": "神楽",
+            "text": "このセクタでは、クランと\n一番相性がいい\nトライナリーが参ります。",
+            "zh": "在这个扇区里，会由和\n库兰最合得来的\n三重奏成员前来担任引导。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "875/TALK",
+            "narrator": "神楽",
+            "text": "つまり他のクランは\n他のメンバーが\n語るということですね。",
+            "zh": "也就是说其他的库兰\n会由其他成员\n来负责解说呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "876/TALK",
+            "narrator": "神楽",
+            "text": "それでは精神共有と\n参りましょうか。",
+            "zh": "那么，我们就进入\n精神共享的步骤吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "877/SEL",
+            "narrator": "（選択肢）",
+            "text": "どうやるの？",
+            "zh": "要怎么做呢？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "878/ACT",
+            "narrator": "",
+            "text": "どうやるの？",
+            "zh": "要怎么做呢？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "880/TALK",
+            "narrator": "神楽",
+            "text": "おさらいしましょうか。\nまずは『コネクト』の\nプロセスを行います。",
+            "zh": "我们再来复习一下吧。\n首先要进行\n『连结』的进程。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "881/TALK",
+            "narrator": "神楽",
+            "text": "具体的には、\n彼女の抵抗する意志と\n戦うのです。",
+            "zh": "具体来说，\n就是要和她抗拒的\n意志战斗。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "882/TALK",
+            "narrator": "神楽",
+            "text": "それが終われば、\n彼女は貴方に色々\n教えてくれるでしょう。",
+            "zh": "战斗结束之后，\n她应该就会告诉你\n各种各样的事了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "883/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さまが\nそれを共有すれば、\n『シンクロ』完了です。",
+            "zh": "$handle$大人只要\n将那份思念共享，\n『同步』就算完成了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "884/TALK",
+            "narrator": "神楽",
+            "text": "『コネクト』『シンクロ』\n両方完了することで、\n貴方と彼女は繋がれます。",
+            "zh": "『连结』与『同步』\n双方都完成之后，\n你和她就能连结在一起。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "885/SEL",
+            "narrator": "（選択肢）",
+            "text": "それでおしまい？",
+            "zh": "那样就结束了吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "886/ACT",
+            "narrator": "",
+            "text": "それでおしまい？",
+            "zh": "那样就结束了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "888/TALK",
+            "narrator": "神楽",
+            "text": "ここからが\n始まりですよ！",
+            "zh": "从这里开始\n才是重头戏哦！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "889/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さまは\nラピスちゃんを使える\nようになるんです！",
+            "zh": "$handle$大人就\n能驱使拉碧丝\n作战了哦！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "890/TALK",
+            "narrator": "神楽",
+            "text": "ですから、『シンクロ』\nまで完了できるように\n頑張ってください！",
+            "zh": "所以，为了能顺利完成\n到『同步』为止的流程，\n还请加油吧！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "891/TALK",
+            "narrator": "神楽",
+            "text": "あ。",
+            "zh": "啊。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "892/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さまには\n頑張っていただきたく\n思っております。",
+            "zh": "我也衷心希望\n$handle$大人能\n多多加油哦。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "893/TALK",
+            "narrator": "神楽",
+            "text": "それでは。\nラピスちゃんの世界に\nアクセスいたします。",
+            "zh": "那么，\n这就接入\n拉碧丝的世界了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "895/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さまと\n私とラピスちゃんに、\n素敵なココロの旅を！",
+            "zh": "祝$handle$大人、\n我与拉碧丝，\n有一场美好的心灵之旅！",
+            "narrator_zh": "神乐"
+        }
+    ]
+}

@@ -1,0 +1,567 @@
+{
+    "dir": "chap00/battle/btev_sc_11_00_01.js",
+    "type": "",
+    "info": {
+        "story_id": "116",
+        "cid": "",
+        "title": "【EXストーリー】渇求の魔女",
+        "sub_title": "コネクトストーリー",
+        "title_zh": "【EX剧情】渴求的魔女",
+        "sub_title_zh": "连结剧情"
+    },
+    "entry": [
+        {
+            "location": "353/SCENARIO",
+            "narrator": "",
+            "text": "【導入】クランネフェル",
+            "zh": "【导入】库兰妮菲尔",
+            "narrator_zh": ""
+        },
+        {
+            "location": "359/DIALOG",
+            "narrator": "",
+            "text": "<size=40>CURAN STORY. 01</size>\nMIYABI KOIGAASKI\n\n<size=45>クランネフェル</size>\n<size=35>～屋上の国のアリス～</size>",
+            "zh": "<size=40>CURAN STORY. 01</size>\nMIYABI KOIGAASKI\n\n<size=45>库兰妮菲尔</size>\n<size=35>～天台之国的爱丽丝～</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "375/TALK",
+            "narrator": "みやび",
+            "text": "ああ。\n来たかよ、\n$handle$。",
+            "zh": "啊。\n你来咯，\n$handle$。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "376/TALK",
+            "narrator": "みやび",
+            "text": "ここは、うちら\nトライナリーと、\nクランたちとの交差点。",
+            "zh": "这里是，我们\n三重奏与\n库兰们的交汇点。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "377/TALK",
+            "narrator": "みやび",
+            "text": "ココロとココロが\n出逢うて、共鳴して、\n繋がりあう場所ぞね。",
+            "zh": "心与心\n相遇、共鸣，\n相互连接的地方咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "378/TALK",
+            "narrator": "みやび",
+            "text": "ここでは、普段私たちを\n助けてくれるサーバント\nクランを紹介するきね。",
+            "zh": "在这里，要介绍平时\n帮着我们的\n从属库兰啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "379/TALK",
+            "narrator": "みやび",
+            "text": "ほんで、貴方が直接\n彼女らぁと繋がれる\nよう、手続きしちゅうき。",
+            "zh": "然后，为了让你能直接\n和她们连接上，\n我这儿在办着手续啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "380/SEL",
+            "narrator": "（選択肢）",
+            "text": "アニメのクランが使えるようになるの？",
+            "zh": "动画里的库兰也能用了吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "381/ACT",
+            "narrator": "",
+            "text": "アニメのクランが使えるようになるの？",
+            "zh": "动画里的库兰也能用了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "383/TALK",
+            "narrator": "みやび",
+            "text": "やねえ。\n簡単に言えば、\nやけんど。",
+            "zh": "是咯。\n简单来讲就是这样，\n但是呢。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "384/TALK",
+            "narrator": "みやび",
+            "text": "このセクターでは、\nクラン一人にスポットを\n当てて紹介するきね。",
+            "zh": "在这个区域里，\n会重点聚焦介绍\n一位库兰啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "385/TALK",
+            "narrator": "みやび",
+            "text": "ほんで彼女との【儀式】\nによって、貴方とココロを\n繋げちゃろう。",
+            "zh": "然后通过和她的【仪式】，\n把你和她的心\n给你连上咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "386/TALK",
+            "narrator": "みやび",
+            "text": "【儀式】には『コネクト』\nと『シンクロ』の２つが\nあるぞね。",
+            "zh": "【仪式】有『连接』\n和『同步』\n这两种咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "387/TALK",
+            "narrator": "みやび",
+            "text": "『コネクト』は、貴方と\nクランが物理的に繋がる\nための儀式。",
+            "zh": "『连接』，是让你和\n库兰在物理层面上\n连在一起的仪式。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "388/TALK",
+            "narrator": "みやび",
+            "text": "バトルして彼女と貴方の中に\nある、抵抗勢力を無力化\nするのに必要ぞね。",
+            "zh": "用来通过战斗，\n把她和你体内的\n抵抗势力给无效化咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "389/TALK",
+            "narrator": "みやび",
+            "text": "次の『シンクロ』では、\nクランの過去を知り、\n共感せんといかんねえ。",
+            "zh": "接下来的『同步』，\n就得去了解库兰的过去，\n还得去共情咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "390/TALK",
+            "narrator": "みやび",
+            "text": "クランの過去の\n物語をシェアすることで、\n心が通じるようになるき。",
+            "zh": "把库兰过去的\n故事分享出来，\n心意就会相通啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "391/TALK",
+            "narrator": "みやび",
+            "text": "ここまで、\nわかりゆう？",
+            "zh": "讲到这里，\n听懂了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "392/TALK",
+            "narrator": "みやび",
+            "text": "もし、入るセクターを\n間違えたんやったら\n退場できるけんど。",
+            "zh": "要是进错了\n区域的话，\n现在也能退场，但是呢。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "393/SEL",
+            "narrator": "（選択肢）",
+            "text": "いや、先に進む",
+            "zh": "不，继续吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "394/SEL",
+            "narrator": "（選択肢）",
+            "text": "今回はやめとく",
+            "zh": "这次先算了",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "395/SEL",
+            "narrator": "（選択肢）",
+            "text": "みやびは別人格ないの？",
+            "zh": "雅你没有别的人格吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "396/ACT",
+            "narrator": "",
+            "text": "いや、先に進む",
+            "zh": "不，继续吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "397/TALK",
+            "narrator": "みやび",
+            "text": "ええかね？\nほいたら早速、今回の\nクランを紹介するきね。",
+            "zh": "行了咩？\n那就事不宜迟，来介绍\n这次的库兰啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "398/ACT",
+            "narrator": "",
+            "text": "今回はやめとく",
+            "zh": "这次先算了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "399/TALK",
+            "narrator": "みやび",
+            "text": "ほう\nそうかよ。",
+            "zh": "哦，\n这样咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "400/TALK",
+            "narrator": "みやび",
+            "text": "そういたら、ここで\nさようならやねえ。",
+            "zh": "那这样的话，就在这儿\n道别咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "402/TALK",
+            "narrator": "みやび",
+            "text": "また気が向いたら\n来たらええき。",
+            "zh": "等哪天又想来了，\n过来就得啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "403/TALK",
+            "narrator": "みやび",
+            "text": "$handle$と\nうちに、\n素敵なココロの旅を。",
+            "zh": "祝$handle$和\n我，\n有一场美好的心灵之旅。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "405/ACT",
+            "narrator": "",
+            "text": "みやびは別人格ないの？",
+            "zh": "雅你没有别的人格吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "406/TALK",
+            "narrator": "みやび",
+            "text": "何を言い出すか\n思うたら。",
+            "zh": "还以为你要\n讲驷马话呢。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "408/TALK",
+            "narrator": "みやび",
+            "text": "そういうのは\nゲームの世界観を\n崩すきねえ。",
+            "zh": "那种说法\n会破坏游戏的\n世界观嘛。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "409/TALK",
+            "narrator": "みやび",
+            "text": "そもそもうちは\n裏も表もない\n真っ正直な人間やき。",
+            "zh": "说到底我可是\n表里如一、\n坦坦荡荡的人啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "410/TALK",
+            "narrator": "みやび",
+            "text": "あえてのキャラ作りは\n必要ない思うちや。",
+            "zh": "我觉得没得必要\n故意立人设滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "411/TALK",
+            "narrator": "みやび",
+            "text": "そういうことで\nええかね？",
+            "zh": "就这么理解\n行了咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "412/TALK",
+            "narrator": "みやび",
+            "text": "そういうことで今回の\nクランを紹介するきね。",
+            "zh": "那就这么着，来介绍\n这次的库兰啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "420/TALK",
+            "narrator": "みやび",
+            "text": "オープンプロセス、\n0x191番地から\n0xFFF番地へ。",
+            "zh": "开放进程，\n从0x191地址\n到0xFFF地址。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "421/TALK",
+            "narrator": "みやび",
+            "text": "共通意識野を経由、\n外部スフィアへ接続。",
+            "zh": "经由共通意识野，\n连接至外部领域。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "422/TALK",
+            "narrator": "みやび",
+            "text": "EXEC_SEEK_SECTOR\n=>Link() EXT_SPHERE/.",
+            "zh": "EXEC_SEEK_SECTOR\n=>Link() EXT_SPHERE/.",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "447/TALK",
+            "narrator": "みやび",
+            "text": "シーク完了ぞね。",
+            "zh": "搜索完成咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "448/TALK",
+            "narrator": "みやび",
+            "text": "さて――。",
+            "zh": "好了——。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "449/TALK",
+            "narrator": "みやび",
+            "text": "今回、おんしに\n紹介するクランは\n<color=red>【クランネフェル】</color>。",
+            "zh": "这次要向你\n介绍的库兰是\n<color=red>【库兰妮菲尔】</color>。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "451/TALK",
+            "narrator": "みやび",
+            "text": "発症者は香陵陽子。\n出身は長野県北佐久郡\n軽井沢町。",
+            "zh": "发症者是香陵阳子。\n出身于长野县北佐久郡\n轻井泽町。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "452/TALK",
+            "narrator": "みやび",
+            "text": "発症時の年齢は九歳。\nまだ小学校低学年の\nかわいい盛りやった。",
+            "zh": "发症时的年龄是九岁。\n还是小学低年级\n最可爱的年纪咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "454/TALK",
+            "narrator": "みやび",
+            "text": "――小学校には\n通うとらん\nかったけど。",
+            "zh": "——虽说小学\n她一天也没能\n去上就是了。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "456/TALK",
+            "narrator": "みやび",
+            "text": "陽子は先天性の\n心臓疾患があったき。",
+            "zh": "因为阳子患有\n先天性心脏病嘛。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "457/TALK",
+            "narrator": "みやび",
+            "text": "出生時、二十歳まで\n生きられんと\n宣告された。",
+            "zh": "出生时就被宣告\n活不到\n二十岁。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "458/TALK",
+            "narrator": "みやび",
+            "text": "それを聞いた母親は\n軽井沢の家を売り払い\n都内に引っ越した。",
+            "zh": "听到这话的母亲\n卖掉了轻井泽的房子，\n搬到了东京都内。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "459/TALK",
+            "narrator": "みやび",
+            "text": "それは陽子を\n先進医療病院に\n入院させるため。",
+            "zh": "那是为了让阳子\n住进先进医疗\n医院。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "460/TALK",
+            "narrator": "みやび",
+            "text": "心臓移植さえできれば\n陽子は成人式を\n迎えられる。",
+            "zh": "只要能做上心脏移植，\n阳子就能迎来\n成人礼。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "461/TALK",
+            "narrator": "みやび",
+            "text": "それは母親の希望であり\n生きがいになった。",
+            "zh": "那成了母亲的希望，\n也是她活下去的支柱。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "462/TALK",
+            "narrator": "みやび",
+            "text": "――けんどそう簡単に\n移植できる心臓は\n見つからん。",
+            "zh": "——但是哪有那么容易\n就能找到可以\n移植的心脏。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "463/TALK",
+            "narrator": "みやび",
+            "text": "一度訪れたチャンスは\n権力の元に潰された。",
+            "zh": "好不容易等来一次机会，\n却被权势给压了下去。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "464/TALK",
+            "narrator": "みやび",
+            "text": "嘆き悲しんだのは\n陽子より母親や。",
+            "zh": "比起阳子，哀恸悲伤的\n反而是母亲咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "465/TALK",
+            "narrator": "みやび",
+            "text": "そんな母親を\n元気にしたいという\n子供の切なる願いが。",
+            "zh": "而想要让那样的母亲\n振作起来的\n孩子真切的愿望，",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "466/TALK",
+            "narrator": "みやび",
+            "text": "クラン発症の原因とは\nなんたる皮肉。",
+            "zh": "竟会成为库兰发症的起因，\n真是莫大的讽刺。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "468/TALK",
+            "narrator": "みやび",
+            "text": "…うちにとって\nクランネフェルは妹\nみたいなもんぞね。",
+            "zh": "……对我来说，\n库兰妮菲尔就像妹妹\n一样咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "469/SEL",
+            "narrator": "（選択肢）",
+            "text": "一番相性がいいってこと？",
+            "zh": "是说你和她最投缘吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "470/SEL",
+            "narrator": "（選択肢）",
+            "text": "ネフェルを気に入ってるの？",
+            "zh": "你挺喜欢妮菲尔的吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "471/ACT",
+            "narrator": "",
+            "text": "一番相性がいいってこと？",
+            "zh": "是说你和她最投缘吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "472/TALK",
+            "narrator": "みやび",
+            "text": "相性だけで言うたら\nつばめちゃんの方が\n近かったかもしれんね。",
+            "zh": "单论合拍度来讲，\n说不定燕\n跟她还更相近些咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "473/ACT",
+            "narrator": "",
+            "text": "ネフェルを気に入ってるの？",
+            "zh": "你挺喜欢妮菲尔的吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "475/TALK",
+            "narrator": "みやび",
+            "text": "難しい質問ぞね。",
+            "zh": "真是道难题咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "476/TALK",
+            "narrator": "みやび",
+            "text": "もちろん嫌いでは\nないけんど。",
+            "zh": "当然并不是讨厌她，\n但是呢。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "477/TALK",
+            "narrator": "みやび",
+            "text": "成り行き的な\n部分もあるきね。",
+            "zh": "也有点顺水推舟的\n成分在里头啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "478/SEL",
+            "narrator": "（選択肢）",
+            "text": "$me$もネフェルと精神を共有しなきゃだね",
+            "zh": "$me$也得和妮菲尔共享精神才行呢",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "479/ACT",
+            "narrator": "",
+            "text": "$me$もネフェルと精神を共有しなきゃだね",
+            "zh": "$me$也得和妮菲尔共享精神才行呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "481/TALK",
+            "narrator": "みやび",
+            "text": "そうやね。\nまずは『コネクト』の\nプロセスをせんとね。",
+            "zh": "是咯。\n得先走一遍\n『连接』的流程咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "482/TALK",
+            "narrator": "みやび",
+            "text": "具体的には、\nネフェルの抵抗する\n意志と戦わんといかんき。",
+            "zh": "具体来说，\n你得和妮菲尔抗拒的\n意志战斗才行啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "483/TALK",
+            "narrator": "みやび",
+            "text": "それが終わったら、\nネフェルの話を\nこじゃんと聞きゆう。",
+            "zh": "等那件事结束之后，\n就好好把妮菲尔的话\n听个够咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "484/TALK",
+            "narrator": "みやび",
+            "text": "$handle$が\nそれを共有したら\n『シンクロ』完了やき。",
+            "zh": "只要$handle$\n把那些共情了，\n『同步』就算完成啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "485/TALK",
+            "narrator": "みやび",
+            "text": "『コネクト』『シンクロ』\n両方完了したら\n終了や。",
+            "zh": "『连接』和『同步』\n两边都完成的话\n就结束咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "486/SEL",
+            "narrator": "（選択肢）",
+            "text": "そしたら【ネフェル】が使えるの？",
+            "zh": "然后就能使用【妮菲尔】了吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "487/ACT",
+            "narrator": "",
+            "text": "そしたら【ネフェル】が使えるの？",
+            "zh": "然后就能使用【妮菲尔】了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "489/TALK",
+            "narrator": "みやび",
+            "text": "そういうことに\nなるねえ。",
+            "zh": "差不多就是\n那么回事咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "490/TALK",
+            "narrator": "みやび",
+            "text": "しかも特別に\nうちのことも\n教えちゃろう。",
+            "zh": "而且还会破例\n把我的事\n也告诉给你咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "491/TALK",
+            "narrator": "みやび",
+            "text": "やき、『シンクロ』\nまで完了した方が\nお得ぞね。",
+            "zh": "所以说，一直做到\n『同步』才算\n划算咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "492/TALK",
+            "narrator": "みやび",
+            "text": "ほいたら早速、\nネフェルの世界に\nアクセスするき。",
+            "zh": "那就事不宜迟，\n这就接入妮菲尔的\n世界啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "494/TALK",
+            "narrator": "みやび",
+            "text": "$handle$と\nうちとネフェルに、\n素敵なココロの旅を！",
+            "zh": "祝$handle$、\n我和妮菲尔，\n有一场美好的心灵之旅！",
+            "narrator_zh": "雅"
+        }
+    ]
+}

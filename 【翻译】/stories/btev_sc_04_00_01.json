@@ -1,0 +1,623 @@
+{
+    "dir": "chap00/battle/btev_sc_04_00_01.js",
+    "type": "",
+    "info": {
+        "story_id": "46",
+        "cid": "",
+        "title": "【EXストーリー】熱血オヤジ",
+        "sub_title": "コネクトストーリー",
+        "title_zh": "【EX剧情】热血老爸",
+        "sub_title_zh": "连结剧情"
+    },
+    "entry": [
+        {
+            "location": "6/SCENARIO",
+            "narrator": "",
+            "text": "【導入】播磨屋藤治郎",
+            "zh": "【导入】播磨屋藤治郎",
+            "narrator_zh": ""
+        },
+        {
+            "location": "12/DIALOG",
+            "narrator": "",
+            "text": "<size=40>CURAN STORY. 04</size>\nMIYABI KOIGASAKI\n\n<size=45>播磨屋藤治郎</size>\n<size=35>～べらんめぇだよお父ちゃん～</size>",
+            "zh": "<size=40>CURAN STORY. 04</size>\nMIYABI KOIGASAKI\n\n<size=45>播磨屋藤治郎</size>\n<size=35>～老爸就是这股粗犷劲儿～</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "28/TALK",
+            "narrator": "みやび",
+            "text": "ああ。\n来たかよ、\n$handle$。",
+            "zh": "啊。\n来了咩，\n$handle$。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "29/TALK",
+            "narrator": "みやび",
+            "text": "ここは、うちら\nトライナリーと、\nクランたちとの交差点。",
+            "zh": "这里是，我们\n三重奏与\n库兰们的交汇点。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "30/TALK",
+            "narrator": "みやび",
+            "text": "ココロとココロが\n出逢うて、共鳴して、\n繋がりあう場所ぞね。",
+            "zh": "心与心\n相遇、共鸣，\n彼此相连的地方咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "38/SEL",
+            "narrator": "（選択肢）",
+            "text": "概要説明を飛ばす",
+            "zh": "跳过概要说明",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "39/SEL",
+            "narrator": "（選択肢）",
+            "text": "もう一度聞く",
+            "zh": "再听一遍",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "40/ACT",
+            "narrator": "",
+            "text": "概要説明を飛ばす",
+            "zh": "跳过概要说明",
+            "narrator_zh": ""
+        },
+        {
+            "location": "41/TALK",
+            "narrator": "みやび",
+            "text": "ほんだら早速\n今回のクランを\n紹介するぞね。",
+            "zh": "那就事不宜迟，\n介绍这次的库兰\n咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "43/ACT",
+            "narrator": "",
+            "text": "もう一度聞く",
+            "zh": "再听一遍",
+            "narrator_zh": ""
+        },
+        {
+            "location": "48/TALK",
+            "narrator": "みやび",
+            "text": "ここでは、普段私たちを\n助けてくれるサーバント\nクランを紹介するきね。",
+            "zh": "这里平时专门介绍\n一直帮着我们的\n从属库兰啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "49/TALK",
+            "narrator": "みやび",
+            "text": "ほんで、おんしが直接\nやつらぁと繋がれる\nよう、手続きしちゅうき。",
+            "zh": "然后为了让你直接\n跟她们连上，\n我都在办手续啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "50/SEL",
+            "narrator": "（選択肢）",
+            "text": "アニメのクランが使えるようになるの？",
+            "zh": "动画里的库兰也能用了吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "51/ACT",
+            "narrator": "",
+            "text": "アニメのクランが使えるようになるの？",
+            "zh": "动画里的库兰也能用了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "53/TALK",
+            "narrator": "みやび",
+            "text": "やねえ。\n簡単に言えば、\nやけんど。",
+            "zh": "对咯。\n简单来讲，\n倒是这么回事。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "54/TALK",
+            "narrator": "みやび",
+            "text": "このセクターでは、\nクラン一人にスポットを\n当てて紹介するきね。",
+            "zh": "在这个扇区嘛，\n每次专门挑一位库兰\n来好好介绍啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "55/TALK",
+            "narrator": "みやび",
+            "text": "ほんで【儀式】によって\nおんしとココロを繋げちゃ\nろう。",
+            "zh": "然后再通过【仪式】，\n把你跟她的心\n给连上咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "みやび",
+            "text": "【儀式】には『コネクト』\nと『シンクロ』の２つが\nあるぞね。",
+            "zh": "【仪式】有『连接』\n跟『同步』这俩\n咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "58/TALK",
+            "narrator": "みやび",
+            "text": "『コネクト』は、おんしと\nクランが物理的に繋がる\nための儀式。",
+            "zh": "『连接』就是让你跟\n库兰在物理上连起来的\n仪式。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "みやび",
+            "text": "バトルしておんしの中に\nある、抵抗勢力を無力化\nするのに必要ぞね。",
+            "zh": "得通过战斗，\n把你心里头那股抵抗势力\n给打服了才行咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "61/TALK",
+            "narrator": "みやび",
+            "text": "次の『シンクロ』では、\nクランの過去を知り、\n共感せんといかんねえ。",
+            "zh": "下一步『同步』嘛，\n就得了解库兰的过去，\n还得共情咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "62/TALK",
+            "narrator": "みやび",
+            "text": "クランの過去の\n物語をシェアすることで、\n心が通じるようになるき。",
+            "zh": "把库兰过去的\n故事共享了，\n心就能相通啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "みやび",
+            "text": "ここまで、\nわかりゆう？",
+            "zh": "讲到这里，\n懂了没得？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "みやび",
+            "text": "もし、入るセクターを\n間違えたんやったら\n退場できるけんど。",
+            "zh": "要是进错了\n扇区的话，\n现在倒是还能退场啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "66/SEL",
+            "narrator": "（選択肢）",
+            "text": "いや、先に進む",
+            "zh": "不，继续吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "67/SEL",
+            "narrator": "（選択肢）",
+            "text": "今回はやめとく",
+            "zh": "这次还是算了",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "68/SEL",
+            "narrator": "（選択肢）",
+            "text": "みやびは別人格ないの？",
+            "zh": "雅没有别的人格吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "69/ACT",
+            "narrator": "",
+            "text": "いや、先に進む",
+            "zh": "不，继续吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "70/TALK",
+            "narrator": "みやび",
+            "text": "ええかね？\nほいたら早速、今回の\nクランを紹介するきね。",
+            "zh": "行咩？\n那就赶紧介绍这次的\n库兰啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "71/ACT",
+            "narrator": "",
+            "text": "今回はやめとく",
+            "zh": "这次还是算了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "72/TALK",
+            "narrator": "みやび",
+            "text": "ほう\nそうかよ。",
+            "zh": "哦，\n这样咩。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "73/TALK",
+            "narrator": "みやび",
+            "text": "そういたら、ここで\nさようならやねえ。",
+            "zh": "那就在这儿\n先拜拜咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "75/TALK",
+            "narrator": "みやび",
+            "text": "また気が向いたら\n来たらええき。",
+            "zh": "啥时候想来了\n再来就得咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "みやび",
+            "text": "$handle$と\nうちに、\n素敵なココロの旅を。",
+            "zh": "祝$handle$与\n我，\n有一段美好的心灵之旅。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "78/ACT",
+            "narrator": "",
+            "text": "みやびは別人格ないの？",
+            "zh": "雅没有别的人格吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "79/TALK",
+            "narrator": "みやび",
+            "text": "何を言い出すか\n思うたら。",
+            "zh": "还以为你要\n说驷马呢。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "81/TALK",
+            "narrator": "みやび",
+            "text": "そういうのは\nゲームの世界観を\n崩すきねえ。",
+            "zh": "搞那些玩意儿\n会破坏游戏的\n世界观啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "みやび",
+            "text": "そもそもうちは\n裏も表もない\n真っ正直な人間やき。",
+            "zh": "本来嘛，我就是个\n表里如一、\n直来直去的人啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "みやび",
+            "text": "あえてのキャラ作りは\n必要ない思うちや。",
+            "zh": "觉得没必要硬去立个\n别的人设滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "みやび",
+            "text": "そういうことで\nええかね？",
+            "zh": "就这么说定了，\n行咩？",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "85/TALK",
+            "narrator": "みやび",
+            "text": "そういうことで今回の\nクランを紹介するきね。",
+            "zh": "那就这么着，介绍\n这次的库兰啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "94/TALK",
+            "narrator": "みやび",
+            "text": "オープンプロセス、\n0x9FE番地から\n0xFFF番地へ。",
+            "zh": "开放进程，\n从0x9FE地址\n到0xFFF地址。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "95/TALK",
+            "narrator": "みやび",
+            "text": "共通意識野を経由、\n外部スフィアへ接続。",
+            "zh": "经由共通意识野，\n连接至外部领域。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "96/TALK",
+            "narrator": "みやび",
+            "text": "EXEC_SEEK_SECTOR\n=>Link() EXT_SPHERE/.",
+            "zh": "EXEC_SEEK_SECTOR\n=>Link() EXT_SPHERE/.",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "121/TALK",
+            "narrator": "みやび",
+            "text": "シーク完了ぞね。",
+            "zh": "搜索完毕咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "122/TALK",
+            "narrator": "みやび",
+            "text": "さて――。",
+            "zh": "那么——。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "124/TALK",
+            "narrator": "みやび",
+            "text": "今回、おんしに\n紹介するクランは\n<color=red>【播磨屋藤治郎】</color>。",
+            "zh": "这次要向你\n介绍的库兰是\n<color=red>【播磨屋藤治郎】</color>。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "126/TALK",
+            "narrator": "みやび",
+            "text": "本名を播磨藤治郎、\n５４歳。クラン通称は\n【とうちゃん】。",
+            "zh": "本名播磨藤治郎，\n54岁。库兰外号叫\n【老爸】。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "127/TALK",
+            "narrator": "みやび",
+            "text": "大田区の自宅敷地内の\n工場で発症。",
+            "zh": "在大田区自家院子里的\n工厂发症。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "128/TALK",
+            "narrator": "みやび",
+            "text": "ココロファイルナンバー\nE04-055-13によれば、\n今回の発症の原因は……",
+            "zh": "根据心之档案编号\nE04-055-13，\n这次发症的原因是……",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "129/TALK",
+            "narrator": "みやび",
+            "text": "大型すぎる\n親子げんかぞね。",
+            "zh": "闹得太大的\n家庭大战咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "130/TALK",
+            "narrator": "みやび",
+            "text": "子供四人対とうちゃん。\n喧嘩の原因は\n会社の赤字。",
+            "zh": "四个娃儿对阵老爸。\n吵架的原因是\n公司亏损。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "131/TALK",
+            "narrator": "みやび",
+            "text": "子供らあは学費どころか\n進学も怪しくなったことで\nとうちゃんを責めた。",
+            "zh": "娃儿们因为连学费\n带升学都悬了，\n就跑来数落老爸。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "132/TALK",
+            "narrator": "みやび",
+            "text": "とはいえ真面目に\n働いてなかった\nわけやない。",
+            "zh": "话虽如此，他也\n并不是没有认真\n工作。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "133/TALK",
+            "narrator": "みやび",
+            "text": "むしろ真面目すぎて\n法改正その他に\n対処できなんだ。",
+            "zh": "不如说是太较真了，\n法律修改那些破事\n没能应付过来。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "134/TALK",
+            "narrator": "みやび",
+            "text": "……職人気質が\nあだになったちや。",
+            "zh": "……匠人脾气\n反倒拖了后腿滴。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "135/TALK",
+            "narrator": "みやび",
+            "text": "…こう言うたら\n子供らあには\n悪いけんど。",
+            "zh": "……这么讲虽然对\n娃儿们有点过意不去，\n不过嘛。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "136/TALK",
+            "narrator": "みやび",
+            "text": "とうちゃんの仕事は\n誇れる仕事やと\n言うちゃったら。",
+            "zh": "我要跟他们讲一句，\n老爸的活计可是份\n值得骄傲的工作。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "137/TALK",
+            "narrator": "みやび",
+            "text": "とうちゃんはまだ\n一家の大黒柱\nやったん違うかね。",
+            "zh": "老爸不也依然是\n一家之主的顶梁柱\n咩。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "138/TALK",
+            "narrator": "みやび",
+            "text": "一番コネクトしちゅう\nうちが言うことや\nないけんど。",
+            "zh": "这话由连接得最稳的\n我来说，倒是没得\n多少说服力就是。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "139/SEL",
+            "narrator": "（選択肢）",
+            "text": "一番相性がいいってこと？",
+            "zh": "意思是相性最好吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "140/SEL",
+            "narrator": "（選択肢）",
+            "text": "とうちゃんのこと気に入ってるの？",
+            "zh": "你很中意老爸吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "141/ACT",
+            "narrator": "",
+            "text": "一番相性がいいってこと？",
+            "zh": "意思是相性最好吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "142/ACT",
+            "narrator": "",
+            "text": "とうちゃんのこと気に入ってるの？",
+            "zh": "你很中意老爸吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "144/TALK",
+            "narrator": "みやび",
+            "text": "そうやね。",
+            "zh": "是咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "145/TALK",
+            "narrator": "みやび",
+            "text": "ここでは、クランと一番\n相性がえいトライナリーが\n語ることになっちゅう。",
+            "zh": "在这边，都是由跟库兰\n最投缘的三重奏\n来负责讲啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "みやび",
+            "text": "今回の「とうちゃん」は\nうちが一番共感できた\nちうことになるき。",
+            "zh": "这次这位「老爸」，\n就是我最能共情的，\n这么一回事啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "147/TALK",
+            "narrator": "みやび",
+            "text": "別のクランは\n別のメンバーが\n語るろうね。",
+            "zh": "别的库兰嘛，\n就会换别的成员\n来讲咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "148/SEL",
+            "narrator": "（選択肢）",
+            "text": "とうちゃんに共感したんだ…",
+            "zh": "你居然对老爸共情了啊……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "149/ACT",
+            "narrator": "",
+            "text": "とうちゃんに共感したんだ…",
+            "zh": "你居然对老爸共情了啊……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "151/TALK",
+            "narrator": "みやび",
+            "text": "そうやね。",
+            "zh": "是咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "152/TALK",
+            "narrator": "みやび",
+            "text": "$handle$も\nとうちゃんと精神を共有\nできたら共感するろう。",
+            "zh": "$handle$要是\n能跟老爸共享精神，\n肯定也能共情咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "153/TALK",
+            "narrator": "みやび",
+            "text": "やき、まずは\nとうちゃんとの精神\n共有したらええき。",
+            "zh": "所以，你先去跟\n老爸共享精神\n就得啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "154/SEL",
+            "narrator": "（選択肢）",
+            "text": "とうちゃんと精神を共有するのか…",
+            "zh": "要跟老爸共享精神啊……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "155/ACT",
+            "narrator": "",
+            "text": "とうちゃんと精神を共有するのか…",
+            "zh": "要跟老爸共享精神啊……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "157/TALK",
+            "narrator": "みやび",
+            "text": "そうやね。\nまずは『コネクト』の\nプロセスをせんとね。",
+            "zh": "没错。\n首先得走『连接』的\n流程咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "158/TALK",
+            "narrator": "みやび",
+            "text": "具体的には、\nとうちゃんの抵抗する\n意志と戦わんといかんき。",
+            "zh": "具体来讲嘛，\n就是得跟老爸那股\n抵抗的意志打一场啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "159/TALK",
+            "narrator": "みやび",
+            "text": "それが終わったら、\nとうちゃんの話を\nこじゃんと聞きゆう。",
+            "zh": "打完之后，\n就好好地把老爸的话\n痛痛快快听完咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "160/TALK",
+            "narrator": "みやび",
+            "text": "$handle$が\nそれを共有したら\n『シンクロ』完了やき。",
+            "zh": "$handle$把它\n共享了之后，\n『同步』就算完了啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "161/TALK",
+            "narrator": "みやび",
+            "text": "『コネクト』『シンクロ』\n両方完了したら\n終了や。",
+            "zh": "『连接』『同步』\n两个都搞定，\n就算完事咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "162/SEL",
+            "narrator": "（選択肢）",
+            "text": "そしたら【とうちゃん】が使えるの？",
+            "zh": "那之后就能用【老爸】了吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "163/ACT",
+            "narrator": "",
+            "text": "そしたら【とうちゃん】が使えるの？",
+            "zh": "那之后就能用【老爸】了吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "165/TALK",
+            "narrator": "みやび",
+            "text": "そういうことに\nなるねえ。",
+            "zh": "就是这么\n回事咯。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "166/TALK",
+            "narrator": "みやび",
+            "text": "しかも特別に\nうちのことも\n教えちゃろう。",
+            "zh": "而且我还会破例\n顺便给你讲讲\n我自己的事啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "167/TALK",
+            "narrator": "みやび",
+            "text": "やき、『シンクロ』\nまで完了した方が\nお得ぞね。",
+            "zh": "所以，一直做到\n『同步』才算\n划算咧。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "168/TALK",
+            "narrator": "みやび",
+            "text": "ほいたら早速、\nとうちゃんの世界に\nアクセスするき。",
+            "zh": "那就事不宜迟，\n这就接入老爸的\n世界啵。",
+            "narrator_zh": "雅"
+        },
+        {
+            "location": "170/TALK",
+            "narrator": "みやび",
+            "text": "$handle$と\nうちととうちゃんに、\n素敵なココロの旅を！",
+            "zh": "祝$handle$、\n我和老爸，\n有一段美好的心灵之旅！",
+            "narrator_zh": "雅"
+        }
+    ]
+}

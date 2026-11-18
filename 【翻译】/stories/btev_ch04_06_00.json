@@ -1,0 +1,427 @@
+{
+    "dir": "chap06/battle/btev_ch04_06_00.js",
+    "type": "",
+    "info": {
+        "story_id": "24007",
+        "cid": "",
+        "title": "007 ココロスフィアストーリー【Lv03】",
+        "sub_title": "敵Ⅲ＜提起＞",
+        "title_zh": "007 心灵领域故事【Lv03】",
+        "sub_title_zh": "敌人Ⅲ＜提起＞"
+    },
+    "entry": [
+        {
+            "location": "7/SCENARIO",
+            "narrator": "",
+            "text": "敵Ⅱ３",
+            "zh": "敌人Ⅱ3",
+            "narrator_zh": ""
+        },
+        {
+            "location": "13/DIALOG",
+            "narrator": "",
+            "text": "<size=40>KOKORO-Lv. 03</size>\nMIYABI - KOIGASAKI\n\n<size=45>敵Ⅲ</size>\n<size=35>～邂逅編～</size>",
+            "zh": "<size=40>KOKORO-Lv. 03</size>\n恋之崎雅\n\n<size=45>敌人Ⅲ</size>\n<size=35>～邂逅篇～</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "24/TALK",
+            "narrator": "潜在みやび",
+            "text": "ぱぱーん。",
+            "zh": "锵锵——。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "25/TALK",
+            "narrator": "表層みやび",
+            "text": "結果を発表します！",
+            "zh": "现在公布结果！",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "26/SEL",
+            "narrator": "（選択肢）",
+            "text": "……なんの、ですか？",
+            "zh": "……是什么的结果啊？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "27/ACT",
+            "narrator": "",
+            "text": "……なんの、ですか？",
+            "zh": "……是什么的结果啊？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "29/TALK",
+            "narrator": "潜在みやび",
+            "text": "決まってるちや。",
+            "zh": "那还用说滴。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "30/TALK",
+            "narrator": "表層みやび",
+            "text": "$handle$が\n情報管理庁の\n差し金か否かや。",
+            "zh": "就是$handle$到底\n是不是情报管理厅\n派来的手下咯。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "32/TALK",
+            "narrator": "潜在みやび",
+            "text": "それでは、\n結果は！？",
+            "zh": "那么，\n结果是！？",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "33/DIALOG",
+            "narrator": "",
+            "text": "結果発表！",
+            "zh": "结果公布！",
+            "narrator_zh": ""
+        },
+        {
+            "location": "35/TALK",
+            "narrator": "表層みやび",
+            "text": "クックックッ……",
+            "zh": "哼哼哼……",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "36/TALK",
+            "narrator": "表層みやび",
+            "text": "結果は！！",
+            "zh": "结果是！！",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "40/TALK",
+            "narrator": "表層みやび",
+            "text": "白！！",
+            "zh": "清白！！",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "42/TALK",
+            "narrator": "潜在みやび",
+            "text": "おめでとう\nございました！",
+            "zh": "恭喜\n你了！",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "43/SEL",
+            "narrator": "（選択肢）",
+            "text": "ありがとうございました…",
+            "zh": "非常感谢……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "44/ACT",
+            "narrator": "",
+            "text": "ありがとうございました…",
+            "zh": "非常感谢……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "46/TALK",
+            "narrator": "表層みやび",
+            "text": "というわけで、\nお前さんの疑いは\n晴れたわけやが。",
+            "zh": "于是乎，\n对你的怀疑\n算是洗清了，不过。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "47/SEL",
+            "narrator": "（選択肢）",
+            "text": "なんで晴れたの？",
+            "zh": "为什么洗清了？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "48/ACT",
+            "narrator": "",
+            "text": "なんで晴れたの？",
+            "zh": "为什么洗清了？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "50/DIALOG",
+            "narrator": "",
+            "text": "総評。",
+            "zh": "总评。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "51/TALK",
+            "narrator": "潜在みやび",
+            "text": "まあ簡単に言えば、\n釣り針に全く引っか\nからなかったちや。",
+            "zh": "嘛，简单来说就是，\n你完全没咬上\n钩滴。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "52/TALK",
+            "narrator": "表層みやび",
+            "text": "そう。うちらは\n表層世界で沢山罠を\n張っちょったきね。",
+            "zh": "没错。我们俩在\n表层世界可设下了\n不少陷阱啵。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "53/TALK",
+            "narrator": "潜在みやび",
+            "text": "けんど、お前さんは\n全くトンチンカンな\n反応ばかりやった。",
+            "zh": "但是，你的反应\n净是些莫名其妙、\n驴唇不对马嘴的东西。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "54/TALK",
+            "narrator": "表層みやび",
+            "text": "フェイクかとも\n思うたが――",
+            "zh": "本来还疑心\n是不是演出来的——",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "55/TALK",
+            "narrator": "潜在みやび",
+            "text": "スパイならここまでの\nチャンスを棒に振る\n事は無いと判断。",
+            "zh": "但要真是间谍，\n断不可能把大好机会\n白白扔掉，由此判断。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "表層みやび",
+            "text": "よってひとまずは\n白ってことに\nなったちや。",
+            "zh": "因此暂且\n把你算作\n清白了滴。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "潜在みやび",
+            "text": "が！　しかし！！",
+            "zh": "可！　但是！！",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "62/DIALOG",
+            "narrator": "",
+            "text": "<size=50>【特報】</size>",
+            "zh": "<size=50>【特报】</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "63/TALK",
+            "narrator": "表層みやび",
+            "text": "世界に平和は\n訪れなかった！",
+            "zh": "和平并没有\n降临世界！",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "潜在みやび",
+            "text": "いよいよ始まる\n新展開！",
+            "zh": "终于要揭幕的\n新篇章！",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "65/TALK",
+            "narrator": "表層みやび",
+            "text": "あの名作、『疑いの\n情報管理庁』を越える\n壮大なスケール！",
+            "zh": "超越那部名作\n《猜疑的情报管理厅》的\n宏大格局！",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "66/SEL",
+            "narrator": "（選択肢）",
+            "text": "いや、もういいよ…",
+            "zh": "别，已经够了……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "67/ACT",
+            "narrator": "",
+            "text": "いや、もういいよ…",
+            "zh": "别，已经够了……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "69/TALK",
+            "narrator": "潜在みやび",
+            "text": "その名も！！",
+            "zh": "它的名字就叫！！",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "71/TALK",
+            "narrator": "表層みやび",
+            "text": "『何故に君\n　構うこと早幾年』",
+            "zh": "『何故于君\n　招惹早几年』",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "72/DIALOG",
+            "narrator": "",
+            "text": "何故に君構うこと早幾年",
+            "zh": "何故于君招惹早几年",
+            "narrator_zh": ""
+        },
+        {
+            "location": "73/SEL",
+            "narrator": "（選択肢）",
+            "text": "日本語としておかしくないですか？",
+            "zh": "作为日语是不是有点奇怪啊？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "74/ACT",
+            "narrator": "",
+            "text": "日本語としておかしくないですか？",
+            "zh": "作为日语是不是有点奇怪啊？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "77/TALK",
+            "narrator": "潜在みやび",
+            "text": "そんなことは\nどうでもえいちや！",
+            "zh": "那种细枝末节\n无所谓滴！",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "78/TALK",
+            "narrator": "表層みやび",
+            "text": "大事なのは勢い！\nそれとリズム！",
+            "zh": "重要的是气势！\n还有节奏感！",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "79/TALK",
+            "narrator": "潜在みやび",
+            "text": "…とまあ、タイトルは\nどうでもえいんやが。",
+            "zh": "……嘛，标题怎样\n倒无所谓，不过。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "80/TALK",
+            "narrator": "表層みやび",
+            "text": "要は、なんでお前さん\nが、うちに構いゆうか\nが議論になっちょる。",
+            "zh": "关键在于，你为驷马\n这么粘着我，现在正\n争论得热火朝天。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "81/TALK",
+            "narrator": "潜在みやび",
+            "text": "何か裏があるのか？",
+            "zh": "是不是暗藏阴谋？",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "表層みやび",
+            "text": "下心があるのか？",
+            "zh": "是不是图谋不轨？",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "潜在みやび",
+            "text": "そもそもAIなのか？",
+            "zh": "说到底真是AI咩？",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "表層みやび",
+            "text": "それとも中の人が\nいるのか？",
+            "zh": "还是说背后\n真有个大活人？",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "85/TALK",
+            "narrator": "潜在みやび",
+            "text": "だとしたら、\n何が目的なのか？",
+            "zh": "如果是那样，\n目的又是什么？",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "86/TALK",
+            "narrator": "表層みやび",
+            "text": "そして。",
+            "zh": "以及。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "88/TALK",
+            "narrator": "潜在みやび",
+            "text": "それはうちにとって\n利益なのか、\n不利益なのか！",
+            "zh": "这对我们究竟是\n有利的，\n还是有害的！",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "89/DIALOG",
+            "narrator": "",
+            "text": "利益か。不利益か。",
+            "zh": "利乎。弊乎。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "90/TALK",
+            "narrator": "潜在みやび",
+            "text": "まあ、下心や\n不利益な目的がある\nならここでお終いや。",
+            "zh": "嘛，要是怀着鬼胎\n或者有害的目的，\n那到这儿就结束了。",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "91/TALK",
+            "narrator": "表層みやび",
+            "text": "そう思いゆう人格と",
+            "zh": "这么想的人格，跟",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "92/TALK",
+            "narrator": "潜在みやび",
+            "text": "そうでない人格とで",
+            "zh": "不这么想的人格，",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "93/TALK",
+            "narrator": "表層みやび",
+            "text": "また議論してるちや。",
+            "zh": "又在吵起来了滴。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "94/TALK",
+            "narrator": "潜在みやび",
+            "text": "そんなわけやき、",
+            "zh": "就是这么个情况啵，",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "95/TALK",
+            "narrator": "表層みやび",
+            "text": "懲りてなければ、\nそんなうちらの戦い\nつき合っちょくれや。",
+            "zh": "要是还没受够的话，\n就陪我们俩的战斗\n打一场咧。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "96/TALK",
+            "narrator": "潜在みやび",
+            "text": "とかいいつつ、\n懲りていようが\nいまいが、",
+            "zh": "虽说嘴上这么讲，\n不管你是受够了\n还是没受够，",
+            "narrator_zh": "潜在雅"
+        },
+        {
+            "location": "97/TALK",
+            "narrator": "表層みやび",
+            "text": "強制的に\nバトル突入なんや\nけんどな。",
+            "zh": "反正是要强制\n切入战斗的，\n但是呢。",
+            "narrator_zh": "表层雅"
+        },
+        {
+            "location": "109/DIALOG",
+            "narrator": "",
+            "text": "<color=black><size=50><b>ココロの戦いに協力し\n立ち位置を明確にせよ！</b></size></color>\n\n\n\n恋ヶ崎みやびは、\n貴方がどのような存在なのかについて\n未だに結論を出せずにいる。\n\n頭では理解しても、\nココロでは納得出来ない感覚。\n\nその気持ちに決着をつけ、\n貴方とみやびの関係を強固なものにしよう。",
+            "zh": "<color=black><size=50><b>在心灵之战中协力，\n明确你的立场吧！</b></size></color>\n\n\n\n恋之崎雅\n对于你究竟是怎样的存在，\n至今仍未得出结论。\n\n哪怕头脑里已经理解，\n心里却依然无法接受的感觉。\n\n为这份心情做个了断，\n巩固你与雅之间的关系吧。",
+            "narrator_zh": ""
+        }
+    ]
+}

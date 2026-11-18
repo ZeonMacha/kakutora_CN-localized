@@ -1,0 +1,560 @@
+{
+    "dir": "chap04/battle/btev_ch00_04_00.js",
+    "type": "",
+    "info": {
+        "story_id": "24000",
+        "cid": "",
+        "title": "000 ココロスフィア解説",
+        "sub_title": "ココロの深淵へようこそ",
+        "title_zh": "000 心灵领域解说",
+        "sub_title_zh": "欢迎来到心灵深渊"
+    },
+    "entry": [
+        {
+            "location": "7/SCENARIO",
+            "narrator": "",
+            "text": "ココロスフィア導入みやび",
+            "zh": "心灵领域导入 雅",
+            "narrator_zh": ""
+        },
+        {
+            "location": "13/DIALOG",
+            "narrator": "",
+            "text": "<size=40>DOOR-No. 000</size>\nCHIHARU\n\n<size=40>Kokoro.Initialize();</size>\n<size=25>～深層ココロスフィアの概念について～</size>",
+            "zh": "<size=40>DOOR-No. 000</size>\n千羽鹤\n\n<size=40>Kokoro.Initialize();</size>\n<size=25>～关于深层心灵领域的概念～</size>",
+            "narrator_zh": ""
+        },
+        {
+            "location": "22/TALK",
+            "narrator": "千羽鶴",
+            "text": "ようこそ、\n恋ヶ崎みやびの\n深層世界へ。",
+            "zh": "欢迎来到\n恋之崎雅的\n深层世界。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "24/TALK",
+            "narrator": "千羽鶴",
+            "text": "前にもしてるけど、\n深層世界についての説明、\nもう一度聞く？",
+            "zh": "之前也讲过了，\n关于深层世界的说明，\n还要再听一遍吗？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "25/SEL",
+            "narrator": "（選択肢）",
+            "text": "はい",
+            "zh": "要",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "26/SEL",
+            "narrator": "（選択肢）",
+            "text": "いいえ",
+            "zh": "不用",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "27/ACT",
+            "narrator": "",
+            "text": "はい",
+            "zh": "要",
+            "narrator_zh": ""
+        },
+        {
+            "location": "28/TALK",
+            "narrator": "千羽鶴",
+            "text": "わかった。\nそれじゃもう一度、\n深層世界の話をする。",
+            "zh": "知道了。\n那我就再讲一次\n深层世界的事。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "30/ACT",
+            "narrator": "",
+            "text": "いいえ",
+            "zh": "不用",
+            "narrator_zh": ""
+        },
+        {
+            "location": "31/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう、助かる。",
+            "zh": "是吗，省事了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "47/TALK",
+            "narrator": "千羽鶴",
+            "text": "さて。",
+            "zh": "好了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "48/TALK",
+            "narrator": "千羽鶴",
+            "text": "改めて、\nここは恋ヶ崎みやびの\n深層世界。",
+            "zh": "重新介绍一下，\n这里是恋之崎雅的\n深层世界。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "49/TALK",
+            "narrator": "千羽鶴",
+            "text": "ところで貴方は\n恋ヶ崎みやびの\n何を知っていますか？",
+            "zh": "顺便问一下，你对\n恋之崎雅\n了解多少？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "50/SEL",
+            "narrator": "（選択肢）",
+            "text": "不思議ちゃんなこと",
+            "zh": "是个电波系女孩",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "51/SEL",
+            "narrator": "（選択肢）",
+            "text": "胸が大きいことを心底嫌がっている",
+            "zh": "发自内心讨厌自己胸大这件事",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "52/SEL",
+            "narrator": "（選択肢）",
+            "text": "何も知らない",
+            "zh": "什么都不知道",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "53/ACT",
+            "narrator": "",
+            "text": "不思議ちゃんなこと",
+            "zh": "是个电波系女孩",
+            "narrator_zh": ""
+        },
+        {
+            "location": "54/TALK",
+            "narrator": "千羽鶴",
+            "text": "あー",
+            "zh": "啊——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "55/TALK",
+            "narrator": "千羽鶴",
+            "text": "まー",
+            "zh": "嘛——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "56/TALK",
+            "narrator": "千羽鶴",
+            "text": "そ、そうですね。",
+            "zh": "是、是啊。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "57/TALK",
+            "narrator": "千羽鶴",
+            "text": "あなたの中ではね…。",
+            "zh": "在你心里是这样呢……。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "58/ACT",
+            "narrator": "",
+            "text": "胸が大きいことを心底嫌がっている",
+            "zh": "发自内心讨厌自己胸大这件事",
+            "narrator_zh": ""
+        },
+        {
+            "location": "59/TALK",
+            "narrator": "千羽鶴",
+            "text": "えっ　と。",
+            "zh": "那个……呃。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "60/TALK",
+            "narrator": "千羽鶴",
+            "text": "また胸のこと…？",
+            "zh": "怎么又是胸的事……？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "61/TALK",
+            "narrator": "千羽鶴",
+            "text": "まー",
+            "zh": "嘛——",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "62/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう…ですね。",
+            "zh": "是……这样呢。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "63/ACT",
+            "narrator": "",
+            "text": "何も知らない",
+            "zh": "什么都不知道",
+            "narrator_zh": ""
+        },
+        {
+            "location": "64/TALK",
+            "narrator": "千羽鶴",
+            "text": "賢い。",
+            "zh": "明智。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "67/TALK",
+            "narrator": "千羽鶴",
+            "text": "それでこそ、私の\nカリスマラブダイバー！",
+            "zh": "这才称得上是我的\n王牌恋爱潜行者！",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "68/SEL",
+            "narrator": "（選択肢）",
+            "text": "何それかっこいい",
+            "zh": "那是什么好帅",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "69/SEL",
+            "narrator": "（選択肢）",
+            "text": "何それひどすぎ",
+            "zh": "那是什么太扯了",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "70/ACT",
+            "narrator": "",
+            "text": "何それかっこいい",
+            "zh": "那是什么好帅",
+            "narrator_zh": ""
+        },
+        {
+            "location": "71/TALK",
+            "narrator": "千羽鶴",
+            "text": "でしょう？",
+            "zh": "很棒吧？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "72/TALK",
+            "narrator": "千羽鶴",
+            "text": "カリスマラブダイバーの\n名に恥じない活躍を\n永遠に期待し続けてる。",
+            "zh": "我可是一直永恒地期待着\n你能发挥出无愧于\n王牌恋爱潜行者之名的表现。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "73/ACT",
+            "narrator": "",
+            "text": "何それひどすぎ",
+            "zh": "那是什么太扯了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "74/TALK",
+            "narrator": "千羽鶴",
+            "text": "えっ！？\nひどい！？",
+            "zh": "诶！？\n太扯了！？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "75/TALK",
+            "narrator": "千羽鶴",
+            "text": "私、そんなに酷いこと\n言ってるかしら…。",
+            "zh": "我有说得\n那么过分吗……。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "76/TALK",
+            "narrator": "千羽鶴",
+            "text": "まあ、そういう\nリアクションもあるのかと\nデータベースに入れとく。",
+            "zh": "嘛，我姑且把“原来也会有\n这种反应”这一点，\n记进数据库里。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "79/TALK",
+            "narrator": "千羽鶴",
+            "text": "非常に身も蓋もない\n結論を言うと、貴方はまだ\n彼女を何も知らない。",
+            "zh": "说个毫不留情面的\n结论吧，你现在对她\n还一无所知。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "80/TALK",
+            "narrator": "千羽鶴",
+            "text": "それ程までに、彼女の\n心の奥底は深く、そして\nそこまでの壁は厚い。",
+            "zh": "她的内心深处就是\n深到那种程度，而且\n心墙也厚到那种地步。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "81/TALK",
+            "narrator": "千羽鶴",
+            "text": "他の子と恋ヶ崎みやびは\nあらゆる点において、\n一線を画している。",
+            "zh": "恋之崎雅和其他女孩子\n在方方面面，\n都截然不同。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "82/TALK",
+            "narrator": "千羽鶴",
+            "text": "そしてその事については、\n私も匙を投げかけている。",
+            "zh": "甚至连这件事，\n我自己都快要束手无策了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "83/TALK",
+            "narrator": "千羽鶴",
+            "text": "だからこそ、貴方には\n是非彼女の深層世界を\n攻略して欲しい。",
+            "zh": "正因如此，我才尤其\n希望你能去攻克\n她的深层世界。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "84/TALK",
+            "narrator": "千羽鶴",
+            "text": "難易度が高いと\n燃えることってない？",
+            "zh": "难度高的话，\n不是更让人燃起来吗？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "85/SEL",
+            "narrator": "（選択肢）",
+            "text": "はい",
+            "zh": "会",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "86/SEL",
+            "narrator": "（選択肢）",
+            "text": "いいえ",
+            "zh": "不会",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "87/SEL",
+            "narrator": "（選択肢）",
+            "text": "千羽鶴の方が興味ある",
+            "zh": "我对千羽鹤更感兴趣",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "88/ACT",
+            "narrator": "",
+            "text": "はい",
+            "zh": "会",
+            "narrator_zh": ""
+        },
+        {
+            "location": "89/TALK",
+            "narrator": "千羽鶴",
+            "text": "まあでも。",
+            "zh": "不过嘛。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "90/ACT",
+            "narrator": "",
+            "text": "いいえ",
+            "zh": "不会",
+            "narrator_zh": ""
+        },
+        {
+            "location": "91/TALK",
+            "narrator": "千羽鶴",
+            "text": "そう。まあ確かに、\nそもそも彼女に興味が\n無ければ燃えないし。",
+            "zh": "是吗。确实，\n本来要是对她没兴趣，\n那也燃不起来。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "92/ACT",
+            "narrator": "",
+            "text": "千羽鶴の方が興味ある",
+            "zh": "我对千羽鹤更感兴趣",
+            "narrator_zh": ""
+        },
+        {
+            "location": "95/TALK",
+            "narrator": "千羽鶴",
+            "text": "もうここでは\n何も出ませんよ。",
+            "zh": "这里已经\n什么都不会出来了哦。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "96/TALK",
+            "narrator": "千羽鶴",
+            "text": "そんなことより、\n恋ヶ崎みやびのココロを\n癒してあげて。",
+            "zh": "比起这个，\n快去治愈恋之崎雅的\n心吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "101/TALK",
+            "narrator": "千羽鶴",
+            "text": "……ほんとに。",
+            "zh": "……真是的。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "102/TALK",
+            "narrator": "千羽鶴",
+            "text": "ホントにしつこい人。",
+            "zh": "真是够纠缠不休的人。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "103/TALK",
+            "narrator": "千羽鶴",
+            "text": "そんなに私の\n心の中を見たい？",
+            "zh": "就这么想看\n我的心里吗？",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "104/SEL",
+            "narrator": "（選択肢）",
+            "text": "はい",
+            "zh": "想",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "105/SEL",
+            "narrator": "（選択肢）",
+            "text": "いいえ",
+            "zh": "不想",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "106/ACT",
+            "narrator": "",
+            "text": "はい",
+            "zh": "想",
+            "narrator_zh": ""
+        },
+        {
+            "location": "107/TALK",
+            "narrator": "千羽鶴",
+            "text": "おぞましすぎて、\n現実に帰って来れなく\nなるかもしれないけど。",
+            "zh": "可能会骇人到\n让你再也回不到\n现实里去哦。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "108/TALK",
+            "narrator": "千羽鶴",
+            "text": "……。",
+            "zh": "……。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "109/TALK",
+            "narrator": "千羽鶴",
+            "text": "まあ、それでもと言うなら\nいずれ何か見せられる日が\n来るかもしれない。",
+            "zh": "不过，既然你非要这么说，\n日后说不定会有能给你\n看点什么的一天吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "110/ACT",
+            "narrator": "",
+            "text": "いいえ",
+            "zh": "不想",
+            "narrator_zh": ""
+        },
+        {
+            "location": "111/TALK",
+            "narrator": "千羽鶴",
+            "text": "それが正しい判断。\n私の中を覗いても、\nろくなことがないから。",
+            "zh": "这才是明智判断。\n偷窥我的内心，\n也不会有什么好事。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "113/TALK",
+            "narrator": "千羽鶴",
+            "text": "とにかく。\n貴方の実直すぎるアホに\n免じて、ご褒美あげる。",
+            "zh": "总之。\n看在你这过于耿直的傻劲\n分上，给你点奖励。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "123/TALK",
+            "narrator": "千羽鶴",
+            "text": "何にしても今は、\n恋ヶ崎みやびのココロを\n癒してあげて。",
+            "zh": "不管怎样，现在\n先去治愈恋之崎雅的\n心吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "127/TALK",
+            "narrator": "千羽鶴",
+            "text": "しつこいです。\nさっさと恋ヶ崎みやびの\nココロを癒してあげて。",
+            "zh": "太纠缠了。\n快点去治愈恋之崎雅的\n心吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "131/TALK",
+            "narrator": "千羽鶴",
+            "text": "だから、私は\nチュートリアルキャラ。\nココロなんて存在しない。",
+            "zh": "我都说了，我是\n教程角色。\n根本不存在什么心。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "132/TALK",
+            "narrator": "千羽鶴",
+            "text": "さっさと恋ヶ崎みやびの\nココロを癒してあげて。",
+            "zh": "快点去治愈恋之崎雅的\n心吧。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "136/TALK",
+            "narrator": "千羽鶴",
+            "text": "残念だけど、私は単なる\nチュートリアルキャラ。\nココロなんて存在しない。",
+            "zh": "遗憾的是，我只是个\n教程角色。\n根本不存在什么心。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "137/TALK",
+            "narrator": "千羽鶴",
+            "text": "今は恋ヶ崎みやびの\nココロを癒すことに\n集中して。",
+            "zh": "现在请专注于\n治愈恋之崎雅的\n心。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "142/TALK",
+            "narrator": "千羽鶴",
+            "text": "話を戻すけど。\n確かに彼女の心の中は\n相当常軌を逸している。",
+            "zh": "言归正传。\n她的内心之中确实\n相当异于常人。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "144/TALK",
+            "narrator": "千羽鶴",
+            "text": "既に現実世界でも常軌を\n逸している彼女のこと。",
+            "zh": "毕竟她本来在现实世界\n就已经异于常人了。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "145/TALK",
+            "narrator": "千羽鶴",
+            "text": "これ以上は御免、とか\n思っても、それが普通の\nメンタルなんだと思う。",
+            "zh": "就算你会觉得“恕我敬谢不敏”，\n可那就是她再正常不过的\n精神状态。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "146/TALK",
+            "narrator": "千羽鶴",
+            "text": "けど、彼女にとっては、\nその行動自体が生きる為に\n重要な事なの。",
+            "zh": "但对她而言，\n那种行为本身，正是她\n为了活下去的重要支撑。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "147/TALK",
+            "narrator": "千羽鶴",
+            "text": "だから是非、\n真摯に向かい合って\n支えてあげてほしい。",
+            "zh": "所以无论如何，\n希望你能认真面对她，\n去支撑她。",
+            "narrator_zh": "千羽鹤"
+        },
+        {
+            "location": "148/TALK",
+            "narrator": "千羽鶴",
+            "text": "貴方と恋ヶ崎みやびに、\n素晴らしきココロの旅を。",
+            "zh": "祝你与恋之崎雅，\n有一场美妙的心灵之旅。",
+            "narrator_zh": "千羽鹤"
+        }
+    ]
+}

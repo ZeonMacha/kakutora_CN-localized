@@ -1,0 +1,602 @@
+{
+    "dir": "chap00/battle/btev_sc_10_00_02.js",
+    "type": "",
+    "info": {
+        "story_id": "105",
+        "cid": "",
+        "title": "【EXストーリー】スーパーメナー",
+        "sub_title": "シンクロストーリー",
+        "title_zh": "【EX剧情】超级梅纳",
+        "sub_title_zh": "同步剧情"
+    },
+    "entry": [
+        {
+            "location": "539/SCENARIO",
+            "narrator": "",
+            "text": "【結果】モーフィアス",
+            "zh": "【结果】摩耳甫斯",
+            "narrator_zh": ""
+        },
+        {
+            "location": "555/TALK",
+            "narrator": "神楽",
+            "text": "お帰りなさいませ。\nよい旅でしたか？",
+            "zh": "欢迎回来。\n是一场愉快的旅程吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "556/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さまが\n頑張ってくれたお陰で\n『コネクト』は完了です。",
+            "zh": "多亏了$handle$大人的\n努力，\n『连接』完成了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "557/TALK",
+            "narrator": "神楽",
+            "text": "モーフィアスの\nココロの中の\n抵抗は消えました。",
+            "zh": "摩耳甫斯\n心里的抗拒\n已经消散。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "558/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さまと\n繋がる準備が\nできたのです。",
+            "zh": "已经做好了\n与$handle$大人\n连结的准备。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "559/SEL",
+            "narrator": "（選択肢）",
+            "text": "次が『シンクロ』だよね",
+            "zh": "接下来就是『同步』对吧",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "560/ACT",
+            "narrator": "",
+            "text": "次が『シンクロ』だよね",
+            "zh": "接下来就是『同步』对吧",
+            "narrator_zh": ""
+        },
+        {
+            "location": "562/TALK",
+            "narrator": "神楽",
+            "text": "そうです！\nご名答！",
+            "zh": "没错！\n答对了！",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "563/TALK",
+            "narrator": "神楽",
+            "text": "シンクロをすると、\nモーフィアスの想いが\n流れ込みます。",
+            "zh": "进行同步的话，\n摩耳甫斯的心意就会\n流淌过来。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "564/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さまは、\nどうかそれを受け入れて\nあげてくださいませ。",
+            "zh": "还请$handle$大人\n务必接纳\n他的这份心意。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "565/TALK",
+            "narrator": "神楽",
+            "text": "準備はいかがですか？",
+            "zh": "准备好了吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "566/SEL",
+            "narrator": "（選択肢）",
+            "text": "できた",
+            "zh": "好了",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "567/SEL",
+            "narrator": "（選択肢）",
+            "text": "まだ",
+            "zh": "还没",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "568/ACT",
+            "narrator": "",
+            "text": "できた",
+            "zh": "好了",
+            "narrator_zh": ""
+        },
+        {
+            "location": "569/TALK",
+            "narrator": "神楽",
+            "text": "承知しました。\nそれではココロを\n繋げます。",
+            "zh": "我知道了。\n那么这就把心\n连起来。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "570/ACT",
+            "narrator": "",
+            "text": "まだ",
+            "zh": "还没",
+            "narrator_zh": ""
+        },
+        {
+            "location": "572/TALK",
+            "narrator": "神楽",
+            "text": "まだ、ですか…。",
+            "zh": "还没好，吗……。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "573/TALK",
+            "narrator": "神楽",
+            "text": "それでは一旦ここで\nお別れですね。",
+            "zh": "那我们就先在这里\n暂别了呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "574/TALK",
+            "narrator": "神楽",
+            "text": "準備ができたら\nお戻りください。",
+            "zh": "等准备好了，\n请再回来吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "582/TALK",
+            "narrator": "神楽",
+            "text": "EXEC_SYNC_SPHERE/.",
+            "zh": "EXEC_SYNC_SPHERE/.",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "595/DIALOG",
+            "narrator": "",
+            "text": "俺の世界では俺が法、\n刃向かうヤツはリアルBANだお――",
+            "zh": "在我的世界里我就是法，\n敢反抗的家伙一律现实BAN掉哦——",
+            "narrator_zh": ""
+        },
+        {
+            "location": "610/DIALOG",
+            "narrator": "",
+            "text": "朝倉祥太郎（あさくらしょうたろう）。\n23歳男。千葉県佐倉市在住。",
+            "zh": "朝仓祥太郎。\n23岁，男性。现居千叶县佐仓市。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "611/DIALOG",
+            "narrator": "",
+            "text": "子供の頃からゲームが大好きで、社会人になるまではコンシューマゲーム三昧だったが、お金を稼げるようになってからはスマホゲームやネットゲームに夢中になる。",
+            "zh": "他从小就特别喜欢游戏，踏入社会前一直沉迷于主机游戏，可自从自己能赚钱之后，便一头栽进了手游和网游里。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "612/DIALOG",
+            "narrator": "",
+            "text": "昼間会社に行き、夜は寝る間も惜しんでネトゲ。そんな生活をしているため、当然仕事の効率も上がらず、社内では三流社員として皆から冷たい視線を浴びていた。",
+            "zh": "白天去公司上班，晚上废寝忘食打网游。过着这样的生活，工作效率自然也提不上去，在公司里成了三流职员，受尽周围人的冷眼。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "613/DIALOG",
+            "narrator": "",
+            "text": "それでも彼は、そんなことはどうでも良かった。夜のネトゲ界では、彼はトップスターだったからだ。",
+            "zh": "即便如此，他也根本不在乎。因为在夜晚的网游世界里，他可是顶流明星。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "614/DIALOG",
+            "narrator": "",
+            "text": "国内売上No1のスマホゲーム「カプセル＆ドラゴン（カプドラ）」で、彼は半年間ランキング首位をキープし続けていたのである。",
+            "zh": "在国内销量第一的手游《胶囊与龙（卡普多拉）》中，他足足把排行榜首位的宝座守了半年之久。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "615/DIALOG",
+            "narrator": "",
+            "text": "それもそのはず、彼のこの１年間での課金総額は1000万をもくだらない。",
+            "zh": "这也难怪，他这一年来的氪金总额可是不低于1000万。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "616/DIALOG",
+            "narrator": "",
+            "text": "当然給料だけでは賄えず、貯金を食いつぶし、親から借り、そしてローンをしてまで維持し続けているのだ。なお「モーフィアス」はゲームでのハンドル名。",
+            "zh": "光靠工资当然负担不起，他花光了积蓄、向父母借钱，甚至背上贷款也要拼命维持下去。顺带一提，“摩耳甫斯”正是他在游戏里的网名。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "617/DIALOG",
+            "narrator": "",
+            "text": "借金があるにもかかわらず、しばらくは祥太郎にとって理想の世界が展開された。大手ゲーム誌などでも取り上げられ、名前が世に出たこともあった。",
+            "zh": "虽然背着一身债，但有一段时间里，祥太郎眼前确实展开了一片理想的世界。他甚至登上过大型游戏杂志，一度扬名。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "618/DIALOG",
+            "narrator": "",
+            "text": "だが、それが良くなかったのかもしれない。\nとあるカプドラ大型アップデートの日、彼は没落した。",
+            "zh": "可这或许反而成了坏事。\n在卡普多拉某次大型更新的那一天，他跌落神坛。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "623/DIALOG",
+            "narrator": "",
+            "text": "アップデートされたプログラムには些細なセキュリティホールのバグがあった。",
+            "zh": "更新后的程序里存在一个微不足道的安全漏洞BUG。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "624/DIALOG",
+            "narrator": "",
+            "text": "それを悪用した数名のユーザーによって、祥太郎は戦利品の大半（それも殆どがUR）を奪われた。その結果、祥太郎は下位に転落してしまったのだ。",
+            "zh": "几名玩家恶意利用了这个漏洞，把祥太郎的大半战利品（而且几乎全是UR）洗劫一空。结果，祥太郎一路跌到了下位区。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "625/DIALOG",
+            "narrator": "",
+            "text": "そのバグはすぐに修正されたが、祥太郎のアイテムが戻ってくることはなかった。",
+            "zh": "那个BUG虽然很快就被修复了，但祥太郎的道具却再也没有回来。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "626/DIALOG",
+            "narrator": "",
+            "text": "祥太郎は運営に抗議したが、全てを保障してくれることもなく、祥太郎は失意のどん底に落ちる。",
+            "zh": "祥太郎向官方运营抗议，可对方并没有全额补偿，祥太郎就此坠入失意的谷底。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "627/DIALOG",
+            "narrator": "",
+            "text": "自分が注ぎ込んできた1000万という課金総額。自分は1000万を顔も知らない誰かに奪われてしまったのだ。",
+            "zh": "自己倾注进去的1000万氪金总额。自己整整1000万，竟然被素不相识的陌生人夺走了。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "628/DIALOG",
+            "narrator": "",
+            "text": "祥太郎は運営と課金して得たアイテムを奪ったユーザーを呪った。",
+            "zh": "祥太郎诅咒运营方，诅咒夺走自己氪金道具的玩家。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "629/DIALOG",
+            "narrator": "",
+            "text": "それだけでなく楽しくプレイしている普通のユーザー、全てのゲームユーザーも呪った。",
+            "zh": "不仅如此，就连玩得正开心的普通玩家、乃至所有游戏玩家，他一并诅咒了。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "634/DIALOG",
+            "narrator": "",
+            "text": "祥太郎にとってゲームの中での王座とは、リアル以上に重要な事だったからだ。",
+            "zh": "因为对祥太郎来说，游戏里的王座，是比现实还要重要的东西。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "635/DIALOG",
+            "narrator": "",
+            "text": "それを奪ったユーザーはもちろん、自分が失意のどん底にいるにも関わらずゲームを楽しんでいるユーザーも許せないと呪った。そして祥太郎は発症した。",
+            "zh": "他不仅怨恨夺走王座的玩家，连自己跌入失意谷底时却还在享受游戏的玩家也无法原谅，不停地诅咒着。于是，祥太郎发症了。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "636/DIALOG",
+            "narrator": "",
+            "text": "全てのネトゲユーザーを、絶対に這い上がれない課金地獄とランキング地獄に落として永遠に彷徨い続けさせるために、リアルネットゲーム世界を構築したのである。",
+            "zh": "为了把所有网游玩家都打入永世不得翻身的氪金地狱与排名地狱、让他们永远徘徊其中，他构筑起了现实网游世界。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "653/TALK",
+            "narrator": "神楽",
+            "text": "これがモーフィアスの\n呪いです。",
+            "zh": "这就是摩耳甫斯的\n诅咒。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "654/SEL",
+            "narrator": "（選択肢）",
+            "text": "なんだかなあ",
+            "zh": "这算什么事啊",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "655/SEL",
+            "narrator": "（選択肢）",
+            "text": "身につまされる",
+            "zh": "感同身受啊",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "656/SEL",
+            "narrator": "（選択肢）",
+            "text": "運営ひどくない？",
+            "zh": "运营方也太过分了吧？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "657/ACT",
+            "narrator": "",
+            "text": "なんだかなあ",
+            "zh": "这算什么事啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "658/TALK",
+            "narrator": "神楽",
+            "text": "お気持ち\nお察しします。",
+            "zh": "我十分理解\n你的心情。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "659/ACT",
+            "narrator": "",
+            "text": "身につまされる",
+            "zh": "感同身受啊",
+            "narrator_zh": ""
+        },
+        {
+            "location": "660/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さまには\nお心当たりが\nおありなんですね。",
+            "zh": "看来$handle$大人\n对此也很有\n切身体会呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "661/ACT",
+            "narrator": "",
+            "text": "運営ひどくない？",
+            "zh": "运营方也太过分了吧？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "662/TALK",
+            "narrator": "神楽",
+            "text": "多少はそういう\n気持ちもありますが。",
+            "zh": "我多少也有点\n同感就是了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "663/TALK",
+            "narrator": "神楽",
+            "text": "それまでの行いも…\nということでは\nないのでしょうか？",
+            "zh": "不过那也算是他\n此前的所作所为招致的……\n不是吗？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "665/TALK",
+            "narrator": "神楽",
+            "text": "モーフィアスの強みは\nゲームというシステムを\n熟知しているところです。",
+            "zh": "摩耳甫斯的强项，\n在于他对游戏这个系统\n了如指掌。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "666/TALK",
+            "narrator": "神楽",
+            "text": "裏技やハック、バグ技。\nいわゆるチートな\n能力を持っています。",
+            "zh": "秘技、骇客手段、BUG技。\n他拥有所谓外挂级别的\n能力。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "667/TALK",
+            "narrator": "神楽",
+            "text": "$handle$さまを\n助けることが\nできるでしょう。",
+            "zh": "想必一定能\n帮上$handle$大人的\n忙吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "668/SEL",
+            "narrator": "（選択肢）",
+            "text": "もちろん",
+            "zh": "那当然",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "669/SEL",
+            "narrator": "（選択肢）",
+            "text": "うーん…",
+            "zh": "唔……",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "670/ACT",
+            "narrator": "",
+            "text": "もちろん",
+            "zh": "那当然",
+            "narrator_zh": ""
+        },
+        {
+            "location": "671/TALK",
+            "narrator": "神楽",
+            "text": "能力だけは\n高いですから。\nこのゴミは。",
+            "zh": "毕竟唯独能力\n倒是挺强的。\n这个垃圾。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "672/ACT",
+            "narrator": "",
+            "text": "うーん…",
+            "zh": "唔……",
+            "narrator_zh": ""
+        },
+        {
+            "location": "673/TALK",
+            "narrator": "神楽",
+            "text": "試してみるのも\n一興かと。",
+            "zh": "姑且一试\n也不失为一种乐趣。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "675/TALK",
+            "narrator": "神楽",
+            "text": "ゲームの世界とはいえ\nトップに上り詰めた\nことがあるのは。",
+            "zh": "虽说是在游戏世界里，\n但能一步步登上顶峰\n这件事本身。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "676/TALK",
+            "narrator": "神楽",
+            "text": "認めてあげても\nよいと思うのです。",
+            "zh": "我觉得倒也是\n可以认可他一下的。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "677/SEL",
+            "narrator": "（選択肢）",
+            "text": "ツンデレなの？",
+            "zh": "你这是傲娇吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "678/SEL",
+            "narrator": "（選択肢）",
+            "text": "確かにそうかも",
+            "zh": "确实可能如此",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "679/ACT",
+            "narrator": "",
+            "text": "ツンデレなの？",
+            "zh": "你这是傲娇吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "680/TALK",
+            "narrator": "神楽",
+            "text": "違います。\n断じて違うのです。",
+            "zh": "不是。\n断然不是。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "681/ACT",
+            "narrator": "",
+            "text": "確かにそうかも",
+            "zh": "确实可能如此",
+            "narrator_zh": ""
+        },
+        {
+            "location": "682/TALK",
+            "narrator": "神楽",
+            "text": "そうでしょう？\nわかってくださって\nうれしいです。",
+            "zh": "对吧？\n你能理解我真是\n太开心了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "684/TALK",
+            "narrator": "神楽",
+            "text": "モーフィアスは\n極端すぎる部分が\nありますが。",
+            "zh": "摩耳甫斯虽然\n有过于极端的\n地方。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "685/TALK",
+            "narrator": "神楽",
+            "text": "そうでなければ\n到底トップには\nなれなかったでしょう。",
+            "zh": "但要不是那样，\n恐怕根本登不上\n顶峰吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "686/TALK",
+            "narrator": "神楽",
+            "text": "それはどの世界でも\n同じだと思うのです。",
+            "zh": "我想这一点在哪个世界里\n都是一样的。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "687/TALK",
+            "narrator": "神楽",
+            "text": "仕事でも趣味でも\n学業でも。",
+            "zh": "无论是工作、兴趣，\n还是学业。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "688/SEL",
+            "narrator": "（選択肢）",
+            "text": "それって実体験？",
+            "zh": "那是你的亲身经历吗？",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "689/SEL",
+            "narrator": "（選択肢）",
+            "text": "神楽って意外と優しいよね",
+            "zh": "神乐其实意外地很温柔呢",
+            "narrator_zh": "（选项）"
+        },
+        {
+            "location": "690/ACT",
+            "narrator": "",
+            "text": "それって実体験？",
+            "zh": "那是你的亲身经历吗？",
+            "narrator_zh": ""
+        },
+        {
+            "location": "691/TALK",
+            "narrator": "神楽",
+            "text": "…ええと、まあ…\n…そうです。",
+            "zh": "……那个，嗯……\n……算是吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "692/ACT",
+            "narrator": "",
+            "text": "神楽って意外と優しいよね",
+            "zh": "神乐其实意外地很温柔呢",
+            "narrator_zh": ""
+        },
+        {
+            "location": "693/TALK",
+            "narrator": "神楽",
+            "text": "私はいつでも\n優しいんですよ？",
+            "zh": "我一直都是\n很温柔的哦？",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "695/TALK",
+            "narrator": "神楽",
+            "text": "さて。",
+            "zh": "好了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "696/TALK",
+            "narrator": "神楽",
+            "text": "今日からモーフィアスと\n$handle$さまは\nつながりました。",
+            "zh": "从今天起，摩耳甫斯和\n$handle$大人\n连结在一起了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "697/TALK",
+            "narrator": "神楽",
+            "text": "モーフィアスはぜひ\nこき使って\nやればいいと思います。",
+            "zh": "摩耳甫斯嘛，\n你尽管使劲差遣他\n就是了。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "698/TALK",
+            "narrator": "神楽",
+            "text": "足蹴にされるのは\nご褒美みたいですし。",
+            "zh": "反正被踩在脚下，\n对他来说好像反而是奖赏呢。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "699/TALK",
+            "narrator": "神楽",
+            "text": "またの機会が\nありましたら\nお会いしましょう。",
+            "zh": "如果有缘\n再见的话，\n我们再会吧。",
+            "narrator_zh": "神乐"
+        },
+        {
+            "location": "700/TALK",
+            "narrator": "神楽",
+            "text": "では今回は\nこれで失礼いたします。",
+            "zh": "那么这次就先\n在此告辞了。",
+            "narrator_zh": "神乐"
+        }
+    ]
+}
