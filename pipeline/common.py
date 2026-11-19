@@ -19,7 +19,7 @@ NOTES_DIR = TR_ROOT / "随读笔记"
 KANA_RE = re.compile(r"[\u3040-\u30ff\u31f0-\u31ff]")
 BRACKET_RE = re.compile(r"\[([^\[\]\n]+)\]")
 TAG_RE = re.compile(r"</?(?:color(?:=[^>]*)?|size(?:=[^>]*)?|b|i)>|<meta\b[^>]*/>|\$me\$|\$handle\$")
-URL_RE = re.compile(r"https?://[^\s\u3000\"'<>]+")
+URL_RE = re.compile(r"https?://[^\s\u3000\"'<>)\u3001-\uffff]+")
 
 # 源自 文风.md 的高优先级统一规则（覆盖旧表不一致之处）
 STYLE_OVERRIDES: dict[str, str] = {
@@ -228,13 +228,16 @@ NARRATOR_TO_CARD: dict[str, str] = {
     "逢瀬つばめ": "つばめ",
     "アーヤ": "アーヤ",
     "國政綾水": "アーヤ",
+    "あやみ": "アーヤ",
     "ガブリエラ": "ガブリエラ",
     "ガブ": "ガブリエラ",
     "ギャヴィ": "ガブリエラ",
+    "Garbiela": "ガブリエラ",
     "エリカ": "エリカ",
     "國政領火": "エリカ",
     "神楽": "神楽",
     "卯月神楽": "神楽",
+    "神": "神楽",
     "みやび": "みやび",
     "恋ヶ崎みやび": "みやび",
     "コイガサキ": "みやび",

@@ -169,7 +169,10 @@ def lint_file(src_path: Path, out_path: Path, ssot: dict) -> list[Issue]:
             issues.append(Issue("WARN", idx, "JEWEL_CHECK", "`ジュエル` rendered as `宝石` (confirm not currency `珠宝`)"))
 
         # 14. 敬称「您」检查
-        if "您" in zh and nar.strip() in ("つばめ", "アーヤ", "ガブリエラ", "みやび", "神楽", "千羽鶴"):
+        if "您" in zh and nar.strip() in (
+            "つばめ", "逢瀬つばめ", "アーヤ", "あやみ", "ガブリエラ", "Garbiela",
+            "みやび", "コイガサキ", "神楽", "神", "千羽鶴",
+        ):
             issues.append(Issue("WARN", idx, "POLITE_NIN", "Used `您` in main character dialogue (文风.md requires `你`)"))
 
         # 15. [?] 待校对标记汇总
