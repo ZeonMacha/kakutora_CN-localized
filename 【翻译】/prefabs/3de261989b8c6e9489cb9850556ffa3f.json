@@ -1,33 +1,35 @@
 {
- "dir": "3de261989b8c6e9489cb9850556ffa3f",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "10/UI",
-   "narrator": "Dialog_Login2/Panel/MessageA",
-   "text": "入力された名前は以下の通りです。",
-   "zh": "输入的名字如下。",
-   "narrator_zh": "Dialog_Login2/Panel/MessageA"
-  },
-  {
-   "location": "11/UI",
-   "narrator": "Dialog_Login2/Panel/MessageA/BackFace/Text",
-   "text": "INFORMATION\n\nFROM  TRIGADGET"
-  },
-  {
-   "location": "12/UI",
-   "narrator": "Dialog_Login2/Panel/MessageB",
-   "text": "これで開始します。\nよろしいですか？\n(名前は後で変更できます)",
-   "zh": "就这样开始。\n可以吗？\n(名字之后可以更改)",
-   "narrator_zh": "Dialog_Login2/Panel/MessageB"
-  },
-  {
-   "location": "13/UI",
-   "narrator": "Dialog_Login2/Panel/UserName/UserNameText",
-   "text": "がすとちゃん",
-   "zh": "GUST酱",
-   "narrator_zh": "Dialog_Login2/Panel/UserName/UserNameText"
-  }
- ]
+    "dir": "3de261989b8c6e9489cb9850556ffa3f",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "10/UI",
+            "narrator": "Dialog_Login2/Panel/MessageA",
+            "text": "入力された名前は以下の通りです。",
+            "zh": "输入的名字如下。",
+            "narrator_zh": "Dialog_Login2/Panel/MessageA"
+        },
+        {
+            "location": "11/UI",
+            "narrator": "Dialog_Login2/Panel/MessageA/BackFace/Text",
+            "text": "INFORMATION\n\nFROM  TRIGADGET",
+            "zh": "INFORMATION\n\nFROM  TRIGADGET",
+            "narrator_zh": "Dialog_Login2/Panel/MessageA/BackFace/Text"
+        },
+        {
+            "location": "12/UI",
+            "narrator": "Dialog_Login2/Panel/MessageB",
+            "text": "これで開始します。\nよろしいですか？\n(名前は後で変更できます)",
+            "zh": "就这样开始。\n可以吗？\n(名字之后可以更改)",
+            "narrator_zh": "Dialog_Login2/Panel/MessageB"
+        },
+        {
+            "location": "13/UI",
+            "narrator": "Dialog_Login2/Panel/UserName/UserNameText",
+            "text": "がすとちゃん",
+            "zh": "GUST酱",
+            "narrator_zh": "Dialog_Login2/Panel/UserName/UserNameText"
+        }
+    ]
 }

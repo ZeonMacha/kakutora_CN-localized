@@ -1,723 +1,889 @@
 {
- "dir": "d9a487b3882178b439f87ecb1bf2b2d0",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "1/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/BoostIncentive/InZone/C_Text_category",
-   "text": "N/A"
-  },
-  {
-   "location": "3/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/BoostIncentive/Text",
-   "text": "体以上所持で",
-   "zh": "只以上持有即",
-   "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/BoostIncentive/Text"
-  },
-  {
-   "location": "5/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/BoostIncentive/Text _boostinfo",
-   "text": "敏捷性MAX"
-  },
-  {
-   "location": "7/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/BoostInfo",
-   "text": "全てが初めてのつばめにとって、今回の東京旅行は全てが新鮮で輝いて見える。今まで見たこと無い発見や、素敵な出逢いがないだろうか。",
-   "zh": "对什么都是第一次的燕来说，这次东京之旅全都新鲜得发亮。会不会有至今没见过的发现，或者很好的相遇。",
-   "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/BoostInfo"
-  },
-  {
-   "location": "9/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/BoostName",
-   "text": "新発見への期待",
-   "zh": "对新发现的期待",
-   "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/BoostName"
-  },
-  {
-   "location": "11/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/Button_OK/Text",
-   "text": "OK"
-  },
-  {
-   "location": "13/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/CuranPanel/Curan1/Text_curanName",
-   "text": "N/A"
-  },
-  {
-   "location": "15/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/FlowGraphic/Text0",
-   "text": "解決可能な\nクラン所有数？",
-   "zh": "可解决的\n库兰持有数？",
-   "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/FlowGraphic/Text0"
-  },
-  {
-   "location": "17/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/FlowGraphic/Text1",
-   "text": "体以上所持"
-  },
-  {
-   "location": "19/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/FlowGraphic/Text2",
-   "text": "全て所持",
-   "zh": "全部持有",
-   "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/FlowGraphic/Text2"
-  },
-  {
-   "location": "21/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/InfoText1/Text",
-   "text": "以下のクランをゲットすることにより、「不安」や「辛い思い出」なら緩和され、「希望」や\n「やる気」なら、より強固なものになります。",
-   "zh": "获得以下库兰后，若是“不安”或“痛苦的回忆”便会缓解，若是“希望”或\n“干劲”则会变得更加牢固。",
-   "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/InfoText1/Text"
-  },
-  {
-   "location": "22/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/InfoText1/Text",
-   "text": "体存在する。",
-   "zh": "个。",
-   "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/InfoText1/Text"
-  },
-  {
-   "location": "25/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/C_Text_Info",
-   "text": "全て所持で、クランとーく解禁",
-   "zh": "全部持有后，解锁库兰闲聊",
-   "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/C_Text_Info"
-  },
-  {
-   "location": "27/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/Text_ButtonA",
-   "text": "クランとーく",
-   "zh": "库兰闲聊",
-   "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/Text_ButtonA"
-  },
-  {
-   "location": "29/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/Text_ButtonB",
-   "text": "を見る",
-   "zh": "查看",
-   "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/Text_ButtonB"
-  },
-  {
-   "location": "31/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/Text_ButtonC",
-   "text": "TAP HERE, WATCH THE CURAN TALK."
-  },
-  {
-   "location": "33/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/Yajirushi/sikaku/Text",
-   "text": "▼"
-  },
-  {
-   "location": "35/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/InsentiveInfo",
-   "text": "クランをゲットすると、以下の特典が得られます。",
-   "zh": "获得库兰后，可得到以下福利。",
-   "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/InsentiveInfo"
-  },
-  {
-   "location": "37/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/ItemInfo/Text_ItemName",
-   "text": "アイテム名",
-   "zh": "道具名",
-   "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/ItemInfo/Text_ItemName"
-  },
-  {
-   "location": "39/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/ItemInfo/Yajirushi/sikaku/Text",
-   "text": "▼"
-  },
-  {
-   "location": "41/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/Title01/Text",
-   "text": "BOOST INFORMATION."
-  },
-  {
-   "location": "43/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/Title02/Text",
-   "text": "BOOST LOGIC."
-  },
-  {
-   "location": "45/UI",
-   "narrator": "CB_Main_Canvas/Panel/InfoWindow/Title03/Text",
-   "text": "BOOST INCENTIVE."
-  },
-  {
-   "location": "47/UI",
-   "narrator": "CB_Main_Canvas/Panel/LeftButton/Text_nextChapter",
-   "text": "Mi-05"
-  },
-  {
-   "location": "49/UI",
-   "narrator": "CB_Main_Canvas/Panel/LeftButton/Text_prevChapter",
-   "text": "Mi-05"
-  },
-  {
-   "location": "51/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/BoostInfo/InZone/C_Text_category",
-   "text": "N/A"
-  },
-  {
-   "location": "53/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/BoostInfo/InZone/kouka/Text",
-   "text": "効果"
-  },
-  {
-   "location": "55/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/BoostInfo/OutZone/Text_X",
-   "text": "×\n"
-  },
-  {
-   "location": "57/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/BoostInfo/OutZone/Text_ue",
-   "text": "▲\n"
-  },
-  {
-   "location": "59/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/CuranEventEnable/Text",
-   "text": "クランとーく解禁",
-   "zh": "解锁库兰闲聊",
-   "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/CuranEventEnable/Text"
-  },
-  {
-   "location": "61/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/CuranTitle/C_Text",
-   "text": "解決クラン",
-   "zh": "解决库兰",
-   "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/CuranTitle/C_Text"
-  },
-  {
-   "location": "63/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/Text_CuranName",
-   "text": "N/A"
-  },
-  {
-   "location": "65/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/Text_boostName",
-   "text": "N/A"
-  },
-  {
-   "location": "67/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/Title/C_Text",
-   "text": "KOKORO BOOST.01"
-  },
-  {
-   "location": "69/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/BoostInfo/InZone/C_Text_category",
-   "text": "N/A"
-  },
-  {
-   "location": "71/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/BoostInfo/InZone/kouka/Text",
-   "text": "効果"
-  },
-  {
-   "location": "73/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/BoostInfo/OutZone/Text_X",
-   "text": "×\n"
-  },
-  {
-   "location": "75/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/BoostInfo/OutZone/Text_ue",
-   "text": "▲\n"
-  },
-  {
-   "location": "77/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/CuranEventEnable/Text",
-   "text": "クランとーく解禁",
-   "zh": "解锁库兰闲聊",
-   "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/CuranEventEnable/Text"
-  },
-  {
-   "location": "79/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/CuranTitle/C_Text",
-   "text": "解決クラン",
-   "zh": "解决库兰",
-   "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/CuranTitle/C_Text"
-  },
-  {
-   "location": "81/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/Text_CuranName",
-   "text": "N/A"
-  },
-  {
-   "location": "83/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/Text_boostName",
-   "text": "N/A"
-  },
-  {
-   "location": "85/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/Title/C_Text",
-   "text": "KOKORO BOOST.02"
-  },
-  {
-   "location": "87/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/BoostInfo/InZone/C_Text_category",
-   "text": "N/A"
-  },
-  {
-   "location": "89/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/BoostInfo/InZone/kouka/Text",
-   "text": "効果"
-  },
-  {
-   "location": "91/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/BoostInfo/OutZone/Text_X",
-   "text": "×\n"
-  },
-  {
-   "location": "93/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/BoostInfo/OutZone/Text_ue",
-   "text": "▲\n"
-  },
-  {
-   "location": "95/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/CuranEventEnable/Text",
-   "text": "クランとーく解禁",
-   "zh": "解锁库兰闲聊",
-   "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/CuranEventEnable/Text"
-  },
-  {
-   "location": "97/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/CuranTitle/C_Text",
-   "text": "解決クラン",
-   "zh": "解决库兰",
-   "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/CuranTitle/C_Text"
-  },
-  {
-   "location": "99/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/Text_CuranName",
-   "text": "N/A"
-  },
-  {
-   "location": "101/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/Text_boostName",
-   "text": "N/A"
-  },
-  {
-   "location": "103/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/Title/C_Text",
-   "text": "KOKORO BOOST.03"
-  },
-  {
-   "location": "105/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/BoostInfo/InZone/C_Text_category",
-   "text": "N/A"
-  },
-  {
-   "location": "107/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/BoostInfo/InZone/kouka/Text",
-   "text": "効果"
-  },
-  {
-   "location": "109/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/BoostInfo/OutZone/Text_X",
-   "text": "×\n"
-  },
-  {
-   "location": "111/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/BoostInfo/OutZone/Text_ue",
-   "text": "▲\n"
-  },
-  {
-   "location": "113/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/CuranEventEnable/Text",
-   "text": "クランとーく解禁",
-   "zh": "解锁库兰闲聊",
-   "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/CuranEventEnable/Text"
-  },
-  {
-   "location": "115/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/CuranTitle/C_Text",
-   "text": "解決クラン",
-   "zh": "解决库兰",
-   "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/CuranTitle/C_Text"
-  },
-  {
-   "location": "117/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/Text_CuranName",
-   "text": "N/A"
-  },
-  {
-   "location": "119/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/Text_boostName",
-   "text": "N/A"
-  },
-  {
-   "location": "121/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/Title/C_Text",
-   "text": "KOKORO BOOST.04"
-  },
-  {
-   "location": "123/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/BoostInfo/InZone/C_Text_category",
-   "text": "N/A"
-  },
-  {
-   "location": "125/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/BoostInfo/InZone/kouka/Text",
-   "text": "効果"
-  },
-  {
-   "location": "127/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/BoostInfo/OutZone/Text_X",
-   "text": "×\n"
-  },
-  {
-   "location": "129/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/BoostInfo/OutZone/Text_ue",
-   "text": "▲\n"
-  },
-  {
-   "location": "131/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/CuranEventEnable/Text",
-   "text": "クランとーく解禁",
-   "zh": "解锁库兰闲聊",
-   "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/CuranEventEnable/Text"
-  },
-  {
-   "location": "133/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/CuranTitle/C_Text",
-   "text": "解決クラン",
-   "zh": "解决库兰",
-   "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/CuranTitle/C_Text"
-  },
-  {
-   "location": "135/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/Text_CuranName",
-   "text": "N/A"
-  },
-  {
-   "location": "137/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/Text_boostName",
-   "text": "N/A"
-  },
-  {
-   "location": "139/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/Title/C_Text",
-   "text": "KOKORO BOOST.05"
-  },
-  {
-   "location": "141/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/Image_BackBottun/Text_Back",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/Image_BackBottun/Text_Back"
-  },
-  {
-   "location": "143/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/Text_FriendChoice",
-   "text": "KOKORO=CURAN BOOST"
-  },
-  {
-   "location": "145/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/Text_REDINESS",
-   "text": "彼女のココロのざわめきをクランの力で解消し\nココロを強化するためのチェインミッション",
-   "zh": "用库兰的力量平息她心中的躁动，\n并强化内心的连携任务",
-   "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/Text_REDINESS"
-  },
-  {
-   "location": "147/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/TopPanel/Text_mission",
-   "text": "Now Loading..."
-  },
-  {
-   "location": "149/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/TopPanel/Text_per/Text",
-   "text": "解消率 "
-  },
-  {
-   "location": "151/UI",
-   "narrator": "CB_Main_Canvas/Panel/MainPanel/TopPanel/Title/Textmission",
-   "text": "MISSION."
-  },
-  {
-   "location": "153/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Bar/Texts/Text_category",
-   "text": "ATK"
-  },
-  {
-   "location": "155/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Bar/Texts/Text_migi",
-   "text": " → "
-  },
-  {
-   "location": "157/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_BLUE/Image_ICON_BASE/Text",
-   "text": "【哀】"
-  },
-  {
-   "location": "159/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_BLUE/Text_Num",
-   "text": "０１２３４５６７８９０"
-  },
-  {
-   "location": "161/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_BLUE/Text_UP_JP",
-   "text": "ココロキャンディGET!!",
-   "zh": "心之糖果GET!!",
-   "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_BLUE/Text_UP_JP"
-  },
-  {
-   "location": "163/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_GREEN/Image_ICON_BASE/Text",
-   "text": "【楽】"
-  },
-  {
-   "location": "165/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_GREEN/Text_Num",
-   "text": "+3個"
-  },
-  {
-   "location": "167/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_GREEN/Text_UP_JP",
-   "text": "ココロキャンディGET!!",
-   "zh": "心之糖果GET!!",
-   "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_GREEN/Text_UP_JP"
-  },
-  {
-   "location": "169/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_RED/Image_ICON_BASE/Text",
-   "text": "【怒】"
-  },
-  {
-   "location": "171/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_RED/Text_Num",
-   "text": "+3個"
-  },
-  {
-   "location": "173/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_RED/Text_UP_JP",
-   "text": "ココロキャンディGET!!",
-   "zh": "心之糖果GET!!",
-   "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_RED/Text_UP_JP"
-  },
-  {
-   "location": "175/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_BLUE/Image_ICON_BASE/Text",
-   "text": "【悲哀】"
-  },
-  {
-   "location": "177/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_BLUE/Text_Num",
-   "text": "０１２３４５６７８９０"
-  },
-  {
-   "location": "179/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_BLUE/Text_UP_JP",
-   "text": "ココロキャンディGET!!",
-   "zh": "心之糖果GET!!",
-   "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_BLUE/Text_UP_JP"
-  },
-  {
-   "location": "181/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_GREEN/Image_ICON_BASE/Text",
-   "text": "【快楽】"
-  },
-  {
-   "location": "183/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_GREEN/Text_Num",
-   "text": "+3個"
-  },
-  {
-   "location": "185/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_GREEN/Text_UP_JP",
-   "text": "ココロキャンディGET!!",
-   "zh": "心之糖果GET!!",
-   "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_GREEN/Text_UP_JP"
-  },
-  {
-   "location": "187/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_RED/Image_ICON_BASE/Text",
-   "text": "【憤怒】"
-  },
-  {
-   "location": "189/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_RED/Text_Num",
-   "text": "+3個"
-  },
-  {
-   "location": "191/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_RED/Text_UP_JP",
-   "text": "ココロキャンディGET!!",
-   "zh": "心之糖果GET!!",
-   "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_RED/Text_UP_JP"
-  },
-  {
-   "location": "193/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_YELLOW/Image_ICON_BASE/Text",
-   "text": "【歓喜】"
-  },
-  {
-   "location": "195/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_YELLOW/Text_Num",
-   "text": "+3個"
-  },
-  {
-   "location": "197/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_YELLOW/Text_UP_JP",
-   "text": "ココロキャンディGET!!",
-   "zh": "心之糖果GET!!",
-   "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_YELLOW/Text_UP_JP"
-  },
-  {
-   "location": "199/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_YELLOW/Image_ICON_BASE/Text",
-   "text": "【喜】"
-  },
-  {
-   "location": "201/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_YELLOW/Text_Num",
-   "text": "+3個"
-  },
-  {
-   "location": "203/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_YELLOW/Text_UP_JP",
-   "text": "ココロキャンディGET!!",
-   "zh": "心之糖果GET!!",
-   "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_YELLOW/Text_UP_JP"
-  },
-  {
-   "location": "205/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/COIN/Text_Num",
-   "text": "+3個"
-  },
-  {
-   "location": "207/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/COIN/Text_UP_JP",
-   "text": "コインGET!!",
-   "zh": "金币GET!!",
-   "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/COIN/Text_UP_JP"
-  },
-  {
-   "location": "209/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/COSTUME/Text_Num",
-   "text": "０１２３４５６７８９０"
-  },
-  {
-   "location": "211/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/COSTUME/Text_UP_JP",
-   "text": "コスチュームGET!!",
-   "zh": "服装GET!!",
-   "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/COSTUME/Text_UP_JP"
-  },
-  {
-   "location": "213/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CURANTALK/Text_Num",
-   "text": "+3個"
-  },
-  {
-   "location": "215/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CURANTALK/Text_UP_JP",
-   "text": "クランとーくGET!!",
-   "zh": "库兰闲聊GET!!",
-   "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CURANTALK/Text_UP_JP"
-  },
-  {
-   "location": "217/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/C_JEWEL/Text_Num",
-   "text": "+3個"
-  },
-  {
-   "location": "219/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/C_JEWEL/Text_UP_JP",
-   "text": "クランジュエルGET!!",
-   "zh": "库兰珠宝GET!!",
-   "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/C_JEWEL/Text_UP_JP"
-  },
-  {
-   "location": "221/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/GOKIGEN/Text_Num",
-   "text": "+3個"
-  },
-  {
-   "location": "223/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/GOKIGEN/Text_UP_JP",
-   "text": "ゴキゲンPt.GET!!",
-   "zh": "心情点数GET!!",
-   "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/GOKIGEN/Text_UP_JP"
-  },
-  {
-   "location": "225/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/ITEM/Text_Num",
-   "text": "０１２３４５６７８９０１２"
-  },
-  {
-   "location": "227/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/ITEM/Text_UP_JP",
-   "text": "デートアイテムGET!!",
-   "zh": "约会道具GET!!",
-   "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/ITEM/Text_UP_JP"
-  },
-  {
-   "location": "229/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/JEWEL/Text_Num",
-   "text": "+3個"
-  },
-  {
-   "location": "231/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/JEWEL/Text_UP_JP",
-   "text": "ジュエルGET!!",
-   "zh": "珠宝GET!!",
-   "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/JEWEL/Text_UP_JP"
-  },
-  {
-   "location": "233/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Text_toppaInfo",
-   "text": "限界突破！"
-  },
-  {
-   "location": "235/UI",
-   "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Text_toppaParam",
-   "text": "攻撃力MAX+5"
-  },
-  {
-   "location": "237/UI",
-   "narrator": "CB_Main_Canvas/Panel/RightButton/Text_nextChapter",
-   "text": "Mi-05"
-  },
-  {
-   "location": "239/UI",
-   "narrator": "CB_Main_Canvas/Panel/RightButton/Text_prevChapter",
-   "text": "Mi-05"
-  },
-  {
-   "location": "241/UI",
-   "narrator": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3A/Panel/Message",
-   "text": "どう？　何かもらえた？\nもらえた貴方はおめでとう。\n\nこんな感じで、<color=red>該当するクランを\n持っているだけで特典がもらえる\nお得なプログラム</color>なの。\n\n今回当たらなかった貴方も、\nまたガチャを引いたりして\n新しいクランをゲットすれば、\n次は何かもらえるかも。\n",
-   "zh": "怎样？拿到了吗？\n拿到的话，恭喜你。\n\n就是这样，<color=red>只要持有对应的库兰\n就能拿到福利，\n很划算的项目</color>。\n\n这次没抽中的你也一样，\n再去转转扭蛋，\n拿到新库兰的话，\n下次也许就能领到什么。\n",
-   "narrator_zh": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3A/Panel/Message"
-  },
-  {
-   "location": "243/UI",
-   "narrator": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "245/UI",
-   "narrator": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "247/UI",
-   "narrator": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3B/Panel/Message",
-   "text": "新しいクランをゲットしたら\nまずここに来る。これ原則ね。\n\n…と、だいぶ寄り道が過ぎたかも。\n<color=green>【HOME】</color>へ戻りましょ。\n",
-   "zh": "拿到新库兰之后，\n先到这里来。这是原则。\n\n……不过，好像绕得太远了。\n回<color=green>【HOME】</color>吧。\n",
-   "narrator_zh": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3B/Panel/Message"
-  },
-  {
-   "location": "249/UI",
-   "narrator": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3B/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3B/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "251/UI",
-   "narrator": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3B/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  }
- ]
+    "dir": "d9a487b3882178b439f87ecb1bf2b2d0",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "1/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/BoostIncentive/InZone/C_Text_category",
+            "text": "N/A",
+            "zh": "N/A",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/BoostIncentive/InZone/C_Text_category"
+        },
+        {
+            "location": "3/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/BoostIncentive/Text",
+            "text": "体以上所持で",
+            "zh": "只以上持有即",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/BoostIncentive/Text"
+        },
+        {
+            "location": "5/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/BoostIncentive/Text _boostinfo",
+            "text": "敏捷性MAX",
+            "zh": "敏捷性MAX",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/BoostIncentive/Text _boostinfo"
+        },
+        {
+            "location": "7/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/BoostInfo",
+            "text": "全てが初めてのつばめにとって、今回の東京旅行は全てが新鮮で輝いて見える。今まで見たこと無い発見や、素敵な出逢いがないだろうか。",
+            "zh": "对什么都是第一次的燕来说，这次东京之旅全都新鲜得发亮。会不会有至今没见过的发现，或者很好的相遇。",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/BoostInfo"
+        },
+        {
+            "location": "9/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/BoostName",
+            "text": "新発見への期待",
+            "zh": "对新发现的期待",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/BoostName"
+        },
+        {
+            "location": "11/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/Button_OK/Text",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/Button_OK/Text"
+        },
+        {
+            "location": "13/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/CuranPanel/Curan1/Text_curanName",
+            "text": "N/A",
+            "zh": "N/A",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/CuranPanel/Curan1/Text_curanName"
+        },
+        {
+            "location": "15/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/FlowGraphic/Text0",
+            "text": "解決可能な\nクラン所有数？",
+            "zh": "可解决的\n库兰持有数？",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/FlowGraphic/Text0"
+        },
+        {
+            "location": "17/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/FlowGraphic/Text1",
+            "text": "体以上所持",
+            "zh": "只以上持有",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/FlowGraphic/Text1"
+        },
+        {
+            "location": "19/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/FlowGraphic/Text2",
+            "text": "全て所持",
+            "zh": "全部持有",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/FlowGraphic/Text2"
+        },
+        {
+            "location": "21/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/InfoText1/Text",
+            "text": "以下のクランをゲットすることにより、「不安」や「辛い思い出」なら緩和され、「希望」や\n「やる気」なら、より強固なものになります。",
+            "zh": "获得以下库兰后，若是“不安”或“痛苦的回忆”便会缓解，若是“希望”或\n“干劲”则会变得更加牢固。",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/InfoText1/Text"
+        },
+        {
+            "location": "22/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/InfoText1/Text",
+            "text": "体存在する。",
+            "zh": "个。",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/CuranFlow/InfoText1/Text"
+        },
+        {
+            "location": "25/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/C_Text_Info",
+            "text": "全て所持で、クランとーく解禁",
+            "zh": "全部持有后，解锁库兰闲聊",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/C_Text_Info"
+        },
+        {
+            "location": "27/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/Text_ButtonA",
+            "text": "クランとーく",
+            "zh": "库兰闲聊",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/Text_ButtonA"
+        },
+        {
+            "location": "29/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/Text_ButtonB",
+            "text": "を見る",
+            "zh": "查看",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/Text_ButtonB"
+        },
+        {
+            "location": "31/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/Text_ButtonC",
+            "text": "TAP HERE, WATCH THE CURAN TALK.",
+            "zh": "TAP HERE, WATCH THE CURAN TALK.",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/Text_ButtonC"
+        },
+        {
+            "location": "33/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/Yajirushi/sikaku/Text",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/EventInfo/Yajirushi/sikaku/Text"
+        },
+        {
+            "location": "35/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/InsentiveInfo",
+            "text": "クランをゲットすると、以下の特典が得られます。",
+            "zh": "获得库兰后，可得到以下福利。",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/InsentiveInfo"
+        },
+        {
+            "location": "37/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/ItemInfo/Text_ItemName",
+            "text": "アイテム名",
+            "zh": "道具名",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/ItemInfo/Text_ItemName"
+        },
+        {
+            "location": "39/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/ItemInfo/Yajirushi/sikaku/Text",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/ItemInfo/Yajirushi/sikaku/Text"
+        },
+        {
+            "location": "41/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/Title01/Text",
+            "text": "BOOST INFORMATION.",
+            "zh": "BOOST INFORMATION.",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/Title01/Text"
+        },
+        {
+            "location": "43/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/Title02/Text",
+            "text": "BOOST LOGIC.",
+            "zh": "BOOST LOGIC.",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/Title02/Text"
+        },
+        {
+            "location": "45/UI",
+            "narrator": "CB_Main_Canvas/Panel/InfoWindow/Title03/Text",
+            "text": "BOOST INCENTIVE.",
+            "zh": "BOOST INCENTIVE.",
+            "narrator_zh": "CB_Main_Canvas/Panel/InfoWindow/Title03/Text"
+        },
+        {
+            "location": "47/UI",
+            "narrator": "CB_Main_Canvas/Panel/LeftButton/Text_nextChapter",
+            "text": "Mi-05",
+            "zh": "Mi-05",
+            "narrator_zh": "CB_Main_Canvas/Panel/LeftButton/Text_nextChapter"
+        },
+        {
+            "location": "49/UI",
+            "narrator": "CB_Main_Canvas/Panel/LeftButton/Text_prevChapter",
+            "text": "Mi-05",
+            "zh": "Mi-05",
+            "narrator_zh": "CB_Main_Canvas/Panel/LeftButton/Text_prevChapter"
+        },
+        {
+            "location": "51/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/BoostInfo/InZone/C_Text_category",
+            "text": "N/A",
+            "zh": "N/A",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/BoostInfo/InZone/C_Text_category"
+        },
+        {
+            "location": "53/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/BoostInfo/InZone/kouka/Text",
+            "text": "効果",
+            "zh": "效果",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/BoostInfo/InZone/kouka/Text"
+        },
+        {
+            "location": "55/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/BoostInfo/OutZone/Text_X",
+            "text": "×\n",
+            "zh": "×\n",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/BoostInfo/OutZone/Text_X"
+        },
+        {
+            "location": "57/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/BoostInfo/OutZone/Text_ue",
+            "text": "▲\n",
+            "zh": "▲\n",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/BoostInfo/OutZone/Text_ue"
+        },
+        {
+            "location": "59/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/CuranEventEnable/Text",
+            "text": "クランとーく解禁",
+            "zh": "解锁库兰闲聊",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/CuranEventEnable/Text"
+        },
+        {
+            "location": "61/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/CuranTitle/C_Text",
+            "text": "解決クラン",
+            "zh": "解决库兰",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/CuranTitle/C_Text"
+        },
+        {
+            "location": "63/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/Text_CuranName",
+            "text": "N/A",
+            "zh": "N/A",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/Text_CuranName"
+        },
+        {
+            "location": "65/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/Text_boostName",
+            "text": "N/A",
+            "zh": "N/A",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/Text_boostName"
+        },
+        {
+            "location": "67/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/Title/C_Text",
+            "text": "KOKORO BOOST.01",
+            "zh": "KOKORO BOOST.01",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_1/C_Panel/Title/C_Text"
+        },
+        {
+            "location": "69/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/BoostInfo/InZone/C_Text_category",
+            "text": "N/A",
+            "zh": "N/A",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/BoostInfo/InZone/C_Text_category"
+        },
+        {
+            "location": "71/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/BoostInfo/InZone/kouka/Text",
+            "text": "効果",
+            "zh": "效果",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/BoostInfo/InZone/kouka/Text"
+        },
+        {
+            "location": "73/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/BoostInfo/OutZone/Text_X",
+            "text": "×\n",
+            "zh": "×\n",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/BoostInfo/OutZone/Text_X"
+        },
+        {
+            "location": "75/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/BoostInfo/OutZone/Text_ue",
+            "text": "▲\n",
+            "zh": "▲\n",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/BoostInfo/OutZone/Text_ue"
+        },
+        {
+            "location": "77/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/CuranEventEnable/Text",
+            "text": "クランとーく解禁",
+            "zh": "解锁库兰闲聊",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/CuranEventEnable/Text"
+        },
+        {
+            "location": "79/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/CuranTitle/C_Text",
+            "text": "解決クラン",
+            "zh": "解决库兰",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/CuranTitle/C_Text"
+        },
+        {
+            "location": "81/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/Text_CuranName",
+            "text": "N/A",
+            "zh": "N/A",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/Text_CuranName"
+        },
+        {
+            "location": "83/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/Text_boostName",
+            "text": "N/A",
+            "zh": "N/A",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/Text_boostName"
+        },
+        {
+            "location": "85/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/Title/C_Text",
+            "text": "KOKORO BOOST.02",
+            "zh": "KOKORO BOOST.02",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_2/C_Panel/Title/C_Text"
+        },
+        {
+            "location": "87/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/BoostInfo/InZone/C_Text_category",
+            "text": "N/A",
+            "zh": "N/A",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/BoostInfo/InZone/C_Text_category"
+        },
+        {
+            "location": "89/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/BoostInfo/InZone/kouka/Text",
+            "text": "効果",
+            "zh": "效果",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/BoostInfo/InZone/kouka/Text"
+        },
+        {
+            "location": "91/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/BoostInfo/OutZone/Text_X",
+            "text": "×\n",
+            "zh": "×\n",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/BoostInfo/OutZone/Text_X"
+        },
+        {
+            "location": "93/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/BoostInfo/OutZone/Text_ue",
+            "text": "▲\n",
+            "zh": "▲\n",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/BoostInfo/OutZone/Text_ue"
+        },
+        {
+            "location": "95/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/CuranEventEnable/Text",
+            "text": "クランとーく解禁",
+            "zh": "解锁库兰闲聊",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/CuranEventEnable/Text"
+        },
+        {
+            "location": "97/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/CuranTitle/C_Text",
+            "text": "解決クラン",
+            "zh": "解决库兰",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/CuranTitle/C_Text"
+        },
+        {
+            "location": "99/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/Text_CuranName",
+            "text": "N/A",
+            "zh": "N/A",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/Text_CuranName"
+        },
+        {
+            "location": "101/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/Text_boostName",
+            "text": "N/A",
+            "zh": "N/A",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/Text_boostName"
+        },
+        {
+            "location": "103/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/Title/C_Text",
+            "text": "KOKORO BOOST.03",
+            "zh": "KOKORO BOOST.03",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_3/C_Panel/Title/C_Text"
+        },
+        {
+            "location": "105/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/BoostInfo/InZone/C_Text_category",
+            "text": "N/A",
+            "zh": "N/A",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/BoostInfo/InZone/C_Text_category"
+        },
+        {
+            "location": "107/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/BoostInfo/InZone/kouka/Text",
+            "text": "効果",
+            "zh": "效果",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/BoostInfo/InZone/kouka/Text"
+        },
+        {
+            "location": "109/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/BoostInfo/OutZone/Text_X",
+            "text": "×\n",
+            "zh": "×\n",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/BoostInfo/OutZone/Text_X"
+        },
+        {
+            "location": "111/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/BoostInfo/OutZone/Text_ue",
+            "text": "▲\n",
+            "zh": "▲\n",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/BoostInfo/OutZone/Text_ue"
+        },
+        {
+            "location": "113/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/CuranEventEnable/Text",
+            "text": "クランとーく解禁",
+            "zh": "解锁库兰闲聊",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/CuranEventEnable/Text"
+        },
+        {
+            "location": "115/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/CuranTitle/C_Text",
+            "text": "解決クラン",
+            "zh": "解决库兰",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/CuranTitle/C_Text"
+        },
+        {
+            "location": "117/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/Text_CuranName",
+            "text": "N/A",
+            "zh": "N/A",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/Text_CuranName"
+        },
+        {
+            "location": "119/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/Text_boostName",
+            "text": "N/A",
+            "zh": "N/A",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/Text_boostName"
+        },
+        {
+            "location": "121/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/Title/C_Text",
+            "text": "KOKORO BOOST.04",
+            "zh": "KOKORO BOOST.04",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_4/C_Panel/Title/C_Text"
+        },
+        {
+            "location": "123/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/BoostInfo/InZone/C_Text_category",
+            "text": "N/A",
+            "zh": "N/A",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/BoostInfo/InZone/C_Text_category"
+        },
+        {
+            "location": "125/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/BoostInfo/InZone/kouka/Text",
+            "text": "効果",
+            "zh": "效果",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/BoostInfo/InZone/kouka/Text"
+        },
+        {
+            "location": "127/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/BoostInfo/OutZone/Text_X",
+            "text": "×\n",
+            "zh": "×\n",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/BoostInfo/OutZone/Text_X"
+        },
+        {
+            "location": "129/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/BoostInfo/OutZone/Text_ue",
+            "text": "▲\n",
+            "zh": "▲\n",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/BoostInfo/OutZone/Text_ue"
+        },
+        {
+            "location": "131/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/CuranEventEnable/Text",
+            "text": "クランとーく解禁",
+            "zh": "解锁库兰闲聊",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/CuranEventEnable/Text"
+        },
+        {
+            "location": "133/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/CuranTitle/C_Text",
+            "text": "解決クラン",
+            "zh": "解决库兰",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/CuranTitle/C_Text"
+        },
+        {
+            "location": "135/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/Text_CuranName",
+            "text": "N/A",
+            "zh": "N/A",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/Text_CuranName"
+        },
+        {
+            "location": "137/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/Text_boostName",
+            "text": "N/A",
+            "zh": "N/A",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/Text_boostName"
+        },
+        {
+            "location": "139/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/Title/C_Text",
+            "text": "KOKORO BOOST.05",
+            "zh": "KOKORO BOOST.05",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/BoostPanelGroup/Panel_5/C_Panel/Title/C_Text"
+        },
+        {
+            "location": "141/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/Image_BackBottun/Text_Back",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/Image_BackBottun/Text_Back"
+        },
+        {
+            "location": "143/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/Text_FriendChoice",
+            "text": "KOKORO=CURAN BOOST",
+            "zh": "KOKORO=CURAN BOOST",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/Text_FriendChoice"
+        },
+        {
+            "location": "145/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/Text_REDINESS",
+            "text": "彼女のココロのざわめきをクランの力で解消し\nココロを強化するためのチェインミッション",
+            "zh": "用库兰的力量平息她心中的躁动，\n并强化内心的连携任务",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/Text_REDINESS"
+        },
+        {
+            "location": "147/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/TopPanel/Text_mission",
+            "text": "Now Loading...",
+            "zh": "Now Loading...",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/TopPanel/Text_mission"
+        },
+        {
+            "location": "149/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/TopPanel/Text_per/Text",
+            "text": "解消率 ",
+            "zh": "消除率 ",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/TopPanel/Text_per/Text"
+        },
+        {
+            "location": "151/UI",
+            "narrator": "CB_Main_Canvas/Panel/MainPanel/TopPanel/Title/Textmission",
+            "text": "MISSION.",
+            "zh": "MISSION.",
+            "narrator_zh": "CB_Main_Canvas/Panel/MainPanel/TopPanel/Title/Textmission"
+        },
+        {
+            "location": "153/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Bar/Texts/Text_category",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Bar/Texts/Text_category"
+        },
+        {
+            "location": "155/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Bar/Texts/Text_migi",
+            "text": " → ",
+            "zh": " → ",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Bar/Texts/Text_migi"
+        },
+        {
+            "location": "157/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_BLUE/Image_ICON_BASE/Text",
+            "text": "【哀】",
+            "zh": "【哀】",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_BLUE/Image_ICON_BASE/Text"
+        },
+        {
+            "location": "159/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_BLUE/Text_Num",
+            "text": "０１２３４５６７８９０",
+            "zh": "０１２３４５６７８９０",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_BLUE/Text_Num"
+        },
+        {
+            "location": "161/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_BLUE/Text_UP_JP",
+            "text": "ココロキャンディGET!!",
+            "zh": "心之糖果GET!!",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_BLUE/Text_UP_JP"
+        },
+        {
+            "location": "163/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_GREEN/Image_ICON_BASE/Text",
+            "text": "【楽】",
+            "zh": "【乐】",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_GREEN/Image_ICON_BASE/Text"
+        },
+        {
+            "location": "165/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_GREEN/Text_Num",
+            "text": "+3個",
+            "zh": "+3个",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_GREEN/Text_Num"
+        },
+        {
+            "location": "167/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_GREEN/Text_UP_JP",
+            "text": "ココロキャンディGET!!",
+            "zh": "心之糖果GET!!",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_GREEN/Text_UP_JP"
+        },
+        {
+            "location": "169/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_RED/Image_ICON_BASE/Text",
+            "text": "【怒】",
+            "zh": "【怒】",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_RED/Image_ICON_BASE/Text"
+        },
+        {
+            "location": "171/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_RED/Text_Num",
+            "text": "+3個",
+            "zh": "+3个",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_RED/Text_Num"
+        },
+        {
+            "location": "173/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_RED/Text_UP_JP",
+            "text": "ココロキャンディGET!!",
+            "zh": "心之糖果GET!!",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_RED/Text_UP_JP"
+        },
+        {
+            "location": "175/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_BLUE/Image_ICON_BASE/Text",
+            "text": "【悲哀】",
+            "zh": "【悲哀】",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_BLUE/Image_ICON_BASE/Text"
+        },
+        {
+            "location": "177/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_BLUE/Text_Num",
+            "text": "０１２３４５６７８９０",
+            "zh": "０１２３４５６７８９０",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_BLUE/Text_Num"
+        },
+        {
+            "location": "179/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_BLUE/Text_UP_JP",
+            "text": "ココロキャンディGET!!",
+            "zh": "心之糖果GET!!",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_BLUE/Text_UP_JP"
+        },
+        {
+            "location": "181/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_GREEN/Image_ICON_BASE/Text",
+            "text": "【快楽】",
+            "zh": "【快乐】",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_GREEN/Image_ICON_BASE/Text"
+        },
+        {
+            "location": "183/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_GREEN/Text_Num",
+            "text": "+3個",
+            "zh": "+3个",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_GREEN/Text_Num"
+        },
+        {
+            "location": "185/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_GREEN/Text_UP_JP",
+            "text": "ココロキャンディGET!!",
+            "zh": "心之糖果GET!!",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_GREEN/Text_UP_JP"
+        },
+        {
+            "location": "187/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_RED/Image_ICON_BASE/Text",
+            "text": "【憤怒】",
+            "zh": "【愤怒】",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_RED/Image_ICON_BASE/Text"
+        },
+        {
+            "location": "189/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_RED/Text_Num",
+            "text": "+3個",
+            "zh": "+3个",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_RED/Text_Num"
+        },
+        {
+            "location": "191/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_RED/Text_UP_JP",
+            "text": "ココロキャンディGET!!",
+            "zh": "心之糖果GET!!",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_RED/Text_UP_JP"
+        },
+        {
+            "location": "193/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_YELLOW/Image_ICON_BASE/Text",
+            "text": "【歓喜】",
+            "zh": "【欢喜】",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_YELLOW/Image_ICON_BASE/Text"
+        },
+        {
+            "location": "195/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_YELLOW/Text_Num",
+            "text": "+3個",
+            "zh": "+3个",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_YELLOW/Text_Num"
+        },
+        {
+            "location": "197/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_YELLOW/Text_UP_JP",
+            "text": "ココロキャンディGET!!",
+            "zh": "心之糖果GET!!",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_S_YELLOW/Text_UP_JP"
+        },
+        {
+            "location": "199/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_YELLOW/Image_ICON_BASE/Text",
+            "text": "【喜】",
+            "zh": "【喜】",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_YELLOW/Image_ICON_BASE/Text"
+        },
+        {
+            "location": "201/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_YELLOW/Text_Num",
+            "text": "+3個",
+            "zh": "+3个",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_YELLOW/Text_Num"
+        },
+        {
+            "location": "203/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_YELLOW/Text_UP_JP",
+            "text": "ココロキャンディGET!!",
+            "zh": "心之糖果GET!!",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CANDY_YELLOW/Text_UP_JP"
+        },
+        {
+            "location": "205/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/COIN/Text_Num",
+            "text": "+3個",
+            "zh": "+3个",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/COIN/Text_Num"
+        },
+        {
+            "location": "207/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/COIN/Text_UP_JP",
+            "text": "コインGET!!",
+            "zh": "金币GET!!",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/COIN/Text_UP_JP"
+        },
+        {
+            "location": "209/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/COSTUME/Text_Num",
+            "text": "０１２３４５６７８９０",
+            "zh": "０１２３４５６７８９０",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/COSTUME/Text_Num"
+        },
+        {
+            "location": "211/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/COSTUME/Text_UP_JP",
+            "text": "コスチュームGET!!",
+            "zh": "服装GET!!",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/COSTUME/Text_UP_JP"
+        },
+        {
+            "location": "213/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CURANTALK/Text_Num",
+            "text": "+3個",
+            "zh": "+3个",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CURANTALK/Text_Num"
+        },
+        {
+            "location": "215/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CURANTALK/Text_UP_JP",
+            "text": "クランとーくGET!!",
+            "zh": "库兰闲聊GET!!",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/CURANTALK/Text_UP_JP"
+        },
+        {
+            "location": "217/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/C_JEWEL/Text_Num",
+            "text": "+3個",
+            "zh": "+3个",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/C_JEWEL/Text_Num"
+        },
+        {
+            "location": "219/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/C_JEWEL/Text_UP_JP",
+            "text": "クランジュエルGET!!",
+            "zh": "库兰珠宝GET!!",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/C_JEWEL/Text_UP_JP"
+        },
+        {
+            "location": "221/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/GOKIGEN/Text_Num",
+            "text": "+3個",
+            "zh": "+3个",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/GOKIGEN/Text_Num"
+        },
+        {
+            "location": "223/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/GOKIGEN/Text_UP_JP",
+            "text": "ゴキゲンPt.GET!!",
+            "zh": "心情点数GET!!",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/GOKIGEN/Text_UP_JP"
+        },
+        {
+            "location": "225/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/ITEM/Text_Num",
+            "text": "０１２３４５６７８９０１２",
+            "zh": "０１２３４５６７８９０１２",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/ITEM/Text_Num"
+        },
+        {
+            "location": "227/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/ITEM/Text_UP_JP",
+            "text": "デートアイテムGET!!",
+            "zh": "约会道具GET!!",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/ITEM/Text_UP_JP"
+        },
+        {
+            "location": "229/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/JEWEL/Text_Num",
+            "text": "+3個",
+            "zh": "+3个",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/JEWEL/Text_Num"
+        },
+        {
+            "location": "231/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Cards/JEWEL/Text_UP_JP",
+            "text": "ジュエルGET!!",
+            "zh": "珠宝GET!!",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Cards/JEWEL/Text_UP_JP"
+        },
+        {
+            "location": "233/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Text_toppaInfo",
+            "text": "限界突破！",
+            "zh": "极限突破！",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Text_toppaInfo"
+        },
+        {
+            "location": "235/UI",
+            "narrator": "CB_Main_Canvas/Panel/Result/BackGround/Text_toppaParam",
+            "text": "攻撃力MAX+5",
+            "zh": "攻击力MAX+5",
+            "narrator_zh": "CB_Main_Canvas/Panel/Result/BackGround/Text_toppaParam"
+        },
+        {
+            "location": "237/UI",
+            "narrator": "CB_Main_Canvas/Panel/RightButton/Text_nextChapter",
+            "text": "Mi-05",
+            "zh": "Mi-05",
+            "narrator_zh": "CB_Main_Canvas/Panel/RightButton/Text_nextChapter"
+        },
+        {
+            "location": "239/UI",
+            "narrator": "CB_Main_Canvas/Panel/RightButton/Text_prevChapter",
+            "text": "Mi-05",
+            "zh": "Mi-05",
+            "narrator_zh": "CB_Main_Canvas/Panel/RightButton/Text_prevChapter"
+        },
+        {
+            "location": "241/UI",
+            "narrator": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3A/Panel/Message",
+            "text": "どう？　何かもらえた？\nもらえた貴方はおめでとう。\n\nこんな感じで、<color=red>該当するクランを\n持っているだけで特典がもらえる\nお得なプログラム</color>なの。\n\n今回当たらなかった貴方も、\nまたガチャを引いたりして\n新しいクランをゲットすれば、\n次は何かもらえるかも。\n",
+            "zh": "怎样？拿到了吗？\n拿到的话，恭喜你。\n\n就是这样，<color=red>只要持有对应的库兰\n就能拿到福利，\n很划算的项目</color>。\n\n这次没抽中的你也一样，\n再去转转扭蛋，\n拿到新库兰的话，\n下次也许就能领到什么。\n",
+            "narrator_zh": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3A/Panel/Message"
+        },
+        {
+            "location": "243/UI",
+            "narrator": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "245/UI",
+            "narrator": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3A/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "247/UI",
+            "narrator": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3B/Panel/Message",
+            "text": "新しいクランをゲットしたら\nまずここに来る。これ原則ね。\n\n…と、だいぶ寄り道が過ぎたかも。\n<color=green>【HOME】</color>へ戻りましょ。\n",
+            "zh": "拿到新库兰之后，\n先到这里来。这是原则。\n\n……不过，好像绕得太远了。\n回<color=green>【HOME】</color>吧。\n",
+            "narrator_zh": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3B/Panel/Message"
+        },
+        {
+            "location": "249/UI",
+            "narrator": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3B/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3B/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "251/UI",
+            "narrator": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3B/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "CB_Main_Canvas/Panel/Tutorial/TutorialCB3B/Panel/PicArea/RightButton/TextOK"
+        }
+    ]
 }

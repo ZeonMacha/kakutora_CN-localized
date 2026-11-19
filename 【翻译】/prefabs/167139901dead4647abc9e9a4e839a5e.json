@@ -1,182 +1,224 @@
 {
- "dir": "167139901dead4647abc9e9a4e839a5e",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "20/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/ImageC/Text",
-   "text": "Energy Quantization..."
-  },
-  {
-   "location": "21/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text",
-   "text": "MOMENTUM,"
-  },
-  {
-   "location": "22/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text (1)",
-   "text": "WAVELENGTH,"
-  },
-  {
-   "location": "23/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text (2)",
-   "text": "FREQUENCY,"
-  },
-  {
-   "location": "24/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/QM/QM/Text",
-   "text": "QM : Quantum\nmechanics"
-  },
-  {
-   "location": "25/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/QM/QM/Text (1)",
-   "text": "QM"
-  },
-  {
-   "location": "26/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text",
-   "text": "TISE"
-  },
-  {
-   "location": "27/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (1)",
-   "text": "Time-independent Schrödinger equation\n∵ Schrödinger's wave function(t,x) = Time(t)･Space(x),\n-√1･h/2π･dTime(t)/dt･Space(x)\n=Time(t)･Quantized_Hamiltonian{x,√1･h/2π(∂/∂x,∂/∂y,∂/∂z)}･Space(x)\n→∇(nabla)≡(∂/∂x,∂/∂y,∂/∂z) , div{Time(t)･Space(x)}→\n-√1･h/2π･dTime(t)/dt/Time(t)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)/Space(x)\nLet constant be E(Energy).\nE･Time(t)=-√1･h/2π･dTime(t)/dt ,\n∴ E･Space(x)=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)  "
-  },
-  {
-   "location": "28/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (2)",
-   "text": "by the Austrian physicist\nErwin Rudolf Josef\nAlexander Schrödinger,1887-1961\n\nSchrödinger equation :\nBasic equations in quantum mechanics in physics.\n\nTime-dependent\nSchrödinger equation\n\nHamiltonian(x,Px,Py.Pz)\n→Quantized_Hamiltonian(x,∇)=Potential(x)-(h/2π)²/2m･∇²\n∴ -√1･h/2π･∂/∂x･wave function(t,x)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･wave function(t,x)"
-  },
-  {
-   "location": "29/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (3)",
-   "text": "The time-independent Schrödinger equation predicts that wave functions can form standing waves, called stationary states. These states are important in their own right, and if the stationary states are classified and understood, then it becomes easier to solve the time-dependent Schrödinger equation for any state. The time-independent Schrödinger equation is the equation describing stationary states."
-  },
-  {
-   "location": "30/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage01/KuranIconFrame/Text",
-   "text": "クランちゃん",
-   "zh": "库兰",
-   "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage01/KuranIconFrame/Text"
-  },
-  {
-   "location": "31/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage02/KuranIconFrame/Text",
-   "text": "クランちゃん",
-   "zh": "库兰",
-   "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage02/KuranIconFrame/Text"
-  },
-  {
-   "location": "32/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage03/KuranIconFrame/Text",
-   "text": "クランちゃん",
-   "zh": "库兰",
-   "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage03/KuranIconFrame/Text"
-  },
-  {
-   "location": "33/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage04/KuranIconFrame/Text",
-   "text": "クランちゃん",
-   "zh": "库兰",
-   "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage04/KuranIconFrame/Text"
-  },
-  {
-   "location": "34/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage05/KuranIconFrame/Text",
-   "text": "クランちゃん",
-   "zh": "库兰",
-   "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage05/KuranIconFrame/Text"
-  },
-  {
-   "location": "35/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage06/KuranIconFrame/Text",
-   "text": "クランちゃん",
-   "zh": "库兰",
-   "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage06/KuranIconFrame/Text"
-  },
-  {
-   "location": "36/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage07/KuranIconFrame/Text",
-   "text": "クランちゃん",
-   "zh": "库兰",
-   "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage07/KuranIconFrame/Text"
-  },
-  {
-   "location": "37/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage08/KuranIconFrame/Text",
-   "text": "クランちゃん",
-   "zh": "库兰",
-   "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage08/KuranIconFrame/Text"
-  },
-  {
-   "location": "38/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage09/KuranIconFrame/Text",
-   "text": "クランちゃん",
-   "zh": "库兰",
-   "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage09/KuranIconFrame/Text"
-  },
-  {
-   "location": "39/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage10/KuranIconFrame/Text",
-   "text": "クランちゃん",
-   "zh": "库兰",
-   "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage10/KuranIconFrame/Text"
-  },
-  {
-   "location": "40/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ItemImage/AnalyzingText",
-   "text": "A n a l y z i n g"
-  },
-  {
-   "location": "41/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/TouchButton/Text",
-   "text": "Touch!"
-  },
-  {
-   "location": "42/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage01/Text",
-   "text": "NEW"
-  },
-  {
-   "location": "43/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage02/Text",
-   "text": "NEW"
-  },
-  {
-   "location": "44/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage03/Text",
-   "text": "NEW"
-  },
-  {
-   "location": "45/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage04/Text",
-   "text": "NEW"
-  },
-  {
-   "location": "46/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage05/Text",
-   "text": "NEW"
-  },
-  {
-   "location": "47/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage06/Text",
-   "text": "NEW"
-  },
-  {
-   "location": "48/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage07/Text",
-   "text": "NEW"
-  },
-  {
-   "location": "49/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage09/Text",
-   "text": "NEW"
-  },
-  {
-   "location": "50/UI",
-   "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage10/Text",
-   "text": "NEW"
-  }
- ]
+    "dir": "167139901dead4647abc9e9a4e839a5e",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "20/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/ImageC/Text",
+            "text": "Energy Quantization...",
+            "zh": "Energy Quantization...",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/ImageC/Text"
+        },
+        {
+            "location": "21/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text",
+            "text": "MOMENTUM,",
+            "zh": "MOMENTUM,",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text"
+        },
+        {
+            "location": "22/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text (1)",
+            "text": "WAVELENGTH,",
+            "zh": "WAVELENGTH,",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text (1)"
+        },
+        {
+            "location": "23/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text (2)",
+            "text": "FREQUENCY,",
+            "zh": "FREQUENCY,",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text (2)"
+        },
+        {
+            "location": "24/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/QM/QM/Text",
+            "text": "QM : Quantum\nmechanics",
+            "zh": "QM : Quantum\nmechanics",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/QM/QM/Text"
+        },
+        {
+            "location": "25/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/QM/QM/Text (1)",
+            "text": "QM",
+            "zh": "QM",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/QM/QM/Text (1)"
+        },
+        {
+            "location": "26/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text",
+            "text": "TISE",
+            "zh": "TISE",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text"
+        },
+        {
+            "location": "27/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (1)",
+            "text": "Time-independent Schrödinger equation\n∵ Schrödinger's wave function(t,x) = Time(t)･Space(x),\n-√1･h/2π･dTime(t)/dt･Space(x)\n=Time(t)･Quantized_Hamiltonian{x,√1･h/2π(∂/∂x,∂/∂y,∂/∂z)}･Space(x)\n→∇(nabla)≡(∂/∂x,∂/∂y,∂/∂z) , div{Time(t)･Space(x)}→\n-√1･h/2π･dTime(t)/dt/Time(t)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)/Space(x)\nLet constant be E(Energy).\nE･Time(t)=-√1･h/2π･dTime(t)/dt ,\n∴ E･Space(x)=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)  ",
+            "zh": "Time-independent Schrödinger equation\n∵ Schrödinger's wave function(t,x) = Time(t)･Space(x),\n-√1･h/2π･dTime(t)/dt･Space(x)\n=Time(t)･Quantized_Hamiltonian{x,√1･h/2π(∂/∂x,∂/∂y,∂/∂z)}･Space(x)\n→∇(nabla)≡(∂/∂x,∂/∂y,∂/∂z) , div{Time(t)･Space(x)}→\n-√1･h/2π･dTime(t)/dt/Time(t)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)/Space(x)\nLet constant be E(Energy).\nE･Time(t)=-√1･h/2π･dTime(t)/dt ,\n∴ E･Space(x)=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)  ",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (1)"
+        },
+        {
+            "location": "28/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (2)",
+            "text": "by the Austrian physicist\nErwin Rudolf Josef\nAlexander Schrödinger,1887-1961\n\nSchrödinger equation :\nBasic equations in quantum mechanics in physics.\n\nTime-dependent\nSchrödinger equation\n\nHamiltonian(x,Px,Py.Pz)\n→Quantized_Hamiltonian(x,∇)=Potential(x)-(h/2π)²/2m･∇²\n∴ -√1･h/2π･∂/∂x･wave function(t,x)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･wave function(t,x)",
+            "zh": "by the Austrian physicist\nErwin Rudolf Josef\nAlexander Schrödinger,1887-1961\n\nSchrödinger equation :\nBasic equations in quantum mechanics in physics.\n\nTime-dependent\nSchrödinger equation\n\nHamiltonian(x,Px,Py.Pz)\n→Quantized_Hamiltonian(x,∇)=Potential(x)-(h/2π)²/2m･∇²\n∴ -√1･h/2π･∂/∂x･wave function(t,x)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･wave function(t,x)",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (2)"
+        },
+        {
+            "location": "29/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (3)",
+            "text": "The time-independent Schrödinger equation predicts that wave functions can form standing waves, called stationary states. These states are important in their own right, and if the stationary states are classified and understood, then it becomes easier to solve the time-dependent Schrödinger equation for any state. The time-independent Schrödinger equation is the equation describing stationary states.",
+            "zh": "The time-independent Schrödinger equation predicts that wave functions can form standing waves, called stationary states. These states are important in their own right, and if the stationary states are classified and understood, then it becomes easier to solve the time-dependent Schrödinger equation for any state. The time-independent Schrödinger equation is the equation describing stationary states.",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (3)"
+        },
+        {
+            "location": "30/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage01/KuranIconFrame/Text",
+            "text": "クランちゃん",
+            "zh": "库兰",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage01/KuranIconFrame/Text"
+        },
+        {
+            "location": "31/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage02/KuranIconFrame/Text",
+            "text": "クランちゃん",
+            "zh": "库兰",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage02/KuranIconFrame/Text"
+        },
+        {
+            "location": "32/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage03/KuranIconFrame/Text",
+            "text": "クランちゃん",
+            "zh": "库兰",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage03/KuranIconFrame/Text"
+        },
+        {
+            "location": "33/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage04/KuranIconFrame/Text",
+            "text": "クランちゃん",
+            "zh": "库兰",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage04/KuranIconFrame/Text"
+        },
+        {
+            "location": "34/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage05/KuranIconFrame/Text",
+            "text": "クランちゃん",
+            "zh": "库兰",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage05/KuranIconFrame/Text"
+        },
+        {
+            "location": "35/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage06/KuranIconFrame/Text",
+            "text": "クランちゃん",
+            "zh": "库兰",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage06/KuranIconFrame/Text"
+        },
+        {
+            "location": "36/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage07/KuranIconFrame/Text",
+            "text": "クランちゃん",
+            "zh": "库兰",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage07/KuranIconFrame/Text"
+        },
+        {
+            "location": "37/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage08/KuranIconFrame/Text",
+            "text": "クランちゃん",
+            "zh": "库兰",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage08/KuranIconFrame/Text"
+        },
+        {
+            "location": "38/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage09/KuranIconFrame/Text",
+            "text": "クランちゃん",
+            "zh": "库兰",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage09/KuranIconFrame/Text"
+        },
+        {
+            "location": "39/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ClanIconImage10/KuranIconFrame/Text",
+            "text": "クランちゃん",
+            "zh": "库兰",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ClanIconImage10/KuranIconFrame/Text"
+        },
+        {
+            "location": "40/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ItemImage/AnalyzingText",
+            "text": "A n a l y z i n g",
+            "zh": "A n a l y z i n g",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ItemImage/AnalyzingText"
+        },
+        {
+            "location": "41/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/TouchButton/Text",
+            "text": "Touch!",
+            "zh": "Touch!",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/TouchButton/Text"
+        },
+        {
+            "location": "42/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage01/Text",
+            "text": "NEW",
+            "zh": "NEW",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ZipBoxImage01/Text"
+        },
+        {
+            "location": "43/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage02/Text",
+            "text": "NEW",
+            "zh": "NEW",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ZipBoxImage02/Text"
+        },
+        {
+            "location": "44/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage03/Text",
+            "text": "NEW",
+            "zh": "NEW",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ZipBoxImage03/Text"
+        },
+        {
+            "location": "45/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage04/Text",
+            "text": "NEW",
+            "zh": "NEW",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ZipBoxImage04/Text"
+        },
+        {
+            "location": "46/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage05/Text",
+            "text": "NEW",
+            "zh": "NEW",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ZipBoxImage05/Text"
+        },
+        {
+            "location": "47/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage06/Text",
+            "text": "NEW",
+            "zh": "NEW",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ZipBoxImage06/Text"
+        },
+        {
+            "location": "48/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage07/Text",
+            "text": "NEW",
+            "zh": "NEW",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ZipBoxImage07/Text"
+        },
+        {
+            "location": "49/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage09/Text",
+            "text": "NEW",
+            "zh": "NEW",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ZipBoxImage09/Text"
+        },
+        {
+            "location": "50/UI",
+            "narrator": "Get10ItemCatalogWindow/Panel/ZipBoxImage10/Text",
+            "text": "NEW",
+            "zh": "NEW",
+            "narrator_zh": "Get10ItemCatalogWindow/Panel/ZipBoxImage10/Text"
+        }
+    ]
 }

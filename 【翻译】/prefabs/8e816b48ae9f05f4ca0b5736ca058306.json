@@ -1,63 +1,77 @@
 {
- "dir": "8e816b48ae9f05f4ca0b5736ca058306",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "205/UI",
-   "narrator": "ClanSelectWindow/Panel/AttackPowerText",
-   "text": "ATK：123456789012345"
-  },
-  {
-   "location": "206/UI",
-   "narrator": "ClanSelectWindow/Panel/AttributeText",
-   "text": "属性：未設定"
-  },
-  {
-   "location": "207/UI",
-   "narrator": "ClanSelectWindow/Panel/BackButton/Text",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "ClanSelectWindow/Panel/BackButton/Text"
-  },
-  {
-   "location": "208/UI",
-   "narrator": "ClanSelectWindow/Panel/BattlePointText",
-   "text": "BP：1234567890123456"
-  },
-  {
-   "location": "209/UI",
-   "narrator": "ClanSelectWindow/Panel/ChangeOrderButton/Text",
-   "text": "昇順"
-  },
-  {
-   "location": "210/UI",
-   "narrator": "ClanSelectWindow/Panel/ClanSortButton/Text",
-   "text": "並び替え:\nスキルチャージ",
-   "zh": "排序:\n技能充能",
-   "narrator_zh": "ClanSelectWindow/Panel/ClanSortButton/Text"
-  },
-  {
-   "location": "211/UI",
-   "narrator": "ClanSelectWindow/Panel/DefencePowerText",
-   "text": "DEF：123456789012345"
-  },
-  {
-   "location": "212/UI",
-   "narrator": "ClanSelectWindow/Panel/HealPowerText",
-   "text": "回復力：1234567890123"
-  },
-  {
-   "location": "213/UI",
-   "narrator": "ClanSelectWindow/Panel/SkillChargeText",
-   "text": "チャージ：12345678901",
-   "zh": "充值：12345678901",
-   "narrator_zh": "ClanSelectWindow/Panel/SkillChargeText"
-  },
-  {
-   "location": "214/UI",
-   "narrator": "ClanSelectWindow/Panel/SynchroText",
-   "text": "相性："
-  }
- ]
+    "dir": "8e816b48ae9f05f4ca0b5736ca058306",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "205/UI",
+            "narrator": "ClanSelectWindow/Panel/AttackPowerText",
+            "text": "ATK：123456789012345",
+            "zh": "ATK：123456789012345",
+            "narrator_zh": "ClanSelectWindow/Panel/AttackPowerText"
+        },
+        {
+            "location": "206/UI",
+            "narrator": "ClanSelectWindow/Panel/AttributeText",
+            "text": "属性：未設定",
+            "zh": "属性：未设定",
+            "narrator_zh": "ClanSelectWindow/Panel/AttributeText"
+        },
+        {
+            "location": "207/UI",
+            "narrator": "ClanSelectWindow/Panel/BackButton/Text",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "ClanSelectWindow/Panel/BackButton/Text"
+        },
+        {
+            "location": "208/UI",
+            "narrator": "ClanSelectWindow/Panel/BattlePointText",
+            "text": "BP：1234567890123456",
+            "zh": "BP：1234567890123456",
+            "narrator_zh": "ClanSelectWindow/Panel/BattlePointText"
+        },
+        {
+            "location": "209/UI",
+            "narrator": "ClanSelectWindow/Panel/ChangeOrderButton/Text",
+            "text": "昇順",
+            "zh": "升序",
+            "narrator_zh": "ClanSelectWindow/Panel/ChangeOrderButton/Text"
+        },
+        {
+            "location": "210/UI",
+            "narrator": "ClanSelectWindow/Panel/ClanSortButton/Text",
+            "text": "並び替え:\nスキルチャージ",
+            "zh": "排序:\n技能充能",
+            "narrator_zh": "ClanSelectWindow/Panel/ClanSortButton/Text"
+        },
+        {
+            "location": "211/UI",
+            "narrator": "ClanSelectWindow/Panel/DefencePowerText",
+            "text": "DEF：123456789012345",
+            "zh": "DEF：123456789012345",
+            "narrator_zh": "ClanSelectWindow/Panel/DefencePowerText"
+        },
+        {
+            "location": "212/UI",
+            "narrator": "ClanSelectWindow/Panel/HealPowerText",
+            "text": "回復力：1234567890123",
+            "zh": "回复力：1234567890123",
+            "narrator_zh": "ClanSelectWindow/Panel/HealPowerText"
+        },
+        {
+            "location": "213/UI",
+            "narrator": "ClanSelectWindow/Panel/SkillChargeText",
+            "text": "チャージ：12345678901",
+            "zh": "充值：12345678901",
+            "narrator_zh": "ClanSelectWindow/Panel/SkillChargeText"
+        },
+        {
+            "location": "214/UI",
+            "narrator": "ClanSelectWindow/Panel/SynchroText",
+            "text": "相性：",
+            "zh": "相性：",
+            "narrator_zh": "ClanSelectWindow/Panel/SynchroText"
+        }
+    ]
 }

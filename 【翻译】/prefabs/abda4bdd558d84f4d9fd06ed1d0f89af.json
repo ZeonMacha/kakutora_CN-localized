@@ -1,689 +1,875 @@
 {
- "dir": "abda4bdd558d84f4d9fd06ed1d0f89af",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "81/UI",
-   "narrator": "ClanListWindow3/Background/Loading/Loading/Text",
-   "text": "N O W   L O A D I N G . . ."
-  },
-  {
-   "location": "82/UI",
-   "narrator": "ClanListWindow3/Background/Loading/Tips/Text",
-   "text": "C U R A N   L I S T"
-  },
-  {
-   "location": "83/UI",
-   "narrator": "ClanListWindow3/Background2/Loading/Loading/Text",
-   "text": "N O W   L O A D I N G . . ."
-  },
-  {
-   "location": "84/UI",
-   "narrator": "ClanListWindow3/Background2/Loading/Tips/Text",
-   "text": "C U R A N   L I S T"
-  },
-  {
-   "location": "85/UI",
-   "narrator": "ClanListWindow3/Panel/BackButton/Text",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "ClanListWindow3/Panel/BackButton/Text"
-  },
-  {
-   "location": "86/UI",
-   "narrator": "ClanListWindow3/Panel/ChangeButton/Text",
-   "text": "入れ替える",
-   "zh": "替换",
-   "narrator_zh": "ClanListWindow3/Panel/ChangeButton/Text"
-  },
-  {
-   "location": "87/UI",
-   "narrator": "ClanListWindow3/Panel/CompletButton_/Text",
-   "text": "編成を完了",
-   "zh": "编成完成",
-   "narrator_zh": "ClanListWindow3/Panel/CompletButton_/Text"
-  },
-  {
-   "location": "88/UI",
-   "narrator": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13B/Panel/Message",
-   "text": "上にならんだ4体が装備中のクラン、リストにいるのが所持しているクランになるわ。\n変えたいクランを1体ずつ選択して、<color=red>【入れ替える】</color>ボタンをタップすると変更できるの。\n",
-   "zh": "上面排着的4个是装备中的库兰，列表里的是持有的库兰。\n逐个选中要更换的库兰，点<color=red>【替换】</color>按钮就能更改。\n",
-   "narrator_zh": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13B/Panel/Message"
-  },
-  {
-   "location": "89/UI",
-   "narrator": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13B/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13B/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "90/UI",
-   "narrator": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13B/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "91/UI",
-   "narrator": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13C/Panel/Message",
-   "text": "クランのアイコンをタップすると\n<color=red>パラメータの変化量が表示\nされる。</color>\n\n編成の参考にしてちょうだい。\n",
-   "zh": "点击库兰图标，\n就会<color=red>显示参数变化量。</color>\n\n编成时可以参考。\n\n",
-   "narrator_zh": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13C/Panel/Message"
-  },
-  {
-   "location": "92/UI",
-   "narrator": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13C/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13C/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "93/UI",
-   "narrator": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13C/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "94/UI",
-   "narrator": "ClanListWindow3/Panel/PANEL_SELECT_OK/PANEL_SELECT_OK_BUTTON/Text",
-   "text": "決 定"
-  },
-  {
-   "location": "95/UI",
-   "narrator": "ClanListWindow3/Panel/PANEL_SELECT_OK/Text",
-   "text": "サーバントクランを選択してください\t",
-   "zh": "请选择从属库兰\t",
-   "narrator_zh": "ClanListWindow3/Panel/PANEL_SELECT_OK/Text"
-  },
-  {
-   "location": "96/UI",
-   "narrator": "ClanListWindow3/Panel/PANEL_TO_SellingMode/PANEL_TO_SellingMode/Text",
-   "text": "売却モード",
-   "zh": "出售模式",
-   "narrator_zh": "ClanListWindow3/Panel/PANEL_TO_SellingMode/PANEL_TO_SellingMode/Text"
-  },
-  {
-   "location": "97/UI",
-   "narrator": "ClanListWindow3/Panel/PANEL_TO_SellingMode/Text",
-   "text": "サーバントクランをタップすると詳細情報を確認できます。",
-   "zh": "点击从属库兰即可查看详细信息。",
-   "narrator_zh": "ClanListWindow3/Panel/PANEL_TO_SellingMode/Text"
-  },
-  {
-   "location": "98/UI",
-   "narrator": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/PANEL_TO_Cancel/Text",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/PANEL_TO_Cancel/Text"
-  },
-  {
-   "location": "99/UI",
-   "narrator": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/PANEL_TO_Selling/Text",
-   "text": "売却する",
-   "zh": "出售",
-   "narrator_zh": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/PANEL_TO_Selling/Text"
-  },
-  {
-   "location": "100/UI",
-   "narrator": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/Panel_BOTTOM_GOLD/Panel_OUTLINE/Panel_PRM_ClanJewel/Text_KO",
-   "text": "個"
-  },
-  {
-   "location": "101/UI",
-   "narrator": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/Panel_BOTTOM_GOLD/Panel_OUTLINE/Panel_PRM_ClanJewel/Text_PRMNAME",
-   "text": "獲得"
-  },
-  {
-   "location": "102/UI",
-   "narrator": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/Panel_BOTTOM_GOLD/Panel_OUTLINE/Panel_PRM_GOLD/Text_GOLD",
-   "text": "COIN"
-  },
-  {
-   "location": "103/UI",
-   "narrator": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/Panel_BOTTOM_GOLD/Panel_OUTLINE/Panel_PRM_GOLD/Text_PRMNAME",
-   "text": "売却"
-  },
-  {
-   "location": "104/UI",
-   "narrator": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/Text",
-   "text": "選択したサーバントクランを売却します。\n\n売却したサーバントクランは手元から\n失われますのでご注意ください。",
-   "zh": "将出售选中的从属库兰。\n\n出售的从属库兰会从手中\n消失，请注意。",
-   "narrator_zh": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/Text"
-  },
-  {
-   "location": "105/UI",
-   "narrator": "ClanListWindow3/Panel/Panel_TAB/Text_PRM_NAME",
-   "text": "所持クラン数",
-   "zh": "持有库兰数",
-   "narrator_zh": "ClanListWindow3/Panel/Panel_TAB/Text_PRM_NAME"
-  },
-  {
-   "location": "106/UI",
-   "narrator": "ClanListWindow3/Panel/Panel_TAB2/Text_PRM_NAME",
-   "text": "所持クラン数",
-   "zh": "持有库兰数",
-   "narrator_zh": "ClanListWindow3/Panel/Panel_TAB2/Text_PRM_NAME"
-  },
-  {
-   "location": "107/UI",
-   "narrator": "ClanListWindow3/Panel/Processing/Text",
-   "text": "情報更新中"
-  },
-  {
-   "location": "108/UI",
-   "narrator": "ClanListWindow3/Panel/SortButton/Text",
-   "text": "入手が古い",
-   "zh": "入手较早",
-   "narrator_zh": "ClanListWindow3/Panel/SortButton/Text"
-  },
-  {
-   "location": "109/UI",
-   "narrator": "ClanListWindow3/Panel/SortButton2/Text",
-   "text": "入手が古い",
-   "zh": "入手较早",
-   "narrator_zh": "ClanListWindow3/Panel/SortButton2/Text"
-  },
-  {
-   "location": "110/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "111/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "112/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "113/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "114/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "115/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "A Y A M I    K U N I M A S A"
-  },
-  {
-   "location": "116/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "117/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "118/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "119/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "120/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "121/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "G A B R I E L L A"
-  },
-  {
-   "location": "122/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "123/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "124/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "125/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "126/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "127/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "K A G U R A    U D U K I"
-  },
-  {
-   "location": "128/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "129/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "130/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "131/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "132/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "133/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "M I Y A B I    K O I G A S A K I"
-  },
-  {
-   "location": "134/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Params/TEXT10",
-   "text": "AGI"
-  },
-  {
-   "location": "135/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Params/TEXT4",
-   "text": "DEF\t"
-  },
-  {
-   "location": "136/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Params/Text",
-   "text": "HP"
-  },
-  {
-   "location": "137/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Params/Text (3)",
-   "text": "ATK\t"
-  },
-  {
-   "location": "138/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Params/Text (9)",
-   "text": "HEAL\t"
-  },
-  {
-   "location": "139/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "140/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "141/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "142/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "143/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "144/UI",
-   "narrator": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "T S U B A M E    O H S E"
-  },
-  {
-   "location": "145/UI",
-   "narrator": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7A/Panel/Message",
-   "text": "強化合成に消費するクランは<color=red>【同時に6体まで】</color>選択することができるわ。\n",
-   "zh": "强化合成时消耗的库兰<color=red>【最多可同时选6个】</color>。\n",
-   "narrator_zh": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7A/Panel/Message"
-  },
-  {
-   "location": "146/UI",
-   "narrator": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "147/UI",
-   "narrator": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "148/UI",
-   "narrator": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7B/Panel/Message",
-   "text": "しつこいけど<color=red>強化に使ったクランは消えてしまう</color>から。\n大事な子はロックをかけたほうがいいわよ。\n",
-   "zh": "我再啰嗦一句，<color=red>用于强化的库兰会消失</color>。\n重要的孩子最好上锁。\n",
-   "narrator_zh": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7B/Panel/Message"
-  },
-  {
-   "location": "149/UI",
-   "narrator": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7B/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7B/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "150/UI",
-   "narrator": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7B/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "151/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CharaName",
-   "text": "サーバントクランリスト",
-   "zh": "从属库兰列表",
-   "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CharaName"
-  },
-  {
-   "location": "152/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "153/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "154/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "155/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "156/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "157/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "AYAMI KUNIMASA"
-  },
-  {
-   "location": "158/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/Panel_AssistSkill/Panel_Bottom/Text",
-   "text": "先手必勝"
-  },
-  {
-   "location": "159/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/Panel_AssistSkill/Panel_Top/Text",
-   "text": "A S S I S T  S K I L L"
-  },
-  {
-   "location": "160/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/Panel_Curans/Panel_TAB/Text_PRM_NAME",
-   "text": "COST"
-  },
-  {
-   "location": "161/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "162/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "163/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "164/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "165/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "166/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "GABRIELLA"
-  },
-  {
-   "location": "167/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/Panel_AssistSkill/Panel_Bottom/Text",
-   "text": "狙い撃ち",
-   "zh": "狙击",
-   "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/Panel_AssistSkill/Panel_Bottom/Text"
-  },
-  {
-   "location": "168/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/Panel_AssistSkill/Panel_Top/Text",
-   "text": "A S S I S T  S K I L L"
-  },
-  {
-   "location": "169/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/Panel_Curans/Panel_TAB/Text_PRM_NAME",
-   "text": "COST"
-  },
-  {
-   "location": "170/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "171/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "172/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "173/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "174/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "175/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "T S U B A M E  O U S E"
-  },
-  {
-   "location": "176/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/Panel_AssistSkill/Panel_Bottom/Text",
-   "text": "１２３４５６７８９０１２３４"
-  },
-  {
-   "location": "177/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/Panel_AssistSkill/Panel_Top/Text",
-   "text": "A S S I S T  S K I L L"
-  },
-  {
-   "location": "178/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/Panel_Curans/Panel_TAB/Text_PRM_NAME",
-   "text": "COST"
-  },
-  {
-   "location": "179/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "180/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "181/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "182/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "183/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "184/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "MIYABI KOIGASAKI"
-  },
-  {
-   "location": "185/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/Panel_AssistSkill/Panel_Bottom/Text",
-   "text": "エナジーバースト",
-   "zh": "能量爆发",
-   "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/Panel_AssistSkill/Panel_Bottom/Text"
-  },
-  {
-   "location": "186/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/Panel_AssistSkill/Panel_Top/Text",
-   "text": "A S S I S T  S K I L L"
-  },
-  {
-   "location": "187/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/Panel_Curans/Panel_TAB/Text_PRM_NAME",
-   "text": "COST"
-  },
-  {
-   "location": "188/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "189/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "190/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "191/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "192/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "193/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "TSUBAME  OHSE"
-  },
-  {
-   "location": "194/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/Panel_AssistSkill/Panel_Bottom/Text",
-   "text": "かばう",
-   "zh": "掩护",
-   "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/Panel_AssistSkill/Panel_Bottom/Text"
-  },
-  {
-   "location": "195/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/Panel_AssistSkill/Panel_Top/Text",
-   "text": "A S S I S T  S K I L L"
-  },
-  {
-   "location": "196/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/Panel_Curans/Panel_TAB/Text_PRM_NAME",
-   "text": "COST"
-  },
-  {
-   "location": "197/UI",
-   "narrator": "ClanListWindow3/Panel/TopBar/Panel/Text",
-   "text": "S E R V A N T  C U R A N  L I S T"
-  },
-  {
-   "location": "198/UI",
-   "narrator": "ClanListWindow3/Panel/TradeListInfo/CompleteButton/Text",
-   "text": "編成を完了",
-   "zh": "编成完成",
-   "narrator_zh": "ClanListWindow3/Panel/TradeListInfo/CompleteButton/Text"
-  },
-  {
-   "location": "199/UI",
-   "narrator": "ClanListWindow3/Panel/TradeListInfo/DTapInfo/Text",
-   "text": "選択中のクランを\n再度タップで入れ替え",
-   "zh": "再次点击选中的库兰\n即可替换",
-   "narrator_zh": "ClanListWindow3/Panel/TradeListInfo/DTapInfo/Text"
-  },
-  {
-   "location": "200/UI",
-   "narrator": "ClanListWindow3/Panel/TradeListInfo/Text",
-   "text": "サーバントクランをタップすると詳細情報を確認できます。",
-   "zh": "点击从属库兰即可查看详细信息。",
-   "narrator_zh": "ClanListWindow3/Panel/TradeListInfo/Text"
-  },
-  {
-   "location": "201/UI",
-   "narrator": "ClanListWindow3/Panel/TradeListInfo/TradeButton/Text",
-   "text": "入れ替える",
-   "zh": "替换",
-   "narrator_zh": "ClanListWindow3/Panel/TradeListInfo/TradeButton/Text"
-  },
-  {
-   "location": "202/UI",
-   "narrator": "ClanListWindow3/Panel/Viewer/Tutorial/TutorialCuran2A/Panel/Message",
-   "text": "クランアイコンをタップすると\n<color=red>【クランの詳細】</color>を確認できる。\n",
-   "zh": "点击库兰图标，\n就能查看<color=red>【库兰详情】</color>。\n",
-   "narrator_zh": "ClanListWindow3/Panel/Viewer/Tutorial/TutorialCuran2A/Panel/Message"
-  },
-  {
-   "location": "203/UI",
-   "narrator": "ClanListWindow3/Panel/Viewer/Tutorial/TutorialCuran2A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "ClanListWindow3/Panel/Viewer/Tutorial/TutorialCuran2A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "204/UI",
-   "narrator": "ClanListWindow3/Panel/Viewer/Tutorial/TutorialCuran2A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  }
- ]
+    "dir": "abda4bdd558d84f4d9fd06ed1d0f89af",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "81/UI",
+            "narrator": "ClanListWindow3/Background/Loading/Loading/Text",
+            "text": "N O W   L O A D I N G . . .",
+            "zh": "N O W   L O A D I N G . . .",
+            "narrator_zh": "ClanListWindow3/Background/Loading/Loading/Text"
+        },
+        {
+            "location": "82/UI",
+            "narrator": "ClanListWindow3/Background/Loading/Tips/Text",
+            "text": "C U R A N   L I S T",
+            "zh": "C U R A N   L I S T",
+            "narrator_zh": "ClanListWindow3/Background/Loading/Tips/Text"
+        },
+        {
+            "location": "83/UI",
+            "narrator": "ClanListWindow3/Background2/Loading/Loading/Text",
+            "text": "N O W   L O A D I N G . . .",
+            "zh": "N O W   L O A D I N G . . .",
+            "narrator_zh": "ClanListWindow3/Background2/Loading/Loading/Text"
+        },
+        {
+            "location": "84/UI",
+            "narrator": "ClanListWindow3/Background2/Loading/Tips/Text",
+            "text": "C U R A N   L I S T",
+            "zh": "C U R A N   L I S T",
+            "narrator_zh": "ClanListWindow3/Background2/Loading/Tips/Text"
+        },
+        {
+            "location": "85/UI",
+            "narrator": "ClanListWindow3/Panel/BackButton/Text",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "ClanListWindow3/Panel/BackButton/Text"
+        },
+        {
+            "location": "86/UI",
+            "narrator": "ClanListWindow3/Panel/ChangeButton/Text",
+            "text": "入れ替える",
+            "zh": "替换",
+            "narrator_zh": "ClanListWindow3/Panel/ChangeButton/Text"
+        },
+        {
+            "location": "87/UI",
+            "narrator": "ClanListWindow3/Panel/CompletButton_/Text",
+            "text": "編成を完了",
+            "zh": "编成完成",
+            "narrator_zh": "ClanListWindow3/Panel/CompletButton_/Text"
+        },
+        {
+            "location": "88/UI",
+            "narrator": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13B/Panel/Message",
+            "text": "上にならんだ4体が装備中のクラン、リストにいるのが所持しているクランになるわ。\n変えたいクランを1体ずつ選択して、<color=red>【入れ替える】</color>ボタンをタップすると変更できるの。\n",
+            "zh": "上面排着的4个是装备中的库兰，列表里的是持有的库兰。\n逐个选中要更换的库兰，点<color=red>【替换】</color>按钮就能更改。\n",
+            "narrator_zh": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13B/Panel/Message"
+        },
+        {
+            "location": "89/UI",
+            "narrator": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13B/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13B/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "90/UI",
+            "narrator": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13B/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13B/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "91/UI",
+            "narrator": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13C/Panel/Message",
+            "text": "クランのアイコンをタップすると\n<color=red>パラメータの変化量が表示\nされる。</color>\n\n編成の参考にしてちょうだい。\n",
+            "zh": "点击库兰图标，\n就会<color=red>显示参数变化量。</color>\n\n编成时可以参考。\n\n",
+            "narrator_zh": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13C/Panel/Message"
+        },
+        {
+            "location": "92/UI",
+            "narrator": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13C/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13C/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "93/UI",
+            "narrator": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13C/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "ClanListWindow3/Panel/Deck/Tutorial/TutorialCuran13C/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "94/UI",
+            "narrator": "ClanListWindow3/Panel/PANEL_SELECT_OK/PANEL_SELECT_OK_BUTTON/Text",
+            "text": "決 定",
+            "zh": "确 定",
+            "narrator_zh": "ClanListWindow3/Panel/PANEL_SELECT_OK/PANEL_SELECT_OK_BUTTON/Text"
+        },
+        {
+            "location": "95/UI",
+            "narrator": "ClanListWindow3/Panel/PANEL_SELECT_OK/Text",
+            "text": "サーバントクランを選択してください\t",
+            "zh": "请选择从属库兰\t",
+            "narrator_zh": "ClanListWindow3/Panel/PANEL_SELECT_OK/Text"
+        },
+        {
+            "location": "96/UI",
+            "narrator": "ClanListWindow3/Panel/PANEL_TO_SellingMode/PANEL_TO_SellingMode/Text",
+            "text": "売却モード",
+            "zh": "出售模式",
+            "narrator_zh": "ClanListWindow3/Panel/PANEL_TO_SellingMode/PANEL_TO_SellingMode/Text"
+        },
+        {
+            "location": "97/UI",
+            "narrator": "ClanListWindow3/Panel/PANEL_TO_SellingMode/Text",
+            "text": "サーバントクランをタップすると詳細情報を確認できます。",
+            "zh": "点击从属库兰即可查看详细信息。",
+            "narrator_zh": "ClanListWindow3/Panel/PANEL_TO_SellingMode/Text"
+        },
+        {
+            "location": "98/UI",
+            "narrator": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/PANEL_TO_Cancel/Text",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/PANEL_TO_Cancel/Text"
+        },
+        {
+            "location": "99/UI",
+            "narrator": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/PANEL_TO_Selling/Text",
+            "text": "売却する",
+            "zh": "出售",
+            "narrator_zh": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/PANEL_TO_Selling/Text"
+        },
+        {
+            "location": "100/UI",
+            "narrator": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/Panel_BOTTOM_GOLD/Panel_OUTLINE/Panel_PRM_ClanJewel/Text_KO",
+            "text": "個",
+            "zh": "个",
+            "narrator_zh": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/Panel_BOTTOM_GOLD/Panel_OUTLINE/Panel_PRM_ClanJewel/Text_KO"
+        },
+        {
+            "location": "101/UI",
+            "narrator": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/Panel_BOTTOM_GOLD/Panel_OUTLINE/Panel_PRM_ClanJewel/Text_PRMNAME",
+            "text": "獲得",
+            "zh": "获得",
+            "narrator_zh": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/Panel_BOTTOM_GOLD/Panel_OUTLINE/Panel_PRM_ClanJewel/Text_PRMNAME"
+        },
+        {
+            "location": "102/UI",
+            "narrator": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/Panel_BOTTOM_GOLD/Panel_OUTLINE/Panel_PRM_GOLD/Text_GOLD",
+            "text": "COIN",
+            "zh": "COIN",
+            "narrator_zh": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/Panel_BOTTOM_GOLD/Panel_OUTLINE/Panel_PRM_GOLD/Text_GOLD"
+        },
+        {
+            "location": "103/UI",
+            "narrator": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/Panel_BOTTOM_GOLD/Panel_OUTLINE/Panel_PRM_GOLD/Text_PRMNAME",
+            "text": "売却",
+            "zh": "出售",
+            "narrator_zh": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/Panel_BOTTOM_GOLD/Panel_OUTLINE/Panel_PRM_GOLD/Text_PRMNAME"
+        },
+        {
+            "location": "104/UI",
+            "narrator": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/Text",
+            "text": "選択したサーバントクランを売却します。\n\n売却したサーバントクランは手元から\n失われますのでご注意ください。",
+            "zh": "将出售选中的从属库兰。\n\n出售的从属库兰会从手中\n消失，请注意。",
+            "narrator_zh": "ClanListWindow3/Panel/Panel_SELL_UNDER/PanelMask/Text"
+        },
+        {
+            "location": "105/UI",
+            "narrator": "ClanListWindow3/Panel/Panel_TAB/Text_PRM_NAME",
+            "text": "所持クラン数",
+            "zh": "持有库兰数",
+            "narrator_zh": "ClanListWindow3/Panel/Panel_TAB/Text_PRM_NAME"
+        },
+        {
+            "location": "106/UI",
+            "narrator": "ClanListWindow3/Panel/Panel_TAB2/Text_PRM_NAME",
+            "text": "所持クラン数",
+            "zh": "持有库兰数",
+            "narrator_zh": "ClanListWindow3/Panel/Panel_TAB2/Text_PRM_NAME"
+        },
+        {
+            "location": "107/UI",
+            "narrator": "ClanListWindow3/Panel/Processing/Text",
+            "text": "情報更新中",
+            "zh": "信息更新中",
+            "narrator_zh": "ClanListWindow3/Panel/Processing/Text"
+        },
+        {
+            "location": "108/UI",
+            "narrator": "ClanListWindow3/Panel/SortButton/Text",
+            "text": "入手が古い",
+            "zh": "入手较早",
+            "narrator_zh": "ClanListWindow3/Panel/SortButton/Text"
+        },
+        {
+            "location": "109/UI",
+            "narrator": "ClanListWindow3/Panel/SortButton2/Text",
+            "text": "入手が古い",
+            "zh": "入手较早",
+            "narrator_zh": "ClanListWindow3/Panel/SortButton2/Text"
+        },
+        {
+            "location": "110/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "111/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "112/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "113/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "114/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "115/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "A Y A M I    K U N I M A S A",
+            "zh": "A Y A M I    K U N I M A S A",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Ayami/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "116/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "117/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "118/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "119/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "120/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "121/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "G A B R I E L L A",
+            "zh": "G A B R I E L L A",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Gabriella/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "122/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "123/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "124/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "125/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "126/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "127/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "K A G U R A    U D U K I",
+            "zh": "K A G U R A    U D U K I",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Kagura/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "128/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "129/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "130/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "131/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "132/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "133/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "M I Y A B I    K O I G A S A K I",
+            "zh": "M I Y A B I    K O I G A S A K I",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Miyabi/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "134/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Params/TEXT10",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Params/TEXT10"
+        },
+        {
+            "location": "135/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Params/TEXT4",
+            "text": "DEF\t",
+            "zh": "DEF\t",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Params/TEXT4"
+        },
+        {
+            "location": "136/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Params/Text",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Params/Text"
+        },
+        {
+            "location": "137/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Params/Text (3)",
+            "text": "ATK\t",
+            "zh": "ATK\t",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Params/Text (3)"
+        },
+        {
+            "location": "138/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Params/Text (9)",
+            "text": "HEAL\t",
+            "zh": "HEAL\t",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Params/Text (9)"
+        },
+        {
+            "location": "139/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "140/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "141/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "142/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "143/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "144/UI",
+            "narrator": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "T S U B A M E    O H S E",
+            "zh": "T S U B A M E    O H S E",
+            "narrator_zh": "ClanListWindow3/Panel/StatusPanel_/Tsubame/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "145/UI",
+            "narrator": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7A/Panel/Message",
+            "text": "強化合成に消費するクランは<color=red>【同時に6体まで】</color>選択することができるわ。\n",
+            "zh": "强化合成时消耗的库兰<color=red>【最多可同时选6个】</color>。\n",
+            "narrator_zh": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7A/Panel/Message"
+        },
+        {
+            "location": "146/UI",
+            "narrator": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "147/UI",
+            "narrator": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7A/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "148/UI",
+            "narrator": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7B/Panel/Message",
+            "text": "しつこいけど<color=red>強化に使ったクランは消えてしまう</color>から。\n大事な子はロックをかけたほうがいいわよ。\n",
+            "zh": "我再啰嗦一句，<color=red>用于强化的库兰会消失</color>。\n重要的孩子最好上锁。\n",
+            "narrator_zh": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7B/Panel/Message"
+        },
+        {
+            "location": "149/UI",
+            "narrator": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7B/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7B/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "150/UI",
+            "narrator": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7B/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "ClanListWindow3/Panel/StrangeSeed/Tutorial/TutorialCuran7B/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "151/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CharaName",
+            "text": "サーバントクランリスト",
+            "zh": "从属库兰列表",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CharaName"
+        },
+        {
+            "location": "152/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "153/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "154/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "155/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "156/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "157/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "AYAMI KUNIMASA",
+            "zh": "AYAMI KUNIMASA",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "158/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/Panel_AssistSkill/Panel_Bottom/Text",
+            "text": "先手必勝",
+            "zh": "先发制人",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/Panel_AssistSkill/Panel_Bottom/Text"
+        },
+        {
+            "location": "159/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/Panel_AssistSkill/Panel_Top/Text",
+            "text": "A S S I S T  S K I L L",
+            "zh": "A S S I S T  S K I L L",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/Panel_AssistSkill/Panel_Top/Text"
+        },
+        {
+            "location": "160/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/Panel_Curans/Panel_TAB/Text_PRM_NAME",
+            "text": "COST",
+            "zh": "COST",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_AYAMI/Panel_Curans/Panel_TAB/Text_PRM_NAME"
+        },
+        {
+            "location": "161/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "162/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "163/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "164/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "165/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "166/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "GABRIELLA",
+            "zh": "GABRIELLA",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "167/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/Panel_AssistSkill/Panel_Bottom/Text",
+            "text": "狙い撃ち",
+            "zh": "狙击",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/Panel_AssistSkill/Panel_Bottom/Text"
+        },
+        {
+            "location": "168/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/Panel_AssistSkill/Panel_Top/Text",
+            "text": "A S S I S T  S K I L L",
+            "zh": "A S S I S T  S K I L L",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/Panel_AssistSkill/Panel_Top/Text"
+        },
+        {
+            "location": "169/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/Panel_Curans/Panel_TAB/Text_PRM_NAME",
+            "text": "COST",
+            "zh": "COST",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Gabriella/Panel_Curans/Panel_TAB/Text_PRM_NAME"
+        },
+        {
+            "location": "170/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "171/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "172/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "173/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "174/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "175/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "T S U B A M E  O U S E",
+            "zh": "T S U B A M E  O U S E",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "176/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/Panel_AssistSkill/Panel_Bottom/Text",
+            "text": "１２３４５６７８９０１２３４",
+            "zh": "１２３４５６７８９０１２３４",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/Panel_AssistSkill/Panel_Bottom/Text"
+        },
+        {
+            "location": "177/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/Panel_AssistSkill/Panel_Top/Text",
+            "text": "A S S I S T  S K I L L",
+            "zh": "A S S I S T  S K I L L",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/Panel_AssistSkill/Panel_Top/Text"
+        },
+        {
+            "location": "178/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/Panel_Curans/Panel_TAB/Text_PRM_NAME",
+            "text": "COST",
+            "zh": "COST",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Kagura/Panel_Curans/Panel_TAB/Text_PRM_NAME"
+        },
+        {
+            "location": "179/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "180/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "181/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "182/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "183/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "184/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "MIYABI KOIGASAKI",
+            "zh": "MIYABI KOIGASAKI",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "185/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/Panel_AssistSkill/Panel_Bottom/Text",
+            "text": "エナジーバースト",
+            "zh": "能量爆发",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/Panel_AssistSkill/Panel_Bottom/Text"
+        },
+        {
+            "location": "186/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/Panel_AssistSkill/Panel_Top/Text",
+            "text": "A S S I S T  S K I L L",
+            "zh": "A S S I S T  S K I L L",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/Panel_AssistSkill/Panel_Top/Text"
+        },
+        {
+            "location": "187/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/Panel_Curans/Panel_TAB/Text_PRM_NAME",
+            "text": "COST",
+            "zh": "COST",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_Miyabi/Panel_Curans/Panel_TAB/Text_PRM_NAME"
+        },
+        {
+            "location": "188/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "189/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "190/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "191/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "192/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "193/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "TSUBAME  OHSE",
+            "zh": "TSUBAME  OHSE",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "194/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/Panel_AssistSkill/Panel_Bottom/Text",
+            "text": "かばう",
+            "zh": "掩护",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/Panel_AssistSkill/Panel_Bottom/Text"
+        },
+        {
+            "location": "195/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/Panel_AssistSkill/Panel_Top/Text",
+            "text": "A S S I S T  S K I L L",
+            "zh": "A S S I S T  S K I L L",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/Panel_AssistSkill/Panel_Top/Text"
+        },
+        {
+            "location": "196/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/Panel_Curans/Panel_TAB/Text_PRM_NAME",
+            "text": "COST",
+            "zh": "COST",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/CuranFormation_TSUBAME/Panel_Curans/Panel_TAB/Text_PRM_NAME"
+        },
+        {
+            "location": "197/UI",
+            "narrator": "ClanListWindow3/Panel/TopBar/Panel/Text",
+            "text": "S E R V A N T  C U R A N  L I S T",
+            "zh": "S E R V A N T  C U R A N  L I S T",
+            "narrator_zh": "ClanListWindow3/Panel/TopBar/Panel/Text"
+        },
+        {
+            "location": "198/UI",
+            "narrator": "ClanListWindow3/Panel/TradeListInfo/CompleteButton/Text",
+            "text": "編成を完了",
+            "zh": "编成完成",
+            "narrator_zh": "ClanListWindow3/Panel/TradeListInfo/CompleteButton/Text"
+        },
+        {
+            "location": "199/UI",
+            "narrator": "ClanListWindow3/Panel/TradeListInfo/DTapInfo/Text",
+            "text": "選択中のクランを\n再度タップで入れ替え",
+            "zh": "再次点击选中的库兰\n即可替换",
+            "narrator_zh": "ClanListWindow3/Panel/TradeListInfo/DTapInfo/Text"
+        },
+        {
+            "location": "200/UI",
+            "narrator": "ClanListWindow3/Panel/TradeListInfo/Text",
+            "text": "サーバントクランをタップすると詳細情報を確認できます。",
+            "zh": "点击从属库兰即可查看详细信息。",
+            "narrator_zh": "ClanListWindow3/Panel/TradeListInfo/Text"
+        },
+        {
+            "location": "201/UI",
+            "narrator": "ClanListWindow3/Panel/TradeListInfo/TradeButton/Text",
+            "text": "入れ替える",
+            "zh": "替换",
+            "narrator_zh": "ClanListWindow3/Panel/TradeListInfo/TradeButton/Text"
+        },
+        {
+            "location": "202/UI",
+            "narrator": "ClanListWindow3/Panel/Viewer/Tutorial/TutorialCuran2A/Panel/Message",
+            "text": "クランアイコンをタップすると\n<color=red>【クランの詳細】</color>を確認できる。\n",
+            "zh": "点击库兰图标，\n就能查看<color=red>【库兰详情】</color>。\n",
+            "narrator_zh": "ClanListWindow3/Panel/Viewer/Tutorial/TutorialCuran2A/Panel/Message"
+        },
+        {
+            "location": "203/UI",
+            "narrator": "ClanListWindow3/Panel/Viewer/Tutorial/TutorialCuran2A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "ClanListWindow3/Panel/Viewer/Tutorial/TutorialCuran2A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "204/UI",
+            "narrator": "ClanListWindow3/Panel/Viewer/Tutorial/TutorialCuran2A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "ClanListWindow3/Panel/Viewer/Tutorial/TutorialCuran2A/Panel/PicArea/RightButton/TextOK"
+        }
+    ]
 }

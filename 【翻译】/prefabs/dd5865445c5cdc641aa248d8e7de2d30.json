@@ -1,88 +1,112 @@
 {
- "dir": "dd5865445c5cdc641aa248d8e7de2d30",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "254/UI",
-   "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_AGI/Text_PRMNAME",
-   "text": "AGI\n"
-  },
-  {
-   "location": "255/UI",
-   "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_ATK/Text_PRMNAME",
-   "text": "ATK\n"
-  },
-  {
-   "location": "256/UI",
-   "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_DEF/Text_PRMNAME",
-   "text": "DEF\n"
-  },
-  {
-   "location": "257/UI",
-   "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_HEAL/Text_PRMNAME",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "258/UI",
-   "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_HP/Text_PRMNAME",
-   "text": "HP"
-  },
-  {
-   "location": "259/UI",
-   "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_AGI/Text_PRMNAME",
-   "text": "AGI\n"
-  },
-  {
-   "location": "260/UI",
-   "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_ATK/Text_PRMNAME",
-   "text": "ATK\n"
-  },
-  {
-   "location": "261/UI",
-   "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_DEF/Text_PRMNAME",
-   "text": "DEF\n"
-  },
-  {
-   "location": "262/UI",
-   "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_HEAL/Text_PRMNAME",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "263/UI",
-   "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_HP/Text_PRMNAME",
-   "text": "HP"
-  },
-  {
-   "location": "264/UI",
-   "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_rarety/CuranTweetCanvas/CuranTweet/Panel/Text",
-   "text": "あ、あんたのことなんて\n全然好きなんかじゃ\nないんだからね！",
-   "zh": "啊、我\n根本一点都不喜欢你\n这种人啦！",
-   "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/Panel_rarety/CuranTweetCanvas/CuranTweet/Panel/Text"
-  },
-  {
-   "location": "265/UI",
-   "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_rarety/CuranTweetCanvas/CuranTweet/Panel/Text/Name",
-   "text": "【モヘンジョダロ】",
-   "zh": "【摩亨佐达罗】",
-   "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/Panel_rarety/CuranTweetCanvas/CuranTweet/Panel/Text/Name"
-  },
-  {
-   "location": "266/UI",
-   "narrator": "CuranEvolutionCutin2/EvolutionResult/TopBar/Panel/BackButton/Text",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/TopBar/Panel/BackButton/Text"
-  },
-  {
-   "location": "267/UI",
-   "narrator": "CuranEvolutionCutin2/EvolutionResult/TopBar/Panel/CharaName",
-   "text": "進化合成結果"
-  },
-  {
-   "location": "268/UI",
-   "narrator": "CuranEvolutionCutin2/EvolutionResult/TopBar/Panel/Text",
-   "text": "S E R V A N T  C U R A N  E V O L U T I O N"
-  }
- ]
+    "dir": "dd5865445c5cdc641aa248d8e7de2d30",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "254/UI",
+            "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_AGI/Text_PRMNAME",
+            "text": "AGI\n",
+            "zh": "AGI\n",
+            "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_AGI/Text_PRMNAME"
+        },
+        {
+            "location": "255/UI",
+            "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_ATK/Text_PRMNAME",
+            "text": "ATK\n",
+            "zh": "ATK\n",
+            "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_ATK/Text_PRMNAME"
+        },
+        {
+            "location": "256/UI",
+            "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_DEF/Text_PRMNAME",
+            "text": "DEF\n",
+            "zh": "DEF\n",
+            "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_DEF/Text_PRMNAME"
+        },
+        {
+            "location": "257/UI",
+            "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_HEAL/Text_PRMNAME",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_HEAL/Text_PRMNAME"
+        },
+        {
+            "location": "258/UI",
+            "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_HP/Text_PRMNAME",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_HP/Text_PRMNAME"
+        },
+        {
+            "location": "259/UI",
+            "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_AGI/Text_PRMNAME",
+            "text": "AGI\n",
+            "zh": "AGI\n",
+            "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_AGI/Text_PRMNAME"
+        },
+        {
+            "location": "260/UI",
+            "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_ATK/Text_PRMNAME",
+            "text": "ATK\n",
+            "zh": "ATK\n",
+            "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_ATK/Text_PRMNAME"
+        },
+        {
+            "location": "261/UI",
+            "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_DEF/Text_PRMNAME",
+            "text": "DEF\n",
+            "zh": "DEF\n",
+            "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_DEF/Text_PRMNAME"
+        },
+        {
+            "location": "262/UI",
+            "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_HEAL/Text_PRMNAME",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_HEAL/Text_PRMNAME"
+        },
+        {
+            "location": "263/UI",
+            "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_HP/Text_PRMNAME",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_HP/Text_PRMNAME"
+        },
+        {
+            "location": "264/UI",
+            "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_rarety/CuranTweetCanvas/CuranTweet/Panel/Text",
+            "text": "あ、あんたのことなんて\n全然好きなんかじゃ\nないんだからね！",
+            "zh": "啊、我\n根本一点都不喜欢你\n这种人啦！",
+            "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/Panel_rarety/CuranTweetCanvas/CuranTweet/Panel/Text"
+        },
+        {
+            "location": "265/UI",
+            "narrator": "CuranEvolutionCutin2/EvolutionResult/Panel_rarety/CuranTweetCanvas/CuranTweet/Panel/Text/Name",
+            "text": "【モヘンジョダロ】",
+            "zh": "【摩亨佐达罗】",
+            "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/Panel_rarety/CuranTweetCanvas/CuranTweet/Panel/Text/Name"
+        },
+        {
+            "location": "266/UI",
+            "narrator": "CuranEvolutionCutin2/EvolutionResult/TopBar/Panel/BackButton/Text",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/TopBar/Panel/BackButton/Text"
+        },
+        {
+            "location": "267/UI",
+            "narrator": "CuranEvolutionCutin2/EvolutionResult/TopBar/Panel/CharaName",
+            "text": "進化合成結果",
+            "zh": "进化合成结果",
+            "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/TopBar/Panel/CharaName"
+        },
+        {
+            "location": "268/UI",
+            "narrator": "CuranEvolutionCutin2/EvolutionResult/TopBar/Panel/Text",
+            "text": "S E R V A N T  C U R A N  E V O L U T I O N",
+            "zh": "S E R V A N T  C U R A N  E V O L U T I O N",
+            "narrator_zh": "CuranEvolutionCutin2/EvolutionResult/TopBar/Panel/Text"
+        }
+    ]
 }

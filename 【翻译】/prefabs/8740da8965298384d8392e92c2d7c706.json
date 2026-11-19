@@ -1,210 +1,238 @@
 {
- "dir": "8740da8965298384d8392e92c2d7c706",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "409/UI",
-   "narrator": "Profile_UserSettingCanvas/BirthDaySelector/OKButton/Text",
-   "text": "OK"
-  },
-  {
-   "location": "410/UI",
-   "narrator": "Profile_UserSettingCanvas/BirthDaySelector/Panel_BORDER_1/Text",
-   "text": "誕生日を入力してください",
-   "zh": "请输入生日",
-   "narrator_zh": "Profile_UserSettingCanvas/BirthDaySelector/Panel_BORDER_1/Text"
-  },
-  {
-   "location": "411/UI",
-   "narrator": "Profile_UserSettingCanvas/BirthDaySelector/Selector/Text_D",
-   "text": "日"
-  },
-  {
-   "location": "412/UI",
-   "narrator": "Profile_UserSettingCanvas/BirthDaySelector/Selector/Text_M",
-   "text": "月"
-  },
-  {
-   "location": "413/UI",
-   "narrator": "Profile_UserSettingCanvas/BirthDaySelector/Selector/Text_Y",
-   "text": "年"
-  },
-  {
-   "location": "414/UI",
-   "narrator": "Profile_UserSettingCanvas/CommentSelector/OKButton/Text",
-   "text": "OK"
-  },
-  {
-   "location": "415/UI",
-   "narrator": "Profile_UserSettingCanvas/CommentSelector/Panel_BORDER_1/Text",
-   "text": "ひとことコメントを選択してください",
-   "zh": "请选择一句话留言",
-   "narrator_zh": "Profile_UserSettingCanvas/CommentSelector/Panel_BORDER_1/Text"
-  },
-  {
-   "location": "416/UI",
-   "narrator": "Profile_UserSettingCanvas/CommentSelector/Scroll View/Viewport/Content/Comment/Comment",
-   "text": "のんびりいこうよ人生は。",
-   "zh": "人生嘛，慢慢来。",
-   "narrator_zh": "Profile_UserSettingCanvas/CommentSelector/Scroll View/Viewport/Content/Comment/Comment"
-  },
-  {
-   "location": "417/UI",
-   "narrator": "Profile_UserSettingCanvas/Image_Favo/Text",
-   "text": "お気に入り",
-   "zh": "收藏",
-   "narrator_zh": "Profile_UserSettingCanvas/Image_Favo/Text"
-  },
-  {
-   "location": "418/UI",
-   "narrator": "Profile_UserSettingCanvas/NameEditor/InputField",
-   "text": "名前は８文字まで",
-   "zh": "名字最多８个字",
-   "narrator_zh": "Profile_UserSettingCanvas/NameEditor/InputField"
-  },
-  {
-   "location": "419/UI",
-   "narrator": "Profile_UserSettingCanvas/NameEditor/InputField/Text",
-   "text": "名前は８文字まで",
-   "zh": "名字最多８个字",
-   "narrator_zh": "Profile_UserSettingCanvas/NameEditor/InputField/Text"
-  },
-  {
-   "location": "420/UI",
-   "narrator": "Profile_UserSettingCanvas/NameEditor/InputField/mojiInfo",
-   "text": "(8文字以内)"
-  },
-  {
-   "location": "421/UI",
-   "narrator": "Profile_UserSettingCanvas/NameEditor/OKButton/Text",
-   "text": "OK"
-  },
-  {
-   "location": "422/UI",
-   "narrator": "Profile_UserSettingCanvas/NameEditor/Panel_BORDER_1/Text",
-   "text": "あなたの名前を入力してください",
-   "zh": "请输入你的名字",
-   "narrator_zh": "Profile_UserSettingCanvas/NameEditor/Panel_BORDER_1/Text"
-  },
-  {
-   "location": "423/UI",
-   "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_BORDER_1/Text",
-   "text": "お気に入りヒロイン",
-   "zh": "收藏的女主角",
-   "narrator_zh": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_BORDER_1/Text"
-  },
-  {
-   "location": "424/UI",
-   "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_DATAAREA_1/Text_FavHeroine",
-   "text": "ヒロイン名称",
-   "zh": "女主角名称",
-   "narrator_zh": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_DATAAREA_1/Text_FavHeroine"
-  },
-  {
-   "location": "425/UI",
-   "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_DATAAREA_2/Text_UserName",
-   "text": "ユーザー名６７８",
-   "zh": "用户名６７８",
-   "narrator_zh": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_DATAAREA_2/Text_UserName"
-  },
-  {
-   "location": "426/UI",
-   "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_DATAAREA_3/Text_NickName",
-   "text": "ユーザー名６７８",
-   "zh": "用户名６７８",
-   "narrator_zh": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_DATAAREA_3/Text_NickName"
-  },
-  {
-   "location": "427/UI",
-   "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_DATAAREA_4/Text_FavHeroine",
-   "text": "１２３４５６７\n８９０１２３４\n５６７８９０"
-  },
-  {
-   "location": "428/UI",
-   "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_RED_BORDER_2/Text",
-   "text": "あなたの名前",
-   "zh": "你的名字",
-   "narrator_zh": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_RED_BORDER_2/Text"
-  },
-  {
-   "location": "429/UI",
-   "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_RED_BORDER_3/Text",
-   "text": "あなたお誕生日",
-   "zh": "你的生日",
-   "narrator_zh": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_RED_BORDER_3/Text"
-  },
-  {
-   "location": "430/UI",
-   "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_RED_BORDER_3/Text",
-   "text": "あなたの呼び名",
-   "zh": "你的称呼",
-   "narrator_zh": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_RED_BORDER_3/Text"
-  },
-  {
-   "location": "431/UI",
-   "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_RED_BORDER_4/Text",
-   "text": "ひとことコメント",
-   "zh": "一句话留言",
-   "narrator_zh": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_RED_BORDER_4/Text"
-  },
-  {
-   "location": "432/UI",
-   "narrator": "Profile_UserSettingCanvas/User_Setting/TopBar/Panel/BackButton/Text",
-   "text": "閉じる",
-   "zh": "关闭",
-   "narrator_zh": "Profile_UserSettingCanvas/User_Setting/TopBar/Panel/BackButton/Text"
-  },
-  {
-   "location": "433/UI",
-   "narrator": "Profile_UserSettingCanvas/User_Setting/TopBar/Panel/SystemTitle",
-   "text": "ユーザー設定",
-   "zh": "用户设置",
-   "narrator_zh": "Profile_UserSettingCanvas/User_Setting/TopBar/Panel/SystemTitle"
-  },
-  {
-   "location": "434/UI",
-   "narrator": "Profile_UserSettingCanvas/User_Setting/TopBar/Panel/Text",
-   "text": "U S E R  S E T T I N G"
-  },
-  {
-   "location": "435/UI",
-   "narrator": "Profile_UserSettingCanvas/YobinaSelector/OKButton/Text",
-   "text": "OK"
-  },
-  {
-   "location": "436/UI",
-   "narrator": "Profile_UserSettingCanvas/YobinaSelector/Panel_BORDER_1/Text",
-   "text": "希望する一人称を選択して下さい",
-   "zh": "请选择你希望的自称",
-   "narrator_zh": "Profile_UserSettingCanvas/YobinaSelector/Panel_BORDER_1/Text"
-  },
-  {
-   "location": "437/UI",
-   "narrator": "Profile_UserSettingCanvas/YobinaSelector/Selector/Drop_Me",
-   "text": "ミー",
-   "zh": "我",
-   "narrator_zh": "Profile_UserSettingCanvas/YobinaSelector/Selector/Drop_Me"
-  },
-  {
-   "location": "438/UI",
-   "narrator": "Profile_UserSettingCanvas/YobinaSelector/Selector/Drop_Me",
-   "text": "俺"
-  },
-  {
-   "location": "439/UI",
-   "narrator": "Profile_UserSettingCanvas/YobinaSelector/Selector/Drop_Me",
-   "text": "僕"
-  },
-  {
-   "location": "440/UI",
-   "narrator": "Profile_UserSettingCanvas/YobinaSelector/Selector/Drop_Me",
-   "text": "私"
-  },
-  {
-   "location": "441/UI",
-   "narrator": "Profile_UserSettingCanvas/YobinaSelector/Selector/Drop_Me/Label",
-   "text": "私"
-  }
- ]
+    "dir": "8740da8965298384d8392e92c2d7c706",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "409/UI",
+            "narrator": "Profile_UserSettingCanvas/BirthDaySelector/OKButton/Text",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "Profile_UserSettingCanvas/BirthDaySelector/OKButton/Text"
+        },
+        {
+            "location": "410/UI",
+            "narrator": "Profile_UserSettingCanvas/BirthDaySelector/Panel_BORDER_1/Text",
+            "text": "誕生日を入力してください",
+            "zh": "请输入生日",
+            "narrator_zh": "Profile_UserSettingCanvas/BirthDaySelector/Panel_BORDER_1/Text"
+        },
+        {
+            "location": "411/UI",
+            "narrator": "Profile_UserSettingCanvas/BirthDaySelector/Selector/Text_D",
+            "text": "日",
+            "zh": "日",
+            "narrator_zh": "Profile_UserSettingCanvas/BirthDaySelector/Selector/Text_D"
+        },
+        {
+            "location": "412/UI",
+            "narrator": "Profile_UserSettingCanvas/BirthDaySelector/Selector/Text_M",
+            "text": "月",
+            "zh": "月",
+            "narrator_zh": "Profile_UserSettingCanvas/BirthDaySelector/Selector/Text_M"
+        },
+        {
+            "location": "413/UI",
+            "narrator": "Profile_UserSettingCanvas/BirthDaySelector/Selector/Text_Y",
+            "text": "年",
+            "zh": "年",
+            "narrator_zh": "Profile_UserSettingCanvas/BirthDaySelector/Selector/Text_Y"
+        },
+        {
+            "location": "414/UI",
+            "narrator": "Profile_UserSettingCanvas/CommentSelector/OKButton/Text",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "Profile_UserSettingCanvas/CommentSelector/OKButton/Text"
+        },
+        {
+            "location": "415/UI",
+            "narrator": "Profile_UserSettingCanvas/CommentSelector/Panel_BORDER_1/Text",
+            "text": "ひとことコメントを選択してください",
+            "zh": "请选择一句话留言",
+            "narrator_zh": "Profile_UserSettingCanvas/CommentSelector/Panel_BORDER_1/Text"
+        },
+        {
+            "location": "416/UI",
+            "narrator": "Profile_UserSettingCanvas/CommentSelector/Scroll View/Viewport/Content/Comment/Comment",
+            "text": "のんびりいこうよ人生は。",
+            "zh": "人生嘛，慢慢来。",
+            "narrator_zh": "Profile_UserSettingCanvas/CommentSelector/Scroll View/Viewport/Content/Comment/Comment"
+        },
+        {
+            "location": "417/UI",
+            "narrator": "Profile_UserSettingCanvas/Image_Favo/Text",
+            "text": "お気に入り",
+            "zh": "收藏",
+            "narrator_zh": "Profile_UserSettingCanvas/Image_Favo/Text"
+        },
+        {
+            "location": "418/UI",
+            "narrator": "Profile_UserSettingCanvas/NameEditor/InputField",
+            "text": "名前は８文字まで",
+            "zh": "名字最多８个字",
+            "narrator_zh": "Profile_UserSettingCanvas/NameEditor/InputField"
+        },
+        {
+            "location": "419/UI",
+            "narrator": "Profile_UserSettingCanvas/NameEditor/InputField/Text",
+            "text": "名前は８文字まで",
+            "zh": "名字最多８个字",
+            "narrator_zh": "Profile_UserSettingCanvas/NameEditor/InputField/Text"
+        },
+        {
+            "location": "420/UI",
+            "narrator": "Profile_UserSettingCanvas/NameEditor/InputField/mojiInfo",
+            "text": "(8文字以内)",
+            "zh": "(8个字以内)",
+            "narrator_zh": "Profile_UserSettingCanvas/NameEditor/InputField/mojiInfo"
+        },
+        {
+            "location": "421/UI",
+            "narrator": "Profile_UserSettingCanvas/NameEditor/OKButton/Text",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "Profile_UserSettingCanvas/NameEditor/OKButton/Text"
+        },
+        {
+            "location": "422/UI",
+            "narrator": "Profile_UserSettingCanvas/NameEditor/Panel_BORDER_1/Text",
+            "text": "あなたの名前を入力してください",
+            "zh": "请输入你的名字",
+            "narrator_zh": "Profile_UserSettingCanvas/NameEditor/Panel_BORDER_1/Text"
+        },
+        {
+            "location": "423/UI",
+            "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_BORDER_1/Text",
+            "text": "お気に入りヒロイン",
+            "zh": "收藏的女主角",
+            "narrator_zh": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_BORDER_1/Text"
+        },
+        {
+            "location": "424/UI",
+            "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_DATAAREA_1/Text_FavHeroine",
+            "text": "ヒロイン名称",
+            "zh": "女主角名称",
+            "narrator_zh": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_DATAAREA_1/Text_FavHeroine"
+        },
+        {
+            "location": "425/UI",
+            "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_DATAAREA_2/Text_UserName",
+            "text": "ユーザー名６７８",
+            "zh": "用户名６７８",
+            "narrator_zh": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_DATAAREA_2/Text_UserName"
+        },
+        {
+            "location": "426/UI",
+            "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_DATAAREA_3/Text_NickName",
+            "text": "ユーザー名６７８",
+            "zh": "用户名６７８",
+            "narrator_zh": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_DATAAREA_3/Text_NickName"
+        },
+        {
+            "location": "427/UI",
+            "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_DATAAREA_4/Text_FavHeroine",
+            "text": "１２３４５６７\n８９０１２３４\n５６７８９０",
+            "zh": "１２３４５６７\n８９０１２３４\n５６７８９０",
+            "narrator_zh": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_DATAAREA_4/Text_FavHeroine"
+        },
+        {
+            "location": "428/UI",
+            "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_RED_BORDER_2/Text",
+            "text": "あなたの名前",
+            "zh": "你的名字",
+            "narrator_zh": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_RED_BORDER_2/Text"
+        },
+        {
+            "location": "429/UI",
+            "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_RED_BORDER_3/Text",
+            "text": "あなたお誕生日",
+            "zh": "你的生日",
+            "narrator_zh": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_RED_BORDER_3/Text"
+        },
+        {
+            "location": "430/UI",
+            "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_RED_BORDER_3/Text",
+            "text": "あなたの呼び名",
+            "zh": "你的称呼",
+            "narrator_zh": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_RED_BORDER_3/Text"
+        },
+        {
+            "location": "431/UI",
+            "narrator": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_RED_BORDER_4/Text",
+            "text": "ひとことコメント",
+            "zh": "一句话留言",
+            "narrator_zh": "Profile_UserSettingCanvas/PANEL_UserSetting/Panel_RED_BORDER_4/Text"
+        },
+        {
+            "location": "432/UI",
+            "narrator": "Profile_UserSettingCanvas/User_Setting/TopBar/Panel/BackButton/Text",
+            "text": "閉じる",
+            "zh": "关闭",
+            "narrator_zh": "Profile_UserSettingCanvas/User_Setting/TopBar/Panel/BackButton/Text"
+        },
+        {
+            "location": "433/UI",
+            "narrator": "Profile_UserSettingCanvas/User_Setting/TopBar/Panel/SystemTitle",
+            "text": "ユーザー設定",
+            "zh": "用户设置",
+            "narrator_zh": "Profile_UserSettingCanvas/User_Setting/TopBar/Panel/SystemTitle"
+        },
+        {
+            "location": "434/UI",
+            "narrator": "Profile_UserSettingCanvas/User_Setting/TopBar/Panel/Text",
+            "text": "U S E R  S E T T I N G",
+            "zh": "U S E R  S E T T I N G",
+            "narrator_zh": "Profile_UserSettingCanvas/User_Setting/TopBar/Panel/Text"
+        },
+        {
+            "location": "435/UI",
+            "narrator": "Profile_UserSettingCanvas/YobinaSelector/OKButton/Text",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "Profile_UserSettingCanvas/YobinaSelector/OKButton/Text"
+        },
+        {
+            "location": "436/UI",
+            "narrator": "Profile_UserSettingCanvas/YobinaSelector/Panel_BORDER_1/Text",
+            "text": "希望する一人称を選択して下さい",
+            "zh": "请选择你希望的自称",
+            "narrator_zh": "Profile_UserSettingCanvas/YobinaSelector/Panel_BORDER_1/Text"
+        },
+        {
+            "location": "437/UI",
+            "narrator": "Profile_UserSettingCanvas/YobinaSelector/Selector/Drop_Me",
+            "text": "ミー",
+            "zh": "我",
+            "narrator_zh": "Profile_UserSettingCanvas/YobinaSelector/Selector/Drop_Me"
+        },
+        {
+            "location": "438/UI",
+            "narrator": "Profile_UserSettingCanvas/YobinaSelector/Selector/Drop_Me",
+            "text": "俺",
+            "zh": "俺",
+            "narrator_zh": "Profile_UserSettingCanvas/YobinaSelector/Selector/Drop_Me"
+        },
+        {
+            "location": "439/UI",
+            "narrator": "Profile_UserSettingCanvas/YobinaSelector/Selector/Drop_Me",
+            "text": "僕",
+            "zh": "我",
+            "narrator_zh": "Profile_UserSettingCanvas/YobinaSelector/Selector/Drop_Me"
+        },
+        {
+            "location": "440/UI",
+            "narrator": "Profile_UserSettingCanvas/YobinaSelector/Selector/Drop_Me",
+            "text": "私",
+            "zh": "我",
+            "narrator_zh": "Profile_UserSettingCanvas/YobinaSelector/Selector/Drop_Me"
+        },
+        {
+            "location": "441/UI",
+            "narrator": "Profile_UserSettingCanvas/YobinaSelector/Selector/Drop_Me/Label",
+            "text": "私",
+            "zh": "我",
+            "narrator_zh": "Profile_UserSettingCanvas/YobinaSelector/Selector/Drop_Me/Label"
+        }
+    ]
 }

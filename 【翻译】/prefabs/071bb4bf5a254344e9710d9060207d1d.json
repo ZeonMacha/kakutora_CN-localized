@@ -1,120 +1,140 @@
 {
- "dir": "071bb4bf5a254344e9710d9060207d1d",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "15/UI",
-   "narrator": "01_STORY_MAIN/BackButton/Text",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "01_STORY_MAIN/BackButton/Text"
-  },
-  {
-   "location": "16/UI",
-   "narrator": "01_STORY_MAIN/BackButton/TextB",
-   "text": "GOTO MAIN MENU\n"
-  },
-  {
-   "location": "17/UI",
-   "narrator": "01_STORY_MAIN/EventButton/Text",
-   "text": "詳細情報"
-  },
-  {
-   "location": "18/UI",
-   "narrator": "01_STORY_MAIN/EventButton/TextB",
-   "text": "EVENT INFO.\n"
-  },
-  {
-   "location": "19/UI",
-   "narrator": "01_STORY_MAIN/Jewel/Waku/Text",
-   "text": "所持ジュエル：",
-   "zh": "持有珠宝：",
-   "narrator_zh": "01_STORY_MAIN/Jewel/Waku/Text"
-  },
-  {
-   "location": "20/UI",
-   "narrator": "01_STORY_MAIN/Tab1/Actives/TextA",
-   "text": "メインストーリー",
-   "zh": "主线故事",
-   "narrator_zh": "01_STORY_MAIN/Tab1/Actives/TextA"
-  },
-  {
-   "location": "21/UI",
-   "narrator": "01_STORY_MAIN/Tab1/Actives/TextB",
-   "text": "MAIN STORY\n"
-  },
-  {
-   "location": "22/UI",
-   "narrator": "01_STORY_MAIN/Tab1/Sleeps/TextA",
-   "text": "メインストーリー",
-   "zh": "主线故事",
-   "narrator_zh": "01_STORY_MAIN/Tab1/Sleeps/TextA"
-  },
-  {
-   "location": "23/UI",
-   "narrator": "01_STORY_MAIN/Tab1/Sleeps/TextB",
-   "text": "MAIN STORY"
-  },
-  {
-   "location": "24/UI",
-   "narrator": "01_STORY_MAIN/Tab2/Actives/TextA",
-   "text": "イベントクエスト",
-   "zh": "活动任务",
-   "narrator_zh": "01_STORY_MAIN/Tab2/Actives/TextA"
-  },
-  {
-   "location": "25/UI",
-   "narrator": "01_STORY_MAIN/Tab2/Actives/TextB",
-   "text": "EVENT QUEST"
-  },
-  {
-   "location": "26/UI",
-   "narrator": "01_STORY_MAIN/Tab2/Sleeps/TextA",
-   "text": "イベントクエスト",
-   "zh": "活动任务",
-   "narrator_zh": "01_STORY_MAIN/Tab2/Sleeps/TextA"
-  },
-  {
-   "location": "27/UI",
-   "narrator": "01_STORY_MAIN/Tab2/Sleeps/TextB",
-   "text": "EVENT QUEST"
-  },
-  {
-   "location": "28/UI",
-   "narrator": "01_STORY_MAIN/Tab3/Actives/TextA",
-   "text": "アナザークエスト",
-   "zh": "其他任务",
-   "narrator_zh": "01_STORY_MAIN/Tab3/Actives/TextA"
-  },
-  {
-   "location": "29/UI",
-   "narrator": "01_STORY_MAIN/Tab3/Actives/TextB",
-   "text": "ANOTHER QUEST"
-  },
-  {
-   "location": "30/UI",
-   "narrator": "01_STORY_MAIN/Tab3/Sleeps/TextA",
-   "text": "アナザークエスト",
-   "zh": "其他任务",
-   "narrator_zh": "01_STORY_MAIN/Tab3/Sleeps/TextA"
-  },
-  {
-   "location": "31/UI",
-   "narrator": "01_STORY_MAIN/Tab3/Sleeps/TextB",
-   "text": "ANOTHER QUEST"
-  },
-  {
-   "location": "32/UI",
-   "narrator": "01_STORY_MAIN/Title_CharaName",
-   "text": "ア ニ メ と 共 に 語 ら れ る 、 彼 女 た ち と の 物 語",
-   "zh": "与动画一同讲述、和她们的故事",
-   "narrator_zh": "01_STORY_MAIN/Title_CharaName"
-  },
-  {
-   "location": "33/UI",
-   "narrator": "01_STORY_MAIN/Title_Main",
-   "text": "MAIN STORY <size=35>Ep.</size>"
-  }
- ]
+    "dir": "071bb4bf5a254344e9710d9060207d1d",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "15/UI",
+            "narrator": "01_STORY_MAIN/BackButton/Text",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "01_STORY_MAIN/BackButton/Text"
+        },
+        {
+            "location": "16/UI",
+            "narrator": "01_STORY_MAIN/BackButton/TextB",
+            "text": "GOTO MAIN MENU\n",
+            "zh": "GOTO MAIN MENU\n",
+            "narrator_zh": "01_STORY_MAIN/BackButton/TextB"
+        },
+        {
+            "location": "17/UI",
+            "narrator": "01_STORY_MAIN/EventButton/Text",
+            "text": "詳細情報",
+            "zh": "详细信息",
+            "narrator_zh": "01_STORY_MAIN/EventButton/Text"
+        },
+        {
+            "location": "18/UI",
+            "narrator": "01_STORY_MAIN/EventButton/TextB",
+            "text": "EVENT INFO.\n",
+            "zh": "EVENT INFO.\n",
+            "narrator_zh": "01_STORY_MAIN/EventButton/TextB"
+        },
+        {
+            "location": "19/UI",
+            "narrator": "01_STORY_MAIN/Jewel/Waku/Text",
+            "text": "所持ジュエル：",
+            "zh": "持有珠宝：",
+            "narrator_zh": "01_STORY_MAIN/Jewel/Waku/Text"
+        },
+        {
+            "location": "20/UI",
+            "narrator": "01_STORY_MAIN/Tab1/Actives/TextA",
+            "text": "メインストーリー",
+            "zh": "主线故事",
+            "narrator_zh": "01_STORY_MAIN/Tab1/Actives/TextA"
+        },
+        {
+            "location": "21/UI",
+            "narrator": "01_STORY_MAIN/Tab1/Actives/TextB",
+            "text": "MAIN STORY\n",
+            "zh": "MAIN STORY\n",
+            "narrator_zh": "01_STORY_MAIN/Tab1/Actives/TextB"
+        },
+        {
+            "location": "22/UI",
+            "narrator": "01_STORY_MAIN/Tab1/Sleeps/TextA",
+            "text": "メインストーリー",
+            "zh": "主线故事",
+            "narrator_zh": "01_STORY_MAIN/Tab1/Sleeps/TextA"
+        },
+        {
+            "location": "23/UI",
+            "narrator": "01_STORY_MAIN/Tab1/Sleeps/TextB",
+            "text": "MAIN STORY",
+            "zh": "MAIN STORY",
+            "narrator_zh": "01_STORY_MAIN/Tab1/Sleeps/TextB"
+        },
+        {
+            "location": "24/UI",
+            "narrator": "01_STORY_MAIN/Tab2/Actives/TextA",
+            "text": "イベントクエスト",
+            "zh": "活动任务",
+            "narrator_zh": "01_STORY_MAIN/Tab2/Actives/TextA"
+        },
+        {
+            "location": "25/UI",
+            "narrator": "01_STORY_MAIN/Tab2/Actives/TextB",
+            "text": "EVENT QUEST",
+            "zh": "EVENT QUEST",
+            "narrator_zh": "01_STORY_MAIN/Tab2/Actives/TextB"
+        },
+        {
+            "location": "26/UI",
+            "narrator": "01_STORY_MAIN/Tab2/Sleeps/TextA",
+            "text": "イベントクエスト",
+            "zh": "活动任务",
+            "narrator_zh": "01_STORY_MAIN/Tab2/Sleeps/TextA"
+        },
+        {
+            "location": "27/UI",
+            "narrator": "01_STORY_MAIN/Tab2/Sleeps/TextB",
+            "text": "EVENT QUEST",
+            "zh": "EVENT QUEST",
+            "narrator_zh": "01_STORY_MAIN/Tab2/Sleeps/TextB"
+        },
+        {
+            "location": "28/UI",
+            "narrator": "01_STORY_MAIN/Tab3/Actives/TextA",
+            "text": "アナザークエスト",
+            "zh": "其他任务",
+            "narrator_zh": "01_STORY_MAIN/Tab3/Actives/TextA"
+        },
+        {
+            "location": "29/UI",
+            "narrator": "01_STORY_MAIN/Tab3/Actives/TextB",
+            "text": "ANOTHER QUEST",
+            "zh": "ANOTHER QUEST",
+            "narrator_zh": "01_STORY_MAIN/Tab3/Actives/TextB"
+        },
+        {
+            "location": "30/UI",
+            "narrator": "01_STORY_MAIN/Tab3/Sleeps/TextA",
+            "text": "アナザークエスト",
+            "zh": "其他任务",
+            "narrator_zh": "01_STORY_MAIN/Tab3/Sleeps/TextA"
+        },
+        {
+            "location": "31/UI",
+            "narrator": "01_STORY_MAIN/Tab3/Sleeps/TextB",
+            "text": "ANOTHER QUEST",
+            "zh": "ANOTHER QUEST",
+            "narrator_zh": "01_STORY_MAIN/Tab3/Sleeps/TextB"
+        },
+        {
+            "location": "32/UI",
+            "narrator": "01_STORY_MAIN/Title_CharaName",
+            "text": "ア ニ メ と 共 に 語 ら れ る 、 彼 女 た ち と の 物 語",
+            "zh": "与动画一同讲述、和她们的故事",
+            "narrator_zh": "01_STORY_MAIN/Title_CharaName"
+        },
+        {
+            "location": "33/UI",
+            "narrator": "01_STORY_MAIN/Title_Main",
+            "text": "MAIN STORY <size=35>Ep.</size>",
+            "zh": "MAIN STORY <size=35>Ep.</size>",
+            "narrator_zh": "01_STORY_MAIN/Title_Main"
+        }
+    ]
 }

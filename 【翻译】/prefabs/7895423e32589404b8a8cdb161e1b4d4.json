@@ -1,88 +1,112 @@
 {
- "dir": "7895423e32589404b8a8cdb161e1b4d4",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "608/UI",
-   "narrator": "CuranStrengthningCutin/Panel_Lv/CuranTweetCanvas/CuranTweet/Panel/Text",
-   "text": "あ、あんたのことなんて\n全然好きなんかじゃ\nないんだからね！",
-   "zh": "啊、我\n根本一点都不喜欢你\n这种人啦！",
-   "narrator_zh": "CuranStrengthningCutin/Panel_Lv/CuranTweetCanvas/CuranTweet/Panel/Text"
-  },
-  {
-   "location": "609/UI",
-   "narrator": "CuranStrengthningCutin/Panel_Lv/CuranTweetCanvas/CuranTweet/Panel/Text/Name",
-   "text": "【モヘンジョダロ】",
-   "zh": "【摩亨佐达罗】",
-   "narrator_zh": "CuranStrengthningCutin/Panel_Lv/CuranTweetCanvas/CuranTweet/Panel/Text/Name"
-  },
-  {
-   "location": "610/UI",
-   "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_AGI/Text_PRMNAME",
-   "text": "AGI\n"
-  },
-  {
-   "location": "611/UI",
-   "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_ATK/Text_PRMNAME",
-   "text": "ATK\n"
-  },
-  {
-   "location": "612/UI",
-   "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_DEF/Text_PRMNAME",
-   "text": "DEF\n"
-  },
-  {
-   "location": "613/UI",
-   "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_HEAL/Text_PRMNAME",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "614/UI",
-   "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_HP/Text_PRMNAME",
-   "text": "HP"
-  },
-  {
-   "location": "615/UI",
-   "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_AGI/Text_PRMNAME",
-   "text": "AGI\n"
-  },
-  {
-   "location": "616/UI",
-   "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_ATK/Text_PRMNAME",
-   "text": "ATK\n"
-  },
-  {
-   "location": "617/UI",
-   "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_DEF/Text_PRMNAME",
-   "text": "DEF\n"
-  },
-  {
-   "location": "618/UI",
-   "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_HEAL/Text_PRMNAME",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "619/UI",
-   "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_HP/Text_PRMNAME",
-   "text": "HP"
-  },
-  {
-   "location": "620/UI",
-   "narrator": "CuranStrengthningCutin/StrengthningResult/TopBar/Panel/BackButton/Text",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "CuranStrengthningCutin/StrengthningResult/TopBar/Panel/BackButton/Text"
-  },
-  {
-   "location": "621/UI",
-   "narrator": "CuranStrengthningCutin/StrengthningResult/TopBar/Panel/CharaName",
-   "text": "強化合成結果"
-  },
-  {
-   "location": "622/UI",
-   "narrator": "CuranStrengthningCutin/StrengthningResult/TopBar/Panel/Text",
-   "text": "S E R V A N T  C U R A N  S T R E N G T H N I N G"
-  }
- ]
+    "dir": "7895423e32589404b8a8cdb161e1b4d4",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "608/UI",
+            "narrator": "CuranStrengthningCutin/Panel_Lv/CuranTweetCanvas/CuranTweet/Panel/Text",
+            "text": "あ、あんたのことなんて\n全然好きなんかじゃ\nないんだからね！",
+            "zh": "啊、我\n根本一点都不喜欢你\n这种人啦！",
+            "narrator_zh": "CuranStrengthningCutin/Panel_Lv/CuranTweetCanvas/CuranTweet/Panel/Text"
+        },
+        {
+            "location": "609/UI",
+            "narrator": "CuranStrengthningCutin/Panel_Lv/CuranTweetCanvas/CuranTweet/Panel/Text/Name",
+            "text": "【モヘンジョダロ】",
+            "zh": "【摩亨佐达罗】",
+            "narrator_zh": "CuranStrengthningCutin/Panel_Lv/CuranTweetCanvas/CuranTweet/Panel/Text/Name"
+        },
+        {
+            "location": "610/UI",
+            "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_AGI/Text_PRMNAME",
+            "text": "AGI\n",
+            "zh": "AGI\n",
+            "narrator_zh": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_AGI/Text_PRMNAME"
+        },
+        {
+            "location": "611/UI",
+            "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_ATK/Text_PRMNAME",
+            "text": "ATK\n",
+            "zh": "ATK\n",
+            "narrator_zh": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_ATK/Text_PRMNAME"
+        },
+        {
+            "location": "612/UI",
+            "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_DEF/Text_PRMNAME",
+            "text": "DEF\n",
+            "zh": "DEF\n",
+            "narrator_zh": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_DEF/Text_PRMNAME"
+        },
+        {
+            "location": "613/UI",
+            "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_HEAL/Text_PRMNAME",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_HEAL/Text_PRMNAME"
+        },
+        {
+            "location": "614/UI",
+            "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_HP/Text_PRMNAME",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_LEFT/Panel_OUTLINE/Panel_PRM_HP/Text_PRMNAME"
+        },
+        {
+            "location": "615/UI",
+            "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_AGI/Text_PRMNAME",
+            "text": "AGI\n",
+            "zh": "AGI\n",
+            "narrator_zh": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_AGI/Text_PRMNAME"
+        },
+        {
+            "location": "616/UI",
+            "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_ATK/Text_PRMNAME",
+            "text": "ATK\n",
+            "zh": "ATK\n",
+            "narrator_zh": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_ATK/Text_PRMNAME"
+        },
+        {
+            "location": "617/UI",
+            "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_DEF/Text_PRMNAME",
+            "text": "DEF\n",
+            "zh": "DEF\n",
+            "narrator_zh": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_DEF/Text_PRMNAME"
+        },
+        {
+            "location": "618/UI",
+            "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_HEAL/Text_PRMNAME",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_HEAL/Text_PRMNAME"
+        },
+        {
+            "location": "619/UI",
+            "narrator": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_HP/Text_PRMNAME",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "CuranStrengthningCutin/StrengthningResult/Panel_parameter/Panel_RIGHT/Panel_OUTLINE/Panel_PRM_HP/Text_PRMNAME"
+        },
+        {
+            "location": "620/UI",
+            "narrator": "CuranStrengthningCutin/StrengthningResult/TopBar/Panel/BackButton/Text",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "CuranStrengthningCutin/StrengthningResult/TopBar/Panel/BackButton/Text"
+        },
+        {
+            "location": "621/UI",
+            "narrator": "CuranStrengthningCutin/StrengthningResult/TopBar/Panel/CharaName",
+            "text": "強化合成結果",
+            "zh": "强化合成结果",
+            "narrator_zh": "CuranStrengthningCutin/StrengthningResult/TopBar/Panel/CharaName"
+        },
+        {
+            "location": "622/UI",
+            "narrator": "CuranStrengthningCutin/StrengthningResult/TopBar/Panel/Text",
+            "text": "S E R V A N T  C U R A N  S T R E N G T H N I N G",
+            "zh": "S E R V A N T  C U R A N  S T R E N G T H N I N G",
+            "narrator_zh": "CuranStrengthningCutin/StrengthningResult/TopBar/Panel/Text"
+        }
+    ]
 }

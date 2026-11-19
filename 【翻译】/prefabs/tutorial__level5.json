@@ -1,375 +1,413 @@
 {
- "dir": "level5",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "4/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/AssistSkillDialog/Desc",
-   "text": "説明\n説明\n説明"
-  },
-  {
-   "location": "5/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/AssistSkillDialog/Title",
-   "text": "スキル名",
-   "zh": "技能名",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/AssistSkillDialog/Title"
-  },
-  {
-   "location": "6/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Error/Text",
-   "text": "ERROR\n"
-  },
-  {
-   "location": "7/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial0/Panel/Message",
-   "text": "相手がクランなら、こちらもクランで対抗。あなたは味方クランを従えることができるから、そのクランの力を借りて戦う。従えたクランを\n<color=red>【サーバントクラン】</color>と呼ぶの。",
-   "zh": "对方若是库兰，这边也用库兰对抗。你能驱使友方库兰，于是借它们的力量战斗。被你驱使的库兰，\n就叫做<color=red>【从属库兰】</color>。",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial0/Panel/Message"
-  },
-  {
-   "location": "8/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial0/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial0/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "9/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial0/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "10/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial1A/Panel/Message",
-   "text": "敵は待ってくれないから手短に。\n矢印が指しているキャラは装備しているサーバントクランで、簡単に言ってしまえば武器のようなもの。\nまずはこの5体を好きな順番でタップしてみて。",
-   "zh": "敌人不会等你，所以长话短说。\n箭头指着的角色装备着从属库兰，简单说就是类似武器的东西。\n先按你喜欢的顺序，把这5只点一点。",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial1A/Panel/Message"
-  },
-  {
-   "location": "11/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial1A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial1A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "12/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial1A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "13/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial1B/Panel/Message",
-   "text": "ここに<color=red>【攻撃した順番】</color>が記録\nされる。とても重要なので、\n次のターンでは注目してみて。",
-   "zh": "这里会把<color=red>【攻击的顺序】</color>记录\n下来。非常重要，\n下一回合请注意看。",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial1B/Panel/Message"
-  },
-  {
-   "location": "14/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial1B/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial1B/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "15/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial1B/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "16/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial2A/Panel/Message",
-   "text": "次は<color=red>【チェイン】</color>を教える。\n他にもパターンはあるけど、今回は\n　　アイコンのクランを<color=red>３体連続で</color>\nタップしつつ、4回攻撃してみて。\n",
-   "zh": "接下来教<color=red>【连携】</color>。\n别的花样也有，这次请\n　　把图标上的库兰<color=red>连续点3只</color>\n一边点，一边打出4次攻击。\n",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2A/Panel/Message"
-  },
-  {
-   "location": "17/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial2A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "18/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial2A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "19/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial2B_1/Panel/Message",
-   "text": "残念ながら失敗。\nもう一度、矢印のついているクランを３体続けてタップしてみて。\n",
-   "zh": "很遗憾，失败了。\n再来一次，把带箭头的库兰连续点3只。\n",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2B_1/Panel/Message"
-  },
-  {
-   "location": "20/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial2B_1/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2B_1/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "21/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial2B_1/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "22/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial2B_2/Panel/Message",
-   "text": "<color=red>【チェイン】</color>はアイコンの種類や\n並び順によって、様々に効果が\n変わる。\n",
-   "zh": "<color=red>【连携】</color>会随图标的种类和\n排列顺序不同，让效果\n发生各种变化。\n",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2B_2/Panel/Message"
-  },
-  {
-   "location": "23/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial2B_2/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2B_2/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "24/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial2B_2/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "25/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/Message",
-   "text": "例えばこんな感じ。\n\n\n\n\n\n\n\n効果はアイコンによって様々。\n色んな並びを試してみて。\n",
-   "zh": "比如像这样。\n\n\n\n\n\n\n\n效果因图标而异。\n多试几种排法看看。\n",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/Message"
-  },
-  {
-   "location": "26/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "27/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "28/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/backDeco/Text",
-   "text": "３チェイン",
-   "zh": "3连携",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/backDeco/Text"
-  },
-  {
-   "location": "29/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/backDeco/Text (1)",
-   "text": "４チェイン",
-   "zh": "4连携",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/backDeco/Text (1)"
-  },
-  {
-   "location": "30/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/backDeco/Text (2)",
-   "text": "２ペア",
-   "zh": "2对",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/backDeco/Text (2)"
-  },
-  {
-   "location": "31/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/backDeco/Text (3)",
-   "text": "３スタンス",
-   "zh": "3姿态",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/backDeco/Text (3)"
-  },
-  {
-   "location": "32/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial3A/Panel/Message",
-   "text": "じゃあおさらい。\n自由にクランを選択していいから\n<color=red>【チェイン】</color>を作ってみて。",
-   "zh": "那么，复习一下。\n库兰可以自由选，\n试着做出<color=red>【连携】</color>。",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial3A/Panel/Message"
-  },
-  {
-   "location": "33/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial3A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial3A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "34/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial3A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "35/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial4A/Panel/Message",
-   "text": "<color=blue>【ココロエナジー】</color>がたまって\n<color=red>【クランスキル】</color>が使えるように\nなった。早速使ってみる。\n",
-   "zh": "<color=blue>【心之能量】</color>积攒起来后，\n<color=red>【库兰技能】</color>就能\n使用了。马上试一试。\n",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4A/Panel/Message"
-  },
-  {
-   "location": "36/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial4A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "37/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial4A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "38/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial4B/Panel/Message",
-   "text": "スキルは<color=red>【アイコンをタップ】</color>で\n選択、<color=blue>【スキルを使うボタン】</color>で\n決定する。やってみて。\n",
-   "zh": "技能靠<color=red>【点图标】</color>来\n选择，靠<color=blue>【使用技能按钮】</color>来\n确定。试试看。\n",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4B/Panel/Message"
-  },
-  {
-   "location": "39/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial4B/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4B/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "40/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial4B/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "41/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial4C/Panel/Message",
-   "text": "スキルを使用すると\n<color=blue>【ココロエナジー】</color>を消費する。\n強力だけど、使いすぎに注意して。\n",
-   "zh": "使用技能会\n消耗<color=blue>【心之能量】</color>。\n虽然强，但注意别用过头。\n",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4C/Panel/Message"
-  },
-  {
-   "location": "42/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial4C/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4C/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "43/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial4C/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "44/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial4D/Panel/Message",
-   "text": "スキルを選んだら今までと\n同じようにクランを選んで攻撃。\n<color=red>スキルを使いたくない時は、\n最初からクランを押せばいい。</color>",
-   "zh": "选好技能之后，就和之前\n一样选择库兰进行攻击。\n<color=red>不想用技能的时候，\n从一开始直接点库兰就行。</color>",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4D/Panel/Message"
-  },
-  {
-   "location": "45/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial4D/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4D/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "46/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial4D/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "47/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial4E/Panel/Message",
-   "text": "<size=33><b><color=green>これでひとまず説明は終了。</color></b></size>\nさぁ、一気に勝負を決めましょう。\nチェインを忘れずにね。",
-   "zh": "<size=33><b><color=green>说明先到这里。</color></b></size>\n来，一口气分出胜负吧。\n别忘了连携。",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4E/Panel/Message"
-  },
-  {
-   "location": "48/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial4E/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4E/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "49/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial4E/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "50/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial6A/Panel/Message",
-   "text": "クランと敵は<color=red>【喜怒哀楽の属性】</color>を\n持っている。\n\n",
-   "zh": "库兰和敌人都带有\n<color=red>【喜怒哀乐的属性】</color>。\n\n",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial6A/Panel/Message"
-  },
-  {
-   "location": "51/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial6A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial6A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "52/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial6A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "53/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial6B/Panel/Message",
-   "text": "これが属性の優劣関係。\n\n一番上の　　　が敵の今の属性。\n\nこれに一番効くのは　　　。\nつまりそういうこと。\n",
-   "zh": "这就是属性的克制关系。\n\n最上面的　　　是敌人现在的属性。\n\n对它最有效的是　　　。\n就是这么回事。\n",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial6B/Panel/Message"
-  },
-  {
-   "location": "54/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial6B/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial6B/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "55/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial6B/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "56/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial7A/Panel/Message",
-   "text": "ココロエナジーが1目盛り以上\n貯まっていると、\n<color=red>【フルボッコアタック】</color>が使える。\n\nココロエナジーを全部使うけど、\n大ダメージを与えることが可能。\n貯めたエナジーをスキルに使うか\nフルボッコアタックに使うかは\nあなた次第。",
-   "zh": "心之能量只要积满1格\n以上，\n就能使用<color=red>【痛扁攻击】</color>。\n\n心之能量会全部消耗，\n但可以造成大伤害。\n攒下的能量是用在技能上，\n还是用在痛扁攻击上，\n由你决定。",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial7A/Panel/Message"
-  },
-  {
-   "location": "57/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial7A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial7A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "58/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial7A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "59/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial9A/Panel/Message",
-   "text": "トライナリーが<b>ココロスフィアで\n着ているコスチューム</b>に応じて、\n<color=red>【アシスト効果】</color>が発生する。\n\n効果は自動で発揮される仕組み。\n色んなコスチュームを試してみて。",
-   "zh": "三重奏会根据<b>在心灵领域\n所穿的服装</b>，\n产生<color=red>【辅助效果】</color>。\n\n效果会自动发挥。\n各种服装都试一试吧。",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial9A/Panel/Message"
-  },
-  {
-   "location": "60/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial9A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial9A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "61/UI",
-   "narrator": "TutorialCanvas/TutorialRoot/Tutorial9A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  }
- ]
+    "dir": "level5",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "4/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/AssistSkillDialog/Desc",
+            "text": "説明\n説明\n説明",
+            "zh": "说明\n说明\n说明",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/AssistSkillDialog/Desc"
+        },
+        {
+            "location": "5/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/AssistSkillDialog/Title",
+            "text": "スキル名",
+            "zh": "技能名",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/AssistSkillDialog/Title"
+        },
+        {
+            "location": "6/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Error/Text",
+            "text": "ERROR\n",
+            "zh": "ERROR\n",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Error/Text"
+        },
+        {
+            "location": "7/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial0/Panel/Message",
+            "text": "相手がクランなら、こちらもクランで対抗。あなたは味方クランを従えることができるから、そのクランの力を借りて戦う。従えたクランを\n<color=red>【サーバントクラン】</color>と呼ぶの。",
+            "zh": "对方若是库兰，这边也用库兰对抗。你能驱使友方库兰，于是借它们的力量战斗。被你驱使的库兰，\n就叫做<color=red>【从属库兰】</color>。",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial0/Panel/Message"
+        },
+        {
+            "location": "8/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial0/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial0/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "9/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial0/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial0/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "10/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial1A/Panel/Message",
+            "text": "敵は待ってくれないから手短に。\n矢印が指しているキャラは装備しているサーバントクランで、簡単に言ってしまえば武器のようなもの。\nまずはこの5体を好きな順番でタップしてみて。",
+            "zh": "敌人不会等你，所以长话短说。\n箭头指着的角色装备着从属库兰，简单说就是类似武器的东西。\n先按你喜欢的顺序，把这5只点一点。",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial1A/Panel/Message"
+        },
+        {
+            "location": "11/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial1A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial1A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "12/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial1A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial1A/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "13/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial1B/Panel/Message",
+            "text": "ここに<color=red>【攻撃した順番】</color>が記録\nされる。とても重要なので、\n次のターンでは注目してみて。",
+            "zh": "这里会把<color=red>【攻击的顺序】</color>记录\n下来。非常重要，\n下一回合请注意看。",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial1B/Panel/Message"
+        },
+        {
+            "location": "14/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial1B/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial1B/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "15/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial1B/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial1B/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "16/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial2A/Panel/Message",
+            "text": "次は<color=red>【チェイン】</color>を教える。\n他にもパターンはあるけど、今回は\n　　アイコンのクランを<color=red>３体連続で</color>\nタップしつつ、4回攻撃してみて。\n",
+            "zh": "接下来教<color=red>【连携】</color>。\n别的花样也有，这次请\n　　把图标上的库兰<color=red>连续点3只</color>\n一边点，一边打出4次攻击。\n",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2A/Panel/Message"
+        },
+        {
+            "location": "17/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial2A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "18/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial2A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2A/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "19/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial2B_1/Panel/Message",
+            "text": "残念ながら失敗。\nもう一度、矢印のついているクランを３体続けてタップしてみて。\n",
+            "zh": "很遗憾，失败了。\n再来一次，把带箭头的库兰连续点3只。\n",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2B_1/Panel/Message"
+        },
+        {
+            "location": "20/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial2B_1/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2B_1/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "21/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial2B_1/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2B_1/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "22/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial2B_2/Panel/Message",
+            "text": "<color=red>【チェイン】</color>はアイコンの種類や\n並び順によって、様々に効果が\n変わる。\n",
+            "zh": "<color=red>【连携】</color>会随图标的种类和\n排列顺序不同，让效果\n发生各种变化。\n",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2B_2/Panel/Message"
+        },
+        {
+            "location": "23/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial2B_2/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2B_2/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "24/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial2B_2/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2B_2/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "25/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/Message",
+            "text": "例えばこんな感じ。\n\n\n\n\n\n\n\n効果はアイコンによって様々。\n色んな並びを試してみて。\n",
+            "zh": "比如像这样。\n\n\n\n\n\n\n\n效果因图标而异。\n多试几种排法看看。\n",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/Message"
+        },
+        {
+            "location": "26/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "27/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "28/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/backDeco/Text",
+            "text": "３チェイン",
+            "zh": "3连携",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/backDeco/Text"
+        },
+        {
+            "location": "29/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/backDeco/Text (1)",
+            "text": "４チェイン",
+            "zh": "4连携",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/backDeco/Text (1)"
+        },
+        {
+            "location": "30/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/backDeco/Text (2)",
+            "text": "２ペア",
+            "zh": "2对",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/backDeco/Text (2)"
+        },
+        {
+            "location": "31/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/backDeco/Text (3)",
+            "text": "３スタンス",
+            "zh": "3姿态",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial2C/Panel/backDeco/Text (3)"
+        },
+        {
+            "location": "32/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial3A/Panel/Message",
+            "text": "じゃあおさらい。\n自由にクランを選択していいから\n<color=red>【チェイン】</color>を作ってみて。",
+            "zh": "那么，复习一下。\n库兰可以自由选，\n试着做出<color=red>【连携】</color>。",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial3A/Panel/Message"
+        },
+        {
+            "location": "33/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial3A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial3A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "34/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial3A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial3A/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "35/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial4A/Panel/Message",
+            "text": "<color=blue>【ココロエナジー】</color>がたまって\n<color=red>【クランスキル】</color>が使えるように\nなった。早速使ってみる。\n",
+            "zh": "<color=blue>【心之能量】</color>积攒起来后，\n<color=red>【库兰技能】</color>就能\n使用了。马上试一试。\n",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4A/Panel/Message"
+        },
+        {
+            "location": "36/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial4A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "37/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial4A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4A/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "38/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial4B/Panel/Message",
+            "text": "スキルは<color=red>【アイコンをタップ】</color>で\n選択、<color=blue>【スキルを使うボタン】</color>で\n決定する。やってみて。\n",
+            "zh": "技能靠<color=red>【点图标】</color>来\n选择，靠<color=blue>【使用技能按钮】</color>来\n确定。试试看。\n",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4B/Panel/Message"
+        },
+        {
+            "location": "39/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial4B/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4B/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "40/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial4B/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4B/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "41/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial4C/Panel/Message",
+            "text": "スキルを使用すると\n<color=blue>【ココロエナジー】</color>を消費する。\n強力だけど、使いすぎに注意して。\n",
+            "zh": "使用技能会\n消耗<color=blue>【心之能量】</color>。\n虽然强，但注意别用过头。\n",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4C/Panel/Message"
+        },
+        {
+            "location": "42/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial4C/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4C/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "43/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial4C/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4C/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "44/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial4D/Panel/Message",
+            "text": "スキルを選んだら今までと\n同じようにクランを選んで攻撃。\n<color=red>スキルを使いたくない時は、\n最初からクランを押せばいい。</color>",
+            "zh": "选好技能之后，就和之前\n一样选择库兰进行攻击。\n<color=red>不想用技能的时候，\n从一开始直接点库兰就行。</color>",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4D/Panel/Message"
+        },
+        {
+            "location": "45/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial4D/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4D/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "46/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial4D/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4D/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "47/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial4E/Panel/Message",
+            "text": "<size=33><b><color=green>これでひとまず説明は終了。</color></b></size>\nさぁ、一気に勝負を決めましょう。\nチェインを忘れずにね。",
+            "zh": "<size=33><b><color=green>说明先到这里。</color></b></size>\n来，一口气分出胜负吧。\n别忘了连携。",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4E/Panel/Message"
+        },
+        {
+            "location": "48/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial4E/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4E/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "49/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial4E/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial4E/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "50/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial6A/Panel/Message",
+            "text": "クランと敵は<color=red>【喜怒哀楽の属性】</color>を\n持っている。\n\n",
+            "zh": "库兰和敌人都带有\n<color=red>【喜怒哀乐的属性】</color>。\n\n",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial6A/Panel/Message"
+        },
+        {
+            "location": "51/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial6A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial6A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "52/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial6A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial6A/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "53/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial6B/Panel/Message",
+            "text": "これが属性の優劣関係。\n\n一番上の　　　が敵の今の属性。\n\nこれに一番効くのは　　　。\nつまりそういうこと。\n",
+            "zh": "这就是属性的克制关系。\n\n最上面的　　　是敌人现在的属性。\n\n对它最有效的是　　　。\n就是这么回事。\n",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial6B/Panel/Message"
+        },
+        {
+            "location": "54/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial6B/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial6B/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "55/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial6B/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial6B/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "56/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial7A/Panel/Message",
+            "text": "ココロエナジーが1目盛り以上\n貯まっていると、\n<color=red>【フルボッコアタック】</color>が使える。\n\nココロエナジーを全部使うけど、\n大ダメージを与えることが可能。\n貯めたエナジーをスキルに使うか\nフルボッコアタックに使うかは\nあなた次第。",
+            "zh": "心之能量只要积满1格\n以上，\n就能使用<color=red>【痛扁攻击】</color>。\n\n心之能量会全部消耗，\n但可以造成大伤害。\n攒下的能量是用在技能上，\n还是用在痛扁攻击上，\n由你决定。",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial7A/Panel/Message"
+        },
+        {
+            "location": "57/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial7A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial7A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "58/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial7A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial7A/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "59/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial9A/Panel/Message",
+            "text": "トライナリーが<b>ココロスフィアで\n着ているコスチューム</b>に応じて、\n<color=red>【アシスト効果】</color>が発生する。\n\n効果は自動で発揮される仕組み。\n色んなコスチュームを試してみて。",
+            "zh": "三重奏会根据<b>在心灵领域\n所穿的服装</b>，\n产生<color=red>【辅助效果】</color>。\n\n效果会自动发挥。\n各种服装都试一试吧。",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial9A/Panel/Message"
+        },
+        {
+            "location": "60/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial9A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial9A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "61/UI",
+            "narrator": "TutorialCanvas/TutorialRoot/Tutorial9A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas/TutorialRoot/Tutorial9A/Panel/PicArea/RightButton/TextOK"
+        }
+    ]
 }

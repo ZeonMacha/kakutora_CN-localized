@@ -1,33 +1,35 @@
 {
- "dir": "9b3106e7237ff5e4cb99ecf47c48896e",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "1/UI",
-   "narrator": "ArmGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/ContentButton/Text",
-   "text": "内容\n確認"
-  },
-  {
-   "location": "2/UI",
-   "narrator": "ArmGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/Gacha1Button/PlayNumText",
-   "text": "1回引く",
-   "zh": "抽1次",
-   "narrator_zh": "ArmGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/Gacha1Button/PlayNumText"
-  },
-  {
-   "location": "3/UI",
-   "narrator": "ArmGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/Gacha2Button/PlayNumText",
-   "text": "10回引く",
-   "zh": "抽10次",
-   "narrator_zh": "ArmGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/Gacha2Button/PlayNumText"
-  },
-  {
-   "location": "4/UI",
-   "narrator": "ArmGachaWindow/Panel/TopBarImage/GachaNameImage/GachaNameText",
-   "text": "クラン武器ガチャ",
-   "zh": "库兰武器扭蛋",
-   "narrator_zh": "ArmGachaWindow/Panel/TopBarImage/GachaNameImage/GachaNameText"
-  }
- ]
+    "dir": "9b3106e7237ff5e4cb99ecf47c48896e",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "1/UI",
+            "narrator": "ArmGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/ContentButton/Text",
+            "text": "内容\n確認",
+            "zh": "确认\n内容",
+            "narrator_zh": "ArmGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/ContentButton/Text"
+        },
+        {
+            "location": "2/UI",
+            "narrator": "ArmGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/Gacha1Button/PlayNumText",
+            "text": "1回引く",
+            "zh": "抽1次",
+            "narrator_zh": "ArmGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/Gacha1Button/PlayNumText"
+        },
+        {
+            "location": "3/UI",
+            "narrator": "ArmGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/Gacha2Button/PlayNumText",
+            "text": "10回引く",
+            "zh": "抽10次",
+            "narrator_zh": "ArmGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/Gacha2Button/PlayNumText"
+        },
+        {
+            "location": "4/UI",
+            "narrator": "ArmGachaWindow/Panel/TopBarImage/GachaNameImage/GachaNameText",
+            "text": "クラン武器ガチャ",
+            "zh": "库兰武器扭蛋",
+            "narrator_zh": "ArmGachaWindow/Panel/TopBarImage/GachaNameImage/GachaNameText"
+        }
+    ]
 }

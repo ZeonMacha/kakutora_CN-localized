@@ -1,33 +1,35 @@
 {
- "dir": "4f8672e0c0f5b75439bd401fb0c5dfe4",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "27/UI",
-   "narrator": "EpisodeGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/ContentButton/Text",
-   "text": "内容\n確認"
-  },
-  {
-   "location": "28/UI",
-   "narrator": "EpisodeGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/Gacha1Button/PlayNumText",
-   "text": "1回引く",
-   "zh": "抽1次",
-   "narrator_zh": "EpisodeGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/Gacha1Button/PlayNumText"
-  },
-  {
-   "location": "29/UI",
-   "narrator": "EpisodeGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/Gacha2Button/PlayNumText",
-   "text": "10回引く",
-   "zh": "抽10次",
-   "narrator_zh": "EpisodeGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/Gacha2Button/PlayNumText"
-  },
-  {
-   "location": "30/UI",
-   "narrator": "EpisodeGachaWindow/Panel/TopBarImage/GachaNameImage/GachaNameText",
-   "text": "エピソードガチャ",
-   "zh": "篇章扭蛋",
-   "narrator_zh": "EpisodeGachaWindow/Panel/TopBarImage/GachaNameImage/GachaNameText"
-  }
- ]
+    "dir": "4f8672e0c0f5b75439bd401fb0c5dfe4",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "27/UI",
+            "narrator": "EpisodeGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/ContentButton/Text",
+            "text": "内容\n確認",
+            "zh": "确认\n内容",
+            "narrator_zh": "EpisodeGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/ContentButton/Text"
+        },
+        {
+            "location": "28/UI",
+            "narrator": "EpisodeGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/Gacha1Button/PlayNumText",
+            "text": "1回引く",
+            "zh": "抽1次",
+            "narrator_zh": "EpisodeGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/Gacha1Button/PlayNumText"
+        },
+        {
+            "location": "29/UI",
+            "narrator": "EpisodeGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/Gacha2Button/PlayNumText",
+            "text": "10回引く",
+            "zh": "抽10次",
+            "narrator_zh": "EpisodeGachaWindow/Panel/ScrollView/Content/GachaItem/Content/GachaImage/Gacha2Button/PlayNumText"
+        },
+        {
+            "location": "30/UI",
+            "narrator": "EpisodeGachaWindow/Panel/TopBarImage/GachaNameImage/GachaNameText",
+            "text": "エピソードガチャ",
+            "zh": "篇章扭蛋",
+            "narrator_zh": "EpisodeGachaWindow/Panel/TopBarImage/GachaNameImage/GachaNameText"
+        }
+    ]
 }

@@ -1,45 +1,49 @@
 {
- "dir": "level2",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "62/UI",
-   "narrator": "TutorialCanvas2/Tutorial10A/Panel/Message",
-   "text": "今GETした<color=red>【ゴキゲンポイント】</color>は\n彼女たちとの関係アップに不可欠。\n詳しくはバトル終了後に説明する。",
-   "zh": "刚获得的<color=red>【心情点数】</color>\n对提升和她们的关系必不可少。\n详情等战斗结束后说明。",
-   "narrator_zh": "TutorialCanvas2/Tutorial10A/Panel/Message"
-  },
-  {
-   "location": "63/UI",
-   "narrator": "TutorialCanvas2/Tutorial10A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas2/Tutorial10A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "64/UI",
-   "narrator": "TutorialCanvas2/Tutorial10A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "65/UI",
-   "narrator": "TutorialCanvas2/Tutorial8A/Panel/Message",
-   "text": "バトルに勝利するともらえる報酬\nは、この画面で全部確認できる。\n\n勝利するだけではゲットできない\n<color=red>【成果報酬】</color>とかもあるから、\n頑張ってコンプリートを目指して\n欲しい。",
-   "zh": "打赢战斗能拿到的奖励\n都可以在这个画面确认。\n\n也有光靠胜利拿不到的，\n<color=red>【成果奖励】</color>就是其中之一，\n希望你努力\n把它们集齐。",
-   "narrator_zh": "TutorialCanvas2/Tutorial8A/Panel/Message"
-  },
-  {
-   "location": "66/UI",
-   "narrator": "TutorialCanvas2/Tutorial8A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "TutorialCanvas2/Tutorial8A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "67/UI",
-   "narrator": "TutorialCanvas2/Tutorial8A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  }
- ]
+    "dir": "level2",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "62/UI",
+            "narrator": "TutorialCanvas2/Tutorial10A/Panel/Message",
+            "text": "今GETした<color=red>【ゴキゲンポイント】</color>は\n彼女たちとの関係アップに不可欠。\n詳しくはバトル終了後に説明する。",
+            "zh": "刚获得的<color=red>【心情点数】</color>\n对提升和她们的关系必不可少。\n详情等战斗结束后说明。",
+            "narrator_zh": "TutorialCanvas2/Tutorial10A/Panel/Message"
+        },
+        {
+            "location": "63/UI",
+            "narrator": "TutorialCanvas2/Tutorial10A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas2/Tutorial10A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "64/UI",
+            "narrator": "TutorialCanvas2/Tutorial10A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas2/Tutorial10A/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "65/UI",
+            "narrator": "TutorialCanvas2/Tutorial8A/Panel/Message",
+            "text": "バトルに勝利するともらえる報酬\nは、この画面で全部確認できる。\n\n勝利するだけではゲットできない\n<color=red>【成果報酬】</color>とかもあるから、\n頑張ってコンプリートを目指して\n欲しい。",
+            "zh": "打赢战斗能拿到的奖励\n都可以在这个画面确认。\n\n也有光靠胜利拿不到的，\n<color=red>【成果奖励】</color>就是其中之一，\n希望你努力\n把它们集齐。",
+            "narrator_zh": "TutorialCanvas2/Tutorial8A/Panel/Message"
+        },
+        {
+            "location": "66/UI",
+            "narrator": "TutorialCanvas2/Tutorial8A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "TutorialCanvas2/Tutorial8A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "67/UI",
+            "narrator": "TutorialCanvas2/Tutorial8A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "TutorialCanvas2/Tutorial8A/Panel/PicArea/RightButton/TextOK"
+        }
+    ]
 }

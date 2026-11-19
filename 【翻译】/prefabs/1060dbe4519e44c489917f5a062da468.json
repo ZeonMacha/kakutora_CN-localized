@@ -1,238 +1,280 @@
 {
- "dir": "1060dbe4519e44c489917f5a062da468",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "124/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Buttons/OKButton/Text",
-   "text": "OK"
-  },
-  {
-   "location": "125/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/ChapterText",
-   "text": "Chapter.22\n【恋ヶ崎みやびと死の剣。】",
-   "zh": "Chapter.22\n【恋之崎雅与死之剑。】",
-   "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/ChapterText"
-  },
-  {
-   "location": "126/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH00/Text",
-   "text": "アニメだけ見る",
-   "zh": "只看动画",
-   "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH00/Text"
-  },
-  {
-   "location": "127/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH00/Text/Text",
-   "text": "W I T H O U T   G I R L S"
-  },
-  {
-   "location": "128/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH01/Text",
-   "text": "彼女たちと見る",
-   "zh": "和她们一起看",
-   "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH01/Text"
-  },
-  {
-   "location": "129/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH01/Text/Text",
-   "text": "W I T H   G I R L S"
-  },
-  {
-   "location": "130/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH01_/Text",
-   "text": "逢瀬 つばめ",
-   "zh": "逢濑 燕",
-   "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH01_/Text"
-  },
-  {
-   "location": "131/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH01_/Text/Text",
-   "text": "T S U B A M E   O H S E"
-  },
-  {
-   "location": "132/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH02/Text",
-   "text": "國政 綾水"
-  },
-  {
-   "location": "133/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH02/Text/Text",
-   "text": "A Y A M I   K  U N I M A S A"
-  },
-  {
-   "location": "134/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH03/Text",
-   "text": "ガブリエラ",
-   "zh": "加布里埃拉",
-   "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH03/Text"
-  },
-  {
-   "location": "135/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH03/Text/Text",
-   "text": "G A B I I E L L A"
-  },
-  {
-   "location": "136/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH04/Text",
-   "text": "恋ヶ崎 みやび",
-   "zh": "恋之崎 雅",
-   "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH04/Text"
-  },
-  {
-   "location": "137/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH04/Text/Text",
-   "text": "M I Y A B I   K O I G A S A K I"
-  },
-  {
-   "location": "138/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH05/Text",
-   "text": "卯月 神楽"
-  },
-  {
-   "location": "139/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH05/Text/Text",
-   "text": "K A G U R A   U Z U K I"
-  },
-  {
-   "location": "140/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Notice",
-   "text": "彼女たちと一緒にアニメを見るには、アプリ本編の「ゴキゲンショップ交換所」で「一緒にアニメを見る」チケットを入手する必要があります。",
-   "zh": "想和她们一起看动画，需要在应用本篇的“心情商店兑换所”获得“一起看动画”券。",
-   "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Notice"
-  },
-  {
-   "location": "141/UI",
-   "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Panel_BORDER_1/Text",
-   "text": "アニメの見方を選択してください",
-   "zh": "请选择观看动画的方式",
-   "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Panel_BORDER_1/Text"
-  },
-  {
-   "location": "142/UI",
-   "narrator": "ChapterSelectWindow/Panel/BackButton/Text",
-   "text": "タイトルへ戻る",
-   "zh": "返回标题",
-   "narrator_zh": "ChapterSelectWindow/Panel/BackButton/Text"
-  },
-  {
-   "location": "143/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeCompleteImage/FIXobject/ChapCircle/Textchap",
-   "text": "CHAPTER"
-  },
-  {
-   "location": "144/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeCompleteImage/Text_Caption",
-   "text": "逢瀬つばめは大好きなアーティストFreyMENOWのライブを見に行くために、はるばる東京へと向かう。\nそこで待ち受けていたものは…？",
-   "zh": "逢濑燕为了去看最喜欢的艺人FreyMENOW的演出，千里迢迢赶往东京。\n在那里等着她的，是……？",
-   "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeCompleteImage/Text_Caption"
-  },
-  {
-   "location": "145/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeCompleteImage/Text_Title",
-   "text": "逢瀬つばめ、東京へ行く。",
-   "zh": "逢濑燕，前往东京。",
-   "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeCompleteImage/Text_Title"
-  },
-  {
-   "location": "146/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeCompleteImage/Text_mvTitle",
-   "text": "Episode.01 [ACT.1]"
-  },
-  {
-   "location": "147/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeNormalImage/FIXobject/ChapCircle/Textchap",
-   "text": "CHAPTER"
-  },
-  {
-   "location": "148/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeNormalImage/Text_Caption",
-   "text": "逢瀬つばめは大好きなアーティストFreyMENOWのライブを見に行くために、はるばる東京へと向かう。\nそこで待ち受けていたものは…？",
-   "zh": "逢濑燕为了去看最喜欢的艺人FreyMENOW的演出，千里迢迢赶往东京。\n在那里等着她的，是……？",
-   "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeNormalImage/Text_Caption"
-  },
-  {
-   "location": "149/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeNormalImage/Text_Title",
-   "text": "逢瀬つばめ、東京へ行く。",
-   "zh": "逢濑燕，前往东京。",
-   "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeNormalImage/Text_Title"
-  },
-  {
-   "location": "150/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeNormalImage/Text_mvTitle",
-   "text": "Episode.01 [ACT.1]"
-  },
-  {
-   "location": "151/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterCompleteImage/FIXobject/ChapCircle/Textchap",
-   "text": "CHAPTER"
-  },
-  {
-   "location": "152/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterCompleteImage/Text_Title",
-   "text": "逢瀬つばめ、東京へ行く。",
-   "zh": "逢濑燕，前往东京。",
-   "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterCompleteImage/Text_Title"
-  },
-  {
-   "location": "153/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNewImage/FIXobject/ChapCircle/Textchap",
-   "text": "CHAPTER"
-  },
-  {
-   "location": "154/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNewImage/FIXobject/NewStory/Text",
-   "text": "＋ 新しい物語を開始する",
-   "zh": "＋ 开始新的故事",
-   "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNewImage/FIXobject/NewStory/Text"
-  },
-  {
-   "location": "155/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNewImage/Text_Title",
-   "text": "逢瀬つばめ、東京へ行く。",
-   "zh": "逢濑燕，前往东京。",
-   "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNewImage/Text_Title"
-  },
-  {
-   "location": "156/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNormalImage/FIXobject/ChapCircle/Textchap",
-   "text": "CHAPTER"
-  },
-  {
-   "location": "157/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNormalImage/Text_Title",
-   "text": "逢瀬つばめ、東京へ行く。",
-   "zh": "逢濑燕，前往东京。",
-   "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNormalImage/Text_Title"
-  },
-  {
-   "location": "158/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterYetImage/FIXobject/ChapCircle/Textchap",
-   "text": "CHAPTER"
-  },
-  {
-   "location": "159/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterYetImage/FIXobject/NewStory/Text",
-   "text": "未解禁"
-  },
-  {
-   "location": "160/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterYetImage/Text_Title",
-   "text": "逢瀬つばめ、東京へ行く。",
-   "zh": "逢濑燕，前往东京。",
-   "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterYetImage/Text_Title"
-  },
-  {
-   "location": "161/UI",
-   "narrator": "ChapterSelectWindow/Panel/ChapterMenu/Text",
-   "text": "C H A P T E R\nM E N U"
-  },
-  {
-   "location": "162/UI",
-   "narrator": "ChapterSelectWindow/Panel/Chapter_InOut/RedBar/Text",
-   "text": "CHAPTER"
-  }
- ]
+    "dir": "1060dbe4519e44c489917f5a062da468",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "124/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Buttons/OKButton/Text",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Buttons/OKButton/Text"
+        },
+        {
+            "location": "125/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/ChapterText",
+            "text": "Chapter.22\n【恋ヶ崎みやびと死の剣。】",
+            "zh": "Chapter.22\n【恋之崎雅与死之剑。】",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/ChapterText"
+        },
+        {
+            "location": "126/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH00/Text",
+            "text": "アニメだけ見る",
+            "zh": "只看动画",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH00/Text"
+        },
+        {
+            "location": "127/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH00/Text/Text",
+            "text": "W I T H O U T   G I R L S",
+            "zh": "W I T H O U T   G I R L S",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH00/Text/Text"
+        },
+        {
+            "location": "128/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH01/Text",
+            "text": "彼女たちと見る",
+            "zh": "和她们一起看",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH01/Text"
+        },
+        {
+            "location": "129/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH01/Text/Text",
+            "text": "W I T H   G I R L S",
+            "zh": "W I T H   G I R L S",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH01/Text/Text"
+        },
+        {
+            "location": "130/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH01_/Text",
+            "text": "逢瀬 つばめ",
+            "zh": "逢濑 燕",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH01_/Text"
+        },
+        {
+            "location": "131/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH01_/Text/Text",
+            "text": "T S U B A M E   O H S E",
+            "zh": "T S U B A M E   O H S E",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH01_/Text/Text"
+        },
+        {
+            "location": "132/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH02/Text",
+            "text": "國政 綾水",
+            "zh": "国政 绫水",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH02/Text"
+        },
+        {
+            "location": "133/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH02/Text/Text",
+            "text": "A Y A M I   K  U N I M A S A",
+            "zh": "A Y A M I   K  U N I M A S A",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH02/Text/Text"
+        },
+        {
+            "location": "134/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH03/Text",
+            "text": "ガブリエラ",
+            "zh": "加布里埃拉",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH03/Text"
+        },
+        {
+            "location": "135/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH03/Text/Text",
+            "text": "G A B I I E L L A",
+            "zh": "G A B I I E L L A",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH03/Text/Text"
+        },
+        {
+            "location": "136/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH04/Text",
+            "text": "恋ヶ崎 みやび",
+            "zh": "恋之崎 雅",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH04/Text"
+        },
+        {
+            "location": "137/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH04/Text/Text",
+            "text": "M I Y A B I   K O I G A S A K I",
+            "zh": "M I Y A B I   K O I G A S A K I",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH04/Text/Text"
+        },
+        {
+            "location": "138/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH05/Text",
+            "text": "卯月 神楽",
+            "zh": "卯月 神乐",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH05/Text"
+        },
+        {
+            "location": "139/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH05/Text/Text",
+            "text": "K A G U R A   U Z U K I",
+            "zh": "K A G U R A   U Z U K I",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Charas/CH05/Text/Text"
+        },
+        {
+            "location": "140/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Notice",
+            "text": "彼女たちと一緒にアニメを見るには、アプリ本編の「ゴキゲンショップ交換所」で「一緒にアニメを見る」チケットを入手する必要があります。",
+            "zh": "想和她们一起看动画，需要在应用本篇的“心情商店兑换所”获得“一起看动画”券。",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Notice"
+        },
+        {
+            "location": "141/UI",
+            "narrator": "ChapterSelectWindow/CharaSelectWindow/Panel/Panel_BORDER_1/Text",
+            "text": "アニメの見方を選択してください",
+            "zh": "请选择观看动画的方式",
+            "narrator_zh": "ChapterSelectWindow/CharaSelectWindow/Panel/Panel_BORDER_1/Text"
+        },
+        {
+            "location": "142/UI",
+            "narrator": "ChapterSelectWindow/Panel/BackButton/Text",
+            "text": "タイトルへ戻る",
+            "zh": "返回标题",
+            "narrator_zh": "ChapterSelectWindow/Panel/BackButton/Text"
+        },
+        {
+            "location": "143/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeCompleteImage/FIXobject/ChapCircle/Textchap",
+            "text": "CHAPTER",
+            "zh": "CHAPTER",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeCompleteImage/FIXobject/ChapCircle/Textchap"
+        },
+        {
+            "location": "144/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeCompleteImage/Text_Caption",
+            "text": "逢瀬つばめは大好きなアーティストFreyMENOWのライブを見に行くために、はるばる東京へと向かう。\nそこで待ち受けていたものは…？",
+            "zh": "逢濑燕为了去看最喜欢的艺人FreyMENOW的演出，千里迢迢赶往东京。\n在那里等着她的，是……？",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeCompleteImage/Text_Caption"
+        },
+        {
+            "location": "145/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeCompleteImage/Text_Title",
+            "text": "逢瀬つばめ、東京へ行く。",
+            "zh": "逢濑燕，前往东京。",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeCompleteImage/Text_Title"
+        },
+        {
+            "location": "146/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeCompleteImage/Text_mvTitle",
+            "text": "Episode.01 [ACT.1]",
+            "zh": "Episode.01 [ACT.1]",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeCompleteImage/Text_mvTitle"
+        },
+        {
+            "location": "147/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeNormalImage/FIXobject/ChapCircle/Textchap",
+            "text": "CHAPTER",
+            "zh": "CHAPTER",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeNormalImage/FIXobject/ChapCircle/Textchap"
+        },
+        {
+            "location": "148/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeNormalImage/Text_Caption",
+            "text": "逢瀬つばめは大好きなアーティストFreyMENOWのライブを見に行くために、はるばる東京へと向かう。\nそこで待ち受けていたものは…？",
+            "zh": "逢濑燕为了去看最喜欢的艺人FreyMENOW的演出，千里迢迢赶往东京。\n在那里等着她的，是……？",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeNormalImage/Text_Caption"
+        },
+        {
+            "location": "149/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeNormalImage/Text_Title",
+            "text": "逢瀬つばめ、東京へ行く。",
+            "zh": "逢濑燕，前往东京。",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeNormalImage/Text_Title"
+        },
+        {
+            "location": "150/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeNormalImage/Text_mvTitle",
+            "text": "Episode.01 [ACT.1]",
+            "zh": "Episode.01 [ACT.1]",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/AnimeNormalImage/Text_mvTitle"
+        },
+        {
+            "location": "151/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterCompleteImage/FIXobject/ChapCircle/Textchap",
+            "text": "CHAPTER",
+            "zh": "CHAPTER",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterCompleteImage/FIXobject/ChapCircle/Textchap"
+        },
+        {
+            "location": "152/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterCompleteImage/Text_Title",
+            "text": "逢瀬つばめ、東京へ行く。",
+            "zh": "逢濑燕，前往东京。",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterCompleteImage/Text_Title"
+        },
+        {
+            "location": "153/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNewImage/FIXobject/ChapCircle/Textchap",
+            "text": "CHAPTER",
+            "zh": "CHAPTER",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNewImage/FIXobject/ChapCircle/Textchap"
+        },
+        {
+            "location": "154/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNewImage/FIXobject/NewStory/Text",
+            "text": "＋ 新しい物語を開始する",
+            "zh": "＋ 开始新的故事",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNewImage/FIXobject/NewStory/Text"
+        },
+        {
+            "location": "155/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNewImage/Text_Title",
+            "text": "逢瀬つばめ、東京へ行く。",
+            "zh": "逢濑燕，前往东京。",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNewImage/Text_Title"
+        },
+        {
+            "location": "156/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNormalImage/FIXobject/ChapCircle/Textchap",
+            "text": "CHAPTER",
+            "zh": "CHAPTER",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNormalImage/FIXobject/ChapCircle/Textchap"
+        },
+        {
+            "location": "157/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNormalImage/Text_Title",
+            "text": "逢瀬つばめ、東京へ行く。",
+            "zh": "逢濑燕，前往东京。",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterNormalImage/Text_Title"
+        },
+        {
+            "location": "158/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterYetImage/FIXobject/ChapCircle/Textchap",
+            "text": "CHAPTER",
+            "zh": "CHAPTER",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterYetImage/FIXobject/ChapCircle/Textchap"
+        },
+        {
+            "location": "159/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterYetImage/FIXobject/NewStory/Text",
+            "text": "未解禁",
+            "zh": "未解锁",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterYetImage/FIXobject/NewStory/Text"
+        },
+        {
+            "location": "160/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterYetImage/Text_Title",
+            "text": "逢瀬つばめ、東京へ行く。",
+            "zh": "逢濑燕，前往东京。",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterBaseImage/Scroll View/Contents/ChapterButton4/ChapterYetImage/Text_Title"
+        },
+        {
+            "location": "161/UI",
+            "narrator": "ChapterSelectWindow/Panel/ChapterMenu/Text",
+            "text": "C H A P T E R\nM E N U",
+            "zh": "C H A P T E R\nM E N U",
+            "narrator_zh": "ChapterSelectWindow/Panel/ChapterMenu/Text"
+        },
+        {
+            "location": "162/UI",
+            "narrator": "ChapterSelectWindow/Panel/Chapter_InOut/RedBar/Text",
+            "text": "CHAPTER",
+            "zh": "CHAPTER",
+            "narrator_zh": "ChapterSelectWindow/Panel/Chapter_InOut/RedBar/Text"
+        }
+    ]
 }

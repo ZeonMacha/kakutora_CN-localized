@@ -1,80 +1,98 @@
 {
- "dir": "03829d7c0c996e648817688baf98446e",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "549/UI",
-   "narrator": "RewardContentEVP/Evp/pts",
-   "text": "pts."
-  },
-  {
-   "location": "550/UI",
-   "narrator": "RewardContentEVP/EvpComp/pts",
-   "text": "pts."
-  },
-  {
-   "location": "551/UI",
-   "narrator": "RewardContentEVP/Expire/Date",
-   "text": "9999年99月99日"
-  },
-  {
-   "location": "552/UI",
-   "narrator": "RewardContentEVP/Expire/Text",
-   "text": "受取期限："
-  },
-  {
-   "location": "553/UI",
-   "narrator": "RewardContentEVP/ItemSetting/EqChara",
-   "text": "みやび",
-   "zh": "雅",
-   "narrator_zh": "RewardContentEVP/ItemSetting/EqChara"
-  },
-  {
-   "location": "554/UI",
-   "narrator": "RewardContentEVP/ItemSetting/EqCharaInfo",
-   "text": "対象者："
-  },
-  {
-   "location": "555/UI",
-   "narrator": "RewardContentEVP/ItemSetting/EqCharaInfoCos",
-   "text": "着用者："
-  },
-  {
-   "location": "556/UI",
-   "narrator": "RewardContentEVP/ItemSetting/ItemCap",
-   "text": "【進化素材】"
-  },
-  {
-   "location": "557/UI",
-   "narrator": "RewardContentEVP/ItemSetting/ItemCapGreen",
-   "text": "【ヒメゴト】",
-   "zh": "【秘语】",
-   "narrator_zh": "RewardContentEVP/ItemSetting/ItemCapGreen"
-  },
-  {
-   "location": "558/UI",
-   "narrator": "RewardContentEVP/ItemSetting/ItemNameText",
-   "text": "飽きた",
-   "zh": "腻了",
-   "narrator_zh": "RewardContentEVP/ItemSetting/ItemNameText"
-  },
-  {
-   "location": "559/UI",
-   "narrator": "RewardContentEVP/ItemTani",
-   "text": "個"
-  },
-  {
-   "location": "560/UI",
-   "narrator": "RewardContentEVP/Present/PresentName",
-   "text": "商品名"
-  },
-  {
-   "location": "561/UI",
-   "narrator": "RewardContentEVP/Present/PresentTitle",
-   "text": "プレゼントタイトル",
-   "zh": "礼物标题",
-   "narrator_zh": "RewardContentEVP/Present/PresentTitle"
-  }
- ]
+    "dir": "03829d7c0c996e648817688baf98446e",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "549/UI",
+            "narrator": "RewardContentEVP/Evp/pts",
+            "text": "pts.",
+            "zh": "pts.",
+            "narrator_zh": "RewardContentEVP/Evp/pts"
+        },
+        {
+            "location": "550/UI",
+            "narrator": "RewardContentEVP/EvpComp/pts",
+            "text": "pts.",
+            "zh": "pts.",
+            "narrator_zh": "RewardContentEVP/EvpComp/pts"
+        },
+        {
+            "location": "551/UI",
+            "narrator": "RewardContentEVP/Expire/Date",
+            "text": "9999年99月99日",
+            "zh": "9999年99月99日",
+            "narrator_zh": "RewardContentEVP/Expire/Date"
+        },
+        {
+            "location": "552/UI",
+            "narrator": "RewardContentEVP/Expire/Text",
+            "text": "受取期限：",
+            "zh": "领取期限：",
+            "narrator_zh": "RewardContentEVP/Expire/Text"
+        },
+        {
+            "location": "553/UI",
+            "narrator": "RewardContentEVP/ItemSetting/EqChara",
+            "text": "みやび",
+            "zh": "雅",
+            "narrator_zh": "RewardContentEVP/ItemSetting/EqChara"
+        },
+        {
+            "location": "554/UI",
+            "narrator": "RewardContentEVP/ItemSetting/EqCharaInfo",
+            "text": "対象者：",
+            "zh": "对象：",
+            "narrator_zh": "RewardContentEVP/ItemSetting/EqCharaInfo"
+        },
+        {
+            "location": "555/UI",
+            "narrator": "RewardContentEVP/ItemSetting/EqCharaInfoCos",
+            "text": "着用者：",
+            "zh": "穿戴者：",
+            "narrator_zh": "RewardContentEVP/ItemSetting/EqCharaInfoCos"
+        },
+        {
+            "location": "556/UI",
+            "narrator": "RewardContentEVP/ItemSetting/ItemCap",
+            "text": "【進化素材】",
+            "zh": "【进化素材】",
+            "narrator_zh": "RewardContentEVP/ItemSetting/ItemCap"
+        },
+        {
+            "location": "557/UI",
+            "narrator": "RewardContentEVP/ItemSetting/ItemCapGreen",
+            "text": "【ヒメゴト】",
+            "zh": "【秘语】",
+            "narrator_zh": "RewardContentEVP/ItemSetting/ItemCapGreen"
+        },
+        {
+            "location": "558/UI",
+            "narrator": "RewardContentEVP/ItemSetting/ItemNameText",
+            "text": "飽きた",
+            "zh": "腻了",
+            "narrator_zh": "RewardContentEVP/ItemSetting/ItemNameText"
+        },
+        {
+            "location": "559/UI",
+            "narrator": "RewardContentEVP/ItemTani",
+            "text": "個",
+            "zh": "个",
+            "narrator_zh": "RewardContentEVP/ItemTani"
+        },
+        {
+            "location": "560/UI",
+            "narrator": "RewardContentEVP/Present/PresentName",
+            "text": "商品名",
+            "zh": "商品名",
+            "narrator_zh": "RewardContentEVP/Present/PresentName"
+        },
+        {
+            "location": "561/UI",
+            "narrator": "RewardContentEVP/Present/PresentTitle",
+            "text": "プレゼントタイトル",
+            "zh": "礼物标题",
+            "narrator_zh": "RewardContentEVP/Present/PresentTitle"
+        }
+    ]
 }

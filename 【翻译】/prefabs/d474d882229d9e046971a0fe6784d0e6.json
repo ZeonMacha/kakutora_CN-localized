@@ -1,19 +1,21 @@
 {
- "dir": "d474d882229d9e046971a0fe6784d0e6",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "4/UI",
-   "narrator": "WebViewCanvas/Panel/WebView",
-   "text": "http://210.140.155.94/gacha/gacha_detail_1.html"
-  },
-  {
-   "location": "5/UI",
-   "narrator": "WebViewCanvas/Panel/WebView/ToolBar/Close/Text",
-   "text": "閉じる",
-   "zh": "关闭",
-   "narrator_zh": "WebViewCanvas/Panel/WebView/ToolBar/Close/Text"
-  }
- ]
+    "dir": "d474d882229d9e046971a0fe6784d0e6",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "4/UI",
+            "narrator": "WebViewCanvas/Panel/WebView",
+            "text": "http://210.140.155.94/gacha/gacha_detail_1.html",
+            "zh": "http://210.140.155.94/gacha/gacha_detail_1.html",
+            "narrator_zh": "WebViewCanvas/Panel/WebView"
+        },
+        {
+            "location": "5/UI",
+            "narrator": "WebViewCanvas/Panel/WebView/ToolBar/Close/Text",
+            "text": "閉じる",
+            "zh": "关闭",
+            "narrator_zh": "WebViewCanvas/Panel/WebView/ToolBar/Close/Text"
+        }
+    ]
 }

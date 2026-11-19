@@ -1,119 +1,133 @@
 {
- "dir": "8ef2b319f155e0548bd8e46118cef332",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "9/UI",
-   "narrator": "ClanGachaWindow/Background/Loading/Loading/Text",
-   "text": "N O W   L O A D I N G . . ."
-  },
-  {
-   "location": "10/UI",
-   "narrator": "ClanGachaWindow/Background/Loading/Tips/Text",
-   "text": "G A C H A   L I S T"
-  },
-  {
-   "location": "11/UI",
-   "narrator": "ClanGachaWindow/Panel/GachaList/Buy/BuyJewel/MainText",
-   "text": "ジュエルを購入する",
-   "zh": "购买珠宝",
-   "narrator_zh": "ClanGachaWindow/Panel/GachaList/Buy/BuyJewel/MainText"
-  },
-  {
-   "location": "12/UI",
-   "narrator": "ClanGachaWindow/Panel/GachaList/Buy/BuyJewel/SubText",
-   "text": "G  E  T    J  E  W  E  L"
-  },
-  {
-   "location": "13/UI",
-   "narrator": "ClanGachaWindow/Panel/GachaList/Buy/Shikinkessai/Text",
-   "text": "資金決済法第13条に基づく表示",
-   "zh": "依据资金结算法第13条的标示",
-   "narrator_zh": "ClanGachaWindow/Panel/GachaList/Buy/Shikinkessai/Text"
-  },
-  {
-   "location": "14/UI",
-   "narrator": "ClanGachaWindow/Panel/GachaList/Buy/Shyoutorihiki/Text",
-   "text": "特定商取引法に基づく表示",
-   "zh": "基于《特定商业交易法》的标注",
-   "narrator_zh": "ClanGachaWindow/Panel/GachaList/Buy/Shyoutorihiki/Text"
-  },
-  {
-   "location": "15/UI",
-   "narrator": "ClanGachaWindow/Panel/GachaList/Clan/Panel/BackButton/Text",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "ClanGachaWindow/Panel/GachaList/Clan/Panel/BackButton/Text"
-  },
-  {
-   "location": "16/UI",
-   "narrator": "ClanGachaWindow/Panel/GachaList/Clan/Panel/ClanGachaButton/Image/Text",
-   "text": "サーバントクランガチャ",
-   "zh": "从属库兰扭蛋",
-   "narrator_zh": "ClanGachaWindow/Panel/GachaList/Clan/Panel/ClanGachaButton/Image/Text"
-  },
-  {
-   "location": "17/UI",
-   "narrator": "ClanGachaWindow/Panel/GachaList/Clan/Panel/PointGachaButton/Text",
-   "text": "クランポイントガチャ",
-   "zh": "库兰点数扭蛋",
-   "narrator_zh": "ClanGachaWindow/Panel/GachaList/Clan/Panel/PointGachaButton/Text"
-  },
-  {
-   "location": "18/UI",
-   "narrator": "ClanGachaWindow/Panel/GachaList/Clan/Panel/TitleMain",
-   "text": "サーバントクランガチャ",
-   "zh": "从属库兰扭蛋",
-   "narrator_zh": "ClanGachaWindow/Panel/GachaList/Clan/Panel/TitleMain"
-  },
-  {
-   "location": "19/UI",
-   "narrator": "ClanGachaWindow/Panel/GachaList/Clan/Panel/TitleSub/Text",
-   "text": "S E R V A N T   C U R A N   G A C H A"
-  },
-  {
-   "location": "20/UI",
-   "narrator": "ClanGachaWindow/Panel/Loading/Tips/Text",
-   "text": "GACHA DATA LOADING."
-  },
-  {
-   "location": "21/UI",
-   "narrator": "ClanGachaWindow/Panel/Processing/Text",
-   "text": "処理中"
-  },
-  {
-   "location": "22/UI",
-   "narrator": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1A/Panel/Message",
-   "text": "ここではジュエルを消費して\n新しい<color=red>【クラン】</color>を\n手に入れることが\nできる。",
-   "zh": "在这里可以消耗珠宝\n获得新的\n<color=red>【库兰】</color>\n。",
-   "narrator_zh": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1A/Panel/Message"
-  },
-  {
-   "location": "23/UI",
-   "narrator": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "24/UI",
-   "narrator": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "25/UI",
-   "narrator": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1B/Panel/Message",
-   "text": "今回は私が費用を負担するから\n10連ガチャを引いてみて。",
-   "zh": "这次费用我来出，\n你试试十连扭蛋。",
-   "narrator_zh": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1B/Panel/Message"
-  },
-  {
-   "location": "26/UI",
-   "narrator": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1C/Panel/Message",
-   "text": "クランをゲットしたら、次は\n<color=red>【編成】</color>で戦闘に参加させる。\n\n<color=green>【CURAN】</color>ボタンを押して。",
-   "zh": "拿到库兰后，接下来要在\n<color=red>【编成】</color>里让它参加战斗。\n\n按<color=green>【CURAN】</color>按钮。",
-   "narrator_zh": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1C/Panel/Message"
-  }
- ]
+    "dir": "8ef2b319f155e0548bd8e46118cef332",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "9/UI",
+            "narrator": "ClanGachaWindow/Background/Loading/Loading/Text",
+            "text": "N O W   L O A D I N G . . .",
+            "zh": "N O W   L O A D I N G . . .",
+            "narrator_zh": "ClanGachaWindow/Background/Loading/Loading/Text"
+        },
+        {
+            "location": "10/UI",
+            "narrator": "ClanGachaWindow/Background/Loading/Tips/Text",
+            "text": "G A C H A   L I S T",
+            "zh": "G A C H A   L I S T",
+            "narrator_zh": "ClanGachaWindow/Background/Loading/Tips/Text"
+        },
+        {
+            "location": "11/UI",
+            "narrator": "ClanGachaWindow/Panel/GachaList/Buy/BuyJewel/MainText",
+            "text": "ジュエルを購入する",
+            "zh": "购买珠宝",
+            "narrator_zh": "ClanGachaWindow/Panel/GachaList/Buy/BuyJewel/MainText"
+        },
+        {
+            "location": "12/UI",
+            "narrator": "ClanGachaWindow/Panel/GachaList/Buy/BuyJewel/SubText",
+            "text": "G  E  T    J  E  W  E  L",
+            "zh": "G  E  T    J  E  W  E  L",
+            "narrator_zh": "ClanGachaWindow/Panel/GachaList/Buy/BuyJewel/SubText"
+        },
+        {
+            "location": "13/UI",
+            "narrator": "ClanGachaWindow/Panel/GachaList/Buy/Shikinkessai/Text",
+            "text": "資金決済法第13条に基づく表示",
+            "zh": "依据资金结算法第13条的标示",
+            "narrator_zh": "ClanGachaWindow/Panel/GachaList/Buy/Shikinkessai/Text"
+        },
+        {
+            "location": "14/UI",
+            "narrator": "ClanGachaWindow/Panel/GachaList/Buy/Shyoutorihiki/Text",
+            "text": "特定商取引法に基づく表示",
+            "zh": "基于《特定商业交易法》的标注",
+            "narrator_zh": "ClanGachaWindow/Panel/GachaList/Buy/Shyoutorihiki/Text"
+        },
+        {
+            "location": "15/UI",
+            "narrator": "ClanGachaWindow/Panel/GachaList/Clan/Panel/BackButton/Text",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "ClanGachaWindow/Panel/GachaList/Clan/Panel/BackButton/Text"
+        },
+        {
+            "location": "16/UI",
+            "narrator": "ClanGachaWindow/Panel/GachaList/Clan/Panel/ClanGachaButton/Image/Text",
+            "text": "サーバントクランガチャ",
+            "zh": "从属库兰扭蛋",
+            "narrator_zh": "ClanGachaWindow/Panel/GachaList/Clan/Panel/ClanGachaButton/Image/Text"
+        },
+        {
+            "location": "17/UI",
+            "narrator": "ClanGachaWindow/Panel/GachaList/Clan/Panel/PointGachaButton/Text",
+            "text": "クランポイントガチャ",
+            "zh": "库兰点数扭蛋",
+            "narrator_zh": "ClanGachaWindow/Panel/GachaList/Clan/Panel/PointGachaButton/Text"
+        },
+        {
+            "location": "18/UI",
+            "narrator": "ClanGachaWindow/Panel/GachaList/Clan/Panel/TitleMain",
+            "text": "サーバントクランガチャ",
+            "zh": "从属库兰扭蛋",
+            "narrator_zh": "ClanGachaWindow/Panel/GachaList/Clan/Panel/TitleMain"
+        },
+        {
+            "location": "19/UI",
+            "narrator": "ClanGachaWindow/Panel/GachaList/Clan/Panel/TitleSub/Text",
+            "text": "S E R V A N T   C U R A N   G A C H A",
+            "zh": "S E R V A N T   C U R A N   G A C H A",
+            "narrator_zh": "ClanGachaWindow/Panel/GachaList/Clan/Panel/TitleSub/Text"
+        },
+        {
+            "location": "20/UI",
+            "narrator": "ClanGachaWindow/Panel/Loading/Tips/Text",
+            "text": "GACHA DATA LOADING.",
+            "zh": "GACHA DATA LOADING.",
+            "narrator_zh": "ClanGachaWindow/Panel/Loading/Tips/Text"
+        },
+        {
+            "location": "21/UI",
+            "narrator": "ClanGachaWindow/Panel/Processing/Text",
+            "text": "処理中",
+            "zh": "处理中",
+            "narrator_zh": "ClanGachaWindow/Panel/Processing/Text"
+        },
+        {
+            "location": "22/UI",
+            "narrator": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1A/Panel/Message",
+            "text": "ここではジュエルを消費して\n新しい<color=red>【クラン】</color>を\n手に入れることが\nできる。",
+            "zh": "在这里可以消耗珠宝\n获得新的\n<color=red>【库兰】</color>\n。",
+            "narrator_zh": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1A/Panel/Message"
+        },
+        {
+            "location": "23/UI",
+            "narrator": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "24/UI",
+            "narrator": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1A/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "25/UI",
+            "narrator": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1B/Panel/Message",
+            "text": "今回は私が費用を負担するから\n10連ガチャを引いてみて。",
+            "zh": "这次费用我来出，\n你试试十连扭蛋。",
+            "narrator_zh": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1B/Panel/Message"
+        },
+        {
+            "location": "26/UI",
+            "narrator": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1C/Panel/Message",
+            "text": "クランをゲットしたら、次は\n<color=red>【編成】</color>で戦闘に参加させる。\n\n<color=green>【CURAN】</color>ボタンを押して。",
+            "zh": "拿到库兰后，接下来要在\n<color=red>【编成】</color>里让它参加战斗。\n\n按<color=green>【CURAN】</color>按钮。",
+            "narrator_zh": "ClanGachaWindow/Panel/Tutorial/TutorialGacha1C/Panel/Message"
+        }
+    ]
 }

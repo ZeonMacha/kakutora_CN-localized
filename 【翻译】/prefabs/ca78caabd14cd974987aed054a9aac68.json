@@ -1,53 +1,63 @@
 {
- "dir": "ca78caabd14cd974987aed054a9aac68",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "1/UI",
-   "narrator": "ClanJewelItem/BuyButton/ButtonImage/CountBack/CountText",
-   "text": "残り99回",
-   "zh": "剩余99次",
-   "narrator_zh": "ClanJewelItem/BuyButton/ButtonImage/CountBack/CountText"
-  },
-  {
-   "location": "2/UI",
-   "narrator": "ClanJewelItem/BuyButton/ButtonImage/HaveText",
-   "text": "所持数　　  個"
-  },
-  {
-   "location": "3/UI",
-   "narrator": "ClanJewelItem/BuyButton/ButtonImage/ItemNameText",
-   "text": "喜のアークフェアリ",
-   "zh": "喜之方舟妖精",
-   "narrator_zh": "ClanJewelItem/BuyButton/ButtonImage/ItemNameText"
-  },
-  {
-   "location": "4/UI",
-   "narrator": "ClanJewelItem/BuyButton/ButtonImage/LimitText",
-   "text": "リセットまで 99 日",
-   "zh": "距离重置 99 天",
-   "narrator_zh": "ClanJewelItem/BuyButton/ButtonImage/LimitText"
-  },
-  {
-   "location": "5/UI",
-   "narrator": "ClanJewelItem/BuyButton/ButtonImage/x",
-   "text": "×"
-  },
-  {
-   "location": "6/UI",
-   "narrator": "ClanJewelItem/MinusButton/Text",
-   "text": "－"
-  },
-  {
-   "location": "7/UI",
-   "narrator": "ClanJewelItem/PlusButton/Text",
-   "text": "＋"
-  },
-  {
-   "location": "8/UI",
-   "narrator": "ClanJewelItem/SetCountText/Set",
-   "text": "個"
-  }
- ]
+    "dir": "ca78caabd14cd974987aed054a9aac68",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "1/UI",
+            "narrator": "ClanJewelItem/BuyButton/ButtonImage/CountBack/CountText",
+            "text": "残り99回",
+            "zh": "剩余99次",
+            "narrator_zh": "ClanJewelItem/BuyButton/ButtonImage/CountBack/CountText"
+        },
+        {
+            "location": "2/UI",
+            "narrator": "ClanJewelItem/BuyButton/ButtonImage/HaveText",
+            "text": "所持数　　  個",
+            "zh": "持有数　　  个",
+            "narrator_zh": "ClanJewelItem/BuyButton/ButtonImage/HaveText"
+        },
+        {
+            "location": "3/UI",
+            "narrator": "ClanJewelItem/BuyButton/ButtonImage/ItemNameText",
+            "text": "喜のアークフェアリ",
+            "zh": "喜之方舟妖精",
+            "narrator_zh": "ClanJewelItem/BuyButton/ButtonImage/ItemNameText"
+        },
+        {
+            "location": "4/UI",
+            "narrator": "ClanJewelItem/BuyButton/ButtonImage/LimitText",
+            "text": "リセットまで 99 日",
+            "zh": "距离重置 99 天",
+            "narrator_zh": "ClanJewelItem/BuyButton/ButtonImage/LimitText"
+        },
+        {
+            "location": "5/UI",
+            "narrator": "ClanJewelItem/BuyButton/ButtonImage/x",
+            "text": "×",
+            "zh": "×",
+            "narrator_zh": "ClanJewelItem/BuyButton/ButtonImage/x"
+        },
+        {
+            "location": "6/UI",
+            "narrator": "ClanJewelItem/MinusButton/Text",
+            "text": "－",
+            "zh": "－",
+            "narrator_zh": "ClanJewelItem/MinusButton/Text"
+        },
+        {
+            "location": "7/UI",
+            "narrator": "ClanJewelItem/PlusButton/Text",
+            "text": "＋",
+            "zh": "＋",
+            "narrator_zh": "ClanJewelItem/PlusButton/Text"
+        },
+        {
+            "location": "8/UI",
+            "narrator": "ClanJewelItem/SetCountText/Set",
+            "text": "個",
+            "zh": "个",
+            "narrator_zh": "ClanJewelItem/SetCountText/Set"
+        }
+    ]
 }

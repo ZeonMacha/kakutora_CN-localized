@@ -1,81 +1,105 @@
 {
- "dir": "f06c05552dc8bfe429b78f45016d9b58",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "51/UI",
-   "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/ImageC/Text",
-   "text": "Energy Quantization..."
-  },
-  {
-   "location": "52/UI",
-   "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text",
-   "text": "MOMENTUM,"
-  },
-  {
-   "location": "53/UI",
-   "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text (1)",
-   "text": "WAVELENGTH,"
-  },
-  {
-   "location": "54/UI",
-   "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text (2)",
-   "text": "FREQUENCY,"
-  },
-  {
-   "location": "55/UI",
-   "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/QM/QM/Text",
-   "text": "QM : Quantum\nmechanics"
-  },
-  {
-   "location": "56/UI",
-   "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/QM/QM/Text (1)",
-   "text": "QM"
-  },
-  {
-   "location": "57/UI",
-   "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text",
-   "text": "TISE"
-  },
-  {
-   "location": "58/UI",
-   "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (1)",
-   "text": "Time-independent Schrödinger equation\n∵ Schrödinger's wave function(t,x) = Time(t)･Space(x),\n-√1･h/2π･dTime(t)/dt･Space(x)\n=Time(t)･Quantized_Hamiltonian{x,√1･h/2π(∂/∂x,∂/∂y,∂/∂z)}･Space(x)\n→∇(nabla)≡(∂/∂x,∂/∂y,∂/∂z) , div{Time(t)･Space(x)}→\n-√1･h/2π･dTime(t)/dt/Time(t)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)/Space(x)\nLet constant be E(Energy).\nE･Time(t)=-√1･h/2π･dTime(t)/dt ,\n∴ E･Space(x)=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)  "
-  },
-  {
-   "location": "59/UI",
-   "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (2)",
-   "text": "by the Austrian physicist\nErwin Rudolf Josef\nAlexander Schrödinger,1887-1961\n\nSchrödinger equation :\nBasic equations in quantum mechanics in physics.\n\nTime-dependent\nSchrödinger equation\n\nHamiltonian(x,Px,Py.Pz)\n→Quantized_Hamiltonian(x,∇)=Potential(x)-(h/2π)²/2m･∇²\n∴ -√1･h/2π･∂/∂x･wave function(t,x)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･wave function(t,x)"
-  },
-  {
-   "location": "60/UI",
-   "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (3)",
-   "text": "The time-independent Schrödinger equation predicts that wave functions can form standing waves, called stationary states. These states are important in their own right, and if the stationary states are classified and understood, then it becomes easier to solve the time-dependent Schrödinger equation for any state. The time-independent Schrödinger equation is the equation describing stationary states."
-  },
-  {
-   "location": "61/UI",
-   "narrator": "GetItemCatalogWindow/Panel/ClanIconImage/KuranIconFrame/Text",
-   "text": "クランちゃん",
-   "zh": "库兰",
-   "narrator_zh": "GetItemCatalogWindow/Panel/ClanIconImage/KuranIconFrame/Text"
-  },
-  {
-   "location": "62/UI",
-   "narrator": "GetItemCatalogWindow/Panel/GetIconImage/KuranIconFrame/Text",
-   "text": "クランちゃん",
-   "zh": "库兰",
-   "narrator_zh": "GetItemCatalogWindow/Panel/GetIconImage/KuranIconFrame/Text"
-  },
-  {
-   "location": "63/UI",
-   "narrator": "GetItemCatalogWindow/Panel/TouchButton/Text",
-   "text": "Touch!"
-  },
-  {
-   "location": "64/UI",
-   "narrator": "GetItemCatalogWindow/Panel/ZipBoxImage/Text",
-   "text": "NEW"
-  }
- ]
+    "dir": "f06c05552dc8bfe429b78f45016d9b58",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "51/UI",
+            "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/ImageC/Text",
+            "text": "Energy Quantization...",
+            "zh": "Energy Quantization...",
+            "narrator_zh": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/ImageC/Text"
+        },
+        {
+            "location": "52/UI",
+            "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text",
+            "text": "MOMENTUM,",
+            "zh": "MOMENTUM,",
+            "narrator_zh": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text"
+        },
+        {
+            "location": "53/UI",
+            "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text (1)",
+            "text": "WAVELENGTH,",
+            "zh": "WAVELENGTH,",
+            "narrator_zh": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text (1)"
+        },
+        {
+            "location": "54/UI",
+            "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text (2)",
+            "text": "FREQUENCY,",
+            "zh": "FREQUENCY,",
+            "narrator_zh": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/MOMENTUM/Text (2)"
+        },
+        {
+            "location": "55/UI",
+            "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/QM/QM/Text",
+            "text": "QM : Quantum\nmechanics",
+            "zh": "QM : Quantum\nmechanics",
+            "narrator_zh": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/QM/QM/Text"
+        },
+        {
+            "location": "56/UI",
+            "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/QM/QM/Text (1)",
+            "text": "QM",
+            "zh": "QM",
+            "narrator_zh": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/QM/QM/Text (1)"
+        },
+        {
+            "location": "57/UI",
+            "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text",
+            "text": "TISE",
+            "zh": "TISE",
+            "narrator_zh": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text"
+        },
+        {
+            "location": "58/UI",
+            "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (1)",
+            "text": "Time-independent Schrödinger equation\n∵ Schrödinger's wave function(t,x) = Time(t)･Space(x),\n-√1･h/2π･dTime(t)/dt･Space(x)\n=Time(t)･Quantized_Hamiltonian{x,√1･h/2π(∂/∂x,∂/∂y,∂/∂z)}･Space(x)\n→∇(nabla)≡(∂/∂x,∂/∂y,∂/∂z) , div{Time(t)･Space(x)}→\n-√1･h/2π･dTime(t)/dt/Time(t)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)/Space(x)\nLet constant be E(Energy).\nE･Time(t)=-√1･h/2π･dTime(t)/dt ,\n∴ E･Space(x)=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)  ",
+            "zh": "Time-independent Schrödinger equation\n∵ Schrödinger's wave function(t,x) = Time(t)･Space(x),\n-√1･h/2π･dTime(t)/dt･Space(x)\n=Time(t)･Quantized_Hamiltonian{x,√1･h/2π(∂/∂x,∂/∂y,∂/∂z)}･Space(x)\n→∇(nabla)≡(∂/∂x,∂/∂y,∂/∂z) , div{Time(t)･Space(x)}→\n-√1･h/2π･dTime(t)/dt/Time(t)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)/Space(x)\nLet constant be E(Energy).\nE･Time(t)=-√1･h/2π･dTime(t)/dt ,\n∴ E･Space(x)=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)  ",
+            "narrator_zh": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (1)"
+        },
+        {
+            "location": "59/UI",
+            "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (2)",
+            "text": "by the Austrian physicist\nErwin Rudolf Josef\nAlexander Schrödinger,1887-1961\n\nSchrödinger equation :\nBasic equations in quantum mechanics in physics.\n\nTime-dependent\nSchrödinger equation\n\nHamiltonian(x,Px,Py.Pz)\n→Quantized_Hamiltonian(x,∇)=Potential(x)-(h/2π)²/2m･∇²\n∴ -√1･h/2π･∂/∂x･wave function(t,x)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･wave function(t,x)",
+            "zh": "by the Austrian physicist\nErwin Rudolf Josef\nAlexander Schrödinger,1887-1961\n\nSchrödinger equation :\nBasic equations in quantum mechanics in physics.\n\nTime-dependent\nSchrödinger equation\n\nHamiltonian(x,Px,Py.Pz)\n→Quantized_Hamiltonian(x,∇)=Potential(x)-(h/2π)²/2m･∇²\n∴ -√1･h/2π･∂/∂x･wave function(t,x)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･wave function(t,x)",
+            "narrator_zh": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (2)"
+        },
+        {
+            "location": "60/UI",
+            "narrator": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (3)",
+            "text": "The time-independent Schrödinger equation predicts that wave functions can form standing waves, called stationary states. These states are important in their own right, and if the stationary states are classified and understood, then it becomes easier to solve the time-dependent Schrödinger equation for any state. The time-independent Schrödinger equation is the equation describing stationary states.",
+            "zh": "The time-independent Schrödinger equation predicts that wave functions can form standing waves, called stationary states. These states are important in their own right, and if the stationary states are classified and understood, then it becomes easier to solve the time-dependent Schrödinger equation for any state. The time-independent Schrödinger equation is the equation describing stationary states.",
+            "narrator_zh": "GetItemCatalogWindow/Panel/BG_Triangle/Kazari/TISE/TISE/Text (3)"
+        },
+        {
+            "location": "61/UI",
+            "narrator": "GetItemCatalogWindow/Panel/ClanIconImage/KuranIconFrame/Text",
+            "text": "クランちゃん",
+            "zh": "库兰",
+            "narrator_zh": "GetItemCatalogWindow/Panel/ClanIconImage/KuranIconFrame/Text"
+        },
+        {
+            "location": "62/UI",
+            "narrator": "GetItemCatalogWindow/Panel/GetIconImage/KuranIconFrame/Text",
+            "text": "クランちゃん",
+            "zh": "库兰",
+            "narrator_zh": "GetItemCatalogWindow/Panel/GetIconImage/KuranIconFrame/Text"
+        },
+        {
+            "location": "63/UI",
+            "narrator": "GetItemCatalogWindow/Panel/TouchButton/Text",
+            "text": "Touch!",
+            "zh": "Touch!",
+            "narrator_zh": "GetItemCatalogWindow/Panel/TouchButton/Text"
+        },
+        {
+            "location": "64/UI",
+            "narrator": "GetItemCatalogWindow/Panel/ZipBoxImage/Text",
+            "text": "NEW",
+            "zh": "NEW",
+            "narrator_zh": "GetItemCatalogWindow/Panel/ZipBoxImage/Text"
+        }
+    ]
 }

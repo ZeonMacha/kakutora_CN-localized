@@ -1,673 +1,833 @@
 {
- "dir": "level4",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "2/UI",
-   "narrator": "BattleInformationCanvas/Panel/PANEL_CLOSE/PANEL_CLOSE_BUTTON/Text",
-   "text": "OK"
-  },
-  {
-   "location": "4/UI",
-   "narrator": "BattleInformationCanvas/Panel/Panel_04_Battle_Information/Panel_Dialog/Text",
-   "text": "I N F O R M A T I O N"
-  },
-  {
-   "location": "21/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/LoadingMini_/Panel/Text",
-   "text": "INITIALIZING\nSYSTEM."
-  },
-  {
-   "location": "23/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Loading_Standard/Loading/Text",
-   "text": "N O W   L O A D I N G . . ."
-  },
-  {
-   "location": "25/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Button_BattleStart/Text_BattleStart",
-   "text": "バトル開始",
-   "zh": "开始战斗",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Button_BattleStart/Text_BattleStart"
-  },
-  {
-   "location": "27/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Button_Deck/Text_DeckName",
-   "text": "編成"
-  },
-  {
-   "location": "29/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Image_BackBottun/Text_Back",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Image_BackBottun/Text_Back"
-  },
-  {
-   "location": "31/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_MainBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_b",
-   "text": "深層"
-  },
-  {
-   "location": "33/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_MainBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_c",
-   "text": "ACT"
-  },
-  {
-   "location": "35/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_MainBattleBase/Panel_SPBattle/Panel_SPBattle/Text_contents",
-   "text": "期間限定イベント Lv.99",
-   "zh": "限时活动 Lv.99",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_MainBattleBase/Panel_SPBattle/Panel_SPBattle/Text_contents"
-  },
-  {
-   "location": "37/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_MainBattleBase/Panel_i/Image_HEX/Text_i",
-   "text": "BATTLE\n INFO"
-  },
-  {
-   "location": "39/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title",
-   "text": "期間限定イベント",
-   "zh": "限时活动",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title"
-  },
-  {
-   "location": "41/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_c",
-   "text": "ACT"
-  },
-  {
-   "location": "43/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_contents",
-   "text": "期間限定イベント Lv.99",
-   "zh": "限时活动 Lv.99",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_contents"
-  },
-  {
-   "location": "45/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_Friend/Panel_Trinary/Panel_EXP/Text _ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "47/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_Friend/Panel_Trinary/Panel_EXP/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "49/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_Friend/Panel_Trinary/Panel_EXP/Text_HEAL",
-   "text": "HEAL"
-  },
-  {
-   "location": "51/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_Friend/Panel_Trinary/Panel_EXP/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "53/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_Friend/Panel_Trinary/Text_Name",
-   "text": "TSUBAME  OHSE"
-  },
-  {
-   "location": "55/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/Text_Party",
-   "text": "P A R T Y - 1"
-  },
-  {
-   "location": "57/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/EMPTY",
-   "text": "EMPTY"
-  },
-  {
-   "location": "59/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (1)/Panel_EXP/Text _ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "61/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (1)/Panel_EXP/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "63/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (1)/Panel_EXP/Text_HEAL",
-   "text": "HEAL"
-  },
-  {
-   "location": "65/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (1)/Panel_EXP/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "67/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (1)/Text_Name",
-   "text": "AYAMI  KUNIMASA"
-  },
-  {
-   "location": "69/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (2)/Panel_EXP/Text _ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "71/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (2)/Panel_EXP/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "73/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (2)/Panel_EXP/Text_HEAL",
-   "text": "HEAL"
-  },
-  {
-   "location": "75/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (2)/Panel_EXP/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "77/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (2)/Text_Name",
-   "text": "GABRIELLA"
-  },
-  {
-   "location": "79/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (3)/Panel_EXP/Text _ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "81/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (3)/Panel_EXP/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "83/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (3)/Panel_EXP/Text_HEAL",
-   "text": "HEAL"
-  },
-  {
-   "location": "85/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (3)/Panel_EXP/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "87/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (3)/Text_Name",
-   "text": "MIYABI  KOIGASAKI"
-  },
-  {
-   "location": "89/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (4)/Panel_EXP/Text _ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "91/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (4)/Panel_EXP/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "93/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (4)/Panel_EXP/Text_HEAL",
-   "text": "HEAL"
-  },
-  {
-   "location": "95/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (4)/Panel_EXP/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "97/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (4)/Text_Name",
-   "text": "KAGURA  UDUKI"
-  },
-  {
-   "location": "99/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary/Panel_EXP/Text _ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "101/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary/Panel_EXP/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "103/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary/Panel_EXP/Text_HEAL",
-   "text": "HEAL"
-  },
-  {
-   "location": "105/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary/Panel_EXP/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "107/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary/Text_Name",
-   "text": "TSUBAME OHSE"
-  },
-  {
-   "location": "109/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Text",
-   "text": "101 N/A"
-  },
-  {
-   "location": "111/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Text_ACT",
-   "text": "ACT"
-  },
-  {
-   "location": "113/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Text_Lv",
-   "text": "Lv.1"
-  },
-  {
-   "location": "115/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Text_SHOHI",
-   "text": "消費"
-  },
-  {
-   "location": "117/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Image_BackBottun/Text_Back",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Image_BackBottun/Text_Back"
-  },
-  {
-   "location": "119/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_EXP/Text _ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "121/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_EXP/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "123/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_EXP/Text_HEAL",
-   "text": "HEAL"
-  },
-  {
-   "location": "125/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_EXP/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "127/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_Friend/Panel_Friend/Image_Face_Base/Text_Name",
-   "text": "TSUBAME  OHSE"
-  },
-  {
-   "location": "129/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_Friend/Panel_Friend/Panel_LoginTime/Text_",
-   "text": "前回\nログイン時間",
-   "zh": "上次\n登录时间",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_Friend/Panel_Friend/Panel_LoginTime/Text_"
-  },
-  {
-   "location": "131/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_Friend/Panel_Friend/Panel_LoginTime/Text_LoginTime",
-   "text": "1ヶ月以上前",
-   "zh": "超过1个月",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_Friend/Panel_Friend/Panel_LoginTime/Text_LoginTime"
-  },
-  {
-   "location": "133/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_Friend/Text_Friend",
-   "text": "１２３４５６７８９０"
-  },
-  {
-   "location": "135/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_Friend/Text_Lv",
-   "text": "Lv."
-  },
-  {
-   "location": "137/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Text_FriendChoice",
-   "text": "FRIEND CHOICE"
-  },
-  {
-   "location": "139/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Text_REDINESS",
-   "text": "REDINESS ENGINE BATTLE MODE"
-  },
-  {
-   "location": "141/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Image_BackBottun/Text_Back",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Image_BackBottun/Text_Back"
-  },
-  {
-   "location": "143/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Panel_TAB_MainBattle/Text_MainBattle",
-   "text": "MAIN BATTLE"
-  },
-  {
-   "location": "144/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Panel_TAB_MainBattle/Text_MainBattle",
-   "text": "メインバトル",
-   "zh": "主线战斗",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Panel_TAB_MainBattle/Text_MainBattle"
-  },
-  {
-   "location": "147/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Panel_TAB_SPBattle/Text_SPBattle",
-   "text": "SPECIAL BATTLE"
-  },
-  {
-   "location": "148/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Panel_TAB_SPBattle/Text_SPBattle",
-   "text": "スペシャルバトル",
-   "zh": "特别战斗",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Panel_TAB_SPBattle/Text_SPBattle"
-  },
-  {
-   "location": "151/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title",
-   "text": "期間限定イベント",
-   "zh": "限时活动",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title"
-  },
-  {
-   "location": "153/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_c",
-   "text": "ACT"
-  },
-  {
-   "location": "155/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_contents",
-   "text": "期間限定イベント Lv.99",
-   "zh": "限时活动 Lv.99",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_contents"
-  },
-  {
-   "location": "157/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Text_FriendChoice",
-   "text": "SPECIAL BATTLE"
-  },
-  {
-   "location": "159/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Text_REDINESS",
-   "text": "REDINESS ENGINE BATTLE MODE"
-  },
-  {
-   "location": "161/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Image_BackBottun/Text_Back",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Image_BackBottun/Text_Back"
-  },
-  {
-   "location": "163/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Panel_TAB_MainBattle/Text_MainBattle",
-   "text": "MAIN BATTLE"
-  },
-  {
-   "location": "164/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Panel_TAB_MainBattle/Text_MainBattle",
-   "text": "メインバトル",
-   "zh": "主线战斗",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Panel_TAB_MainBattle/Text_MainBattle"
-  },
-  {
-   "location": "167/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Panel_TAB_SPBattle/Text_SPBattle",
-   "text": "SPECIAL BATTLE"
-  },
-  {
-   "location": "168/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Panel_TAB_SPBattle/Text_SPBattle",
-   "text": "スペシャルバトル",
-   "zh": "特别战斗",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Panel_TAB_SPBattle/Text_SPBattle"
-  },
-  {
-   "location": "171/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_b",
-   "text": "深層"
-  },
-  {
-   "location": "173/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_c",
-   "text": "ACT"
-  },
-  {
-   "location": "175/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_contents",
-   "text": "期間限定イベント Lv.99",
-   "zh": "限时活动 Lv.99",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_contents"
-  },
-  {
-   "location": "177/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Text_FriendChoice",
-   "text": "MAIN BATTLE"
-  },
-  {
-   "location": "179/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Text_REDINESS",
-   "text": "REDINESS ENGINE BATTLE MODE"
-  },
-  {
-   "location": "181/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_04_Battle_Information/Button_OK/Text",
-   "text": "OK"
-  },
-  {
-   "location": "183/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_04_Battle_Information/Panel_Dialog/Text",
-   "text": "I N F O R M A T I O N"
-  },
-  {
-   "location": "185/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Button_OK/Text",
-   "text": "O K"
-  },
-  {
-   "location": "187/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Image_BackBottun/Text_Back",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Image_BackBottun/Text_Back"
-  },
-  {
-   "location": "189/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/ItemNoneBottom/Image/Image/Text",
-   "text": "NO ITEM"
-  },
-  {
-   "location": "191/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/ItemNoneUpper/Image/Image/Text",
-   "text": "NO ITEM"
-  },
-  {
-   "location": "193/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/ContentsCate/CateBack/Text_cate",
-   "text": "ヒメゴト",
-   "zh": "秘语",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/ContentsCate/CateBack/Text_cate"
-  },
-  {
-   "location": "195/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/ContentsTitle/Text_title",
-   "text": "イベントタイトルが長くても大丈夫な件",
-   "zh": "活动标题再长也没关系",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/ContentsTitle/Text_title"
-  },
-  {
-   "location": "197/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/Text_jouken",
-   "text": "取得条件：アタック/ヒール/エナジーいずれかの4チェインを{0}回成立させる",
-   "zh": "获得条件：攻击/治疗/能量中任一4连携达成{0}次",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/Text_jouken"
-  },
-  {
-   "location": "199/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/ContentsCate/CateBack/Text_cate",
-   "text": "ヒメゴト",
-   "zh": "秘语",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/ContentsCate/CateBack/Text_cate"
-  },
-  {
-   "location": "201/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/ContentsTitle/Text_title",
-   "text": "イベントタイトルが長くても大丈夫な件",
-   "zh": "活动标题再长也没关系",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/ContentsTitle/Text_title"
-  },
-  {
-   "location": "203/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/Text_jouken",
-   "text": "取得条件：スタンスチェインをキメる",
-   "zh": "获得条件：打出姿态连携",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/Text_jouken"
-  },
-  {
-   "location": "205/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/ContentsCate/CateBack/Text_cate",
-   "text": "ヒメゴト",
-   "zh": "秘语",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/ContentsCate/CateBack/Text_cate"
-  },
-  {
-   "location": "207/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/ContentsTitle/Text_title",
-   "text": "イベントタイトルが長くても大丈夫な件",
-   "zh": "活动标题再长也没关系",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/ContentsTitle/Text_title"
-  },
-  {
-   "location": "209/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/Text_jouken",
-   "text": "取得条件：キズナフィニッシュのダメージが {0}以上になる",
-   "zh": "获得条件：羁绊终结伤害达到 {0}以上",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/Text_jouken"
-  },
-  {
-   "location": "211/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/ItemNone/Image/Image/Text",
-   "text": "NO ITEM"
-  },
-  {
-   "location": "213/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item01/ContentsCate/CateBack/Text_cate",
-   "text": "ジュエル",
-   "zh": "珠宝",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item01/ContentsCate/CateBack/Text_cate"
-  },
-  {
-   "location": "215/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item01/Text_jouken",
-   "text": "1発のダメージ値が1400以上になる",
-   "zh": "单次伤害达到1400以上",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item01/Text_jouken"
-  },
-  {
-   "location": "217/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item02/ContentsCate/CateBack/Text_cate",
-   "text": "デュープマトン",
-   "zh": "复制人偶",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item02/ContentsCate/CateBack/Text_cate"
-  },
-  {
-   "location": "219/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item02/Text_jouken",
-   "text": "スタンスチェインを4回発動さぜる",
-   "zh": "发动4次姿态连携",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item02/Text_jouken"
-  },
-  {
-   "location": "221/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item03/ContentsCate/CateBack/Text_cate",
-   "text": "ジュエル",
-   "zh": "珠宝",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item03/ContentsCate/CateBack/Text_cate"
-  },
-  {
-   "location": "223/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item03/Text_jouken",
-   "text": "キズナフィニッシュのダメージが 1000以上になる",
-   "zh": "羁绊终结伤害达到 1000以上",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item03/Text_jouken"
-  },
-  {
-   "location": "225/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Text",
-   "text": "クリア報酬",
-   "zh": "通关奖励",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Text"
-  },
-  {
-   "location": "226/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Text",
-   "text": "ドロップ報酬",
-   "zh": "掉落奖励",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Text"
-  },
-  {
-   "location": "227/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Text",
-   "text": "ミッション報酬",
-   "zh": "任务奖励",
-   "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Text"
-  },
-  {
-   "location": "231/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Text_GETITEM",
-   "text": "GET ITEM"
-  },
-  {
-   "location": "233/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Text_REDINESS",
-   "text": "R E D I N E S S  E N G I N E  B A T T L E  M O D E"
-  },
-  {
-   "location": "235/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Text_per/Text",
-   "text": "GET\nCOMP率"
-  },
-  {
-   "location": "237/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/TopBar/PlacePanel/Text_Place",
-   "text": "Kokoro GATE."
-  },
-  {
-   "location": "239/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/TopBar/RedPanel/LVPanel/EXP",
-   "text": "EXP."
-  },
-  {
-   "location": "241/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/TopBar/RedPanel/LVPanel/LV",
-   "text": "LV."
-  },
-  {
-   "location": "243/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/TopBar/RedPanel/OSmodePanel/Text_OSmode",
-   "text": "REDINESS OS DIVE MODE."
-  },
-  {
-   "location": "245/UI",
-   "narrator": "Battle_Menu_Canvas/Panel/TopBar/RedPanel/Text_ONLINE",
-   "text": "ON LINE"
-  },
-  {
-   "location": "600/UI",
-   "narrator": "SpecialBattleCampaignCanvas/Panel/PANEL_CLOSE/PANEL_CLOSE_BUTTON/Text",
-   "text": "閉じる",
-   "zh": "关闭",
-   "narrator_zh": "SpecialBattleCampaignCanvas/Panel/PANEL_CLOSE/PANEL_CLOSE_BUTTON/Text"
-  },
-  {
-   "location": "602/UI",
-   "narrator": "SpecialBattleCampaignCanvas/Panel/TopBar/Panel/CharaName",
-   "text": "期間限定イベント情報",
-   "zh": "限时活动信息",
-   "narrator_zh": "SpecialBattleCampaignCanvas/Panel/TopBar/Panel/CharaName"
-  },
-  {
-   "location": "604/UI",
-   "narrator": "SpecialBattleCampaignCanvas/Panel/TopBar/Panel/Text",
-   "text": "C A M P A I G N  I N F O M A T I O N"
-  }
- ]
+    "dir": "level4",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "2/UI",
+            "narrator": "BattleInformationCanvas/Panel/PANEL_CLOSE/PANEL_CLOSE_BUTTON/Text",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "BattleInformationCanvas/Panel/PANEL_CLOSE/PANEL_CLOSE_BUTTON/Text"
+        },
+        {
+            "location": "4/UI",
+            "narrator": "BattleInformationCanvas/Panel/Panel_04_Battle_Information/Panel_Dialog/Text",
+            "text": "I N F O R M A T I O N",
+            "zh": "I N F O R M A T I O N",
+            "narrator_zh": "BattleInformationCanvas/Panel/Panel_04_Battle_Information/Panel_Dialog/Text"
+        },
+        {
+            "location": "21/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/LoadingMini_/Panel/Text",
+            "text": "INITIALIZING\nSYSTEM.",
+            "zh": "INITIALIZING\nSYSTEM.",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/LoadingMini_/Panel/Text"
+        },
+        {
+            "location": "23/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Loading_Standard/Loading/Text",
+            "text": "N O W   L O A D I N G . . .",
+            "zh": "N O W   L O A D I N G . . .",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Loading_Standard/Loading/Text"
+        },
+        {
+            "location": "25/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Button_BattleStart/Text_BattleStart",
+            "text": "バトル開始",
+            "zh": "开始战斗",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Button_BattleStart/Text_BattleStart"
+        },
+        {
+            "location": "27/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Button_Deck/Text_DeckName",
+            "text": "編成",
+            "zh": "编成",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Button_Deck/Text_DeckName"
+        },
+        {
+            "location": "29/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Image_BackBottun/Text_Back",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Image_BackBottun/Text_Back"
+        },
+        {
+            "location": "31/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_MainBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_b",
+            "text": "深層",
+            "zh": "深层",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_MainBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_b"
+        },
+        {
+            "location": "33/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_MainBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_c",
+            "text": "ACT",
+            "zh": "ACT",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_MainBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_c"
+        },
+        {
+            "location": "35/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_MainBattleBase/Panel_SPBattle/Panel_SPBattle/Text_contents",
+            "text": "期間限定イベント Lv.99",
+            "zh": "限时活动 Lv.99",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_MainBattleBase/Panel_SPBattle/Panel_SPBattle/Text_contents"
+        },
+        {
+            "location": "37/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_MainBattleBase/Panel_i/Image_HEX/Text_i",
+            "text": "BATTLE\n INFO",
+            "zh": "BATTLE\n INFO",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_MainBattleBase/Panel_i/Image_HEX/Text_i"
+        },
+        {
+            "location": "39/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title",
+            "text": "期間限定イベント",
+            "zh": "限时活动",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title"
+        },
+        {
+            "location": "41/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_c",
+            "text": "ACT",
+            "zh": "ACT",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_c"
+        },
+        {
+            "location": "43/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_contents",
+            "text": "期間限定イベント Lv.99",
+            "zh": "限时活动 Lv.99",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_BattleTitle/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_contents"
+        },
+        {
+            "location": "45/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_Friend/Panel_Trinary/Panel_EXP/Text _ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_Friend/Panel_Trinary/Panel_EXP/Text _ATK"
+        },
+        {
+            "location": "47/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_Friend/Panel_Trinary/Panel_EXP/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_Friend/Panel_Trinary/Panel_EXP/Text_DEF"
+        },
+        {
+            "location": "49/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_Friend/Panel_Trinary/Panel_EXP/Text_HEAL",
+            "text": "HEAL",
+            "zh": "HEAL",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_Friend/Panel_Trinary/Panel_EXP/Text_HEAL"
+        },
+        {
+            "location": "51/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_Friend/Panel_Trinary/Panel_EXP/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_Friend/Panel_Trinary/Panel_EXP/Text_HP"
+        },
+        {
+            "location": "53/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_Friend/Panel_Trinary/Text_Name",
+            "text": "TSUBAME  OHSE",
+            "zh": "TSUBAME  OHSE",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_Friend/Panel_Trinary/Text_Name"
+        },
+        {
+            "location": "55/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/Text_Party",
+            "text": "P A R T Y - 1",
+            "zh": "P A R T Y - 1",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/Text_Party"
+        },
+        {
+            "location": "57/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/EMPTY",
+            "text": "EMPTY",
+            "zh": "EMPTY",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/EMPTY"
+        },
+        {
+            "location": "59/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (1)/Panel_EXP/Text _ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (1)/Panel_EXP/Text _ATK"
+        },
+        {
+            "location": "61/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (1)/Panel_EXP/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (1)/Panel_EXP/Text_DEF"
+        },
+        {
+            "location": "63/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (1)/Panel_EXP/Text_HEAL",
+            "text": "HEAL",
+            "zh": "HEAL",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (1)/Panel_EXP/Text_HEAL"
+        },
+        {
+            "location": "65/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (1)/Panel_EXP/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (1)/Panel_EXP/Text_HP"
+        },
+        {
+            "location": "67/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (1)/Text_Name",
+            "text": "AYAMI  KUNIMASA",
+            "zh": "AYAMI  KUNIMASA",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (1)/Text_Name"
+        },
+        {
+            "location": "69/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (2)/Panel_EXP/Text _ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (2)/Panel_EXP/Text _ATK"
+        },
+        {
+            "location": "71/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (2)/Panel_EXP/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (2)/Panel_EXP/Text_DEF"
+        },
+        {
+            "location": "73/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (2)/Panel_EXP/Text_HEAL",
+            "text": "HEAL",
+            "zh": "HEAL",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (2)/Panel_EXP/Text_HEAL"
+        },
+        {
+            "location": "75/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (2)/Panel_EXP/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (2)/Panel_EXP/Text_HP"
+        },
+        {
+            "location": "77/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (2)/Text_Name",
+            "text": "GABRIELLA",
+            "zh": "GABRIELLA",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (2)/Text_Name"
+        },
+        {
+            "location": "79/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (3)/Panel_EXP/Text _ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (3)/Panel_EXP/Text _ATK"
+        },
+        {
+            "location": "81/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (3)/Panel_EXP/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (3)/Panel_EXP/Text_DEF"
+        },
+        {
+            "location": "83/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (3)/Panel_EXP/Text_HEAL",
+            "text": "HEAL",
+            "zh": "HEAL",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (3)/Panel_EXP/Text_HEAL"
+        },
+        {
+            "location": "85/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (3)/Panel_EXP/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (3)/Panel_EXP/Text_HP"
+        },
+        {
+            "location": "87/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (3)/Text_Name",
+            "text": "MIYABI  KOIGASAKI",
+            "zh": "MIYABI  KOIGASAKI",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (3)/Text_Name"
+        },
+        {
+            "location": "89/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (4)/Panel_EXP/Text _ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (4)/Panel_EXP/Text _ATK"
+        },
+        {
+            "location": "91/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (4)/Panel_EXP/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (4)/Panel_EXP/Text_DEF"
+        },
+        {
+            "location": "93/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (4)/Panel_EXP/Text_HEAL",
+            "text": "HEAL",
+            "zh": "HEAL",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (4)/Panel_EXP/Text_HEAL"
+        },
+        {
+            "location": "95/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (4)/Panel_EXP/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (4)/Panel_EXP/Text_HP"
+        },
+        {
+            "location": "97/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (4)/Text_Name",
+            "text": "KAGURA  UDUKI",
+            "zh": "KAGURA  UDUKI",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary (4)/Text_Name"
+        },
+        {
+            "location": "99/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary/Panel_EXP/Text _ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary/Panel_EXP/Text _ATK"
+        },
+        {
+            "location": "101/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary/Panel_EXP/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary/Panel_EXP/Text_DEF"
+        },
+        {
+            "location": "103/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary/Panel_EXP/Text_HEAL",
+            "text": "HEAL",
+            "zh": "HEAL",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary/Panel_EXP/Text_HEAL"
+        },
+        {
+            "location": "105/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary/Panel_EXP/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary/Panel_EXP/Text_HP"
+        },
+        {
+            "location": "107/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary/Text_Name",
+            "text": "TSUBAME OHSE",
+            "zh": "TSUBAME OHSE",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Panel_User/TrinaryList/Panel_Trinary/Text_Name"
+        },
+        {
+            "location": "109/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Text",
+            "text": "101 N/A",
+            "zh": "101 N/A",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Text"
+        },
+        {
+            "location": "111/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Text_ACT",
+            "text": "ACT",
+            "zh": "ACT",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Text_ACT"
+        },
+        {
+            "location": "113/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Text_Lv",
+            "text": "Lv.1",
+            "zh": "Lv.1",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Text_Lv"
+        },
+        {
+            "location": "115/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Text_SHOHI",
+            "text": "消費",
+            "zh": "消耗",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_00_BattleStart_Check/Text_SHOHI"
+        },
+        {
+            "location": "117/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Image_BackBottun/Text_Back",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Image_BackBottun/Text_Back"
+        },
+        {
+            "location": "119/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_EXP/Text _ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_EXP/Text _ATK"
+        },
+        {
+            "location": "121/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_EXP/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_EXP/Text_DEF"
+        },
+        {
+            "location": "123/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_EXP/Text_HEAL",
+            "text": "HEAL",
+            "zh": "HEAL",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_EXP/Text_HEAL"
+        },
+        {
+            "location": "125/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_EXP/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_EXP/Text_HP"
+        },
+        {
+            "location": "127/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_Friend/Panel_Friend/Image_Face_Base/Text_Name",
+            "text": "TSUBAME  OHSE",
+            "zh": "TSUBAME  OHSE",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_Friend/Panel_Friend/Image_Face_Base/Text_Name"
+        },
+        {
+            "location": "129/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_Friend/Panel_Friend/Panel_LoginTime/Text_",
+            "text": "前回\nログイン時間",
+            "zh": "上次\n登录时间",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_Friend/Panel_Friend/Panel_LoginTime/Text_"
+        },
+        {
+            "location": "131/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_Friend/Panel_Friend/Panel_LoginTime/Text_LoginTime",
+            "text": "1ヶ月以上前",
+            "zh": "超过1个月",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_Friend/Panel_Friend/Panel_LoginTime/Text_LoginTime"
+        },
+        {
+            "location": "133/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_Friend/Text_Friend",
+            "text": "１２３４５６７８９０",
+            "zh": "１２３４５６７８９０",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_Friend/Text_Friend"
+        },
+        {
+            "location": "135/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_Friend/Text_Lv",
+            "text": "Lv.",
+            "zh": "Lv.",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Scroll View/Viewport/Content/Panel_FriendBase/Panel_Friend/Text_Lv"
+        },
+        {
+            "location": "137/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Text_FriendChoice",
+            "text": "FRIEND CHOICE",
+            "zh": "FRIEND CHOICE",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Text_FriendChoice"
+        },
+        {
+            "location": "139/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Text_REDINESS",
+            "text": "REDINESS ENGINE BATTLE MODE",
+            "zh": "REDINESS ENGINE BATTLE MODE",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_01_Friend_Choice/Text_REDINESS"
+        },
+        {
+            "location": "141/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Image_BackBottun/Text_Back",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Image_BackBottun/Text_Back"
+        },
+        {
+            "location": "143/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Panel_TAB_MainBattle/Text_MainBattle",
+            "text": "MAIN BATTLE",
+            "zh": "MAIN BATTLE",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Panel_TAB_MainBattle/Text_MainBattle"
+        },
+        {
+            "location": "144/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Panel_TAB_MainBattle/Text_MainBattle",
+            "text": "メインバトル",
+            "zh": "主线战斗",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Panel_TAB_MainBattle/Text_MainBattle"
+        },
+        {
+            "location": "147/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Panel_TAB_SPBattle/Text_SPBattle",
+            "text": "SPECIAL BATTLE",
+            "zh": "SPECIAL BATTLE",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Panel_TAB_SPBattle/Text_SPBattle"
+        },
+        {
+            "location": "148/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Panel_TAB_SPBattle/Text_SPBattle",
+            "text": "スペシャルバトル",
+            "zh": "特别战斗",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Panel_TAB_SPBattle/Text_SPBattle"
+        },
+        {
+            "location": "151/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title",
+            "text": "期間限定イベント",
+            "zh": "限时活动",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title"
+        },
+        {
+            "location": "153/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_c",
+            "text": "ACT",
+            "zh": "ACT",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_c"
+        },
+        {
+            "location": "155/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_contents",
+            "text": "期間限定イベント Lv.99",
+            "zh": "限时活动 Lv.99",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_contents"
+        },
+        {
+            "location": "157/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Text_FriendChoice",
+            "text": "SPECIAL BATTLE",
+            "zh": "SPECIAL BATTLE",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Text_FriendChoice"
+        },
+        {
+            "location": "159/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Text_REDINESS",
+            "text": "REDINESS ENGINE BATTLE MODE",
+            "zh": "REDINESS ENGINE BATTLE MODE",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_02_SpecialBattle/Text_REDINESS"
+        },
+        {
+            "location": "161/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Image_BackBottun/Text_Back",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Image_BackBottun/Text_Back"
+        },
+        {
+            "location": "163/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Panel_TAB_MainBattle/Text_MainBattle",
+            "text": "MAIN BATTLE",
+            "zh": "MAIN BATTLE",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Panel_TAB_MainBattle/Text_MainBattle"
+        },
+        {
+            "location": "164/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Panel_TAB_MainBattle/Text_MainBattle",
+            "text": "メインバトル",
+            "zh": "主线战斗",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Panel_TAB_MainBattle/Text_MainBattle"
+        },
+        {
+            "location": "167/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Panel_TAB_SPBattle/Text_SPBattle",
+            "text": "SPECIAL BATTLE",
+            "zh": "SPECIAL BATTLE",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Panel_TAB_SPBattle/Text_SPBattle"
+        },
+        {
+            "location": "168/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Panel_TAB_SPBattle/Text_SPBattle",
+            "text": "スペシャルバトル",
+            "zh": "特别战斗",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Panel_TAB_SPBattle/Text_SPBattle"
+        },
+        {
+            "location": "171/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_b",
+            "text": "深層",
+            "zh": "深层",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_b"
+        },
+        {
+            "location": "173/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_c",
+            "text": "ACT",
+            "zh": "ACT",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_Title_c"
+        },
+        {
+            "location": "175/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_contents",
+            "text": "期間限定イベント Lv.99",
+            "zh": "限时活动 Lv.99",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Scroll View/Viewport/Content/Panel_SPBattleBase/Panel_SPBattle/Panel_SPBattle/Text_contents"
+        },
+        {
+            "location": "177/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Text_FriendChoice",
+            "text": "MAIN BATTLE",
+            "zh": "MAIN BATTLE",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Text_FriendChoice"
+        },
+        {
+            "location": "179/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Text_REDINESS",
+            "text": "REDINESS ENGINE BATTLE MODE",
+            "zh": "REDINESS ENGINE BATTLE MODE",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_03_MainBattle/Text_REDINESS"
+        },
+        {
+            "location": "181/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_04_Battle_Information/Button_OK/Text",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_04_Battle_Information/Button_OK/Text"
+        },
+        {
+            "location": "183/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_04_Battle_Information/Panel_Dialog/Text",
+            "text": "I N F O R M A T I O N",
+            "zh": "I N F O R M A T I O N",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_04_Battle_Information/Panel_Dialog/Text"
+        },
+        {
+            "location": "185/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Button_OK/Text",
+            "text": "O K",
+            "zh": "O K",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Button_OK/Text"
+        },
+        {
+            "location": "187/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Image_BackBottun/Text_Back",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Image_BackBottun/Text_Back"
+        },
+        {
+            "location": "189/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/ItemNoneBottom/Image/Image/Text",
+            "text": "NO ITEM",
+            "zh": "NO ITEM",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/ItemNoneBottom/Image/Image/Text"
+        },
+        {
+            "location": "191/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/ItemNoneUpper/Image/Image/Text",
+            "text": "NO ITEM",
+            "zh": "NO ITEM",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/ItemNoneUpper/Image/Image/Text"
+        },
+        {
+            "location": "193/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/ContentsCate/CateBack/Text_cate",
+            "text": "ヒメゴト",
+            "zh": "秘语",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/ContentsCate/CateBack/Text_cate"
+        },
+        {
+            "location": "195/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/ContentsTitle/Text_title",
+            "text": "イベントタイトルが長くても大丈夫な件",
+            "zh": "活动标题再长也没关系",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/ContentsTitle/Text_title"
+        },
+        {
+            "location": "197/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/Text_jouken",
+            "text": "取得条件：アタック/ヒール/エナジーいずれかの4チェインを{0}回成立させる",
+            "zh": "获得条件：攻击/治疗/能量中任一4连携达成{0}次",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/Text_jouken"
+        },
+        {
+            "location": "199/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/ContentsCate/CateBack/Text_cate",
+            "text": "ヒメゴト",
+            "zh": "秘语",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/ContentsCate/CateBack/Text_cate"
+        },
+        {
+            "location": "201/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/ContentsTitle/Text_title",
+            "text": "イベントタイトルが長くても大丈夫な件",
+            "zh": "活动标题再长也没关系",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/ContentsTitle/Text_title"
+        },
+        {
+            "location": "203/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/Text_jouken",
+            "text": "取得条件：スタンスチェインをキメる",
+            "zh": "获得条件：打出姿态连携",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/Text_jouken"
+        },
+        {
+            "location": "205/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/ContentsCate/CateBack/Text_cate",
+            "text": "ヒメゴト",
+            "zh": "秘语",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/ContentsCate/CateBack/Text_cate"
+        },
+        {
+            "location": "207/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/ContentsTitle/Text_title",
+            "text": "イベントタイトルが長くても大丈夫な件",
+            "zh": "活动标题再长也没关系",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/ContentsTitle/Text_title"
+        },
+        {
+            "location": "209/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/Text_jouken",
+            "text": "取得条件：キズナフィニッシュのダメージが {0}以上になる",
+            "zh": "获得条件：羁绊终结伤害达到 {0}以上",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/Text_jouken"
+        },
+        {
+            "location": "211/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/ItemNone/Image/Image/Text",
+            "text": "NO ITEM",
+            "zh": "NO ITEM",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/ItemNone/Image/Image/Text"
+        },
+        {
+            "location": "213/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item01/ContentsCate/CateBack/Text_cate",
+            "text": "ジュエル",
+            "zh": "珠宝",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item01/ContentsCate/CateBack/Text_cate"
+        },
+        {
+            "location": "215/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item01/Text_jouken",
+            "text": "1発のダメージ値が1400以上になる",
+            "zh": "单次伤害达到1400以上",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item01/Text_jouken"
+        },
+        {
+            "location": "217/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item02/ContentsCate/CateBack/Text_cate",
+            "text": "デュープマトン",
+            "zh": "复制人偶",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item02/ContentsCate/CateBack/Text_cate"
+        },
+        {
+            "location": "219/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item02/Text_jouken",
+            "text": "スタンスチェインを4回発動さぜる",
+            "zh": "发动4次姿态连携",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item02/Text_jouken"
+        },
+        {
+            "location": "221/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item03/ContentsCate/CateBack/Text_cate",
+            "text": "ジュエル",
+            "zh": "珠宝",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item03/ContentsCate/CateBack/Text_cate"
+        },
+        {
+            "location": "223/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item03/Text_jouken",
+            "text": "キズナフィニッシュのダメージが 1000以上になる",
+            "zh": "羁绊终结伤害达到 1000以上",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item03/Text_jouken"
+        },
+        {
+            "location": "225/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Text",
+            "text": "クリア報酬",
+            "zh": "通关奖励",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Text"
+        },
+        {
+            "location": "226/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Text",
+            "text": "ドロップ報酬",
+            "zh": "掉落奖励",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Text"
+        },
+        {
+            "location": "227/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Text",
+            "text": "ミッション報酬",
+            "zh": "任务奖励",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Panel_BOX/Text"
+        },
+        {
+            "location": "231/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Text_GETITEM",
+            "text": "GET ITEM",
+            "zh": "GET ITEM",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Text_GETITEM"
+        },
+        {
+            "location": "233/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Text_REDINESS",
+            "text": "R E D I N E S S  E N G I N E  B A T T L E  M O D E",
+            "zh": "R E D I N E S S  E N G I N E  B A T T L E  M O D E",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Text_REDINESS"
+        },
+        {
+            "location": "235/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Text_per/Text",
+            "text": "GET\nCOMP率",
+            "zh": "GET\n完成率",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/Panel_05_HOUSHU/Text_per/Text"
+        },
+        {
+            "location": "237/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/TopBar/PlacePanel/Text_Place",
+            "text": "Kokoro GATE.",
+            "zh": "Kokoro GATE.",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/TopBar/PlacePanel/Text_Place"
+        },
+        {
+            "location": "239/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/TopBar/RedPanel/LVPanel/EXP",
+            "text": "EXP.",
+            "zh": "EXP.",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/TopBar/RedPanel/LVPanel/EXP"
+        },
+        {
+            "location": "241/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/TopBar/RedPanel/LVPanel/LV",
+            "text": "LV.",
+            "zh": "LV.",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/TopBar/RedPanel/LVPanel/LV"
+        },
+        {
+            "location": "243/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/TopBar/RedPanel/OSmodePanel/Text_OSmode",
+            "text": "REDINESS OS DIVE MODE.",
+            "zh": "REDINESS OS DIVE MODE.",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/TopBar/RedPanel/OSmodePanel/Text_OSmode"
+        },
+        {
+            "location": "245/UI",
+            "narrator": "Battle_Menu_Canvas/Panel/TopBar/RedPanel/Text_ONLINE",
+            "text": "ON LINE",
+            "zh": "ON LINE",
+            "narrator_zh": "Battle_Menu_Canvas/Panel/TopBar/RedPanel/Text_ONLINE"
+        },
+        {
+            "location": "600/UI",
+            "narrator": "SpecialBattleCampaignCanvas/Panel/PANEL_CLOSE/PANEL_CLOSE_BUTTON/Text",
+            "text": "閉じる",
+            "zh": "关闭",
+            "narrator_zh": "SpecialBattleCampaignCanvas/Panel/PANEL_CLOSE/PANEL_CLOSE_BUTTON/Text"
+        },
+        {
+            "location": "602/UI",
+            "narrator": "SpecialBattleCampaignCanvas/Panel/TopBar/Panel/CharaName",
+            "text": "期間限定イベント情報",
+            "zh": "限时活动信息",
+            "narrator_zh": "SpecialBattleCampaignCanvas/Panel/TopBar/Panel/CharaName"
+        },
+        {
+            "location": "604/UI",
+            "narrator": "SpecialBattleCampaignCanvas/Panel/TopBar/Panel/Text",
+            "text": "C A M P A I G N  I N F O M A T I O N",
+            "zh": "C A M P A I G N  I N F O M A T I O N",
+            "narrator_zh": "SpecialBattleCampaignCanvas/Panel/TopBar/Panel/Text"
+        }
+    ]
 }

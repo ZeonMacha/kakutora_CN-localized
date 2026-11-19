@@ -1,792 +1,924 @@
 {
- "dir": "level11",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "331/UI",
-   "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/ScrollView/Viewport/ScrollContent/CellButton/panel_bottom/Image/CompleteRatio/text",
-   "text": "Open : "
-  },
-  {
-   "location": "332/UI",
-   "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/ScrollView/Viewport/ScrollContent/CellButton/panel_bottom/Image/EpisodeText",
-   "text": "ダイ・ハード",
-   "zh": "虎胆龙威",
-   "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/ScrollView/Viewport/ScrollContent/CellButton/panel_bottom/Image/EpisodeText"
-  },
-  {
-   "location": "333/UI",
-   "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/ScrollView/Viewport/ScrollContent/CellButton/panel_bottom/Image/KazariText",
-   "text": "Augmented reality girls\nTRINARY.\n"
-  },
-  {
-   "location": "334/UI",
-   "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab1/Actives/TextA",
-   "text": "メインストーリー",
-   "zh": "主线故事",
-   "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab1/Actives/TextA"
-  },
-  {
-   "location": "335/UI",
-   "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab1/Actives/TextB",
-   "text": "MAIN STORY\n"
-  },
-  {
-   "location": "336/UI",
-   "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab1/Sleeps/TextA",
-   "text": "メインストーリー",
-   "zh": "主线故事",
-   "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab1/Sleeps/TextA"
-  },
-  {
-   "location": "337/UI",
-   "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab1/Sleeps/TextB",
-   "text": "MAIN STORY"
-  },
-  {
-   "location": "338/UI",
-   "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab2/Actives/TextA",
-   "text": "イベントクエスト",
-   "zh": "活动任务",
-   "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab2/Actives/TextA"
-  },
-  {
-   "location": "339/UI",
-   "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab2/Actives/TextB",
-   "text": "EVENT QUEST"
-  },
-  {
-   "location": "340/UI",
-   "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab2/Sleeps/TextA",
-   "text": "イベントクエスト",
-   "zh": "活动任务",
-   "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab2/Sleeps/TextA"
-  },
-  {
-   "location": "341/UI",
-   "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab2/Sleeps/TextB",
-   "text": "EVENT QUEST"
-  },
-  {
-   "location": "342/UI",
-   "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab3/Actives/TextA",
-   "text": "アナザークエスト",
-   "zh": "其他任务",
-   "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab3/Actives/TextA"
-  },
-  {
-   "location": "343/UI",
-   "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab3/Actives/TextB",
-   "text": "ANOTHER QUEST"
-  },
-  {
-   "location": "344/UI",
-   "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab3/Sleeps/TextA",
-   "text": "アナザークエスト",
-   "zh": "其他任务",
-   "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab3/Sleeps/TextA"
-  },
-  {
-   "location": "345/UI",
-   "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab3/Sleeps/TextB",
-   "text": "ANOTHER QUEST"
-  },
-  {
-   "location": "346/UI",
-   "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Title_CharaName",
-   "text": "ア ニ メ と 共 に 語 ら れ る 、 彼 女 た ち と の 物 語",
-   "zh": "与动画一同讲述、和她们的故事",
-   "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Title_CharaName"
-  },
-  {
-   "location": "347/UI",
-   "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Title_Main",
-   "text": "MAIN STORY"
-  },
-  {
-   "location": "348/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/BackButton/Text",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "StorySelectWindow/01_STORY_MAIN/BackButton/Text"
-  },
-  {
-   "location": "349/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/BackButton/TextB",
-   "text": "GOTO MAIN MENU\n"
-  },
-  {
-   "location": "350/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/EventButton/Text",
-   "text": "詳細情報"
-  },
-  {
-   "location": "351/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/EventButton/TextB",
-   "text": "EVENT INFO.\n"
-  },
-  {
-   "location": "352/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/Jewel/Waku/Text",
-   "text": "所持ジュエル：",
-   "zh": "持有珠宝：",
-   "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Jewel/Waku/Text"
-  },
-  {
-   "location": "353/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/Tab1/Actives/TextA",
-   "text": "メインストーリー",
-   "zh": "主线故事",
-   "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab1/Actives/TextA"
-  },
-  {
-   "location": "354/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/Tab1/Actives/TextB",
-   "text": "MAIN STORY\n"
-  },
-  {
-   "location": "355/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/Tab1/Sleeps/TextA",
-   "text": "メインストーリー",
-   "zh": "主线故事",
-   "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab1/Sleeps/TextA"
-  },
-  {
-   "location": "356/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/Tab1/Sleeps/TextB",
-   "text": "MAIN STORY"
-  },
-  {
-   "location": "357/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/Tab2/Actives/TextA",
-   "text": "イベントクエスト",
-   "zh": "活动任务",
-   "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab2/Actives/TextA"
-  },
-  {
-   "location": "358/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/Tab2/Actives/TextB",
-   "text": "EVENT QUEST"
-  },
-  {
-   "location": "359/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/Tab2/Sleeps/TextA",
-   "text": "イベントクエスト",
-   "zh": "活动任务",
-   "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab2/Sleeps/TextA"
-  },
-  {
-   "location": "360/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/Tab2/Sleeps/TextB",
-   "text": "EVENT QUEST"
-  },
-  {
-   "location": "361/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/Tab3/Actives/TextA",
-   "text": "アナザークエスト",
-   "zh": "其他任务",
-   "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab3/Actives/TextA"
-  },
-  {
-   "location": "362/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/Tab3/Actives/TextB",
-   "text": "ANOTHER QUEST"
-  },
-  {
-   "location": "363/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/Tab3/Sleeps/TextA",
-   "text": "アナザークエスト",
-   "zh": "其他任务",
-   "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab3/Sleeps/TextA"
-  },
-  {
-   "location": "364/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/Tab3/Sleeps/TextB",
-   "text": "ANOTHER QUEST"
-  },
-  {
-   "location": "365/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/Title_CharaName",
-   "text": "ア ニ メ と 共 に 語 ら れ る 、 彼 女 た ち と の 物 語",
-   "zh": "与动画一同讲述、和她们的故事",
-   "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Title_CharaName"
-  },
-  {
-   "location": "366/UI",
-   "narrator": "StorySelectWindow/01_STORY_MAIN/Title_Main",
-   "text": "MAIN STORY <size=35>Ep.</size>"
-  },
-  {
-   "location": "367/UI",
-   "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab1/Actives/TextA",
-   "text": "メインストーリー",
-   "zh": "主线故事",
-   "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab1/Actives/TextA"
-  },
-  {
-   "location": "368/UI",
-   "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab1/Actives/TextB",
-   "text": "MAIN STORY\n"
-  },
-  {
-   "location": "369/UI",
-   "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab1/Sleeps/TextA",
-   "text": "メインストーリー",
-   "zh": "主线故事",
-   "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab1/Sleeps/TextA"
-  },
-  {
-   "location": "370/UI",
-   "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab1/Sleeps/TextB",
-   "text": "MAIN STORY"
-  },
-  {
-   "location": "371/UI",
-   "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab2/Actives/TextA",
-   "text": "イベントクエスト",
-   "zh": "活动任务",
-   "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab2/Actives/TextA"
-  },
-  {
-   "location": "372/UI",
-   "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab2/Actives/TextB",
-   "text": "EVENT QUEST"
-  },
-  {
-   "location": "373/UI",
-   "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab2/Sleeps/TextA",
-   "text": "イベントクエスト",
-   "zh": "活动任务",
-   "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab2/Sleeps/TextA"
-  },
-  {
-   "location": "374/UI",
-   "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab2/Sleeps/TextB",
-   "text": "EVENT QUEST"
-  },
-  {
-   "location": "375/UI",
-   "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab3/Actives/TextA",
-   "text": "アナザークエスト",
-   "zh": "其他任务",
-   "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab3/Actives/TextA"
-  },
-  {
-   "location": "376/UI",
-   "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab3/Actives/TextB",
-   "text": "ANOTHER QUEST"
-  },
-  {
-   "location": "377/UI",
-   "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab3/Sleeps/TextA",
-   "text": "アナザークエスト",
-   "zh": "其他任务",
-   "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab3/Sleeps/TextA"
-  },
-  {
-   "location": "378/UI",
-   "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab3/Sleeps/TextB",
-   "text": "ANOTHER QUEST"
-  },
-  {
-   "location": "379/UI",
-   "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Title_CharaName",
-   "text": "あ な た と 彼 女 を 強 く す る 、 特 別 な ク エ ス ト 。",
-   "zh": "让你和她变强的特别任务。",
-   "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Title_CharaName"
-  },
-  {
-   "location": "380/UI",
-   "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Title_Main",
-   "text": "EVENT QUEST"
-  },
-  {
-   "location": "381/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/BackButton/Text",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/BackButton/Text"
-  },
-  {
-   "location": "382/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/BackButton/TextB",
-   "text": "GOTO MAIN MENU\n"
-  },
-  {
-   "location": "383/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/EventButton/Text",
-   "text": "詳細情報"
-  },
-  {
-   "location": "384/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/EventButton/TextB",
-   "text": "EVENT INFO.\n"
-  },
-  {
-   "location": "385/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/Jewel/Waku/Text",
-   "text": "所持ジュエル：",
-   "zh": "持有珠宝：",
-   "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Jewel/Waku/Text"
-  },
-  {
-   "location": "386/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab1/Actives/TextA",
-   "text": "メインストーリー",
-   "zh": "主线故事",
-   "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab1/Actives/TextA"
-  },
-  {
-   "location": "387/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab1/Actives/TextB",
-   "text": "MAIN STORY\n"
-  },
-  {
-   "location": "388/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab1/Sleeps/TextA",
-   "text": "メインストーリー",
-   "zh": "主线故事",
-   "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab1/Sleeps/TextA"
-  },
-  {
-   "location": "389/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab1/Sleeps/TextB",
-   "text": "MAIN STORY"
-  },
-  {
-   "location": "390/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab2/Actives/TextA",
-   "text": "イベントクエスト",
-   "zh": "活动任务",
-   "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab2/Actives/TextA"
-  },
-  {
-   "location": "391/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab2/Actives/TextB",
-   "text": "EVENT QUEST"
-  },
-  {
-   "location": "392/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab2/Sleeps/TextA",
-   "text": "イベントクエスト",
-   "zh": "活动任务",
-   "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab2/Sleeps/TextA"
-  },
-  {
-   "location": "393/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab2/Sleeps/TextB",
-   "text": "EVENT QUEST"
-  },
-  {
-   "location": "394/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab3/Actives/TextA",
-   "text": "アナザークエスト",
-   "zh": "其他任务",
-   "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab3/Actives/TextA"
-  },
-  {
-   "location": "395/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab3/Actives/TextB",
-   "text": "ANOTHER QUEST"
-  },
-  {
-   "location": "396/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab3/Sleeps/TextA",
-   "text": "アナザークエスト",
-   "zh": "其他任务",
-   "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab3/Sleeps/TextA"
-  },
-  {
-   "location": "397/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab3/Sleeps/TextB",
-   "text": "ANOTHER QUEST"
-  },
-  {
-   "location": "398/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/Title_CharaName",
-   "text": "あ な た と 彼 女 を 強 く す る 、 特 別 な ク エ ス ト 。",
-   "zh": "让你和她变强的特别任务。",
-   "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Title_CharaName"
-  },
-  {
-   "location": "399/UI",
-   "narrator": "StorySelectWindow/03_EVENT_MAIN/Title_Main",
-   "text": "EVENT QUEST"
-  },
-  {
-   "location": "401/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/BackButton/Text",
-   "text": "OK"
-  },
-  {
-   "location": "403/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/CompleteRatio/text",
-   "text": "Open : "
-  },
-  {
-   "location": "405/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/EpisodeText",
-   "text": "ダイ・ハード",
-   "zh": "虎胆龙威",
-   "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/EpisodeText"
-  },
-  {
-   "location": "407/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/KazariText",
-   "text": "Argumented reality girls\nTRINARY.\n"
-  },
-  {
-   "location": "409/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/EventPoint/Evp/pts",
-   "text": "pts."
-  },
-  {
-   "location": "411/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/EventPoint/Title/Text",
-   "text": "現在の獲得イベントポイント",
-   "zh": "当前活动点数",
-   "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/EventPoint/Title/Text"
-  },
-  {
-   "location": "413/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonC/enable/Text",
-   "text": "イベント概要",
-   "zh": "活动概要",
-   "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonC/enable/Text"
-  },
-  {
-   "location": "415/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonC/enable/TextSub",
-   "text": "EVENT INFORMATION."
-  },
-  {
-   "location": "417/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonL/disable/Text",
-   "text": "イベント概要",
-   "zh": "活动概要",
-   "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonL/disable/Text"
-  },
-  {
-   "location": "419/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonL/disable/TextSub",
-   "text": "EVENT INFORMATION."
-  },
-  {
-   "location": "421/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonL/enable/Text",
-   "text": "イベント概要",
-   "zh": "活动概要",
-   "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonL/enable/Text"
-  },
-  {
-   "location": "423/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonL/enable/TextSub",
-   "text": "EVENT INFORMATION."
-  },
-  {
-   "location": "425/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonR/disable/Text",
-   "text": "報酬一覧"
-  },
-  {
-   "location": "427/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonR/disable/TextSub",
-   "text": "REWORD INFORMATION."
-  },
-  {
-   "location": "429/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonR/enable/Text",
-   "text": "報酬一覧"
-  },
-  {
-   "location": "431/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonR/enable/TextSub",
-   "text": "REWORD INFORMATION."
-  },
-  {
-   "location": "433/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/Loading/Tips/Text",
-   "text": "EVENT INFO DATA LOADING."
-  },
-  {
-   "location": "435/UI",
-   "narrator": "StorySelectWindow/EventInfoDialog/Panel/design/Title",
-   "text": "I N F O R M A T I O N"
-  },
-  {
-   "location": "437/UI",
-   "narrator": "StorySelectWindow/Loading/Loading/Text",
-   "text": "N O W   L O A D I N G . . ."
-  },
-  {
-   "location": "439/UI",
-   "narrator": "StorySelectWindow/Loading/Tips/Text",
-   "text": "S T O R Y   L I S T"
-  },
-  {
-   "location": "441/UI",
-   "narrator": "StorySelectWindow/LoadingMini_/Panel/Text",
-   "text": "INITIALIZING\nSYSTEM."
-  },
-  {
-   "location": "443/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Button_OK/Text",
-   "text": "O K"
-  },
-  {
-   "location": "445/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Image_BackBottun/Text_Back",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Image_BackBottun/Text_Back"
-  },
-  {
-   "location": "447/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/ItemNoneBottom/Image/Image/Text",
-   "text": "NO ITEM"
-  },
-  {
-   "location": "449/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/ItemNoneUpper/Image/Image/Text",
-   "text": "NO ITEM"
-  },
-  {
-   "location": "451/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/ContentsCate/CateBack/Text_cate",
-   "text": "ヒメゴト",
-   "zh": "秘语",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/ContentsCate/CateBack/Text_cate"
-  },
-  {
-   "location": "453/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/ContentsTitle/Text_title",
-   "text": "イベントタイトルが長くても大丈夫な件",
-   "zh": "活动标题再长也没关系",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/ContentsTitle/Text_title"
-  },
-  {
-   "location": "455/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/Text_jouken",
-   "text": "取得条件：アタック/ヒール/エナジーいずれかの4チェインを{0}回成立させる",
-   "zh": "获得条件：攻击/治疗/能量中任一4连携达成{0}次",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/Text_jouken"
-  },
-  {
-   "location": "457/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/ContentsCate/CateBack/Text_cate",
-   "text": "ヒメゴト",
-   "zh": "秘语",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/ContentsCate/CateBack/Text_cate"
-  },
-  {
-   "location": "459/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/ContentsTitle/Text_title",
-   "text": "イベントタイトルが長くても大丈夫な件",
-   "zh": "活动标题再长也没关系",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/ContentsTitle/Text_title"
-  },
-  {
-   "location": "461/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/Text_jouken",
-   "text": "取得条件：スタンスチェインをキメる",
-   "zh": "获得条件：打出姿态连携",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/Text_jouken"
-  },
-  {
-   "location": "463/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/ContentsCate/CateBack/Text_cate",
-   "text": "ヒメゴト",
-   "zh": "秘语",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/ContentsCate/CateBack/Text_cate"
-  },
-  {
-   "location": "465/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/ContentsTitle/Text_title",
-   "text": "イベントタイトルが長くても大丈夫な件",
-   "zh": "活动标题再长也没关系",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/ContentsTitle/Text_title"
-  },
-  {
-   "location": "467/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/Text_jouken",
-   "text": "取得条件：キズナフィニッシュのダメージが {0}以上になる",
-   "zh": "获得条件：羁绊终结伤害达到 {0}以上",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/Text_jouken"
-  },
-  {
-   "location": "469/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/ItemNone/Image/Image/Text",
-   "text": "NO ITEM"
-  },
-  {
-   "location": "471/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item01/ContentsCate/CateBack/Text_cate",
-   "text": "ジュエル",
-   "zh": "珠宝",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item01/ContentsCate/CateBack/Text_cate"
-  },
-  {
-   "location": "473/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item01/Text_jouken",
-   "text": "1発のダメージ値が1400以上になる",
-   "zh": "单次伤害达到1400以上",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item01/Text_jouken"
-  },
-  {
-   "location": "475/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item02/ContentsCate/CateBack/Text_cate",
-   "text": "デュープマトン",
-   "zh": "复制人偶",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item02/ContentsCate/CateBack/Text_cate"
-  },
-  {
-   "location": "477/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item02/Text_jouken",
-   "text": "スタンスチェインを4回発動さぜる",
-   "zh": "发动4次姿态连携",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item02/Text_jouken"
-  },
-  {
-   "location": "479/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item03/ContentsCate/CateBack/Text_cate",
-   "text": "ジュエル",
-   "zh": "珠宝",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item03/ContentsCate/CateBack/Text_cate"
-  },
-  {
-   "location": "481/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item03/Text_jouken",
-   "text": "キズナフィニッシュのダメージが 1000以上になる",
-   "zh": "羁绊终结伤害达到 1000以上",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item03/Text_jouken"
-  },
-  {
-   "location": "485/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Text",
-   "text": "クリア報酬",
-   "zh": "通关奖励",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Text"
-  },
-  {
-   "location": "486/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Text",
-   "text": "ドロップ報酬",
-   "zh": "掉落奖励",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Text"
-  },
-  {
-   "location": "487/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Text",
-   "text": "ミッション報酬",
-   "zh": "任务奖励",
-   "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Text"
-  },
-  {
-   "location": "489/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Text_GETITEM",
-   "text": "GET ITEM"
-  },
-  {
-   "location": "491/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Text_REDINESS",
-   "text": "R E D I N E S S  E N G I N E  B A T T L E  M O D E"
-  },
-  {
-   "location": "493/UI",
-   "narrator": "StorySelectWindow/Panel_05_HOUSHU/Text_per/Text",
-   "text": "GET\nCOMP率"
-  },
-  {
-   "location": "495/UI",
-   "narrator": "StorySelectWindow/Tu01/Tutorial/TutorialStory10A/Panel/Message",
-   "text": "１つの章には、アニメと\n物語とバトルが入っており、\nある程度話が進むと\n次の章が解禁されます。",
-   "zh": "每一章里都有动画、\n故事和战斗，\n故事推进到一定程度，\n下一章就会解锁。",
-   "narrator_zh": "StorySelectWindow/Tu01/Tutorial/TutorialStory10A/Panel/Message"
-  },
-  {
-   "location": "497/UI",
-   "narrator": "StorySelectWindow/Tu01/Tutorial/TutorialStory10A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "StorySelectWindow/Tu01/Tutorial/TutorialStory10A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "499/UI",
-   "narrator": "StorySelectWindow/Tu01/Tutorial/TutorialStory10A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "501/UI",
-   "narrator": "StorySelectWindow/Tu01/Tutorial/TutorialStory10A/Panel/yajirusi/Text",
-   "text": "▲"
-  },
-  {
-   "location": "503/UI",
-   "narrator": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Message",
-   "text": "メインストーリーは\nクリアするごとに\n上に向かって進行します。",
-   "zh": "主线故事\n每通关一次\n就会向上推进。",
-   "narrator_zh": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Message"
-  },
-  {
-   "location": "505/UI",
-   "narrator": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "507/UI",
-   "narrator": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "509/UI",
-   "narrator": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Title/Message",
-   "text": "未解禁のイベントには\n解禁条件が記載されています。",
-   "zh": "未解锁的活动\n会写明解锁条件。",
-   "narrator_zh": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Title/Message"
-  },
-  {
-   "location": "511/UI",
-   "narrator": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Title/Message (1)",
-   "text": "ストーリーを最後まで見終えると\n報酬がもらえます。",
-   "zh": "把故事看到最后，\n就能拿到奖励。",
-   "narrator_zh": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Title/Message (1)"
-  },
-  {
-   "location": "513/UI",
-   "narrator": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Title/yajirusi/Text",
-   "text": "▲"
-  },
-  {
-   "location": "515/UI",
-   "narrator": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Title/yajirusi2/Text",
-   "text": "▲"
-  },
-  {
-   "location": "517/UI",
-   "narrator": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Title/yajirusi3/Text",
-   "text": "▲"
-  },
-  {
-   "location": "519/UI",
-   "narrator": "StorySelectWindow/Tu03/Tutorial/TutorialStory20A/Panel/Message",
-   "text": "<color=green>【イベントクエスト】</color>では\n期間限定のイベントや、\nアニメ登場クランのシナリオ、\n季節イベントなどを開催。\n\nその時にしか入手できない\nアイテムもあるから、是非\n参加してみて。\n",
-   "zh": "<color=green>【活动任务】</color>里\n会举办限时活动、\n动画登场库兰的剧本、\n还有季节活动。\n\n有的道具只有那时才能拿到，\n所以一定\n来参加看看。\n",
-   "narrator_zh": "StorySelectWindow/Tu03/Tutorial/TutorialStory20A/Panel/Message"
-  },
-  {
-   "location": "521/UI",
-   "narrator": "StorySelectWindow/Tu03/Tutorial/TutorialStory20A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "StorySelectWindow/Tu03/Tutorial/TutorialStory20A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "523/UI",
-   "narrator": "StorySelectWindow/Tu03/Tutorial/TutorialStory20A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  }
- ]
+    "dir": "level11",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "331/UI",
+            "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/ScrollView/Viewport/ScrollContent/CellButton/panel_bottom/Image/CompleteRatio/text",
+            "text": "Open : ",
+            "zh": "Open : ",
+            "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/ScrollView/Viewport/ScrollContent/CellButton/panel_bottom/Image/CompleteRatio/text"
+        },
+        {
+            "location": "332/UI",
+            "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/ScrollView/Viewport/ScrollContent/CellButton/panel_bottom/Image/EpisodeText",
+            "text": "ダイ・ハード",
+            "zh": "虎胆龙威",
+            "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/ScrollView/Viewport/ScrollContent/CellButton/panel_bottom/Image/EpisodeText"
+        },
+        {
+            "location": "333/UI",
+            "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/ScrollView/Viewport/ScrollContent/CellButton/panel_bottom/Image/KazariText",
+            "text": "Augmented reality girls\nTRINARY.\n",
+            "zh": "Augmented reality girls\nTRINARY.\n",
+            "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/ScrollView/Viewport/ScrollContent/CellButton/panel_bottom/Image/KazariText"
+        },
+        {
+            "location": "334/UI",
+            "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab1/Actives/TextA",
+            "text": "メインストーリー",
+            "zh": "主线故事",
+            "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab1/Actives/TextA"
+        },
+        {
+            "location": "335/UI",
+            "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab1/Actives/TextB",
+            "text": "MAIN STORY\n",
+            "zh": "MAIN STORY\n",
+            "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab1/Actives/TextB"
+        },
+        {
+            "location": "336/UI",
+            "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab1/Sleeps/TextA",
+            "text": "メインストーリー",
+            "zh": "主线故事",
+            "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab1/Sleeps/TextA"
+        },
+        {
+            "location": "337/UI",
+            "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab1/Sleeps/TextB",
+            "text": "MAIN STORY",
+            "zh": "MAIN STORY",
+            "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab1/Sleeps/TextB"
+        },
+        {
+            "location": "338/UI",
+            "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab2/Actives/TextA",
+            "text": "イベントクエスト",
+            "zh": "活动任务",
+            "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab2/Actives/TextA"
+        },
+        {
+            "location": "339/UI",
+            "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab2/Actives/TextB",
+            "text": "EVENT QUEST",
+            "zh": "EVENT QUEST",
+            "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab2/Actives/TextB"
+        },
+        {
+            "location": "340/UI",
+            "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab2/Sleeps/TextA",
+            "text": "イベントクエスト",
+            "zh": "活动任务",
+            "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab2/Sleeps/TextA"
+        },
+        {
+            "location": "341/UI",
+            "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab2/Sleeps/TextB",
+            "text": "EVENT QUEST",
+            "zh": "EVENT QUEST",
+            "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab2/Sleeps/TextB"
+        },
+        {
+            "location": "342/UI",
+            "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab3/Actives/TextA",
+            "text": "アナザークエスト",
+            "zh": "其他任务",
+            "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab3/Actives/TextA"
+        },
+        {
+            "location": "343/UI",
+            "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab3/Actives/TextB",
+            "text": "ANOTHER QUEST",
+            "zh": "ANOTHER QUEST",
+            "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab3/Actives/TextB"
+        },
+        {
+            "location": "344/UI",
+            "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab3/Sleeps/TextA",
+            "text": "アナザークエスト",
+            "zh": "其他任务",
+            "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab3/Sleeps/TextA"
+        },
+        {
+            "location": "345/UI",
+            "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Tab3/Sleeps/TextB",
+            "text": "ANOTHER QUEST",
+            "zh": "ANOTHER QUEST",
+            "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Tab3/Sleeps/TextB"
+        },
+        {
+            "location": "346/UI",
+            "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Title_CharaName",
+            "text": "ア ニ メ と 共 に 語 ら れ る 、 彼 女 た ち と の 物 語",
+            "zh": "与动画一同讲述、和她们的故事",
+            "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Title_CharaName"
+        },
+        {
+            "location": "347/UI",
+            "narrator": "StorySelectWindow/00_STORY_MAIN_TOP/Title_Main",
+            "text": "MAIN STORY",
+            "zh": "MAIN STORY",
+            "narrator_zh": "StorySelectWindow/00_STORY_MAIN_TOP/Title_Main"
+        },
+        {
+            "location": "348/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/BackButton/Text",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/BackButton/Text"
+        },
+        {
+            "location": "349/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/BackButton/TextB",
+            "text": "GOTO MAIN MENU\n",
+            "zh": "GOTO MAIN MENU\n",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/BackButton/TextB"
+        },
+        {
+            "location": "350/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/EventButton/Text",
+            "text": "詳細情報",
+            "zh": "详细信息",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/EventButton/Text"
+        },
+        {
+            "location": "351/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/EventButton/TextB",
+            "text": "EVENT INFO.\n",
+            "zh": "EVENT INFO.\n",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/EventButton/TextB"
+        },
+        {
+            "location": "352/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/Jewel/Waku/Text",
+            "text": "所持ジュエル：",
+            "zh": "持有珠宝：",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Jewel/Waku/Text"
+        },
+        {
+            "location": "353/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/Tab1/Actives/TextA",
+            "text": "メインストーリー",
+            "zh": "主线故事",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab1/Actives/TextA"
+        },
+        {
+            "location": "354/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/Tab1/Actives/TextB",
+            "text": "MAIN STORY\n",
+            "zh": "MAIN STORY\n",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab1/Actives/TextB"
+        },
+        {
+            "location": "355/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/Tab1/Sleeps/TextA",
+            "text": "メインストーリー",
+            "zh": "主线故事",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab1/Sleeps/TextA"
+        },
+        {
+            "location": "356/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/Tab1/Sleeps/TextB",
+            "text": "MAIN STORY",
+            "zh": "MAIN STORY",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab1/Sleeps/TextB"
+        },
+        {
+            "location": "357/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/Tab2/Actives/TextA",
+            "text": "イベントクエスト",
+            "zh": "活动任务",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab2/Actives/TextA"
+        },
+        {
+            "location": "358/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/Tab2/Actives/TextB",
+            "text": "EVENT QUEST",
+            "zh": "EVENT QUEST",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab2/Actives/TextB"
+        },
+        {
+            "location": "359/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/Tab2/Sleeps/TextA",
+            "text": "イベントクエスト",
+            "zh": "活动任务",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab2/Sleeps/TextA"
+        },
+        {
+            "location": "360/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/Tab2/Sleeps/TextB",
+            "text": "EVENT QUEST",
+            "zh": "EVENT QUEST",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab2/Sleeps/TextB"
+        },
+        {
+            "location": "361/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/Tab3/Actives/TextA",
+            "text": "アナザークエスト",
+            "zh": "其他任务",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab3/Actives/TextA"
+        },
+        {
+            "location": "362/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/Tab3/Actives/TextB",
+            "text": "ANOTHER QUEST",
+            "zh": "ANOTHER QUEST",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab3/Actives/TextB"
+        },
+        {
+            "location": "363/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/Tab3/Sleeps/TextA",
+            "text": "アナザークエスト",
+            "zh": "其他任务",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab3/Sleeps/TextA"
+        },
+        {
+            "location": "364/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/Tab3/Sleeps/TextB",
+            "text": "ANOTHER QUEST",
+            "zh": "ANOTHER QUEST",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Tab3/Sleeps/TextB"
+        },
+        {
+            "location": "365/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/Title_CharaName",
+            "text": "ア ニ メ と 共 に 語 ら れ る 、 彼 女 た ち と の 物 語",
+            "zh": "与动画一同讲述、和她们的故事",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Title_CharaName"
+        },
+        {
+            "location": "366/UI",
+            "narrator": "StorySelectWindow/01_STORY_MAIN/Title_Main",
+            "text": "MAIN STORY <size=35>Ep.</size>",
+            "zh": "MAIN STORY <size=35>Ep.</size>",
+            "narrator_zh": "StorySelectWindow/01_STORY_MAIN/Title_Main"
+        },
+        {
+            "location": "367/UI",
+            "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab1/Actives/TextA",
+            "text": "メインストーリー",
+            "zh": "主线故事",
+            "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab1/Actives/TextA"
+        },
+        {
+            "location": "368/UI",
+            "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab1/Actives/TextB",
+            "text": "MAIN STORY\n",
+            "zh": "MAIN STORY\n",
+            "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab1/Actives/TextB"
+        },
+        {
+            "location": "369/UI",
+            "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab1/Sleeps/TextA",
+            "text": "メインストーリー",
+            "zh": "主线故事",
+            "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab1/Sleeps/TextA"
+        },
+        {
+            "location": "370/UI",
+            "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab1/Sleeps/TextB",
+            "text": "MAIN STORY",
+            "zh": "MAIN STORY",
+            "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab1/Sleeps/TextB"
+        },
+        {
+            "location": "371/UI",
+            "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab2/Actives/TextA",
+            "text": "イベントクエスト",
+            "zh": "活动任务",
+            "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab2/Actives/TextA"
+        },
+        {
+            "location": "372/UI",
+            "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab2/Actives/TextB",
+            "text": "EVENT QUEST",
+            "zh": "EVENT QUEST",
+            "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab2/Actives/TextB"
+        },
+        {
+            "location": "373/UI",
+            "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab2/Sleeps/TextA",
+            "text": "イベントクエスト",
+            "zh": "活动任务",
+            "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab2/Sleeps/TextA"
+        },
+        {
+            "location": "374/UI",
+            "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab2/Sleeps/TextB",
+            "text": "EVENT QUEST",
+            "zh": "EVENT QUEST",
+            "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab2/Sleeps/TextB"
+        },
+        {
+            "location": "375/UI",
+            "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab3/Actives/TextA",
+            "text": "アナザークエスト",
+            "zh": "其他任务",
+            "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab3/Actives/TextA"
+        },
+        {
+            "location": "376/UI",
+            "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab3/Actives/TextB",
+            "text": "ANOTHER QUEST",
+            "zh": "ANOTHER QUEST",
+            "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab3/Actives/TextB"
+        },
+        {
+            "location": "377/UI",
+            "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab3/Sleeps/TextA",
+            "text": "アナザークエスト",
+            "zh": "其他任务",
+            "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab3/Sleeps/TextA"
+        },
+        {
+            "location": "378/UI",
+            "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab3/Sleeps/TextB",
+            "text": "ANOTHER QUEST",
+            "zh": "ANOTHER QUEST",
+            "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Tab3/Sleeps/TextB"
+        },
+        {
+            "location": "379/UI",
+            "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Title_CharaName",
+            "text": "あ な た と 彼 女 を 強 く す る 、 特 別 な ク エ ス ト 。",
+            "zh": "让你和她变强的特别任务。",
+            "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Title_CharaName"
+        },
+        {
+            "location": "380/UI",
+            "narrator": "StorySelectWindow/02_EVENT_MAIN_TOP/Title_Main",
+            "text": "EVENT QUEST",
+            "zh": "EVENT QUEST",
+            "narrator_zh": "StorySelectWindow/02_EVENT_MAIN_TOP/Title_Main"
+        },
+        {
+            "location": "381/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/BackButton/Text",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/BackButton/Text"
+        },
+        {
+            "location": "382/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/BackButton/TextB",
+            "text": "GOTO MAIN MENU\n",
+            "zh": "GOTO MAIN MENU\n",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/BackButton/TextB"
+        },
+        {
+            "location": "383/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/EventButton/Text",
+            "text": "詳細情報",
+            "zh": "详细信息",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/EventButton/Text"
+        },
+        {
+            "location": "384/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/EventButton/TextB",
+            "text": "EVENT INFO.\n",
+            "zh": "EVENT INFO.\n",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/EventButton/TextB"
+        },
+        {
+            "location": "385/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/Jewel/Waku/Text",
+            "text": "所持ジュエル：",
+            "zh": "持有珠宝：",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Jewel/Waku/Text"
+        },
+        {
+            "location": "386/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab1/Actives/TextA",
+            "text": "メインストーリー",
+            "zh": "主线故事",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab1/Actives/TextA"
+        },
+        {
+            "location": "387/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab1/Actives/TextB",
+            "text": "MAIN STORY\n",
+            "zh": "MAIN STORY\n",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab1/Actives/TextB"
+        },
+        {
+            "location": "388/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab1/Sleeps/TextA",
+            "text": "メインストーリー",
+            "zh": "主线故事",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab1/Sleeps/TextA"
+        },
+        {
+            "location": "389/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab1/Sleeps/TextB",
+            "text": "MAIN STORY",
+            "zh": "MAIN STORY",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab1/Sleeps/TextB"
+        },
+        {
+            "location": "390/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab2/Actives/TextA",
+            "text": "イベントクエスト",
+            "zh": "活动任务",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab2/Actives/TextA"
+        },
+        {
+            "location": "391/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab2/Actives/TextB",
+            "text": "EVENT QUEST",
+            "zh": "EVENT QUEST",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab2/Actives/TextB"
+        },
+        {
+            "location": "392/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab2/Sleeps/TextA",
+            "text": "イベントクエスト",
+            "zh": "活动任务",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab2/Sleeps/TextA"
+        },
+        {
+            "location": "393/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab2/Sleeps/TextB",
+            "text": "EVENT QUEST",
+            "zh": "EVENT QUEST",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab2/Sleeps/TextB"
+        },
+        {
+            "location": "394/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab3/Actives/TextA",
+            "text": "アナザークエスト",
+            "zh": "其他任务",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab3/Actives/TextA"
+        },
+        {
+            "location": "395/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab3/Actives/TextB",
+            "text": "ANOTHER QUEST",
+            "zh": "ANOTHER QUEST",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab3/Actives/TextB"
+        },
+        {
+            "location": "396/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab3/Sleeps/TextA",
+            "text": "アナザークエスト",
+            "zh": "其他任务",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab3/Sleeps/TextA"
+        },
+        {
+            "location": "397/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/Tab3/Sleeps/TextB",
+            "text": "ANOTHER QUEST",
+            "zh": "ANOTHER QUEST",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Tab3/Sleeps/TextB"
+        },
+        {
+            "location": "398/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/Title_CharaName",
+            "text": "あ な た と 彼 女 を 強 く す る 、 特 別 な ク エ ス ト 。",
+            "zh": "让你和她变强的特别任务。",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Title_CharaName"
+        },
+        {
+            "location": "399/UI",
+            "narrator": "StorySelectWindow/03_EVENT_MAIN/Title_Main",
+            "text": "EVENT QUEST",
+            "zh": "EVENT QUEST",
+            "narrator_zh": "StorySelectWindow/03_EVENT_MAIN/Title_Main"
+        },
+        {
+            "location": "401/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/BackButton/Text",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/BackButton/Text"
+        },
+        {
+            "location": "403/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/CompleteRatio/text",
+            "text": "Open : ",
+            "zh": "Open : ",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/CompleteRatio/text"
+        },
+        {
+            "location": "405/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/EpisodeText",
+            "text": "ダイ・ハード",
+            "zh": "虎胆龙威",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/EpisodeText"
+        },
+        {
+            "location": "407/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/KazariText",
+            "text": "Argumented reality girls\nTRINARY.\n",
+            "zh": "Argumented reality girls\nTRINARY.\n",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/KazariText"
+        },
+        {
+            "location": "409/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/EventPoint/Evp/pts",
+            "text": "pts.",
+            "zh": "pts.",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/EventPoint/Evp/pts"
+        },
+        {
+            "location": "411/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/EventPoint/Title/Text",
+            "text": "現在の獲得イベントポイント",
+            "zh": "当前活动点数",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/EventPoint/Title/Text"
+        },
+        {
+            "location": "413/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonC/enable/Text",
+            "text": "イベント概要",
+            "zh": "活动概要",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonC/enable/Text"
+        },
+        {
+            "location": "415/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonC/enable/TextSub",
+            "text": "EVENT INFORMATION.",
+            "zh": "EVENT INFORMATION.",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonC/enable/TextSub"
+        },
+        {
+            "location": "417/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonL/disable/Text",
+            "text": "イベント概要",
+            "zh": "活动概要",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonL/disable/Text"
+        },
+        {
+            "location": "419/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonL/disable/TextSub",
+            "text": "EVENT INFORMATION.",
+            "zh": "EVENT INFORMATION.",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonL/disable/TextSub"
+        },
+        {
+            "location": "421/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonL/enable/Text",
+            "text": "イベント概要",
+            "zh": "活动概要",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonL/enable/Text"
+        },
+        {
+            "location": "423/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonL/enable/TextSub",
+            "text": "EVENT INFORMATION.",
+            "zh": "EVENT INFORMATION.",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonL/enable/TextSub"
+        },
+        {
+            "location": "425/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonR/disable/Text",
+            "text": "報酬一覧",
+            "zh": "报酬一览",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonR/disable/Text"
+        },
+        {
+            "location": "427/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonR/disable/TextSub",
+            "text": "REWORD INFORMATION.",
+            "zh": "REWORD INFORMATION.",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonR/disable/TextSub"
+        },
+        {
+            "location": "429/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonR/enable/Text",
+            "text": "報酬一覧",
+            "zh": "报酬一览",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonR/enable/Text"
+        },
+        {
+            "location": "431/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonR/enable/TextSub",
+            "text": "REWORD INFORMATION.",
+            "zh": "REWORD INFORMATION.",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/InfoButtonR/enable/TextSub"
+        },
+        {
+            "location": "433/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/Loading/Tips/Text",
+            "text": "EVENT INFO DATA LOADING.",
+            "zh": "EVENT INFO DATA LOADING.",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/Loading/Tips/Text"
+        },
+        {
+            "location": "435/UI",
+            "narrator": "StorySelectWindow/EventInfoDialog/Panel/design/Title",
+            "text": "I N F O R M A T I O N",
+            "zh": "I N F O R M A T I O N",
+            "narrator_zh": "StorySelectWindow/EventInfoDialog/Panel/design/Title"
+        },
+        {
+            "location": "437/UI",
+            "narrator": "StorySelectWindow/Loading/Loading/Text",
+            "text": "N O W   L O A D I N G . . .",
+            "zh": "N O W   L O A D I N G . . .",
+            "narrator_zh": "StorySelectWindow/Loading/Loading/Text"
+        },
+        {
+            "location": "439/UI",
+            "narrator": "StorySelectWindow/Loading/Tips/Text",
+            "text": "S T O R Y   L I S T",
+            "zh": "S T O R Y   L I S T",
+            "narrator_zh": "StorySelectWindow/Loading/Tips/Text"
+        },
+        {
+            "location": "441/UI",
+            "narrator": "StorySelectWindow/LoadingMini_/Panel/Text",
+            "text": "INITIALIZING\nSYSTEM.",
+            "zh": "INITIALIZING\nSYSTEM.",
+            "narrator_zh": "StorySelectWindow/LoadingMini_/Panel/Text"
+        },
+        {
+            "location": "443/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Button_OK/Text",
+            "text": "O K",
+            "zh": "O K",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Button_OK/Text"
+        },
+        {
+            "location": "445/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Image_BackBottun/Text_Back",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Image_BackBottun/Text_Back"
+        },
+        {
+            "location": "447/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/ItemNoneBottom/Image/Image/Text",
+            "text": "NO ITEM",
+            "zh": "NO ITEM",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/ItemNoneBottom/Image/Image/Text"
+        },
+        {
+            "location": "449/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/ItemNoneUpper/Image/Image/Text",
+            "text": "NO ITEM",
+            "zh": "NO ITEM",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/ItemNoneUpper/Image/Image/Text"
+        },
+        {
+            "location": "451/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/ContentsCate/CateBack/Text_cate",
+            "text": "ヒメゴト",
+            "zh": "秘语",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/ContentsCate/CateBack/Text_cate"
+        },
+        {
+            "location": "453/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/ContentsTitle/Text_title",
+            "text": "イベントタイトルが長くても大丈夫な件",
+            "zh": "活动标题再长也没关系",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/ContentsTitle/Text_title"
+        },
+        {
+            "location": "455/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/Text_jouken",
+            "text": "取得条件：アタック/ヒール/エナジーいずれかの4チェインを{0}回成立させる",
+            "zh": "获得条件：攻击/治疗/能量中任一4连携达成{0}次",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item01/Text_jouken"
+        },
+        {
+            "location": "457/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/ContentsCate/CateBack/Text_cate",
+            "text": "ヒメゴト",
+            "zh": "秘语",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/ContentsCate/CateBack/Text_cate"
+        },
+        {
+            "location": "459/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/ContentsTitle/Text_title",
+            "text": "イベントタイトルが長くても大丈夫な件",
+            "zh": "活动标题再长也没关系",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/ContentsTitle/Text_title"
+        },
+        {
+            "location": "461/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/Text_jouken",
+            "text": "取得条件：スタンスチェインをキメる",
+            "zh": "获得条件：打出姿态连携",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item02/Text_jouken"
+        },
+        {
+            "location": "463/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/ContentsCate/CateBack/Text_cate",
+            "text": "ヒメゴト",
+            "zh": "秘语",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/ContentsCate/CateBack/Text_cate"
+        },
+        {
+            "location": "465/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/ContentsTitle/Text_title",
+            "text": "イベントタイトルが長くても大丈夫な件",
+            "zh": "活动标题再长也没关系",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/ContentsTitle/Text_title"
+        },
+        {
+            "location": "467/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/Text_jouken",
+            "text": "取得条件：キズナフィニッシュのダメージが {0}以上になる",
+            "zh": "获得条件：羁绊终结伤害达到 {0}以上",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/Item03/Text_jouken"
+        },
+        {
+            "location": "469/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/ItemNone/Image/Image/Text",
+            "text": "NO ITEM",
+            "zh": "NO ITEM",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle/ItemNone/Image/Image/Text"
+        },
+        {
+            "location": "471/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item01/ContentsCate/CateBack/Text_cate",
+            "text": "ジュエル",
+            "zh": "珠宝",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item01/ContentsCate/CateBack/Text_cate"
+        },
+        {
+            "location": "473/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item01/Text_jouken",
+            "text": "1発のダメージ値が1400以上になる",
+            "zh": "单次伤害达到1400以上",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item01/Text_jouken"
+        },
+        {
+            "location": "475/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item02/ContentsCate/CateBack/Text_cate",
+            "text": "デュープマトン",
+            "zh": "复制人偶",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item02/ContentsCate/CateBack/Text_cate"
+        },
+        {
+            "location": "477/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item02/Text_jouken",
+            "text": "スタンスチェインを4回発動さぜる",
+            "zh": "发动4次姿态连携",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item02/Text_jouken"
+        },
+        {
+            "location": "479/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item03/ContentsCate/CateBack/Text_cate",
+            "text": "ジュエル",
+            "zh": "珠宝",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item03/ContentsCate/CateBack/Text_cate"
+        },
+        {
+            "location": "481/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item03/Text_jouken",
+            "text": "キズナフィニッシュのダメージが 1000以上になる",
+            "zh": "羁绊终结伤害达到 1000以上",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Panel_BOX_Middle_/Item03/Text_jouken"
+        },
+        {
+            "location": "485/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Text",
+            "text": "クリア報酬",
+            "zh": "通关奖励",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Text"
+        },
+        {
+            "location": "486/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Text",
+            "text": "ドロップ報酬",
+            "zh": "掉落奖励",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Text"
+        },
+        {
+            "location": "487/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Text",
+            "text": "ミッション報酬",
+            "zh": "任务奖励",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Panel_BOX/Text"
+        },
+        {
+            "location": "489/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Text_GETITEM",
+            "text": "GET ITEM",
+            "zh": "GET ITEM",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Text_GETITEM"
+        },
+        {
+            "location": "491/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Text_REDINESS",
+            "text": "R E D I N E S S  E N G I N E  B A T T L E  M O D E",
+            "zh": "R E D I N E S S  E N G I N E  B A T T L E  M O D E",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Text_REDINESS"
+        },
+        {
+            "location": "493/UI",
+            "narrator": "StorySelectWindow/Panel_05_HOUSHU/Text_per/Text",
+            "text": "GET\nCOMP率",
+            "zh": "GET\n完成率",
+            "narrator_zh": "StorySelectWindow/Panel_05_HOUSHU/Text_per/Text"
+        },
+        {
+            "location": "495/UI",
+            "narrator": "StorySelectWindow/Tu01/Tutorial/TutorialStory10A/Panel/Message",
+            "text": "１つの章には、アニメと\n物語とバトルが入っており、\nある程度話が進むと\n次の章が解禁されます。",
+            "zh": "每一章里都有动画、\n故事和战斗，\n故事推进到一定程度，\n下一章就会解锁。",
+            "narrator_zh": "StorySelectWindow/Tu01/Tutorial/TutorialStory10A/Panel/Message"
+        },
+        {
+            "location": "497/UI",
+            "narrator": "StorySelectWindow/Tu01/Tutorial/TutorialStory10A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "StorySelectWindow/Tu01/Tutorial/TutorialStory10A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "499/UI",
+            "narrator": "StorySelectWindow/Tu01/Tutorial/TutorialStory10A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "StorySelectWindow/Tu01/Tutorial/TutorialStory10A/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "501/UI",
+            "narrator": "StorySelectWindow/Tu01/Tutorial/TutorialStory10A/Panel/yajirusi/Text",
+            "text": "▲",
+            "zh": "▲",
+            "narrator_zh": "StorySelectWindow/Tu01/Tutorial/TutorialStory10A/Panel/yajirusi/Text"
+        },
+        {
+            "location": "503/UI",
+            "narrator": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Message",
+            "text": "メインストーリーは\nクリアするごとに\n上に向かって進行します。",
+            "zh": "主线故事\n每通关一次\n就会向上推进。",
+            "narrator_zh": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Message"
+        },
+        {
+            "location": "505/UI",
+            "narrator": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "507/UI",
+            "narrator": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "509/UI",
+            "narrator": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Title/Message",
+            "text": "未解禁のイベントには\n解禁条件が記載されています。",
+            "zh": "未解锁的活动\n会写明解锁条件。",
+            "narrator_zh": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Title/Message"
+        },
+        {
+            "location": "511/UI",
+            "narrator": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Title/Message (1)",
+            "text": "ストーリーを最後まで見終えると\n報酬がもらえます。",
+            "zh": "把故事看到最后，\n就能拿到奖励。",
+            "narrator_zh": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Title/Message (1)"
+        },
+        {
+            "location": "513/UI",
+            "narrator": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Title/yajirusi/Text",
+            "text": "▲",
+            "zh": "▲",
+            "narrator_zh": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Title/yajirusi/Text"
+        },
+        {
+            "location": "515/UI",
+            "narrator": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Title/yajirusi2/Text",
+            "text": "▲",
+            "zh": "▲",
+            "narrator_zh": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Title/yajirusi2/Text"
+        },
+        {
+            "location": "517/UI",
+            "narrator": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Title/yajirusi3/Text",
+            "text": "▲",
+            "zh": "▲",
+            "narrator_zh": "StorySelectWindow/Tu02/Tutorial/TutorialStory11A/Panel/Title/yajirusi3/Text"
+        },
+        {
+            "location": "519/UI",
+            "narrator": "StorySelectWindow/Tu03/Tutorial/TutorialStory20A/Panel/Message",
+            "text": "<color=green>【イベントクエスト】</color>では\n期間限定のイベントや、\nアニメ登場クランのシナリオ、\n季節イベントなどを開催。\n\nその時にしか入手できない\nアイテムもあるから、是非\n参加してみて。\n",
+            "zh": "<color=green>【活动任务】</color>里\n会举办限时活动、\n动画登场库兰的剧本、\n还有季节活动。\n\n有的道具只有那时才能拿到，\n所以一定\n来参加看看。\n",
+            "narrator_zh": "StorySelectWindow/Tu03/Tutorial/TutorialStory20A/Panel/Message"
+        },
+        {
+            "location": "521/UI",
+            "narrator": "StorySelectWindow/Tu03/Tutorial/TutorialStory20A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "StorySelectWindow/Tu03/Tutorial/TutorialStory20A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "523/UI",
+            "narrator": "StorySelectWindow/Tu03/Tutorial/TutorialStory20A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "StorySelectWindow/Tu03/Tutorial/TutorialStory20A/Panel/PicArea/RightButton/TextOK"
+        }
+    ]
 }

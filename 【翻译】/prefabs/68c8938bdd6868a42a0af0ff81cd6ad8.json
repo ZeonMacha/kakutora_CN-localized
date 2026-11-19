@@ -1,91 +1,105 @@
 {
- "dir": "68c8938bdd6868a42a0af0ff81cd6ad8",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "183/UI",
-   "narrator": "EventSelectWindow/Panel/ScrollView/Viewport/ScrollContent/CellButton/Joken/LogoImage/Text_Joken",
-   "text": "条件"
-  },
-  {
-   "location": "184/UI",
-   "narrator": "EventSelectWindow/Panel/ScrollView/Viewport/ScrollContent/CellButton/Joken/Text_Joken",
-   "text": "x2 みやびの潜在世界をクリアする。",
-   "zh": "x2 通关雅的潜在世界。",
-   "narrator_zh": "EventSelectWindow/Panel/ScrollView/Viewport/ScrollContent/CellButton/Joken/Text_Joken"
-  },
-  {
-   "location": "185/UI",
-   "narrator": "EventSelectWindow/Panel/ScrollView/Viewport/ScrollContent/CellButton/Text_EventCateMain",
-   "text": "デイドラ",
-   "zh": "每日剧场",
-   "narrator_zh": "EventSelectWindow/Panel/ScrollView/Viewport/ScrollContent/CellButton/Text_EventCateMain"
-  },
-  {
-   "location": "186/UI",
-   "narrator": "EventSelectWindow/Panel/ScrollView/Viewport/ScrollContent/CellButton/Text_EventTitle",
-   "text": "コーヒーと牛乳の割合について",
-   "zh": "关于咖啡与牛奶的比例",
-   "narrator_zh": "EventSelectWindow/Panel/ScrollView/Viewport/ScrollContent/CellButton/Text_EventTitle"
-  },
-  {
-   "location": "187/UI",
-   "narrator": "EventSelectWindow/Panel/Tab1/Actives/TextA",
-   "text": "DAYS"
-  },
-  {
-   "location": "188/UI",
-   "narrator": "EventSelectWindow/Panel/Tab1/Actives/TextB",
-   "text": "章替わり日常会話ログ",
-   "zh": "换章日常对话记录",
-   "narrator_zh": "EventSelectWindow/Panel/Tab1/Actives/TextB"
-  },
-  {
-   "location": "189/UI",
-   "narrator": "EventSelectWindow/Panel/Tab1/Sleeps/TextA",
-   "text": "DAYS"
-  },
-  {
-   "location": "190/UI",
-   "narrator": "EventSelectWindow/Panel/Tab1/Sleeps/TextB",
-   "text": "章替わり日常会話ログ",
-   "zh": "换章日常对话记录",
-   "narrator_zh": "EventSelectWindow/Panel/Tab1/Sleeps/TextB"
-  },
-  {
-   "location": "191/UI",
-   "narrator": "EventSelectWindow/Panel/Tab2/Actives/TextA",
-   "text": "DRAMATICS"
-  },
-  {
-   "location": "192/UI",
-   "narrator": "EventSelectWindow/Panel/Tab2/Actives/TextB",
-   "text": "貴方と彼女の秘密ログ",
-   "zh": "你和她的秘密记录",
-   "narrator_zh": "EventSelectWindow/Panel/Tab2/Actives/TextB"
-  },
-  {
-   "location": "193/UI",
-   "narrator": "EventSelectWindow/Panel/Tab2/Sleeps/TextA",
-   "text": "DRAMATICS"
-  },
-  {
-   "location": "194/UI",
-   "narrator": "EventSelectWindow/Panel/Tab2/Sleeps/TextB",
-   "text": "貴方と彼女の秘密ログ",
-   "zh": "你和她的秘密记录",
-   "narrator_zh": "EventSelectWindow/Panel/Tab2/Sleeps/TextB"
-  },
-  {
-   "location": "195/UI",
-   "narrator": "EventSelectWindow/Panel/Title_CharaName",
-   "text": "TALK EVENT HISTORY."
-  },
-  {
-   "location": "196/UI",
-   "narrator": "EventSelectWindow/Panel/Title_Main",
-   "text": "EVENTLOG"
-  }
- ]
+    "dir": "68c8938bdd6868a42a0af0ff81cd6ad8",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "183/UI",
+            "narrator": "EventSelectWindow/Panel/ScrollView/Viewport/ScrollContent/CellButton/Joken/LogoImage/Text_Joken",
+            "text": "条件",
+            "zh": "条件",
+            "narrator_zh": "EventSelectWindow/Panel/ScrollView/Viewport/ScrollContent/CellButton/Joken/LogoImage/Text_Joken"
+        },
+        {
+            "location": "184/UI",
+            "narrator": "EventSelectWindow/Panel/ScrollView/Viewport/ScrollContent/CellButton/Joken/Text_Joken",
+            "text": "x2 みやびの潜在世界をクリアする。",
+            "zh": "x2 通关雅的潜在世界。",
+            "narrator_zh": "EventSelectWindow/Panel/ScrollView/Viewport/ScrollContent/CellButton/Joken/Text_Joken"
+        },
+        {
+            "location": "185/UI",
+            "narrator": "EventSelectWindow/Panel/ScrollView/Viewport/ScrollContent/CellButton/Text_EventCateMain",
+            "text": "デイドラ",
+            "zh": "每日剧场",
+            "narrator_zh": "EventSelectWindow/Panel/ScrollView/Viewport/ScrollContent/CellButton/Text_EventCateMain"
+        },
+        {
+            "location": "186/UI",
+            "narrator": "EventSelectWindow/Panel/ScrollView/Viewport/ScrollContent/CellButton/Text_EventTitle",
+            "text": "コーヒーと牛乳の割合について",
+            "zh": "关于咖啡与牛奶的比例",
+            "narrator_zh": "EventSelectWindow/Panel/ScrollView/Viewport/ScrollContent/CellButton/Text_EventTitle"
+        },
+        {
+            "location": "187/UI",
+            "narrator": "EventSelectWindow/Panel/Tab1/Actives/TextA",
+            "text": "DAYS",
+            "zh": "DAYS",
+            "narrator_zh": "EventSelectWindow/Panel/Tab1/Actives/TextA"
+        },
+        {
+            "location": "188/UI",
+            "narrator": "EventSelectWindow/Panel/Tab1/Actives/TextB",
+            "text": "章替わり日常会話ログ",
+            "zh": "换章日常对话记录",
+            "narrator_zh": "EventSelectWindow/Panel/Tab1/Actives/TextB"
+        },
+        {
+            "location": "189/UI",
+            "narrator": "EventSelectWindow/Panel/Tab1/Sleeps/TextA",
+            "text": "DAYS",
+            "zh": "DAYS",
+            "narrator_zh": "EventSelectWindow/Panel/Tab1/Sleeps/TextA"
+        },
+        {
+            "location": "190/UI",
+            "narrator": "EventSelectWindow/Panel/Tab1/Sleeps/TextB",
+            "text": "章替わり日常会話ログ",
+            "zh": "换章日常对话记录",
+            "narrator_zh": "EventSelectWindow/Panel/Tab1/Sleeps/TextB"
+        },
+        {
+            "location": "191/UI",
+            "narrator": "EventSelectWindow/Panel/Tab2/Actives/TextA",
+            "text": "DRAMATICS",
+            "zh": "DRAMATICS",
+            "narrator_zh": "EventSelectWindow/Panel/Tab2/Actives/TextA"
+        },
+        {
+            "location": "192/UI",
+            "narrator": "EventSelectWindow/Panel/Tab2/Actives/TextB",
+            "text": "貴方と彼女の秘密ログ",
+            "zh": "你和她的秘密记录",
+            "narrator_zh": "EventSelectWindow/Panel/Tab2/Actives/TextB"
+        },
+        {
+            "location": "193/UI",
+            "narrator": "EventSelectWindow/Panel/Tab2/Sleeps/TextA",
+            "text": "DRAMATICS",
+            "zh": "DRAMATICS",
+            "narrator_zh": "EventSelectWindow/Panel/Tab2/Sleeps/TextA"
+        },
+        {
+            "location": "194/UI",
+            "narrator": "EventSelectWindow/Panel/Tab2/Sleeps/TextB",
+            "text": "貴方と彼女の秘密ログ",
+            "zh": "你和她的秘密记录",
+            "narrator_zh": "EventSelectWindow/Panel/Tab2/Sleeps/TextB"
+        },
+        {
+            "location": "195/UI",
+            "narrator": "EventSelectWindow/Panel/Title_CharaName",
+            "text": "TALK EVENT HISTORY.",
+            "zh": "TALK EVENT HISTORY.",
+            "narrator_zh": "EventSelectWindow/Panel/Title_CharaName"
+        },
+        {
+            "location": "196/UI",
+            "narrator": "EventSelectWindow/Panel/Title_Main",
+            "text": "EVENTLOG",
+            "zh": "EVENTLOG",
+            "narrator_zh": "EventSelectWindow/Panel/Title_Main"
+        }
+    ]
 }

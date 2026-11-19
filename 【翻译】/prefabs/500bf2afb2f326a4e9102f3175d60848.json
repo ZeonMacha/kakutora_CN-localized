@@ -1,485 +1,609 @@
 {
- "dir": "500bf2afb2f326a4e9102f3175d60848",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "383/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/AutoFormationButton/Text",
-   "text": "おまかせ",
-   "zh": "自动",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/AutoFormationButton/Text"
-  },
-  {
-   "location": "384/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/AutoFormationDialog/Button_CLOSE/Text",
-   "text": "閉じる",
-   "zh": "关闭",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/AutoFormationDialog/Button_CLOSE/Text"
-  },
-  {
-   "location": "385/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/AutoFormationDialog/Panel_TOP_BORDER/Text",
-   "text": "おまかせ編成",
-   "zh": "自动编成",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/AutoFormationDialog/Panel_TOP_BORDER/Text"
-  },
-  {
-   "location": "386/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/AutoFormationDialog/Panel_TOP_BORDER/Text_ENG",
-   "text": "AUTOMIZE"
-  },
-  {
-   "location": "387/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/DTapInfo/Text",
-   "text": "クランアイコンをタップで個別に入れ替えができます",
-   "zh": "点击库兰图标可以逐个替换",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/DTapInfo/Text"
-  },
-  {
-   "location": "388/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/DeckNum/Text",
-   "text": "Formation - "
-  },
-  {
-   "location": "389/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/EventSkill/EventPointBonus",
-   "text": "イベントポイント 0%アップ",
-   "zh": "活动点数提升 0%",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/EventSkill/EventPointBonus"
-  },
-  {
-   "location": "390/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/NextDeckButton/Text",
-   "text": "DECK2"
-  },
-  {
-   "location": "391/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/PANEL_Decision/Text",
-   "text": "決 定"
-  },
-  {
-   "location": "392/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Ayami/Text_Name",
-   "text": "國政綾水"
-  },
-  {
-   "location": "393/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Ayami/Text_Spell",
-   "text": "A y a m i  K u n i m a s a"
-  },
-  {
-   "location": "394/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Gabriella/Text_Name",
-   "text": "ガブリエラ",
-   "zh": "加布里埃拉",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Gabriella/Text_Name"
-  },
-  {
-   "location": "395/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Gabriella/Text_Spell",
-   "text": "G a b r i e l l a"
-  },
-  {
-   "location": "396/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Kagura/Text_Name",
-   "text": "卯月神楽"
-  },
-  {
-   "location": "397/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Kagura/Text_Spell",
-   "text": "K a g u r a  U z u k i"
-  },
-  {
-   "location": "398/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Miyabi/Text_Name",
-   "text": "恋ヶ崎みやび",
-   "zh": "恋之崎雅",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Miyabi/Text_Name"
-  },
-  {
-   "location": "399/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Miyabi/Text_Spell",
-   "text": "M i y a b i  K o i g a s a k i"
-  },
-  {
-   "location": "400/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Tsubame/Text_Name",
-   "text": "逢瀬つばめ",
-   "zh": "逢濑燕",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Tsubame/Text_Name"
-  },
-  {
-   "location": "401/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Tsubame/Text_Spell",
-   "text": "T s u b a m e  O u s e"
-  },
-  {
-   "location": "402/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/PrevDeckButton/Text",
-   "text": "DECK2"
-  },
-  {
-   "location": "403/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Processing/Text",
-   "text": "情報更新中"
-  },
-  {
-   "location": "404/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/SelfChooseButton/Text",
-   "text": "自分で選ぶ",
-   "zh": "自己选",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/SelfChooseButton/Text"
-  },
-  {
-   "location": "405/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/BackButton/Text",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/BackButton/Text"
-  },
-  {
-   "location": "406/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CharaName",
-   "text": "[PARTY   ]"
-  },
-  {
-   "location": "407/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "408/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "409/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "410/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "411/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "412/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "AYAMI KUNIMASA"
-  },
-  {
-   "location": "413/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/Panel_AssistSkill/Panel_Bottom/Text",
-   "text": "先手必勝"
-  },
-  {
-   "location": "414/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/Panel_AssistSkill/Panel_Top/Text",
-   "text": "A S S I S T  S K I L L"
-  },
-  {
-   "location": "415/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/Panel_Curans/Panel_TAB/Text_PRM_NAME",
-   "text": "COST"
-  },
-  {
-   "location": "416/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "417/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "418/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "419/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "420/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "421/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "GABRIELLA"
-  },
-  {
-   "location": "422/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/Panel_AssistSkill/Panel_Bottom/Text",
-   "text": "狙い撃ち",
-   "zh": "狙击",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/Panel_AssistSkill/Panel_Bottom/Text"
-  },
-  {
-   "location": "423/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/Panel_AssistSkill/Panel_Top/Text",
-   "text": "A S S I S T  S K I L L"
-  },
-  {
-   "location": "424/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/Panel_Curans/Panel_TAB/Text_PRM_NAME",
-   "text": "COST"
-  },
-  {
-   "location": "425/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "426/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "427/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "428/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "429/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "430/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "T S U B A M E  O U S E"
-  },
-  {
-   "location": "431/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/Panel_AssistSkill/Panel_Bottom/Text",
-   "text": "１２３４５６７８９０１２３４"
-  },
-  {
-   "location": "432/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/Panel_AssistSkill/Panel_Top/Text",
-   "text": "A S S I S T  S K I L L"
-  },
-  {
-   "location": "433/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/Panel_Curans/Panel_TAB/Text_PRM_NAME",
-   "text": "COST"
-  },
-  {
-   "location": "434/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "435/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "436/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "437/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "438/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "439/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "MIYABI KOIGASAKI"
-  },
-  {
-   "location": "440/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/Panel_AssistSkill/Panel_Bottom/Text",
-   "text": "エナジーバースト",
-   "zh": "能量爆发",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/Panel_AssistSkill/Panel_Bottom/Text"
-  },
-  {
-   "location": "441/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/Panel_AssistSkill/Panel_Top/Text",
-   "text": "A S S I S T  S K I L L"
-  },
-  {
-   "location": "442/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/Panel_Curans/Panel_TAB/Text_PRM_NAME",
-   "text": "COST"
-  },
-  {
-   "location": "443/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "444/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "445/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "446/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "447/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "448/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "TSUBAME  OHSE"
-  },
-  {
-   "location": "449/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/Panel_AssistSkill/Panel_Bottom/Text",
-   "text": "かばう",
-   "zh": "掩护",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/Panel_AssistSkill/Panel_Bottom/Text"
-  },
-  {
-   "location": "450/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/Panel_AssistSkill/Panel_Top/Text",
-   "text": "A S S I S T  S K I L L"
-  },
-  {
-   "location": "451/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/Panel_Curans/Panel_TAB/Text_PRM_NAME",
-   "text": "COST"
-  },
-  {
-   "location": "452/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/DeckNumber",
-   "text": "１"
-  },
-  {
-   "location": "453/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/TopPanel_/CharaName",
-   "text": "編成[パーティー   ]",
-   "zh": "编成[队伍   ]",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopPanel_/CharaName"
-  },
-  {
-   "location": "454/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12A/Panel/Message",
-   "text": "<color=green>【クラン編成】</color>は\n、貴方と共に\n戦うクランを選ぶ場所。\n\n今回は、最も簡単に、最強の\n布陣を作る方法を教える。",
-   "zh": "<color=green>【库兰编成】</color>\n是挑选与你一同\n战斗的库兰的地方。\n\n这次我教你最省事、最强的\n布阵方法。",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12A/Panel/Message"
-  },
-  {
-   "location": "455/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "456/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "457/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12B/Panel/Message",
-   "text": "<color=green>【おまかせ編成】</color>ボタンは\n今持っているクランの中から\n最強の組み合わせを自動で作る。\n\nこのボタンを押してみて。\n",
-   "zh": "<color=green>【自动编成】</color>按钮会\n从现有的库兰中\n自动组出最强的组合。\n\n按一下这个按钮试试。\n",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12B/Panel/Message"
-  },
-  {
-   "location": "458/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12B/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12B/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "459/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12B/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "460/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12C/Panel/Message",
-   "text": "組み合わせは、５つの中から\n好きなものを選べるけど、今回は\n<color=green>「ほどよいバランス編成」</color>を\n選んでみて。\n",
-   "zh": "组合可以从五个里\n选你喜欢的，这次\n先选<color=green>“均衡编成”</color>试试。\n\n",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12C/Panel/Message"
-  },
-  {
-   "location": "461/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12C/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12C/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "462/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12C/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "463/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12D/Panel/Message",
-   "text": "これで今後のバトルにも\n打ち勝てる強い布陣ができた。",
-   "zh": "这样一来，之后战斗也能\n取胜的强力布阵就完成了。",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12D/Panel/Message"
-  },
-  {
-   "location": "464/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12D/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12D/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "465/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12D/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "466/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12E/Panel/Message",
-   "text": "さて、これでだいたい\n全ての準備が整った感じ。\n\n一旦<color=green>【HOME】</color>に戻りましょ。\n",
-   "zh": "好了，这样大致上\n所有准备都齐了。\n\n先回<color=green>【HOME】</color>吧。\n",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12E/Panel/Message"
-  },
-  {
-   "location": "467/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12E/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12E/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "468/UI",
-   "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12E/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  }
- ]
+    "dir": "500bf2afb2f326a4e9102f3175d60848",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "383/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/AutoFormationButton/Text",
+            "text": "おまかせ",
+            "zh": "自动",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/AutoFormationButton/Text"
+        },
+        {
+            "location": "384/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/AutoFormationDialog/Button_CLOSE/Text",
+            "text": "閉じる",
+            "zh": "关闭",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/AutoFormationDialog/Button_CLOSE/Text"
+        },
+        {
+            "location": "385/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/AutoFormationDialog/Panel_TOP_BORDER/Text",
+            "text": "おまかせ編成",
+            "zh": "自动编成",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/AutoFormationDialog/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "386/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/AutoFormationDialog/Panel_TOP_BORDER/Text_ENG",
+            "text": "AUTOMIZE",
+            "zh": "AUTOMIZE",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/AutoFormationDialog/Panel_TOP_BORDER/Text_ENG"
+        },
+        {
+            "location": "387/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/DTapInfo/Text",
+            "text": "クランアイコンをタップで個別に入れ替えができます",
+            "zh": "点击库兰图标可以逐个替换",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/DTapInfo/Text"
+        },
+        {
+            "location": "388/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/DeckNum/Text",
+            "text": "Formation - ",
+            "zh": "Formation - ",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/DeckNum/Text"
+        },
+        {
+            "location": "389/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/EventSkill/EventPointBonus",
+            "text": "イベントポイント 0%アップ",
+            "zh": "活动点数提升 0%",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/EventSkill/EventPointBonus"
+        },
+        {
+            "location": "390/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/NextDeckButton/Text",
+            "text": "DECK2",
+            "zh": "DECK2",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/NextDeckButton/Text"
+        },
+        {
+            "location": "391/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/PANEL_Decision/Text",
+            "text": "決 定",
+            "zh": "确 定",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/PANEL_Decision/Text"
+        },
+        {
+            "location": "392/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Ayami/Text_Name",
+            "text": "國政綾水",
+            "zh": "国政绫水",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Ayami/Text_Name"
+        },
+        {
+            "location": "393/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Ayami/Text_Spell",
+            "text": "A y a m i  K u n i m a s a",
+            "zh": "A y a m i  K u n i m a s a",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Ayami/Text_Spell"
+        },
+        {
+            "location": "394/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Gabriella/Text_Name",
+            "text": "ガブリエラ",
+            "zh": "加布里埃拉",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Gabriella/Text_Name"
+        },
+        {
+            "location": "395/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Gabriella/Text_Spell",
+            "text": "G a b r i e l l a",
+            "zh": "G a b r i e l l a",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Gabriella/Text_Spell"
+        },
+        {
+            "location": "396/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Kagura/Text_Name",
+            "text": "卯月神楽",
+            "zh": "卯月神乐",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Kagura/Text_Name"
+        },
+        {
+            "location": "397/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Kagura/Text_Spell",
+            "text": "K a g u r a  U z u k i",
+            "zh": "K a g u r a  U z u k i",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Kagura/Text_Spell"
+        },
+        {
+            "location": "398/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Miyabi/Text_Name",
+            "text": "恋ヶ崎みやび",
+            "zh": "恋之崎雅",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Miyabi/Text_Name"
+        },
+        {
+            "location": "399/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Miyabi/Text_Spell",
+            "text": "M i y a b i  K o i g a s a k i",
+            "zh": "M i y a b i  K o i g a s a k i",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Miyabi/Text_Spell"
+        },
+        {
+            "location": "400/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Tsubame/Text_Name",
+            "text": "逢瀬つばめ",
+            "zh": "逢濑燕",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Tsubame/Text_Name"
+        },
+        {
+            "location": "401/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Tsubame/Text_Spell",
+            "text": "T s u b a m e  O u s e",
+            "zh": "T s u b a m e  O u s e",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Panel_CharaSelect/Panel_CharaSelectAll/Panel_Tsubame/Text_Spell"
+        },
+        {
+            "location": "402/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/PrevDeckButton/Text",
+            "text": "DECK2",
+            "zh": "DECK2",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/PrevDeckButton/Text"
+        },
+        {
+            "location": "403/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Processing/Text",
+            "text": "情報更新中",
+            "zh": "信息更新中",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Processing/Text"
+        },
+        {
+            "location": "404/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/SelfChooseButton/Text",
+            "text": "自分で選ぶ",
+            "zh": "自己选",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/SelfChooseButton/Text"
+        },
+        {
+            "location": "405/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/BackButton/Text",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/BackButton/Text"
+        },
+        {
+            "location": "406/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CharaName",
+            "text": "[PARTY   ]",
+            "zh": "[PARTY   ]",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CharaName"
+        },
+        {
+            "location": "407/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "408/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "409/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "410/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "411/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "412/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "AYAMI KUNIMASA",
+            "zh": "AYAMI KUNIMASA",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "413/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/Panel_AssistSkill/Panel_Bottom/Text",
+            "text": "先手必勝",
+            "zh": "先发制人",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/Panel_AssistSkill/Panel_Bottom/Text"
+        },
+        {
+            "location": "414/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/Panel_AssistSkill/Panel_Top/Text",
+            "text": "A S S I S T  S K I L L",
+            "zh": "A S S I S T  S K I L L",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/Panel_AssistSkill/Panel_Top/Text"
+        },
+        {
+            "location": "415/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/Panel_Curans/Panel_TAB/Text_PRM_NAME",
+            "text": "COST",
+            "zh": "COST",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_AYAMI_/Panel_Curans/Panel_TAB/Text_PRM_NAME"
+        },
+        {
+            "location": "416/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "417/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "418/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "419/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "420/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "421/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "GABRIELLA",
+            "zh": "GABRIELLA",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "422/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/Panel_AssistSkill/Panel_Bottom/Text",
+            "text": "狙い撃ち",
+            "zh": "狙击",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/Panel_AssistSkill/Panel_Bottom/Text"
+        },
+        {
+            "location": "423/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/Panel_AssistSkill/Panel_Top/Text",
+            "text": "A S S I S T  S K I L L",
+            "zh": "A S S I S T  S K I L L",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/Panel_AssistSkill/Panel_Top/Text"
+        },
+        {
+            "location": "424/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/Panel_Curans/Panel_TAB/Text_PRM_NAME",
+            "text": "COST",
+            "zh": "COST",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Gabriella_/Panel_Curans/Panel_TAB/Text_PRM_NAME"
+        },
+        {
+            "location": "425/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "426/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "427/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "428/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "429/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "430/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "T S U B A M E  O U S E",
+            "zh": "T S U B A M E  O U S E",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "431/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/Panel_AssistSkill/Panel_Bottom/Text",
+            "text": "１２３４５６７８９０１２３４",
+            "zh": "１２３４５６７８９０１２３４",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/Panel_AssistSkill/Panel_Bottom/Text"
+        },
+        {
+            "location": "432/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/Panel_AssistSkill/Panel_Top/Text",
+            "text": "A S S I S T  S K I L L",
+            "zh": "A S S I S T  S K I L L",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/Panel_AssistSkill/Panel_Top/Text"
+        },
+        {
+            "location": "433/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/Panel_Curans/Panel_TAB/Text_PRM_NAME",
+            "text": "COST",
+            "zh": "COST",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Kagura_/Panel_Curans/Panel_TAB/Text_PRM_NAME"
+        },
+        {
+            "location": "434/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "435/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "436/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "437/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "438/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "439/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "MIYABI KOIGASAKI",
+            "zh": "MIYABI KOIGASAKI",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "440/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/Panel_AssistSkill/Panel_Bottom/Text",
+            "text": "エナジーバースト",
+            "zh": "能量爆发",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/Panel_AssistSkill/Panel_Bottom/Text"
+        },
+        {
+            "location": "441/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/Panel_AssistSkill/Panel_Top/Text",
+            "text": "A S S I S T  S K I L L",
+            "zh": "A S S I S T  S K I L L",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/Panel_AssistSkill/Panel_Top/Text"
+        },
+        {
+            "location": "442/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/Panel_Curans/Panel_TAB/Text_PRM_NAME",
+            "text": "COST",
+            "zh": "COST",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_Miyabi_/Panel_Curans/Panel_TAB/Text_PRM_NAME"
+        },
+        {
+            "location": "443/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "444/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "445/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "446/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "447/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "448/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "TSUBAME  OHSE",
+            "zh": "TSUBAME  OHSE",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "449/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/Panel_AssistSkill/Panel_Bottom/Text",
+            "text": "かばう",
+            "zh": "掩护",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/Panel_AssistSkill/Panel_Bottom/Text"
+        },
+        {
+            "location": "450/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/Panel_AssistSkill/Panel_Top/Text",
+            "text": "A S S I S T  S K I L L",
+            "zh": "A S S I S T  S K I L L",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/Panel_AssistSkill/Panel_Top/Text"
+        },
+        {
+            "location": "451/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/Panel_Curans/Panel_TAB/Text_PRM_NAME",
+            "text": "COST",
+            "zh": "COST",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/CuranFormation_TSUBAME_/Panel_Curans/Panel_TAB/Text_PRM_NAME"
+        },
+        {
+            "location": "452/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/DeckNumber",
+            "text": "１",
+            "zh": "１",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopBar/Panel/DeckNumber"
+        },
+        {
+            "location": "453/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/TopPanel_/CharaName",
+            "text": "編成[パーティー   ]",
+            "zh": "编成[队伍   ]",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/TopPanel_/CharaName"
+        },
+        {
+            "location": "454/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12A/Panel/Message",
+            "text": "<color=green>【クラン編成】</color>は\n、貴方と共に\n戦うクランを選ぶ場所。\n\n今回は、最も簡単に、最強の\n布陣を作る方法を教える。",
+            "zh": "<color=green>【库兰编成】</color>\n是挑选与你一同\n战斗的库兰的地方。\n\n这次我教你最省事、最强的\n布阵方法。",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12A/Panel/Message"
+        },
+        {
+            "location": "455/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "456/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12A/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "457/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12B/Panel/Message",
+            "text": "<color=green>【おまかせ編成】</color>ボタンは\n今持っているクランの中から\n最強の組み合わせを自動で作る。\n\nこのボタンを押してみて。\n",
+            "zh": "<color=green>【自动编成】</color>按钮会\n从现有的库兰中\n自动组出最强的组合。\n\n按一下这个按钮试试。\n",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12B/Panel/Message"
+        },
+        {
+            "location": "458/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12B/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12B/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "459/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12B/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12B/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "460/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12C/Panel/Message",
+            "text": "組み合わせは、５つの中から\n好きなものを選べるけど、今回は\n<color=green>「ほどよいバランス編成」</color>を\n選んでみて。\n",
+            "zh": "组合可以从五个里\n选你喜欢的，这次\n先选<color=green>“均衡编成”</color>试试。\n\n",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12C/Panel/Message"
+        },
+        {
+            "location": "461/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12C/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12C/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "462/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12C/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12C/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "463/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12D/Panel/Message",
+            "text": "これで今後のバトルにも\n打ち勝てる強い布陣ができた。",
+            "zh": "这样一来，之后战斗也能\n取胜的强力布阵就完成了。",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12D/Panel/Message"
+        },
+        {
+            "location": "464/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12D/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12D/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "465/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12D/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12D/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "466/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12E/Panel/Message",
+            "text": "さて、これでだいたい\n全ての準備が整った感じ。\n\n一旦<color=green>【HOME】</color>に戻りましょ。\n",
+            "zh": "好了，这样大致上\n所有准备都齐了。\n\n先回<color=green>【HOME】</color>吧。\n",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12E/Panel/Message"
+        },
+        {
+            "location": "467/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12E/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12E/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "468/UI",
+            "narrator": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12E/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "CuranFormationMenuCanvas2/Panel/Tutorial/TutorialCuran12E/Panel/PicArea/RightButton/TextOK"
+        }
+    ]
 }

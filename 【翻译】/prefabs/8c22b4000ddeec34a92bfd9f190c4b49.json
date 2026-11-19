@@ -1,118 +1,126 @@
 {
- "dir": "8c22b4000ddeec34a92bfd9f190c4b49",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "3/UI",
-   "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/ChatEndItem/Balloon/Text",
-   "text": "【アーヤ】さんが\nログアウトしました。",
-   "zh": "【绫水】\n已登出。",
-   "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/ChatEndItem/Balloon/Text"
-  },
-  {
-   "location": "4/UI",
-   "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/Item/Content/Balloon/Text",
-   "text": "画像の配置は上にしまし\nた。この方がレイアウト\nが自然になる為です。",
-   "zh": "图片已经往上移了。\n这样排版\n看起来更自然。",
-   "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/Item/Content/Balloon/Text"
-  },
-  {
-   "location": "5/UI",
-   "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/Item/Content/CharacterName",
-   "text": "TSUBAME WROTE..."
-  },
-  {
-   "location": "6/UI",
-   "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/MyItem/Content/Balloon/Text",
-   "text": "プレイヤーの発言",
-   "zh": "玩家的发言",
-   "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/MyItem/Content/Balloon/Text"
-  },
-  {
-   "location": "7/UI",
-   "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/MyItem/Content/CharacterName",
-   "text": "YOU WROTE..."
-  },
-  {
-   "location": "8/UI",
-   "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PleaseSelectItem/Balloon/HelpText",
-   "text": "パレットからアイテムを\n選択して下さい。",
-   "zh": "请从调色板\n选择道具。",
-   "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PleaseSelectItem/Balloon/HelpText"
-  },
-  {
-   "location": "9/UI",
-   "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentCostumeConfirm/Content/DescriptionText",
-   "text": "カフェデートに誘える。",
-   "zh": "可以邀请她去咖啡厅约会。",
-   "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PresentCostumeConfirm/Content/DescriptionText"
-  },
-  {
-   "location": "10/UI",
-   "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentCostumeConfirm/Content/ItemNameText",
-   "text": "ポコポコパン",
-   "zh": "砰砰面包",
-   "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PresentCostumeConfirm/Content/ItemNameText"
-  },
-  {
-   "location": "11/UI",
-   "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentItemConfirm/Content/DescriptionText",
-   "text": "カフェデートに誘える。",
-   "zh": "可以邀请她去咖啡厅约会。",
-   "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PresentItemConfirm/Content/DescriptionText"
-  },
-  {
-   "location": "12/UI",
-   "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentItemConfirm/Content/ItemNameText",
-   "text": "ポコポコパン",
-   "zh": "砰砰面包",
-   "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PresentItemConfirm/Content/ItemNameText"
-  },
-  {
-   "location": "13/UI",
-   "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentItemConfirm/Content/Propaties/HasCountStaticText",
-   "text": "所持数："
-  },
-  {
-   "location": "14/UI",
-   "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentItemConfirm/Content/Propaties/NeedCountStaticText",
-   "text": "必要数："
-  },
-  {
-   "location": "15/UI",
-   "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentedCostume/Balloon/ItemNameText",
-   "text": "ポコポコパンを贈りました。",
-   "zh": "送出了砰砰面包。",
-   "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PresentedCostume/Balloon/ItemNameText"
-  },
-  {
-   "location": "16/UI",
-   "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentedItem/Balloon/Text/ItemNameText",
-   "text": "ポコポコパン",
-   "zh": "砰砰面包",
-   "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PresentedItem/Balloon/Text/ItemNameText"
-  },
-  {
-   "location": "17/UI",
-   "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentedItem/Balloon/Text/StaticText",
-   "text": "を贈りました。",
-   "zh": "送出了礼物。",
-   "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PresentedItem/Balloon/Text/StaticText"
-  },
-  {
-   "location": "18/UI",
-   "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/SystemItem/Balloon/Text",
-   "text": "システムメッセージは\nこんな感じでセンタリングして入ります。",
-   "zh": "系统消息会像这样\n居中显示。",
-   "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/SystemItem/Balloon/Text"
-  },
-  {
-   "location": "49/UI",
-   "narrator": "ChatWindow/TopBar/CharaName",
-   "text": "アーヤ",
-   "zh": "绫水",
-   "narrator_zh": "ChatWindow/TopBar/CharaName"
-  }
- ]
+    "dir": "8c22b4000ddeec34a92bfd9f190c4b49",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "3/UI",
+            "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/ChatEndItem/Balloon/Text",
+            "text": "【アーヤ】さんが\nログアウトしました。",
+            "zh": "【绫水】\n已登出。",
+            "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/ChatEndItem/Balloon/Text"
+        },
+        {
+            "location": "4/UI",
+            "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/Item/Content/Balloon/Text",
+            "text": "画像の配置は上にしまし\nた。この方がレイアウト\nが自然になる為です。",
+            "zh": "图片已经往上移了。\n这样排版\n看起来更自然。",
+            "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/Item/Content/Balloon/Text"
+        },
+        {
+            "location": "5/UI",
+            "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/Item/Content/CharacterName",
+            "text": "TSUBAME WROTE...",
+            "zh": "TSUBAME WROTE...",
+            "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/Item/Content/CharacterName"
+        },
+        {
+            "location": "6/UI",
+            "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/MyItem/Content/Balloon/Text",
+            "text": "プレイヤーの発言",
+            "zh": "玩家的发言",
+            "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/MyItem/Content/Balloon/Text"
+        },
+        {
+            "location": "7/UI",
+            "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/MyItem/Content/CharacterName",
+            "text": "YOU WROTE...",
+            "zh": "YOU WROTE...",
+            "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/MyItem/Content/CharacterName"
+        },
+        {
+            "location": "8/UI",
+            "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PleaseSelectItem/Balloon/HelpText",
+            "text": "パレットからアイテムを\n選択して下さい。",
+            "zh": "请从调色板\n选择道具。",
+            "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PleaseSelectItem/Balloon/HelpText"
+        },
+        {
+            "location": "9/UI",
+            "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentCostumeConfirm/Content/DescriptionText",
+            "text": "カフェデートに誘える。",
+            "zh": "可以邀请她去咖啡厅约会。",
+            "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PresentCostumeConfirm/Content/DescriptionText"
+        },
+        {
+            "location": "10/UI",
+            "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentCostumeConfirm/Content/ItemNameText",
+            "text": "ポコポコパン",
+            "zh": "砰砰面包",
+            "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PresentCostumeConfirm/Content/ItemNameText"
+        },
+        {
+            "location": "11/UI",
+            "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentItemConfirm/Content/DescriptionText",
+            "text": "カフェデートに誘える。",
+            "zh": "可以邀请她去咖啡厅约会。",
+            "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PresentItemConfirm/Content/DescriptionText"
+        },
+        {
+            "location": "12/UI",
+            "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentItemConfirm/Content/ItemNameText",
+            "text": "ポコポコパン",
+            "zh": "砰砰面包",
+            "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PresentItemConfirm/Content/ItemNameText"
+        },
+        {
+            "location": "13/UI",
+            "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentItemConfirm/Content/Propaties/HasCountStaticText",
+            "text": "所持数：",
+            "zh": "持有数：",
+            "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PresentItemConfirm/Content/Propaties/HasCountStaticText"
+        },
+        {
+            "location": "14/UI",
+            "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentItemConfirm/Content/Propaties/NeedCountStaticText",
+            "text": "必要数：",
+            "zh": "需要数：",
+            "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PresentItemConfirm/Content/Propaties/NeedCountStaticText"
+        },
+        {
+            "location": "15/UI",
+            "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentedCostume/Balloon/ItemNameText",
+            "text": "ポコポコパンを贈りました。",
+            "zh": "送出了砰砰面包。",
+            "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PresentedCostume/Balloon/ItemNameText"
+        },
+        {
+            "location": "16/UI",
+            "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentedItem/Balloon/Text/ItemNameText",
+            "text": "ポコポコパン",
+            "zh": "砰砰面包",
+            "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PresentedItem/Balloon/Text/ItemNameText"
+        },
+        {
+            "location": "17/UI",
+            "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/PresentedItem/Balloon/Text/StaticText",
+            "text": "を贈りました。",
+            "zh": "送出了礼物。",
+            "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/PresentedItem/Balloon/Text/StaticText"
+        },
+        {
+            "location": "18/UI",
+            "narrator": "ChatWindow/Panel/Scroll View/ScrollContent/SystemItem/Balloon/Text",
+            "text": "システムメッセージは\nこんな感じでセンタリングして入ります。",
+            "zh": "系统消息会像这样\n居中显示。",
+            "narrator_zh": "ChatWindow/Panel/Scroll View/ScrollContent/SystemItem/Balloon/Text"
+        },
+        {
+            "location": "49/UI",
+            "narrator": "ChatWindow/TopBar/CharaName",
+            "text": "アーヤ",
+            "zh": "绫水",
+            "narrator_zh": "ChatWindow/TopBar/CharaName"
+        }
+    ]
 }

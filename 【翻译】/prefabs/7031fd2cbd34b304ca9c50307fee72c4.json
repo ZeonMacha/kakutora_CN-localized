@@ -1,90 +1,112 @@
 {
- "dir": "7031fd2cbd34b304ca9c50307fee72c4",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "163/UI",
-   "narrator": "EventInfoDialog/Panel/BackButton/Text",
-   "text": "OK"
-  },
-  {
-   "location": "164/UI",
-   "narrator": "EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/CompleteRatio/text",
-   "text": "Open : "
-  },
-  {
-   "location": "165/UI",
-   "narrator": "EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/EpisodeText",
-   "text": "ダイ・ハード",
-   "zh": "虎胆龙威",
-   "narrator_zh": "EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/EpisodeText"
-  },
-  {
-   "location": "166/UI",
-   "narrator": "EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/KazariText",
-   "text": "Argumented reality girls\nTRINARY.\n"
-  },
-  {
-   "location": "167/UI",
-   "narrator": "EventInfoDialog/Panel/EventPoint/Evp/pts",
-   "text": "pts."
-  },
-  {
-   "location": "168/UI",
-   "narrator": "EventInfoDialog/Panel/EventPoint/Title/Text",
-   "text": "現在の獲得イベントポイント",
-   "zh": "当前活动点数",
-   "narrator_zh": "EventInfoDialog/Panel/EventPoint/Title/Text"
-  },
-  {
-   "location": "169/UI",
-   "narrator": "EventInfoDialog/Panel/InfoButtonL/disable/Text",
-   "text": "イベント概要",
-   "zh": "活动概要",
-   "narrator_zh": "EventInfoDialog/Panel/InfoButtonL/disable/Text"
-  },
-  {
-   "location": "170/UI",
-   "narrator": "EventInfoDialog/Panel/InfoButtonL/disable/TextSub",
-   "text": "EVENT INFORMATION."
-  },
-  {
-   "location": "171/UI",
-   "narrator": "EventInfoDialog/Panel/InfoButtonL/enable/Text",
-   "text": "イベント概要",
-   "zh": "活动概要",
-   "narrator_zh": "EventInfoDialog/Panel/InfoButtonL/enable/Text"
-  },
-  {
-   "location": "172/UI",
-   "narrator": "EventInfoDialog/Panel/InfoButtonL/enable/TextSub",
-   "text": "EVENT INFORMATION."
-  },
-  {
-   "location": "173/UI",
-   "narrator": "EventInfoDialog/Panel/InfoButtonR/disable/Text",
-   "text": "報酬一覧"
-  },
-  {
-   "location": "174/UI",
-   "narrator": "EventInfoDialog/Panel/InfoButtonR/disable/TextSub",
-   "text": "REWORD INFORMATION."
-  },
-  {
-   "location": "175/UI",
-   "narrator": "EventInfoDialog/Panel/InfoButtonR/enable/Text",
-   "text": "報酬一覧"
-  },
-  {
-   "location": "176/UI",
-   "narrator": "EventInfoDialog/Panel/InfoButtonR/enable/TextSub",
-   "text": "REWORD INFORMATION."
-  },
-  {
-   "location": "177/UI",
-   "narrator": "EventInfoDialog/Panel/design/Title",
-   "text": "I N F O R M A T I O N"
-  }
- ]
+    "dir": "7031fd2cbd34b304ca9c50307fee72c4",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "163/UI",
+            "narrator": "EventInfoDialog/Panel/BackButton/Text",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "EventInfoDialog/Panel/BackButton/Text"
+        },
+        {
+            "location": "164/UI",
+            "narrator": "EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/CompleteRatio/text",
+            "text": "Open : ",
+            "zh": "Open : ",
+            "narrator_zh": "EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/CompleteRatio/text"
+        },
+        {
+            "location": "165/UI",
+            "narrator": "EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/EpisodeText",
+            "text": "ダイ・ハード",
+            "zh": "虎胆龙威",
+            "narrator_zh": "EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/EpisodeText"
+        },
+        {
+            "location": "166/UI",
+            "narrator": "EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/KazariText",
+            "text": "Argumented reality girls\nTRINARY.\n",
+            "zh": "Argumented reality girls\nTRINARY.\n",
+            "narrator_zh": "EventInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/KazariText"
+        },
+        {
+            "location": "167/UI",
+            "narrator": "EventInfoDialog/Panel/EventPoint/Evp/pts",
+            "text": "pts.",
+            "zh": "pts.",
+            "narrator_zh": "EventInfoDialog/Panel/EventPoint/Evp/pts"
+        },
+        {
+            "location": "168/UI",
+            "narrator": "EventInfoDialog/Panel/EventPoint/Title/Text",
+            "text": "現在の獲得イベントポイント",
+            "zh": "当前活动点数",
+            "narrator_zh": "EventInfoDialog/Panel/EventPoint/Title/Text"
+        },
+        {
+            "location": "169/UI",
+            "narrator": "EventInfoDialog/Panel/InfoButtonL/disable/Text",
+            "text": "イベント概要",
+            "zh": "活动概要",
+            "narrator_zh": "EventInfoDialog/Panel/InfoButtonL/disable/Text"
+        },
+        {
+            "location": "170/UI",
+            "narrator": "EventInfoDialog/Panel/InfoButtonL/disable/TextSub",
+            "text": "EVENT INFORMATION.",
+            "zh": "EVENT INFORMATION.",
+            "narrator_zh": "EventInfoDialog/Panel/InfoButtonL/disable/TextSub"
+        },
+        {
+            "location": "171/UI",
+            "narrator": "EventInfoDialog/Panel/InfoButtonL/enable/Text",
+            "text": "イベント概要",
+            "zh": "活动概要",
+            "narrator_zh": "EventInfoDialog/Panel/InfoButtonL/enable/Text"
+        },
+        {
+            "location": "172/UI",
+            "narrator": "EventInfoDialog/Panel/InfoButtonL/enable/TextSub",
+            "text": "EVENT INFORMATION.",
+            "zh": "EVENT INFORMATION.",
+            "narrator_zh": "EventInfoDialog/Panel/InfoButtonL/enable/TextSub"
+        },
+        {
+            "location": "173/UI",
+            "narrator": "EventInfoDialog/Panel/InfoButtonR/disable/Text",
+            "text": "報酬一覧",
+            "zh": "报酬一览",
+            "narrator_zh": "EventInfoDialog/Panel/InfoButtonR/disable/Text"
+        },
+        {
+            "location": "174/UI",
+            "narrator": "EventInfoDialog/Panel/InfoButtonR/disable/TextSub",
+            "text": "REWORD INFORMATION.",
+            "zh": "REWORD INFORMATION.",
+            "narrator_zh": "EventInfoDialog/Panel/InfoButtonR/disable/TextSub"
+        },
+        {
+            "location": "175/UI",
+            "narrator": "EventInfoDialog/Panel/InfoButtonR/enable/Text",
+            "text": "報酬一覧",
+            "zh": "报酬一览",
+            "narrator_zh": "EventInfoDialog/Panel/InfoButtonR/enable/Text"
+        },
+        {
+            "location": "176/UI",
+            "narrator": "EventInfoDialog/Panel/InfoButtonR/enable/TextSub",
+            "text": "REWORD INFORMATION.",
+            "zh": "REWORD INFORMATION.",
+            "narrator_zh": "EventInfoDialog/Panel/InfoButtonR/enable/TextSub"
+        },
+        {
+            "location": "177/UI",
+            "narrator": "EventInfoDialog/Panel/design/Title",
+            "text": "I N F O R M A T I O N",
+            "zh": "I N F O R M A T I O N",
+            "narrator_zh": "EventInfoDialog/Panel/design/Title"
+        }
+    ]
 }

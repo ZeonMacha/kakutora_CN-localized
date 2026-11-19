@@ -1,134 +1,154 @@
 {
- "dir": "c4f9933e7c58271408979df85573ae83",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "282/UI",
-   "narrator": "PointGachaWindow/Background/Loading/Loading/Text",
-   "text": "N O W   L O A D I N G . . ."
-  },
-  {
-   "location": "283/UI",
-   "narrator": "PointGachaWindow/Background/Loading/Tips/Text",
-   "text": "G A C H A   L I S T"
-  },
-  {
-   "location": "284/UI",
-   "narrator": "PointGachaWindow/Panel/GachaList/Buy/BuyJewel/MainText",
-   "text": "ジュエルを購入する",
-   "zh": "购买珠宝",
-   "narrator_zh": "PointGachaWindow/Panel/GachaList/Buy/BuyJewel/MainText"
-  },
-  {
-   "location": "285/UI",
-   "narrator": "PointGachaWindow/Panel/GachaList/Buy/BuyJewel/SubText",
-   "text": "G  E  T    J  E  W  E  L"
-  },
-  {
-   "location": "286/UI",
-   "narrator": "PointGachaWindow/Panel/GachaList/Buy/Shikinkessai/Text",
-   "text": "資金決済法第13条に基づく表示",
-   "zh": "依据资金结算法第13条的标示",
-   "narrator_zh": "PointGachaWindow/Panel/GachaList/Buy/Shikinkessai/Text"
-  },
-  {
-   "location": "287/UI",
-   "narrator": "PointGachaWindow/Panel/GachaList/Buy/Shyoutorihiki/Text",
-   "text": "特定商取引法に基づく表示",
-   "zh": "基于《特定商业交易法》的标注",
-   "narrator_zh": "PointGachaWindow/Panel/GachaList/Buy/Shyoutorihiki/Text"
-  },
-  {
-   "location": "288/UI",
-   "narrator": "PointGachaWindow/Panel/GachaList/Point/Panel/BackButton/Text",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "PointGachaWindow/Panel/GachaList/Point/Panel/BackButton/Text"
-  },
-  {
-   "location": "289/UI",
-   "narrator": "PointGachaWindow/Panel/GachaList/Point/Panel/ClanGachaButton/Text",
-   "text": "サーバントクランガチャ",
-   "zh": "从属库兰扭蛋",
-   "narrator_zh": "PointGachaWindow/Panel/GachaList/Point/Panel/ClanGachaButton/Text"
-  },
-  {
-   "location": "290/UI",
-   "narrator": "PointGachaWindow/Panel/GachaList/Point/Panel/CuranPoint/Text",
-   "text": "所持クランポイント：",
-   "zh": "持有库兰点数：",
-   "narrator_zh": "PointGachaWindow/Panel/GachaList/Point/Panel/CuranPoint/Text"
-  },
-  {
-   "location": "291/UI",
-   "narrator": "PointGachaWindow/Panel/GachaList/Point/Panel/PointGachaButton/Text",
-   "text": "クランポイントガチャ",
-   "zh": "库兰点数扭蛋",
-   "narrator_zh": "PointGachaWindow/Panel/GachaList/Point/Panel/PointGachaButton/Text"
-  },
-  {
-   "location": "292/UI",
-   "narrator": "PointGachaWindow/Panel/GachaList/Point/Panel/TitleMain",
-   "text": "クランポイントガチャガチャ",
-   "zh": "库兰点数扭蛋",
-   "narrator_zh": "PointGachaWindow/Panel/GachaList/Point/Panel/TitleMain"
-  },
-  {
-   "location": "293/UI",
-   "narrator": "PointGachaWindow/Panel/GachaList/Point/Panel/TitleSub/Text",
-   "text": "C U R A N   P O I N T   G A C H A"
-  },
-  {
-   "location": "294/UI",
-   "narrator": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/ButtonKakunin/Text",
-   "text": "内容確認"
-  },
-  {
-   "location": "295/UI",
-   "narrator": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/Gacha01/Point/PointWaku/x",
-   "text": "×"
-  },
-  {
-   "location": "296/UI",
-   "narrator": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/Gacha01/Point/PointWakuFree/Text",
-   "text": "無料"
-  },
-  {
-   "location": "297/UI",
-   "narrator": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/Gacha01/Text2",
-   "text": "回引く",
-   "zh": "次",
-   "narrator_zh": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/Gacha01/Text2"
-  },
-  {
-   "location": "298/UI",
-   "narrator": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/Gacha10/Point/PointWaku/x",
-   "text": "×"
-  },
-  {
-   "location": "299/UI",
-   "narrator": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/Gacha10/Text2",
-   "text": "回引く",
-   "zh": "次",
-   "narrator_zh": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/Gacha10/Text2"
-  },
-  {
-   "location": "300/UI",
-   "narrator": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/TextInfo",
-   "text": "ダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストです\n",
-   "zh": "这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本\n",
-   "narrator_zh": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/TextInfo"
-  },
-  {
-   "location": "301/UI",
-   "narrator": "PointGachaWindow/Panel/Loading/Tips/Text",
-   "text": "GACHA DATA LOADING."
-  },
-  {
-   "location": "302/UI",
-   "narrator": "PointGachaWindow/Panel/Processing/Text",
-   "text": "処理中"
-  }
- ]
+    "dir": "c4f9933e7c58271408979df85573ae83",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "282/UI",
+            "narrator": "PointGachaWindow/Background/Loading/Loading/Text",
+            "text": "N O W   L O A D I N G . . .",
+            "zh": "N O W   L O A D I N G . . .",
+            "narrator_zh": "PointGachaWindow/Background/Loading/Loading/Text"
+        },
+        {
+            "location": "283/UI",
+            "narrator": "PointGachaWindow/Background/Loading/Tips/Text",
+            "text": "G A C H A   L I S T",
+            "zh": "G A C H A   L I S T",
+            "narrator_zh": "PointGachaWindow/Background/Loading/Tips/Text"
+        },
+        {
+            "location": "284/UI",
+            "narrator": "PointGachaWindow/Panel/GachaList/Buy/BuyJewel/MainText",
+            "text": "ジュエルを購入する",
+            "zh": "购买珠宝",
+            "narrator_zh": "PointGachaWindow/Panel/GachaList/Buy/BuyJewel/MainText"
+        },
+        {
+            "location": "285/UI",
+            "narrator": "PointGachaWindow/Panel/GachaList/Buy/BuyJewel/SubText",
+            "text": "G  E  T    J  E  W  E  L",
+            "zh": "G  E  T    J  E  W  E  L",
+            "narrator_zh": "PointGachaWindow/Panel/GachaList/Buy/BuyJewel/SubText"
+        },
+        {
+            "location": "286/UI",
+            "narrator": "PointGachaWindow/Panel/GachaList/Buy/Shikinkessai/Text",
+            "text": "資金決済法第13条に基づく表示",
+            "zh": "依据资金结算法第13条的标示",
+            "narrator_zh": "PointGachaWindow/Panel/GachaList/Buy/Shikinkessai/Text"
+        },
+        {
+            "location": "287/UI",
+            "narrator": "PointGachaWindow/Panel/GachaList/Buy/Shyoutorihiki/Text",
+            "text": "特定商取引法に基づく表示",
+            "zh": "基于《特定商业交易法》的标注",
+            "narrator_zh": "PointGachaWindow/Panel/GachaList/Buy/Shyoutorihiki/Text"
+        },
+        {
+            "location": "288/UI",
+            "narrator": "PointGachaWindow/Panel/GachaList/Point/Panel/BackButton/Text",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "PointGachaWindow/Panel/GachaList/Point/Panel/BackButton/Text"
+        },
+        {
+            "location": "289/UI",
+            "narrator": "PointGachaWindow/Panel/GachaList/Point/Panel/ClanGachaButton/Text",
+            "text": "サーバントクランガチャ",
+            "zh": "从属库兰扭蛋",
+            "narrator_zh": "PointGachaWindow/Panel/GachaList/Point/Panel/ClanGachaButton/Text"
+        },
+        {
+            "location": "290/UI",
+            "narrator": "PointGachaWindow/Panel/GachaList/Point/Panel/CuranPoint/Text",
+            "text": "所持クランポイント：",
+            "zh": "持有库兰点数：",
+            "narrator_zh": "PointGachaWindow/Panel/GachaList/Point/Panel/CuranPoint/Text"
+        },
+        {
+            "location": "291/UI",
+            "narrator": "PointGachaWindow/Panel/GachaList/Point/Panel/PointGachaButton/Text",
+            "text": "クランポイントガチャ",
+            "zh": "库兰点数扭蛋",
+            "narrator_zh": "PointGachaWindow/Panel/GachaList/Point/Panel/PointGachaButton/Text"
+        },
+        {
+            "location": "292/UI",
+            "narrator": "PointGachaWindow/Panel/GachaList/Point/Panel/TitleMain",
+            "text": "クランポイントガチャガチャ",
+            "zh": "库兰点数扭蛋",
+            "narrator_zh": "PointGachaWindow/Panel/GachaList/Point/Panel/TitleMain"
+        },
+        {
+            "location": "293/UI",
+            "narrator": "PointGachaWindow/Panel/GachaList/Point/Panel/TitleSub/Text",
+            "text": "C U R A N   P O I N T   G A C H A",
+            "zh": "C U R A N   P O I N T   G A C H A",
+            "narrator_zh": "PointGachaWindow/Panel/GachaList/Point/Panel/TitleSub/Text"
+        },
+        {
+            "location": "294/UI",
+            "narrator": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/ButtonKakunin/Text",
+            "text": "内容確認",
+            "zh": "确认内容",
+            "narrator_zh": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/ButtonKakunin/Text"
+        },
+        {
+            "location": "295/UI",
+            "narrator": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/Gacha01/Point/PointWaku/x",
+            "text": "×",
+            "zh": "×",
+            "narrator_zh": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/Gacha01/Point/PointWaku/x"
+        },
+        {
+            "location": "296/UI",
+            "narrator": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/Gacha01/Point/PointWakuFree/Text",
+            "text": "無料",
+            "zh": "免费",
+            "narrator_zh": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/Gacha01/Point/PointWakuFree/Text"
+        },
+        {
+            "location": "297/UI",
+            "narrator": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/Gacha01/Text2",
+            "text": "回引く",
+            "zh": "次",
+            "narrator_zh": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/Gacha01/Text2"
+        },
+        {
+            "location": "298/UI",
+            "narrator": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/Gacha10/Point/PointWaku/x",
+            "text": "×",
+            "zh": "×",
+            "narrator_zh": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/Gacha10/Point/PointWaku/x"
+        },
+        {
+            "location": "299/UI",
+            "narrator": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/Gacha10/Text2",
+            "text": "回引く",
+            "zh": "次",
+            "narrator_zh": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/Gacha10/Text2"
+        },
+        {
+            "location": "300/UI",
+            "narrator": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/TextInfo",
+            "text": "ダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストですダミーテキストです\n",
+            "zh": "这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本这是占位文本\n",
+            "narrator_zh": "PointGachaWindow/Panel/GachaList/Scroll View/Viewport/Content/Bannar/TextInfo"
+        },
+        {
+            "location": "301/UI",
+            "narrator": "PointGachaWindow/Panel/Loading/Tips/Text",
+            "text": "GACHA DATA LOADING.",
+            "zh": "GACHA DATA LOADING.",
+            "narrator_zh": "PointGachaWindow/Panel/Loading/Tips/Text"
+        },
+        {
+            "location": "302/UI",
+            "narrator": "PointGachaWindow/Panel/Processing/Text",
+            "text": "処理中",
+            "zh": "处理中",
+            "narrator_zh": "PointGachaWindow/Panel/Processing/Text"
+        }
+    ]
 }

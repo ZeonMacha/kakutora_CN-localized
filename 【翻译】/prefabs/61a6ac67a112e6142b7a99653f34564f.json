@@ -1,43 +1,49 @@
 {
- "dir": "61a6ac67a112e6142b7a99653f34564f",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "52/UI",
-   "narrator": "NetErrorDialog/Panel/Button/CloseButton/TextOK",
-   "text": "再起動"
-  },
-  {
-   "location": "53/UI",
-   "narrator": "NetErrorDialog/Panel/Button/RetryButton/TextOK",
-   "text": "リトライ",
-   "zh": "重试",
-   "narrator_zh": "NetErrorDialog/Panel/Button/RetryButton/TextOK"
-  },
-  {
-   "location": "54/UI",
-   "narrator": "NetErrorDialog/Panel/Button/StoreButton/TextOK",
-   "text": "更新する",
-   "zh": "更新",
-   "narrator_zh": "NetErrorDialog/Panel/Button/StoreButton/TextOK"
-  },
-  {
-   "location": "55/UI",
-   "narrator": "NetErrorDialog/Panel/Message",
-   "text": "不正なシナリオ処理が行われました。\n<size=20>(aaaaaaaa)</size>",
-   "zh": "检测到非法的剧本处理。\n<size=20>(aaaaaaaa)</size>",
-   "narrator_zh": "NetErrorDialog/Panel/Message"
-  },
-  {
-   "location": "56/UI",
-   "narrator": "NetErrorDialog/Panel/Message/BackFace/Text",
-   "text": "ALERT\n\nFROM  TRIGADGET"
-  },
-  {
-   "location": "57/UI",
-   "narrator": "NetErrorDialog/Panel/Title",
-   "text": "ErrorCode:201"
-  }
- ]
+    "dir": "61a6ac67a112e6142b7a99653f34564f",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "52/UI",
+            "narrator": "NetErrorDialog/Panel/Button/CloseButton/TextOK",
+            "text": "再起動",
+            "zh": "重启",
+            "narrator_zh": "NetErrorDialog/Panel/Button/CloseButton/TextOK"
+        },
+        {
+            "location": "53/UI",
+            "narrator": "NetErrorDialog/Panel/Button/RetryButton/TextOK",
+            "text": "リトライ",
+            "zh": "重试",
+            "narrator_zh": "NetErrorDialog/Panel/Button/RetryButton/TextOK"
+        },
+        {
+            "location": "54/UI",
+            "narrator": "NetErrorDialog/Panel/Button/StoreButton/TextOK",
+            "text": "更新する",
+            "zh": "更新",
+            "narrator_zh": "NetErrorDialog/Panel/Button/StoreButton/TextOK"
+        },
+        {
+            "location": "55/UI",
+            "narrator": "NetErrorDialog/Panel/Message",
+            "text": "不正なシナリオ処理が行われました。\n<size=20>(aaaaaaaa)</size>",
+            "zh": "检测到非法的剧本处理。\n<size=20>(aaaaaaaa)</size>",
+            "narrator_zh": "NetErrorDialog/Panel/Message"
+        },
+        {
+            "location": "56/UI",
+            "narrator": "NetErrorDialog/Panel/Message/BackFace/Text",
+            "text": "ALERT\n\nFROM  TRIGADGET",
+            "zh": "ALERT\n\nFROM  TRIGADGET",
+            "narrator_zh": "NetErrorDialog/Panel/Message/BackFace/Text"
+        },
+        {
+            "location": "57/UI",
+            "narrator": "NetErrorDialog/Panel/Title",
+            "text": "ErrorCode:201",
+            "zh": "ErrorCode:201",
+            "narrator_zh": "NetErrorDialog/Panel/Title"
+        }
+    ]
 }

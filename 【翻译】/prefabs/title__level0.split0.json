@@ -1,239 +1,273 @@
 {
- "dir": "level0.split0",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "9/UI",
-   "narrator": "Canvas/Attention_StartGame/Text_Main",
-   "text": "このアプリは無料でプレイできますが\nアイテムの購入・サービス利用のために\nジュエルを有料にてご購入いただく\nことがございます。\n\n未成年者の方がご購入される場合は\n保護者の同意が必要です。",
-   "zh": "本应用可以免费游玩，\n但为了购买道具、使用服务，\n可能会请你付费购买\n珠宝。\n\n未成年人购买时，\n需要监护人同意。",
-   "narrator_zh": "Canvas/Attention_StartGame/Text_Main"
-  },
-  {
-   "location": "10/UI",
-   "narrator": "Canvas/Attention_StartGame/Text_Title",
-   "text": "-ご注意-",
-   "zh": "-请注意-",
-   "narrator_zh": "Canvas/Attention_StartGame/Text_Title"
-  },
-  {
-   "location": "14/UI",
-   "narrator": "Canvas/Debug/Text",
-   "text": "Debug Message"
-  },
-  {
-   "location": "15/UI",
-   "narrator": "Canvas/LogoA/Mask/kazariMoji",
-   "text": "TRI-OS ver.4.2215.34R2.\nPlugin service \"TRINARY\" installed.\nand you permit world @@@@@@\nwith TRI-OS and WAVE system.\nTRI-OS and TriGadget\ndeveloped by ENTANGLE corp.\nHave a nice chat time..."
-  },
-  {
-   "location": "31/UI",
-   "narrator": "Canvas/PayDialog/dialog_Code/CancelButton/Text",
-   "text": "閉じる",
-   "zh": "关闭",
-   "narrator_zh": "Canvas/PayDialog/dialog_Code/CancelButton/Text"
-  },
-  {
-   "location": "32/UI",
-   "narrator": "Canvas/PayDialog/dialog_Code/CodeTextField/CodeCopyButton/Text",
-   "text": "コピー",
-   "zh": "复制",
-   "narrator_zh": "Canvas/PayDialog/dialog_Code/CodeTextField/CodeCopyButton/Text"
-  },
-  {
-   "location": "33/UI",
-   "narrator": "Canvas/PayDialog/dialog_Code/CodeTextField/mojiinfo",
-   "text": "■払戻しコード",
-   "zh": "■退款代码",
-   "narrator_zh": "Canvas/PayDialog/dialog_Code/CodeTextField/mojiinfo"
-  },
-  {
-   "location": "34/UI",
-   "narrator": "Canvas/PayDialog/dialog_Code/Jewel/Text",
-   "text": "所持有償"
-  },
-  {
-   "location": "35/UI",
-   "narrator": "Canvas/PayDialog/dialog_Code/Jewel/info",
-   "text": "所持ジュエル読込中 . . .",
-   "zh": "正在读取持有珠宝 . . .",
-   "narrator_zh": "Canvas/PayDialog/dialog_Code/Jewel/info"
-  },
-  {
-   "location": "36/UI",
-   "narrator": "Canvas/PayDialog/dialog_Code/PageButton/Text",
-   "text": "払戻しページ",
-   "zh": "退款页面",
-   "narrator_zh": "Canvas/PayDialog/dialog_Code/PageButton/Text"
-  },
-  {
-   "location": "37/UI",
-   "narrator": "Canvas/PayDialog/dialog_Code/Panel_BORDER_1/Text",
-   "text": "払戻しコード・パスワード",
-   "zh": "退款代码·密码",
-   "narrator_zh": "Canvas/PayDialog/dialog_Code/Panel_BORDER_1/Text"
-  },
-  {
-   "location": "38/UI",
-   "narrator": "Canvas/PayDialog/dialog_Code/PassTextField/PassCopyButton/Text",
-   "text": "コピー",
-   "zh": "复制",
-   "narrator_zh": "Canvas/PayDialog/dialog_Code/PassTextField/PassCopyButton/Text"
-  },
-  {
-   "location": "39/UI",
-   "narrator": "Canvas/PayDialog/dialog_Code/PassTextField/mojiingo",
-   "text": "■払戻しパスワード",
-   "zh": "■退款密码",
-   "narrator_zh": "Canvas/PayDialog/dialog_Code/PassTextField/mojiingo"
-  },
-  {
-   "location": "40/UI",
-   "narrator": "Canvas/RawImage/AnimeButton/Balloon/Text",
-   "text": "アニメ全話無料配信中！",
-   "zh": "动画全话免费放送中！",
-   "narrator_zh": "Canvas/RawImage/AnimeButton/Balloon/Text"
-  },
-  {
-   "location": "41/UI",
-   "narrator": "Canvas/RawImage/AnimeButton/Text",
-   "text": "A N I M E"
-  },
-  {
-   "location": "42/UI",
-   "narrator": "Canvas/RawImage/AnimeButton/Text2",
-   "text": " ア  ニ  メ  を  見  る",
-   "zh": "观看动画",
-   "narrator_zh": "Canvas/RawImage/AnimeButton/Text2"
-  },
-  {
-   "location": "43/UI",
-   "narrator": "Canvas/RawImage/CRCcheck/Text",
-   "text": "アップデート情報を\nチェックしています。",
-   "zh": "正在确认\n更新信息。",
-   "narrator_zh": "Canvas/RawImage/CRCcheck/Text"
-  },
-  {
-   "location": "44/UI",
-   "narrator": "Canvas/RawImage/CacheClearButton/Text2",
-   "text": "動画設定"
-  },
-  {
-   "location": "45/UI",
-   "narrator": "Canvas/RawImage/CodePageButton /Text2",
-   "text": "払戻し\nパスワード\n発行",
-   "zh": "退款\n密码\n发行",
-   "narrator_zh": "Canvas/RawImage/CodePageButton /Text2"
-  },
-  {
-   "location": "46/UI",
-   "narrator": "Canvas/RawImage/FullDownloadButton/Text2",
-   "text": "フル\nダウンロード",
-   "zh": "完整\n下载",
-   "narrator_zh": "Canvas/RawImage/FullDownloadButton/Text2"
-  },
-  {
-   "location": "47/UI",
-   "narrator": "Canvas/RawImage/GameStartButton/Text",
-   "text": "S T A R T"
-  },
-  {
-   "location": "48/UI",
-   "narrator": "Canvas/RawImage/GameStartButton/Text2",
-   "text": " ア  ク  セ  ス  を  開  始  す  る",
-   "zh": "开始连接",
-   "narrator_zh": "Canvas/RawImage/GameStartButton/Text2"
-  },
-  {
-   "location": "49/UI",
-   "narrator": "Canvas/RawImage/ModelChangeButton/Text2",
-   "text": "導入SKIP開始"
-  },
-  {
-   "location": "50/UI",
-   "narrator": "Canvas/RawImage/Text",
-   "text": "©コーエーテクモゲームス・東映アニメーション",
-   "zh": "©光荣特库摩游戏·东映动画",
-   "narrator_zh": "Canvas/RawImage/Text"
-  },
-  {
-   "location": "51/UI",
-   "narrator": "Canvas/RawImage/Version",
-   "text": "ver.1.2.8"
-  },
-  {
-   "location": "52/UI",
-   "narrator": "Canvas/RawImage/code",
-   "text": "code："
-  },
-  {
-   "location": "53/UI",
-   "narrator": "Canvas/SelectServerButton/SelectServerDialog/DevelopGustServer/Label",
-   "text": "旧データチェック用(develop-gust)",
-   "zh": "旧数据检查用(develop-gust)",
-   "narrator_zh": "Canvas/SelectServerButton/SelectServerDialog/DevelopGustServer/Label"
-  },
-  {
-   "location": "54/UI",
-   "narrator": "Canvas/SelectServerButton/SelectServerDialog/DevelopGustServer2/Label",
-   "text": "デバッグ用",
-   "zh": "调试用",
-   "narrator_zh": "Canvas/SelectServerButton/SelectServerDialog/DevelopGustServer2/Label"
-  },
-  {
-   "location": "55/UI",
-   "narrator": "Canvas/SelectServerButton/SelectServerDialog/DevelopServer/Label",
-   "text": "TA用"
-  },
-  {
-   "location": "56/UI",
-   "narrator": "Canvas/SelectServerButton/SelectServerDialog/MasterServer/Label",
-   "text": "本番用"
-  },
-  {
-   "location": "57/UI",
-   "narrator": "Canvas/SelectServerButton/SelectServerDialog/UserServer/InputField",
-   "text": "http://210.140.155.79/"
-  },
-  {
-   "location": "58/UI",
-   "narrator": "Canvas/SelectServerButton/SelectServerDialog/UserServer/InputField/Placeholder",
-   "text": "Enter text..."
-  },
-  {
-   "location": "59/UI",
-   "narrator": "Canvas/SelectServerButton/SelectServerDialog/UserServer/InputField/Text",
-   "text": "http://210.140.155.79/"
-  },
-  {
-   "location": "60/UI",
-   "narrator": "Canvas/SelectServerButton/SelectServerDialog/UserServer/Label",
-   "text": "データ検証",
-   "zh": "数据验证",
-   "narrator_zh": "Canvas/SelectServerButton/SelectServerDialog/UserServer/Label"
-  },
-  {
-   "location": "61/UI",
-   "narrator": "Canvas/SelectServerButton/Text",
-   "text": "接続サーバーの切り替え",
-   "zh": "切换服务器",
-   "narrator_zh": "Canvas/SelectServerButton/Text"
-  },
-  {
-   "location": "62/UI",
-   "narrator": "Canvas/SerifBalloon/Name",
-   "text": "Hello World"
-  },
-  {
-   "location": "63/UI",
-   "narrator": "Canvas/SerifBalloon/Nameplate/Text",
-   "text": "皇千羽鶴"
-  },
-  {
-   "location": "64/UI",
-   "narrator": "Canvas/SerifBalloon/Text",
-   "text": "Hello World"
-  }
- ]
+    "dir": "level0.split0",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "9/UI",
+            "narrator": "Canvas/Attention_StartGame/Text_Main",
+            "text": "このアプリは無料でプレイできますが\nアイテムの購入・サービス利用のために\nジュエルを有料にてご購入いただく\nことがございます。\n\n未成年者の方がご購入される場合は\n保護者の同意が必要です。",
+            "zh": "本应用可以免费游玩，\n但为了购买道具、使用服务，\n可能会请你付费购买\n珠宝。\n\n未成年人购买时，\n需要监护人同意。",
+            "narrator_zh": "Canvas/Attention_StartGame/Text_Main"
+        },
+        {
+            "location": "10/UI",
+            "narrator": "Canvas/Attention_StartGame/Text_Title",
+            "text": "-ご注意-",
+            "zh": "-请注意-",
+            "narrator_zh": "Canvas/Attention_StartGame/Text_Title"
+        },
+        {
+            "location": "14/UI",
+            "narrator": "Canvas/Debug/Text",
+            "text": "Debug Message",
+            "zh": "Debug Message",
+            "narrator_zh": "Canvas/Debug/Text"
+        },
+        {
+            "location": "15/UI",
+            "narrator": "Canvas/LogoA/Mask/kazariMoji",
+            "text": "TRI-OS ver.4.2215.34R2.\nPlugin service \"TRINARY\" installed.\nand you permit world @@@@@@\nwith TRI-OS and WAVE system.\nTRI-OS and TriGadget\ndeveloped by ENTANGLE corp.\nHave a nice chat time...",
+            "zh": "TRI-OS ver.4.2215.34R2.\nPlugin service \"TRINARY\" installed.\nand you permit world @@@@@@\nwith TRI-OS and WAVE system.\nTRI-OS and TriGadget\ndeveloped by ENTANGLE corp.\nHave a nice chat time...",
+            "narrator_zh": "Canvas/LogoA/Mask/kazariMoji"
+        },
+        {
+            "location": "31/UI",
+            "narrator": "Canvas/PayDialog/dialog_Code/CancelButton/Text",
+            "text": "閉じる",
+            "zh": "关闭",
+            "narrator_zh": "Canvas/PayDialog/dialog_Code/CancelButton/Text"
+        },
+        {
+            "location": "32/UI",
+            "narrator": "Canvas/PayDialog/dialog_Code/CodeTextField/CodeCopyButton/Text",
+            "text": "コピー",
+            "zh": "复制",
+            "narrator_zh": "Canvas/PayDialog/dialog_Code/CodeTextField/CodeCopyButton/Text"
+        },
+        {
+            "location": "33/UI",
+            "narrator": "Canvas/PayDialog/dialog_Code/CodeTextField/mojiinfo",
+            "text": "■払戻しコード",
+            "zh": "■退款代码",
+            "narrator_zh": "Canvas/PayDialog/dialog_Code/CodeTextField/mojiinfo"
+        },
+        {
+            "location": "34/UI",
+            "narrator": "Canvas/PayDialog/dialog_Code/Jewel/Text",
+            "text": "所持有償",
+            "zh": "持有付费",
+            "narrator_zh": "Canvas/PayDialog/dialog_Code/Jewel/Text"
+        },
+        {
+            "location": "35/UI",
+            "narrator": "Canvas/PayDialog/dialog_Code/Jewel/info",
+            "text": "所持ジュエル読込中 . . .",
+            "zh": "正在读取持有珠宝 . . .",
+            "narrator_zh": "Canvas/PayDialog/dialog_Code/Jewel/info"
+        },
+        {
+            "location": "36/UI",
+            "narrator": "Canvas/PayDialog/dialog_Code/PageButton/Text",
+            "text": "払戻しページ",
+            "zh": "退款页面",
+            "narrator_zh": "Canvas/PayDialog/dialog_Code/PageButton/Text"
+        },
+        {
+            "location": "37/UI",
+            "narrator": "Canvas/PayDialog/dialog_Code/Panel_BORDER_1/Text",
+            "text": "払戻しコード・パスワード",
+            "zh": "退款代码·密码",
+            "narrator_zh": "Canvas/PayDialog/dialog_Code/Panel_BORDER_1/Text"
+        },
+        {
+            "location": "38/UI",
+            "narrator": "Canvas/PayDialog/dialog_Code/PassTextField/PassCopyButton/Text",
+            "text": "コピー",
+            "zh": "复制",
+            "narrator_zh": "Canvas/PayDialog/dialog_Code/PassTextField/PassCopyButton/Text"
+        },
+        {
+            "location": "39/UI",
+            "narrator": "Canvas/PayDialog/dialog_Code/PassTextField/mojiingo",
+            "text": "■払戻しパスワード",
+            "zh": "■退款密码",
+            "narrator_zh": "Canvas/PayDialog/dialog_Code/PassTextField/mojiingo"
+        },
+        {
+            "location": "40/UI",
+            "narrator": "Canvas/RawImage/AnimeButton/Balloon/Text",
+            "text": "アニメ全話無料配信中！",
+            "zh": "动画全话免费放送中！",
+            "narrator_zh": "Canvas/RawImage/AnimeButton/Balloon/Text"
+        },
+        {
+            "location": "41/UI",
+            "narrator": "Canvas/RawImage/AnimeButton/Text",
+            "text": "A N I M E",
+            "zh": "A N I M E",
+            "narrator_zh": "Canvas/RawImage/AnimeButton/Text"
+        },
+        {
+            "location": "42/UI",
+            "narrator": "Canvas/RawImage/AnimeButton/Text2",
+            "text": " ア  ニ  メ  を  見  る",
+            "zh": "观看动画",
+            "narrator_zh": "Canvas/RawImage/AnimeButton/Text2"
+        },
+        {
+            "location": "43/UI",
+            "narrator": "Canvas/RawImage/CRCcheck/Text",
+            "text": "アップデート情報を\nチェックしています。",
+            "zh": "正在确认\n更新信息。",
+            "narrator_zh": "Canvas/RawImage/CRCcheck/Text"
+        },
+        {
+            "location": "44/UI",
+            "narrator": "Canvas/RawImage/CacheClearButton/Text2",
+            "text": "動画設定",
+            "zh": "视频设置",
+            "narrator_zh": "Canvas/RawImage/CacheClearButton/Text2"
+        },
+        {
+            "location": "45/UI",
+            "narrator": "Canvas/RawImage/CodePageButton /Text2",
+            "text": "払戻し\nパスワード\n発行",
+            "zh": "退款\n密码\n发行",
+            "narrator_zh": "Canvas/RawImage/CodePageButton /Text2"
+        },
+        {
+            "location": "46/UI",
+            "narrator": "Canvas/RawImage/FullDownloadButton/Text2",
+            "text": "フル\nダウンロード",
+            "zh": "完整\n下载",
+            "narrator_zh": "Canvas/RawImage/FullDownloadButton/Text2"
+        },
+        {
+            "location": "47/UI",
+            "narrator": "Canvas/RawImage/GameStartButton/Text",
+            "text": "S T A R T",
+            "zh": "S T A R T",
+            "narrator_zh": "Canvas/RawImage/GameStartButton/Text"
+        },
+        {
+            "location": "48/UI",
+            "narrator": "Canvas/RawImage/GameStartButton/Text2",
+            "text": " ア  ク  セ  ス  を  開  始  す  る",
+            "zh": "开始连接",
+            "narrator_zh": "Canvas/RawImage/GameStartButton/Text2"
+        },
+        {
+            "location": "49/UI",
+            "narrator": "Canvas/RawImage/ModelChangeButton/Text2",
+            "text": "導入SKIP開始",
+            "zh": "跳过开头开始",
+            "narrator_zh": "Canvas/RawImage/ModelChangeButton/Text2"
+        },
+        {
+            "location": "50/UI",
+            "narrator": "Canvas/RawImage/Text",
+            "text": "©コーエーテクモゲームス・東映アニメーション",
+            "zh": "©光荣特库摩游戏·东映动画",
+            "narrator_zh": "Canvas/RawImage/Text"
+        },
+        {
+            "location": "51/UI",
+            "narrator": "Canvas/RawImage/Version",
+            "text": "ver.1.2.8",
+            "zh": "ver.1.2.8",
+            "narrator_zh": "Canvas/RawImage/Version"
+        },
+        {
+            "location": "52/UI",
+            "narrator": "Canvas/RawImage/code",
+            "text": "code：",
+            "zh": "code：",
+            "narrator_zh": "Canvas/RawImage/code"
+        },
+        {
+            "location": "53/UI",
+            "narrator": "Canvas/SelectServerButton/SelectServerDialog/DevelopGustServer/Label",
+            "text": "旧データチェック用(develop-gust)",
+            "zh": "旧数据检查用(develop-gust)",
+            "narrator_zh": "Canvas/SelectServerButton/SelectServerDialog/DevelopGustServer/Label"
+        },
+        {
+            "location": "54/UI",
+            "narrator": "Canvas/SelectServerButton/SelectServerDialog/DevelopGustServer2/Label",
+            "text": "デバッグ用",
+            "zh": "调试用",
+            "narrator_zh": "Canvas/SelectServerButton/SelectServerDialog/DevelopGustServer2/Label"
+        },
+        {
+            "location": "55/UI",
+            "narrator": "Canvas/SelectServerButton/SelectServerDialog/DevelopServer/Label",
+            "text": "TA用",
+            "zh": "TA用",
+            "narrator_zh": "Canvas/SelectServerButton/SelectServerDialog/DevelopServer/Label"
+        },
+        {
+            "location": "56/UI",
+            "narrator": "Canvas/SelectServerButton/SelectServerDialog/MasterServer/Label",
+            "text": "本番用",
+            "zh": "正式用",
+            "narrator_zh": "Canvas/SelectServerButton/SelectServerDialog/MasterServer/Label"
+        },
+        {
+            "location": "57/UI",
+            "narrator": "Canvas/SelectServerButton/SelectServerDialog/UserServer/InputField",
+            "text": "http://210.140.155.79/",
+            "zh": "http://210.140.155.79/",
+            "narrator_zh": "Canvas/SelectServerButton/SelectServerDialog/UserServer/InputField"
+        },
+        {
+            "location": "58/UI",
+            "narrator": "Canvas/SelectServerButton/SelectServerDialog/UserServer/InputField/Placeholder",
+            "text": "Enter text...",
+            "zh": "Enter text...",
+            "narrator_zh": "Canvas/SelectServerButton/SelectServerDialog/UserServer/InputField/Placeholder"
+        },
+        {
+            "location": "59/UI",
+            "narrator": "Canvas/SelectServerButton/SelectServerDialog/UserServer/InputField/Text",
+            "text": "http://210.140.155.79/",
+            "zh": "http://210.140.155.79/",
+            "narrator_zh": "Canvas/SelectServerButton/SelectServerDialog/UserServer/InputField/Text"
+        },
+        {
+            "location": "60/UI",
+            "narrator": "Canvas/SelectServerButton/SelectServerDialog/UserServer/Label",
+            "text": "データ検証",
+            "zh": "数据验证",
+            "narrator_zh": "Canvas/SelectServerButton/SelectServerDialog/UserServer/Label"
+        },
+        {
+            "location": "61/UI",
+            "narrator": "Canvas/SelectServerButton/Text",
+            "text": "接続サーバーの切り替え",
+            "zh": "切换服务器",
+            "narrator_zh": "Canvas/SelectServerButton/Text"
+        },
+        {
+            "location": "62/UI",
+            "narrator": "Canvas/SerifBalloon/Name",
+            "text": "Hello World",
+            "zh": "Hello World",
+            "narrator_zh": "Canvas/SerifBalloon/Name"
+        },
+        {
+            "location": "63/UI",
+            "narrator": "Canvas/SerifBalloon/Nameplate/Text",
+            "text": "皇千羽鶴",
+            "zh": "皇千羽鹤",
+            "narrator_zh": "Canvas/SerifBalloon/Nameplate/Text"
+        },
+        {
+            "location": "64/UI",
+            "narrator": "Canvas/SerifBalloon/Text",
+            "text": "Hello World",
+            "zh": "Hello World",
+            "narrator_zh": "Canvas/SerifBalloon/Text"
+        }
+    ]
 }

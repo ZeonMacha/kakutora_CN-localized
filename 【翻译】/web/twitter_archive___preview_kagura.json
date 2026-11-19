@@ -1,47 +1,52 @@
 {
- "dir": "twitter_archive/_preview_kagura.html",
- "type": "web",
- "info": {
-  "title": "kagura_pyonko"
- },
- "entry": [
-  {
-   "location": "1/article",
-   "narrator": "",
-   "text": "抽样预览 30 条 · ext_img=5 / int_img=4 / ext_card=5 / in_card=3 / gone=3 / photo=5 / text=5"
-  },
-  {
-   "location": "2/article",
-   "narrator": "",
-   "text": "嵌套卡外头像位留给之后的默认蛋。F5 即最新。"
-  },
-  {
-   "location": "3/chrome",
-   "narrator": "",
-   "text": "フォロー",
-   "zh": "关注",
-   "narrator_zh": ""
-  },
-  {
-   "location": "4/chrome",
-   "narrator": "",
-   "text": "ツイート",
-   "zh": "推文",
-   "narrator_zh": ""
-  },
-  {
-   "location": "5/chrome",
-   "narrator": "",
-   "text": "メディア",
-   "zh": "媒体",
-   "narrator_zh": ""
-  },
-  {
-   "location": "6/chrome",
-   "narrator": "",
-   "text": "いいね",
-   "zh": "赞",
-   "narrator_zh": ""
-  }
- ]
+    "dir": "twitter_archive/_preview_kagura.html",
+    "type": "web",
+    "info": {
+        "title": "kagura_pyonko",
+        "title_zh": "kagura_pyonko"
+    },
+    "entry": [
+        {
+            "location": "1/article",
+            "narrator": "",
+            "text": "抽样预览 30 条 · ext_img=5 / int_img=4 / ext_card=5 / in_card=3 / gone=3 / photo=5 / text=5",
+            "zh": "抽样预览 30 条 · ext_img=5 / int_img=4 / ext_card=5 / in_card=3 / gone=3 / photo=5 / text=5",
+            "narrator_zh": ""
+        },
+        {
+            "location": "2/article",
+            "narrator": "",
+            "text": "嵌套卡外头像位留给之后的默认蛋。F5 即最新。",
+            "zh": "嵌套卡外头像位留给之后的默认蛋。F5 即最新。",
+            "narrator_zh": ""
+        },
+        {
+            "location": "3/chrome",
+            "narrator": "",
+            "text": "フォロー",
+            "zh": "关注",
+            "narrator_zh": ""
+        },
+        {
+            "location": "4/chrome",
+            "narrator": "",
+            "text": "ツイート",
+            "zh": "推文",
+            "narrator_zh": ""
+        },
+        {
+            "location": "5/chrome",
+            "narrator": "",
+            "text": "メディア",
+            "zh": "媒体",
+            "narrator_zh": ""
+        },
+        {
+            "location": "6/chrome",
+            "narrator": "",
+            "text": "いいね",
+            "zh": "赞",
+            "narrator_zh": ""
+        }
+    ]
 }

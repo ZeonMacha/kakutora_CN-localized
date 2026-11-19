@@ -1,215 +1,273 @@
 {
- "dir": "11581e19d7496344db4884ae97af1e13",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "3/UI",
-   "narrator": "RankingInfoDialog/Panel/BackButton/Text",
-   "text": "OK"
-  },
-  {
-   "location": "4/UI",
-   "narrator": "RankingInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/CompleteRatio/text",
-   "text": "Open : "
-  },
-  {
-   "location": "5/UI",
-   "narrator": "RankingInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/EpisodeText",
-   "text": "ダイ・ハード",
-   "zh": "虎胆龙威",
-   "narrator_zh": "RankingInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/EpisodeText"
-  },
-  {
-   "location": "6/UI",
-   "narrator": "RankingInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/KazariText",
-   "text": "Argumented reality girls\nTRINARY.\n"
-  },
-  {
-   "location": "7/UI",
-   "narrator": "RankingInfoDialog/Panel/EventPoint/Evp/pts",
-   "text": "pts."
-  },
-  {
-   "location": "8/UI",
-   "narrator": "RankingInfoDialog/Panel/EventPoint/Title/Text",
-   "text": "現在の獲得イベントポイント",
-   "zh": "当前活动点数",
-   "narrator_zh": "RankingInfoDialog/Panel/EventPoint/Title/Text"
-  },
-  {
-   "location": "9/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonC/disable/Text",
-   "text": "順位"
-  },
-  {
-   "location": "10/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonC/disable/TextSub",
-   "text": "RANKING INFORMATION."
-  },
-  {
-   "location": "11/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonC/enable/Text",
-   "text": "順位"
-  },
-  {
-   "location": "12/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonC/enable/TextSub",
-   "text": "RANKING INFORMATION."
-  },
-  {
-   "location": "13/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonL/disable/Text",
-   "text": "イベント概要",
-   "zh": "活动概要",
-   "narrator_zh": "RankingInfoDialog/Panel/InfoButtonL/disable/Text"
-  },
-  {
-   "location": "14/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonL/disable/TextSub",
-   "text": "EVENT INFORMATION."
-  },
-  {
-   "location": "15/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonL/enable/Text",
-   "text": "イベント概要",
-   "zh": "活动概要",
-   "narrator_zh": "RankingInfoDialog/Panel/InfoButtonL/enable/Text"
-  },
-  {
-   "location": "16/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonL/enable/TextSub",
-   "text": "EVENT INFORMATION."
-  },
-  {
-   "location": "17/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonR/disable/Text",
-   "text": "報酬一覧"
-  },
-  {
-   "location": "18/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonR/disable/TextSub",
-   "text": "REWORD INFORMATION."
-  },
-  {
-   "location": "19/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonR/enable/Text",
-   "text": "報酬一覧"
-  },
-  {
-   "location": "20/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonR/enable/TextSub",
-   "text": "REWORD INFORMATION."
-  },
-  {
-   "location": "21/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Rank_MyRank/disable/Text",
-   "text": "私の順位",
-   "zh": "我的排名",
-   "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Rank_MyRank/disable/Text"
-  },
-  {
-   "location": "22/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Rank_MyRank/disable/TextSub",
-   "text": "RANKING SUB INFO. MY RANK"
-  },
-  {
-   "location": "23/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Rank_MyRank/enable/Text",
-   "text": "私の順位",
-   "zh": "我的排名",
-   "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Rank_MyRank/enable/Text"
-  },
-  {
-   "location": "24/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Rank_MyRank/enable/TextSub",
-   "text": "RANKING SUB INFO. MY RANK"
-  },
-  {
-   "location": "25/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Rank_TOP10/disable/Text",
-   "text": "TOP10"
-  },
-  {
-   "location": "26/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Rank_TOP10/disable/TextSub",
-   "text": "RANKING SUB INFO. TOP"
-  },
-  {
-   "location": "27/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Rank_TOP10/enable/Text",
-   "text": "TOP10"
-  },
-  {
-   "location": "28/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Rank_TOP10/enable/TextSub",
-   "text": "RANKING SUB INFO. TOP"
-  },
-  {
-   "location": "29/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Reward_EVP/disable/Text",
-   "text": "ポイント報酬",
-   "zh": "点数奖励",
-   "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Reward_EVP/disable/Text"
-  },
-  {
-   "location": "30/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Reward_EVP/disable/TextSub",
-   "text": "REWARD SUB INFO. PTS"
-  },
-  {
-   "location": "31/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Reward_EVP/enable/Text",
-   "text": "ポイント報酬",
-   "zh": "点数奖励",
-   "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Reward_EVP/enable/Text"
-  },
-  {
-   "location": "32/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Reward_EVP/enable/TextSub",
-   "text": "REWARD SUB INFO. PTS"
-  },
-  {
-   "location": "33/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Reward_RANK/disable/Text",
-   "text": "順位報酬"
-  },
-  {
-   "location": "34/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Reward_RANK/disable/TextSub",
-   "text": "REWARD SUB INFO. RANK"
-  },
-  {
-   "location": "35/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Reward_RANK/enable/Text",
-   "text": "順位報酬"
-  },
-  {
-   "location": "36/UI",
-   "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Reward_RANK/enable/TextSub",
-   "text": "REWARD SUB INFO. RANK"
-  },
-  {
-   "location": "37/UI",
-   "narrator": "RankingInfoDialog/Panel/Loading/Tips/Text",
-   "text": "EVENT INFO DATA LOADING."
-  },
-  {
-   "location": "38/UI",
-   "narrator": "RankingInfoDialog/Panel/MyRanking/Ranking/pts",
-   "text": "位"
-  },
-  {
-   "location": "39/UI",
-   "narrator": "RankingInfoDialog/Panel/MyRanking/Title/Text",
-   "text": "現在の順位",
-   "zh": "当前排名",
-   "narrator_zh": "RankingInfoDialog/Panel/MyRanking/Title/Text"
-  },
-  {
-   "location": "40/UI",
-   "narrator": "RankingInfoDialog/Panel/design/Title",
-   "text": "I N F O R M A T I O N"
-  }
- ]
+    "dir": "11581e19d7496344db4884ae97af1e13",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "3/UI",
+            "narrator": "RankingInfoDialog/Panel/BackButton/Text",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "RankingInfoDialog/Panel/BackButton/Text"
+        },
+        {
+            "location": "4/UI",
+            "narrator": "RankingInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/CompleteRatio/text",
+            "text": "Open : ",
+            "zh": "Open : ",
+            "narrator_zh": "RankingInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/CompleteRatio/text"
+        },
+        {
+            "location": "5/UI",
+            "narrator": "RankingInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/EpisodeText",
+            "text": "ダイ・ハード",
+            "zh": "虎胆龙威",
+            "narrator_zh": "RankingInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/EpisodeText"
+        },
+        {
+            "location": "6/UI",
+            "narrator": "RankingInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/KazariText",
+            "text": "Argumented reality girls\nTRINARY.\n",
+            "zh": "Argumented reality girls\nTRINARY.\n",
+            "narrator_zh": "RankingInfoDialog/Panel/ButtonBase/CellButton/panel_bottom/Image/KazariText"
+        },
+        {
+            "location": "7/UI",
+            "narrator": "RankingInfoDialog/Panel/EventPoint/Evp/pts",
+            "text": "pts.",
+            "zh": "pts.",
+            "narrator_zh": "RankingInfoDialog/Panel/EventPoint/Evp/pts"
+        },
+        {
+            "location": "8/UI",
+            "narrator": "RankingInfoDialog/Panel/EventPoint/Title/Text",
+            "text": "現在の獲得イベントポイント",
+            "zh": "当前活动点数",
+            "narrator_zh": "RankingInfoDialog/Panel/EventPoint/Title/Text"
+        },
+        {
+            "location": "9/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonC/disable/Text",
+            "text": "順位",
+            "zh": "排名",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonC/disable/Text"
+        },
+        {
+            "location": "10/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonC/disable/TextSub",
+            "text": "RANKING INFORMATION.",
+            "zh": "RANKING INFORMATION.",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonC/disable/TextSub"
+        },
+        {
+            "location": "11/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonC/enable/Text",
+            "text": "順位",
+            "zh": "排名",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonC/enable/Text"
+        },
+        {
+            "location": "12/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonC/enable/TextSub",
+            "text": "RANKING INFORMATION.",
+            "zh": "RANKING INFORMATION.",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonC/enable/TextSub"
+        },
+        {
+            "location": "13/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonL/disable/Text",
+            "text": "イベント概要",
+            "zh": "活动概要",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonL/disable/Text"
+        },
+        {
+            "location": "14/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonL/disable/TextSub",
+            "text": "EVENT INFORMATION.",
+            "zh": "EVENT INFORMATION.",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonL/disable/TextSub"
+        },
+        {
+            "location": "15/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonL/enable/Text",
+            "text": "イベント概要",
+            "zh": "活动概要",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonL/enable/Text"
+        },
+        {
+            "location": "16/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonL/enable/TextSub",
+            "text": "EVENT INFORMATION.",
+            "zh": "EVENT INFORMATION.",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonL/enable/TextSub"
+        },
+        {
+            "location": "17/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonR/disable/Text",
+            "text": "報酬一覧",
+            "zh": "报酬一览",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonR/disable/Text"
+        },
+        {
+            "location": "18/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonR/disable/TextSub",
+            "text": "REWORD INFORMATION.",
+            "zh": "REWORD INFORMATION.",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonR/disable/TextSub"
+        },
+        {
+            "location": "19/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonR/enable/Text",
+            "text": "報酬一覧",
+            "zh": "报酬一览",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonR/enable/Text"
+        },
+        {
+            "location": "20/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonR/enable/TextSub",
+            "text": "REWORD INFORMATION.",
+            "zh": "REWORD INFORMATION.",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonR/enable/TextSub"
+        },
+        {
+            "location": "21/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Rank_MyRank/disable/Text",
+            "text": "私の順位",
+            "zh": "我的排名",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Rank_MyRank/disable/Text"
+        },
+        {
+            "location": "22/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Rank_MyRank/disable/TextSub",
+            "text": "RANKING SUB INFO. MY RANK",
+            "zh": "RANKING SUB INFO. MY RANK",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Rank_MyRank/disable/TextSub"
+        },
+        {
+            "location": "23/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Rank_MyRank/enable/Text",
+            "text": "私の順位",
+            "zh": "我的排名",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Rank_MyRank/enable/Text"
+        },
+        {
+            "location": "24/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Rank_MyRank/enable/TextSub",
+            "text": "RANKING SUB INFO. MY RANK",
+            "zh": "RANKING SUB INFO. MY RANK",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Rank_MyRank/enable/TextSub"
+        },
+        {
+            "location": "25/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Rank_TOP10/disable/Text",
+            "text": "TOP10",
+            "zh": "TOP10",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Rank_TOP10/disable/Text"
+        },
+        {
+            "location": "26/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Rank_TOP10/disable/TextSub",
+            "text": "RANKING SUB INFO. TOP",
+            "zh": "RANKING SUB INFO. TOP",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Rank_TOP10/disable/TextSub"
+        },
+        {
+            "location": "27/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Rank_TOP10/enable/Text",
+            "text": "TOP10",
+            "zh": "TOP10",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Rank_TOP10/enable/Text"
+        },
+        {
+            "location": "28/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Rank_TOP10/enable/TextSub",
+            "text": "RANKING SUB INFO. TOP",
+            "zh": "RANKING SUB INFO. TOP",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Rank_TOP10/enable/TextSub"
+        },
+        {
+            "location": "29/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Reward_EVP/disable/Text",
+            "text": "ポイント報酬",
+            "zh": "点数奖励",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Reward_EVP/disable/Text"
+        },
+        {
+            "location": "30/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Reward_EVP/disable/TextSub",
+            "text": "REWARD SUB INFO. PTS",
+            "zh": "REWARD SUB INFO. PTS",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Reward_EVP/disable/TextSub"
+        },
+        {
+            "location": "31/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Reward_EVP/enable/Text",
+            "text": "ポイント報酬",
+            "zh": "点数奖励",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Reward_EVP/enable/Text"
+        },
+        {
+            "location": "32/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Reward_EVP/enable/TextSub",
+            "text": "REWARD SUB INFO. PTS",
+            "zh": "REWARD SUB INFO. PTS",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Reward_EVP/enable/TextSub"
+        },
+        {
+            "location": "33/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Reward_RANK/disable/Text",
+            "text": "順位報酬",
+            "zh": "排名报酬",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Reward_RANK/disable/Text"
+        },
+        {
+            "location": "34/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Reward_RANK/disable/TextSub",
+            "text": "REWARD SUB INFO. RANK",
+            "zh": "REWARD SUB INFO. RANK",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Reward_RANK/disable/TextSub"
+        },
+        {
+            "location": "35/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Reward_RANK/enable/Text",
+            "text": "順位報酬",
+            "zh": "排名报酬",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Reward_RANK/enable/Text"
+        },
+        {
+            "location": "36/UI",
+            "narrator": "RankingInfoDialog/Panel/InfoButtonSub_Reward_RANK/enable/TextSub",
+            "text": "REWARD SUB INFO. RANK",
+            "zh": "REWARD SUB INFO. RANK",
+            "narrator_zh": "RankingInfoDialog/Panel/InfoButtonSub_Reward_RANK/enable/TextSub"
+        },
+        {
+            "location": "37/UI",
+            "narrator": "RankingInfoDialog/Panel/Loading/Tips/Text",
+            "text": "EVENT INFO DATA LOADING.",
+            "zh": "EVENT INFO DATA LOADING.",
+            "narrator_zh": "RankingInfoDialog/Panel/Loading/Tips/Text"
+        },
+        {
+            "location": "38/UI",
+            "narrator": "RankingInfoDialog/Panel/MyRanking/Ranking/pts",
+            "text": "位",
+            "zh": "位",
+            "narrator_zh": "RankingInfoDialog/Panel/MyRanking/Ranking/pts"
+        },
+        {
+            "location": "39/UI",
+            "narrator": "RankingInfoDialog/Panel/MyRanking/Title/Text",
+            "text": "現在の順位",
+            "zh": "当前排名",
+            "narrator_zh": "RankingInfoDialog/Panel/MyRanking/Title/Text"
+        },
+        {
+            "location": "40/UI",
+            "narrator": "RankingInfoDialog/Panel/design/Title",
+            "text": "I N F O R M A T I O N",
+            "zh": "I N F O R M A T I O N",
+            "narrator_zh": "RankingInfoDialog/Panel/design/Title"
+        }
+    ]
 }

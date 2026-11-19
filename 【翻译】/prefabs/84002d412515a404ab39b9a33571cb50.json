@@ -1,31 +1,35 @@
 {
- "dir": "84002d412515a404ab39b9a33571cb50",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "16/UI",
-   "narrator": "WebView_Menu/Panel/WebView",
-   "text": "http://210.140.155.94/gacha/gacha_detail_1.html"
-  },
-  {
-   "location": "18/UI",
-   "narrator": "WebView_Menu/Panel/WebView/ToolBar/Bottom/Close/Text",
-   "text": "閉じる",
-   "zh": "关闭",
-   "narrator_zh": "WebView_Menu/Panel/WebView/ToolBar/Bottom/Close/Text"
-  },
-  {
-   "location": "20/UI",
-   "narrator": "WebView_Menu/Panel/WebView/ToolBar/TextMain",
-   "text": "Information NEWS."
-  },
-  {
-   "location": "22/UI",
-   "narrator": "WebView_Menu/Panel/WebView/ToolBar/TextSub",
-   "text": "拡張少女系トライナリー新着運営情報",
-   "zh": "扩张少女系三重奏最新运营信息",
-   "narrator_zh": "WebView_Menu/Panel/WebView/ToolBar/TextSub"
-  }
- ]
+    "dir": "84002d412515a404ab39b9a33571cb50",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "16/UI",
+            "narrator": "WebView_Menu/Panel/WebView",
+            "text": "http://210.140.155.94/gacha/gacha_detail_1.html",
+            "zh": "http://210.140.155.94/gacha/gacha_detail_1.html",
+            "narrator_zh": "WebView_Menu/Panel/WebView"
+        },
+        {
+            "location": "18/UI",
+            "narrator": "WebView_Menu/Panel/WebView/ToolBar/Bottom/Close/Text",
+            "text": "閉じる",
+            "zh": "关闭",
+            "narrator_zh": "WebView_Menu/Panel/WebView/ToolBar/Bottom/Close/Text"
+        },
+        {
+            "location": "20/UI",
+            "narrator": "WebView_Menu/Panel/WebView/ToolBar/TextMain",
+            "text": "Information NEWS.",
+            "zh": "Information NEWS.",
+            "narrator_zh": "WebView_Menu/Panel/WebView/ToolBar/TextMain"
+        },
+        {
+            "location": "22/UI",
+            "narrator": "WebView_Menu/Panel/WebView/ToolBar/TextSub",
+            "text": "拡張少女系トライナリー新着運営情報",
+            "zh": "扩张少女系三重奏最新运营信息",
+            "narrator_zh": "WebView_Menu/Panel/WebView/ToolBar/TextSub"
+        }
+    ]
 }

@@ -1,91 +1,119 @@
 {
- "dir": "667af3cb7f173014db467e73031bc566",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "456/UI",
-   "narrator": "StatusWindow/Panel/AttackPowerText",
-   "text": "攻撃力：0"
-  },
-  {
-   "location": "457/UI",
-   "narrator": "StatusWindow/Panel/BackButton/Text",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "StatusWindow/Panel/BackButton/Text"
-  },
-  {
-   "location": "458/UI",
-   "narrator": "StatusWindow/Panel/BattlePointText",
-   "text": "バトルポイント：0",
-   "zh": "战斗点数：0",
-   "narrator_zh": "StatusWindow/Panel/BattlePointText"
-  },
-  {
-   "location": "459/UI",
-   "narrator": "StatusWindow/Panel/ClanName1",
-   "text": "名前1"
-  },
-  {
-   "location": "460/UI",
-   "narrator": "StatusWindow/Panel/ClanName2",
-   "text": "名前2"
-  },
-  {
-   "location": "461/UI",
-   "narrator": "StatusWindow/Panel/ClanName3",
-   "text": "名前3"
-  },
-  {
-   "location": "462/UI",
-   "narrator": "StatusWindow/Panel/ClanName4",
-   "text": "名前4"
-  },
-  {
-   "location": "463/UI",
-   "narrator": "StatusWindow/Panel/ClanName5",
-   "text": "名前5"
-  },
-  {
-   "location": "464/UI",
-   "narrator": "StatusWindow/Panel/DefencePowerText",
-   "text": "防御力：0"
-  },
-  {
-   "location": "465/UI",
-   "narrator": "StatusWindow/Panel/HealPowerText",
-   "text": "回復力：0"
-  },
-  {
-   "location": "466/UI",
-   "narrator": "StatusWindow/Panel/HitPointText",
-   "text": "HP：0"
-  },
-  {
-   "location": "467/UI",
-   "narrator": "StatusWindow/Panel/TrinaryName1",
-   "text": "名前1"
-  },
-  {
-   "location": "468/UI",
-   "narrator": "StatusWindow/Panel/TrinaryName2",
-   "text": "名前2"
-  },
-  {
-   "location": "469/UI",
-   "narrator": "StatusWindow/Panel/TrinaryName3",
-   "text": "名前3"
-  },
-  {
-   "location": "470/UI",
-   "narrator": "StatusWindow/Panel/TrinaryName4",
-   "text": "名前4"
-  },
-  {
-   "location": "471/UI",
-   "narrator": "StatusWindow/Panel/TrinaryName5",
-   "text": "名前5"
-  }
- ]
+    "dir": "667af3cb7f173014db467e73031bc566",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "456/UI",
+            "narrator": "StatusWindow/Panel/AttackPowerText",
+            "text": "攻撃力：0",
+            "zh": "攻击力：0",
+            "narrator_zh": "StatusWindow/Panel/AttackPowerText"
+        },
+        {
+            "location": "457/UI",
+            "narrator": "StatusWindow/Panel/BackButton/Text",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "StatusWindow/Panel/BackButton/Text"
+        },
+        {
+            "location": "458/UI",
+            "narrator": "StatusWindow/Panel/BattlePointText",
+            "text": "バトルポイント：0",
+            "zh": "战斗点数：0",
+            "narrator_zh": "StatusWindow/Panel/BattlePointText"
+        },
+        {
+            "location": "459/UI",
+            "narrator": "StatusWindow/Panel/ClanName1",
+            "text": "名前1",
+            "zh": "名字1",
+            "narrator_zh": "StatusWindow/Panel/ClanName1"
+        },
+        {
+            "location": "460/UI",
+            "narrator": "StatusWindow/Panel/ClanName2",
+            "text": "名前2",
+            "zh": "名字2",
+            "narrator_zh": "StatusWindow/Panel/ClanName2"
+        },
+        {
+            "location": "461/UI",
+            "narrator": "StatusWindow/Panel/ClanName3",
+            "text": "名前3",
+            "zh": "名字3",
+            "narrator_zh": "StatusWindow/Panel/ClanName3"
+        },
+        {
+            "location": "462/UI",
+            "narrator": "StatusWindow/Panel/ClanName4",
+            "text": "名前4",
+            "zh": "名字4",
+            "narrator_zh": "StatusWindow/Panel/ClanName4"
+        },
+        {
+            "location": "463/UI",
+            "narrator": "StatusWindow/Panel/ClanName5",
+            "text": "名前5",
+            "zh": "名字5",
+            "narrator_zh": "StatusWindow/Panel/ClanName5"
+        },
+        {
+            "location": "464/UI",
+            "narrator": "StatusWindow/Panel/DefencePowerText",
+            "text": "防御力：0",
+            "zh": "防御力：0",
+            "narrator_zh": "StatusWindow/Panel/DefencePowerText"
+        },
+        {
+            "location": "465/UI",
+            "narrator": "StatusWindow/Panel/HealPowerText",
+            "text": "回復力：0",
+            "zh": "回复力：0",
+            "narrator_zh": "StatusWindow/Panel/HealPowerText"
+        },
+        {
+            "location": "466/UI",
+            "narrator": "StatusWindow/Panel/HitPointText",
+            "text": "HP：0",
+            "zh": "HP：0",
+            "narrator_zh": "StatusWindow/Panel/HitPointText"
+        },
+        {
+            "location": "467/UI",
+            "narrator": "StatusWindow/Panel/TrinaryName1",
+            "text": "名前1",
+            "zh": "名字1",
+            "narrator_zh": "StatusWindow/Panel/TrinaryName1"
+        },
+        {
+            "location": "468/UI",
+            "narrator": "StatusWindow/Panel/TrinaryName2",
+            "text": "名前2",
+            "zh": "名字2",
+            "narrator_zh": "StatusWindow/Panel/TrinaryName2"
+        },
+        {
+            "location": "469/UI",
+            "narrator": "StatusWindow/Panel/TrinaryName3",
+            "text": "名前3",
+            "zh": "名字3",
+            "narrator_zh": "StatusWindow/Panel/TrinaryName3"
+        },
+        {
+            "location": "470/UI",
+            "narrator": "StatusWindow/Panel/TrinaryName4",
+            "text": "名前4",
+            "zh": "名字4",
+            "narrator_zh": "StatusWindow/Panel/TrinaryName4"
+        },
+        {
+            "location": "471/UI",
+            "narrator": "StatusWindow/Panel/TrinaryName5",
+            "text": "名前5",
+            "zh": "名字5",
+            "narrator_zh": "StatusWindow/Panel/TrinaryName5"
+        }
+    ]
 }

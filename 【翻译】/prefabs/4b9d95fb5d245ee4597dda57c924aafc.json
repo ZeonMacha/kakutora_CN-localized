@@ -1,140 +1,168 @@
 {
- "dir": "4b9d95fb5d245ee4597dda57c924aafc",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "14/UI",
-   "narrator": "LoginBonusWindow/LoadingMini/Panel/Text",
-   "text": "INITIALIZING\nSYSTEM."
-  },
-  {
-   "location": "15/UI",
-   "narrator": "LoginBonusWindow/Panel/Description/Button/SubText",
-   "text": "C L O S E   D E S C R I P T I O N"
-  },
-  {
-   "location": "16/UI",
-   "narrator": "LoginBonusWindow/Panel/Description/Button/Text",
-   "text": "閉じる",
-   "zh": "关闭",
-   "narrator_zh": "LoginBonusWindow/Panel/Description/Button/Text"
-  },
-  {
-   "location": "17/UI",
-   "narrator": "LoginBonusWindow/Panel/Description/Image/Text",
-   "text": "D E S C R I P T I O N"
-  },
-  {
-   "location": "18/UI",
-   "narrator": "LoginBonusWindow/Panel/Description/RecieveButton/SubText",
-   "text": "R E C E I V E"
-  },
-  {
-   "location": "19/UI",
-   "narrator": "LoginBonusWindow/Panel/Description/RecieveButton/Text",
-   "text": "受け取る",
-   "zh": "领取",
-   "narrator_zh": "LoginBonusWindow/Panel/Description/RecieveButton/Text"
-  },
-  {
-   "location": "20/UI",
-   "narrator": "LoginBonusWindow/Panel/Description/TitleText",
-   "text": "【ジュエル】",
-   "zh": "【珠宝】",
-   "narrator_zh": "LoginBonusWindow/Panel/Description/TitleText"
-  },
-  {
-   "location": "21/UI",
-   "narrator": "LoginBonusWindow/Panel/ItemList_PRESENT/BackPrev/BackButton/Text",
-   "text": "▼"
-  },
-  {
-   "location": "22/UI",
-   "narrator": "LoginBonusWindow/Panel/ItemList_PRESENT/BackPrev/PrevButton/Text",
-   "text": "▼"
-  },
-  {
-   "location": "23/UI",
-   "narrator": "LoginBonusWindow/Panel/ItemList_PRESENT/OKButton2/SubText",
-   "text": "C L O S E   T H E   P R E S E N T  B O X"
-  },
-  {
-   "location": "24/UI",
-   "narrator": "LoginBonusWindow/Panel/ItemList_PRESENT/OKButton2/Text",
-   "text": "閉じる",
-   "zh": "关闭",
-   "narrator_zh": "LoginBonusWindow/Panel/ItemList_PRESENT/OKButton2/Text"
-  },
-  {
-   "location": "25/UI",
-   "narrator": "LoginBonusWindow/Panel/ItemList_PRESENT/ReceiveButton/SubText",
-   "text": "R E C E I V E   A L L"
-  },
-  {
-   "location": "26/UI",
-   "narrator": "LoginBonusWindow/Panel/ItemList_PRESENT/ReceiveButton/Text",
-   "text": "すべて受け取る",
-   "zh": "全部领取",
-   "narrator_zh": "LoginBonusWindow/Panel/ItemList_PRESENT/ReceiveButton/Text"
-  },
-  {
-   "location": "27/UI",
-   "narrator": "LoginBonusWindow/Panel/ItemList_PRESENT/Text",
-   "text": "A V A I L A B L E   I T E M   L I S T"
-  },
-  {
-   "location": "28/UI",
-   "narrator": "LoginBonusWindow/Panel/LogInBonus/Panel/BackButton/Text",
-   "text": "次へ",
-   "zh": "下一步",
-   "narrator_zh": "LoginBonusWindow/Panel/LogInBonus/Panel/BackButton/Text"
-  },
-  {
-   "location": "29/UI",
-   "narrator": "LoginBonusWindow/Panel/LogInBonus/Panel/BackButton/TextB",
-   "text": "GOTO NEXT SCENE\n"
-  },
-  {
-   "location": "30/UI",
-   "narrator": "LoginBonusWindow/Panel/LogInBonus/Panel/RectMask/Tweet/Panel/Text",
-   "text": "<color=red>1/18～4/12</color>の期間限定で\n大盤振る舞いの特別イベント。\n是非全部ゲットして。",
-   "zh": "<color=red>1/18～4/12</color>限时举办的\n超大方特别活动。\n一定要全部拿到。",
-   "narrator_zh": "LoginBonusWindow/Panel/LogInBonus/Panel/RectMask/Tweet/Panel/Text"
-  },
-  {
-   "location": "31/UI",
-   "narrator": "LoginBonusWindow/Panel/LogInBonus/Panel/RectMask/deco/TopText",
-   "text": "L O G I N   B O N U S   L I S T ."
-  },
-  {
-   "location": "32/UI",
-   "narrator": "LoginBonusWindow/Panel/MessageBoxInfo/TopDesign/Title_CharaName",
-   "text": "L  I  S  T     O  F     Y  O  U  R     G  O  T     P  R  E  S  E  N  T  S  ."
-  },
-  {
-   "location": "33/UI",
-   "narrator": "LoginBonusWindow/Panel/MessageBoxInfo/TopDesign/Title_Main",
-   "text": "PRESENT BOX"
-  },
-  {
-   "location": "34/UI",
-   "narrator": "LoginBonusWindow/Panel/MessageBoxInfo/cap2",
-   "text": "件の新着プレゼントがあります。",
-   "zh": "件新礼物。",
-   "narrator_zh": "LoginBonusWindow/Panel/MessageBoxInfo/cap2"
-  },
-  {
-   "location": "35/UI",
-   "narrator": "LoginBonusWindow/Panel/MessageBoxInfo/cap3",
-   "text": "新着のプレゼントはありません。",
-   "zh": "没有新礼物。",
-   "narrator_zh": "LoginBonusWindow/Panel/MessageBoxInfo/cap3"
-  },
-  {
-   "location": "36/UI",
-   "narrator": "LoginBonusWindow/Panel/SheldLoading/Panel/Text",
-   "text": "INITIALIZING\nSYSTEM."
-  }
- ]
+    "dir": "4b9d95fb5d245ee4597dda57c924aafc",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "14/UI",
+            "narrator": "LoginBonusWindow/LoadingMini/Panel/Text",
+            "text": "INITIALIZING\nSYSTEM.",
+            "zh": "INITIALIZING\nSYSTEM.",
+            "narrator_zh": "LoginBonusWindow/LoadingMini/Panel/Text"
+        },
+        {
+            "location": "15/UI",
+            "narrator": "LoginBonusWindow/Panel/Description/Button/SubText",
+            "text": "C L O S E   D E S C R I P T I O N",
+            "zh": "C L O S E   D E S C R I P T I O N",
+            "narrator_zh": "LoginBonusWindow/Panel/Description/Button/SubText"
+        },
+        {
+            "location": "16/UI",
+            "narrator": "LoginBonusWindow/Panel/Description/Button/Text",
+            "text": "閉じる",
+            "zh": "关闭",
+            "narrator_zh": "LoginBonusWindow/Panel/Description/Button/Text"
+        },
+        {
+            "location": "17/UI",
+            "narrator": "LoginBonusWindow/Panel/Description/Image/Text",
+            "text": "D E S C R I P T I O N",
+            "zh": "D E S C R I P T I O N",
+            "narrator_zh": "LoginBonusWindow/Panel/Description/Image/Text"
+        },
+        {
+            "location": "18/UI",
+            "narrator": "LoginBonusWindow/Panel/Description/RecieveButton/SubText",
+            "text": "R E C E I V E",
+            "zh": "R E C E I V E",
+            "narrator_zh": "LoginBonusWindow/Panel/Description/RecieveButton/SubText"
+        },
+        {
+            "location": "19/UI",
+            "narrator": "LoginBonusWindow/Panel/Description/RecieveButton/Text",
+            "text": "受け取る",
+            "zh": "领取",
+            "narrator_zh": "LoginBonusWindow/Panel/Description/RecieveButton/Text"
+        },
+        {
+            "location": "20/UI",
+            "narrator": "LoginBonusWindow/Panel/Description/TitleText",
+            "text": "【ジュエル】",
+            "zh": "【珠宝】",
+            "narrator_zh": "LoginBonusWindow/Panel/Description/TitleText"
+        },
+        {
+            "location": "21/UI",
+            "narrator": "LoginBonusWindow/Panel/ItemList_PRESENT/BackPrev/BackButton/Text",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "LoginBonusWindow/Panel/ItemList_PRESENT/BackPrev/BackButton/Text"
+        },
+        {
+            "location": "22/UI",
+            "narrator": "LoginBonusWindow/Panel/ItemList_PRESENT/BackPrev/PrevButton/Text",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "LoginBonusWindow/Panel/ItemList_PRESENT/BackPrev/PrevButton/Text"
+        },
+        {
+            "location": "23/UI",
+            "narrator": "LoginBonusWindow/Panel/ItemList_PRESENT/OKButton2/SubText",
+            "text": "C L O S E   T H E   P R E S E N T  B O X",
+            "zh": "C L O S E   T H E   P R E S E N T  B O X",
+            "narrator_zh": "LoginBonusWindow/Panel/ItemList_PRESENT/OKButton2/SubText"
+        },
+        {
+            "location": "24/UI",
+            "narrator": "LoginBonusWindow/Panel/ItemList_PRESENT/OKButton2/Text",
+            "text": "閉じる",
+            "zh": "关闭",
+            "narrator_zh": "LoginBonusWindow/Panel/ItemList_PRESENT/OKButton2/Text"
+        },
+        {
+            "location": "25/UI",
+            "narrator": "LoginBonusWindow/Panel/ItemList_PRESENT/ReceiveButton/SubText",
+            "text": "R E C E I V E   A L L",
+            "zh": "R E C E I V E   A L L",
+            "narrator_zh": "LoginBonusWindow/Panel/ItemList_PRESENT/ReceiveButton/SubText"
+        },
+        {
+            "location": "26/UI",
+            "narrator": "LoginBonusWindow/Panel/ItemList_PRESENT/ReceiveButton/Text",
+            "text": "すべて受け取る",
+            "zh": "全部领取",
+            "narrator_zh": "LoginBonusWindow/Panel/ItemList_PRESENT/ReceiveButton/Text"
+        },
+        {
+            "location": "27/UI",
+            "narrator": "LoginBonusWindow/Panel/ItemList_PRESENT/Text",
+            "text": "A V A I L A B L E   I T E M   L I S T",
+            "zh": "A V A I L A B L E   I T E M   L I S T",
+            "narrator_zh": "LoginBonusWindow/Panel/ItemList_PRESENT/Text"
+        },
+        {
+            "location": "28/UI",
+            "narrator": "LoginBonusWindow/Panel/LogInBonus/Panel/BackButton/Text",
+            "text": "次へ",
+            "zh": "下一步",
+            "narrator_zh": "LoginBonusWindow/Panel/LogInBonus/Panel/BackButton/Text"
+        },
+        {
+            "location": "29/UI",
+            "narrator": "LoginBonusWindow/Panel/LogInBonus/Panel/BackButton/TextB",
+            "text": "GOTO NEXT SCENE\n",
+            "zh": "GOTO NEXT SCENE\n",
+            "narrator_zh": "LoginBonusWindow/Panel/LogInBonus/Panel/BackButton/TextB"
+        },
+        {
+            "location": "30/UI",
+            "narrator": "LoginBonusWindow/Panel/LogInBonus/Panel/RectMask/Tweet/Panel/Text",
+            "text": "<color=red>1/18～4/12</color>の期間限定で\n大盤振る舞いの特別イベント。\n是非全部ゲットして。",
+            "zh": "<color=red>1/18～4/12</color>限时举办的\n超大方特别活动。\n一定要全部拿到。",
+            "narrator_zh": "LoginBonusWindow/Panel/LogInBonus/Panel/RectMask/Tweet/Panel/Text"
+        },
+        {
+            "location": "31/UI",
+            "narrator": "LoginBonusWindow/Panel/LogInBonus/Panel/RectMask/deco/TopText",
+            "text": "L O G I N   B O N U S   L I S T .",
+            "zh": "L O G I N   B O N U S   L I S T .",
+            "narrator_zh": "LoginBonusWindow/Panel/LogInBonus/Panel/RectMask/deco/TopText"
+        },
+        {
+            "location": "32/UI",
+            "narrator": "LoginBonusWindow/Panel/MessageBoxInfo/TopDesign/Title_CharaName",
+            "text": "L  I  S  T     O  F     Y  O  U  R     G  O  T     P  R  E  S  E  N  T  S  .",
+            "zh": "L  I  S  T     O  F     Y  O  U  R     G  O  T     P  R  E  S  E  N  T  S  .",
+            "narrator_zh": "LoginBonusWindow/Panel/MessageBoxInfo/TopDesign/Title_CharaName"
+        },
+        {
+            "location": "33/UI",
+            "narrator": "LoginBonusWindow/Panel/MessageBoxInfo/TopDesign/Title_Main",
+            "text": "PRESENT BOX",
+            "zh": "PRESENT BOX",
+            "narrator_zh": "LoginBonusWindow/Panel/MessageBoxInfo/TopDesign/Title_Main"
+        },
+        {
+            "location": "34/UI",
+            "narrator": "LoginBonusWindow/Panel/MessageBoxInfo/cap2",
+            "text": "件の新着プレゼントがあります。",
+            "zh": "件新礼物。",
+            "narrator_zh": "LoginBonusWindow/Panel/MessageBoxInfo/cap2"
+        },
+        {
+            "location": "35/UI",
+            "narrator": "LoginBonusWindow/Panel/MessageBoxInfo/cap3",
+            "text": "新着のプレゼントはありません。",
+            "zh": "没有新礼物。",
+            "narrator_zh": "LoginBonusWindow/Panel/MessageBoxInfo/cap3"
+        },
+        {
+            "location": "36/UI",
+            "narrator": "LoginBonusWindow/Panel/SheldLoading/Panel/Text",
+            "text": "INITIALIZING\nSYSTEM.",
+            "zh": "INITIALIZING\nSYSTEM.",
+            "narrator_zh": "LoginBonusWindow/Panel/SheldLoading/Panel/Text"
+        }
+    ]
 }

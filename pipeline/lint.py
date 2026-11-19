@@ -120,9 +120,11 @@ def lint_file(src_path: Path, out_path: Path, ssot: dict) -> list[Issue]:
         if text.count("\n") != zh.count("\n"):
             issues.append(Issue("ERROR", idx, "NEWLINE_MISMATCH", f"Newlines src={text.count(chr(10))} zh={zh.count(chr(10))}"))
 
-        # 6. 标记/变量/URL 完整保留
-        if Counter(TAG_RE.findall(text)) != Counter(TAG_RE.findall(zh)):
-            issues.append(Issue("ERROR", idx, "TAG_MISMATCH", f"Tags/vars mismatch: src={TAG_RE.findall(text)} zh={TAG_RE.findall(zh)}"))
+        # 6. 标记/变量/URL 完整保留（仅提取源标签时修正原文漏 '>' 笔误，如 develop_ch04 #7 的 <size=32MIYABI...）
+        src_tags = TAG_RE.findall(re.sub(r"<size=(\d+)(?=[A-Z])", r"<size=\1>", text))
+        zh_tags = TAG_RE.findall(zh)
+        if Counter(src_tags) != Counter(zh_tags):
+            issues.append(Issue("ERROR", idx, "TAG_MISMATCH", f"Tags/vars mismatch: src={src_tags} zh={zh_tags}"))
         if Counter(URL_RE.findall(text)) != Counter(URL_RE.findall(zh)):
             issues.append(Issue("ERROR", idx, "URL_MISMATCH", "URL modified or missing"))
 

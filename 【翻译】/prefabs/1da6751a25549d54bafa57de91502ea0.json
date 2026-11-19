@@ -1,422 +1,546 @@
 {
- "dir": "1da6751a25549d54bafa57de91502ea0",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "469/UI",
-   "narrator": "CuranMenuCanvas/Background/Loading/Loading/Text",
-   "text": "N O W   L O A D I N G . . ."
-  },
-  {
-   "location": "470/UI",
-   "narrator": "CuranMenuCanvas/Background/Loading/Tips/Text",
-   "text": "C U R A N   L I S T"
-  },
-  {
-   "location": "471/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_curanboost/Text1",
-   "text": "ココロクランブースト",
-   "zh": "心之库兰加成",
-   "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_curanboost/Text1"
-  },
-  {
-   "location": "472/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_curanboost/Text2",
-   "text": "K O K O R O   C U R A N   B O O S T"
-  },
-  {
-   "location": "473/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_curanlist/Text1",
-   "text": "サーバントクランリスト・売却",
-   "zh": "从属库兰列表·出售",
-   "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_curanlist/Text1"
-  },
-  {
-   "location": "474/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_curanlist/Text2",
-   "text": "S E R V A N T   C U R A N   L I S T"
-  },
-  {
-   "location": "475/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_evolution/Text1",
-   "text": "サーバントクラン進化合成",
-   "zh": "从属库兰进化合成",
-   "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_evolution/Text1"
-  },
-  {
-   "location": "476/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_evolution/Text2",
-   "text": "S E R V A N T   C U R A N   E V O L U T I O N"
-  },
-  {
-   "location": "477/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_hensei/Text1",
-   "text": "サーバントクラン編成",
-   "zh": "从属库兰编成",
-   "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_hensei/Text1"
-  },
-  {
-   "location": "478/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_hensei/Text2",
-   "text": "S E R V A N T   C U R A N   F O R M A T I O N"
-  },
-  {
-   "location": "479/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_strengthning/Text1",
-   "text": "サーバントクラン強化合成",
-   "zh": "从属库兰强化合成",
-   "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_strengthning/Text1"
-  },
-  {
-   "location": "480/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_strengthning/Text2",
-   "text": "S E R V A N T   C U R A N   S T R E N G T H E N I N G"
-  },
-  {
-   "location": "481/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_weapon/Text1",
-   "text": "クラン武器装備",
-   "zh": "库兰武器装备",
-   "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_weapon/Text1"
-  },
-  {
-   "location": "482/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_weapon/Text2",
-   "text": "C U R A N  W E A P O N  E Q U I P"
-  },
-  {
-   "location": "483/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Text",
-   "text": "S E R V A N T  C U R A N  L I S T"
-  },
-  {
-   "location": "484/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CharaName",
-   "text": "クラン",
-   "zh": "库兰",
-   "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CharaName"
-  },
-  {
-   "location": "485/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "486/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "487/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "488/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "489/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "490/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "AYAMI KUNIMASA"
-  },
-  {
-   "location": "491/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/Panel_AssistSkill/Panel_Bottom/Text",
-   "text": "先手必勝"
-  },
-  {
-   "location": "492/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/Panel_AssistSkill/Panel_Top/Text",
-   "text": "A S S I S T  S K I L L"
-  },
-  {
-   "location": "493/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/Panel_Curans/Panel_TAB/Text_PRM_NAME",
-   "text": "COST"
-  },
-  {
-   "location": "494/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "495/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "496/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "497/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "498/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "499/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "GABRIELLA"
-  },
-  {
-   "location": "500/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/Panel_AssistSkill/Panel_Bottom/Text",
-   "text": "狙い撃ち",
-   "zh": "狙击",
-   "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/Panel_AssistSkill/Panel_Bottom/Text"
-  },
-  {
-   "location": "501/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/Panel_AssistSkill/Panel_Top/Text",
-   "text": "A S S I S T  S K I L L"
-  },
-  {
-   "location": "502/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/Panel_Curans/Panel_TAB/Text_PRM_NAME",
-   "text": "COST"
-  },
-  {
-   "location": "503/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "504/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "505/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "506/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "507/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "508/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "KAGURA UZUKI"
-  },
-  {
-   "location": "509/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/Panel_AssistSkill/Panel_Bottom/Text",
-   "text": "エナジーバースト",
-   "zh": "能量爆发",
-   "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/Panel_AssistSkill/Panel_Bottom/Text"
-  },
-  {
-   "location": "510/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/Panel_AssistSkill/Panel_Top/Text",
-   "text": "A S S I S T  S K I L L"
-  },
-  {
-   "location": "511/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/Panel_Curans/Panel_TAB/Text_PRM_NAME",
-   "text": "COST"
-  },
-  {
-   "location": "512/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "513/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "514/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "515/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "516/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "517/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "T S U B A M E  O U S E"
-  },
-  {
-   "location": "518/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/Panel_AssistSkill/Panel_Bottom/Text",
-   "text": "１２３４５６７８９０１２３４"
-  },
-  {
-   "location": "519/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/Panel_AssistSkill/Panel_Top/Text",
-   "text": "A S S I S T  S K I L L"
-  },
-  {
-   "location": "520/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/Panel_Curans/Panel_TAB/Text_PRM_NAME",
-   "text": "COST"
-  },
-  {
-   "location": "521/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "522/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "523/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "524/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "525/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "526/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "MIYABI KOIGASAKI"
-  },
-  {
-   "location": "527/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/Panel_AssistSkill/Panel_Bottom/Text",
-   "text": "エナジーバースト",
-   "zh": "能量爆发",
-   "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/Panel_AssistSkill/Panel_Bottom/Text"
-  },
-  {
-   "location": "528/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/Panel_AssistSkill/Panel_Top/Text",
-   "text": "A S S I S T  S K I L L"
-  },
-  {
-   "location": "529/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/Panel_Curans/Panel_TAB/Text_PRM_NAME",
-   "text": "COST"
-  },
-  {
-   "location": "530/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
-   "text": "HP"
-  },
-  {
-   "location": "531/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
-   "text": "ATK"
-  },
-  {
-   "location": "532/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
-   "text": "DEF"
-  },
-  {
-   "location": "533/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
-   "text": "HEAL\n"
-  },
-  {
-   "location": "534/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
-   "text": "AGI"
-  },
-  {
-   "location": "535/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
-   "text": "TSUBAME  OHSE"
-  },
-  {
-   "location": "536/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/Panel_AssistSkill/Panel_Bottom/Text",
-   "text": "かばう",
-   "zh": "掩护",
-   "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/Panel_AssistSkill/Panel_Bottom/Text"
-  },
-  {
-   "location": "537/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/Panel_AssistSkill/Panel_Top/Text",
-   "text": "A S S I S T  S K I L L"
-  },
-  {
-   "location": "538/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/Panel_Curans/Panel_TAB/Text_PRM_NAME",
-   "text": "COST"
-  },
-  {
-   "location": "539/UI",
-   "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/Text",
-   "text": "C U R A N"
-  },
-  {
-   "location": "540/UI",
-   "narrator": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1A/Panel/Message",
-   "text": "<color=red>【クランメニュー】</color>では、クランの\n<color=red>【編成】</color>や<color=red>【強化】</color>などを行うこと\nができる。\n\nそれについては追々説明する\nとして、今は<color=green>【サーバント\nクラン編成】</color>をタップして。\n",
-   "zh": "<color=red>【库兰菜单】</color>里可以进行\n库兰的<color=red>【编成】</color>和<color=red>【强化】</color>等\n操作。\n\n那些之后再慢慢说明，\n现在先点<color=green>【从属\n库兰编成】</color>。\n",
-   "narrator_zh": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1A/Panel/Message"
-  },
-  {
-   "location": "541/UI",
-   "narrator": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1A/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1A/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "542/UI",
-   "narrator": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1A/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "543/UI",
-   "narrator": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1B/Panel/Message",
-   "text": "あ、少しだけ寄り道させて。\n<color=green>【ココロクランブースト】</color>に\n行ってみてもいい？\n\nちょっと運試ししてみましょ。\n",
-   "zh": "啊，让我稍微绕个路。\n去<color=green>【心之库兰强化】</color>\n看看好不好？\n\n稍微试一下运气吧。\n",
-   "narrator_zh": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1B/Panel/Message"
-  },
-  {
-   "location": "544/UI",
-   "narrator": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1B/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1B/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "545/UI",
-   "narrator": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1B/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  }
- ]
+    "dir": "1da6751a25549d54bafa57de91502ea0",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "469/UI",
+            "narrator": "CuranMenuCanvas/Background/Loading/Loading/Text",
+            "text": "N O W   L O A D I N G . . .",
+            "zh": "N O W   L O A D I N G . . .",
+            "narrator_zh": "CuranMenuCanvas/Background/Loading/Loading/Text"
+        },
+        {
+            "location": "470/UI",
+            "narrator": "CuranMenuCanvas/Background/Loading/Tips/Text",
+            "text": "C U R A N   L I S T",
+            "zh": "C U R A N   L I S T",
+            "narrator_zh": "CuranMenuCanvas/Background/Loading/Tips/Text"
+        },
+        {
+            "location": "471/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_curanboost/Text1",
+            "text": "ココロクランブースト",
+            "zh": "心之库兰加成",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_curanboost/Text1"
+        },
+        {
+            "location": "472/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_curanboost/Text2",
+            "text": "K O K O R O   C U R A N   B O O S T",
+            "zh": "K O K O R O   C U R A N   B O O S T",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_curanboost/Text2"
+        },
+        {
+            "location": "473/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_curanlist/Text1",
+            "text": "サーバントクランリスト・売却",
+            "zh": "从属库兰列表·出售",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_curanlist/Text1"
+        },
+        {
+            "location": "474/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_curanlist/Text2",
+            "text": "S E R V A N T   C U R A N   L I S T",
+            "zh": "S E R V A N T   C U R A N   L I S T",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_curanlist/Text2"
+        },
+        {
+            "location": "475/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_evolution/Text1",
+            "text": "サーバントクラン進化合成",
+            "zh": "从属库兰进化合成",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_evolution/Text1"
+        },
+        {
+            "location": "476/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_evolution/Text2",
+            "text": "S E R V A N T   C U R A N   E V O L U T I O N",
+            "zh": "S E R V A N T   C U R A N   E V O L U T I O N",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_evolution/Text2"
+        },
+        {
+            "location": "477/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_hensei/Text1",
+            "text": "サーバントクラン編成",
+            "zh": "从属库兰编成",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_hensei/Text1"
+        },
+        {
+            "location": "478/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_hensei/Text2",
+            "text": "S E R V A N T   C U R A N   F O R M A T I O N",
+            "zh": "S E R V A N T   C U R A N   F O R M A T I O N",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_hensei/Text2"
+        },
+        {
+            "location": "479/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_strengthning/Text1",
+            "text": "サーバントクラン強化合成",
+            "zh": "从属库兰强化合成",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_strengthning/Text1"
+        },
+        {
+            "location": "480/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_strengthning/Text2",
+            "text": "S E R V A N T   C U R A N   S T R E N G T H E N I N G",
+            "zh": "S E R V A N T   C U R A N   S T R E N G T H E N I N G",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_strengthning/Text2"
+        },
+        {
+            "location": "481/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_weapon/Text1",
+            "text": "クラン武器装備",
+            "zh": "库兰武器装备",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_weapon/Text1"
+        },
+        {
+            "location": "482/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_weapon/Text2",
+            "text": "C U R A N  W E A P O N  E Q U I P",
+            "zh": "C U R A N  W E A P O N  E Q U I P",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Scroll View/Viewport/Button_weapon/Text2"
+        },
+        {
+            "location": "483/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Text",
+            "text": "S E R V A N T  C U R A N  L I S T",
+            "zh": "S E R V A N T  C U R A N  L I S T",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/Curan_mainMenu/Curanmenu/Text"
+        },
+        {
+            "location": "484/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CharaName",
+            "text": "クラン",
+            "zh": "库兰",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CharaName"
+        },
+        {
+            "location": "485/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "486/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "487/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "488/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "489/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "490/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "AYAMI KUNIMASA",
+            "zh": "AYAMI KUNIMASA",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "491/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/Panel_AssistSkill/Panel_Bottom/Text",
+            "text": "先手必勝",
+            "zh": "先发制人",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/Panel_AssistSkill/Panel_Bottom/Text"
+        },
+        {
+            "location": "492/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/Panel_AssistSkill/Panel_Top/Text",
+            "text": "A S S I S T  S K I L L",
+            "zh": "A S S I S T  S K I L L",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/Panel_AssistSkill/Panel_Top/Text"
+        },
+        {
+            "location": "493/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/Panel_Curans/Panel_TAB/Text_PRM_NAME",
+            "text": "COST",
+            "zh": "COST",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_AYAMI/Panel_Curans/Panel_TAB/Text_PRM_NAME"
+        },
+        {
+            "location": "494/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "495/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "496/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "497/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "498/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "499/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "GABRIELLA",
+            "zh": "GABRIELLA",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "500/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/Panel_AssistSkill/Panel_Bottom/Text",
+            "text": "狙い撃ち",
+            "zh": "狙击",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/Panel_AssistSkill/Panel_Bottom/Text"
+        },
+        {
+            "location": "501/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/Panel_AssistSkill/Panel_Top/Text",
+            "text": "A S S I S T  S K I L L",
+            "zh": "A S S I S T  S K I L L",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/Panel_AssistSkill/Panel_Top/Text"
+        },
+        {
+            "location": "502/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/Panel_Curans/Panel_TAB/Text_PRM_NAME",
+            "text": "COST",
+            "zh": "COST",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Gabriella/Panel_Curans/Panel_TAB/Text_PRM_NAME"
+        },
+        {
+            "location": "503/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "504/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "505/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "506/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "507/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "508/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "KAGURA UZUKI",
+            "zh": "KAGURA UZUKI",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "509/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/Panel_AssistSkill/Panel_Bottom/Text",
+            "text": "エナジーバースト",
+            "zh": "能量爆发",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/Panel_AssistSkill/Panel_Bottom/Text"
+        },
+        {
+            "location": "510/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/Panel_AssistSkill/Panel_Top/Text",
+            "text": "A S S I S T  S K I L L",
+            "zh": "A S S I S T  S K I L L",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/Panel_AssistSkill/Panel_Top/Text"
+        },
+        {
+            "location": "511/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/Panel_Curans/Panel_TAB/Text_PRM_NAME",
+            "text": "COST",
+            "zh": "COST",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura/Panel_Curans/Panel_TAB/Text_PRM_NAME"
+        },
+        {
+            "location": "512/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "513/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "514/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "515/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "516/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "517/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "T S U B A M E  O U S E",
+            "zh": "T S U B A M E  O U S E",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "518/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/Panel_AssistSkill/Panel_Bottom/Text",
+            "text": "１２３４５６７８９０１２３４",
+            "zh": "１２３４５６７８９０１２３４",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/Panel_AssistSkill/Panel_Bottom/Text"
+        },
+        {
+            "location": "519/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/Panel_AssistSkill/Panel_Top/Text",
+            "text": "A S S I S T  S K I L L",
+            "zh": "A S S I S T  S K I L L",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/Panel_AssistSkill/Panel_Top/Text"
+        },
+        {
+            "location": "520/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/Panel_Curans/Panel_TAB/Text_PRM_NAME",
+            "text": "COST",
+            "zh": "COST",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Kagura_/Panel_Curans/Panel_TAB/Text_PRM_NAME"
+        },
+        {
+            "location": "521/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "522/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "523/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "524/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "525/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "526/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "MIYABI KOIGASAKI",
+            "zh": "MIYABI KOIGASAKI",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "527/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/Panel_AssistSkill/Panel_Bottom/Text",
+            "text": "エナジーバースト",
+            "zh": "能量爆发",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/Panel_AssistSkill/Panel_Bottom/Text"
+        },
+        {
+            "location": "528/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/Panel_AssistSkill/Panel_Top/Text",
+            "text": "A S S I S T  S K I L L",
+            "zh": "A S S I S T  S K I L L",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/Panel_AssistSkill/Panel_Top/Text"
+        },
+        {
+            "location": "529/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/Panel_Curans/Panel_TAB/Text_PRM_NAME",
+            "text": "COST",
+            "zh": "COST",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_Miyabi/Panel_Curans/Panel_TAB/Text_PRM_NAME"
+        },
+        {
+            "location": "530/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP",
+            "text": "HP",
+            "zh": "HP",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_1/Text_HP"
+        },
+        {
+            "location": "531/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK",
+            "text": "ATK",
+            "zh": "ATK",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_2/Text_ATK"
+        },
+        {
+            "location": "532/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF",
+            "text": "DEF",
+            "zh": "DEF",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_3/Text_DEF"
+        },
+        {
+            "location": "533/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL",
+            "text": "HEAL\n",
+            "zh": "HEAL\n",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_4/Text_HEAL"
+        },
+        {
+            "location": "534/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI",
+            "text": "AGI",
+            "zh": "AGI",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_Parameter/Panel_SUBAREA_5/Text_AGI"
+        },
+        {
+            "location": "535/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_TOP_BORDER/Text",
+            "text": "TSUBAME  OHSE",
+            "zh": "TSUBAME  OHSE",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/PANEL_StatusParameter/Panel_TOP_BORDER/Text"
+        },
+        {
+            "location": "536/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/Panel_AssistSkill/Panel_Bottom/Text",
+            "text": "かばう",
+            "zh": "掩护",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/Panel_AssistSkill/Panel_Bottom/Text"
+        },
+        {
+            "location": "537/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/Panel_AssistSkill/Panel_Top/Text",
+            "text": "A S S I S T  S K I L L",
+            "zh": "A S S I S T  S K I L L",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/Panel_AssistSkill/Panel_Top/Text"
+        },
+        {
+            "location": "538/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/Panel_Curans/Panel_TAB/Text_PRM_NAME",
+            "text": "COST",
+            "zh": "COST",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/CuranFormation_TSUBAME/Panel_Curans/Panel_TAB/Text_PRM_NAME"
+        },
+        {
+            "location": "539/UI",
+            "narrator": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/Text",
+            "text": "C U R A N",
+            "zh": "C U R A N",
+            "narrator_zh": "CuranMenuCanvas/Panel/Curan_menu/TopBar/Panel/Text"
+        },
+        {
+            "location": "540/UI",
+            "narrator": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1A/Panel/Message",
+            "text": "<color=red>【クランメニュー】</color>では、クランの\n<color=red>【編成】</color>や<color=red>【強化】</color>などを行うこと\nができる。\n\nそれについては追々説明する\nとして、今は<color=green>【サーバント\nクラン編成】</color>をタップして。\n",
+            "zh": "<color=red>【库兰菜单】</color>里可以进行\n库兰的<color=red>【编成】</color>和<color=red>【强化】</color>等\n操作。\n\n那些之后再慢慢说明，\n现在先点<color=green>【从属\n库兰编成】</color>。\n",
+            "narrator_zh": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1A/Panel/Message"
+        },
+        {
+            "location": "541/UI",
+            "narrator": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1A/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1A/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "542/UI",
+            "narrator": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1A/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1A/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "543/UI",
+            "narrator": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1B/Panel/Message",
+            "text": "あ、少しだけ寄り道させて。\n<color=green>【ココロクランブースト】</color>に\n行ってみてもいい？\n\nちょっと運試ししてみましょ。\n",
+            "zh": "啊，让我稍微绕个路。\n去<color=green>【心之库兰强化】</color>\n看看好不好？\n\n稍微试一下运气吧。\n",
+            "narrator_zh": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1B/Panel/Message"
+        },
+        {
+            "location": "544/UI",
+            "narrator": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1B/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1B/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "545/UI",
+            "narrator": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1B/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "CuranMenuCanvas/Panel/Tutorial/TutorialCuran1B/Panel/PicArea/RightButton/TextOK"
+        }
+    ]
 }

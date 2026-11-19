@@ -1,1449 +1,1827 @@
 {
- "dir": "level0.split0",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "60/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/ImageC/Text",
-   "text": "Energy Quantization..."
-  },
-  {
-   "location": "62/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text",
-   "text": "MOMENTUM,"
-  },
-  {
-   "location": "64/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text (1)",
-   "text": "WAVELENGTH,"
-  },
-  {
-   "location": "66/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text (2)",
-   "text": "FREQUENCY,"
-  },
-  {
-   "location": "68/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/QM/QM/Text",
-   "text": "QM : Quantum\nmechanics"
-  },
-  {
-   "location": "70/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/QM/QM/Text (1)",
-   "text": "QM"
-  },
-  {
-   "location": "72/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text",
-   "text": "TISE"
-  },
-  {
-   "location": "74/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (1)",
-   "text": "Time-independent Schrödinger equation\n∵ Schrödinger's wave function(t,x) = Time(t)･Space(x),\n-√1･h/2π･dTime(t)/dt･Space(x)\n=Time(t)･Quantized_Hamiltonian{x,√1･h/2π(∂/∂x,∂/∂y,∂/∂z)}･Space(x)\n→∇(nabla)≡(∂/∂x,∂/∂y,∂/∂z) , div{Time(t)･Space(x)}→\n-√1･h/2π･dTime(t)/dt/Time(t)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)/Space(x)\nLet constant be E(Energy).\nE･Time(t)=-√1･h/2π･dTime(t)/dt ,\n∴ E･Space(x)=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)  "
-  },
-  {
-   "location": "76/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (2)",
-   "text": "by the Austrian physicist\nErwin Rudolf Josef\nAlexander Schrödinger,1887-1961\n\nSchrödinger equation :\nBasic equations in quantum mechanics in physics.\n\nTime-dependent\nSchrödinger equation\n\nHamiltonian(x,Px,Py.Pz)\n→Quantized_Hamiltonian(x,∇)=Potential(x)-(h/2π)²/2m･∇²\n∴ -√1･h/2π･∂/∂x･wave function(t,x)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･wave function(t,x)"
-  },
-  {
-   "location": "78/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (3)",
-   "text": "The time-independent Schrödinger equation predicts that wave functions can form standing waves, called stationary states. These states are important in their own right, and if the stationary states are classified and understood, then it becomes easier to solve the time-dependent Schrödinger equation for any state. The time-independent Schrödinger equation is the equation describing stationary states."
-  },
-  {
-   "location": "80/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/EnemyNameText",
-   "text": "パティスリエ",
-   "zh": "甜品师",
-   "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/EnemyNameText"
-  },
-  {
-   "location": "82/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/EnemyNameText/Text",
-   "text": "ENEMY_CURAN_DATAFILE/."
-  },
-  {
-   "location": "84/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/InfoText",
-   "text": "パティシエ日本一を決める大会のため、日夜特訓をする子。だが、センス無き為、予選敗退。何故自分はダメなのか、こんなに人一倍頑張っているのに、悔しさと憤りで発症。お菓子の国を作り、自分が女王様になってみんなに万歳される世界を創造するが、三食毎日ケーキやお菓子なのでみんな基本死亡コース。",
-   "zh": "为了决出日本第一的甜品师而日夜特训的孩子。可是没有天分，预赛就败了。明明比谁都努力，为什么自己还是不行，就在不甘和愤懑中发病。造出一个点心之国，自己当上女王、接受所有人欢呼，但一日三餐全是蛋糕和点心，所以大家基本上都得死。",
-   "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/InfoText"
-  },
-  {
-   "location": "86/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/Loading/Text",
-   "text": "LOADING..."
-  },
-  {
-   "location": "88/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/TapStart/Text",
-   "text": "READY ! !"
-  },
-  {
-   "location": "90/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/TapStart/Text (1)",
-   "text": "タップでバトルスタート",
-   "zh": "点击开始战斗",
-   "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/TapStart/Text (1)"
-  },
-  {
-   "location": "92/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/ImageC/Text",
-   "text": "Energy Quantization..."
-  },
-  {
-   "location": "94/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text",
-   "text": "MOMENTUM,"
-  },
-  {
-   "location": "96/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text (1)",
-   "text": "WAVELENGTH,"
-  },
-  {
-   "location": "98/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text (2)",
-   "text": "FREQUENCY,"
-  },
-  {
-   "location": "100/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/QM/QM/Text",
-   "text": "QM : Quantum\nmechanics"
-  },
-  {
-   "location": "102/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/QM/QM/Text (1)",
-   "text": "QM"
-  },
-  {
-   "location": "104/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text",
-   "text": "TISE"
-  },
-  {
-   "location": "106/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (1)",
-   "text": "Time-independent Schrödinger equation\n∵ Schrödinger's wave function(t,x) = Time(t)･Space(x),\n-√1･h/2π･dTime(t)/dt･Space(x)\n=Time(t)･Quantized_Hamiltonian{x,√1･h/2π(∂/∂x,∂/∂y,∂/∂z)}･Space(x)\n→∇(nabla)≡(∂/∂x,∂/∂y,∂/∂z) , div{Time(t)･Space(x)}→\n-√1･h/2π･dTime(t)/dt/Time(t)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)/Space(x)\nLet constant be E(Energy).\nE･Time(t)=-√1･h/2π･dTime(t)/dt ,\n∴ E･Space(x)=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)  "
-  },
-  {
-   "location": "108/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (2)",
-   "text": "by the Austrian physicist\nErwin Rudolf Josef\nAlexander Schrödinger,1887-1961\n\nSchrödinger equation :\nBasic equations in quantum mechanics in physics.\n\nTime-dependent\nSchrödinger equation\n\nHamiltonian(x,Px,Py.Pz)\n→Quantized_Hamiltonian(x,∇)=Potential(x)-(h/2π)²/2m･∇²\n∴ -√1･h/2π･∂/∂x･wave function(t,x)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･wave function(t,x)"
-  },
-  {
-   "location": "110/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (3)",
-   "text": "The time-independent Schrödinger equation predicts that wave functions can form standing waves, called stationary states. These states are important in their own right, and if the stationary states are classified and understood, then it becomes easier to solve the time-dependent Schrödinger equation for any state. The time-independent Schrödinger equation is the equation describing stationary states."
-  },
-  {
-   "location": "112/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/EnemyNameText",
-   "text": "パティスリエ",
-   "zh": "甜品师",
-   "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/EnemyNameText"
-  },
-  {
-   "location": "114/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/EnemyNameText/Text",
-   "text": "ENEMY_CURAN_DATAFILE/."
-  },
-  {
-   "location": "116/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/InfoText",
-   "text": "パティシエ日本一を決める大会のため、日夜特訓をする子。だが、センス無き為、予選敗退。何故自分はダメなのか、こんなに人一倍頑張っているのに、悔しさと憤りで発症。お菓子の国を作り、自分が女王様になってみんなに万歳される世界を創造するが、三食毎日ケーキやお菓子なのでみんな基本死亡コース。",
-   "zh": "为了决出日本第一的甜品师而日夜特训的孩子。可是没有天分，预赛就败了。明明比谁都努力，为什么自己还是不行，就在不甘和愤懑中发病。造出一个点心之国，自己当上女王、接受所有人欢呼，但一日三餐全是蛋糕和点心，所以大家基本上都得死。",
-   "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/InfoText"
-  },
-  {
-   "location": "118/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/Loading/Text",
-   "text": "LOADING..."
-  },
-  {
-   "location": "120/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/TapStart/Text",
-   "text": "READY ! !"
-  },
-  {
-   "location": "122/UI",
-   "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/TapStart/Text (1)",
-   "text": "タップでバトルスタート",
-   "zh": "点击开始战斗",
-   "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/TapStart/Text (1)"
-  },
-  {
-   "location": "124/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Assets/CRCChecking/waku/Text",
-   "text": "ダウンロードデータを\nチェックしています。",
-   "zh": "正在确认\n下载数据。",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/CRCChecking/waku/Text"
-  },
-  {
-   "location": "126/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info01/Chiharu/NamePlate/Text",
-   "text": "ラブラブトレーナー千羽鶴",
-   "zh": "恋爱训练师千羽鹤",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info01/Chiharu/NamePlate/Text"
-  },
-  {
-   "location": "128/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info01/SerifWindow/Text",
-   "text": "２０１６年の東京。今、私たちの住むこの世界は<color=yellow>【クラン】</color>という存在が引き起こす災厄<color=yellow>【フェノメノン】</color>によって窮地に立たされている。",
-   "zh": "2016年的东京。如今，我们所在的这个世界，正被名为<color=yellow>【库兰】</color>的存在引发的灾厄<color=yellow>【PhenoMENON】</color>逼入绝境。",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info01/SerifWindow/Text"
-  },
-  {
-   "location": "130/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info02/Chiharu/NamePlate/Text",
-   "text": "ラブラブトレーナー千羽鶴",
-   "zh": "恋爱训练师千羽鹤",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info02/Chiharu/NamePlate/Text"
-  },
-  {
-   "location": "132/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info02/SerifWindow/Text",
-   "text": "その<color=yellow>【クラン】</color>に対処できるのは、彼女たち<color=yellow>【トライナリー】</color>と、その彼女たちを鍛え、育てることができる<color=yellow>【能力者である貴方】</color>だけ。",
-   "zh": "能够应对这些<color=yellow>【库兰】</color>的，只有她们<color=yellow>【三重奏】</color>，以及能够锻炼、培养她们的<color=yellow>【身为能力者的你】</color>。",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info02/SerifWindow/Text"
-  },
-  {
-   "location": "134/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info03/Chiharu/NamePlate/Text",
-   "text": "ラブラブトレーナー千羽鶴",
-   "zh": "恋爱训练师千羽鹤",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info03/Chiharu/NamePlate/Text"
-  },
-  {
-   "location": "136/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info03/SerifWindow/Text",
-   "text": "貴方は彼女たちにバトルガールとしての能力を与えることができる<color=yellow>【能力者】</color>。彼女を鍛え、時に心身共に支えながら、帝都を脅かす<color=yellow>【クラン】</color>に対処していくの。",
-   "zh": "你是能够赋予她们战斗少女能力的<color=yellow>【能力者】</color>。锻炼她，有时也从身心两边支撑她，一并应对威胁帝都的<color=yellow>【库兰】</color>。",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info03/SerifWindow/Text"
-  },
-  {
-   "location": "138/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info04/Chiharu/NamePlate/Text",
-   "text": "ラブラブトレーナー千羽鶴",
-   "zh": "恋爱训练师千羽鹤",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info04/Chiharu/NamePlate/Text"
-  },
-  {
-   "location": "140/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info04/SerifWindow/Text",
-   "text": "そんな貴方の守備範囲はバトルだけじゃない。むしろ<color=yellow>日常で彼女たちの心を支えること</color>の方が重要。貴方が彼女たちと交流し、絆を強めることで帝都は救われる。",
-   "zh": "你要守的可不只是战斗。更重要的是<color=yellow>在日常里支撑她们的心</color>。你与她们交流、加深羁绊，帝都才会得救。",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info04/SerifWindow/Text"
-  },
-  {
-   "location": "142/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info05/Chiharu/NamePlate/Text",
-   "text": "ラブラブトレーナー千羽鶴",
-   "zh": "恋爱训练师千羽鹤",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info05/Chiharu/NamePlate/Text"
-  },
-  {
-   "location": "144/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info05/SerifWindow/Text",
-   "text": "彼女たちとの生死を共にした絆は、やがて本当のパートナーへと発展していくかも。そしてその先にある<color=yellow>【彼女たちとの関係】</color>は、何物にも代えがたいものとなるはず。",
-   "zh": "与她们共过生死的羁绊，也许终会变成真正的伙伴。而在那之后的<color=yellow>【与她们的关系】</color>，应当是无可替代的。",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info05/SerifWindow/Text"
-  },
-  {
-   "location": "146/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Assets/Loading/Text",
-   "text": "NOW   DOWNLOADING . . ."
-  },
-  {
-   "location": "148/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Basic/Loading/Text",
-   "text": "N O W   L O A D I N G . . ."
-  },
-  {
-   "location": "150/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeA/NameWaku/Text",
-   "text": "ベルゼブブ",
-   "zh": "别西卜",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Basic/TypeA/NameWaku/Text"
-  },
-  {
-   "location": "152/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeA/NameWaku/title",
-   "text": "SERVANT CURAN NAME"
-  },
-  {
-   "location": "154/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeA/PicArea/Loading/Text",
-   "text": "Now Loading..."
-  },
-  {
-   "location": "156/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeA/PicArea/TopBar/Text",
-   "text": "C U R A N    F I L E ."
-  },
-  {
-   "location": "158/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeA/WordArea/Text",
-   "text": "ボス戦の最後に発動する<color=red>【キズナフィニッシュ】</color>。ここで大ダメージを与えるほど、報酬を沢山ゲットできる。秘訣は<color=green>『早く倒す』『フルボッコ発動』</color>など色々あるぞ。",
-   "zh": "首领战最后发动的<color=red>【羁绊终结】</color>。这里造成的伤害越大，能拿到的奖励就越多。诀窍很多，比如<color=green>‘尽快打倒’‘发动痛扁’</color>。",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Basic/TypeA/WordArea/Text"
-  },
-  {
-   "location": "160/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeB/NameWaku/Text",
-   "text": "恋ヶ崎みやび",
-   "zh": "恋之崎雅",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Basic/TypeB/NameWaku/Text"
-  },
-  {
-   "location": "162/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeB/PicArea/Loading/Text",
-   "text": "Now Loading..."
-  },
-  {
-   "location": "164/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeB/PicArea/waku/Text",
-   "text": "T I P S"
-  },
-  {
-   "location": "166/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeB/WordArea/Text",
-   "text": "あいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこ",
-   "zh": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Basic/TypeB/WordArea/Text"
-  },
-  {
-   "location": "168/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH01/MaskA/Hline/Info/moveA/ch",
-   "text": "Ch."
-  },
-  {
-   "location": "170/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH01/MaskA/Hline/Info/moveB/Cap",
-   "text": "Tri-OS Ch.01 User. \nAge. 15 / Pref. SHIZUOKA / Height. 157cm\nHer Self Curan :: Undefined.\nMindColor :: Crimson."
-  },
-  {
-   "location": "172/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH01/MaskA/Hline/Info/moveB/Name",
-   "text": "逢瀬 つばめ",
-   "zh": "逢濑 燕",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH01/MaskA/Hline/Info/moveB/Name"
-  },
-  {
-   "location": "174/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH01/MaskA/Hline/Info/moveB/NameAb",
-   "text": "T   S   U   B   A   M   E       O   H   S   E  ."
-  },
-  {
-   "location": "176/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH02/MaskA/Hline/Info/moveA/ch",
-   "text": "Ch."
-  },
-  {
-   "location": "178/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH02/MaskA/Hline/Info/moveB/Cap",
-   "text": "Tri-OS Ch.02 User. \nAge. 21 / Pref. NAGANO / Height. 164cm\nHer Self Curan :: MIKAGAMI_NO_MIKO.\nMindColor :: NAVY."
-  },
-  {
-   "location": "180/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH02/MaskA/Hline/Info/moveB/Name",
-   "text": "國政 綾水"
-  },
-  {
-   "location": "182/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH02/MaskA/Hline/Info/moveB/NameAb",
-   "text": "A  Y  A  M  I     K  U  N  I  M  A  S  A  ."
-  },
-  {
-   "location": "184/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH03/MaskA/Hline/Info/moveA/ch",
-   "text": "Ch."
-  },
-  {
-   "location": "186/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH03/MaskA/Hline/Info/moveB/Cap",
-   "text": "Tri-OS Ch.03 User. \nAge. 14 / Country. POLSKA / Height. 145cm\nHer Self Curan :: MARKSMAN.\nMindColor :: Peppermint."
-  },
-  {
-   "location": "188/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH03/MaskA/Hline/Info/moveB/Name",
-   "text": "ガブリエラ",
-   "zh": "加布里埃拉",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH03/MaskA/Hline/Info/moveB/Name"
-  },
-  {
-   "location": "190/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH03/MaskA/Hline/Info/moveB/NameAb",
-   "text": "G  A  B  R  I  E  L  L  A  ."
-  },
-  {
-   "location": "192/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH04/MaskA/Hline/Info/moveA/ch",
-   "text": "Ch."
-  },
-  {
-   "location": "194/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH04/MaskA/Hline/Info/moveB/Cap",
-   "text": "Tri-OS Ch.04 User. \nAge. 17 / Pref. KO-CHI / Height. 162cm\nHer Self Curan :: NAGO.\nMindColor :: Lavender."
-  },
-  {
-   "location": "196/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH04/MaskA/Hline/Info/moveB/Name",
-   "text": "恋ヶ崎 みやび",
-   "zh": "恋之崎 雅",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH04/MaskA/Hline/Info/moveB/Name"
-  },
-  {
-   "location": "198/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH04/MaskA/Hline/Info/moveB/NameAb",
-   "text": "M  I  Y  A  B  I     K  O  I  G  A  S  A  K  I  ."
-  },
-  {
-   "location": "200/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH05/MaskA/Hline/Info/moveA/ch",
-   "text": "Ch."
-  },
-  {
-   "location": "202/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH05/MaskA/Hline/Info/moveB/Cap",
-   "text": "Tri-OS Ch.05 User. \nAge. 15 / Pref. TOKYO / Height. 156cm\nHer Self Curan :: EARTHTASIA.\nMindColor :: Ginkgo."
-  },
-  {
-   "location": "204/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH05/MaskA/Hline/Info/moveB/Name",
-   "text": "卯月 神楽"
-  },
-  {
-   "location": "206/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH05/MaskA/Hline/Info/moveB/NameAb",
-   "text": "K  A  G  U  R  A     U  Z  U  K  I  ."
-  },
-  {
-   "location": "208/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/Play/PlayS/sankaku",
-   "text": "▼"
-  },
-  {
-   "location": "210/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/Play/PlayS/sankakuL",
-   "text": "▼"
-  },
-  {
-   "location": "212/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/Play/PlayS/sankakuL2",
-   "text": "▼"
-  },
-  {
-   "location": "214/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/Play/PlayS/sankakuR",
-   "text": "▼"
-  },
-  {
-   "location": "216/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/Play/PlayS/sankakuR2",
-   "text": "▼"
-  },
-  {
-   "location": "218/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/capText",
-   "text": "E  P  I  S  O  D  E"
-  },
-  {
-   "location": "220/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/capText (1)",
-   "text": "A N I M A T I O N."
-  },
-  {
-   "location": "222/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/Play/PlayS/sankaku",
-   "text": "▼"
-  },
-  {
-   "location": "224/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/Play/PlayS/sankakuL",
-   "text": "▼"
-  },
-  {
-   "location": "226/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/Play/PlayS/sankakuL2",
-   "text": "▼"
-  },
-  {
-   "location": "228/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/Play/PlayS/sankakuR",
-   "text": "▼"
-  },
-  {
-   "location": "230/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/Play/PlayS/sankakuR2",
-   "text": "▼"
-  },
-  {
-   "location": "232/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/capText",
-   "text": "E  P  I  S  O  D  E"
-  },
-  {
-   "location": "234/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/capText (1)",
-   "text": "A N I M A T I O N."
-  },
-  {
-   "location": "236/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/Play/PlayS/sankaku",
-   "text": "▼"
-  },
-  {
-   "location": "238/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/Play/PlayS/sankakuL",
-   "text": "▼"
-  },
-  {
-   "location": "240/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/Play/PlayS/sankakuL2",
-   "text": "▼"
-  },
-  {
-   "location": "242/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/Play/PlayS/sankakuR",
-   "text": "▼"
-  },
-  {
-   "location": "244/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/Play/PlayS/sankakuR2",
-   "text": "▼"
-  },
-  {
-   "location": "246/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/capText",
-   "text": "E  P  I  S  O  D  E"
-  },
-  {
-   "location": "248/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/capText (1)",
-   "text": "A N I M A T I O N."
-  },
-  {
-   "location": "250/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/Play/PlayS/sankaku",
-   "text": "▼"
-  },
-  {
-   "location": "252/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/Play/PlayS/sankakuL",
-   "text": "▼"
-  },
-  {
-   "location": "254/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/Play/PlayS/sankakuL2",
-   "text": "▼"
-  },
-  {
-   "location": "256/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/Play/PlayS/sankakuR",
-   "text": "▼"
-  },
-  {
-   "location": "258/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/Play/PlayS/sankakuR2",
-   "text": "▼"
-  },
-  {
-   "location": "260/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/capText",
-   "text": "E  P  I  S  O  D  E"
-  },
-  {
-   "location": "262/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/capText (1)",
-   "text": "A N I M A T I O N."
-  },
-  {
-   "location": "264/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/Play/PlayS/sankaku",
-   "text": "▼"
-  },
-  {
-   "location": "266/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/Play/PlayS/sankakuL",
-   "text": "▼"
-  },
-  {
-   "location": "268/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/Play/PlayS/sankakuL2",
-   "text": "▼"
-  },
-  {
-   "location": "270/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/Play/PlayS/sankakuR",
-   "text": "▼"
-  },
-  {
-   "location": "272/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/Play/PlayS/sankakuR2",
-   "text": "▼"
-  },
-  {
-   "location": "274/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/capText",
-   "text": "E  P  I  S  O  D  E"
-  },
-  {
-   "location": "276/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/capText (1)",
-   "text": "A N I M A T I O N."
-  },
-  {
-   "location": "278/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_DIVE/Hex/Words/CName/ChapterCap",
-   "text": "CODE : "
-  },
-  {
-   "location": "280/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_DIVE/Hex/Words/Chara/CH01/Name",
-   "text": "T S U B A M E   O H S E"
-  },
-  {
-   "location": "282/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_DIVE/Hex/Words/Title",
-   "text": "罪と罰",
-   "zh": "罪与罚",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_DIVE/Hex/Words/Title"
-  },
-  {
-   "location": "284/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_DIVE/Hex/Words/waku/waku2/Text",
-   "text": "D   A   T   A   B   A   S   E"
-  },
-  {
-   "location": "286/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/CName/ChapterCap",
-   "text": "CODE : "
-  },
-  {
-   "location": "288/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/CharacterName",
-   "text": "キャラクター名",
-   "zh": "角色名",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/CharacterName"
-  },
-  {
-   "location": "290/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/Title",
-   "text": "出陣【ギャヴィから見たCase】",
-   "zh": "出阵【加维所见的Case】",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/Title"
-  },
-  {
-   "location": "292/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH01/MojiBoard/CNmask/CharaName",
-   "text": "逢　瀬　つ　ば　め",
-   "zh": "逢　濑　燕",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH01/MojiBoard/CNmask/CharaName"
-  },
-  {
-   "location": "294/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH01/MojiBoard/CNmask/CharaSubName",
-   "text": " T   S   U   B    A   M   E       O   H   S   E"
-  },
-  {
-   "location": "296/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH01/MojiIcon/DayDra",
-   "text": "デ　イ　ド　ラ　つ　ば　め",
-   "zh": "每　日　剧　场　燕",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH01/MojiIcon/DayDra"
-  },
-  {
-   "location": "298/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH02/MojiBoard/CNmask/CharaName",
-   "text": "國　政　綾　水"
-  },
-  {
-   "location": "300/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH02/MojiBoard/CNmask/CharaSubName",
-   "text": "A  Y  A  M  I     K  U  N  I  M  A  S  A"
-  },
-  {
-   "location": "302/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH02/MojiIcon/DayDra",
-   "text": "デ　イ　ド　ラ　あ　や　み",
-   "zh": "每　日　剧　场　绫　水",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH02/MojiIcon/DayDra"
-  },
-  {
-   "location": "304/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH03/MojiBoard/CNmask/CharaName",
-   "text": "ガ　ブ　リ　エ　ラ",
-   "zh": "加　布　里　埃　拉",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH03/MojiBoard/CNmask/CharaName"
-  },
-  {
-   "location": "306/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH03/MojiBoard/CNmask/CharaSubName",
-   "text": "G   A   B   R   I   E   L   L   A"
-  },
-  {
-   "location": "308/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH03/MojiIcon/DayDra",
-   "text": "デ　イ　ド　ラ　ガ　ブ　リ　エ　ラ",
-   "zh": "每　日　剧　场　加　布　里　埃　拉",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH03/MojiIcon/DayDra"
-  },
-  {
-   "location": "310/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH04/MojiBoard/CNmask/CharaName",
-   "text": "恋  ヶ  崎  み  や  び",
-   "zh": "恋  之  崎  雅",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH04/MojiBoard/CNmask/CharaName"
-  },
-  {
-   "location": "312/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH04/MojiBoard/CNmask/CharaSubName",
-   "text": "M  I  Y  A  B  I     K  O  I  G  A  S  A  K  I"
-  },
-  {
-   "location": "314/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH04/MojiIcon/DayDra",
-   "text": "デ　イ　ド　ラ　み　や　び",
-   "zh": "每　日　剧　场　雅",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH04/MojiIcon/DayDra"
-  },
-  {
-   "location": "316/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH05/MojiBoard/CNmask/CharaName",
-   "text": "卯　月　神　楽"
-  },
-  {
-   "location": "318/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH05/MojiBoard/CNmask/CharaSubName",
-   "text": "K  A  G  U  R  A     U  Z  U  K  I"
-  },
-  {
-   "location": "320/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH05/MojiIcon/DayDra",
-   "text": "デ　イ　ド　ラ　か　ぐ　ら",
-   "zh": "每　日　剧　场　神　乐",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH05/MojiIcon/DayDra"
-  },
-  {
-   "location": "322/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Himegoto/CName/ChapterCap",
-   "text": "CODE : "
-  },
-  {
-   "location": "324/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Himegoto/MojiObject/WaveMoji",
-   "text": "WAVE Corp. Presents."
-  },
-  {
-   "location": "326/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Himegoto/Title",
-   "text": "出陣【ギャヴィから見たCase】",
-   "zh": "出阵【加维所见的Case】",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Himegoto/Title"
-  },
-  {
-   "location": "328/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH01/ChrName",
-   "text": "逢　瀬　つ　ば　め　　<size=16>- T S U B A M E   O H S E -</size>",
-   "zh": "逢　濑　燕　　<size=16>- T S U B A M E   O H S E -</size>",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH01/ChrName"
-  },
-  {
-   "location": "330/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH02/ChrName",
-   "text": "國　政　綾　水　　<size=16>- A Y A M I   K U N I M A S A -</size>"
-  },
-  {
-   "location": "332/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH03/ChrName",
-   "text": "ガ　ブ　リ　エ　ラ　　<size=16>- G A B R I E L L A -</size>",
-   "zh": "加　布　里　埃　拉　　<size=16>- G A B R I E L L A -</size>",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH03/ChrName"
-  },
-  {
-   "location": "334/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH04/ChrName",
-   "text": "恋　ヶ　崎　み　や　び　　<size=16>- M I Y A B I   K O I G A S A K I -</size>",
-   "zh": "恋　之　崎　雅　　<size=16>- M I Y A B I   K O I G A S A K I -</size>",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH04/ChrName"
-  },
-  {
-   "location": "336/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH05/ChrName",
-   "text": "卯　月　神　楽　　<size=16>- K A G U R A   U Z U K I -</size>"
-  },
-  {
-   "location": "338/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/Play/PlayS/sankaku",
-   "text": "▼"
-  },
-  {
-   "location": "340/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/Play/PlayS/sankakuL",
-   "text": "▼"
-  },
-  {
-   "location": "342/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/Play/PlayS/sankakuL2",
-   "text": "▼"
-  },
-  {
-   "location": "344/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/Play/PlayS/sankakuR",
-   "text": "▼"
-  },
-  {
-   "location": "346/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/Play/PlayS/sankakuR2",
-   "text": "▼"
-  },
-  {
-   "location": "348/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/capText",
-   "text": "E  P  I  S  O  D  E"
-  },
-  {
-   "location": "350/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/capText (1)",
-   "text": "A N I M A T I O N."
-  },
-  {
-   "location": "352/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/Play/PlayS/sankaku",
-   "text": "▼"
-  },
-  {
-   "location": "354/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/Play/PlayS/sankakuL",
-   "text": "▼"
-  },
-  {
-   "location": "356/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/Play/PlayS/sankakuL2",
-   "text": "▼"
-  },
-  {
-   "location": "358/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/Play/PlayS/sankakuR",
-   "text": "▼"
-  },
-  {
-   "location": "360/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/Play/PlayS/sankakuR2",
-   "text": "▼"
-  },
-  {
-   "location": "362/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/capText",
-   "text": "E  P  I  S  O  D  E"
-  },
-  {
-   "location": "364/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/capText (1)",
-   "text": "A N I M A T I O N."
-  },
-  {
-   "location": "366/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/Play/PlayS/sankaku",
-   "text": "▼"
-  },
-  {
-   "location": "368/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/Play/PlayS/sankakuL",
-   "text": "▼"
-  },
-  {
-   "location": "370/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/Play/PlayS/sankakuL2",
-   "text": "▼"
-  },
-  {
-   "location": "372/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/Play/PlayS/sankakuR",
-   "text": "▼"
-  },
-  {
-   "location": "374/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/Play/PlayS/sankakuR2",
-   "text": "▼"
-  },
-  {
-   "location": "376/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/capText",
-   "text": "E  P  I  S  O  D  E"
-  },
-  {
-   "location": "378/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/capText (1)",
-   "text": "A N I M A T I O N."
-  },
-  {
-   "location": "380/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/Play/PlayS/sankaku",
-   "text": "▼"
-  },
-  {
-   "location": "382/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/Play/PlayS/sankakuL",
-   "text": "▼"
-  },
-  {
-   "location": "384/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/Play/PlayS/sankakuL2",
-   "text": "▼"
-  },
-  {
-   "location": "386/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/Play/PlayS/sankakuR",
-   "text": "▼"
-  },
-  {
-   "location": "388/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/Play/PlayS/sankakuR2",
-   "text": "▼"
-  },
-  {
-   "location": "390/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/capText",
-   "text": "E  P  I  S  O  D  E"
-  },
-  {
-   "location": "392/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/capText (1)",
-   "text": "A N I M A T I O N."
-  },
-  {
-   "location": "394/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/Play/PlayS/sankaku",
-   "text": "▼"
-  },
-  {
-   "location": "396/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/Play/PlayS/sankakuL",
-   "text": "▼"
-  },
-  {
-   "location": "398/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/Play/PlayS/sankakuL2",
-   "text": "▼"
-  },
-  {
-   "location": "400/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/Play/PlayS/sankakuR",
-   "text": "▼"
-  },
-  {
-   "location": "402/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/Play/PlayS/sankakuR2",
-   "text": "▼"
-  },
-  {
-   "location": "404/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/capText",
-   "text": "E  P  I  S  O  D  E"
-  },
-  {
-   "location": "406/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/capText (1)",
-   "text": "A N I M A T I O N."
-  },
-  {
-   "location": "408/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/CName/ChapterCap",
-   "text": "CODE : "
-  },
-  {
-   "location": "410/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/CharacterName",
-   "text": "キャラクター名",
-   "zh": "角色名",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/CharacterName"
-  },
-  {
-   "location": "412/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/Title",
-   "text": "出陣【ギャヴィから見たCase】",
-   "zh": "出阵【加维所见的Case】",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/Title"
-  },
-  {
-   "location": "414/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH00/MojiBoard/CNmask/CharaName",
-   "text": "オ　ー　ル　キ　ャ　ス　ト",
-   "zh": "全　员",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH00/MojiBoard/CNmask/CharaName"
-  },
-  {
-   "location": "416/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH00/MojiBoard/CNmask/CharaSubName",
-   "text": "　　A　　　L　　　L　　　　C　　　A　　　S　　　T"
-  },
-  {
-   "location": "418/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH00/MojiIcon/DayDra",
-   "text": "デ　イ　ド　ラ　オ　ー　ル　キ　ャ　ス　ト",
-   "zh": "每　日　剧　场　全　员",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH00/MojiIcon/DayDra"
-  },
-  {
-   "location": "420/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH01/MojiBoard/CNmask/CharaName",
-   "text": "逢　瀬　つ　ば　め",
-   "zh": "逢　濑　燕",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH01/MojiBoard/CNmask/CharaName"
-  },
-  {
-   "location": "422/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH01/MojiBoard/CNmask/CharaSubName",
-   "text": " T   S   U   B    A   M   E       O   H   S   E"
-  },
-  {
-   "location": "424/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH01/MojiIcon/DayDra",
-   "text": "デ　イ　ド　ラ　つ　ば　め",
-   "zh": "每　日　剧　场　燕",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH01/MojiIcon/DayDra"
-  },
-  {
-   "location": "426/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH02/MojiBoard/CNmask/CharaName",
-   "text": "國　政　綾　水"
-  },
-  {
-   "location": "428/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH02/MojiBoard/CNmask/CharaSubName",
-   "text": "A  Y  A  M  I     K  U  N  I  M  A  S  A"
-  },
-  {
-   "location": "430/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH02/MojiIcon/DayDra",
-   "text": "デ　イ　ド　ラ　あ　や　み",
-   "zh": "每　日　剧　场　绫　水",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH02/MojiIcon/DayDra"
-  },
-  {
-   "location": "432/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH03/MojiBoard/CNmask/CharaName",
-   "text": "ガ　ブ　リ　エ　ラ",
-   "zh": "加　布　里　埃　拉",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH03/MojiBoard/CNmask/CharaName"
-  },
-  {
-   "location": "434/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH03/MojiBoard/CNmask/CharaSubName",
-   "text": "G   A   B   R   I   E   L   L   A"
-  },
-  {
-   "location": "436/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH03/MojiIcon/DayDra",
-   "text": "デ　イ　ド　ラ　ガ　ブ　リ　エ　ラ",
-   "zh": "每　日　剧　场　加　布　里　埃　拉",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH03/MojiIcon/DayDra"
-  },
-  {
-   "location": "438/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH04/MojiBoard/CNmask/CharaName",
-   "text": "恋  ヶ  崎  み  や  び",
-   "zh": "恋  之  崎  雅",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH04/MojiBoard/CNmask/CharaName"
-  },
-  {
-   "location": "440/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH04/MojiBoard/CNmask/CharaSubName",
-   "text": "M  I  Y  A  B  I     K  O  I  G  A  S  A  K  I"
-  },
-  {
-   "location": "442/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH04/MojiIcon/DayDra",
-   "text": "デ　イ　ド　ラ　み　や　び",
-   "zh": "每　日　剧　场　雅",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH04/MojiIcon/DayDra"
-  },
-  {
-   "location": "444/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH05/MojiBoard/CNmask/CharaName",
-   "text": "卯　月　神　楽"
-  },
-  {
-   "location": "446/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH05/MojiBoard/CNmask/CharaSubName",
-   "text": "K  A  G  U  R  A     U  Z  U  K  I"
-  },
-  {
-   "location": "448/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH05/MojiIcon/DayDra",
-   "text": "デ　イ　ド　ラ　か　ぐ　ら",
-   "zh": "每　日　剧　场　神　乐",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH05/MojiIcon/DayDra"
-  },
-  {
-   "location": "450/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CHTU/MojiBoard/CNmask/CharaName",
-   "text": "チ　ュ　ー　ト　リ　ア　ル",
-   "zh": "教　程",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CHTU/MojiBoard/CNmask/CharaName"
-  },
-  {
-   "location": "452/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CHTU/MojiBoard/CNmask/CharaSubName",
-   "text": "  T　　　U　　　T　　　O　　　R　　　I　　　A　　　L"
-  },
-  {
-   "location": "454/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CHTU/MojiIcon/DayDra",
-   "text": "チ　ュ　ー　ト　リ　ア　ル",
-   "zh": "教　程",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CHTU/MojiIcon/DayDra"
-  },
-  {
-   "location": "456/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Event/Hex/Words/CName/ChapterCap",
-   "text": "CODE : "
-  },
-  {
-   "location": "458/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Event/Hex/Words/CName/ChapterName",
-   "text": "SPR00-000"
-  },
-  {
-   "location": "460/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Event/Hex/Words/Title",
-   "text": "罪と罰",
-   "zh": "罪与罚",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Event/Hex/Words/Title"
-  },
-  {
-   "location": "462/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Event/Hex/Words/waku/waku2/Text",
-   "text": "D   A   T   A   B   A   S   E"
-  },
-  {
-   "location": "464/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/CName/ChapterCap",
-   "text": "CODE : "
-  },
-  {
-   "location": "466/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/MojiObject/WaveMoji",
-   "text": "WAVE Corp. Presents."
-  },
-  {
-   "location": "468/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/Title",
-   "text": "出陣【ギャヴィから見たCase】",
-   "zh": "出阵【加维所见的Case】",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/Title"
-  },
-  {
-   "location": "470/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH01/ChrName",
-   "text": "逢　瀬　つ　ば　め　　<size=16>- T S U B A M E   O H S E -</size>",
-   "zh": "逢　濑　燕　　<size=16>- T S U B A M E   O H S E -</size>",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH01/ChrName"
-  },
-  {
-   "location": "472/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH02/ChrName",
-   "text": "國　政　綾　水　　<size=16>- A Y A M I   K U N I M A S A -</size>"
-  },
-  {
-   "location": "474/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH03/ChrName",
-   "text": "ガ　ブ　リ　エ　ラ　　<size=16>- G A B R I E L L A -</size>",
-   "zh": "加　布　里　埃　拉　　<size=16>- G A B R I E L L A -</size>",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH03/ChrName"
-  },
-  {
-   "location": "476/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH04/ChrName",
-   "text": "恋　ヶ　崎　み　や　び　　<size=16>- M I Y A B I   K O I G A S A K I -</size>",
-   "zh": "恋　之　崎　雅　　<size=16>- M I Y A B I   K O I G A S A K I -</size>",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH04/ChrName"
-  },
-  {
-   "location": "478/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH05/ChrName",
-   "text": "卯　月　神　楽　　<size=16>- K A G U R A   U Z U K I -</size>"
-  },
-  {
-   "location": "480/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Spiritual/Hex/Words/CName/ChapterCap",
-   "text": "CODE : "
-  },
-  {
-   "location": "482/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Spiritual/Hex/Words/CName/ChapterName",
-   "text": "SPR00-000"
-  },
-  {
-   "location": "484/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Spiritual/Hex/Words/Chara/CH01/Name",
-   "text": "T S U B A M E   O H S E"
-  },
-  {
-   "location": "486/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Spiritual/Hex/Words/Title",
-   "text": "罪と罰",
-   "zh": "罪与罚",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Spiritual/Hex/Words/Title"
-  },
-  {
-   "location": "488/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Spiritual/Hex/Words/waku/waku2/Text",
-   "text": "D   A   T   A   B   A   S   E"
-  },
-  {
-   "location": "490/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeDIVE1/Hex/Words/waku/waku2/Text",
-   "text": "I n i t i a l i z i n g . . . "
-  },
-  {
-   "location": "492/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeDIVE2/Hex/Words/waku/waku2/Text",
-   "text": "I n i t i a l i z i n g . . . "
-  },
-  {
-   "location": "494/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeNormal",
-   "text": "http://210.140.155.94/news/top.html"
-  },
-  {
-   "location": "496/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeNormal/Loading/Text",
-   "text": "N O W   L O A D I N G . . ."
-  },
-  {
-   "location": "499/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart",
-   "text": "http://210.140.155.94/news/top.html"
-  },
-  {
-   "location": "500/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart",
-   "text": "https://d00030400.gamecity.ne.jp/a_girl/www/news/top.html"
-  },
-  {
-   "location": "502/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Anime/Loading/Text",
-   "text": "N O W   L O A D I N G . . ."
-  },
-  {
-   "location": "504/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Loading_Standard/Loading/Text",
-   "text": "N O W   L O A D I N G . . ."
-  },
-  {
-   "location": "506/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView",
-   "text": "http://210.140.155.94/gacha/gacha_detail_1.html"
-  },
-  {
-   "location": "508/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/Bottom/Close/Text",
-   "text": "閉じる",
-   "zh": "关闭",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/Bottom/Close/Text"
-  },
-  {
-   "location": "510/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/Bottom/Loading/Text",
-   "text": "Please wait."
-  },
-  {
-   "location": "512/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/Bottom/Loading/TextSub",
-   "text": "Now loading..."
-  },
-  {
-   "location": "514/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/Bottom/Progress/Text",
-   "text": "新しいデータをロード中…",
-   "zh": "正在载入新数据…",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/Bottom/Progress/Text"
-  },
-  {
-   "location": "516/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/ReUp/Text",
-   "text": "運営情報を再表示",
-   "zh": "重新显示运营信息",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/ReUp/Text"
-  },
-  {
-   "location": "518/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/TextMain",
-   "text": "Information NEWS."
-  },
-  {
-   "location": "520/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/TextSub",
-   "text": "拡張少女系トライナリー新着運営情報",
-   "zh": "扩张少女系三重奏最新运营信息",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/TextSub"
-  },
-  {
-   "location": "522/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/Message",
-   "text": "<b><color=#ff0044><size=40>逢瀬つばめ</size></color></b>\n<color=#ff0044><size=20>おうせつばめ</size></color>\n\n１５歳(高校１年)\n誕生日:2000.6.7\n\n静岡県出身。\n近年まで重い病気でずっと入院していたため世間知らず。\n元気で前向きで天然なムードメーカー。\n\n<b><color=orange>【好きなもの】</color></b>\nフレイメノウ、可愛い服\n、いちご、鯛焼き\n（チーズクリーム）\n\n<b><color=blue>【苦手なもの】</color></b>\n病院、薬、痛いこと\n",
-   "zh": "<b><color=#ff0044><size=40>逢濑燕</size></color></b>\n<color=#ff0044><size=20>逢濑燕</size></color>\n\n15岁（高一）\n生日:2000.6.7\n\n静冈县出身。\n直到前几年都因重病一直住院，因此不谙世事。\n开朗、向前看、有点天然的气氛担当。\n\n<b><color=orange>【喜欢的东西】</color></b>\nFreyMENOW、可爱的衣服\n、草莓、鲷鱼烧\n（芝士奶油）\n\n<b><color=blue>【不擅长的东西】</color></b>\n医院、药、疼的事\n",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/Message"
-  },
-  {
-   "location": "524/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/Message/BackFace/Text",
-   "text": "INFORMATION\n\nFROM  TRIGADGET"
-  },
-  {
-   "location": "526/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/Message/TopBar/Text",
-   "text": "PROFILE DATA 01"
-  },
-  {
-   "location": "528/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/PicArea/CenterButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "530/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "532/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "534/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/Message",
-   "text": "<b><color=#2670DA><size=40>國政綾水</size>(アーヤ)</color></b>\n<color=#2670DA><size=20>くにまさあやみ</size></color>\n\n２１歳(大学３年)\n誕生日:1994.9.14\n\n長野県出身。\n実家がド田舎の山中にある神社ということもあり、都会に憧れを持つ。責任感が強く、意志が固いリーダー肌の少女。\n\n<b><color=orange>【好きなもの】</color></b>\n武士の心得、精神統一\n哲学、子供、都会\n\n<b><color=blue>【苦手なもの】</color></b>\nだらしない人\n",
-   "zh": "<b><color=#2670DA><size=40>国政绫水</size>(绫水)</color></b>\n<color=#2670DA><size=20>国政绫水</size></color>\n\n21岁（大三）\n生日:1994.9.14\n\n长野县出身。\n因为老家是深山里的神社，所以向往城市。责任感强，意志坚定，是带头的那种少女。\n\n<b><color=orange>【喜欢的东西】</color></b>\n武士的心得、精神统一\n哲学、孩子、城市\n\n<b><color=blue>【不擅长的东西】</color></b>\n散漫的人\n",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/Message"
-  },
-  {
-   "location": "536/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/Message/BackFace/Text",
-   "text": "INFORMATION\n\nFROM  TRIGADGET"
-  },
-  {
-   "location": "538/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/Message/TopBar/Text",
-   "text": "PROFILE DATA 02"
-  },
-  {
-   "location": "540/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/PicArea/CenterButton/xTextOK",
-   "text": "OK"
-  },
-  {
-   "location": "542/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/PicArea/LeftButton/xTextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/PicArea/LeftButton/xTextCancel"
-  },
-  {
-   "location": "544/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "546/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/Message",
-   "text": "<b><color=#00E676><size=40>ガブリエラ</size></color></b>\n<color=#00E676><size=20>がぶりえら</size></color>\n\n１４歳(中学３年)\n誕生日:2001.10.13\n\nポーランド共和国\nワルシャワ出身。\n交換留学生として日本に来ている。祖国は今第二次冷戦によって戦火の中。アーヤの剣道試合を見て日本に憧れを持った。\n\n<b><color=orange>【好きなもの】</color></b>\n\nたこ焼き、日本文化、銃\n、プラツキジェムニャチャーネ\n\n<b><color=blue>【苦手なもの】</color></b>\n後ろに立たれること",
-   "zh": "<b><color=#00E676><size=40>加布里埃拉</size></color></b>\n<color=#00E676><size=20>加布里埃拉</size></color>\n\n14岁（初三）\n生日:2001.10.13\n\n波兰共和国\n华沙出身。\n作为交换留学生来到日本。祖国正因第二次冷战处于战火之中。看了绫水的剑道比赛后，对日本心生向往。\n\n<b><color=orange>【喜欢的东西】</color></b>\n\n章鱼烧、日本文化、枪\n、波兰土豆饼\n\n<b><color=blue>【不擅长的东西】</color></b>\n被人站在身后",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/Message"
-  },
-  {
-   "location": "548/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/Message/BackFace/Text",
-   "text": "INFORMATION\n\nFROM  TRIGADGET"
-  },
-  {
-   "location": "550/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/Message/TopBar/Text",
-   "text": "PROFILE DATA 03"
-  },
-  {
-   "location": "552/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/PicArea/CenterButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "554/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "556/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "558/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/Message",
-   "text": "<b><color=#C007FF><size=40>恋ヶ崎みやび</size></color></b>\n<color=#C007FF><size=20>こいがさきみやび</size></color>\n\n１７歳(高校３年)\n誕生日:1998.7.27\n\n高知県出身。\n高知の酒蔵の家の娘。PCスキルは世界レベルだが、言動が常に不思議ちゃん。要領よく生きることに命をかけており、大の面倒くさがりである。\n\n<b><color=orange>【好きなもの】</color></b>\n\n洋菓子、ＰＣ魔改造、温泉\n、一人で久里浜線に乗る\n\n<b><color=blue>【苦手なもの】</color></b>\n片付け\n",
-   "zh": "<b><color=#C007FF><size=40>恋之崎雅</size></color></b>\n<color=#C007FF><size=20>恋之崎雅</size></color>\n\n17岁（高三）\n生日:1998.7.27\n\n高知县出身。\n高知酒窖人家的女儿。PC技术是世界级，言行却总是古古怪怪。一门心思要把日子过得省事，非常怕麻烦。\n\n<b><color=orange>【喜欢的东西】</color></b>\n\n西点、PC魔改、温泉\n、一个人坐久里滨线\n\n<b><color=blue>【不擅长的东西】</color></b>\n收拾\n",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/Message"
-  },
-  {
-   "location": "560/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/Message/BackFace/Text",
-   "text": "INFORMATION\n\nFROM  TRIGADGET"
-  },
-  {
-   "location": "562/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/Message/TopBar/Text",
-   "text": "PROFILE DATA 04\t"
-  },
-  {
-   "location": "564/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/PicArea/CenterButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "566/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/PicArea/LeftButton/TextCancel",
-   "text": "キャンセル",
-   "zh": "取消",
-   "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/PicArea/LeftButton/TextCancel"
-  },
-  {
-   "location": "568/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/PicArea/RightButton/TextOK",
-   "text": "OK"
-  },
-  {
-   "location": "570/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/Loading/Text",
-   "text": "N O W   L O A D I N G . . ."
-  },
-  {
-   "location": "572/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/Tips/Text",
-   "text": "W E L C O M E   T O   T R I - O S !"
-  },
-  {
-   "location": "574/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart_",
-   "text": "http://210.140.155.94/news/top.html"
-  },
-  {
-   "location": "576/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart_/Loading/Text",
-   "text": "N O W   L O A D I N G . . ."
-  },
-  {
-   "location": "578/UI",
-   "narrator": "ScreenFadeManager/Panel/Loading_TypeStart_/Tips/Text",
-   "text": "W E L C O M E   T O   T R I - O S !"
-  }
- ]
+    "dir": "level0.split0",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "60/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/ImageC/Text",
+            "text": "Energy Quantization...",
+            "zh": "Energy Quantization...",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/ImageC/Text"
+        },
+        {
+            "location": "62/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text",
+            "text": "MOMENTUM,",
+            "zh": "MOMENTUM,",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text"
+        },
+        {
+            "location": "64/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text (1)",
+            "text": "WAVELENGTH,",
+            "zh": "WAVELENGTH,",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text (1)"
+        },
+        {
+            "location": "66/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text (2)",
+            "text": "FREQUENCY,",
+            "zh": "FREQUENCY,",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text (2)"
+        },
+        {
+            "location": "68/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/QM/QM/Text",
+            "text": "QM : Quantum\nmechanics",
+            "zh": "QM : Quantum\nmechanics",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/QM/QM/Text"
+        },
+        {
+            "location": "70/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/QM/QM/Text (1)",
+            "text": "QM",
+            "zh": "QM",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/QM/QM/Text (1)"
+        },
+        {
+            "location": "72/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text",
+            "text": "TISE",
+            "zh": "TISE",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text"
+        },
+        {
+            "location": "74/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (1)",
+            "text": "Time-independent Schrödinger equation\n∵ Schrödinger's wave function(t,x) = Time(t)･Space(x),\n-√1･h/2π･dTime(t)/dt･Space(x)\n=Time(t)･Quantized_Hamiltonian{x,√1･h/2π(∂/∂x,∂/∂y,∂/∂z)}･Space(x)\n→∇(nabla)≡(∂/∂x,∂/∂y,∂/∂z) , div{Time(t)･Space(x)}→\n-√1･h/2π･dTime(t)/dt/Time(t)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)/Space(x)\nLet constant be E(Energy).\nE･Time(t)=-√1･h/2π･dTime(t)/dt ,\n∴ E･Space(x)=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)  ",
+            "zh": "Time-independent Schrödinger equation\n∵ Schrödinger's wave function(t,x) = Time(t)･Space(x),\n-√1･h/2π･dTime(t)/dt･Space(x)\n=Time(t)･Quantized_Hamiltonian{x,√1･h/2π(∂/∂x,∂/∂y,∂/∂z)}･Space(x)\n→∇(nabla)≡(∂/∂x,∂/∂y,∂/∂z) , div{Time(t)･Space(x)}→\n-√1･h/2π･dTime(t)/dt/Time(t)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)/Space(x)\nLet constant be E(Energy).\nE･Time(t)=-√1･h/2π･dTime(t)/dt ,\n∴ E･Space(x)=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)  ",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (1)"
+        },
+        {
+            "location": "76/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (2)",
+            "text": "by the Austrian physicist\nErwin Rudolf Josef\nAlexander Schrödinger,1887-1961\n\nSchrödinger equation :\nBasic equations in quantum mechanics in physics.\n\nTime-dependent\nSchrödinger equation\n\nHamiltonian(x,Px,Py.Pz)\n→Quantized_Hamiltonian(x,∇)=Potential(x)-(h/2π)²/2m･∇²\n∴ -√1･h/2π･∂/∂x･wave function(t,x)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･wave function(t,x)",
+            "zh": "by the Austrian physicist\nErwin Rudolf Josef\nAlexander Schrödinger,1887-1961\n\nSchrödinger equation :\nBasic equations in quantum mechanics in physics.\n\nTime-dependent\nSchrödinger equation\n\nHamiltonian(x,Px,Py.Pz)\n→Quantized_Hamiltonian(x,∇)=Potential(x)-(h/2π)²/2m･∇²\n∴ -√1･h/2π･∂/∂x･wave function(t,x)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･wave function(t,x)",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (2)"
+        },
+        {
+            "location": "78/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (3)",
+            "text": "The time-independent Schrödinger equation predicts that wave functions can form standing waves, called stationary states. These states are important in their own right, and if the stationary states are classified and understood, then it becomes easier to solve the time-dependent Schrödinger equation for any state. The time-independent Schrödinger equation is the equation describing stationary states.",
+            "zh": "The time-independent Schrödinger equation predicts that wave functions can form standing waves, called stationary states. These states are important in their own right, and if the stationary states are classified and understood, then it becomes easier to solve the time-dependent Schrödinger equation for any state. The time-independent Schrödinger equation is the equation describing stationary states.",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (3)"
+        },
+        {
+            "location": "80/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/EnemyNameText",
+            "text": "パティスリエ",
+            "zh": "甜品师",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/EnemyNameText"
+        },
+        {
+            "location": "82/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/EnemyNameText/Text",
+            "text": "ENEMY_CURAN_DATAFILE/.",
+            "zh": "ENEMY_CURAN_DATAFILE/.",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/EnemyNameText/Text"
+        },
+        {
+            "location": "84/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/InfoText",
+            "text": "パティシエ日本一を決める大会のため、日夜特訓をする子。だが、センス無き為、予選敗退。何故自分はダメなのか、こんなに人一倍頑張っているのに、悔しさと憤りで発症。お菓子の国を作り、自分が女王様になってみんなに万歳される世界を創造するが、三食毎日ケーキやお菓子なのでみんな基本死亡コース。",
+            "zh": "为了决出日本第一的甜品师而日夜特训的孩子。可是没有天分，预赛就败了。明明比谁都努力，为什么自己还是不行，就在不甘和愤懑中发病。造出一个点心之国，自己当上女王、接受所有人欢呼，但一日三餐全是蛋糕和点心，所以大家基本上都得死。",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/InfoText"
+        },
+        {
+            "location": "86/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/Loading/Text",
+            "text": "LOADING...",
+            "zh": "LOADING...",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/Loading/Text"
+        },
+        {
+            "location": "88/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/TapStart/Text",
+            "text": "READY ! !",
+            "zh": "READY ! !",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/TapStart/Text"
+        },
+        {
+            "location": "90/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/TapStart/Text (1)",
+            "text": "タップでバトルスタート",
+            "zh": "点击开始战斗",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas/BattleLoading/TapStart/Text (1)"
+        },
+        {
+            "location": "92/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/ImageC/Text",
+            "text": "Energy Quantization...",
+            "zh": "Energy Quantization...",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/ImageC/Text"
+        },
+        {
+            "location": "94/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text",
+            "text": "MOMENTUM,",
+            "zh": "MOMENTUM,",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text"
+        },
+        {
+            "location": "96/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text (1)",
+            "text": "WAVELENGTH,",
+            "zh": "WAVELENGTH,",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text (1)"
+        },
+        {
+            "location": "98/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text (2)",
+            "text": "FREQUENCY,",
+            "zh": "FREQUENCY,",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/MOMENTUM/Text (2)"
+        },
+        {
+            "location": "100/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/QM/QM/Text",
+            "text": "QM : Quantum\nmechanics",
+            "zh": "QM : Quantum\nmechanics",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/QM/QM/Text"
+        },
+        {
+            "location": "102/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/QM/QM/Text (1)",
+            "text": "QM",
+            "zh": "QM",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/QM/QM/Text (1)"
+        },
+        {
+            "location": "104/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text",
+            "text": "TISE",
+            "zh": "TISE",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text"
+        },
+        {
+            "location": "106/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (1)",
+            "text": "Time-independent Schrödinger equation\n∵ Schrödinger's wave function(t,x) = Time(t)･Space(x),\n-√1･h/2π･dTime(t)/dt･Space(x)\n=Time(t)･Quantized_Hamiltonian{x,√1･h/2π(∂/∂x,∂/∂y,∂/∂z)}･Space(x)\n→∇(nabla)≡(∂/∂x,∂/∂y,∂/∂z) , div{Time(t)･Space(x)}→\n-√1･h/2π･dTime(t)/dt/Time(t)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)/Space(x)\nLet constant be E(Energy).\nE･Time(t)=-√1･h/2π･dTime(t)/dt ,\n∴ E･Space(x)=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)  ",
+            "zh": "Time-independent Schrödinger equation\n∵ Schrödinger's wave function(t,x) = Time(t)･Space(x),\n-√1･h/2π･dTime(t)/dt･Space(x)\n=Time(t)･Quantized_Hamiltonian{x,√1･h/2π(∂/∂x,∂/∂y,∂/∂z)}･Space(x)\n→∇(nabla)≡(∂/∂x,∂/∂y,∂/∂z) , div{Time(t)･Space(x)}→\n-√1･h/2π･dTime(t)/dt/Time(t)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)/Space(x)\nLet constant be E(Energy).\nE･Time(t)=-√1･h/2π･dTime(t)/dt ,\n∴ E･Space(x)=Quantized_Hamiltonian(x,√1･h/2π∇)･Space(x)  ",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (1)"
+        },
+        {
+            "location": "108/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (2)",
+            "text": "by the Austrian physicist\nErwin Rudolf Josef\nAlexander Schrödinger,1887-1961\n\nSchrödinger equation :\nBasic equations in quantum mechanics in physics.\n\nTime-dependent\nSchrödinger equation\n\nHamiltonian(x,Px,Py.Pz)\n→Quantized_Hamiltonian(x,∇)=Potential(x)-(h/2π)²/2m･∇²\n∴ -√1･h/2π･∂/∂x･wave function(t,x)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･wave function(t,x)",
+            "zh": "by the Austrian physicist\nErwin Rudolf Josef\nAlexander Schrödinger,1887-1961\n\nSchrödinger equation :\nBasic equations in quantum mechanics in physics.\n\nTime-dependent\nSchrödinger equation\n\nHamiltonian(x,Px,Py.Pz)\n→Quantized_Hamiltonian(x,∇)=Potential(x)-(h/2π)²/2m･∇²\n∴ -√1･h/2π･∂/∂x･wave function(t,x)\n=Quantized_Hamiltonian(x,√1･h/2π∇)･wave function(t,x)",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (2)"
+        },
+        {
+            "location": "110/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (3)",
+            "text": "The time-independent Schrödinger equation predicts that wave functions can form standing waves, called stationary states. These states are important in their own right, and if the stationary states are classified and understood, then it becomes easier to solve the time-dependent Schrödinger equation for any state. The time-independent Schrödinger equation is the equation describing stationary states.",
+            "zh": "The time-independent Schrödinger equation predicts that wave functions can form standing waves, called stationary states. These states are important in their own right, and if the stationary states are classified and understood, then it becomes easier to solve the time-dependent Schrödinger equation for any state. The time-independent Schrödinger equation is the equation describing stationary states.",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/BG_Triangle/Kazari/TISE/TISE/Text (3)"
+        },
+        {
+            "location": "112/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/EnemyNameText",
+            "text": "パティスリエ",
+            "zh": "甜品师",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/EnemyNameText"
+        },
+        {
+            "location": "114/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/EnemyNameText/Text",
+            "text": "ENEMY_CURAN_DATAFILE/.",
+            "zh": "ENEMY_CURAN_DATAFILE/.",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/EnemyNameText/Text"
+        },
+        {
+            "location": "116/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/InfoText",
+            "text": "パティシエ日本一を決める大会のため、日夜特訓をする子。だが、センス無き為、予選敗退。何故自分はダメなのか、こんなに人一倍頑張っているのに、悔しさと憤りで発症。お菓子の国を作り、自分が女王様になってみんなに万歳される世界を創造するが、三食毎日ケーキやお菓子なのでみんな基本死亡コース。",
+            "zh": "为了决出日本第一的甜品师而日夜特训的孩子。可是没有天分，预赛就败了。明明比谁都努力，为什么自己还是不行，就在不甘和愤懑中发病。造出一个点心之国，自己当上女王、接受所有人欢呼，但一日三餐全是蛋糕和点心，所以大家基本上都得死。",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/InfoText"
+        },
+        {
+            "location": "118/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/Loading/Text",
+            "text": "LOADING...",
+            "zh": "LOADING...",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/Loading/Text"
+        },
+        {
+            "location": "120/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/TapStart/Text",
+            "text": "READY ! !",
+            "zh": "READY ! !",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/TapStart/Text"
+        },
+        {
+            "location": "122/UI",
+            "narrator": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/TapStart/Text (1)",
+            "text": "タップでバトルスタート",
+            "zh": "点击开始战斗",
+            "narrator_zh": "ScreenFadeManager/Panel/BattleLoadingCanvas_/BattleLoading/TapStart/Text (1)"
+        },
+        {
+            "location": "124/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Assets/CRCChecking/waku/Text",
+            "text": "ダウンロードデータを\nチェックしています。",
+            "zh": "正在确认\n下载数据。",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/CRCChecking/waku/Text"
+        },
+        {
+            "location": "126/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info01/Chiharu/NamePlate/Text",
+            "text": "ラブラブトレーナー千羽鶴",
+            "zh": "恋爱训练师千羽鹤",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info01/Chiharu/NamePlate/Text"
+        },
+        {
+            "location": "128/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info01/SerifWindow/Text",
+            "text": "２０１６年の東京。今、私たちの住むこの世界は<color=yellow>【クラン】</color>という存在が引き起こす災厄<color=yellow>【フェノメノン】</color>によって窮地に立たされている。",
+            "zh": "2016年的东京。如今，我们所在的这个世界，正被名为<color=yellow>【库兰】</color>的存在引发的灾厄<color=yellow>【PhenoMENON】</color>逼入绝境。",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info01/SerifWindow/Text"
+        },
+        {
+            "location": "130/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info02/Chiharu/NamePlate/Text",
+            "text": "ラブラブトレーナー千羽鶴",
+            "zh": "恋爱训练师千羽鹤",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info02/Chiharu/NamePlate/Text"
+        },
+        {
+            "location": "132/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info02/SerifWindow/Text",
+            "text": "その<color=yellow>【クラン】</color>に対処できるのは、彼女たち<color=yellow>【トライナリー】</color>と、その彼女たちを鍛え、育てることができる<color=yellow>【能力者である貴方】</color>だけ。",
+            "zh": "能够应对这些<color=yellow>【库兰】</color>的，只有她们<color=yellow>【三重奏】</color>，以及能够锻炼、培养她们的<color=yellow>【身为能力者的你】</color>。",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info02/SerifWindow/Text"
+        },
+        {
+            "location": "134/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info03/Chiharu/NamePlate/Text",
+            "text": "ラブラブトレーナー千羽鶴",
+            "zh": "恋爱训练师千羽鹤",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info03/Chiharu/NamePlate/Text"
+        },
+        {
+            "location": "136/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info03/SerifWindow/Text",
+            "text": "貴方は彼女たちにバトルガールとしての能力を与えることができる<color=yellow>【能力者】</color>。彼女を鍛え、時に心身共に支えながら、帝都を脅かす<color=yellow>【クラン】</color>に対処していくの。",
+            "zh": "你是能够赋予她们战斗少女能力的<color=yellow>【能力者】</color>。锻炼她，有时也从身心两边支撑她，一并应对威胁帝都的<color=yellow>【库兰】</color>。",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info03/SerifWindow/Text"
+        },
+        {
+            "location": "138/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info04/Chiharu/NamePlate/Text",
+            "text": "ラブラブトレーナー千羽鶴",
+            "zh": "恋爱训练师千羽鹤",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info04/Chiharu/NamePlate/Text"
+        },
+        {
+            "location": "140/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info04/SerifWindow/Text",
+            "text": "そんな貴方の守備範囲はバトルだけじゃない。むしろ<color=yellow>日常で彼女たちの心を支えること</color>の方が重要。貴方が彼女たちと交流し、絆を強めることで帝都は救われる。",
+            "zh": "你要守的可不只是战斗。更重要的是<color=yellow>在日常里支撑她们的心</color>。你与她们交流、加深羁绊，帝都才会得救。",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info04/SerifWindow/Text"
+        },
+        {
+            "location": "142/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info05/Chiharu/NamePlate/Text",
+            "text": "ラブラブトレーナー千羽鶴",
+            "zh": "恋爱训练师千羽鹤",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info05/Chiharu/NamePlate/Text"
+        },
+        {
+            "location": "144/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info05/SerifWindow/Text",
+            "text": "彼女たちとの生死を共にした絆は、やがて本当のパートナーへと発展していくかも。そしてその先にある<color=yellow>【彼女たちとの関係】</color>は、何物にも代えがたいものとなるはず。",
+            "zh": "与她们共过生死的羁绊，也许终会变成真正的伙伴。而在那之后的<color=yellow>【与她们的关系】</color>，应当是无可替代的。",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/DataLoading/Info05/SerifWindow/Text"
+        },
+        {
+            "location": "146/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Assets/Loading/Text",
+            "text": "NOW   DOWNLOADING . . .",
+            "zh": "NOW   DOWNLOADING . . .",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Assets/Loading/Text"
+        },
+        {
+            "location": "148/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Basic/Loading/Text",
+            "text": "N O W   L O A D I N G . . .",
+            "zh": "N O W   L O A D I N G . . .",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Basic/Loading/Text"
+        },
+        {
+            "location": "150/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeA/NameWaku/Text",
+            "text": "ベルゼブブ",
+            "zh": "别西卜",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Basic/TypeA/NameWaku/Text"
+        },
+        {
+            "location": "152/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeA/NameWaku/title",
+            "text": "SERVANT CURAN NAME",
+            "zh": "SERVANT CURAN NAME",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Basic/TypeA/NameWaku/title"
+        },
+        {
+            "location": "154/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeA/PicArea/Loading/Text",
+            "text": "Now Loading...",
+            "zh": "Now Loading...",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Basic/TypeA/PicArea/Loading/Text"
+        },
+        {
+            "location": "156/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeA/PicArea/TopBar/Text",
+            "text": "C U R A N    F I L E .",
+            "zh": "C U R A N    F I L E .",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Basic/TypeA/PicArea/TopBar/Text"
+        },
+        {
+            "location": "158/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeA/WordArea/Text",
+            "text": "ボス戦の最後に発動する<color=red>【キズナフィニッシュ】</color>。ここで大ダメージを与えるほど、報酬を沢山ゲットできる。秘訣は<color=green>『早く倒す』『フルボッコ発動』</color>など色々あるぞ。",
+            "zh": "首领战最后发动的<color=red>【羁绊终结】</color>。这里造成的伤害越大，能拿到的奖励就越多。诀窍很多，比如<color=green>‘尽快打倒’‘发动痛扁’</color>。",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Basic/TypeA/WordArea/Text"
+        },
+        {
+            "location": "160/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeB/NameWaku/Text",
+            "text": "恋ヶ崎みやび",
+            "zh": "恋之崎雅",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Basic/TypeB/NameWaku/Text"
+        },
+        {
+            "location": "162/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeB/PicArea/Loading/Text",
+            "text": "Now Loading...",
+            "zh": "Now Loading...",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Basic/TypeB/PicArea/Loading/Text"
+        },
+        {
+            "location": "164/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeB/PicArea/waku/Text",
+            "text": "T I P S",
+            "zh": "T I P S",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Basic/TypeB/PicArea/waku/Text"
+        },
+        {
+            "location": "166/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Basic/TypeB/WordArea/Text",
+            "text": "あいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこ",
+            "zh": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Basic/TypeB/WordArea/Text"
+        },
+        {
+            "location": "168/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH01/MaskA/Hline/Info/moveA/ch",
+            "text": "Ch.",
+            "zh": "Ch.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH01/MaskA/Hline/Info/moveA/ch"
+        },
+        {
+            "location": "170/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH01/MaskA/Hline/Info/moveB/Cap",
+            "text": "Tri-OS Ch.01 User. \nAge. 15 / Pref. SHIZUOKA / Height. 157cm\nHer Self Curan :: Undefined.\nMindColor :: Crimson.",
+            "zh": "Tri-OS Ch.01 User. \nAge. 15 / Pref. SHIZUOKA / Height. 157cm\nHer Self Curan :: Undefined.\nMindColor :: Crimson.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH01/MaskA/Hline/Info/moveB/Cap"
+        },
+        {
+            "location": "172/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH01/MaskA/Hline/Info/moveB/Name",
+            "text": "逢瀬 つばめ",
+            "zh": "逢濑 燕",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH01/MaskA/Hline/Info/moveB/Name"
+        },
+        {
+            "location": "174/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH01/MaskA/Hline/Info/moveB/NameAb",
+            "text": "T   S   U   B   A   M   E       O   H   S   E  .",
+            "zh": "T   S   U   B   A   M   E       O   H   S   E  .",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH01/MaskA/Hline/Info/moveB/NameAb"
+        },
+        {
+            "location": "176/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH02/MaskA/Hline/Info/moveA/ch",
+            "text": "Ch.",
+            "zh": "Ch.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH02/MaskA/Hline/Info/moveA/ch"
+        },
+        {
+            "location": "178/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH02/MaskA/Hline/Info/moveB/Cap",
+            "text": "Tri-OS Ch.02 User. \nAge. 21 / Pref. NAGANO / Height. 164cm\nHer Self Curan :: MIKAGAMI_NO_MIKO.\nMindColor :: NAVY.",
+            "zh": "Tri-OS Ch.02 User. \nAge. 21 / Pref. NAGANO / Height. 164cm\nHer Self Curan :: MIKAGAMI_NO_MIKO.\nMindColor :: NAVY.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH02/MaskA/Hline/Info/moveB/Cap"
+        },
+        {
+            "location": "180/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH02/MaskA/Hline/Info/moveB/Name",
+            "text": "國政 綾水",
+            "zh": "国政 绫水",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH02/MaskA/Hline/Info/moveB/Name"
+        },
+        {
+            "location": "182/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH02/MaskA/Hline/Info/moveB/NameAb",
+            "text": "A  Y  A  M  I     K  U  N  I  M  A  S  A  .",
+            "zh": "A  Y  A  M  I     K  U  N  I  M  A  S  A  .",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH02/MaskA/Hline/Info/moveB/NameAb"
+        },
+        {
+            "location": "184/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH03/MaskA/Hline/Info/moveA/ch",
+            "text": "Ch.",
+            "zh": "Ch.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH03/MaskA/Hline/Info/moveA/ch"
+        },
+        {
+            "location": "186/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH03/MaskA/Hline/Info/moveB/Cap",
+            "text": "Tri-OS Ch.03 User. \nAge. 14 / Country. POLSKA / Height. 145cm\nHer Self Curan :: MARKSMAN.\nMindColor :: Peppermint.",
+            "zh": "Tri-OS Ch.03 User. \nAge. 14 / Country. POLSKA / Height. 145cm\nHer Self Curan :: MARKSMAN.\nMindColor :: Peppermint.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH03/MaskA/Hline/Info/moveB/Cap"
+        },
+        {
+            "location": "188/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH03/MaskA/Hline/Info/moveB/Name",
+            "text": "ガブリエラ",
+            "zh": "加布里埃拉",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH03/MaskA/Hline/Info/moveB/Name"
+        },
+        {
+            "location": "190/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH03/MaskA/Hline/Info/moveB/NameAb",
+            "text": "G  A  B  R  I  E  L  L  A  .",
+            "zh": "G  A  B  R  I  E  L  L  A  .",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH03/MaskA/Hline/Info/moveB/NameAb"
+        },
+        {
+            "location": "192/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH04/MaskA/Hline/Info/moveA/ch",
+            "text": "Ch.",
+            "zh": "Ch.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH04/MaskA/Hline/Info/moveA/ch"
+        },
+        {
+            "location": "194/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH04/MaskA/Hline/Info/moveB/Cap",
+            "text": "Tri-OS Ch.04 User. \nAge. 17 / Pref. KO-CHI / Height. 162cm\nHer Self Curan :: NAGO.\nMindColor :: Lavender.",
+            "zh": "Tri-OS Ch.04 User. \nAge. 17 / Pref. KO-CHI / Height. 162cm\nHer Self Curan :: NAGO.\nMindColor :: Lavender.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH04/MaskA/Hline/Info/moveB/Cap"
+        },
+        {
+            "location": "196/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH04/MaskA/Hline/Info/moveB/Name",
+            "text": "恋ヶ崎 みやび",
+            "zh": "恋之崎 雅",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH04/MaskA/Hline/Info/moveB/Name"
+        },
+        {
+            "location": "198/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH04/MaskA/Hline/Info/moveB/NameAb",
+            "text": "M  I  Y  A  B  I     K  O  I  G  A  S  A  K  I  .",
+            "zh": "M  I  Y  A  B  I     K  O  I  G  A  S  A  K  I  .",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH04/MaskA/Hline/Info/moveB/NameAb"
+        },
+        {
+            "location": "200/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH05/MaskA/Hline/Info/moveA/ch",
+            "text": "Ch.",
+            "zh": "Ch.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH05/MaskA/Hline/Info/moveA/ch"
+        },
+        {
+            "location": "202/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH05/MaskA/Hline/Info/moveB/Cap",
+            "text": "Tri-OS Ch.05 User. \nAge. 15 / Pref. TOKYO / Height. 156cm\nHer Self Curan :: EARTHTASIA.\nMindColor :: Ginkgo.",
+            "zh": "Tri-OS Ch.05 User. \nAge. 15 / Pref. TOKYO / Height. 156cm\nHer Self Curan :: EARTHTASIA.\nMindColor :: Ginkgo.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH05/MaskA/Hline/Info/moveB/Cap"
+        },
+        {
+            "location": "204/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH05/MaskA/Hline/Info/moveB/Name",
+            "text": "卯月 神楽",
+            "zh": "卯月 神乐",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH05/MaskA/Hline/Info/moveB/Name"
+        },
+        {
+            "location": "206/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH05/MaskA/Hline/Info/moveB/NameAb",
+            "text": "K  A  G  U  R  A     U  Z  U  K  I  .",
+            "zh": "K  A  G  U  R  A     U  Z  U  K  I  .",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChChange/TypeC/Chara/CH05/MaskA/Hline/Info/moveB/NameAb"
+        },
+        {
+            "location": "208/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/Play/PlayS/sankaku",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/Play/PlayS/sankaku"
+        },
+        {
+            "location": "210/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/Play/PlayS/sankakuL",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/Play/PlayS/sankakuL"
+        },
+        {
+            "location": "212/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/Play/PlayS/sankakuL2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/Play/PlayS/sankakuL2"
+        },
+        {
+            "location": "214/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/Play/PlayS/sankakuR",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/Play/PlayS/sankakuR"
+        },
+        {
+            "location": "216/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/Play/PlayS/sankakuR2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/Play/PlayS/sankakuR2"
+        },
+        {
+            "location": "218/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/capText",
+            "text": "E  P  I  S  O  D  E",
+            "zh": "E  P  I  S  O  D  E",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/capText"
+        },
+        {
+            "location": "220/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/capText (1)",
+            "text": "A N I M A T I O N.",
+            "zh": "A N I M A T I O N.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH01/Center/capText (1)"
+        },
+        {
+            "location": "222/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/Play/PlayS/sankaku",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/Play/PlayS/sankaku"
+        },
+        {
+            "location": "224/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/Play/PlayS/sankakuL",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/Play/PlayS/sankakuL"
+        },
+        {
+            "location": "226/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/Play/PlayS/sankakuL2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/Play/PlayS/sankakuL2"
+        },
+        {
+            "location": "228/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/Play/PlayS/sankakuR",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/Play/PlayS/sankakuR"
+        },
+        {
+            "location": "230/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/Play/PlayS/sankakuR2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/Play/PlayS/sankakuR2"
+        },
+        {
+            "location": "232/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/capText",
+            "text": "E  P  I  S  O  D  E",
+            "zh": "E  P  I  S  O  D  E",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/capText"
+        },
+        {
+            "location": "234/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/capText (1)",
+            "text": "A N I M A T I O N.",
+            "zh": "A N I M A T I O N.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH02/Center/capText (1)"
+        },
+        {
+            "location": "236/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/Play/PlayS/sankaku",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/Play/PlayS/sankaku"
+        },
+        {
+            "location": "238/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/Play/PlayS/sankakuL",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/Play/PlayS/sankakuL"
+        },
+        {
+            "location": "240/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/Play/PlayS/sankakuL2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/Play/PlayS/sankakuL2"
+        },
+        {
+            "location": "242/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/Play/PlayS/sankakuR",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/Play/PlayS/sankakuR"
+        },
+        {
+            "location": "244/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/Play/PlayS/sankakuR2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/Play/PlayS/sankakuR2"
+        },
+        {
+            "location": "246/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/capText",
+            "text": "E  P  I  S  O  D  E",
+            "zh": "E  P  I  S  O  D  E",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/capText"
+        },
+        {
+            "location": "248/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/capText (1)",
+            "text": "A N I M A T I O N.",
+            "zh": "A N I M A T I O N.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH03/Center/capText (1)"
+        },
+        {
+            "location": "250/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/Play/PlayS/sankaku",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/Play/PlayS/sankaku"
+        },
+        {
+            "location": "252/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/Play/PlayS/sankakuL",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/Play/PlayS/sankakuL"
+        },
+        {
+            "location": "254/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/Play/PlayS/sankakuL2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/Play/PlayS/sankakuL2"
+        },
+        {
+            "location": "256/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/Play/PlayS/sankakuR",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/Play/PlayS/sankakuR"
+        },
+        {
+            "location": "258/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/Play/PlayS/sankakuR2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/Play/PlayS/sankakuR2"
+        },
+        {
+            "location": "260/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/capText",
+            "text": "E  P  I  S  O  D  E",
+            "zh": "E  P  I  S  O  D  E",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/capText"
+        },
+        {
+            "location": "262/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/capText (1)",
+            "text": "A N I M A T I O N.",
+            "zh": "A N I M A T I O N.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH04/Center/capText (1)"
+        },
+        {
+            "location": "264/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/Play/PlayS/sankaku",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/Play/PlayS/sankaku"
+        },
+        {
+            "location": "266/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/Play/PlayS/sankakuL",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/Play/PlayS/sankakuL"
+        },
+        {
+            "location": "268/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/Play/PlayS/sankakuL2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/Play/PlayS/sankakuL2"
+        },
+        {
+            "location": "270/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/Play/PlayS/sankakuR",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/Play/PlayS/sankakuR"
+        },
+        {
+            "location": "272/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/Play/PlayS/sankakuR2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/Play/PlayS/sankakuR2"
+        },
+        {
+            "location": "274/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/capText",
+            "text": "E  P  I  S  O  D  E",
+            "zh": "E  P  I  S  O  D  E",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/capText"
+        },
+        {
+            "location": "276/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/capText (1)",
+            "text": "A N I M A T I O N.",
+            "zh": "A N I M A T I O N.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_ChapterChange/Panel/TypeD/Chara/CH05/Center/capText (1)"
+        },
+        {
+            "location": "278/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_DIVE/Hex/Words/CName/ChapterCap",
+            "text": "CODE : ",
+            "zh": "CODE : ",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_DIVE/Hex/Words/CName/ChapterCap"
+        },
+        {
+            "location": "280/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_DIVE/Hex/Words/Chara/CH01/Name",
+            "text": "T S U B A M E   O H S E",
+            "zh": "T S U B A M E   O H S E",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_DIVE/Hex/Words/Chara/CH01/Name"
+        },
+        {
+            "location": "282/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_DIVE/Hex/Words/Title",
+            "text": "罪と罰",
+            "zh": "罪与罚",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_DIVE/Hex/Words/Title"
+        },
+        {
+            "location": "284/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_DIVE/Hex/Words/waku/waku2/Text",
+            "text": "D   A   T   A   B   A   S   E",
+            "zh": "D   A   T   A   B   A   S   E",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_DIVE/Hex/Words/waku/waku2/Text"
+        },
+        {
+            "location": "286/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/CName/ChapterCap",
+            "text": "CODE : ",
+            "zh": "CODE : ",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/CName/ChapterCap"
+        },
+        {
+            "location": "288/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/CharacterName",
+            "text": "キャラクター名",
+            "zh": "角色名",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/CharacterName"
+        },
+        {
+            "location": "290/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/Title",
+            "text": "出陣【ギャヴィから見たCase】",
+            "zh": "出阵【加维所见的Case】",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/Title"
+        },
+        {
+            "location": "292/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH01/MojiBoard/CNmask/CharaName",
+            "text": "逢　瀬　つ　ば　め",
+            "zh": "逢　濑　燕",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH01/MojiBoard/CNmask/CharaName"
+        },
+        {
+            "location": "294/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH01/MojiBoard/CNmask/CharaSubName",
+            "text": " T   S   U   B    A   M   E       O   H   S   E",
+            "zh": " T   S   U   B    A   M   E       O   H   S   E",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH01/MojiBoard/CNmask/CharaSubName"
+        },
+        {
+            "location": "296/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH01/MojiIcon/DayDra",
+            "text": "デ　イ　ド　ラ　つ　ば　め",
+            "zh": "每　日　剧　场　燕",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH01/MojiIcon/DayDra"
+        },
+        {
+            "location": "298/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH02/MojiBoard/CNmask/CharaName",
+            "text": "國　政　綾　水",
+            "zh": "国　政　绫　水",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH02/MojiBoard/CNmask/CharaName"
+        },
+        {
+            "location": "300/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH02/MojiBoard/CNmask/CharaSubName",
+            "text": "A  Y  A  M  I     K  U  N  I  M  A  S  A",
+            "zh": "A  Y  A  M  I     K  U  N  I  M  A  S  A",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH02/MojiBoard/CNmask/CharaSubName"
+        },
+        {
+            "location": "302/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH02/MojiIcon/DayDra",
+            "text": "デ　イ　ド　ラ　あ　や　み",
+            "zh": "每　日　剧　场　绫　水",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH02/MojiIcon/DayDra"
+        },
+        {
+            "location": "304/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH03/MojiBoard/CNmask/CharaName",
+            "text": "ガ　ブ　リ　エ　ラ",
+            "zh": "加　布　里　埃　拉",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH03/MojiBoard/CNmask/CharaName"
+        },
+        {
+            "location": "306/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH03/MojiBoard/CNmask/CharaSubName",
+            "text": "G   A   B   R   I   E   L   L   A",
+            "zh": "G   A   B   R   I   E   L   L   A",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH03/MojiBoard/CNmask/CharaSubName"
+        },
+        {
+            "location": "308/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH03/MojiIcon/DayDra",
+            "text": "デ　イ　ド　ラ　ガ　ブ　リ　エ　ラ",
+            "zh": "每　日　剧　场　加　布　里　埃　拉",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH03/MojiIcon/DayDra"
+        },
+        {
+            "location": "310/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH04/MojiBoard/CNmask/CharaName",
+            "text": "恋  ヶ  崎  み  や  び",
+            "zh": "恋  之  崎  雅",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH04/MojiBoard/CNmask/CharaName"
+        },
+        {
+            "location": "312/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH04/MojiBoard/CNmask/CharaSubName",
+            "text": "M  I  Y  A  B  I     K  O  I  G  A  S  A  K  I",
+            "zh": "M  I  Y  A  B  I     K  O  I  G  A  S  A  K  I",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH04/MojiBoard/CNmask/CharaSubName"
+        },
+        {
+            "location": "314/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH04/MojiIcon/DayDra",
+            "text": "デ　イ　ド　ラ　み　や　び",
+            "zh": "每　日　剧　场　雅",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH04/MojiIcon/DayDra"
+        },
+        {
+            "location": "316/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH05/MojiBoard/CNmask/CharaName",
+            "text": "卯　月　神　楽",
+            "zh": "卯　月　神　乐",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH05/MojiBoard/CNmask/CharaName"
+        },
+        {
+            "location": "318/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH05/MojiBoard/CNmask/CharaSubName",
+            "text": "K  A  G  U  R  A     U  Z  U  K  I",
+            "zh": "K  A  G  U  R  A     U  Z  U  K  I",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH05/MojiBoard/CNmask/CharaSubName"
+        },
+        {
+            "location": "320/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH05/MojiIcon/DayDra",
+            "text": "デ　イ　ド　ラ　か　ぐ　ら",
+            "zh": "每　日　剧　场　神　乐",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Daydra01/TypeF/Chara/CH05/MojiIcon/DayDra"
+        },
+        {
+            "location": "322/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Himegoto/CName/ChapterCap",
+            "text": "CODE : ",
+            "zh": "CODE : ",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Himegoto/CName/ChapterCap"
+        },
+        {
+            "location": "324/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Himegoto/MojiObject/WaveMoji",
+            "text": "WAVE Corp. Presents.",
+            "zh": "WAVE Corp. Presents.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Himegoto/MojiObject/WaveMoji"
+        },
+        {
+            "location": "326/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Himegoto/Title",
+            "text": "出陣【ギャヴィから見たCase】",
+            "zh": "出阵【加维所见的Case】",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Himegoto/Title"
+        },
+        {
+            "location": "328/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH01/ChrName",
+            "text": "逢　瀬　つ　ば　め　　<size=16>- T S U B A M E   O H S E -</size>",
+            "zh": "逢　濑　燕　　<size=16>- T S U B A M E   O H S E -</size>",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH01/ChrName"
+        },
+        {
+            "location": "330/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH02/ChrName",
+            "text": "國　政　綾　水　　<size=16>- A Y A M I   K U N I M A S A -</size>",
+            "zh": "国　政　绫　水　　<size=16>- A Y A M I   K U N I M A S A -</size>",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH02/ChrName"
+        },
+        {
+            "location": "332/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH03/ChrName",
+            "text": "ガ　ブ　リ　エ　ラ　　<size=16>- G A B R I E L L A -</size>",
+            "zh": "加　布　里　埃　拉　　<size=16>- G A B R I E L L A -</size>",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH03/ChrName"
+        },
+        {
+            "location": "334/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH04/ChrName",
+            "text": "恋　ヶ　崎　み　や　び　　<size=16>- M I Y A B I   K O I G A S A K I -</size>",
+            "zh": "恋　之　崎　雅　　<size=16>- M I Y A B I   K O I G A S A K I -</size>",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH04/ChrName"
+        },
+        {
+            "location": "336/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH05/ChrName",
+            "text": "卯　月　神　楽　　<size=16>- K A G U R A   U Z U K I -</size>",
+            "zh": "卯　月　神　乐　　<size=16>- K A G U R A   U Z U K I -</size>",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Himegoto/TypeF/Chara/CH05/ChrName"
+        },
+        {
+            "location": "338/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/Play/PlayS/sankaku",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/Play/PlayS/sankaku"
+        },
+        {
+            "location": "340/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/Play/PlayS/sankakuL",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/Play/PlayS/sankakuL"
+        },
+        {
+            "location": "342/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/Play/PlayS/sankakuL2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/Play/PlayS/sankakuL2"
+        },
+        {
+            "location": "344/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/Play/PlayS/sankakuR",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/Play/PlayS/sankakuR"
+        },
+        {
+            "location": "346/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/Play/PlayS/sankakuR2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/Play/PlayS/sankakuR2"
+        },
+        {
+            "location": "348/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/capText",
+            "text": "E  P  I  S  O  D  E",
+            "zh": "E  P  I  S  O  D  E",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/capText"
+        },
+        {
+            "location": "350/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/capText (1)",
+            "text": "A N I M A T I O N.",
+            "zh": "A N I M A T I O N.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH01/Center/capText (1)"
+        },
+        {
+            "location": "352/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/Play/PlayS/sankaku",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/Play/PlayS/sankaku"
+        },
+        {
+            "location": "354/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/Play/PlayS/sankakuL",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/Play/PlayS/sankakuL"
+        },
+        {
+            "location": "356/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/Play/PlayS/sankakuL2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/Play/PlayS/sankakuL2"
+        },
+        {
+            "location": "358/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/Play/PlayS/sankakuR",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/Play/PlayS/sankakuR"
+        },
+        {
+            "location": "360/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/Play/PlayS/sankakuR2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/Play/PlayS/sankakuR2"
+        },
+        {
+            "location": "362/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/capText",
+            "text": "E  P  I  S  O  D  E",
+            "zh": "E  P  I  S  O  D  E",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/capText"
+        },
+        {
+            "location": "364/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/capText (1)",
+            "text": "A N I M A T I O N.",
+            "zh": "A N I M A T I O N.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH02/Center/capText (1)"
+        },
+        {
+            "location": "366/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/Play/PlayS/sankaku",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/Play/PlayS/sankaku"
+        },
+        {
+            "location": "368/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/Play/PlayS/sankakuL",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/Play/PlayS/sankakuL"
+        },
+        {
+            "location": "370/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/Play/PlayS/sankakuL2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/Play/PlayS/sankakuL2"
+        },
+        {
+            "location": "372/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/Play/PlayS/sankakuR",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/Play/PlayS/sankakuR"
+        },
+        {
+            "location": "374/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/Play/PlayS/sankakuR2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/Play/PlayS/sankakuR2"
+        },
+        {
+            "location": "376/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/capText",
+            "text": "E  P  I  S  O  D  E",
+            "zh": "E  P  I  S  O  D  E",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/capText"
+        },
+        {
+            "location": "378/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/capText (1)",
+            "text": "A N I M A T I O N.",
+            "zh": "A N I M A T I O N.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH03/Center/capText (1)"
+        },
+        {
+            "location": "380/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/Play/PlayS/sankaku",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/Play/PlayS/sankaku"
+        },
+        {
+            "location": "382/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/Play/PlayS/sankakuL",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/Play/PlayS/sankakuL"
+        },
+        {
+            "location": "384/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/Play/PlayS/sankakuL2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/Play/PlayS/sankakuL2"
+        },
+        {
+            "location": "386/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/Play/PlayS/sankakuR",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/Play/PlayS/sankakuR"
+        },
+        {
+            "location": "388/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/Play/PlayS/sankakuR2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/Play/PlayS/sankakuR2"
+        },
+        {
+            "location": "390/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/capText",
+            "text": "E  P  I  S  O  D  E",
+            "zh": "E  P  I  S  O  D  E",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/capText"
+        },
+        {
+            "location": "392/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/capText (1)",
+            "text": "A N I M A T I O N.",
+            "zh": "A N I M A T I O N.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH04/Center/capText (1)"
+        },
+        {
+            "location": "394/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/Play/PlayS/sankaku",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/Play/PlayS/sankaku"
+        },
+        {
+            "location": "396/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/Play/PlayS/sankakuL",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/Play/PlayS/sankakuL"
+        },
+        {
+            "location": "398/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/Play/PlayS/sankakuL2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/Play/PlayS/sankakuL2"
+        },
+        {
+            "location": "400/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/Play/PlayS/sankakuR",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/Play/PlayS/sankakuR"
+        },
+        {
+            "location": "402/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/Play/PlayS/sankakuR2",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/Play/PlayS/sankakuR2"
+        },
+        {
+            "location": "404/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/capText",
+            "text": "E  P  I  S  O  D  E",
+            "zh": "E  P  I  S  O  D  E",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/capText"
+        },
+        {
+            "location": "406/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/capText (1)",
+            "text": "A N I M A T I O N.",
+            "zh": "A N I M A T I O N.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Anime/Panel/TypeF/Chara/CH05/Center/capText (1)"
+        },
+        {
+            "location": "408/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/CName/ChapterCap",
+            "text": "CODE : ",
+            "zh": "CODE : ",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/CName/ChapterCap"
+        },
+        {
+            "location": "410/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/CharacterName",
+            "text": "キャラクター名",
+            "zh": "角色名",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/CharacterName"
+        },
+        {
+            "location": "412/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/Title",
+            "text": "出陣【ギャヴィから見たCase】",
+            "zh": "出阵【加维所见的Case】",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/Title"
+        },
+        {
+            "location": "414/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH00/MojiBoard/CNmask/CharaName",
+            "text": "オ　ー　ル　キ　ャ　ス　ト",
+            "zh": "全　员",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH00/MojiBoard/CNmask/CharaName"
+        },
+        {
+            "location": "416/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH00/MojiBoard/CNmask/CharaSubName",
+            "text": "　　A　　　L　　　L　　　　C　　　A　　　S　　　T",
+            "zh": "　　A　　　L　　　L　　　　C　　　A　　　S　　　T",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH00/MojiBoard/CNmask/CharaSubName"
+        },
+        {
+            "location": "418/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH00/MojiIcon/DayDra",
+            "text": "デ　イ　ド　ラ　オ　ー　ル　キ　ャ　ス　ト",
+            "zh": "每　日　剧　场　全　员",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH00/MojiIcon/DayDra"
+        },
+        {
+            "location": "420/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH01/MojiBoard/CNmask/CharaName",
+            "text": "逢　瀬　つ　ば　め",
+            "zh": "逢　濑　燕",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH01/MojiBoard/CNmask/CharaName"
+        },
+        {
+            "location": "422/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH01/MojiBoard/CNmask/CharaSubName",
+            "text": " T   S   U   B    A   M   E       O   H   S   E",
+            "zh": " T   S   U   B    A   M   E       O   H   S   E",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH01/MojiBoard/CNmask/CharaSubName"
+        },
+        {
+            "location": "424/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH01/MojiIcon/DayDra",
+            "text": "デ　イ　ド　ラ　つ　ば　め",
+            "zh": "每　日　剧　场　燕",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH01/MojiIcon/DayDra"
+        },
+        {
+            "location": "426/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH02/MojiBoard/CNmask/CharaName",
+            "text": "國　政　綾　水",
+            "zh": "国　政　绫　水",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH02/MojiBoard/CNmask/CharaName"
+        },
+        {
+            "location": "428/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH02/MojiBoard/CNmask/CharaSubName",
+            "text": "A  Y  A  M  I     K  U  N  I  M  A  S  A",
+            "zh": "A  Y  A  M  I     K  U  N  I  M  A  S  A",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH02/MojiBoard/CNmask/CharaSubName"
+        },
+        {
+            "location": "430/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH02/MojiIcon/DayDra",
+            "text": "デ　イ　ド　ラ　あ　や　み",
+            "zh": "每　日　剧　场　绫　水",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH02/MojiIcon/DayDra"
+        },
+        {
+            "location": "432/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH03/MojiBoard/CNmask/CharaName",
+            "text": "ガ　ブ　リ　エ　ラ",
+            "zh": "加　布　里　埃　拉",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH03/MojiBoard/CNmask/CharaName"
+        },
+        {
+            "location": "434/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH03/MojiBoard/CNmask/CharaSubName",
+            "text": "G   A   B   R   I   E   L   L   A",
+            "zh": "G   A   B   R   I   E   L   L   A",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH03/MojiBoard/CNmask/CharaSubName"
+        },
+        {
+            "location": "436/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH03/MojiIcon/DayDra",
+            "text": "デ　イ　ド　ラ　ガ　ブ　リ　エ　ラ",
+            "zh": "每　日　剧　场　加　布　里　埃　拉",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH03/MojiIcon/DayDra"
+        },
+        {
+            "location": "438/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH04/MojiBoard/CNmask/CharaName",
+            "text": "恋  ヶ  崎  み  や  び",
+            "zh": "恋  之  崎  雅",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH04/MojiBoard/CNmask/CharaName"
+        },
+        {
+            "location": "440/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH04/MojiBoard/CNmask/CharaSubName",
+            "text": "M  I  Y  A  B  I     K  O  I  G  A  S  A  K  I",
+            "zh": "M  I  Y  A  B  I     K  O  I  G  A  S  A  K  I",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH04/MojiBoard/CNmask/CharaSubName"
+        },
+        {
+            "location": "442/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH04/MojiIcon/DayDra",
+            "text": "デ　イ　ド　ラ　み　や　び",
+            "zh": "每　日　剧　场　雅",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH04/MojiIcon/DayDra"
+        },
+        {
+            "location": "444/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH05/MojiBoard/CNmask/CharaName",
+            "text": "卯　月　神　楽",
+            "zh": "卯　月　神　乐",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH05/MojiBoard/CNmask/CharaName"
+        },
+        {
+            "location": "446/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH05/MojiBoard/CNmask/CharaSubName",
+            "text": "K  A  G  U  R  A     U  Z  U  K  I",
+            "zh": "K  A  G  U  R  A     U  Z  U  K  I",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH05/MojiBoard/CNmask/CharaSubName"
+        },
+        {
+            "location": "448/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH05/MojiIcon/DayDra",
+            "text": "デ　イ　ド　ラ　か　ぐ　ら",
+            "zh": "每　日　剧　场　神　乐",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CH05/MojiIcon/DayDra"
+        },
+        {
+            "location": "450/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CHTU/MojiBoard/CNmask/CharaName",
+            "text": "チ　ュ　ー　ト　リ　ア　ル",
+            "zh": "教　程",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CHTU/MojiBoard/CNmask/CharaName"
+        },
+        {
+            "location": "452/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CHTU/MojiBoard/CNmask/CharaSubName",
+            "text": "  T　　　U　　　T　　　O　　　R　　　I　　　A　　　L",
+            "zh": "  T　　　U　　　T　　　O　　　R　　　I　　　A　　　L",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CHTU/MojiBoard/CNmask/CharaSubName"
+        },
+        {
+            "location": "454/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CHTU/MojiIcon/DayDra",
+            "text": "チ　ュ　ー　ト　リ　ア　ル",
+            "zh": "教　程",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Daydra/TypeF/Chara/CHTU/MojiIcon/DayDra"
+        },
+        {
+            "location": "456/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Event/Hex/Words/CName/ChapterCap",
+            "text": "CODE : ",
+            "zh": "CODE : ",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Event/Hex/Words/CName/ChapterCap"
+        },
+        {
+            "location": "458/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Event/Hex/Words/CName/ChapterName",
+            "text": "SPR00-000",
+            "zh": "SPR00-000",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Event/Hex/Words/CName/ChapterName"
+        },
+        {
+            "location": "460/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Event/Hex/Words/Title",
+            "text": "罪と罰",
+            "zh": "罪与罚",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Event/Hex/Words/Title"
+        },
+        {
+            "location": "462/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Event/Hex/Words/waku/waku2/Text",
+            "text": "D   A   T   A   B   A   S   E",
+            "zh": "D   A   T   A   B   A   S   E",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Event/Hex/Words/waku/waku2/Text"
+        },
+        {
+            "location": "464/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/CName/ChapterCap",
+            "text": "CODE : ",
+            "zh": "CODE : ",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/CName/ChapterCap"
+        },
+        {
+            "location": "466/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/MojiObject/WaveMoji",
+            "text": "WAVE Corp. Presents.",
+            "zh": "WAVE Corp. Presents.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/MojiObject/WaveMoji"
+        },
+        {
+            "location": "468/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/Title",
+            "text": "出陣【ギャヴィから見たCase】",
+            "zh": "出阵【加维所见的Case】",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/Title"
+        },
+        {
+            "location": "470/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH01/ChrName",
+            "text": "逢　瀬　つ　ば　め　　<size=16>- T S U B A M E   O H S E -</size>",
+            "zh": "逢　濑　燕　　<size=16>- T S U B A M E   O H S E -</size>",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH01/ChrName"
+        },
+        {
+            "location": "472/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH02/ChrName",
+            "text": "國　政　綾　水　　<size=16>- A Y A M I   K U N I M A S A -</size>",
+            "zh": "国　政　绫　水　　<size=16>- A Y A M I   K U N I M A S A -</size>",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH02/ChrName"
+        },
+        {
+            "location": "474/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH03/ChrName",
+            "text": "ガ　ブ　リ　エ　ラ　　<size=16>- G A B R I E L L A -</size>",
+            "zh": "加　布　里　埃　拉　　<size=16>- G A B R I E L L A -</size>",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH03/ChrName"
+        },
+        {
+            "location": "476/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH04/ChrName",
+            "text": "恋　ヶ　崎　み　や　び　　<size=16>- M I Y A B I   K O I G A S A K I -</size>",
+            "zh": "恋　之　崎　雅　　<size=16>- M I Y A B I   K O I G A S A K I -</size>",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH04/ChrName"
+        },
+        {
+            "location": "478/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH05/ChrName",
+            "text": "卯　月　神　楽　　<size=16>- K A G U R A   U Z U K I -</size>",
+            "zh": "卯　月　神　乐　　<size=16>- K A G U R A   U Z U K I -</size>",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Himegoto/TypeF/Chara/CH05/ChrName"
+        },
+        {
+            "location": "480/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Spiritual/Hex/Words/CName/ChapterCap",
+            "text": "CODE : ",
+            "zh": "CODE : ",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Spiritual/Hex/Words/CName/ChapterCap"
+        },
+        {
+            "location": "482/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Spiritual/Hex/Words/CName/ChapterName",
+            "text": "SPR00-000",
+            "zh": "SPR00-000",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Spiritual/Hex/Words/CName/ChapterName"
+        },
+        {
+            "location": "484/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Spiritual/Hex/Words/Chara/CH01/Name",
+            "text": "T S U B A M E   O H S E",
+            "zh": "T S U B A M E   O H S E",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Spiritual/Hex/Words/Chara/CH01/Name"
+        },
+        {
+            "location": "486/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Spiritual/Hex/Words/Title",
+            "text": "罪と罰",
+            "zh": "罪与罚",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Spiritual/Hex/Words/Title"
+        },
+        {
+            "location": "488/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_Scenario/Spiritual/Hex/Words/waku/waku2/Text",
+            "text": "D   A   T   A   B   A   S   E",
+            "zh": "D   A   T   A   B   A   S   E",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_Scenario/Spiritual/Hex/Words/waku/waku2/Text"
+        },
+        {
+            "location": "490/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeDIVE1/Hex/Words/waku/waku2/Text",
+            "text": "I n i t i a l i z i n g . . . ",
+            "zh": "I n i t i a l i z i n g . . . ",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeDIVE1/Hex/Words/waku/waku2/Text"
+        },
+        {
+            "location": "492/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeDIVE2/Hex/Words/waku/waku2/Text",
+            "text": "I n i t i a l i z i n g . . . ",
+            "zh": "I n i t i a l i z i n g . . . ",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeDIVE2/Hex/Words/waku/waku2/Text"
+        },
+        {
+            "location": "494/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeNormal",
+            "text": "http://210.140.155.94/news/top.html",
+            "zh": "http://210.140.155.94/news/top.html",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeNormal"
+        },
+        {
+            "location": "496/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeNormal/Loading/Text",
+            "text": "N O W   L O A D I N G . . .",
+            "zh": "N O W   L O A D I N G . . .",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeNormal/Loading/Text"
+        },
+        {
+            "location": "499/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart",
+            "text": "http://210.140.155.94/news/top.html",
+            "zh": "http://210.140.155.94/news/top.html",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart"
+        },
+        {
+            "location": "500/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart",
+            "text": "https://d00030400.gamecity.ne.jp/a_girl/www/news/top.html",
+            "zh": "https://d00030400.gamecity.ne.jp/a_girl/www/news/top.html",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart"
+        },
+        {
+            "location": "502/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Anime/Loading/Text",
+            "text": "N O W   L O A D I N G . . .",
+            "zh": "N O W   L O A D I N G . . .",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Anime/Loading/Text"
+        },
+        {
+            "location": "504/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Loading_Standard/Loading/Text",
+            "text": "N O W   L O A D I N G . . .",
+            "zh": "N O W   L O A D I N G . . .",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Loading_Standard/Loading/Text"
+        },
+        {
+            "location": "506/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView",
+            "text": "http://210.140.155.94/gacha/gacha_detail_1.html",
+            "zh": "http://210.140.155.94/gacha/gacha_detail_1.html",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView"
+        },
+        {
+            "location": "508/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/Bottom/Close/Text",
+            "text": "閉じる",
+            "zh": "关闭",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/Bottom/Close/Text"
+        },
+        {
+            "location": "510/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/Bottom/Loading/Text",
+            "text": "Please wait.",
+            "zh": "Please wait.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/Bottom/Loading/Text"
+        },
+        {
+            "location": "512/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/Bottom/Loading/TextSub",
+            "text": "Now loading...",
+            "zh": "Now loading...",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/Bottom/Loading/TextSub"
+        },
+        {
+            "location": "514/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/Bottom/Progress/Text",
+            "text": "新しいデータをロード中…",
+            "zh": "正在载入新数据…",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/Bottom/Progress/Text"
+        },
+        {
+            "location": "516/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/ReUp/Text",
+            "text": "運営情報を再表示",
+            "zh": "重新显示运营信息",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/ReUp/Text"
+        },
+        {
+            "location": "518/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/TextMain",
+            "text": "Information NEWS.",
+            "zh": "Information NEWS.",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/TextMain"
+        },
+        {
+            "location": "520/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/TextSub",
+            "text": "拡張少女系トライナリー新着運営情報",
+            "zh": "扩张少女系三重奏最新运营信息",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Normal/Panel/WebView/ToolBar/TextSub"
+        },
+        {
+            "location": "522/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/Message",
+            "text": "<b><color=#ff0044><size=40>逢瀬つばめ</size></color></b>\n<color=#ff0044><size=20>おうせつばめ</size></color>\n\n１５歳(高校１年)\n誕生日:2000.6.7\n\n静岡県出身。\n近年まで重い病気でずっと入院していたため世間知らず。\n元気で前向きで天然なムードメーカー。\n\n<b><color=orange>【好きなもの】</color></b>\nフレイメノウ、可愛い服\n、いちご、鯛焼き\n（チーズクリーム）\n\n<b><color=blue>【苦手なもの】</color></b>\n病院、薬、痛いこと\n",
+            "zh": "<b><color=#ff0044><size=40>逢濑燕</size></color></b>\n<color=#ff0044><size=20>逢濑燕</size></color>\n\n15岁（高一）\n生日:2000.6.7\n\n静冈县出身。\n直到前几年都因重病一直住院，因此不谙世事。\n开朗、向前看、有点天然的气氛担当。\n\n<b><color=orange>【喜欢的东西】</color></b>\nFreyMENOW、可爱的衣服\n、草莓、鲷鱼烧\n（芝士奶油）\n\n<b><color=blue>【不擅长的东西】</color></b>\n医院、药、疼的事\n",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/Message"
+        },
+        {
+            "location": "524/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/Message/BackFace/Text",
+            "text": "INFORMATION\n\nFROM  TRIGADGET",
+            "zh": "INFORMATION\n\nFROM  TRIGADGET",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/Message/BackFace/Text"
+        },
+        {
+            "location": "526/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/Message/TopBar/Text",
+            "text": "PROFILE DATA 01",
+            "zh": "PROFILE DATA 01",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/Message/TopBar/Text"
+        },
+        {
+            "location": "528/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/PicArea/CenterButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/PicArea/CenterButton/TextOK"
+        },
+        {
+            "location": "530/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "532/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch01/Dialog_profile01/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "534/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/Message",
+            "text": "<b><color=#2670DA><size=40>國政綾水</size>(アーヤ)</color></b>\n<color=#2670DA><size=20>くにまさあやみ</size></color>\n\n２１歳(大学３年)\n誕生日:1994.9.14\n\n長野県出身。\n実家がド田舎の山中にある神社ということもあり、都会に憧れを持つ。責任感が強く、意志が固いリーダー肌の少女。\n\n<b><color=orange>【好きなもの】</color></b>\n武士の心得、精神統一\n哲学、子供、都会\n\n<b><color=blue>【苦手なもの】</color></b>\nだらしない人\n",
+            "zh": "<b><color=#2670DA><size=40>国政绫水</size>(绫水)</color></b>\n<color=#2670DA><size=20>国政绫水</size></color>\n\n21岁（大三）\n生日:1994.9.14\n\n长野县出身。\n因为老家是深山里的神社，所以向往城市。责任感强，意志坚定，是带头的那种少女。\n\n<b><color=orange>【喜欢的东西】</color></b>\n武士的心得、精神统一\n哲学、孩子、城市\n\n<b><color=blue>【不擅长的东西】</color></b>\n散漫的人\n",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/Message"
+        },
+        {
+            "location": "536/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/Message/BackFace/Text",
+            "text": "INFORMATION\n\nFROM  TRIGADGET",
+            "zh": "INFORMATION\n\nFROM  TRIGADGET",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/Message/BackFace/Text"
+        },
+        {
+            "location": "538/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/Message/TopBar/Text",
+            "text": "PROFILE DATA 02",
+            "zh": "PROFILE DATA 02",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/Message/TopBar/Text"
+        },
+        {
+            "location": "540/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/PicArea/CenterButton/xTextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/PicArea/CenterButton/xTextOK"
+        },
+        {
+            "location": "542/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/PicArea/LeftButton/xTextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/PicArea/LeftButton/xTextCancel"
+        },
+        {
+            "location": "544/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch02/Dialog_profile02/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "546/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/Message",
+            "text": "<b><color=#00E676><size=40>ガブリエラ</size></color></b>\n<color=#00E676><size=20>がぶりえら</size></color>\n\n１４歳(中学３年)\n誕生日:2001.10.13\n\nポーランド共和国\nワルシャワ出身。\n交換留学生として日本に来ている。祖国は今第二次冷戦によって戦火の中。アーヤの剣道試合を見て日本に憧れを持った。\n\n<b><color=orange>【好きなもの】</color></b>\n\nたこ焼き、日本文化、銃\n、プラツキジェムニャチャーネ\n\n<b><color=blue>【苦手なもの】</color></b>\n後ろに立たれること",
+            "zh": "<b><color=#00E676><size=40>加布里埃拉</size></color></b>\n<color=#00E676><size=20>加布里埃拉</size></color>\n\n14岁（初三）\n生日:2001.10.13\n\n波兰共和国\n华沙出身。\n作为交换留学生来到日本。祖国正因第二次冷战处于战火之中。看了绫水的剑道比赛后，对日本心生向往。\n\n<b><color=orange>【喜欢的东西】</color></b>\n\n章鱼烧、日本文化、枪\n、波兰土豆饼\n\n<b><color=blue>【不擅长的东西】</color></b>\n被人站在身后",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/Message"
+        },
+        {
+            "location": "548/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/Message/BackFace/Text",
+            "text": "INFORMATION\n\nFROM  TRIGADGET",
+            "zh": "INFORMATION\n\nFROM  TRIGADGET",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/Message/BackFace/Text"
+        },
+        {
+            "location": "550/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/Message/TopBar/Text",
+            "text": "PROFILE DATA 03",
+            "zh": "PROFILE DATA 03",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/Message/TopBar/Text"
+        },
+        {
+            "location": "552/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/PicArea/CenterButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/PicArea/CenterButton/TextOK"
+        },
+        {
+            "location": "554/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "556/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch03/Dialog_profile03/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "558/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/Message",
+            "text": "<b><color=#C007FF><size=40>恋ヶ崎みやび</size></color></b>\n<color=#C007FF><size=20>こいがさきみやび</size></color>\n\n１７歳(高校３年)\n誕生日:1998.7.27\n\n高知県出身。\n高知の酒蔵の家の娘。PCスキルは世界レベルだが、言動が常に不思議ちゃん。要領よく生きることに命をかけており、大の面倒くさがりである。\n\n<b><color=orange>【好きなもの】</color></b>\n\n洋菓子、ＰＣ魔改造、温泉\n、一人で久里浜線に乗る\n\n<b><color=blue>【苦手なもの】</color></b>\n片付け\n",
+            "zh": "<b><color=#C007FF><size=40>恋之崎雅</size></color></b>\n<color=#C007FF><size=20>恋之崎雅</size></color>\n\n17岁（高三）\n生日:1998.7.27\n\n高知县出身。\n高知酒窖人家的女儿。PC技术是世界级，言行却总是古古怪怪。一门心思要把日子过得省事，非常怕麻烦。\n\n<b><color=orange>【喜欢的东西】</color></b>\n\n西点、PC魔改、温泉\n、一个人坐久里滨线\n\n<b><color=blue>【不擅长的东西】</color></b>\n收拾\n",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/Message"
+        },
+        {
+            "location": "560/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/Message/BackFace/Text",
+            "text": "INFORMATION\n\nFROM  TRIGADGET",
+            "zh": "INFORMATION\n\nFROM  TRIGADGET",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/Message/BackFace/Text"
+        },
+        {
+            "location": "562/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/Message/TopBar/Text",
+            "text": "PROFILE DATA 04\t",
+            "zh": "PROFILE DATA 04\t",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/Message/TopBar/Text"
+        },
+        {
+            "location": "564/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/PicArea/CenterButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/PicArea/CenterButton/TextOK"
+        },
+        {
+            "location": "566/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/PicArea/LeftButton/TextCancel",
+            "text": "キャンセル",
+            "zh": "取消",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/PicArea/LeftButton/TextCancel"
+        },
+        {
+            "location": "568/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/PicArea/RightButton/TextOK",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/DataLoading/ch04/Dialog_profile04/Panel/PicArea/RightButton/TextOK"
+        },
+        {
+            "location": "570/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/Loading/Text",
+            "text": "N O W   L O A D I N G . . .",
+            "zh": "N O W   L O A D I N G . . .",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/Loading/Text"
+        },
+        {
+            "location": "572/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/Tips/Text",
+            "text": "W E L C O M E   T O   T R I - O S !",
+            "zh": "W E L C O M E   T O   T R I - O S !",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart/Tutorial/Tips/Text"
+        },
+        {
+            "location": "574/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart_",
+            "text": "http://210.140.155.94/news/top.html",
+            "zh": "http://210.140.155.94/news/top.html",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart_"
+        },
+        {
+            "location": "576/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart_/Loading/Text",
+            "text": "N O W   L O A D I N G . . .",
+            "zh": "N O W   L O A D I N G . . .",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart_/Loading/Text"
+        },
+        {
+            "location": "578/UI",
+            "narrator": "ScreenFadeManager/Panel/Loading_TypeStart_/Tips/Text",
+            "text": "W E L C O M E   T O   T R I - O S !",
+            "zh": "W E L C O M E   T O   T R I - O S !",
+            "narrator_zh": "ScreenFadeManager/Panel/Loading_TypeStart_/Tips/Text"
+        }
+    ]
 }

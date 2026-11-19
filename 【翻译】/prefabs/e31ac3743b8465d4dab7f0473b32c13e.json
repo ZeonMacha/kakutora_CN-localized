@@ -1,206 +1,238 @@
 {
- "dir": "e31ac3743b8465d4dab7f0473b32c13e",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "472/UI",
-   "narrator": "UserConfigWindow/Panel/BirthDaySelector/OKButton/Text",
-   "text": "OK"
-  },
-  {
-   "location": "473/UI",
-   "narrator": "UserConfigWindow/Panel/BirthDaySelector/Panel_BORDER_1/Text",
-   "text": "誕生日を入力してください",
-   "zh": "请输入生日",
-   "narrator_zh": "UserConfigWindow/Panel/BirthDaySelector/Panel_BORDER_1/Text"
-  },
-  {
-   "location": "474/UI",
-   "narrator": "UserConfigWindow/Panel/BirthDaySelector/Selector/Text_D",
-   "text": "日"
-  },
-  {
-   "location": "475/UI",
-   "narrator": "UserConfigWindow/Panel/BirthDaySelector/Selector/Text_M",
-   "text": "月"
-  },
-  {
-   "location": "476/UI",
-   "narrator": "UserConfigWindow/Panel/BirthDaySelector/Selector/Text_Y",
-   "text": "年"
-  },
-  {
-   "location": "477/UI",
-   "narrator": "UserConfigWindow/Panel/CommentSelector/OKButton/Text",
-   "text": "OK"
-  },
-  {
-   "location": "478/UI",
-   "narrator": "UserConfigWindow/Panel/CommentSelector/Panel_BORDER_1/Text",
-   "text": "ひとことコメントを選択してください",
-   "zh": "请选择一句话留言",
-   "narrator_zh": "UserConfigWindow/Panel/CommentSelector/Panel_BORDER_1/Text"
-  },
-  {
-   "location": "479/UI",
-   "narrator": "UserConfigWindow/Panel/Image_Favo/Text",
-   "text": "お気に入り",
-   "zh": "收藏",
-   "narrator_zh": "UserConfigWindow/Panel/Image_Favo/Text"
-  },
-  {
-   "location": "480/UI",
-   "narrator": "UserConfigWindow/Panel/NameEditor/InputField",
-   "text": "名前は８文字まで",
-   "zh": "名字最多８个字",
-   "narrator_zh": "UserConfigWindow/Panel/NameEditor/InputField"
-  },
-  {
-   "location": "481/UI",
-   "narrator": "UserConfigWindow/Panel/NameEditor/InputField/Text",
-   "text": "名前は８文字まで",
-   "zh": "名字最多８个字",
-   "narrator_zh": "UserConfigWindow/Panel/NameEditor/InputField/Text"
-  },
-  {
-   "location": "482/UI",
-   "narrator": "UserConfigWindow/Panel/NameEditor/InputField/mojiInfo",
-   "text": "(8文字以内)"
-  },
-  {
-   "location": "483/UI",
-   "narrator": "UserConfigWindow/Panel/NameEditor/OKButton/Text",
-   "text": "OK"
-  },
-  {
-   "location": "484/UI",
-   "narrator": "UserConfigWindow/Panel/NameEditor/Panel_BORDER_1/Text",
-   "text": "あなたの名前を入力してください",
-   "zh": "请输入你的名字",
-   "narrator_zh": "UserConfigWindow/Panel/NameEditor/Panel_BORDER_1/Text"
-  },
-  {
-   "location": "485/UI",
-   "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_BORDER_1/Text",
-   "text": "お気に入りヒロイン",
-   "zh": "收藏的女主角",
-   "narrator_zh": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_BORDER_1/Text"
-  },
-  {
-   "location": "486/UI",
-   "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_DATAAREA_1/Text_FavHeroine",
-   "text": "ヒロイン名称",
-   "zh": "女主角名称",
-   "narrator_zh": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_DATAAREA_1/Text_FavHeroine"
-  },
-  {
-   "location": "487/UI",
-   "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_DATAAREA_3/Text_NickName",
-   "text": "私"
-  },
-  {
-   "location": "488/UI",
-   "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_DATAAREA_4/Text_FavHeroine",
-   "text": "１２３４５６７８９０１２３４５６７８９０"
-  },
-  {
-   "location": "489/UI",
-   "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_2/Text",
-   "text": "あなたの名前",
-   "zh": "你的名字",
-   "narrator_zh": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_2/Text"
-  },
-  {
-   "location": "490/UI",
-   "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_3/Text",
-   "text": "あなたのお誕生日",
-   "zh": "你的生日",
-   "narrator_zh": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_3/Text"
-  },
-  {
-   "location": "491/UI",
-   "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_3/Text",
-   "text": "あなたの呼び名",
-   "zh": "你的称呼",
-   "narrator_zh": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_3/Text"
-  },
-  {
-   "location": "492/UI",
-   "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_4/Text",
-   "text": "ひとことコメント",
-   "zh": "一句话留言",
-   "narrator_zh": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_4/Text"
-  },
-  {
-   "location": "493/UI",
-   "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_5/Text",
-   "text": "フレンドサポートクラン",
-   "zh": "好友支援库兰",
-   "narrator_zh": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_5/Text"
-  },
-  {
-   "location": "494/UI",
-   "narrator": "UserConfigWindow/Panel/Processing/Text",
-   "text": "処理中"
-  },
-  {
-   "location": "495/UI",
-   "narrator": "UserConfigWindow/Panel/User_Setting/TopBar/Panel/BackButton/Text",
-   "text": "閉じる",
-   "zh": "关闭",
-   "narrator_zh": "UserConfigWindow/Panel/User_Setting/TopBar/Panel/BackButton/Text"
-  },
-  {
-   "location": "496/UI",
-   "narrator": "UserConfigWindow/Panel/User_Setting/TopBar/Panel/SystemTitle",
-   "text": "ユーザー設定",
-   "zh": "用户设置",
-   "narrator_zh": "UserConfigWindow/Panel/User_Setting/TopBar/Panel/SystemTitle"
-  },
-  {
-   "location": "497/UI",
-   "narrator": "UserConfigWindow/Panel/User_Setting/TopBar/Panel/Text",
-   "text": "U S E R  S E T T I N G"
-  },
-  {
-   "location": "498/UI",
-   "narrator": "UserConfigWindow/Panel/YobinaSelector/OKButton/Text",
-   "text": "OK"
-  },
-  {
-   "location": "499/UI",
-   "narrator": "UserConfigWindow/Panel/YobinaSelector/Panel_BORDER_1/Text",
-   "text": "希望する一人称を選択してください",
-   "zh": "请选择你希望的自称",
-   "narrator_zh": "UserConfigWindow/Panel/YobinaSelector/Panel_BORDER_1/Text"
-  },
-  {
-   "location": "500/UI",
-   "narrator": "UserConfigWindow/Panel/YobinaSelector/Selector/Drop_Me",
-   "text": "ミー",
-   "zh": "我",
-   "narrator_zh": "UserConfigWindow/Panel/YobinaSelector/Selector/Drop_Me"
-  },
-  {
-   "location": "501/UI",
-   "narrator": "UserConfigWindow/Panel/YobinaSelector/Selector/Drop_Me",
-   "text": "俺"
-  },
-  {
-   "location": "502/UI",
-   "narrator": "UserConfigWindow/Panel/YobinaSelector/Selector/Drop_Me",
-   "text": "僕"
-  },
-  {
-   "location": "503/UI",
-   "narrator": "UserConfigWindow/Panel/YobinaSelector/Selector/Drop_Me",
-   "text": "私"
-  },
-  {
-   "location": "504/UI",
-   "narrator": "UserConfigWindow/Panel/YobinaSelector/Selector/Drop_Me/Label",
-   "text": "私"
-  }
- ]
+    "dir": "e31ac3743b8465d4dab7f0473b32c13e",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "472/UI",
+            "narrator": "UserConfigWindow/Panel/BirthDaySelector/OKButton/Text",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "UserConfigWindow/Panel/BirthDaySelector/OKButton/Text"
+        },
+        {
+            "location": "473/UI",
+            "narrator": "UserConfigWindow/Panel/BirthDaySelector/Panel_BORDER_1/Text",
+            "text": "誕生日を入力してください",
+            "zh": "请输入生日",
+            "narrator_zh": "UserConfigWindow/Panel/BirthDaySelector/Panel_BORDER_1/Text"
+        },
+        {
+            "location": "474/UI",
+            "narrator": "UserConfigWindow/Panel/BirthDaySelector/Selector/Text_D",
+            "text": "日",
+            "zh": "日",
+            "narrator_zh": "UserConfigWindow/Panel/BirthDaySelector/Selector/Text_D"
+        },
+        {
+            "location": "475/UI",
+            "narrator": "UserConfigWindow/Panel/BirthDaySelector/Selector/Text_M",
+            "text": "月",
+            "zh": "月",
+            "narrator_zh": "UserConfigWindow/Panel/BirthDaySelector/Selector/Text_M"
+        },
+        {
+            "location": "476/UI",
+            "narrator": "UserConfigWindow/Panel/BirthDaySelector/Selector/Text_Y",
+            "text": "年",
+            "zh": "年",
+            "narrator_zh": "UserConfigWindow/Panel/BirthDaySelector/Selector/Text_Y"
+        },
+        {
+            "location": "477/UI",
+            "narrator": "UserConfigWindow/Panel/CommentSelector/OKButton/Text",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "UserConfigWindow/Panel/CommentSelector/OKButton/Text"
+        },
+        {
+            "location": "478/UI",
+            "narrator": "UserConfigWindow/Panel/CommentSelector/Panel_BORDER_1/Text",
+            "text": "ひとことコメントを選択してください",
+            "zh": "请选择一句话留言",
+            "narrator_zh": "UserConfigWindow/Panel/CommentSelector/Panel_BORDER_1/Text"
+        },
+        {
+            "location": "479/UI",
+            "narrator": "UserConfigWindow/Panel/Image_Favo/Text",
+            "text": "お気に入り",
+            "zh": "收藏",
+            "narrator_zh": "UserConfigWindow/Panel/Image_Favo/Text"
+        },
+        {
+            "location": "480/UI",
+            "narrator": "UserConfigWindow/Panel/NameEditor/InputField",
+            "text": "名前は８文字まで",
+            "zh": "名字最多８个字",
+            "narrator_zh": "UserConfigWindow/Panel/NameEditor/InputField"
+        },
+        {
+            "location": "481/UI",
+            "narrator": "UserConfigWindow/Panel/NameEditor/InputField/Text",
+            "text": "名前は８文字まで",
+            "zh": "名字最多８个字",
+            "narrator_zh": "UserConfigWindow/Panel/NameEditor/InputField/Text"
+        },
+        {
+            "location": "482/UI",
+            "narrator": "UserConfigWindow/Panel/NameEditor/InputField/mojiInfo",
+            "text": "(8文字以内)",
+            "zh": "(8个字以内)",
+            "narrator_zh": "UserConfigWindow/Panel/NameEditor/InputField/mojiInfo"
+        },
+        {
+            "location": "483/UI",
+            "narrator": "UserConfigWindow/Panel/NameEditor/OKButton/Text",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "UserConfigWindow/Panel/NameEditor/OKButton/Text"
+        },
+        {
+            "location": "484/UI",
+            "narrator": "UserConfigWindow/Panel/NameEditor/Panel_BORDER_1/Text",
+            "text": "あなたの名前を入力してください",
+            "zh": "请输入你的名字",
+            "narrator_zh": "UserConfigWindow/Panel/NameEditor/Panel_BORDER_1/Text"
+        },
+        {
+            "location": "485/UI",
+            "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_BORDER_1/Text",
+            "text": "お気に入りヒロイン",
+            "zh": "收藏的女主角",
+            "narrator_zh": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_BORDER_1/Text"
+        },
+        {
+            "location": "486/UI",
+            "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_DATAAREA_1/Text_FavHeroine",
+            "text": "ヒロイン名称",
+            "zh": "女主角名称",
+            "narrator_zh": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_DATAAREA_1/Text_FavHeroine"
+        },
+        {
+            "location": "487/UI",
+            "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_DATAAREA_3/Text_NickName",
+            "text": "私",
+            "zh": "我",
+            "narrator_zh": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_DATAAREA_3/Text_NickName"
+        },
+        {
+            "location": "488/UI",
+            "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_DATAAREA_4/Text_FavHeroine",
+            "text": "１２３４５６７８９０１２３４５６７８９０",
+            "zh": "１２３４５６７８９０１２３４５６７８９０",
+            "narrator_zh": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_DATAAREA_4/Text_FavHeroine"
+        },
+        {
+            "location": "489/UI",
+            "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_2/Text",
+            "text": "あなたの名前",
+            "zh": "你的名字",
+            "narrator_zh": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_2/Text"
+        },
+        {
+            "location": "490/UI",
+            "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_3/Text",
+            "text": "あなたのお誕生日",
+            "zh": "你的生日",
+            "narrator_zh": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_3/Text"
+        },
+        {
+            "location": "491/UI",
+            "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_3/Text",
+            "text": "あなたの呼び名",
+            "zh": "你的称呼",
+            "narrator_zh": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_3/Text"
+        },
+        {
+            "location": "492/UI",
+            "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_4/Text",
+            "text": "ひとことコメント",
+            "zh": "一句话留言",
+            "narrator_zh": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_4/Text"
+        },
+        {
+            "location": "493/UI",
+            "narrator": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_5/Text",
+            "text": "フレンドサポートクラン",
+            "zh": "好友支援库兰",
+            "narrator_zh": "UserConfigWindow/Panel/PANEL_UserSetting/Panel_RED_BORDER_5/Text"
+        },
+        {
+            "location": "494/UI",
+            "narrator": "UserConfigWindow/Panel/Processing/Text",
+            "text": "処理中",
+            "zh": "处理中",
+            "narrator_zh": "UserConfigWindow/Panel/Processing/Text"
+        },
+        {
+            "location": "495/UI",
+            "narrator": "UserConfigWindow/Panel/User_Setting/TopBar/Panel/BackButton/Text",
+            "text": "閉じる",
+            "zh": "关闭",
+            "narrator_zh": "UserConfigWindow/Panel/User_Setting/TopBar/Panel/BackButton/Text"
+        },
+        {
+            "location": "496/UI",
+            "narrator": "UserConfigWindow/Panel/User_Setting/TopBar/Panel/SystemTitle",
+            "text": "ユーザー設定",
+            "zh": "用户设置",
+            "narrator_zh": "UserConfigWindow/Panel/User_Setting/TopBar/Panel/SystemTitle"
+        },
+        {
+            "location": "497/UI",
+            "narrator": "UserConfigWindow/Panel/User_Setting/TopBar/Panel/Text",
+            "text": "U S E R  S E T T I N G",
+            "zh": "U S E R  S E T T I N G",
+            "narrator_zh": "UserConfigWindow/Panel/User_Setting/TopBar/Panel/Text"
+        },
+        {
+            "location": "498/UI",
+            "narrator": "UserConfigWindow/Panel/YobinaSelector/OKButton/Text",
+            "text": "OK",
+            "zh": "OK",
+            "narrator_zh": "UserConfigWindow/Panel/YobinaSelector/OKButton/Text"
+        },
+        {
+            "location": "499/UI",
+            "narrator": "UserConfigWindow/Panel/YobinaSelector/Panel_BORDER_1/Text",
+            "text": "希望する一人称を選択してください",
+            "zh": "请选择你希望的自称",
+            "narrator_zh": "UserConfigWindow/Panel/YobinaSelector/Panel_BORDER_1/Text"
+        },
+        {
+            "location": "500/UI",
+            "narrator": "UserConfigWindow/Panel/YobinaSelector/Selector/Drop_Me",
+            "text": "ミー",
+            "zh": "我",
+            "narrator_zh": "UserConfigWindow/Panel/YobinaSelector/Selector/Drop_Me"
+        },
+        {
+            "location": "501/UI",
+            "narrator": "UserConfigWindow/Panel/YobinaSelector/Selector/Drop_Me",
+            "text": "俺",
+            "zh": "俺",
+            "narrator_zh": "UserConfigWindow/Panel/YobinaSelector/Selector/Drop_Me"
+        },
+        {
+            "location": "502/UI",
+            "narrator": "UserConfigWindow/Panel/YobinaSelector/Selector/Drop_Me",
+            "text": "僕",
+            "zh": "我",
+            "narrator_zh": "UserConfigWindow/Panel/YobinaSelector/Selector/Drop_Me"
+        },
+        {
+            "location": "503/UI",
+            "narrator": "UserConfigWindow/Panel/YobinaSelector/Selector/Drop_Me",
+            "text": "私",
+            "zh": "我",
+            "narrator_zh": "UserConfigWindow/Panel/YobinaSelector/Selector/Drop_Me"
+        },
+        {
+            "location": "504/UI",
+            "narrator": "UserConfigWindow/Panel/YobinaSelector/Selector/Drop_Me/Label",
+            "text": "私",
+            "zh": "我",
+            "narrator_zh": "UserConfigWindow/Panel/YobinaSelector/Selector/Drop_Me/Label"
+        }
+    ]
 }

@@ -1,504 +1,602 @@
 {
- "dir": "693965bbf86d4c84cae5136cf762499b",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "197/UI",
-   "narrator": "MemorySelectWindow/00_Episode/BackButton/Text",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "MemorySelectWindow/00_Episode/BackButton/Text"
-  },
-  {
-   "location": "198/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Data_Capa/Text",
-   "text": "データ",
-   "zh": "数据",
-   "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Data_Capa/Text"
-  },
-  {
-   "location": "199/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Data_Capa/Text_PlayTime",
-   "text": "40MB"
-  },
-  {
-   "location": "200/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/GrayOut/Text",
-   "text": "未解禁"
-  },
-  {
-   "location": "201/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/PlayTime/Text",
-   "text": "再生時間"
-  },
-  {
-   "location": "202/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Reward/Comp/Comp_back/Text",
-   "text": "獲得済"
-  },
-  {
-   "location": "203/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Text_EventNo",
-   "text": "001　アニメ　第01話",
-   "zh": "001　动画　第01话",
-   "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Text_EventNo"
-  },
-  {
-   "location": "204/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Title",
-   "text": "プロローグ",
-   "zh": "序章",
-   "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Title"
-  },
-  {
-   "location": "205/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/ACT/Text",
-   "text": "消費ACT"
-  },
-  {
-   "location": "206/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/GrayOut/Text",
-   "text": "未解禁"
-  },
-  {
-   "location": "207/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/Panel_i/Image_Button/Text",
-   "text": "INFO"
-  },
-  {
-   "location": "208/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/Panel_i/Image_Button/Text_i",
-   "text": "情報"
-  },
-  {
-   "location": "209/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/Reward/Comp/Comp_back/Text",
-   "text": "獲得済"
-  },
-  {
-   "location": "210/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/Text_EventNo",
-   "text": "001　バトル　Lv.01",
-   "zh": "001　战斗　Lv.01",
-   "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/Text_EventNo"
-  },
-  {
-   "location": "211/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle＿Event/ACT/Text",
-   "text": "消費ACT"
-  },
-  {
-   "location": "212/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle＿Event/GrayOut/Text",
-   "text": "未解禁"
-  },
-  {
-   "location": "213/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle＿Event/Reward/Comp/Comp_back/Text",
-   "text": "獲得済"
-  },
-  {
-   "location": "214/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle＿Event/Text_EventNo",
-   "text": "001　ココロスフィア　Lv.01",
-   "zh": "001　心灵领域　Lv.01",
-   "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle＿Event/Text_EventNo"
-  },
-  {
-   "location": "215/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle＿Event/Title",
-   "text": "母との約束（前編）",
-   "zh": "与母亲的约定（前篇）",
-   "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle＿Event/Title"
-  },
-  {
-   "location": "216/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/GrayOut/Joken/LogoImage/Text_Joken",
-   "text": "条件"
-  },
-  {
-   "location": "217/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/GrayOut/Joken/Text_Joken",
-   "text": "あいうえおかきくけこさしすせそたちつ\nあいうえおかきくけこさしすせそたちつ\n",
-   "zh": "测试字符测试字符测试字符测试字符测试字符\n测试字符测试字符测试字符测试字符测试字符\n",
-   "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/GrayOut/Joken/Text_Joken"
-  },
-  {
-   "location": "218/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/GrayOut/Text",
-   "text": "未解禁"
-  },
-  {
-   "location": "219/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/Reward/Comp/Comp_back/Text",
-   "text": "獲得済"
-  },
-  {
-   "location": "220/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/Text_EventNo",
-   "text": "001　つばめエピソード　第01話",
-   "zh": "001　燕篇章　第01话",
-   "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/Text_EventNo"
-  },
-  {
-   "location": "221/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/Title",
-   "text": "秘密なのに秘密じゃない",
-   "zh": "是秘密，又不是秘密",
-   "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/Title"
-  },
-  {
-   "location": "222/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/panel_bottom/Date",
-   "text": "9999年99月99日"
-  },
-  {
-   "location": "223/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/GrayOut/Joken/LogoImage/Text_Joken",
-   "text": "条件"
-  },
-  {
-   "location": "224/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/GrayOut/Joken/Text_Joken",
-   "text": "あいうえおかきくけこさしすせそたちつ\nあいうえおかきくけこさしすせそたちつ\n",
-   "zh": "测试字符测试字符测试字符测试字符测试字符\n测试字符测试字符测试字符测试字符测试字符\n",
-   "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/GrayOut/Joken/Text_Joken"
-  },
-  {
-   "location": "225/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/GrayOut/Text",
-   "text": "未解禁"
-  },
-  {
-   "location": "226/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/Reward/Comp/Comp_back/Text",
-   "text": "獲得済"
-  },
-  {
-   "location": "227/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/Text_EventNo",
-   "text": "001　つばめエピソード　第01話",
-   "zh": "001　燕篇章　第01话",
-   "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/Text_EventNo"
-  },
-  {
-   "location": "228/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/Title",
-   "text": "聞いていい？",
-   "zh": "可以问吗？",
-   "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/Title"
-  },
-  {
-   "location": "229/UI",
-   "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/panel_bottom/Date",
-   "text": "9999年99月99日"
-  },
-  {
-   "location": "230/UI",
-   "narrator": "MemorySelectWindow/00_Episode/Tab1/Actives/TextA",
-   "text": "エピソード",
-   "zh": "篇章",
-   "narrator_zh": "MemorySelectWindow/00_Episode/Tab1/Actives/TextA"
-  },
-  {
-   "location": "231/UI",
-   "narrator": "MemorySelectWindow/00_Episode/Tab1/Actives/TextB",
-   "text": "EPISODE"
-  },
-  {
-   "location": "232/UI",
-   "narrator": "MemorySelectWindow/00_Episode/Tab1/Sleeps/TextA",
-   "text": "エピソード",
-   "zh": "篇章",
-   "narrator_zh": "MemorySelectWindow/00_Episode/Tab1/Sleeps/TextA"
-  },
-  {
-   "location": "233/UI",
-   "narrator": "MemorySelectWindow/00_Episode/Tab1/Sleeps/TextB",
-   "text": "EPISODE"
-  },
-  {
-   "location": "234/UI",
-   "narrator": "MemorySelectWindow/00_Episode/Tab2/Actives/TextA",
-   "text": "スペシャル",
-   "zh": "特别篇",
-   "narrator_zh": "MemorySelectWindow/00_Episode/Tab2/Actives/TextA"
-  },
-  {
-   "location": "235/UI",
-   "narrator": "MemorySelectWindow/00_Episode/Tab2/Actives/TextB",
-   "text": "SPECIAL"
-  },
-  {
-   "location": "236/UI",
-   "narrator": "MemorySelectWindow/00_Episode/Tab2/Sleeps/TextA",
-   "text": "スペシャル",
-   "zh": "特别篇",
-   "narrator_zh": "MemorySelectWindow/00_Episode/Tab2/Sleeps/TextA"
-  },
-  {
-   "location": "237/UI",
-   "narrator": "MemorySelectWindow/00_Episode/Tab2/Sleeps/TextB",
-   "text": "SPECIAL"
-  },
-  {
-   "location": "238/UI",
-   "narrator": "MemorySelectWindow/00_Episode/Title_CharaName",
-   "text": "EPISODE"
-  },
-  {
-   "location": "239/UI",
-   "narrator": "MemorySelectWindow/00_Episode/Title_Main",
-   "text": "思い出",
-   "zh": "回忆",
-   "narrator_zh": "MemorySelectWindow/00_Episode/Title_Main"
-  },
-  {
-   "location": "240/UI",
-   "narrator": "MemorySelectWindow/01_Special/BackButton/Text",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "MemorySelectWindow/01_Special/BackButton/Text"
-  },
-  {
-   "location": "241/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Data_Capa/Text",
-   "text": "データ",
-   "zh": "数据",
-   "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Data_Capa/Text"
-  },
-  {
-   "location": "242/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Data_Capa/Text_PlayTime",
-   "text": "40MB"
-  },
-  {
-   "location": "243/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/GrayOut/Text",
-   "text": "未解禁"
-  },
-  {
-   "location": "244/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/PlayTime/Text",
-   "text": "再生時間"
-  },
-  {
-   "location": "245/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Reward/Comp/Comp_back/Text",
-   "text": "獲得済"
-  },
-  {
-   "location": "246/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Text_EventNo",
-   "text": "001　アニメ　第01話",
-   "zh": "001　动画　第01话",
-   "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Text_EventNo"
-  },
-  {
-   "location": "247/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Title",
-   "text": "プロローグ",
-   "zh": "序章",
-   "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Title"
-  },
-  {
-   "location": "248/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/ACT/Text",
-   "text": "消費ACT"
-  },
-  {
-   "location": "249/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/GrayOut/Text",
-   "text": "未解禁"
-  },
-  {
-   "location": "250/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/Panel_i/Image_Button/Text",
-   "text": "INFO"
-  },
-  {
-   "location": "251/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/Panel_i/Image_Button/Text_i",
-   "text": "情報"
-  },
-  {
-   "location": "252/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/Reward/Comp/Comp_back/Text",
-   "text": "獲得済"
-  },
-  {
-   "location": "253/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/Text_EventNo",
-   "text": "001　女子力アップ大作戦　初級",
-   "zh": "001　女子力提升大作战　初级",
-   "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/Text_EventNo"
-  },
-  {
-   "location": "254/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/Title",
-   "text": "101 まずは見た目から…",
-   "zh": "101 先从外表开始……",
-   "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/Title"
-  },
-  {
-   "location": "255/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPBattle＿Event/ACT/Text",
-   "text": "消費ACT"
-  },
-  {
-   "location": "256/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPBattle＿Event/GrayOut/Text",
-   "text": "未解禁"
-  },
-  {
-   "location": "257/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPBattle＿Event/Reward/Comp/Comp_back/Text",
-   "text": "獲得済"
-  },
-  {
-   "location": "258/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPBattle＿Event/Text_EventNo",
-   "text": "001　スペシャルバトルイベント（仮）",
-   "zh": "001　特别战斗活动（暂定）",
-   "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPBattle＿Event/Text_EventNo"
-  },
-  {
-   "location": "259/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPBattle＿Event/Title",
-   "text": "スペシャルバトルイベントタイトル（仮）",
-   "zh": "特别战斗活动标题（暂定）",
-   "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPBattle＿Event/Title"
-  },
-  {
-   "location": "260/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Day/GrayOut/Text",
-   "text": "未解禁"
-  },
-  {
-   "location": "261/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Day/Reward/Comp/Comp_back/Text",
-   "text": "獲得済"
-  },
-  {
-   "location": "262/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Day/Text_EventNo",
-   "text": "001　スペシャルイベント（仮）",
-   "zh": "001　特别活动（暂定）",
-   "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Day/Text_EventNo"
-  },
-  {
-   "location": "263/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Day/Title",
-   "text": "スペシャルイベントタイトル（仮）",
-   "zh": "特别活动标题（暂定）",
-   "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Day/Title"
-  },
-  {
-   "location": "264/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Day/panel_bottom/Date",
-   "text": "9999年99月99日"
-  },
-  {
-   "location": "265/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/GrayOut/Joken/LogoImage/Text_Joken",
-   "text": "条件"
-  },
-  {
-   "location": "266/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/GrayOut/Joken/Text_Joken",
-   "text": "あいうえおかきくけこさしすせそたちつ\nあいうえおかきくけこさしすせそたちつ\n",
-   "zh": "测试字符测试字符测试字符测试字符测试字符\n测试字符测试字符测试字符测试字符测试字符\n",
-   "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/GrayOut/Joken/Text_Joken"
-  },
-  {
-   "location": "267/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/GrayOut/Text",
-   "text": "未解禁"
-  },
-  {
-   "location": "268/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/Reward/Comp/Comp_back/Text",
-   "text": "獲得済"
-  },
-  {
-   "location": "269/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/Text_EventNo",
-   "text": "001　スペシャルイベント（仮）",
-   "zh": "001　特别活动（暂定）",
-   "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/Text_EventNo"
-  },
-  {
-   "location": "270/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/Title",
-   "text": "スペシャルイベントタイトル（仮）",
-   "zh": "特别活动标题（暂定）",
-   "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/Title"
-  },
-  {
-   "location": "271/UI",
-   "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/panel_bottom/Date",
-   "text": "9999年99月99日"
-  },
-  {
-   "location": "272/UI",
-   "narrator": "MemorySelectWindow/01_Special/Tab1/Actives/TextA",
-   "text": "エピソード",
-   "zh": "篇章",
-   "narrator_zh": "MemorySelectWindow/01_Special/Tab1/Actives/TextA"
-  },
-  {
-   "location": "273/UI",
-   "narrator": "MemorySelectWindow/01_Special/Tab1/Actives/TextB",
-   "text": "EPISODE"
-  },
-  {
-   "location": "274/UI",
-   "narrator": "MemorySelectWindow/01_Special/Tab1/Sleeps/TextA",
-   "text": "エピソード",
-   "zh": "篇章",
-   "narrator_zh": "MemorySelectWindow/01_Special/Tab1/Sleeps/TextA"
-  },
-  {
-   "location": "275/UI",
-   "narrator": "MemorySelectWindow/01_Special/Tab1/Sleeps/TextB",
-   "text": "EPISODE"
-  },
-  {
-   "location": "276/UI",
-   "narrator": "MemorySelectWindow/01_Special/Tab2/Actives/TextA",
-   "text": "スペシャル",
-   "zh": "特别篇",
-   "narrator_zh": "MemorySelectWindow/01_Special/Tab2/Actives/TextA"
-  },
-  {
-   "location": "277/UI",
-   "narrator": "MemorySelectWindow/01_Special/Tab2/Actives/TextB",
-   "text": "SPECIAL"
-  },
-  {
-   "location": "278/UI",
-   "narrator": "MemorySelectWindow/01_Special/Tab2/Sleeps/TextA",
-   "text": "スペシャル",
-   "zh": "特别篇",
-   "narrator_zh": "MemorySelectWindow/01_Special/Tab2/Sleeps/TextA"
-  },
-  {
-   "location": "279/UI",
-   "narrator": "MemorySelectWindow/01_Special/Tab2/Sleeps/TextB",
-   "text": "SPECIAL"
-  },
-  {
-   "location": "280/UI",
-   "narrator": "MemorySelectWindow/01_Special/Title_CharaName",
-   "text": "EPISODE"
-  },
-  {
-   "location": "281/UI",
-   "narrator": "MemorySelectWindow/01_Special/Title_Main",
-   "text": "思い出",
-   "zh": "回忆",
-   "narrator_zh": "MemorySelectWindow/01_Special/Title_Main"
-  }
- ]
+    "dir": "693965bbf86d4c84cae5136cf762499b",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "197/UI",
+            "narrator": "MemorySelectWindow/00_Episode/BackButton/Text",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "MemorySelectWindow/00_Episode/BackButton/Text"
+        },
+        {
+            "location": "198/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Data_Capa/Text",
+            "text": "データ",
+            "zh": "数据",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Data_Capa/Text"
+        },
+        {
+            "location": "199/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Data_Capa/Text_PlayTime",
+            "text": "40MB",
+            "zh": "40MB",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Data_Capa/Text_PlayTime"
+        },
+        {
+            "location": "200/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/GrayOut/Text",
+            "text": "未解禁",
+            "zh": "未解锁",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/GrayOut/Text"
+        },
+        {
+            "location": "201/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/PlayTime/Text",
+            "text": "再生時間",
+            "zh": "播放时间",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/PlayTime/Text"
+        },
+        {
+            "location": "202/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Reward/Comp/Comp_back/Text",
+            "text": "獲得済",
+            "zh": "已获得",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Reward/Comp/Comp_back/Text"
+        },
+        {
+            "location": "203/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Text_EventNo",
+            "text": "001　アニメ　第01話",
+            "zh": "001　动画　第01话",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Text_EventNo"
+        },
+        {
+            "location": "204/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Title",
+            "text": "プロローグ",
+            "zh": "序章",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Anime/Title"
+        },
+        {
+            "location": "205/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/ACT/Text",
+            "text": "消費ACT",
+            "zh": "消耗ACT",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/ACT/Text"
+        },
+        {
+            "location": "206/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/GrayOut/Text",
+            "text": "未解禁",
+            "zh": "未解锁",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/GrayOut/Text"
+        },
+        {
+            "location": "207/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/Panel_i/Image_Button/Text",
+            "text": "INFO",
+            "zh": "INFO",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/Panel_i/Image_Button/Text"
+        },
+        {
+            "location": "208/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/Panel_i/Image_Button/Text_i",
+            "text": "情報",
+            "zh": "信息",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/Panel_i/Image_Button/Text_i"
+        },
+        {
+            "location": "209/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/Reward/Comp/Comp_back/Text",
+            "text": "獲得済",
+            "zh": "已获得",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/Reward/Comp/Comp_back/Text"
+        },
+        {
+            "location": "210/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/Text_EventNo",
+            "text": "001　バトル　Lv.01",
+            "zh": "001　战斗　Lv.01",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle/Text_EventNo"
+        },
+        {
+            "location": "211/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle＿Event/ACT/Text",
+            "text": "消費ACT",
+            "zh": "消耗ACT",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle＿Event/ACT/Text"
+        },
+        {
+            "location": "212/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle＿Event/GrayOut/Text",
+            "text": "未解禁",
+            "zh": "未解锁",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle＿Event/GrayOut/Text"
+        },
+        {
+            "location": "213/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle＿Event/Reward/Comp/Comp_back/Text",
+            "text": "獲得済",
+            "zh": "已获得",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle＿Event/Reward/Comp/Comp_back/Text"
+        },
+        {
+            "location": "214/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle＿Event/Text_EventNo",
+            "text": "001　ココロスフィア　Lv.01",
+            "zh": "001　心灵领域　Lv.01",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle＿Event/Text_EventNo"
+        },
+        {
+            "location": "215/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle＿Event/Title",
+            "text": "母との約束（前編）",
+            "zh": "与母亲的约定（前篇）",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Battle＿Event/Title"
+        },
+        {
+            "location": "216/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/GrayOut/Joken/LogoImage/Text_Joken",
+            "text": "条件",
+            "zh": "条件",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/GrayOut/Joken/LogoImage/Text_Joken"
+        },
+        {
+            "location": "217/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/GrayOut/Joken/Text_Joken",
+            "text": "あいうえおかきくけこさしすせそたちつ\nあいうえおかきくけこさしすせそたちつ\n",
+            "zh": "测试字符测试字符测试字符测试字符测试字符\n测试字符测试字符测试字符测试字符测试字符\n",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/GrayOut/Joken/Text_Joken"
+        },
+        {
+            "location": "218/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/GrayOut/Text",
+            "text": "未解禁",
+            "zh": "未解锁",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/GrayOut/Text"
+        },
+        {
+            "location": "219/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/Reward/Comp/Comp_back/Text",
+            "text": "獲得済",
+            "zh": "已获得",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/Reward/Comp/Comp_back/Text"
+        },
+        {
+            "location": "220/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/Text_EventNo",
+            "text": "001　つばめエピソード　第01話",
+            "zh": "001　燕篇章　第01话",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/Text_EventNo"
+        },
+        {
+            "location": "221/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/Title",
+            "text": "秘密なのに秘密じゃない",
+            "zh": "是秘密，又不是秘密",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/Title"
+        },
+        {
+            "location": "222/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/panel_bottom/Date",
+            "text": "9999年99月99日",
+            "zh": "9999年99月99日",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Day/panel_bottom/Date"
+        },
+        {
+            "location": "223/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/GrayOut/Joken/LogoImage/Text_Joken",
+            "text": "条件",
+            "zh": "条件",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/GrayOut/Joken/LogoImage/Text_Joken"
+        },
+        {
+            "location": "224/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/GrayOut/Joken/Text_Joken",
+            "text": "あいうえおかきくけこさしすせそたちつ\nあいうえおかきくけこさしすせそたちつ\n",
+            "zh": "测试字符测试字符测试字符测试字符测试字符\n测试字符测试字符测试字符测试字符测试字符\n",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/GrayOut/Joken/Text_Joken"
+        },
+        {
+            "location": "225/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/GrayOut/Text",
+            "text": "未解禁",
+            "zh": "未解锁",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/GrayOut/Text"
+        },
+        {
+            "location": "226/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/Reward/Comp/Comp_back/Text",
+            "text": "獲得済",
+            "zh": "已获得",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/Reward/Comp/Comp_back/Text"
+        },
+        {
+            "location": "227/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/Text_EventNo",
+            "text": "001　つばめエピソード　第01話",
+            "zh": "001　燕篇章　第01话",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/Text_EventNo"
+        },
+        {
+            "location": "228/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/Title",
+            "text": "聞いていい？",
+            "zh": "可以问吗？",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/Title"
+        },
+        {
+            "location": "229/UI",
+            "narrator": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/panel_bottom/Date",
+            "text": "9999年99月99日",
+            "zh": "9999年99月99日",
+            "narrator_zh": "MemorySelectWindow/00_Episode/ScrollView/Viewport/ScrollContent/Panel_Episode_Night/panel_bottom/Date"
+        },
+        {
+            "location": "230/UI",
+            "narrator": "MemorySelectWindow/00_Episode/Tab1/Actives/TextA",
+            "text": "エピソード",
+            "zh": "篇章",
+            "narrator_zh": "MemorySelectWindow/00_Episode/Tab1/Actives/TextA"
+        },
+        {
+            "location": "231/UI",
+            "narrator": "MemorySelectWindow/00_Episode/Tab1/Actives/TextB",
+            "text": "EPISODE",
+            "zh": "EPISODE",
+            "narrator_zh": "MemorySelectWindow/00_Episode/Tab1/Actives/TextB"
+        },
+        {
+            "location": "232/UI",
+            "narrator": "MemorySelectWindow/00_Episode/Tab1/Sleeps/TextA",
+            "text": "エピソード",
+            "zh": "篇章",
+            "narrator_zh": "MemorySelectWindow/00_Episode/Tab1/Sleeps/TextA"
+        },
+        {
+            "location": "233/UI",
+            "narrator": "MemorySelectWindow/00_Episode/Tab1/Sleeps/TextB",
+            "text": "EPISODE",
+            "zh": "EPISODE",
+            "narrator_zh": "MemorySelectWindow/00_Episode/Tab1/Sleeps/TextB"
+        },
+        {
+            "location": "234/UI",
+            "narrator": "MemorySelectWindow/00_Episode/Tab2/Actives/TextA",
+            "text": "スペシャル",
+            "zh": "特别篇",
+            "narrator_zh": "MemorySelectWindow/00_Episode/Tab2/Actives/TextA"
+        },
+        {
+            "location": "235/UI",
+            "narrator": "MemorySelectWindow/00_Episode/Tab2/Actives/TextB",
+            "text": "SPECIAL",
+            "zh": "SPECIAL",
+            "narrator_zh": "MemorySelectWindow/00_Episode/Tab2/Actives/TextB"
+        },
+        {
+            "location": "236/UI",
+            "narrator": "MemorySelectWindow/00_Episode/Tab2/Sleeps/TextA",
+            "text": "スペシャル",
+            "zh": "特别篇",
+            "narrator_zh": "MemorySelectWindow/00_Episode/Tab2/Sleeps/TextA"
+        },
+        {
+            "location": "237/UI",
+            "narrator": "MemorySelectWindow/00_Episode/Tab2/Sleeps/TextB",
+            "text": "SPECIAL",
+            "zh": "SPECIAL",
+            "narrator_zh": "MemorySelectWindow/00_Episode/Tab2/Sleeps/TextB"
+        },
+        {
+            "location": "238/UI",
+            "narrator": "MemorySelectWindow/00_Episode/Title_CharaName",
+            "text": "EPISODE",
+            "zh": "EPISODE",
+            "narrator_zh": "MemorySelectWindow/00_Episode/Title_CharaName"
+        },
+        {
+            "location": "239/UI",
+            "narrator": "MemorySelectWindow/00_Episode/Title_Main",
+            "text": "思い出",
+            "zh": "回忆",
+            "narrator_zh": "MemorySelectWindow/00_Episode/Title_Main"
+        },
+        {
+            "location": "240/UI",
+            "narrator": "MemorySelectWindow/01_Special/BackButton/Text",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "MemorySelectWindow/01_Special/BackButton/Text"
+        },
+        {
+            "location": "241/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Data_Capa/Text",
+            "text": "データ",
+            "zh": "数据",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Data_Capa/Text"
+        },
+        {
+            "location": "242/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Data_Capa/Text_PlayTime",
+            "text": "40MB",
+            "zh": "40MB",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Data_Capa/Text_PlayTime"
+        },
+        {
+            "location": "243/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/GrayOut/Text",
+            "text": "未解禁",
+            "zh": "未解锁",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/GrayOut/Text"
+        },
+        {
+            "location": "244/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/PlayTime/Text",
+            "text": "再生時間",
+            "zh": "播放时间",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/PlayTime/Text"
+        },
+        {
+            "location": "245/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Reward/Comp/Comp_back/Text",
+            "text": "獲得済",
+            "zh": "已获得",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Reward/Comp/Comp_back/Text"
+        },
+        {
+            "location": "246/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Text_EventNo",
+            "text": "001　アニメ　第01話",
+            "zh": "001　动画　第01话",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Text_EventNo"
+        },
+        {
+            "location": "247/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Title",
+            "text": "プロローグ",
+            "zh": "序章",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Anime/Title"
+        },
+        {
+            "location": "248/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/ACT/Text",
+            "text": "消費ACT",
+            "zh": "消耗ACT",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/ACT/Text"
+        },
+        {
+            "location": "249/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/GrayOut/Text",
+            "text": "未解禁",
+            "zh": "未解锁",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/GrayOut/Text"
+        },
+        {
+            "location": "250/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/Panel_i/Image_Button/Text",
+            "text": "INFO",
+            "zh": "INFO",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/Panel_i/Image_Button/Text"
+        },
+        {
+            "location": "251/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/Panel_i/Image_Button/Text_i",
+            "text": "情報",
+            "zh": "信息",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/Panel_i/Image_Button/Text_i"
+        },
+        {
+            "location": "252/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/Reward/Comp/Comp_back/Text",
+            "text": "獲得済",
+            "zh": "已获得",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/Reward/Comp/Comp_back/Text"
+        },
+        {
+            "location": "253/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/Text_EventNo",
+            "text": "001　女子力アップ大作戦　初級",
+            "zh": "001　女子力提升大作战　初级",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/Text_EventNo"
+        },
+        {
+            "location": "254/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/Title",
+            "text": "101 まずは見た目から…",
+            "zh": "101 先从外表开始……",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_Battle/Title"
+        },
+        {
+            "location": "255/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPBattle＿Event/ACT/Text",
+            "text": "消費ACT",
+            "zh": "消耗ACT",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPBattle＿Event/ACT/Text"
+        },
+        {
+            "location": "256/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPBattle＿Event/GrayOut/Text",
+            "text": "未解禁",
+            "zh": "未解锁",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPBattle＿Event/GrayOut/Text"
+        },
+        {
+            "location": "257/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPBattle＿Event/Reward/Comp/Comp_back/Text",
+            "text": "獲得済",
+            "zh": "已获得",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPBattle＿Event/Reward/Comp/Comp_back/Text"
+        },
+        {
+            "location": "258/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPBattle＿Event/Text_EventNo",
+            "text": "001　スペシャルバトルイベント（仮）",
+            "zh": "001　特别战斗活动（暂定）",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPBattle＿Event/Text_EventNo"
+        },
+        {
+            "location": "259/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPBattle＿Event/Title",
+            "text": "スペシャルバトルイベントタイトル（仮）",
+            "zh": "特别战斗活动标题（暂定）",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPBattle＿Event/Title"
+        },
+        {
+            "location": "260/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Day/GrayOut/Text",
+            "text": "未解禁",
+            "zh": "未解锁",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Day/GrayOut/Text"
+        },
+        {
+            "location": "261/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Day/Reward/Comp/Comp_back/Text",
+            "text": "獲得済",
+            "zh": "已获得",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Day/Reward/Comp/Comp_back/Text"
+        },
+        {
+            "location": "262/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Day/Text_EventNo",
+            "text": "001　スペシャルイベント（仮）",
+            "zh": "001　特别活动（暂定）",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Day/Text_EventNo"
+        },
+        {
+            "location": "263/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Day/Title",
+            "text": "スペシャルイベントタイトル（仮）",
+            "zh": "特别活动标题（暂定）",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Day/Title"
+        },
+        {
+            "location": "264/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Day/panel_bottom/Date",
+            "text": "9999年99月99日",
+            "zh": "9999年99月99日",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Day/panel_bottom/Date"
+        },
+        {
+            "location": "265/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/GrayOut/Joken/LogoImage/Text_Joken",
+            "text": "条件",
+            "zh": "条件",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/GrayOut/Joken/LogoImage/Text_Joken"
+        },
+        {
+            "location": "266/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/GrayOut/Joken/Text_Joken",
+            "text": "あいうえおかきくけこさしすせそたちつ\nあいうえおかきくけこさしすせそたちつ\n",
+            "zh": "测试字符测试字符测试字符测试字符测试字符\n测试字符测试字符测试字符测试字符测试字符\n",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/GrayOut/Joken/Text_Joken"
+        },
+        {
+            "location": "267/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/GrayOut/Text",
+            "text": "未解禁",
+            "zh": "未解锁",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/GrayOut/Text"
+        },
+        {
+            "location": "268/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/Reward/Comp/Comp_back/Text",
+            "text": "獲得済",
+            "zh": "已获得",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/Reward/Comp/Comp_back/Text"
+        },
+        {
+            "location": "269/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/Text_EventNo",
+            "text": "001　スペシャルイベント（仮）",
+            "zh": "001　特别活动（暂定）",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/Text_EventNo"
+        },
+        {
+            "location": "270/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/Title",
+            "text": "スペシャルイベントタイトル（仮）",
+            "zh": "特别活动标题（暂定）",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/Title"
+        },
+        {
+            "location": "271/UI",
+            "narrator": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/panel_bottom/Date",
+            "text": "9999年99月99日",
+            "zh": "9999年99月99日",
+            "narrator_zh": "MemorySelectWindow/01_Special/ScrollView/Viewport/ScrollContent/Panel_SPEvent_Night/panel_bottom/Date"
+        },
+        {
+            "location": "272/UI",
+            "narrator": "MemorySelectWindow/01_Special/Tab1/Actives/TextA",
+            "text": "エピソード",
+            "zh": "篇章",
+            "narrator_zh": "MemorySelectWindow/01_Special/Tab1/Actives/TextA"
+        },
+        {
+            "location": "273/UI",
+            "narrator": "MemorySelectWindow/01_Special/Tab1/Actives/TextB",
+            "text": "EPISODE",
+            "zh": "EPISODE",
+            "narrator_zh": "MemorySelectWindow/01_Special/Tab1/Actives/TextB"
+        },
+        {
+            "location": "274/UI",
+            "narrator": "MemorySelectWindow/01_Special/Tab1/Sleeps/TextA",
+            "text": "エピソード",
+            "zh": "篇章",
+            "narrator_zh": "MemorySelectWindow/01_Special/Tab1/Sleeps/TextA"
+        },
+        {
+            "location": "275/UI",
+            "narrator": "MemorySelectWindow/01_Special/Tab1/Sleeps/TextB",
+            "text": "EPISODE",
+            "zh": "EPISODE",
+            "narrator_zh": "MemorySelectWindow/01_Special/Tab1/Sleeps/TextB"
+        },
+        {
+            "location": "276/UI",
+            "narrator": "MemorySelectWindow/01_Special/Tab2/Actives/TextA",
+            "text": "スペシャル",
+            "zh": "特别篇",
+            "narrator_zh": "MemorySelectWindow/01_Special/Tab2/Actives/TextA"
+        },
+        {
+            "location": "277/UI",
+            "narrator": "MemorySelectWindow/01_Special/Tab2/Actives/TextB",
+            "text": "SPECIAL",
+            "zh": "SPECIAL",
+            "narrator_zh": "MemorySelectWindow/01_Special/Tab2/Actives/TextB"
+        },
+        {
+            "location": "278/UI",
+            "narrator": "MemorySelectWindow/01_Special/Tab2/Sleeps/TextA",
+            "text": "スペシャル",
+            "zh": "特别篇",
+            "narrator_zh": "MemorySelectWindow/01_Special/Tab2/Sleeps/TextA"
+        },
+        {
+            "location": "279/UI",
+            "narrator": "MemorySelectWindow/01_Special/Tab2/Sleeps/TextB",
+            "text": "SPECIAL",
+            "zh": "SPECIAL",
+            "narrator_zh": "MemorySelectWindow/01_Special/Tab2/Sleeps/TextB"
+        },
+        {
+            "location": "280/UI",
+            "narrator": "MemorySelectWindow/01_Special/Title_CharaName",
+            "text": "EPISODE",
+            "zh": "EPISODE",
+            "narrator_zh": "MemorySelectWindow/01_Special/Title_CharaName"
+        },
+        {
+            "location": "281/UI",
+            "narrator": "MemorySelectWindow/01_Special/Title_Main",
+            "text": "思い出",
+            "zh": "回忆",
+            "narrator_zh": "MemorySelectWindow/01_Special/Title_Main"
+        }
+    ]
 }

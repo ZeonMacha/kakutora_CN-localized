@@ -1,204 +1,224 @@
 {
- "dir": "2a3f57a2fb59eb343a702a8553e276e0",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "1/UI",
-   "narrator": "OptionWindow/Panel/Processing/Text",
-   "text": "処理中"
-  },
-  {
-   "location": "2/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_BGM/Text",
-   "text": "BGM"
-  },
-  {
-   "location": "3/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/Text",
-   "text": "R以上を合成素材にするとき確認する",
-   "zh": "将R以上作为合成素材时确认",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/Text"
-  },
-  {
-   "location": "4/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/Text",
-   "text": "スクリーンセーバーを有効にする",
-   "zh": "启用屏保",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/Text"
-  },
-  {
-   "location": "5/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/Text",
-   "text": "ピックアップアタック演出を表示する",
-   "zh": "显示精选攻击演出",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/Text"
-  },
-  {
-   "location": "6/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/Text",
-   "text": "行動力が全回復したときに通知する",
-   "zh": "行动力全满时通知",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/Text"
-  },
-  {
-   "location": "7/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/TextCap",
-   "text": "使用することで電池消費を軽減できます。",
-   "zh": "使用后可以减轻耗电。",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/TextCap"
-  },
-  {
-   "location": "8/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D2/SecText",
-   "text": "1分28秒後"
-  },
-  {
-   "location": "9/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D2/Text",
-   "text": "Lv2以上を合成素材にするとき確認する",
-   "zh": "将Lv2以上作为合成素材时确认",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D2/Text"
-  },
-  {
-   "location": "10/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D2/Text",
-   "text": "キズナアタック演出を表示する",
-   "zh": "显示羁绊攻击演出",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D2/Text"
-  },
-  {
-   "location": "11/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D2/Text",
-   "text": "運営からの通知を受け取る",
-   "zh": "接收运营方通知",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D2/Text"
-  },
-  {
-   "location": "12/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/Text",
-   "text": "パフォーマンス",
-   "zh": "性能",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/Text"
-  },
-  {
-   "location": "13/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/Text",
-   "text": "フリック精度",
-   "zh": "滑动精度",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/Text"
-  },
-  {
-   "location": "14/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/Text",
-   "text": "フレンドからの通知を受け取る",
-   "zh": "接收来自好友的通知",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/Text"
-  },
-  {
-   "location": "15/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/TextCap",
-   "text": "パフォーマンスを下げると電池消費を抑えますが、動きの滑らかさが低下します。",
-   "zh": "降低性能可以减少耗电，但动作会变得不那么流畅。",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/TextCap"
-  },
-  {
-   "location": "16/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/TextCap",
-   "text": "値を小さくするほど、フリックとして認識されやすくなります。",
-   "zh": "数值越小，越容易被识别为滑动。",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/TextCap"
-  },
-  {
-   "location": "17/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D4 /SecText",
-   "text": "60fps"
-  },
-  {
-   "location": "18/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D5/Text",
-   "text": "HOME待機中パフォーマンスを下げる",
-   "zh": "降低HOME待机时的性能",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D5/Text"
-  },
-  {
-   "location": "19/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D5/TextCap",
-   "text": "HOME画面で指定時間操作が無かった場合、描画を抑えて電池消費を軽減します。",
-   "zh": "在HOME画面超过指定时间没有操作时，会降低渲染以减少耗电。",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D5/TextCap"
-  },
-  {
-   "location": "20/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D6/SecText",
-   "text": "1分28秒後"
-  },
-  {
-   "location": "21/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_SE/Text",
-   "text": "SE"
-  },
-  {
-   "location": "22/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_VOICE/Text",
-   "text": "VOICE"
-  },
-  {
-   "location": "23/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_BattleEffect/Text",
-   "text": "バ ト ル 演 出",
-   "zh": "战 斗 演 出",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_BattleEffect/Text"
-  },
-  {
-   "location": "24/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_Dialog/Text",
-   "text": "ダ イ ア ロ グ 表 示",
-   "zh": "对 话 显 示",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_Dialog/Text"
-  },
-  {
-   "location": "25/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_Onryo/Text",
-   "text": "音 量 調 節"
-  },
-  {
-   "location": "26/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_Push/Text",
-   "text": "プ ッ シ ュ 通 知",
-   "zh": "推 送 通 知",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_Push/Text"
-  },
-  {
-   "location": "27/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_SCSaver/Text",
-   "text": "ユ　ー　ザ　ビ　リ　テ　ィ",
-   "zh": "用　户　活　跃　度",
-   "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_SCSaver/Text"
-  },
-  {
-   "location": "28/UI",
-   "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_SCSaver/Text",
-   "text": "省　電　力"
-  },
-  {
-   "location": "29/UI",
-   "narrator": "OptionWindow/Panel/TopBar/Panel/BackButton/Text",
-   "text": "閉じる",
-   "zh": "关闭",
-   "narrator_zh": "OptionWindow/Panel/TopBar/Panel/BackButton/Text"
-  },
-  {
-   "location": "30/UI",
-   "narrator": "OptionWindow/Panel/TopBar/Panel/CharaName",
-   "text": "システム設定",
-   "zh": "系统设置",
-   "narrator_zh": "OptionWindow/Panel/TopBar/Panel/CharaName"
-  },
-  {
-   "location": "31/UI",
-   "narrator": "OptionWindow/Panel/TopBar/Panel/Text",
-   "text": "S Y S T E M  P R E F E R R E N C E S"
-  }
- ]
+    "dir": "2a3f57a2fb59eb343a702a8553e276e0",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "1/UI",
+            "narrator": "OptionWindow/Panel/Processing/Text",
+            "text": "処理中",
+            "zh": "处理中",
+            "narrator_zh": "OptionWindow/Panel/Processing/Text"
+        },
+        {
+            "location": "2/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_BGM/Text",
+            "text": "BGM",
+            "zh": "BGM",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_BGM/Text"
+        },
+        {
+            "location": "3/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/Text",
+            "text": "R以上を合成素材にするとき確認する",
+            "zh": "将R以上作为合成素材时确认",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/Text"
+        },
+        {
+            "location": "4/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/Text",
+            "text": "スクリーンセーバーを有効にする",
+            "zh": "启用屏保",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/Text"
+        },
+        {
+            "location": "5/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/Text",
+            "text": "ピックアップアタック演出を表示する",
+            "zh": "显示精选攻击演出",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/Text"
+        },
+        {
+            "location": "6/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/Text",
+            "text": "行動力が全回復したときに通知する",
+            "zh": "行动力全满时通知",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/Text"
+        },
+        {
+            "location": "7/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/TextCap",
+            "text": "使用することで電池消費を軽減できます。",
+            "zh": "使用后可以减轻耗电。",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D1/TextCap"
+        },
+        {
+            "location": "8/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D2/SecText",
+            "text": "1分28秒後",
+            "zh": "1分28秒后",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D2/SecText"
+        },
+        {
+            "location": "9/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D2/Text",
+            "text": "Lv2以上を合成素材にするとき確認する",
+            "zh": "将Lv2以上作为合成素材时确认",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D2/Text"
+        },
+        {
+            "location": "10/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D2/Text",
+            "text": "キズナアタック演出を表示する",
+            "zh": "显示羁绊攻击演出",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D2/Text"
+        },
+        {
+            "location": "11/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D2/Text",
+            "text": "運営からの通知を受け取る",
+            "zh": "接收运营方通知",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D2/Text"
+        },
+        {
+            "location": "12/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/Text",
+            "text": "パフォーマンス",
+            "zh": "性能",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/Text"
+        },
+        {
+            "location": "13/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/Text",
+            "text": "フリック精度",
+            "zh": "滑动精度",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/Text"
+        },
+        {
+            "location": "14/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/Text",
+            "text": "フレンドからの通知を受け取る",
+            "zh": "接收来自好友的通知",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/Text"
+        },
+        {
+            "location": "15/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/TextCap",
+            "text": "パフォーマンスを下げると電池消費を抑えますが、動きの滑らかさが低下します。",
+            "zh": "降低性能可以减少耗电，但动作会变得不那么流畅。",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/TextCap"
+        },
+        {
+            "location": "16/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/TextCap",
+            "text": "値を小さくするほど、フリックとして認識されやすくなります。",
+            "zh": "数值越小，越容易被识别为滑动。",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D3/TextCap"
+        },
+        {
+            "location": "17/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D4 /SecText",
+            "text": "60fps",
+            "zh": "60fps",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D4 /SecText"
+        },
+        {
+            "location": "18/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D5/Text",
+            "text": "HOME待機中パフォーマンスを下げる",
+            "zh": "降低HOME待机时的性能",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D5/Text"
+        },
+        {
+            "location": "19/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D5/TextCap",
+            "text": "HOME画面で指定時間操作が無かった場合、描画を抑えて電池消費を軽減します。",
+            "zh": "在HOME画面超过指定时间没有操作时，会降低渲染以减少耗电。",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D5/TextCap"
+        },
+        {
+            "location": "20/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D6/SecText",
+            "text": "1分28秒後",
+            "zh": "1分28秒后",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_D6/SecText"
+        },
+        {
+            "location": "21/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_SE/Text",
+            "text": "SE",
+            "zh": "SE",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_SE/Text"
+        },
+        {
+            "location": "22/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_VOICE/Text",
+            "text": "VOICE",
+            "zh": "VOICE",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_I_VOICE/Text"
+        },
+        {
+            "location": "23/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_BattleEffect/Text",
+            "text": "バ ト ル 演 出",
+            "zh": "战 斗 演 出",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_BattleEffect/Text"
+        },
+        {
+            "location": "24/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_Dialog/Text",
+            "text": "ダ イ ア ロ グ 表 示",
+            "zh": "对 话 显 示",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_Dialog/Text"
+        },
+        {
+            "location": "25/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_Onryo/Text",
+            "text": "音 量 調 節",
+            "zh": "音 量 调 节",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_Onryo/Text"
+        },
+        {
+            "location": "26/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_Push/Text",
+            "text": "プ ッ シ ュ 通 知",
+            "zh": "推 送 通 知",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_Push/Text"
+        },
+        {
+            "location": "27/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_SCSaver/Text",
+            "text": "ユ　ー　ザ　ビ　リ　テ　ィ",
+            "zh": "用　户　活　跃　度",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_SCSaver/Text"
+        },
+        {
+            "location": "28/UI",
+            "narrator": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_SCSaver/Text",
+            "text": "省　電　力",
+            "zh": "节　能　模　式",
+            "narrator_zh": "OptionWindow/Panel/Scroll View/Viewport/Content/Panel_T_SCSaver/Text"
+        },
+        {
+            "location": "29/UI",
+            "narrator": "OptionWindow/Panel/TopBar/Panel/BackButton/Text",
+            "text": "閉じる",
+            "zh": "关闭",
+            "narrator_zh": "OptionWindow/Panel/TopBar/Panel/BackButton/Text"
+        },
+        {
+            "location": "30/UI",
+            "narrator": "OptionWindow/Panel/TopBar/Panel/CharaName",
+            "text": "システム設定",
+            "zh": "系统设置",
+            "narrator_zh": "OptionWindow/Panel/TopBar/Panel/CharaName"
+        },
+        {
+            "location": "31/UI",
+            "narrator": "OptionWindow/Panel/TopBar/Panel/Text",
+            "text": "S Y S T E M  P R E F E R R E N C E S",
+            "zh": "S Y S T E M  P R E F E R R E N C E S",
+            "narrator_zh": "OptionWindow/Panel/TopBar/Panel/Text"
+        }
+    ]
 }

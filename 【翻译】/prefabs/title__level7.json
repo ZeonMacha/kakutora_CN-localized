@@ -1,52 +1,56 @@
 {
- "dir": "level7",
- "type": "prefabs",
- "info": {},
- "entry": [
-  {
-   "location": "16/UI",
-   "narrator": "Canvas/Panel/Background/statusbar/Message",
-   "text": "ステータス",
-   "zh": "状态",
-   "narrator_zh": "Canvas/Panel/Background/statusbar/Message"
-  },
-  {
-   "location": "25/UI",
-   "narrator": "Canvas/Panel/Temporary/BackButton/Text",
-   "text": "戻る",
-   "zh": "返回",
-   "narrator_zh": "Canvas/Panel/Temporary/BackButton/Text"
-  },
-  {
-   "location": "26/UI",
-   "narrator": "Canvas/Panel/Temporary/DebugButton/Text",
-   "text": "DEBUG"
-  },
-  {
-   "location": "27/UI",
-   "narrator": "Canvas/Panel/Temporary/FullScreenButton/Text",
-   "text": "フルスクリーン",
-   "zh": "全屏",
-   "narrator_zh": "Canvas/Panel/Temporary/FullScreenButton/Text"
-  },
-  {
-   "location": "28/UI",
-   "narrator": "Canvas/Panel/Temporary/PlayButton/Text",
-   "text": "▼"
-  },
-  {
-   "location": "29/UI",
-   "narrator": "Canvas/Panel/Temporary/TopBar/Panel/TitleMain",
-   "text": "シネマ・トライナリー",
-   "zh": "影像三重奏",
-   "narrator_zh": "Canvas/Panel/Temporary/TopBar/Panel/TitleMain"
-  },
-  {
-   "location": "30/UI",
-   "narrator": "Canvas/Panel/Temporary/TopBar/Panel/TitleSub/Text",
-   "text": "スタンダードスタイル",
-   "zh": "标准风格",
-   "narrator_zh": "Canvas/Panel/Temporary/TopBar/Panel/TitleSub/Text"
-  }
- ]
+    "dir": "level7",
+    "type": "prefabs",
+    "info": {},
+    "entry": [
+        {
+            "location": "16/UI",
+            "narrator": "Canvas/Panel/Background/statusbar/Message",
+            "text": "ステータス",
+            "zh": "状态",
+            "narrator_zh": "Canvas/Panel/Background/statusbar/Message"
+        },
+        {
+            "location": "25/UI",
+            "narrator": "Canvas/Panel/Temporary/BackButton/Text",
+            "text": "戻る",
+            "zh": "返回",
+            "narrator_zh": "Canvas/Panel/Temporary/BackButton/Text"
+        },
+        {
+            "location": "26/UI",
+            "narrator": "Canvas/Panel/Temporary/DebugButton/Text",
+            "text": "DEBUG",
+            "zh": "DEBUG",
+            "narrator_zh": "Canvas/Panel/Temporary/DebugButton/Text"
+        },
+        {
+            "location": "27/UI",
+            "narrator": "Canvas/Panel/Temporary/FullScreenButton/Text",
+            "text": "フルスクリーン",
+            "zh": "全屏",
+            "narrator_zh": "Canvas/Panel/Temporary/FullScreenButton/Text"
+        },
+        {
+            "location": "28/UI",
+            "narrator": "Canvas/Panel/Temporary/PlayButton/Text",
+            "text": "▼",
+            "zh": "▼",
+            "narrator_zh": "Canvas/Panel/Temporary/PlayButton/Text"
+        },
+        {
+            "location": "29/UI",
+            "narrator": "Canvas/Panel/Temporary/TopBar/Panel/TitleMain",
+            "text": "シネマ・トライナリー",
+            "zh": "影像三重奏",
+            "narrator_zh": "Canvas/Panel/Temporary/TopBar/Panel/TitleMain"
+        },
+        {
+            "location": "30/UI",
+            "narrator": "Canvas/Panel/Temporary/TopBar/Panel/TitleSub/Text",
+            "text": "スタンダードスタイル",
+            "zh": "标准风格",
+            "narrator_zh": "Canvas/Panel/Temporary/TopBar/Panel/TitleSub/Text"
+        }
+    ]
 }
